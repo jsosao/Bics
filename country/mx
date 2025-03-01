@@ -149,13 +149,6 @@
 }
 
 {
-    Title: "Telemundo Intl"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/telemundo_intl.png"
-    Stream: "https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8"
-}
-
-{
     Title: "MILENIO"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/milenio.png"
@@ -312,31 +305,30 @@
 {
     Title: "GTO: Canal 4.1"
     streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/gro_canal_4_1.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/gto_canal_4_1.png"
     Stream: "https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8"
 }
 
 {
     Title: "GTO: Canal 4.2"
     streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/gro_canal_4_2.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/gto_canal_4_2.png"
     Stream: "https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8"
 }
 
 {
     Title: "GTO: Canal 4.3"
     streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/gro_canal_4_3.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/gto_canal_4_3.png"
     Stream: "https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8"
 }
 
 {
     Title: "GTO: Canal 4.4"
     streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/gro_canal_4_4.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/gto_canal_4_4.png"
     Stream: "https://5ca3e84a76d30.streamlock.net/tv44gto/smil:tv44gto.smil/playlist.m3u8"
 }
-
 
 {
     Title: "JAL: Multimedios Gdl"
@@ -358,7 +350,6 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/nl_canal_28.png"
     Stream: "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
 }
-
 
 {
     Title: "NL: Multimedios Mty"
