@@ -1,7 +1,15 @@
 {   
-    Title: "Canal 57"
+    Title: "EU: Canal 57"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/canal_57.png"
     Stream: "https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8"
+}
+
+{   
+    Title: "EC: Ecuador TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ec_ecuadortv.png"
+    Stream: "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8"
 }
