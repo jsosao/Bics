@@ -1,4 +1,60 @@
 {   
+    Title: "EU: FOX SPORTS TUBI"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tsn_1.png"
+    Stream: "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8"
+}
+
+{   
+    Title: "MX: FOX SPORTS TUBI"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tsn_1.png"
+    Stream: "https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/index_1.m3u8"
+}
+
+{   
+    Title: "MX: CANELA DEPORTES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tsn_1.png"
+    Stream: "https://amg00658-amg00658c28-canelatv-international-5109.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deportesltta-canelatvinternational/playlist.m3u8"
+}
+
+{   
+    Title: "MX: INTERNETV DEPORTES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tsn_1.png"
+    Stream: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999"
+}
+
+{   
+    Title: "MX: AYM SPORTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tsn_1.png"
+    Stream: "https://aym-as.otteravision.com/aym/as/as_1080p.m3u8"
+}
+
+{   
+    Title: "MX: AYM SPORTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tsn_1.png"
+    Stream: "https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8"
+}
+
+{   
+    Title: "MX: CLARO SPORTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tsn_1.png"
+    Stream: "https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8"
+}
+
+{   
     Title: "TSN 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
