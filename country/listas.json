@@ -6,8 +6,8 @@
       "longDescription": "Canales de México Nacionales y Regionales",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/country/mexico.png",
       "releaseDate": "2020-01-15",
-      "id": "shortform-roku-streaming-overview",
-      "shortDescription": "Descripción corta",
+      "id": "México",
+      "shortDescription": "México",
       "title": "México",
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/mx"      
     },
@@ -16,8 +16,8 @@
       "longDescription": "Canales de Estados Unidos Nacionales y Regionales",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/country/eeuu.png",
       "releaseDate": "2020-01-15",
-      "id": "shortform-roku-streaming-overview",
-      "shortDescription": "Descripción corta",
+      "id": "Estados Unidos",
+      "shortDescription": "Estados Unidos",
       "title": "Estados Unidos",
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/eeuu"      
     },
@@ -26,8 +26,8 @@
       "longDescription": "Canales de Canada Nacionales y Regionales",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/country/ca.png",
       "releaseDate": "2020-01-15",
-      "id": "shortform-roku-streaming-overview",
-      "shortDescription": "Descripción corta",
+      "id": "Canada",
+      "shortDescription": "Canada",
       "title": "Canada",
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/ca"      
     },
@@ -36,156 +36,32 @@
       "longDescription": "Canales Deportivos",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports.png",
       "releaseDate": "2020-01-15",
-      "id": "shortform-roku-streaming-overview",
-      "shortDescription": "Descripción corta",
+      "id": "Deportes",
+      "shortDescription": "Deportes",
       "title": "Deportes",
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports"      
     },
 
-       {
-      "longDescription": "Canales de LATAN Nacionales y Regionales",
+   {
+      "longDescription": "Canales de LATAM Nacionales y Regionales",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/country/latam.png",
       "releaseDate": "2020-01-15",
-      "id": "shortform-roku-streaming-overview",
-      "shortDescription": "Descripción corta",
+      "id": "LATAM",
+      "shortDescription": "LATAM",
       "title": "LATAM",
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/latam"      
     },
 
-  
-  {
-      "longDescription": "Canales de México Nacionales y Regionales",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/country/eeuu.png",
+     {
+      "longDescription": "NHL Pass",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/country/nhl.png",
       "releaseDate": "2020-01-15",
-      "genres": [
-        "educational"
-      ],
-      "tags": [
-        "getting-started"
-      ],
-      "id": "shortform-roku-streaming-overview",
-      "shortDescription": "Descripción corta",
-      "title": "México",
-      "content": {
-        "duration": 1,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "https://image.roku.com/ZHZscHItMTc2/roku-streaming-overview-v3.mp4",
-            "quality": "HD"
-          }
-        ],
-        "language": "en-us",
-        "dateAdded": "2020-01-15T02:39:11Z"
-      }
-    },
-
-  {
-      "longDescription": "Canales de México Nacionales y Regionales",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/country/canada.png",
-      "releaseDate": "2020-01-15",
-      "genres": [
-        "educational"
-      ],
-      "tags": [
-        "getting-started"
-      ],
-      "id": "shortform-roku-streaming-overview",
-      "shortDescription": "Descripción corta",
-      "title": "México",
-      "content": {
-        "duration": 1,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "https://image.roku.com/ZHZscHItMTc2/roku-streaming-overview-v3.mp4",
-            "quality": "HD"
-          }
-        ],
-        "language": "en-us",
-        "dateAdded": "2020-01-15T02:39:11Z"
-      }
-    },
-{
-      "longDescription": "Canales de México Nacionales y Regionales",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/country/nba.png",
-      "releaseDate": "2020-01-15",
-      "genres": [
-        "educational"
-      ],
-      "tags": [
-        "getting-started"
-      ],
-      "id": "shortform-roku-streaming-overview",
-      "shortDescription": "Descripción corta",
-      "title": "México",
-      "content": {
-        "duration": 1,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "https://image.roku.com/ZHZscHItMTc2/roku-streaming-overview-v3.mp4",
-            "quality": "HD"
-          }
-        ],
-        "language": "en-us",
-        "dateAdded": "2020-01-15T02:39:11Z"
-      }
-    },
-    {
-      "longDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity. See how developing for the Roku platform is free and easy. There's no cost to enroll in the Roku developer program, develop channels, or publish them to the Roku Channel Store, which is Roku's app marketplace. The Roku channel UI is defined with SceneGraph, Roku's object-oriented UI XML framework, and the channel behavior is defined using BrightScript, which is Roku's scripting language.",
-      "thumbnail": "https://image.roku.com/ZHZscHItMTc2/roku-overview.jpg",
-      "releaseDate": "2020-01-15",
-      "genres": [
-        "educational"
-      ],
-      "tags": [
-        "getting-started"
-      ],
-      "id": "shortform-roku-development-overview",
-      "shortDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity",
-      "title": "Roku Development Overview",
-      "content": {
-        "duration": 248,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "https://image.roku.com/ZHZscHItMTc2/roku-overview.mp4",
-            "quality": "HD"
-          }
-        ],
-        "language": "en-us",
-        "dateAdded": "2020-01-29T02:39:11Z"
-      }
+      "id": "NHL",
+      "shortDescription": "NHL",
+      "title": "NHL Pass",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/nhl"      
     },
    
-  {
-      "longDescription": "Steps for enabling Developer Mode on a Roku device",
-      "thumbnail": "https://image.roku.com/ZHZscHItMTc2/enable-developer-mode-v1b.png",
-      "releaseDate": "2020-01-17",
-      "genres": [
-        "educational"
-      ],
-      "tags": [
-        "getting-started"
-      ],
-      "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
-      "shortDescription": "Steps for enabling Developer Mode on a Roku device",
-      "title": "Enabling Developer Mode",
-      "content": {
-        "duration": 120,
-        "videos": [
-          {
-            "videoType": "DASH",
-            "url": "https://ovp-selector.sr.roku.com/v1/12cdcf33-58e7-46a6-bbbf-cbb5c5fec500?format=dash",
-            "quality": "HD"
-          }
-    
-],
-        "language": "en-us",
-        "dateAdded": "2020-01-29T02:39:11Z"
-      }
-    },
     {
       "longDescription": "Video highlighting Direct to Play and Enhanced Voice Control features",
       "thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/images/VoiceFeatures.jpg",
