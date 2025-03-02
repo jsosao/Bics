@@ -454,5 +454,237 @@
     Stream: "http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8"
 }
 
+{   
+    Title: "EU: ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Stream: "http://fl2.moveonjoy.com/ESPN/index.m3u8"
+}
+
+{   
+    Title: "EU: ESPN 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
+    Stream: "http://fl2.moveonjoy.com/ESPN_2/index.m3u8"
+}
+
+{   
+    Title: "EU: ESPN NEWS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
+    Stream: "http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8"
+}
+
+{   
+    Title: "EU: ESPN U"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_u.png"
+    Stream: "http://fl2.moveonjoy.com/ESPN_U/index.m3u8"
+}
+
+{   
+    Title: "EU: ESPN NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_network.png"
+    Stream: "http://fl2.moveonjoy.com/ESPN_NETWORK/index.m3u8"
+}
+
+{   
+    Title: "FOOD NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8"
+}
+
+{   
+    Title: "FOX EAST"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl2.moveonjoy.com/FOX_EAST/index.m3u8"
+}
+
+{   
+    Title: "FOX BUSSINESS NET"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8"
+}
+
+{   
+    Title: "FOX NEWS CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8"
+}
+
+{   
+    Title: "FOX SPORTS 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8"
+}
+
+{   
+    Title: "FOX SPORTS 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8"
+}
+
+{   
+    Title: "FOX SOUL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8"
+}
+
+{   
+    Title: "FREE FORM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl2.moveonjoy.com/FREE_FORM/index.m3u8"
+}
+
+{   
+    Title: "FUSE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl2.moveonjoy.com/FUSE/index.m3u8"
+}
+
+{   
+    Title: "FX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl2.moveonjoy.com/FX/index.m3u8"
+}
+
+{   
+    Title: "FX MOVIE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8"
+}
+
+{   
+    Title: "FXX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl2.moveonjoy.com/FXX/index.m3u8"
+}
+
+{   
+    Title: "FYI"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl5.moveonjoy.com/FYI/index.m3u8"
+}
+
+{   
+    Title: "GOLF CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8"
+}
+
+{   
+    Title: "HALLMARK CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8"
+}
+
+{   
+    Title: "HALLMARK DRAMA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8"
+}
+
+{   
+    Title: "HBO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl5.moveonjoy.com/HBO/index.m3u8"
+}
+
+{   
+    Title: "HBO 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl5.moveonjoy.com/HBO_2/index.m3u8"
+}
+
+{   
+    Title: "HBO COMEDY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8"
+}
+
+{   
+    Title: "HBO FAMILY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8"
+}
+
+{   
+    Title: "HBO ZONE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8"
+}
+
+{   
+    Title: "HGTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl5.moveonjoy.com/HGTV/index.m3u8"
+}
+
+{   
+    Title: "HLN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl2.moveonjoy.com/HLN/index.m3u8"
+}
+
+{   
+    Title: "HSN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Stream: "http://fl2.moveonjoy.com/HSN/index.m3u8"
+}
+
 
 
