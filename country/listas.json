@@ -101,44 +101,15 @@
       "title": "NFL Pass",
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/nfl"      
     },
-  
+
     {
-      "longDescription": "Video highlighting Direct to Play and Enhanced Voice Control features",
-      "thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/images/VoiceFeatures.jpg",
-      "releaseDate": "2020-01-17",
-      "genres": [
-        "educational"
-      ],
-      "tags": [
-        "feature"
-      ],
-      "id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
-      "shortDescription": "Video highlighting Direct to Play and Enhanced Voice Control features",
-      "title": "Voice Features",
-      "content": {
-        "duration": 98,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "https://image.roku.com/ZHZscHItMTc2/roku-voice-demo-v4.mp4",
-            "quality": "HD"
-          }
-        ],
-        "language": "en-us",
-        "dateAdded": "2020-01-29T02:39:12Z",
-        "captions": [
-          {
-            "language": "en",
-            "captionType": "CLOSED_CAPTION",
-            "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.srt"
-          },
-          {
-            "language": "en",
-            "captionType": "CLOSED_CAPTION",
-            "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.vtt"
-          }
-        ]
-      }
+      "longDescription": "Música Stingray",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/country/music.png",
+      "releaseDate": "2020-01-15",
+      "id": "Stingray",
+      "shortDescription": "Stingray",
+      "title": "Stingray",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/music"      
     }
   ]
 }
