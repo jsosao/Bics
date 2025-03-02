@@ -18,7 +18,7 @@
     Title: "CBS ESTE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cbs.png"
     Stream: "http://fl2.moveonjoy.com/CBSEAST/index.m3u8"
 }
 
@@ -50,7 +50,7 @@
     Title: "Antenna"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/antennatv.png"
     Stream: "http://fl3.moveonjoy.com/Antenna/index.m3u8"
 }
 
@@ -58,7 +58,7 @@
     Title: "Aspire"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/aspire.png"
     Stream: "http://fl3.moveonjoy.com/Aspire/index.m3u8"
 }
 
@@ -66,7 +66,7 @@
     Title: "BBC AMERICA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/bbc_america.png"
     Stream: "http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8"
 }
 
@@ -74,7 +74,7 @@
     Title: "BBC WORLD NEWS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/bbc_news.png"
     Stream: "http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8"
 }
 
@@ -82,48 +82,8 @@
     Title: "BEIN SPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/bein_sports.png"
     Stream: "http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8"
-}
-
-{   
-    Title: "BET EAST"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
-    Stream: "http://fl2.moveonjoy.com/BET_EAST/index.m3u8"
-}
-
-{   
-    Title: "BET GOSPEL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
-    Stream: "http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8"
-}
-
-{   
-    Title: "BET HER"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
-    Stream: "http://fl2.moveonjoy.com/BET_HER/index.m3u8"
-}
-
-{   
-    Title: "BET JAMS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
-    Stream: "http://fl3.moveonjoy.com/BET_Jams/index.m3u8"
-}
-
-{   
-    Title: "BET SOUL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
-    Stream: "http://fl2.moveonjoy.com/BET_SOUL/index.m3u8"
 }
 
 {   
@@ -138,7 +98,7 @@
     Title: "BLOOMBERG"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/bloomberg.png"
     Stream: "http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8"
 }
 
@@ -146,7 +106,7 @@
     Title: "BOOMERANG"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/boomerang.png"
     Stream: "http://fl3.moveonjoy.com/BOOMERANG/index.m3u8"
 }
 
@@ -186,7 +146,7 @@
     Title: "CARTOON NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cartoon_network.png"
     Stream: "http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8"
 }
 
@@ -194,7 +154,7 @@
     Title: "CBS SPORTS NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cbs_spports_network.png"
     Stream: "http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
 }
 
@@ -202,7 +162,7 @@
     Title: "CINEMAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cinemax.png"
     Stream: "http://fl5.moveonjoy.com/CINEMAX/index.m3u8"
 }
 
@@ -210,7 +170,7 @@
     Title: "CINEMAX EAST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cinemax.png"
     Stream: "http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8"
 }
 
@@ -218,7 +178,7 @@
     Title: "CINEMAX WEST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cinemax.png"
     Stream: "http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8"
 }
 
@@ -226,7 +186,7 @@
     Title: "CINEMAX MOREMAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cinemax_moremax.png"
     Stream: "http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8"
 }
 
@@ -562,7 +522,7 @@
     Title: "FX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/fx.png"
     Stream: "http://fl2.moveonjoy.com/FX/index.m3u8"
 }
 
@@ -570,7 +530,7 @@
     Title: "FX MOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/fxm.png"
     Stream: "http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8"
 }
 
@@ -578,7 +538,7 @@
     Title: "FXX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/fxx.png"
     Stream: "http://fl2.moveonjoy.com/FXX/index.m3u8"
 }
 
@@ -586,7 +546,7 @@
     Title: "FYI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/fyi.png"
     Stream: "http://fl5.moveonjoy.com/FYI/index.m3u8"
 }
 
@@ -607,10 +567,10 @@
 }
 
 {   
-    Title: "HALLMARK DRAMA"
+    Title: "HALLMARK FAMILY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hallmark_family.png"
     Stream: "http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8"
 }
 
