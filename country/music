@@ -45,3 +45,52 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
     Stream: "https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991118"
 }
+
+{   
+    Title: "MTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/mtv.png"
+    Stream: "http://fl2.moveonjoy.com/MTV/index.m3u8"
+}
+
+{   
+    Title: "MTV 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/mtv_2.png"
+    Stream: "http://fl2.moveonjoy.com/MTV_2/index.m3u8"
+}
+
+{   
+    Title: "MTV CLASSIC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/mtv_classic.png"
+    Stream: "http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8"
+}
+
+{   
+    Title: "MTV LIVE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/mtv_live.png"
+    Stream: "http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8"
+}
+
+{   
+    Title: "MTV U"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/mtv_u.png"
+    Stream: "http://fl2.moveonjoy.com/MTV_U/index.m3u8"
+}
+
+{   
+    Title: "VH1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/vh1.png"
+    Stream: "http://fl2.moveonjoy.com/VH1/index.m3u8"
+}
+
