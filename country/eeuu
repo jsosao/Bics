@@ -47,14 +47,6 @@
 }
 
 {   
-    Title: "Animal Planet"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/animal_planet.png"
-    Stream: "http://fl2.moveonjoy.com/Animal_Planet/index.m3u8"
-}
-
-{   
     Title: "Antenna"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -602,7 +594,7 @@
     Title: "GOLF CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/golf_channel.png"
     Stream: "http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8"
 }
 
@@ -610,7 +602,7 @@
     Title: "HALLMARK CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hallmark_channel.png"
     Stream: "http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8"
 }
 
@@ -626,7 +618,7 @@
     Title: "HBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo.png"
     Stream: "http://fl5.moveonjoy.com/HBO/index.m3u8"
 }
 
@@ -634,7 +626,7 @@
     Title: "HBO 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo_2.png"
     Stream: "http://fl5.moveonjoy.com/HBO_2/index.m3u8"
 }
 
@@ -642,7 +634,7 @@
     Title: "HBO COMEDY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo_comedy.png"
     Stream: "http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8"
 }
 
@@ -650,7 +642,7 @@
     Title: "HBO FAMILY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo_family.png"
     Stream: "http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8"
 }
 
@@ -658,7 +650,7 @@
     Title: "HBO ZONE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo_zone.png"
     Stream: "http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8"
 }
 
@@ -666,7 +658,7 @@
     Title: "HGTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hgtv.png"
     Stream: "http://fl5.moveonjoy.com/HGTV/index.m3u8"
 }
 
@@ -674,17 +666,11 @@
     Title: "HLN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hln.png"
     Stream: "http://fl2.moveonjoy.com/HLN/index.m3u8"
 }
 
-{   
-    Title: "HSN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_canal_25.png"
-    Stream: "http://fl2.moveonjoy.com/HSN/index.m3u8"
-}
+
 
 
 
