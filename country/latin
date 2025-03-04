@@ -13,3 +13,91 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ec_ecuadortv.png"
     Stream: "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8"
 }
+
+{   
+    Title: "PR: TELEMUNDO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo_pr.png"
+    Stream: "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
+}
+
+{   
+    Title: "PR: PUNTO 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/punto_2_pr.png"
+    Stream: "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8"
+}
+
+{   
+    Title: "GT: TV AZTECA GUATE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/azteca_guate.png"
+    Stream: "https://ch1-tva.duin.dev/hls/stream.m3u8"
+}
+
+{   
+    Title: "HN: CTV INTERNACIONAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ctv_internacional.png"
+    Stream: "https://mediacp.us:8081/ctvhn/index.m3u8"
+}
+
+{   
+    Title: "SV: CANAL 21"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/sv_canal_21.png"
+    Stream: "https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8"
+}
+
+{   
+    Title: "BO: CANAL 7.1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/bo_canal_7_1.png"
+    Stream: "https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8"
+}
+
+{   
+    Title: "BO: CANAL 7.2 DEPORTES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/bo_canal_7_1.png"
+    Stream: "https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8"
+}
+
+{   
+    Title: "BO: BOLIVISION"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/bo_bolivision.png"
+    Stream: "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8"
+}
+
+{   
+    Title: "VE: VPI TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ve_vpi_tv.png"
+    Stream: "https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8"
+}
+
+{   
+    Title: "VE: VENEVISION INTERNACIONAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ve_venevision.png"
+    Stream: "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1660000.m3u8"
+}
+
+{   
+    Title: "VE: TELECENTRO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ve_telecentro.png"
+    Stream: "https://streamtv.intervenhosting.net:3698/live/telecentrolive.m3u8"
+}
