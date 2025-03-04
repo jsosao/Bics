@@ -85,27 +85,11 @@
 }
 
 {   
-    Title: "Qello Concerts by Stingray"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
-    Stream: "https://i.mjh.nz/SamsungTVPlus/USBD3500024YB.m3u8"
-}
-
-{   
     Title: "Qello Concerts by Stingray (1080p)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
     Stream: "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8"
-}
-
-{   
-    Title: "Classic Rock"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
-    Stream: "https://i.mjh.nz/SamsungTVPlus/USBD35000180U.m3u8"
 }
 
 {   
@@ -117,27 +101,11 @@
 }
 
 {   
-    Title: "Classica"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
-    Stream: "https://i.mjh.nz/SamsungTVPlus/USBD350002623.m3u8"
-}
-
-{   
     Title: "Classica (1080p)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
     Stream: "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
-}
-
-{   
-    Title: "CMusic"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
-    Stream: "https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62fbf197c67d52bddf74cc87.m3u8"
 }
 
 {   
@@ -149,27 +117,11 @@
 }
 
 {   
-    Title: "DJAZZ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
-    Stream: "https://i.mjh.nz/SamsungTVPlus/USBD3500025GS.m3u8"
-}
-
-{   
     Title: "DJAZZ (1080p)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
     Stream: "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8"
-}
-
-{   
-    Title: "Easy Listening"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
-    Stream: "https://i.mjh.nz/SamsungTVPlus/USBD3500011J3.m3u8"
 }
 
 {   
@@ -181,11 +133,11 @@
 }
 
 {   
-    Title: "Flashback 70s"
+    Title: "Flashback 70s (1080p)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
-    Stream: "https://i.mjh.nz/SamsungTVPlus/USBD3500008IJ.m3u8"
+    Stream: "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8"
 }
 
 {   
@@ -196,18 +148,93 @@
     Stream: "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8"
 }
 
+{   
+    Title: "Smooth Jazz"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3022"
+}
 
+{   
+    Title: "Y2K"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3020"
+}
 
+{   
+    Title: "Today's K-Pop"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3018"
+}
 
+{   
+    Title: "Nothing' But 90s"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3028"
+}
 
+{   
+    Title: "Remember 80s"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://d1imh73yrie9zu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tqikpnjgwyvj8/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8"
+}
 
+{   
+    Title: "Flashback 70s"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://d30hccj9v28bt6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jp7qdac3e1wzj/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8"
+}
 
+{   
+    Title: "Classic Rock"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://d1gblbamdkwl5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rlxixsm66esse/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8"
+}
 
+{   
+    Title: "Éxitos del Momento"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3025"
+}
 
+{   
+    Title: "Pop Adult"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3023"
+}
 
+{   
+    Title: "Greatest Hits"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://d2ijgfgrz03rvu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l5gypvhxzqytm/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8"
+}
 
-
-
+{   
+    Title: "Hot Country"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://d33l69tlyxnc6j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o1stobjejuzbx/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8"
+}
 
 
 
