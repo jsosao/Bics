@@ -1,12 +1,4 @@
 {   
-    Title: "EU: FOX SPORTS TUBI"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/fox_deportes.png"
-    Stream: "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8"
-}
-
-{   
     Title: "MX: FOX SPORTS TUBI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -55,7 +47,15 @@
 }
 
 {   
-    Title: "ACC NETWORK"
+    Title: "US: FOX SPORTS TUBI"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/fox_deportes.png"
+    Stream: "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8"
+}
+
+{   
+    Title: "US: ACC NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/acc_network.png"
@@ -63,7 +63,7 @@
 }
 
 {   
-    Title: "BEIN SPORTS"
+    Title: "US: BEIN SPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/bein_sports.png"
@@ -71,7 +71,7 @@
 }
 
 {   
-    Title: "BIG TEN NETWORK"
+    Title: "US: BIG TEN NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/big_ten_network.png"
@@ -79,7 +79,7 @@
 }
 
 {   
-    Title: "CBS SPORTS NETWORK"
+    Title: "US: CBS SPORTS NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/cbs_spports_network.png"
@@ -87,7 +87,7 @@
 }
 
 {   
-    Title: "EU: ESPN"
+    Title: "US: ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
@@ -96,7 +96,7 @@
 }
 
 {   
-    Title: "EU: ESPN 2"
+    Title: "US: ESPN 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
@@ -104,7 +104,7 @@
 }
 
 {   
-    Title: "EU: ESPN NEWS"
+    Title: "US: ESPN NEWS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_news.png"
@@ -112,7 +112,7 @@
 }
 
 {   
-    Title: "EU: ESPN U"
+    Title: "US: ESPN U"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_u.png"
@@ -120,7 +120,7 @@
 }
 
 {   
-    Title: "EU: ESPN NETWORK"
+    Title: "US: ESPN NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_network.png"
@@ -128,7 +128,7 @@
 }
 
 {   
-    Title: "FOX SPORTS 1"
+    Title: "US: FOX SPORTS 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/fs1.png"
@@ -136,7 +136,7 @@
 }
 
 {   
-    Title: "FOX SPORTS 2"
+    Title: "US: FOX SPORTS 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/fs2.png"
@@ -144,7 +144,7 @@
 }
 
 {   
-    Title: "GOLF CHANNEL"
+    Title: "US: GOLF CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/golf_channel.png"
@@ -152,7 +152,7 @@
 }
 
 {   
-    Title: "MLB NETWORK"
+    Title: "US: MLB NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mlb_network.png"
@@ -160,7 +160,7 @@
 }
 
 {   
-    Title: "NBA TV"
+    Title: "US: NBA TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/nba_tv.png"
@@ -168,7 +168,7 @@
 }
 
 {   
-    Title: "NBC SPORT NET"
+    Title: "US: NBC SPORT NET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/nbc_sports_network.png"
@@ -176,7 +176,7 @@
 }
 
 {   
-    Title: "NFL NETWORK"
+    Title: "US: NFL NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/nfl_network.png"
@@ -184,7 +184,7 @@
 }
 
 {   
-    Title: "NHL NETWORK"
+    Title: "US: NHL NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/nhl_network.png"
@@ -192,7 +192,7 @@
 }
 
 {   
-    Title: "TENNIS CHANNEL"
+    Title: "US: TENNIS CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tennis_channel.png"
@@ -200,7 +200,7 @@
 }
 
 {   
-    Title: "UFC"
+    Title: "US: UFC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/ufc_network.png"
@@ -208,7 +208,7 @@
 }
 
 {   
-    Title: "WWE"
+    Title: "US: WWE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/wwe_network.png"
@@ -216,7 +216,7 @@
 }
 
 {   
-    Title: "YES NETWORK"
+    Title: "US: YES NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/yes_network.png"
