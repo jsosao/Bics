@@ -70,12 +70,6 @@
     Stream: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388"
 }
 
-
-
-
-
-
-
 {   
     Title: "Holidayscapes"
     streamFormat: "hls|mts"
@@ -235,6 +229,90 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
     Stream: "https://d33l69tlyxnc6j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o1stobjejuzbx/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8"
 }
+
+{   
+    Title: "Naturescape"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/1751200/manifest.m3u8"
+}
+
+{   
+    Title: "Loupe 4K"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8"
+}
+
+{   
+    Title: "Rock Alternative Live"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/86c450ed-9e6a-3c4f-9b87-08174d04fab6/690800/manifest.m3u8"
+}
+
+{   
+    Title: "Classic Rock Live"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/91f1e420-bb65-3ca7-97bd-d01df1ad4df1/690800/manifest.m3u8"
+}
+
+{   
+    Title: "K-Pop"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/7f580049-e104-34da-bf75-65c1708e6c1f/690800/manifest.m3u8"
+}
+  
+{   
+    Title: "Hit List"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/7f5c4019-53d1-3ece-aad4-eeab2919c146/690800/manifest.m3u8"
+}
+
+{   
+    Title: "Soul Storm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/33357341-efb9-3b26-b81b-f78a0f4b7617/690800/manifest.m3u8"
+}
+
+{   
+    Title: "CMusic"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/1751200/manifest.m3u8"
+}
+
+{   
+    Title: "Karaoke"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/c92ba6bd-21aa-39b1-8f4a-8d02bef17886/1751200/manifest.m3u8"
+}
+
+{   
+    Title: "Nothin' But 90s"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/f5102ca4-edd7-30ac-a357-877f60db023b/690800/manifest.m3u8"
+}
+
+
+
+
 
 
 
