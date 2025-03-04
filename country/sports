@@ -7,6 +7,14 @@
 }
 
 {   
+    Title: "MX: SKY SPORTS LA LIGA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sky_sports_laliga.png"
+    Stream: "http://181.78.105.146:2000/play/a08m/index.m3u8"
+}
+
+{   
     Title: "MX: CANELA DEPORTES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
