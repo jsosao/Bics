@@ -3,6 +3,7 @@
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/n+_foro.png"
     Stream: "https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true"
+    Live: true
 }
 
 {
@@ -10,6 +11,7 @@
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/adn_40.png"
     Stream: "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8"
+    Live: true
 }
 
 {
@@ -17,6 +19,7 @@
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/elfinanciero.png"
     Stream: "https://live-b2.cf.dmcdn.net/sec2(dx5reBazq6LpEGOOaoz8L2Ug0n9Nk-_FEwjay_04EcE_4E4uUtDttl12_UiMsltWOfh3FtYjJ1dGggA0z_s3GnW0VC8dLPGdTDhPM2wMHl1sS1IRcXVWanoSj3D3noMM)/cloud/3/x90qe0k/d/live-720.m3u8#cell=lcfb2"
+    Live: true
 }
 
 {
@@ -24,6 +27,7 @@
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/milenio.png"
     Stream: "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8"
+    Live: true
 }
 
 {
@@ -31,6 +35,7 @@
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cnn_espanol.png"
     Stream: "https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8"
+    Live: true
 }
 
 {
@@ -38,6 +43,7 @@
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/dw_espanol.png"
     Stream: "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8"
+    Live: true
 }
 
 {
@@ -45,6 +51,7 @@
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/france_espanol.png"
     Stream: "https://s5.mexside.net:1936/france24/france24/playlist.m3u8"
+    Live: true
 }
 
 {   
@@ -53,6 +60,7 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/bbc_america.png"
     Stream: "http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8"
+    Live: true
 }
 
 {   
@@ -61,6 +69,7 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/bbc_news.png"
     Stream: "http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8"
+    Live: true
 }
 
 {   
@@ -69,6 +78,7 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/bloomberg.png"
     Stream: "http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8"
+    Live: true
 }
 
 {   
@@ -77,6 +87,7 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/abc_canal_25.png"
     Stream: "http://fl2.moveonjoy.com/C-SPAN/index.m3u8"
+    Live: true
 }
 
 {   
@@ -85,6 +96,7 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/abc_canal_25.png"
     Stream: "http://fl2.moveonjoy.com/CNBC/index.m3u8"
+    Live: true
 }
 
 {   
@@ -93,6 +105,7 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/abc_canal_25.png"
     Stream: "http://fl2.moveonjoy.com/CNN/index.m3u8"
+    Live: true
 }
 
 {   
@@ -101,6 +114,7 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/abc_canal_25.png"
     Stream: "http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8"
+    Live: true
 }
 
 {   
@@ -109,6 +123,7 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/al_jazeera.png"
     Stream: "https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8"
+    Live: true
 }
 
 {   
@@ -117,6 +132,7 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/al_jazeera.png"
     Stream: "https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8"
+    Live: true
 }
 
 {   
@@ -125,6 +141,7 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/abc_canal_25.png"
     Stream: "http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8"
+    Live: true
 }
 
 {   
@@ -133,14 +150,7 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/abc_canal_25.png"
     Stream: "http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8"
-}
-
-{   
-    Title: "FOX SOUL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/abc_canal_25.png"
-    Stream: "http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8"
+    Live: true
 }
 
 {   
@@ -149,6 +159,7 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/abc_canal_25.png"
     Stream: "http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8"
+    Live: true
 }
 
 {   
@@ -157,4 +168,5 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/abc_canal_25.png"
     Stream: "http://fl3.moveonjoy.com/Newsy/index.m3u8"
+    Live: true
 }
