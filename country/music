@@ -47,6 +47,177 @@
 }
 
 {   
+    Title: "Easy Listening"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3021"
+}
+
+{   
+    Title: "Rock Alternative"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3026"
+}
+
+{   
+    Title: "Hit List"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388"
+}
+
+
+
+
+
+
+
+{   
+    Title: "Holidayscapes"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8"
+}
+
+{   
+    Title: "Qello Concerts by Stingray"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://i.mjh.nz/SamsungTVPlus/USBD3500024YB.m3u8"
+}
+
+{   
+    Title: "Qello Concerts by Stingray (1080p)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8"
+}
+
+{   
+    Title: "Classic Rock"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://i.mjh.nz/SamsungTVPlus/USBD35000180U.m3u8"
+}
+
+{   
+    Title: "Classic Rock (1080p)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8"
+}
+
+{   
+    Title: "Classica"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://i.mjh.nz/SamsungTVPlus/USBD350002623.m3u8"
+}
+
+{   
+    Title: "Classica (1080p)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
+}
+
+{   
+    Title: "CMusic"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62fbf197c67d52bddf74cc87.m3u8"
+}
+
+{   
+    Title: "CMusic (1080p)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8"
+}
+
+{   
+    Title: "DJAZZ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://i.mjh.nz/SamsungTVPlus/USBD3500025GS.m3u8"
+}
+
+{   
+    Title: "DJAZZ (1080p)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8"
+}
+
+{   
+    Title: "Easy Listening"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://i.mjh.nz/SamsungTVPlus/USBD3500011J3.m3u8"
+}
+
+{   
+    Title: "Easy Listening (1080p)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8"
+}
+
+{   
+    Title: "Flashback 70s"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://i.mjh.nz/SamsungTVPlus/USBD3500008IJ.m3u8"
+}
+
+{   
+    Title: "Flashback 70s (1080p)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
+    Stream: "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{   
     Title: "MTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
