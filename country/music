@@ -47,7 +47,7 @@
 }
 
 {   
-    Title: "Easy Listening"
+    Title: "EASY LISTENING"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
@@ -55,7 +55,7 @@
 }
 
 {   
-    Title: "Rock Alternative"
+    Title: "ROCK ALTERNATIVE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
@@ -63,7 +63,7 @@
 }
 
 {   
-    Title: "Hit List"
+    Title: "HIT LIST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
@@ -71,7 +71,7 @@
 }
 
 {   
-    Title: "Holidayscapes"
+    Title: "HOLIDAYSCAPES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
@@ -79,7 +79,7 @@
 }
 
 {   
-    Title: "Qello Concerts by Stingray (1080p)"
+    Title: "QELLO CONCERTs BY STINGRAY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
@@ -87,7 +87,7 @@
 }
 
 {   
-    Title: "Classic Rock (1080p)"
+    Title: "CLASSIC ROCK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
@@ -95,7 +95,7 @@
 }
 
 {   
-    Title: "Classica (1080p)"
+    Title: "CLASSICA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
@@ -103,15 +103,7 @@
 }
 
 {   
-    Title: "CMusic (1080p)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
-    Stream: "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8"
-}
-
-{   
-    Title: "DJAZZ (1080p)"
+    Title: "DJAZZ"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
@@ -119,15 +111,7 @@
 }
 
 {   
-    Title: "Easy Listening (1080p)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
-    Stream: "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8"
-}
-
-{   
-    Title: "Flashback 70s (1080p)"
+    Title: "FLASHBACK 70s"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
@@ -135,15 +119,7 @@
 }
 
 {   
-    Title: "Flashback 70s (1080p)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
-    Stream: "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8"
-}
-
-{   
-    Title: "Smooth Jazz"
+    Title: "SMOOTH JAZ"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
@@ -159,7 +135,7 @@
 }
 
 {   
-    Title: "Today's K-Pop"
+    Title: "TODAY's K-POP"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
@@ -167,39 +143,7 @@
 }
 
 {   
-    Title: "Nothing' But 90s"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
-    Stream: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3028"
-}
-
-{   
-    Title: "Remember 80s"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
-    Stream: "https://d1imh73yrie9zu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tqikpnjgwyvj8/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8"
-}
-
-{   
-    Title: "Flashback 70s"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
-    Stream: "https://d30hccj9v28bt6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jp7qdac3e1wzj/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8"
-}
-
-{   
-    Title: "Classic Rock"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
-    Stream: "https://d1gblbamdkwl5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rlxixsm66esse/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8"
-}
-
-{   
-    Title: "Éxitos del Momento"
+    Title: "ÉXITOS DEL MOMENTO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
@@ -207,7 +151,7 @@
 }
 
 {   
-    Title: "Pop Adult"
+    Title: "POP ADULT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
@@ -215,7 +159,7 @@
 }
 
 {   
-    Title: "Greatest Hits"
+    Title: "GREATEST HITS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
@@ -223,15 +167,7 @@
 }
 
 {   
-    Title: "Hot Country"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
-    Stream: "https://d33l69tlyxnc6j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o1stobjejuzbx/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8"
-}
-
-{   
-    Title: "Naturescape"
+    Title: "NATURESCAPE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
@@ -239,7 +175,7 @@
 }
 
 {   
-    Title: "Loupe 4K"
+    Title: "LOUPE 4K"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
@@ -247,15 +183,7 @@
 }
 
 {   
-    Title: "Rock Alternative Live"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
-    Stream: "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/86c450ed-9e6a-3c4f-9b87-08174d04fab6/690800/manifest.m3u8"
-}
-
-{   
-    Title: "Classic Rock Live"
+    Title: "CLASSIC ROCK LIVE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
@@ -263,7 +191,7 @@
 }
 
 {   
-    Title: "K-Pop"
+    Title: "K-POP"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
@@ -271,7 +199,7 @@
 }
   
 {   
-    Title: "Hit List"
+    Title: "HIT LIST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
@@ -279,15 +207,7 @@
 }
 
 {   
-    Title: "Soul Storm"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
-    Stream: "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/33357341-efb9-3b26-b81b-f78a0f4b7617/690800/manifest.m3u8"
-}
-
-{   
-    Title: "CMusic"
+    Title: "CMUSIC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
@@ -295,7 +215,7 @@
 }
 
 {   
-    Title: "Karaoke"
+    Title: "KARAOKE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
@@ -303,26 +223,14 @@
 }
 
 {   
-    Title: "Nothin' But 90s"
+    Title: "NOTHIN' BUT 90s"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/stingray.png"
     Stream: "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/f5102ca4-edd7-30ac-a357-877f60db023b/690800/manifest.m3u8"
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-{   
+{  
     Title: "MTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
