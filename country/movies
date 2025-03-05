@@ -20,7 +20,7 @@
 }
 
 {   Title: "Cónclave" 
-    streamFormat: "hls|mts|mp4"
+    streamFormat: "hls|mts|mkv|mp4"
     Logo: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftIJ42zwuFvUFVEWZQbFq1vcV5U.jpg"
     Stream: "http://170.39.192.130:2095/movie/56993164346fpro/180724play/313089.mkv"         
     Live: false
