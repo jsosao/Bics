@@ -163,6 +163,33 @@
 }
 
 {   
+    Title: "NHK JAPAN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/nhk_japan.png"
+    Stream: "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8"
+    Live: true
+}
+
+{   
+    Title: "TRT WORLD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/trt_world.png"
+    Stream: "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
+    Live: true
+}
+
+{   
+    Title: "CNA SINGAPURE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cna_singapure.png"
+    Stream: "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"
+    Live: true
+}
+
+{   
     Title: "NEWS Y"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -170,3 +197,8 @@
     Stream: "http://fl3.moveonjoy.com/Newsy/index.m3u8"
     Live: true
 }
+
+
+
+
+
