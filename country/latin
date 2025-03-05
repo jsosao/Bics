@@ -47,8 +47,26 @@
     Title: "GT: CANAL 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/azteca_guate.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/gt_canal_3.png"
     Stream: "https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8"
+    Live: true
+}
+
+{   
+    Title: "GT: CANAL 7"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/gt_canal_7.png"
+    Stream: "https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8"
+    Live: true
+}
+
+{   
+    Title: "GT: CANAL 13"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/gt_canal_13.png"
+    Stream: "https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8"
     Live: true
 }
 
@@ -56,8 +74,17 @@
     Title: "HN: CTV INTERNACIONAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ctv_internacional.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/hn_ctv_internacional.png"
     Stream: "https://mediacp.us:8081/ctvhn/index.m3u8"
+    Live: true
+}
+
+{   
+    Title: "HN: VTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/hn_vtv.png"
+    Stream: "https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8"
     Live: true
 }
 
@@ -65,7 +92,7 @@
     Title: "SV: TCS+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/sv_canal_21.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/sv_tcs.png"
     Stream: "https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8"
     Live: true
 }
@@ -74,7 +101,7 @@
     Title: "SV: CANAL 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/sv_canal_21.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/sv_canal_2.png"
     Stream: "https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8"
     Live: true
 }
@@ -83,7 +110,7 @@
     Title: "SV: CANAL 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/sv_canal_21.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/sv_canal_3.png"
     Stream: "https://cloud2.streaminglivehd.com:1936/8048/8048/.m3u8"
     Live: true
 }
@@ -92,7 +119,7 @@
     Title: "SV: CANAL 12"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/sv_canal_21.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/sv_canal_12.png"
     Stream: "https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8"
     Live: true
 }
@@ -110,8 +137,8 @@
     Title: "SV: CANAL 57"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/sv_canal_21.png"
-    Stream: "https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/sv_canal_57.png"
+    Stream: "https://stream.giostreaming.net:19360/canal57/canal57.m3u8"
     Live: true
 }
 
@@ -119,7 +146,7 @@
     Title: "CR: CANAL 6"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/sv_canal_21.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/cr_canal_6.png"
     Stream: "https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8"
     Live: true
 }
@@ -177,3 +204,16 @@
     Stream: "https://streamtv.intervenhosting.net:3698/live/telecentrolive.m3u8"
     Live: true
 }
+
+{   
+    Title: "DO: PLANETA TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/planeta_tv.png"
+    Stream: "https://live.obslivestream.com/planetatv/index.m3u8"
+    Live: true
+}
+
+
+
+
