@@ -1,8 +1,41 @@
-{   
-    Title: "CTV"
+{   Title: "1"
+    streamFormat: "hls|mts|mkv|dash|mp4"
+    Logo: "https://img2.gratispng.com/20180213/buw/kisspng-football-royalty-free-stock-photography-clip-art-vector-football-5a82881c68dfb9.4983445915185039644296.jpg"
+    Stream: "http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/246282.ts"
+    Live: true
+}
+
+{   Title: "2"
     streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv.png"
-    Stream: "http://tvmate.icu:8080/live/7686199/9576982/47234.m3u8"
+    Logo: "https://img2.gratispng.com/20180213/buw/kisspng-football-royalty-free-stock-photography-clip-art-vector-football-5a82881c68dfb9.4983445915185039644296.jpg"
+    Stream: "http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/165365.ts"
+    Live: true
+}
+
+{   Title: "3"
+    streamFormat: "hls|mts"
+    Logo: "https://img2.gratispng.com/20180213/buw/kisspng-football-royalty-free-stock-photography-clip-art-vector-football-5a82881c68dfb9.4983445915185039644296.jpg"
+    Stream: "http://wanicelife.com:8880/live/6mc220035/64161548/2553.ts"
+    Live: true
+}
+
+{   Title: "4"
+    streamFormat: "hls|mts"
+    Logo: "https://img2.gratispng.com/20180213/buw/kisspng-football-royalty-free-stock-photography-clip-art-vector-football-5a82881c68dfb9.4983445915185039644296.jpg"
+    Stream: "http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/228385.ts"
+    Live: true
+}
+
+{   Title: "5"
+    streamFormat: "hls|mts"
+    Logo: "https://img2.gratispng.com/20180213/buw/kisspng-football-royalty-free-stock-photography-clip-art-vector-football-5a82881c68dfb9.4983445915185039644296.jpg"
+    Stream: "http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/228388.ts"
+    Live: true
+}
+
+{   Title: "6"
+    streamFormat: "hls|mts"
+    Logo: "https://img2.gratispng.com/20180213/buw/kisspng-football-royalty-free-stock-photography-clip-art-vector-football-5a82881c68dfb9.4983445915185039644296.jpg"
+    Stream: "http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/825178.ts"
     Live: true
 }
