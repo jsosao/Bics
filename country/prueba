@@ -1,5 +1,5 @@
 {   Title: "Universal"
-    streamFormat: "hls|mts"
+    streamFormat: "hls|mts|mkv|dash|mp4"
     Logo: "https://img2.gratispng.com/20180213/buw/kisspng-football-royalty-free-stock-photography-clip-art-vector-football-5a82881c68dfb9.4983445915185039644296.jpg"
     Stream: "http://ultrapremium.cloud:8080/live/43kuza97pa55ke48/29wuma93weme45/65208.ts"
     Live: true
@@ -11,7 +11,7 @@
 
 
 {   Title: "Benfica-Barcelona"
-    streamFormat: "hls|mts"
+    streamFormat: "hls|mts|mkv|dash|mp4"
     Logo: "https://img2.gratispng.com/20180213/buw/kisspng-football-royalty-free-stock-photography-clip-art-vector-football-5a82881c68dfb9.4983445915185039644296.jpg"
     Stream: "http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/246282.ts"
     Live: true
