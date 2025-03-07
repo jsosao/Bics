@@ -1,6 +1,6 @@
 {
     Title: "N+ FORO"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/n+_foro.png"
     Stream: "https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true"
     Live: true
@@ -8,7 +8,7 @@
 
 {
     Title: "ADN 40"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/adn_40.png"
     Stream: "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8"
     Live: true
@@ -16,7 +16,7 @@
 
 {
     Title: "El Financiero Bloomberg"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/elfinanciero.png"
     Stream: "https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8"
     Live: true
@@ -24,7 +24,7 @@
 
 {
     Title: "MILENIO"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/milenio.png"
     Stream: "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8"
     Live: true
@@ -32,7 +32,7 @@
 
 {
     Title: "CÑÑ"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cnn_espanol.png"
     Stream: "https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8"
     Live: true
@@ -40,7 +40,7 @@
 
 {
     Title: "DW Español"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/dw_espanol.png"
     Stream: "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8"
     Live: true
@@ -48,7 +48,7 @@
 
 {
     Title: "France Español"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/france_espanol.png"
     Stream: "https://s5.mexside.net:1936/france24/france24/playlist.m3u8"
     Live: true
@@ -56,7 +56,7 @@
 
 {   
     Title: "BBC AMERICA"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/bbc_america.png"
     Stream: "http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8"
@@ -65,7 +65,7 @@
 
 {   
     Title: "BBC WORLD NEWS"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/bbc_news.png"
     Stream: "http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8"
@@ -74,7 +74,7 @@
 
 {   
     Title: "BLOOMBERG"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/bloomberg.png"
     Stream: "http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8"
@@ -83,7 +83,7 @@
 
 {   
     Title: "C SPAN"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cspan.png"
     Stream: "http://fl2.moveonjoy.com/C-SPAN/index.m3u8"
@@ -92,7 +92,7 @@
 
 {   
     Title: "CNBC"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cnbc.png"
     Stream: "http://fl2.moveonjoy.com/CNBC/index.m3u8"
@@ -101,7 +101,7 @@
 
 {   
     Title: "CNN"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cnn.png"
     Stream: "http://fl2.moveonjoy.com/CNN/index.m3u8"
@@ -110,7 +110,7 @@
 
 {   
     Title: "CNN INTERNACIONAL"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cnn_internacional.png"
     Stream: "http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8"
@@ -119,7 +119,7 @@
 
 {   
     Title: "AL JAZEERA EN"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/al_jazeera.png"
     Stream: "https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8"
@@ -128,7 +128,7 @@
 
 {   
     Title: "AL JAZEERA ARAB"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/al_jazeera.png"
     Stream: "https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8"
@@ -137,7 +137,7 @@
 
 {   
     Title: "FOX BUSSINESS NET"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/fox_bussiness.png"
     Stream: "http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8"
@@ -146,7 +146,7 @@
 
 {   
     Title: "FOX NEWS CHANNEL"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/fox_news.png"
     Stream: "http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8"
@@ -155,7 +155,7 @@
 
 {   
     Title: "NEWS NATION"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/news_nation.png"
     Stream: "http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8"
@@ -164,7 +164,7 @@
 
 {   
     Title: "NHK JAPAN"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/nhk_japan.png"
     Stream: "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8"
@@ -173,7 +173,7 @@
 
 {   
     Title: "TRT WORLD"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/trt_world.png"
     Stream: "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
@@ -182,7 +182,7 @@
 
 {   
     Title: "CNA SINGAPURE"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cna_singapure.png"
     Stream: "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"
@@ -191,7 +191,7 @@
 
 {   
     Title: "NEWS Y"
-    streamFormat: "hls|mts"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/abc_canal_25.png"
     Stream: "http://fl3.moveonjoy.com/Newsy/index.m3u8"
