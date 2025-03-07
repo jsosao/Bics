@@ -15,14 +15,6 @@
 }
 
 {
-    Title: "El Financiero Bloomberg"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/elfinanciero.png"
-    Stream: "https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8"
-    Live: true
-}
-
-{
     Title: "MILENIO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/milenio.png"
@@ -118,6 +110,15 @@
 }
 
 {   
+    Title: "CL: T 13"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cl_t_13.png"
+    Stream: "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8"
+    Live: true
+}
+
+{   
     Title: "AL JAZEERA EN"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
@@ -167,7 +168,7 @@
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/nhk_japan.png"
-    Stream: "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8"
+    Stream: "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8"
     Live: true
 }
 
@@ -186,15 +187,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cna_singapure.png"
     Stream: "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"
-    Live: true
-}
-
-{   
-    Title: "NEWS Y"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/abc_canal_25.png"
-    Stream: "http://fl3.moveonjoy.com/Newsy/index.m3u8"
     Live: true
 }
 
