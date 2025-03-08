@@ -53,16 +53,6 @@
     },
 
    {
-      "longDescription": "Canales de LATAM Nacionales y Regionales",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/latin.png",
-      "releaseDate": "2020-01-15",
-      "id": "LATAM",
-      "shortDescription": "LATAM",
-      "title": "Canales Latinoamericano",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/latin"      
-    },
-
-    {
       "longDescription": "Canales de Noticias",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/news.png",
       "releaseDate": "2020-01-15",
@@ -70,6 +60,16 @@
       "shortDescription": "Noticias",
       "title": "Canales de Noticias",
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/news"      
+    },
+  
+   {
+      "longDescription": "Canales de LATAM Nacionales y Regionales",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/latin.png",
+      "releaseDate": "2020-01-15",
+      "id": "LATAM",
+      "shortDescription": "LATAM",
+      "title": "Canales Latinoamericano",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/latin"      
     },
 
    {
@@ -82,7 +82,7 @@
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/kids"      
     },
   
-  {
+   {
       "longDescription": "Canales Internacionales",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/mundo.png",
       "releaseDate": "2020-01-15",
@@ -90,6 +90,16 @@
       "shortDescription": "INTERNACIONALES",
       "title": "INTERNACIONALES",
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/mundo"      
+    },
+
+  {
+      "longDescription": "Juegos de la Liga Premier",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/premier.png",
+      "releaseDate": "2020-01-15",
+      "id": "Liga Premier",
+      "shortDescription": "Liga Premier",
+      "title": "Liga Premier",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/premier"      
     },
   
    {
