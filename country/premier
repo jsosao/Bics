@@ -41,3 +41,19 @@
     Stream: "http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/825178.ts"
     Live: true
 }
+
+{   
+    Title: "QR: BEIN SPORTS"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/us_espn_deportes.png"
+    Stream: "https://dffgtrdb.vffddd.online/bein1/tracks-v1a1/mono.ts.m3u8"
+}
+
+{   
+    Title: "IR: PERSIANA SPORTS"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/us_espn_deportes.png"
+    Stream: "https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8"
+}
