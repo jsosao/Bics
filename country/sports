@@ -331,8 +331,32 @@
     Title: "US: ESPN DEPORTES"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/us_espn_deportes.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_deportes.png"
     Stream: "http://190.92.10.66:4000/play/a003/index.m3u8"
+}
+
+{   
+    Title: "DO: ESPN NORTE"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Stream: "http://45.71.254.1:8000/play/a0e6/index.m3u8"
+}
+
+{   
+    Title: "DO: ESPN 2 NORTE"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
+    Stream: "http://45.71.254.1:8000/play/a0e7/index.m3u8"
+}
+
+{   
+    Title: "AR: ESPN VIVO"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Stream: "http://45.71.254.1:8000/play/a01r/index.m3u8"
 }
 
 {   
@@ -363,15 +387,32 @@
     Title: "HR: ARENA SPORTS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/us_espn_deportes.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/arena_sports_1.png"
     Stream: "http://109.105.201.198/Arenasport2/video.m3u8?token=test"
 }
 
 {   
+    Title: "RS: ARENA SPORT 3"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/arena_sports_3.png"
+    Stream: "http://109.105.201.198/ARENASPORT3/video.m3u8?token=test"
+    Live: true
+}
+
+{   
+    Title: "RS: ARENA SPORT 4"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/arena_sports_4.png"
+    Stream: "http://109.105.201.198/ARENASPORT4/video.m3u8?token=test"
+    Live: true
+}
+{   
     Title: "HR: ARENA SPORTS 6"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/us_espn_deportes.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/arena_sports_6.png"
     Stream: "http://42490-fred.oot-mx.me:80/live/63d576d12c/747308777cbd/110732.m3u8"
 }
 
@@ -379,16 +420,15 @@
     Title: "GB: BEIN SPORTS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/us_espn_deportes.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/bein_sports.png"
     Stream: "http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8"
 }
-
 
 {   
     Title: "DO: SPORTS MAX"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/us_espn_deportes.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/do_sports_max.png"
     Stream: "https://streamer1.nexgen.bz/SPORTSMAX2/tracks-v1a1/mono.m3u8"
 }
 
@@ -396,7 +436,7 @@
     Title: "HR: SK1"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/us_espn_deportes.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/hr_sk1.png"
     Stream: "http://nl.iptvsolution.info:80/sk1/index.m3u8?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6"
 }
 
@@ -404,7 +444,7 @@
     Title: "HR: SK2"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/us_espn_deportes.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/hr_sk2.png"
     Stream: "http://nl.iptvsolution.info:80/sk2/index.m3u8?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6"
 }
 
@@ -412,7 +452,7 @@
     Title: "HR: SK3"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/us_espn_deportes.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/hr_sk3.png"
     Stream: "http://nl.iptvsolution.info:80/sk3/index.m3u8?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6"
 }
 
@@ -446,30 +486,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/us_espn_deportes.png"
     Stream: "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8"
-}
-
-{   
-    Title: "DO: ESPN NORTE"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/us_espn_deportes.png"
-    Stream: "http://45.71.254.1:8000/play/a0e6/index.m3u8"
-}
-
-{   
-    Title: "DO: ESPN 2 NORTE"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/us_espn_deportes.png"
-    Stream: "http://45.71.254.1:8000/play/a0e7/index.m3u8"
-}
-
-{   
-    Title: "AR: ESPN VIVO"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/us_espn_deportes.png"
-    Stream: "http://45.71.254.1:8000/play/a01r/index.m3u8"
 }
 
 {   
