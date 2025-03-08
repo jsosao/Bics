@@ -7,6 +7,14 @@
 }
 
 {   
+    Title: "US: TUDN"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
+    Stream: "http://45.68.35.218:4001/play/a00x/index.m3u8"
+}
+
+{   
     Title: "MX: SKY SPORTS LA LIGA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
@@ -79,6 +87,22 @@
 }
 
 {   
+    Title: "ES: BEIN EXTRA SPORTS Ñ"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/bein_sports_ñ.png"
+    Stream: "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8"
+}
+
+{   
+    Title: "EN: BEIN EXTRA SPORTS"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/bein_sports.png"
+    Stream: "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8"
+}
+
+{   
     Title: "US: BIG TEN NETWORK"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
@@ -133,6 +157,38 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_network.png"
     Stream: "http://fl2.moveonjoy.com/ESPN_NETWORK/index.m3u8"
+}
+
+{   
+    Title: "US: ESPN DEPORTES"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_deportes.png"
+    Stream: "http://190.92.10.66:4000/play/a003/index.m3u8"
+}
+
+{   
+    Title: "DO: ESPN NORTE"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Stream: "http://45.71.254.1:8000/play/a0e6/index.m3u8"
+}
+
+{   
+    Title: "DO: ESPN 2 NORTE"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
+    Stream: "http://45.71.254.1:8000/play/a0e7/index.m3u8"
+}
+
+{   
+    Title: "AR: ESPN VIVO"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Stream: "http://45.71.254.1:8000/play/a01r/index.m3u8"
 }
 
 {   
@@ -328,38 +384,6 @@
 }
 
 {   
-    Title: "US: ESPN DEPORTES"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_deportes.png"
-    Stream: "http://190.92.10.66:4000/play/a003/index.m3u8"
-}
-
-{   
-    Title: "DO: ESPN NORTE"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
-    Stream: "http://45.71.254.1:8000/play/a0e6/index.m3u8"
-}
-
-{   
-    Title: "DO: ESPN 2 NORTE"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
-    Stream: "http://45.71.254.1:8000/play/a0e7/index.m3u8"
-}
-
-{   
-    Title: "AR: ESPN VIVO"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
-    Stream: "http://45.71.254.1:8000/play/a01r/index.m3u8"
-}
-
-{   
     Title: "US: VIX LA LIGA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
@@ -457,14 +481,6 @@
 }
 
 {   
-    Title: "ES: BEIN SPORTS Ñ"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/bein_sports_ñ.png"
-    Stream: "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8"
-}
-
-{   
     Title: "MX: TELEMUNDO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
@@ -489,11 +505,11 @@
 }
 
 {   
-    Title: "US: TUDN"
+    Title: "US: GOLAZO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
-    Stream: "http://45.68.35.218:4001/play/a00x/index.m3u8"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/golazo.png"
+    Stream: "https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8"
 }
 
 
