@@ -9,6 +9,7 @@
 {   
     Title: "Liga de Campeones"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/liga_campeones.png"
     Stream: "http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/246282.ts"
     Live: true
@@ -17,6 +18,7 @@
 {   
     Title: "Liga de Campeones"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/liga_campeones.png"
     Stream: "http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/165365.ts"
     Live: true
@@ -25,29 +27,25 @@
 {   
     Title: "DAZN 1"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_f1.png"
-    Stream: "http://wanicelife.com:8880/live/6mc220035/64161548/2553.ts"
-    Live: true
-}
-
-{   
-    Title: "DAZN 2"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_1.png"
     Stream: "http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/228385.ts"
     Live: true
 }
 
 {   
-    Title: "Liga de Campeones"
+    Title: "DAZN 2"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_2.png"
     Stream: "http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/228388.ts"
     Live: true
 }
 
-{   Title: "6"
+{   
+    Title: "Liga de Campeones"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/liga_campeones.png"
     Stream: "http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/825178.ts"
     Live: true
