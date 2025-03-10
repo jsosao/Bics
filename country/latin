@@ -44,6 +44,26 @@
 }
 
 {   
+    Title: "EC: ECUAVISA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ec_ecuadortv.png"
+    Stream: "https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8"
+    Live: true
+}
+
+{   
+    Title: "DO: CDN DEPORTE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ec_ecuadortv.png"
+    Stream: "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8"
+    Live: true
+}
+
+
+
+{   
     Title: "PR: TELEMUNDO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -69,6 +89,16 @@
     Stream: "https://ch1-tva.duin.dev/hls/stream.m3u8"
     Live: true
 }
+
+{   
+    Title: "GT: A+ GUATE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/gt_as_mas.png"
+    Stream: "https://ch2-tva.duin.dev/hls/stream.m3u8"
+    Live: true
+}
+
 
 {   
     Title: "GT: CANAL 3"
@@ -149,6 +179,24 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/sv_canal_3.png"
     Stream: "https://cloud2.streaminglivehd.com:1936/8048/8048/.m3u8"
+    Live: true
+}
+
+{   
+    Title: "SV: CANAL 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/sv_canal_4.png"
+    Stream: "https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8"
+    Live: true
+}
+
+{   
+    Title: "SV: CANAL 6"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/sv_canal_6.png"
+    Stream: "https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8"
     Live: true
 }
 
