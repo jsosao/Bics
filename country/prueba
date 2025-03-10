@@ -1,193 +1,111 @@
-{   
-    Title: "HBO"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv.png"
-    Stream: "http://ultrapremium.cloud:8080/live/43kuza97pa55ke48/29wuma93weme45/139.ts"
+{   Title: "AGENDA JOGOS FUTEBOL"
+    streamFormat: "hls|mts"
+    Logo: "https://media.gettyimages.com/id/1440900404/pt/v%C3%ADdeo/golden-soccer-ball.jpg?s=640x640&k=20&c=CCX4oyYvvyXoBrgZyh6HNmo_0fuDWSrcyr95ULV7zYs="
+    Stream: "http://globalsrv.me:80/612714/629529/1440908"
+    UserAgent: "http-user-agent="
+    Cache: "" 
+    Live: true
+}
+{   Title: "ESPN"
+    streamFormat: "hls|mts"
+    Logo: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyzEVyV2oH1phXQkdXBAvVdLBTGjeMkfYU1TPyi2cHhGmLMzafdg6a9O4eFdFRNmjJWdXRm7dFlP_HML27jW9nY7NG9oqta65PwC_tu_6n_KxFuDzlZMrLsZ0L6YN3DT8vo1zhBDtI7Lvl/s640/0edc353ff54f0fa2b88ffc4a45e0345e.png"
+    Stream: "http://play.1list.vip/live/isaias/339754/215398.ts"
+    Live: true
+}
+{   Title: "ESPN2"
+    streamFormat: "hls|mts"
+    Logo: "https://static.wikia.nocookie.net/tvpediabrasil/images/4/4c/Espn2logo2.jpg/revision/latest?cb=20220119222439&path-prefix=pt-br"
+    Stream: "http://play.1list.vip/live/isaias/339754/215399.ts"
+    Live: true
+}
+{   Title: "ESPN3"
+    streamFormat: "hls|mts"
+    Logo: "https://static.wikia.nocookie.net/tvpediabrasil/images/b/bb/Espn3logo.jpg/revision/latest?cb=20220119222353&path-prefix=pt-br"
+    Stream: "http://play.1list.vip/live/isaias/339754/215400.ts"
+    Live: true
+}
+{   Title: "ESPN4"
+    streamFormat: "hls|mts"
+    Logo: "https://static.wikia.nocookie.net/tvpediabrasil/images/f/f8/Espn4logo.jpg/revision/latest?cb=20220119222338&path-prefix=pt-br"
+    Stream: "http://play.1list.vip/live/isaias/339754/215401.ts"
+    Live: true
+}
+{   Title: "ESPN5"
+    streamFormat: "hls|mts"
+    Logo: "https://static.wikia.nocookie.net/tvpediabrasil/images/b/bb/Espn5.jpg/revision/latest?cb=20240217221020&path-prefix=pt-br"
+    Stream: "http://play.1list.vip/live/isaias/339754/50545.ts"
+    Live: true
+}
+{   Title: "ESPN6"
+    streamFormat: "hls|mts"
+    Logo: "https://static.wikia.nocookie.net/tvpediabrasil/images/9/98/Espn6.png/revision/latest?cb=20240217221037&path-prefix=pt-br"
+    Stream: "http://play.1list.vip/live/isaias/339754/62818.ts"
+    Live: true
+}
+{   Title: "SporTv"
+    streamFormat: "hls|mts"
+    Logo: "https://static.wikia.nocookie.net/tvpediabrasil/images/2/22/Sportv-nova-logo.jpg/revision/latest?cb=20211110213641&path-prefix=pt-br"
+    Stream: "http://play.1list.vip/live/isaias/339754/40785.ts"
+    Live: true
+}
+{   Title: "SporTv2"
+    streamFormat: "hls|mts"
+    Logo: "https://static.wikia.nocookie.net/tvpediabrasil/images/7/77/Stv2-21.jpg/revision/latest/scale-to-width-down/1000?cb=20240215020517&path-prefix=pt-br"
+    Stream: "http://play.1list.vip/live/isaias/339754/215402.ts"
+    Live: true
+}
+{   Title: "SporTv3"
+    streamFormat: "hls|mts"
+    Logo: "https://static.wikia.nocookie.net/tvpediabrasil/images/2/2f/Stv3-21.png/revision/latest/scale-to-width-down/1000?cb=20240215020544&path-prefix=pt-br"
+    Stream: "http://play.1list.vip/live/isaias/339754/215403.ts"
+    Live: true
+}
+{   Title: "Premiere"
+    streamFormat: "hls|mts"
+    Logo: "https://www.imagensempng.com.br/wp-content/uploads/2023/05/187.png"
+    Stream: "http://play.1list.vip:80/live/isaias/339754/40783.ts"
+    Live: true
+}
+{   Title: "Premiere 2"
+    streamFormat: "hls|mts"
+    Logo: "https://www.imagensempng.com.br/wp-content/uploads/2023/05/187.png"
+    Stream: "http://play.1list.vip:80/live/isaias/339754/38410.ts"
+    Live: true
+}
+{   Title: "Premiere 3"
+    streamFormat: "hls|mts"
+    Logo: "https://www.imagensempng.com.br/wp-content/uploads/2023/05/187.png"
+    Stream: "http://play.1list.vip:80/live/isaias/339754/38409.ts"
+    Live: true
+}
+{   Title: "Premiere 4"
+    streamFormat: "hls|mts"
+    Logo: "https://www.imagensempng.com.br/wp-content/uploads/2023/05/187.png"
+    Stream: "http://play.1list.vip:80/live/isaias/339754/38408.ts"
+    Live: true
+}
+{   Title: "Premiere 5"
+    streamFormat: "hls|mts"
+    Logo: "https://www.imagensempng.com.br/wp-content/uploads/2023/05/187.png"
+    Stream: "http://play.1list.vip:80/live/isaias/339754/38407.ts"
+    Live: true
+}
+{   Title: "Premiere 6"
+    streamFormat: "hls|mts"
+    Logo: "https://www.imagensempng.com.br/wp-content/uploads/2023/05/187.png"
+    Stream: "http://play.1list.vip:80/live/isaias/339754/38406.ts"
+    Live: true
+}
+{   Title: "Premiere 7"
+    streamFormat: "hls|mts"
+    Logo: "https://www.imagensempng.com.br/wp-content/uploads/2023/05/187.png"
+    Stream: "http://play.1list.vip:80/live/isaias/339754/38405.ts"
     Live: true
 }
 
 
-{   
-    Title: "HBO 2"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv.png"
-    Stream: "http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/94839.ts"
-    Live: true
-}
-
-{   
-    Title: "HBO +"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv.png"
-    Stream: "http://alfatv.lat:2082/live/9AGRhZGjte5k/nZSPknJ83NuH/239523.ts"
-    Live: true
-}
-
-{   
-    Title: "HBO FAMILY"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv.png"
-    Stream: "http://ultrapremium.cloud:8080/live/43kuza97pa55ke48/29wuma93weme45/137.ts"
-    Live: true
-}
 
 
-{   
-    Title: "HBO EXTREM"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv.png"
-    Stream: "http://ultrapremium.cloud:8080/live/43kuza97pa55ke48/29wuma93weme45/156.ts"
-    Live: true
-}
-
-
-{   
-    Title: "HBO MUNDI"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv.png"
-    Stream: "http://84423.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/2796.ts"
-    Live: true
-}
-
-
-{   
-    Title: "HBO POP"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv.png"
-    Stream: "http://ultrapremium.cloud:8080/live/43kuza97pa55ke48/29wuma93weme45/147.ts"
-    Live: true
-}
-
-
-{   
-    Title: "HBO SIGNATURE"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv.png"
-    Stream: "http://ultrapremium.cloud:8080/live/43kuza97pa55ke48/29wuma93weme45/150.ts"
-    Live: true
-}
-
-
-
-
-{   
-    Title: "STUDIO UNIVERSAL"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv.png"
-    Stream: "http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/394315.ts"
-    Live: true
-}
-
-{   
-    Title: "UIVERSAL CINEMA"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv.png"
-    Stream: "http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/432551.ts"
-    Live: true
-}
-
-{   
-    Title: "UIVERSAL COMEDY"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv.png"
-    Stream: "http://daleplay.club/live/nj9121jose/NXqbrZuj9NRq/111417.ts"
-    Live: true
-}
-
-{   
-    Title: "UIVERSAL CRIME"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv.png"
-    Stream: "http://ultrapremium.cloud:8080/live/43kuza97pa55ke48/29wuma93weme45/65205.ts"
-    Live: true
-}
-
-{   
-    Title: "UIVERSAL PREMIERE"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv.png"
-    Stream: "http://ultrapremium.cloud:8080/live/43kuza97pa55ke48/29wuma93weme45/65208.ts"
-    Live: true
-}
-
-
-{   
-    Title: "UIVERSAL TV"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv.png"
-    Stream: "http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/432460.ts"
-    Live: true
-}
-
-
-{   
-    Title: "UIVERSAL TV"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv.png"
-    Stream: "http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/111420.ts"
-    Live: true
-}
-
-
-{   
-    Title: "GOLDEN"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv.png"
-    Stream: "http://fastream.xyz:8080/live/976581048tv/45dt4t/127.ts"
-    Live: true
-}
-
-{   
-    Title: "GOLDEN EDGE"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv.png"
-    Stream: "http://fastream.xyz:8080/live/976581048tv/45dt4t/65218.ts"
-    Live: true
-}
-
-{   
-    Title: "GOLDEN PLUS"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv.png"
-    Stream: "http://tvlatino.live:8080/live/RobertoV12/EmFeJsjK6EVz/93516.ts"
-    Live: true
-}
-
-{   
-    Title: "GOLDEN PREMIER"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv.png"
-    Stream: "http://tvlatino.live:8080/live/RobertoV12/EmFeJsjK6EVz/93518.ts"
-    Live: true
-}
-
-{   
-    Title: "GOLDEN PREMIER"
-    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv.png"
-    Stream: "http://fastream.xyz:8080/live/976581048tv/45dt4t/65226.ts"
-    Live: true
-}
 
 
 
