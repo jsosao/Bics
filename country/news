@@ -209,7 +209,7 @@
 }
 
 {   
-    Title: "NHK JAPAN"
+    Title: "JP: NHK JAPAN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/nhk_japan.png"
@@ -218,7 +218,16 @@
 }
 
 {   
-    Title: "TRT WORLD"
+    Title: "KR: ARIRANG"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/kr_arirang.png"
+    Stream: "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+    Live: true
+}
+
+{   
+    Title: "TR: TRT WORLD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/trt_world.png"
@@ -227,7 +236,7 @@
 }
 
 {   
-    Title: "CNA SINGAPURE"
+    Title: "SG: CNA SINGAPURE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cna_singapure.png"
@@ -254,10 +263,10 @@
 }
 
 {   
-    Title: "IS: ISRAEL 24 NEWSE"
+    Title: "IL: ISRAEL 24 NEWSE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/is_24news.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/il_24news.png"
     Stream: "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8"
     Live: true
 }
