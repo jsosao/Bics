@@ -25,3 +25,45 @@
     Live: true
 }
 
+
+
+
+
+
+
+
+{   
+    Title: "ES: M+ LIGA DE CAMPEONES FHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_f1.png"
+    Stream: "https://65.108.40.218:2096/live/blickkk/XUbxsnSbxbQ2/8.ts"
+    Live: true
+}
+
+{   
+    Title: "ES: M+ LIGA DE CAMPEONES HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_f1.png"
+    Stream: "https://65.108.40.218:2096/live/blickkk/XUbxsnSbxbQ2/829.ts"
+    Live: true
+}
+
+{   
+    Title: "ES: M+ LIGA DE CAMPEONES FHD (SAT)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_f1.png"
+    Stream: "https://65.108.40.218:2096/live/blickkk/XUbxsnSbxbQ2/580.ts"
+    Live: true
+}
+
+{   
+    Title: "ES: M+ LIGA DE CAMPEONES FHD (ORANGE)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_f1.png"
+    Stream: "https://65.108.40.218:2096/live/blickkk/XUbxsnSbxbQ2/863.ts"
+    Live: true
+}
