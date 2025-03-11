@@ -9,14 +9,6 @@
 }
 
 {   
-    Title: "MX: TELEMUNDO MIAMI"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
-    Stream: "https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8"
-}
-
-{   
     Title: "EU: Estrella TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -47,7 +39,7 @@
     Title: "EC: ECUAVISA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ec_ecuadortv.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ec_ecuavisa.png"
     Stream: "https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8"
     Live: true
 }
@@ -56,12 +48,10 @@
     Title: "DO: CDN DEPORTE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ec_ecuadortv.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/do_cdn_deportes.png"
     Stream: "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8"
     Live: true
 }
-
-
 
 {   
     Title: "PR: TELEMUNDO"
@@ -335,6 +325,13 @@
     Stream: "https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8"
 }
 
+{   
+    Title: "MX: TELEMUNDO MIAMI"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
+    Stream: "https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8"
+}
 
 {   
     Title: "BR: A&E"
