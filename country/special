@@ -16,3 +16,12 @@
     Live: true
 }
 
+{   
+    Title: "DAZN F1 FHD (EXTRA)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_f1.png"
+    Stream: "https://65.108.40.218:2096/live/blickkk/XUbxsnSbxbQ2/828.ts"
+    Live: true
+}
+
