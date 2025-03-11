@@ -80,6 +80,39 @@
 }
 
 {   
+    Title: "ES: DAZN 1 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_1.png"
+    Stream: "https://65.108.40.218:2096/live/blickkk/XUbxsnSbxbQ2/835.ts"
+}
+
+{   
+    Title: "ES: DAZN 2 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_2.png"
+    Stream: "https://65.108.40.218:2096/live/blickkk/XUbxsnSbxbQ2/11.ts"
+}
+
+{   
+    Title: "ES: DAZN 3 fHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_3.png"
+    Stream: "https://65.108.40.218:2096/live/blickkk/XUbxsnSbxbQ2/4730.ts"
+}
+
+{   
+    Title: "ES: DAZN 4 fHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_4.png"
+    Stream: "https://65.108.40.218:2096/live/blickkk/XUbxsnSbxbQ2/4731.ts"
+}
+
+
+{   
     Title: "US: FOX SPORTS TUBI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
