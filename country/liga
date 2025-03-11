@@ -6,6 +6,55 @@
     Stream: "http://181.78.105.146:2000/play/a08m/index.m3u8"
 }
 
+
+{   
+    Title: "ES: M+ LA LIGA FHD"
+    streamFormat: "hls|mts"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv"
+    Stream: "https://65.108.40.218:2096/live/blickkk/XUbxsnSbxbQ2/3.ts"
+    Live: true
+}
+
+{   
+    Title: "ES: M+ LA LIGA FHD (ORANGE)"
+    streamFormat: "hls|mts"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv"
+    Stream: "https://65.108.40.218:2096/live/blickkk/XUbxsnSbxbQ2/453.ts"
+    Live: true
+}
+
+{   
+    Title: "ES: M+ LA LIGA 2 FHD"
+    streamFormat: "hls|mts"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv"
+    Stream: "https://65.108.40.218:2096/live/blickkk/XUbxsnSbxbQ2/4.ts"
+    Live: true
+}
+
+{   
+    Title: "ES: LA LIGA HYPERMOTION TV FHD"
+    streamFormat: "hls|mts"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_hypermotion"
+    Stream: "https://65.108.40.218:2096/live/blickkk/XUbxsnSbxbQ2/107.ts"
+    Live: true
+}
+
+{   
+    Title: "ES: LA LIGA HYPERMOTION TV 2 FHD (SAT)"
+    streamFormat: "hls|mts"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_hypermotion"
+    Stream: "https://65.108.40.218:2096/live/blickkk/XUbxsnSbxbQ2/2.ts"
+    Live: true
+}
+
+{   
+    Title: "ES: LA LIGA HYPERMOTION TV 3 FHD"
+    streamFormat: "hls|mts"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_hypermotion"
+    Stream: "https://65.108.40.218:2096/live/blickkk/XUbxsnSbxbQ2/54.ts"
+    Live: true
+}
+
 {   
     Title: "Liga de Campeones"
     streamFormat: "hls|mts"
