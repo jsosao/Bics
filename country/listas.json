@@ -2,7 +2,7 @@
   "Listas Disponibles": 
 [
 
-  {
+    {
       "longDescription": "Canales de Eventos Especiales",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/special_events.png",
       "releaseDate": "2020-01-15",
@@ -12,7 +12,7 @@
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/special"      
     },
   
-  {
+    {
       "longDescription": "Una selección de canales, tanto nacionales como regionales, brindando acceso a una amplia variedad de contenido televisivo.",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/mexico.png",
       "releaseDate": "2020-01-15",
@@ -42,7 +42,7 @@
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/ca"      
     },
 
-  {
+    {
       "longDescription": "Canales de Noticias",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/news.png",
       "releaseDate": "2020-01-15",
@@ -52,7 +52,7 @@
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/news"      
     },
   
-  {
+    {
       "longDescription": "Una selección de canales, tanto nacionales como regionales, brindando acceso a una amplia variedad de contenido televisivo.",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/sports.png",
       "releaseDate": "2020-01-15",
@@ -92,7 +92,17 @@
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/mundo"      
     },
 
-  {
+    {
+      "longDescription": "Juegos de la Liga Mexicana",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/ligamx.png",
+      "releaseDate": "2020-01-15",
+      "id": "Liga Mexicana",
+      "shortDescription": "Liga Mexicana",
+      "title": "Liga Mexicana",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/ligamx"      
+    },
+  
+    {
       "longDescription": "Juegos de la Liga Premier",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/premier.png",
       "releaseDate": "2020-01-15",
@@ -102,7 +112,7 @@
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/premier"      
     },
 
-  {
+    {
       "longDescription": "Juegos de la Liga Española",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/la_liga.png",
       "releaseDate": "2020-01-15",
@@ -112,14 +122,24 @@
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/liga"      
     },
 
-  {
+    {
       "longDescription": "Juegos de la Liga Italiana",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/serie_a.png",
       "releaseDate": "2020-01-15",
-      "id": "Liga Española",
+      "id": "Liga Italiana",
       "shortDescription": "Liga Italiana",
       "title": "Liga Italiana",
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/seriea"      
+    },
+
+    {
+      "longDescription": "Juegos de la Liga Alemana",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/bundesliga.png",
+      "releaseDate": "2020-01-15",
+      "id": "Liga Alemana",
+      "shortDescription": "Liga Alemana",
+      "title": "Liga Alemana",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/bundesliga"      
     },
   
     {
@@ -128,7 +148,7 @@
       "releaseDate": "2020-01-15",
       "id": "Liga Francesa",
       "shortDescription": "Liga Francesa",
-      "title": "Liga Premier",
+      "title": "Liga Francesa",
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/ligue"      
     },
   
