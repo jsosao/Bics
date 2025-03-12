@@ -284,34 +284,14 @@
 }
 
 {   
-    Title: "PE: AMERICA TV"
+    Artist:"TDT-Mundo"
+    Title: "PE: AMERICA TEVE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/pe_america_tv.png"
     Stream: "https://live.gideo.video/americateve2/master.m3u8"
     Live: true
 }
-
-{   
-    Title: "PE: AMERICA TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/pe_america_tv.png"
-    Stream: "https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8"
-    Live: true
-}
-
-{   
-    Title: "PE: PANAMERICANA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/pe_panamericana.png"
-    Stream: "https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8"
-    Live: true
-}
-
-
-
 
 {   
     Title: "VE: VPI TV"
