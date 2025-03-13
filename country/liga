@@ -6,100 +6,6 @@
     Stream: "http://181.78.105.146:2000/play/a08m/index.m3u8"
 }
 
-
-{   
-    Title: "ES: M+ LA LIGA FHD"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60238"
-    Live: true
-}
-
-{   
-    Title: "ES: M+ LA LIGA FHD (ORANGE)"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "https://65.108.40.218:2096/live/blickkk/XUbxsnSbxbQ2/453.ts"
-    Live: true
-}
-
-{   
-    Title: "ES: M+ LA LIGA 2 FHD"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "https://65.108.40.218:2096/live/blickkk/XUbxsnSbxbQ2/4.ts"
-    Live: true
-}
-
-{   
-    Title: "ES: LA LIGA HYPERMOTION TV FHD"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_hypermotion.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60311"
-    Live: true
-}
-
-{   
-    Title: "ES: LA LIGA HYPERMOTION TV 2 FHD (SAT)"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_hypermotion.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60312"
-    Live: true
-}
-
-{   
-    Title: "ES: LA LIGA HYPERMOTION TV 3 FHD"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_hypermotion.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60313"
-    Live: true
-}
-
-{   
-    Title: "Liga de Campeones"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/liga_campeones.png"
-    Stream: "http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/246282.ts"
-    Live: true
-}
-
-{   
-    Title: "Liga de Campeones"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/liga_campeones.png"
-    Stream: "http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/165365.ts"
-    Live: true
-}
-
-{   
-    Title: "DAZN 1"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_1.png"
-    Stream: "http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/228385.ts"
-    Live: true
-}
-
-{   
-    Title: "DAZN 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_2.png"
-    Stream: "http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/228388.ts"
-    Live: true
-}
-
-{   
-    Title: "Liga de Campeones"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/liga_campeones.png"
-    Stream: "http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/825178.ts"
-    Live: true
-}
-
 {   
     Title: "US: ESPN DEPORTES"
     streamFormat: "hls|mts"
@@ -141,205 +47,103 @@
     Stream: "https://streamer1.nexgen.bz/SPORTSMAX2/tracks-v1a1/mono.m3u8"
 }
 
-
-
-
-{
-    Title: "M+ LA LIGA HD"
+{   
+    Title: "ES: M+ LA LIGA"
     streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60236"
+    Stream: "http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/491"
     Live: true
 }
 
-{
-    Title: "M+ LA LIGA HD"
+{   
+    Title: "ES: M+ LA LIGA"
     streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60237"
+    Stream: "http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/12306"
     Live: true
 }
 
-{
-    Title: "M+ LA LIGA FHD"
+{   
+    Title: "ES: M+ LA LIGA"
     streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60238"
+    Stream: "http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/12354"
     Live: true
 }
 
-{
-    Title: "M+  LA LIGA FHD"
+{   
+    Title: "ES: M+ LA LIGA"
     streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60239"
+    Stream: "http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/60238"
     Live: true
 }
 
-{
-    Title: "M+ LA LIGA  FHD (FIBRA)"
+{   
+    Title: "ES: M+ LA LIGA"
     streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60240"
+    Stream: "http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/60249"
     Live: true
 }
 
-{
-    Title: "M+ LA LIGA FHD  (FIBRA 2)"
+{   
+    Title: "ES: M+ LA LIGA"
     streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60241"
+    Stream: "http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/60252"
     Live: true
 }
 
-{
-    Title: "M+ LA LIGA FHD ( FIBRA 3)"
+{   
+    Title: "ES: M+ LA LIGA"
     streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60242"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
+    Stream: "http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/12304"
     Live: true
 }
 
-{
-    Title: "M+ LA LIGA FHD (H.265)"
+{   
+    Title: "ES: M+ LA LIGA"
     streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60243"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
+    Stream: "http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/60262"
     Live: true
 }
 
-{
-    Title: "DAZN LALIGA  FHD"
+{   
+    Title: "ES: M+ LA LIGA"
     streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60244"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
+    Stream: "http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/60267"
     Live: true
 }
 
-{
-    Title: "M+LA LIGA FHD ( OP B)"
+{   
+    Title: "ES: M+ LA LIGA"
     streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60245"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
+    Stream: "http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/60271"
     Live: true
 }
 
-{
-    Title: "M+ LA LIGA 4K"
+{   
+    Title: "ES: LA LIGA HYPERMOTION TV"
     streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60246"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_hypermotion.png"
+    Stream: "http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/60311"
     Live: true
 }
 
-{
-    Title: "M+  LA LIGA 2 FHD (FIBRA)"
+{   
+    Title: "ES: LA LIGA HYPERMOTION TV"
     streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60249"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_hypermotion.png"
+    Stream: "http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/60318"
     Live: true
 }
 
-{
-    Title: "M+ LA LIGA 2 SD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60250"
-    Live: true
-}
 
-{
-    Title: "M+ LALIGA 2 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60251"
-    Live: true
-}
 
-{
-    Title: "M+ LALIGA 3 FHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60252"
-    Live: true
-}
-
-{
-    Title: "M+  LA LIGA 4 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60253"
-    Live: true
-}
-
-{
-    Title: "M+ LALIGA 4 FHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60254"
-    Live: true
-}
-
-{
-    Title: "M+  LA LIGA 5 SD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60255"
-    Live: true
-}
-
-{
-    Title: "M+ LALIGA 5 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60256"
-    Live: true
-}
-
-{
-    Title: "M+ LALIGA 5 FHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60257"
-    Live: true
-}
-
-{
-    Title: "M+ LA LIGA 6 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60258"
-    Live: true
-}
-
-{
-    Title: "DAZN LALIGA SD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/48dacu47we34tu97/32mawe59duwe23/60261"
-    Live: true
-}
 
 
