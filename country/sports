@@ -7,6 +7,14 @@
 }
 
 {   
+    Title: "MX: FOX DEPORTES XTRA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/fox_tubi.png"
+    Stream: "https://aegis-cloudfront-1.tubi.video/8bffeab3-1d58-4777-8bae-a31b23679662/index_1.m3u8"
+}
+
+{   
     Title: "US: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
