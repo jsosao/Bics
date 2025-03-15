@@ -487,6 +487,15 @@
 }
 
 {   
+    Title: "RS: ARENA SPORT 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/arena_sports_1.png"
+    Stream: "http://109.105.201.198/ARENASPORT1/video.m3u8?token=test"
+    Live: true
+}
+
+{   
     Title: "HR: ARENA SPORTS 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
