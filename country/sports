@@ -23,11 +23,28 @@
 }
 
 {   
+    Title: "US: TUDN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134467"
+}
+
+{   
     Title: "MX: SKY SPORTS LA LIGA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sky_sports_laliga.png"
     Stream: "http://190.92.10.66:4000/play/a001/index.m3u8"
+}
+
+{   
+    Artist: "angel200881"
+    Title: "MX: SKY SPORTS BUNDES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sky_sports_bundes.png"
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/160999"
 }
 
 {   
@@ -104,6 +121,14 @@
 }
 
 {   
+    Title: "US: FOX DEPORTES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/fox_deportes.png"
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/146542"
+}
+
+{   
     Title: "US: ACC NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -158,6 +183,61 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/cbs_spports_network.png"
     Stream: "http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
 }
+
+{   
+    Artist: "angel200881"
+    Title: "MX: TVC DEPORTES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_tvc_deportes.png"
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150069"
+}
+
+
+
+
+
+
+
+
+{   
+    Artist: "angel200881"
+    Title: "MX: FOX SPORTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports.png"
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134468"
+}
+
+{   
+    Artist: "angel200881"
+    Title: "MX: FOX SPORTS PREMIUM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports_premium.png"
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/146541"
+}
+
+
+
+
+
+{   
+    Artist: "angel200881"
+    Title: "MX: ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134462"
+}
+
+
+
+
+
+
+
+
 
 {   
     Title: "US: ESPN"
