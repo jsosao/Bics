@@ -20,3 +20,11 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/azteca_siete.png"
     Stream: "https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8"
 }
+
+{   
+    Title: "MX: CLARO SPORTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/claro_sports.png"
+    Stream: "https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8"
+}
