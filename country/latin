@@ -154,12 +154,20 @@
     Live: true
 }
 
+{   
+    Title: "SV: TCS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/sv_tcs.png"
+    Stream: "https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8"
+    Live: true
+}
 
 {   
     Title: "SV: TCS+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/sv_tcs.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/sv_tcs_plus.png"
     Stream: "https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8"
     Live: true
 }
@@ -210,6 +218,15 @@
 }
 
 {   
+    Title: "SV: CANAL 12"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/sv_canal_19.png"
+    Stream: "https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8"
+    Live: true
+}
+
+{   
     Title: "SV: CANAL 21"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -254,6 +271,14 @@
     Live: true
 }
 
+{   
+    Title: "CR: TELESUR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/cr_telesur.png"
+    Stream: "https://s1.tvdatta.com:3582/live/telesurlive.m3u8"
+    Live: true
+}
 
 
 {   
