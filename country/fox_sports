@@ -3,30 +3,52 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/fox_deportes_2.png"
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/146542"
+}
+
+{   
+    Title: "US: FOX DEPORTES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/fox_deportes_2.png"
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145429"
 }
 
+
 {   
-    Title: "AR: FOZ SPORTS 2"
+    Title: "US: FOX SPORTS TUBI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/no_logo.png"
-    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145431"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/fox_deportes.png"
+    Stream: "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8"
+}
+
+   
+    Artist: "angel200881"
+    Title: "MX: FOX SPORTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports.png"
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134468"
 }
 
 {   
-    Title: "AR: FOZ SPORTS 3"
+    Artist: "angel200881"
+    Title: "MX: FOX SPORTS 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/no_logo.png"
-    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145432"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports_2.png"
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/140386"
 }
+
+
 {   
-    Title: "AR: FOZ SPORTS 3"
+    Artist: "angel200881"
+    Title: "MX: FOX SPORTS 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/no_logo.png"
-    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145433"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports_3.png"
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145434"
 }
 
 {   
@@ -41,14 +63,63 @@
     Title: "MX: FOX SPORTS 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports_3.png"
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145435"
+}
+
+{   
+    Artist: "angel200881"
+    Title: "MX: FOX SPORTS PREMIUM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports_premium.png"
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/146541"
 }
 
 {   
     Title: "MX: FOX SPORTS PREMIUM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports_premium.png"
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145436"
+}
+
+{   
+    Title: "AR: FOX SPORTS 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/no_logo.png"
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145431"
+}
+
+{   
+    Title: "AR: FOX SPORTS 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/no_logo.png"
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145432"
+}
+{   
+    Title: "AR: FOX SPORTS 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/no_logo.png"
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145433"
+}
+
+
+{   
+    Title: "US: FOX SPORTS 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/fs1.png"
+    Stream: "http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8"
+}
+
+{   
+    Title: "US: FOX SPORTS 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/fs2.png"
+    Stream: "http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8"
 }
