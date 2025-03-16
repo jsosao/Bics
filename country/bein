@@ -1,0 +1,31 @@
+{   
+    Title: "US: BEIN SPORTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/bein_sports.png"
+    Stream: "http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8"
+}
+
+{   
+    Title: "ES: BEIN EXTRA SPORTS Ñ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/bein_sports_ñ.png"
+    Stream: "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8"
+}
+
+{   
+    Title: "ES: BEIN EXTRA SPORTS Ñ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/bein_sports_ñ.png"
+    Stream: "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8"
+}
+
+{   
+    Title: "EN: BEIN EXTRA SPORTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/bein_sports.png"
+    Stream: "https://apollo.production-public.tubi.io/live/ac-bein.m3u8"
+}
