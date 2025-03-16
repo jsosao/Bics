@@ -57,6 +57,15 @@
 }
 
 {   
+    Artist: "angel200881"
+    Title: "MX: SKY SPORTS BUNDES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sky_sports_bundes.png"
+    Stream: "http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2537250"
+}
+
+{   
     Title: "MX: CANELA DEPORTES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
