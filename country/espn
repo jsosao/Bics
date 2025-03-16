@@ -18,6 +18,25 @@
 }
 
 {   
+    Artist: "listDev"    
+    Title: "MX: ESPN 2",
+    streamFormat: "hls|mts",
+    SwitchingStrategy: "full-adaptation",
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png",
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145425"
+}
+
+{   
+    Artist: "listDev"
+    Title: "MX: ESPN 3",
+    streamFormat: "hls|mts",
+    SwitchingStrategy: "full-adaptation",
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png",
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145426"
+}
+
+
+{   
     Title: "US: ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -100,6 +119,71 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://170.39.192.130:2095/56993164346fpro/180724play/99607"
 }
+
+{   
+    Artist: "listDev"
+    Title: "AR: ESPN PREMIUM",
+    streamFormat: "hls|mts",
+    SwitchingStrategy: "full-adaptation",
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png",
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145421"
+}
+
+
+{   
+    Artist: "listDev"
+    Title: "AR: ESPN VIVO",
+    streamFormat: "hls|mts",
+    SwitchingStrategy: "full-adaptation",
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png",
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145422"
+}
+{   
+    Artist: "listDev"    
+    Title: "AR: ESPN",
+    streamFormat: "hls|mts",
+    SwitchingStrategy: "full-adaptation",
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png",
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145423"
+}
+
+{   
+    Artist: "listDev"    
+    Title: "AR: ESPN",
+    streamFormat: "hls|mts",
+    SwitchingStrategy: "full-adaptation",
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png",
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145424"
+}
+
+{   
+    Artist: "listDev"    
+    Title: "AR: ESPN 4",
+    streamFormat: "hls|mts",
+    SwitchingStrategy: "full-adaptation",
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_4.png",
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145428"
+}
+
+{   
+    Artist: "listDev"   
+    Title: "CL: ESPN 5",
+    streamFormat: "hls|mts",
+    SwitchingStrategy: "full-adaptation",
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_5.png",
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145427"
+}
+
+{   
+    Artist: "listDev"
+    Title: "CL: ESPN 5",
+    streamFormat: "hls|mts",
+    SwitchingStrategy: "full-adaptation",
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_5.png",
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145420"
+}
+
+
 {   
     Title: "BR: ESPN"
     streamFormat: "hls|mts"
