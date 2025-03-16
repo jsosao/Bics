@@ -15,6 +15,15 @@
 }
 
 {   
+    Title: "MX: TUDN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
+    Stream: "http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2217383"
+}
+
+
+{   
     Title: "US: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -28,14 +37,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134467"
-}
-
-{   
-    Title: "US: TUDN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
-    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/232183"
 }
 
 {   
@@ -132,7 +133,7 @@
     Title: "US: FOX DEPORTES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/fox_deportes.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/fox_deportes_2.png"
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/146542"
 }
 
@@ -228,10 +229,6 @@
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/146541"
 }
 
-
-
-
-
 {   
     Artist: "angel200881"
     Title: "MX: ESPN"
@@ -241,13 +238,23 @@
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134462"
 }
 
+{   
+    Artist: "angel200881"
+    Title: "MX: ESPN 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
+    Stream: "http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/155472"
+}
 
-
-
-
-
-
-
+{   
+    Artist: "angel200881"
+    Title: "US: ESPN 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/232183"
+}
 
 {   
     Title: "US: ESPN"
