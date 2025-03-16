@@ -7,14 +7,6 @@
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134462"
 }
 
-{   
-    Artist: "listDev"
-    Title: "MX: ESPN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
-    Stream: "http://170.39.192.130:2095/56971052330playtv/181224play/99617"
-}
 
 {   
     Artist: "angel200881"
@@ -180,4 +172,15 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_6.png"
     Stream: "http://play.1list.vip/live/listatvs/controliptv/129624.ts"
     Live: true
+}
+
+
+
+{   
+    Artist: "listDev"
+    Title: "MX: ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Stream: "http://170.39.192.130:2095/56971052330playtv/181224play/99617"
 }
