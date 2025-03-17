@@ -1,22 +1,11 @@
 
 {   
-    Title: "Otor example MPD"
+    Title: "WILLOW MPD"
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/no_logo.png"
-    Stream: "https://live6.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd"
-    KeyId = "4301796d6d67374043c4a43c18dff7ea"
-    key = "96a3dc8766317aa169149a604928ebb6"
-    Live: true
-}
-
-{   
-    Title: "TNT MPD"
-    streamFormat: "dash"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/no_logo.png"
-    Stream: "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd"
-    KeyId = "ae26845bd33038a9c0774a0981007294"
+    Stream: "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
+    KeyId = "cc5cf3b7928fb9e0a1ee6a8b566f0a8e"
     key = "63ac662dde310cfb4cc6f9b43b34196d"
     Live: true
 }
