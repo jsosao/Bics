@@ -4,7 +4,7 @@
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/no_logo.png"
-    Stream: "https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd"
+    Stream: "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd"
     KeyId = "85c8956b207c44a693d89984803c908b"
     key = "8d8ff21c464506ef396356dd761f5ccd"
     Live: true
