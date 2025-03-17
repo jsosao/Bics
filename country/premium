@@ -1,4 +1,13 @@
 {
+    Title: "MX: AZTECA UNO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/azteca_uno.png"
+    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310639"
+    Live: true
+}
+
+{
     Title: "CANAL DE LAS ESTRELLAS HD CDMX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -17,6 +26,43 @@
 }
 
 {
+    Title: "MX: FORO TV HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/n+_foro.png"
+    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310635"
+    Live: true
+}
+
+{
+    Title: "MX: CANAL 5"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/canal_5.png"
+    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310636"
+    Live: true
+}
+
+{
+    Title: "MX: AZTECA 7"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/azteca_7.png"
+    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310638"
+    Live: true
+}
+
+{
+    Title: "MX: ADN 40"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/adn_40.png"
+    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310643"
+    Live: true
+}
+
+
+{
     Title: "TNT HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -33,25 +79,6 @@
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310591"
     Live: true
 }
-
-{
-    Title: "DISCOVERY CIVILIZATION HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310581"
-    Live: true
-}
-
-{
-    Title: "MX: DISCOVERY H&H  HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310592"
-    Live: true
-}
-
 
 {
     Title: "MX: TLC"
@@ -93,7 +120,7 @@
     Title: "MX: NICK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nick.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/nick.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310599"
     Live: true
 }
@@ -232,6 +259,24 @@
 }
 
 {
+    Title: "DISCOVERY CIVILIZATION HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310581"
+    Live: true
+}
+
+{
+    Title: "MX: DISCOVERY H&H  HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310592"
+    Live: true
+}
+
+{
     Title: "MX |* DISCOVERY WORLD HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -303,48 +348,13 @@
     Live: true
 }
 
-{
-    Title: "MX |* FORO TV HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310635"
-    Live: true
-}
 
 {
-    Title: "MX |* CANAL 5 XHGC HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310636"
-    Live: true
-}
-
-{
-    Title: "MX |* BANDAMAX FHD"
+    Title: "MX: BANDAMAX FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310637"
-    Live: true
-}
-
-{
-    Title: "MX |* AZTECA 7 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310638"
-    Live: true
-}
-
-{
-    Title: "MX |* AZTECA UNO HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310639"
     Live: true
 }
 
@@ -366,14 +376,6 @@
     Live: true
 }
 
-{
-    Title: "MX |* ADN 40 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310643"
-    Live: true
-}
 
 {
     Title: "MX |* WARNER FHD"
@@ -658,12 +660,31 @@
 }
 
 
+{
+    Title: "MX: NATGEO WILD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nat_geo_wild.png"
+    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310668"
+    Live: true
+}
+
+{
+    Title: "MX: NATGEO HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nat_geo.png"
+    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310669"
+    Live: true
+}
+
+
 
 {
     Title: "MX: PARAMOUNT HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/paramount.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/paramount_network.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310665"
     Live: true
 }
@@ -687,22 +708,14 @@
 }
 
 {
-    Title: "MX: NATGEO WILD"
+    Title: "MX: CARTOON NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/natgeo_wild.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310668"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/cartoon_network.png"
+    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310677"
     Live: true
 }
 
-{
-    Title: "MX: NATGEO HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/natgeo.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310669"
-    Live: true
-}
 
 {
     Title: "MX: iSAT HD"
@@ -741,14 +754,6 @@
     Live: true
 }
 
-{
-    Title: "MX: CARTOON NETWORK"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/cartoon_network.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310677"
-    Live: true
-}
 
 {
     Title: "MX: SYFY FHD"
