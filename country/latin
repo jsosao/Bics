@@ -413,31 +413,11 @@
 
 {
     Artist: "neblina6383"    
-    Title: "UNIVISION ALBUR"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113612"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
     Title: "UNIVISION ATLANTA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113600"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
-    Title: "UNIVISION AUSTIN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113601"
     Live: true
 }
 
@@ -478,16 +458,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113616"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
-    Title: "UNIVISION FRESNO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113603"
     Live: true
 }
 
@@ -543,16 +513,6 @@
 
 {
     Artist: "neblina6383"    
-    Title: "UNIVISION PHO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113605"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
     Title: "UNIVISION PR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -568,16 +528,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113609"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
-    Title: "UNIVISION SF"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113610"
     Live: true
 }
 
@@ -614,120 +564,121 @@
 }
 
 {
-    Title: "FX"
+    Title: "CA: FX"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/ewtn.png"
     Stream: "https://streamer1.nexgen.bz/FX/index.m3u8"
 }
 
 {
-    Title: "HISTORY CHANNEL"
+    Title: "CA: HISTORY CHANNEL"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/ewtn.png"
     Stream: "https://streamer1.nexgen.bz/HISTORY/index.m3u8"
 }
 
 {
-    Title: "HISTORY 2"
+    Title: "CA: HISTORY 2"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/ewtn.png"
     Stream: "https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8"
 }
 
 {
-    Title: "LIFETIME"
+    Title: "CA: LIFETIME"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/ewtn.png"
     Stream: "https://streamer1.nexgen.bz/LIFETIME/index.m3u8"
 }
 
 {
-    Title: "STAR CHANNEL"
+    Title: "CA: STAR CHANNEL"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/ewtn.png"
     Stream: "https://streamer1.nexgen.bz/STAR/index.m3u8"
 }
 
 {
-    Title: "CINEMAX"
+    Title: "CA: CINEMAX"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/ewtn.png"
     Stream: "https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8"
 }
 
 {
-    Title: "CINEMAX"
+    Title: "CA: CINEMAX"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/ewtn.png"
     Stream: "http://181.78.107.162:49000/play/a0iz/index.m3u8"
 }
 
 {
-    Title: "CINECANAL"
+    Title: "CA: CINECANAL"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/ewtn.png"
     Stream: "https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8"
 }
 
 {
-    Title: "HBO PLUS"
+    Title: "CA: HBO PLUS"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/ewtn.png"
     Stream: "https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8"
 }
 
 {
-    Title: "HBO FAMILY"
+    Title: "CA: HBO FAMILY"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/ewtn.png"
     Stream: "https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8"
 }
 
 {
-    Title: "HISTORY"
+    Title: "CA: HISTORY"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/ewtn.png"
     Stream: "https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8"
 }
 
 {
-    Title: "HISTORY 2"
+    Title: "CA: HISTORY 2"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/ewtn.png"
     Stream: "https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8"
 }
 
 {
-    Title: "DISCOVERY"
+    Title: "CA: DISCOVERY"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/ewtn.png"
     Stream: "https://streamer1.nexgen.bz/DISCOVERY/index.m3u8"
 }
 
 {
-    Title: "TURBO"
+    Title: "CA: TURBO"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/ewtn.png"
     Stream: "https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8"
 }
 
 {
-    Title: "H&H"
+    Title: "CA: H&H"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/ewtn.png"
     Stream: "http://181.114.57.246:4000/play/qUqJGdarkz5aTfGt/index.m3u8"
 }
 
 {
-    Title: "NAT GEO"
+    Title: "CA: NAT GEO"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/ewtn.png"
     Stream: "https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
 }
 
 {
-    Title: "AXN"
+    Title: "CA: AXN"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/ewtn.png"
     Stream: "https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8"
 }
+
