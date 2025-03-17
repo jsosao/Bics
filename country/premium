@@ -298,7 +298,7 @@
 }
 
 {
-    Title: "MX |* DISCOVERY THEATER HD"
+    Title: "MX: DISCOVERY THEATER HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
@@ -414,9 +414,6 @@
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310650"
     Live: true
 }
-
-
-
 
 {
     Title: "US: TUDN"
@@ -794,7 +791,7 @@
     Title: "MX: HBO MUNDI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_mundi.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310651"
     Live: true
 }
@@ -803,7 +800,7 @@
     Title: "MX: HBO XTREME"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_xtreme.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310603"
     Live: true
 }
@@ -812,7 +809,7 @@
     Title: "HBO XTREME HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_xtreme.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310590"
     Live: true
 }
@@ -839,7 +836,7 @@
     Title: "MX: HBO SIGNATURE HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_signature.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310672"
     Live: true
 }
@@ -848,7 +845,7 @@
     Title: "HBO SIGNATURE HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_signature.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310589"
     Live: true
 }
@@ -857,7 +854,7 @@
     Title: "MX: HBO POP"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_pop.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310673"
     Live: true
 }
@@ -866,7 +863,7 @@
     Title: "HBO POP"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_pop.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310578"
     Live: true
 }
@@ -875,7 +872,7 @@
     Title: "HBO POP"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_pop.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310578"
     Live: true
 }
@@ -884,7 +881,7 @@
     Title: "HBO MUNDI HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_mundi.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310587"
     Live: true
 }
@@ -893,16 +890,16 @@
     Title: "MX: HBO PLUS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_plus.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310674"
     Live: true
 }
 
 {
-    Title: "HBO PLUS HD"
+    Title: "HBO PLUS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_plus.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310588"
     Live: true
 }
