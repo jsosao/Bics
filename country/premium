@@ -81,6 +81,24 @@
 }
 
 {
+    Title: "MX: TNT SERIES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_tnt_series.png"
+    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310660"
+    Live: true
+}
+
+{
+    Title: "MX: TNT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/tnt.png"
+    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310661"
+    Live: true
+}
+
+{
     Title: "MX: DISTRITO COMEDIA HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -347,7 +365,7 @@
     Title: "MX: AXN SERIES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/axn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_axn.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310640"
     Live: true
 }
@@ -574,24 +592,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310658"
-    Live: true
-}
-
-{
-    Title: "MX: TNT SERIES"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310660"
-    Live: true
-}
-
-{
-    Title: "MX: TNT HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/tnt.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310661"
     Live: true
 }
 
