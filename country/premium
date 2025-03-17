@@ -369,15 +369,6 @@
 }
 
 {
-    Title: "MX: SONY"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_canal_sony.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310648"
-    Live: true
-}
-
-{
     Title: "MX: MAS CHIC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -450,19 +441,28 @@
 }
 
 {
-    Title: "MX: iSAT"
+    Title: "MX: SONY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_canal_sony.png"
+    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310648"
+    Live: true
+}
+
+{
+    Title: "MX: SONY MOVIES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_canal_sony.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310670"
     Live: true
 }
 
 {
-    Title: "MX: Adult Swim HD"
+    Title: "MX: ADULT SWIM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_adult_swim.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310646"
     Live: true
 }
@@ -485,37 +485,28 @@
 }
 
 {
-    Title: "MX: NICK"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/nick.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310599"
-    Live: true
-}
-
-{
     Title: "MX: DISCOVERY KIDS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_kids.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310654"
     Live: true
 }
 
 {
-    Title: "MX: BITME FHD"
+    Title: "MX: BITME"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_bitme.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310655"
     Live: true
 }
 
 {
-    Title: "MX: TOONCAST HD"
+    Title: "MX: TOONCAST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_tooncast.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310659"
     Live: true
 }
@@ -668,7 +659,7 @@
     Title: "MX: TELEHIT FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/telehit.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310647"
     Live: true
 }
@@ -677,13 +668,10 @@
     Title: "MX: MTV FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/mtv.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310649"
     Live: true
 }
-
-
-
 
 {
     Title: "MX: HBO"
