@@ -12,6 +12,20 @@
 
 
 {   
+    Title: "Otor example MPD"
+    streamFormat: "dash"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/no_logo.png"
+    Stream: "hhttps://live6.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd"
+    KeyId = "4301796d6d67374043c4a43c18dff7ea"
+    key = "96a3dc8766317aa169149a604928ebb6"
+    Live: true
+}
+
+
+
+
+{   
     Title: "3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
