@@ -23,7 +23,7 @@
     Title: "Prime Video Estrenos"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/series/prime_video.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/series/primevideo.png"
     Stream: "http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1721669"
     Live: true
 }
@@ -33,18 +33,8 @@
     Title: "Prime Video Infantiles"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/series/prime_video.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/series/primevideo.png"
     Stream: "http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1721670"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"
-    Title: "HBO Max Infantiles"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/series/hbo_max.png"
-    Stream: "http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1723069"
     Live: true
 }
 
@@ -55,6 +45,16 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/series/hbo_max.png"
     Stream: "http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1723068"
+    Live: true
+}
+
+{
+    Artist: "neblina6383"
+    Title: "HBO Max Infantiles"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/series/hbo_max.png"
+    Stream: "http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1723069"
     Live: true
 }
 
