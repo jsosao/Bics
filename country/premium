@@ -18,12 +18,30 @@
     Live: true
 }
 
+{   
+    Title: "BR: TNT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/tnt.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/41507.ts"
+    Live: true
+}
+
 {
     Title: "MX: TNT SERIES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_tnt_series.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310660"
+    Live: true
+}
+
+{   
+    Title: "BR: TNT SERIES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_tnt_series.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/41508.ts"
     Live: true
 }
 
@@ -45,6 +63,16 @@
     Live: true
 }
 
+{   
+    Title: "BR: TLC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/tlc.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/61964.ts"
+    Live: true
+}
+
+
 {
     Title: "MX: TCM"
     streamFormat: "hls|mts"
@@ -54,12 +82,30 @@
     Live: true
 }
 
+{   
+    Title: "BR: TCM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/tcm.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/63645.ts"
+    Live: true
+}
+
 {
     Title: "MX: SPACE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_space.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310598"
+    Live: true
+}
+
+{   
+    Title: "BR: SPACE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_space.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/41503.ts"
     Live: true
 }
 
@@ -192,6 +238,14 @@
 }
 
 {
+    Title: "CAME: NAT GEO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nat_geo.png"
+    Stream: "https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
+}
+
+{
     Title: "MX: NATGEO WILD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -207,6 +261,14 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_channel.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310630"
     Live: true
+}
+
+{
+    Title: "CAME: DISCOVERY CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_channel.png"
+    Stream: "https://streamer1.nexgen.bz/DISCOVERY/index.m3u8"
 }
 
 {
@@ -234,6 +296,14 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_turbo.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310628"
     Live: true
+}
+
+{
+    Title: "CAME: DISCOVERY TURBO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_turbo.png"
+    Stream: "https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8"
 }
 
 {
@@ -381,6 +451,15 @@
     Live: true
 }
 
+{   
+    Title: "BR: WARNER CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_warner_tv.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/38384.ts"
+    Live: true
+}
+
 {
     Title: "MX: MAS CHIC"
     streamFormat: "hls|mts"
@@ -396,6 +475,42 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_universal_tv.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310656"
+    Live: true
+}
+
+{   
+    Title: "BR: UNIVERSAL TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_universal_tv.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/71655.ts"
+    Live: true
+}
+
+{   
+    Title: "BR: UNIVERSAL TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_universal_tv.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/41511.ts"
+    Live: true
+}
+
+{   
+    Title: "BR: USA NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/usa_network.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/41504.ts"
+    Live: true
+}
+
+{   
+    Title: "BR: USA NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/usa_network.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/41504.ts"
     Live: true
 }
 
@@ -451,6 +566,16 @@
     Live: true
 }
 
+{   
+    Title: "BR: PARAMOUNT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/paramount_network.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/41500.ts"
+    Live: true
+}
+
+
 {
     Title: "MX: ESTUDIO UNIVERSAL"
     streamFormat: "hls|mts"
@@ -484,6 +609,24 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_canal_sony.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310670"
+    Live: true
+}
+
+{   
+    Title: "BR: SONY CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_canal_sony.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/41470.ts"
+    Live: true
+}
+
+{   
+    Title: "BR: SONY MOVIES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_canal_sony.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/215593.ts"
     Live: true
 }
 
@@ -721,6 +864,15 @@
     Live: true
 }
 
+{   
+    Title: "BR: CINEMAX"
+    streamFormat: "hls|mts"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cinemax.png"
+    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310607"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/40261.ts"
+    Live: true
+}
+
 {
     Title: "MX: HBO"
     streamFormat: "hls|mts"
@@ -736,6 +888,15 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310584"
+    Live: true
+}
+
+{   
+    Title: "BR: HBO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/61972.ts"
     Live: true
 }
 
@@ -757,12 +918,30 @@
     Live: true
 }
 
+{   
+    Title: "BR: HBO 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo_2.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/38423.ts"
+    Live: true
+}
+
 {
     Title: "MX: HBO MUNDI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_mundi.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310651"
+    Live: true
+}
+
+{   
+    Title: "BR: HBO MUNDI"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_mundi.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/40268.ts"
     Live: true
 }
 
@@ -781,6 +960,16 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_xtreme.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310590"
+    Live: true
+}
+
+{   
+    Title: "BR: HBO XTREME"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_xtreme.png"
+    Logo: "tvg-logo="https://i.imgur.com/CufUNOo.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/42901.ts"
     Live: true
 }
 
@@ -803,6 +992,23 @@
 }
 
 {
+    Title: "CAME: HBO FAMILY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo_family.png"
+    Stream: "https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8"
+}
+
+{   
+    Title: "BR: HBO FAMILY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo_family.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/41486.ts"
+    Live: true
+}
+
+{
     Title: "MX: HBO SIGNATURE HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -817,6 +1023,15 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_signature.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310589"
+    Live: true
+}
+
+{   
+    Title: "BR: HBO SIGNATURE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_signature.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/41488.ts"
     Live: true
 }
 
@@ -845,6 +1060,32 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_pop.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310578"
     Live: true
+}
+
+{   
+    Title: "BR: HBO POP"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_pop.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/40270.ts"
+    Live: true
+}
+
+{   
+    Title: "BR: HBO PLUS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_pop.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/41487.ts"
+    Live: true
+}
+
+{
+    Title: "CAME: HBO PLUS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_pop.png"
+    Stream: "https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8"
 }
 
 {
@@ -952,96 +1193,6 @@
     Live: true
 }
 
-
-
-
-{FIN
-
-
-
-{
-    Title: "CAME: CINEMAX"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cinemax.png"
-    Stream: "https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8"
-}
-
-{
-    Title: "CAME: CINEMAX"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cinemax.png"
-    Stream: "http://181.78.107.162:49000/play/a0iz/index.m3u8"
-}
-
-{
-    Title: "CAME: HBO PLUS"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_plus.png"
-    Stream: "https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8"
-}
-
-{
-    Title: "CAME: HBO FAMILY"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo_family.png"
-    Stream: "https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8"
-}
-
-
-{
-    Title: "CAME: DISCOVERY"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_channel.png"
-    Stream: "https://streamer1.nexgen.bz/DISCOVERY/index.m3u8"
-}
-
-{
-    Title: "CAME: TURBO"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_turbo.png"
-    Stream: "https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8"
-}
-
-{
-    Title: "CAME: H&H"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/ewtn.png"
-    Stream: "http://181.114.57.246:4000/play/qUqJGdarkz5aTfGt/index.m3u8"
-}
-
-{
-    Title: "CAME: NAT GEO"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nat_geo.png"
-    Stream: "https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
-}
-
-
-
-
-
-
-
-
-
-{   
-    Title: "BR: USA NETWORK"
-    streamFormat: "hls|mts"
-    Logo: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyzEVyV2oH1phXQkdXBAvVdLBTGjeMkfYU1TPyi2cHhGmLMzafdg6a9O4eFdFRNmjJWdXRm7dFlP_HML27jW9nY7NG9oqta65PwC_tu_6n_KxFuDzlZMrLsZ0L6YN3DT8vo1zhBDtI7Lvl/s640/0edc353ff54f0fa2b88ffc4a45e0345e.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/41504.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: CINEMAX"
-    streamFormat: "hls|mts"
-    Logo: "https://i.imgur.com/oPzq9zc.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/40261.ts"
-    Live: true
-}
-
-
-
 {   
     Title: "BR: FILM AND ARTS"
     streamFormat: "hls|mts"
@@ -1050,20 +1201,11 @@
     Live: true
 }
 
-
 {   
     Title: "BR: MEGAPIX"
     streamFormat: "hls|mts"
     Logo: "https://i.imgur.com/oPzq9zc.png"
     Stream: "http://play.1list.vip/live/listatvs/controliptv/41491.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: PARAMOUNT CHANNEL"
-    streamFormat: "hls|mts"
-    Logo: "https://i.imgur.com/zKRZCRY.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/41500.ts"
     Live: true
 }
 
@@ -1076,71 +1218,6 @@
 }
 
 {   
-    Title: "BR: SONY CHANNEL"
-    streamFormat: "hls|mts"
-    Logo: "https://i.imgur.com/H3HTJWH.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/41470.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: SONY MOVIES"
-    streamFormat: "hls|mts"
-    Logo: "https://i.imgur.com/tIlcQ83.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/215593.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: SPACE"
-    streamFormat: "hls|mts"
-    Logo: "https://i.imgur.com/KEn67oN.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/41503.ts"
-    Live: true
-}
-
-
-{   
-    Title: "BR: UNIVERSAL"
-    streamFormat: "hls|mts"
-    Logo: "https://i.imgur.com/yqDhU6L.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/41511.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: TCM"
-    streamFormat: "hls|mts"
-    Logo: "https://i.imgur.com/2mshf5U.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/63645.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: TLC"
-    streamFormat: "hls|mts"
-    Logo: "https://i.imgur.com/D3wyj1T.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/61964.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: USA NETWORK"
-    streamFormat: "hls|mts"
-    Logo: "https://i.imgur.com/DvHVUpY.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/41504.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: UNIVERSAL TV"
-    streamFormat: "hls|mts"
-    Logo: "https://i.imgur.com/GQZEz4o.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/71655.ts"
-    Live: true
-}
-
-{   
     Title: "BR: URBAN MOVIES"
     streamFormat: "hls|mts"
     Logo: "https://i.imgur.com/5FmSlAU.png"
@@ -1148,20 +1225,11 @@
     Live: true
 }
 
-
 {   
     Title: "BR: URBAN SERIES"
     streamFormat: "hls|mts"
     Logo: "https://i.imgur.com/5FmSlAU.png"
     Stream: "http://play.1list.vip/live/listatvs/controliptv/86530.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: WARNER CHANNEL"
-    streamFormat: "hls|mts"
-    Logo: "https://i.imgur.com/vGxAYPj.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/38384.ts"
     Live: true
 }
 
@@ -1178,135 +1246,5 @@
     streamFormat: "hls|mts"
     Logo: "https://i.imgur.com/IoWD44d.png"
     Stream: "http://play.1list.vip/live/listatvs/controliptv/38415.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: TNT"
-    streamFormat: "hls|mts"
-    Logo: "https://i.imgur.com/s99Fd0l.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/41507.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: TNT SERIES"
-    streamFormat: "hls|mts"
-    Logo: "https://i.imgur.com/oPzq9zc.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/41508.ts"
-    Live: true
-}
-
-
-{   
-    Title: "BR: HBO"
-    streamFormat: "hls|mts"
-    Logo: "https://i.imgur.com/U5LrKAW.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/61972.ts"
-    Live: true
-}
-
-
-{   
-    Title: "BR: HBO 2"
-    streamFormat: "hls|mts"
-    Logo: "https://i.imgur.com/QTtMuR2.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/38423.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: HBO FAMILY"
-    streamFormat: "hls|mts"
-    Logo: "https://i.imgur.com/f181m4I.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/41486.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: HBO MUNDI"
-    streamFormat: "hls|mts"
-    Logo: "https://i.imgur.com/RgOfJYg.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/40268.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: HBO POP"
-    streamFormat: "hls|mts"
-    Logo: "https://i.imgur.com/MWoRP4A.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/40270.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: HBO PLUS"
-    streamFormat: "hls|mts"
-    Logo: "https://i.imgur.com/AKrQpLY.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/41487.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: HBO SIGNATURE"
-    streamFormat: "hls|mts"
-    Logo: "tvg-logo="https://i.imgur.com/oPzq9zc.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/41488.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: HBO XTREME"
-    streamFormat: "hls|mts"
-    Logo: "tvg-logo="https://i.imgur.com/CufUNOo.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/42901.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: HBO MAX 01"
-    streamFormat: "hls|mts"
-    Logo: "tvg-logo="https://i.imgur.com/pLDVho7.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/90555.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: HBO MAX 02"
-    streamFormat: "hls|mts"
-    Logo: "tvg-logo="https://i.imgur.com/pLDVho7.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/90556.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: HBO MAX 03"
-    streamFormat: "hls|mts"
-    Logo: "tvg-logo="https://i.imgur.com/pLDVho7.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/90557.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: HBO MAX 04"
-    streamFormat: "hls|mts"
-    Logo: "tvg-logo="https://i.imgur.com/pLDVho7.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/90558.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: HBO MAX 05"
-    streamFormat: "hls|mts"
-    Logo: "tvg-logo="https://i.imgur.com/pLDVho7.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/91220.ts"
-    Live: true
-}
-
-{   
-    Title: "BR: HBO MAX 06"
-    streamFormat: "hls|mts"
-    Logo: "tvg-logo="https://i.imgur.com/pLDVho7.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/91221.ts"
     Live: true
 }
