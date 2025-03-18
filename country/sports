@@ -36,7 +36,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
-    Stream: "http://45.68.35.218:4001/play/a00x/index.m3u8"
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145459"
 }
 
 {   
@@ -44,7 +44,23 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
+    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145460"
+} 
+
+{   
+    Title: "US: TUDN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134467"
+}
+
+{   
+    Title: "US: TUDN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
+    Stream: "http://45.68.35.218:4001/play/a00x/index.m3u8"
 }
 
 {   
@@ -90,7 +106,6 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sky_sports_football.png"
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145486"
 }
-
 
 {   
     Title: "MX: CANELA DEPORTES"
@@ -157,7 +172,6 @@
     Live: true
 }
 
-
 {   
     Title: "US: ACC NETWORK"
     streamFormat: "hls|mts"
@@ -165,7 +179,6 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/acc_network.png"
     Stream: "http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8"
 }
-
 
 {   
     Title: "US: BIG TEN NETWORK"
@@ -209,7 +222,6 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_tvc_deportes.png"
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150069"
 }
-
 
 {   
     Title: "US: GOLF CHANNEL"
@@ -470,14 +482,6 @@
 }
 
 {   
-    Title: "MX: TELEMUNDO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
-    Stream: "https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8"
-}
-
-{   
     Title: "IT: SPORT ITALIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -509,7 +513,6 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/37256.ts"
     Live: true
 }
-
 
 {   
     Title: "BR: SPORT TV 2"
@@ -654,6 +657,7 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sporttv_1.png"
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145454"
 }
+
 {   
     Artist:"neblina6383" 
     Title: "SPORTTV 2"
@@ -997,27 +1001,6 @@
 }
 
 {   
-    Title: "TUDN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/no_logo.png"
-    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145458"
-}
-{   
-    Title: "TUDN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/no_logo.png"
-    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145459"
-}
-{   
-    Title: "TUDN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/no_logo.png"
-    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145460"
-}
-{   
     Title: "MX: FOX SPORTS 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -1031,6 +1014,7 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/no_logo.png"
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145462"
 }
+
 {   
     Title: "DEPORTV"
     streamFormat: "hls|mts"
