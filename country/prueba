@@ -1,3 +1,2182 @@
+{
+    Title: "Uno"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a04p/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "LAS ESTRELLAS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a00g/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Imagen"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a00h/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Cinco"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a038/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Canal 6 CDMX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a039/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Siete"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a00i/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "ONCE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a03a/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Canal 14"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a044/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "UNAM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a045/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Canal22"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a00j/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Congreso"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a046/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "MVSTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a03b/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Universal"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a03d/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "SONY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a002/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "WB"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a01f/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "TNTSE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a00m/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "AXN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a05y/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "FX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a05z/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Space MX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a04x/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "A&E"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a03f/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Investigation Discovery La"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a04y/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "DH&H"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a03g/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "TLC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a03h/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Lifetime"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a01i/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "HOLA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a00n/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "E!"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a03i/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "ComedyC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a04a/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "VideRola"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a04c/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "TELER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a03u/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "OnceKids"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a04f/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "DisneyJR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a03j/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "NICKELODEON"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a014/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "CartoonNetwork"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a03k/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Discovery kids"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a015/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "MXNuestroCine"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a04h/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "IngenioTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a04i/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Discovery"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a03x/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "NatGeo"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a01l/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "History"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a017/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "History2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a00v/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Arts"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a04j/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Claro Sport"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a053/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "ESPN 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a063/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a064/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "ESPN3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a03n/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "CNNE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a00x/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Milenio"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a00y/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "MNMX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a04m/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Judicial"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a04n/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "TNT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a018/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "MC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a01o/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "CineCanal O"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a04q/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Film&Arts"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a08i/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "StudioUniversal"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a04o/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Paramount"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a01s/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "AGROTENDENCIA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a08b/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Azteca 7"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a08z/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Cine Mexicano TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a092/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Distrito Comedia"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a08t/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "Telemundo USA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a093/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "SKY LA LIGA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a08m/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "TLNOVELAS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a08d/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "TN23"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a08g/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "TUDN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a08j/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "UNICABLE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://181.78.105.146:2000/play/a08f/index.m3u8"
+    Live: true
+}
+
+{
+    Title: "CANAL 4 MONTERREY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "https://ythls-v3.onrender.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg.m3u8"
+    Live: true
+}
+
+{
+    Title: "CANAL 4 GUADALAJARA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "https://ythls-v3.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8"
+    Live: true
+}
+
+{
+    Title: "UNIVERSAL CRIME"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=32&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "UNIVERSAL CINEMA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=36&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "UNIVERSAL PREMIER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=31&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "UNIVERSAL REALITY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=35&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "UNIVERSAL CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=38&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "HBO PLUS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=21&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "HBO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=24&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "HBO FAMILY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=22&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "HBO SIGNATURE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=20&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "HBO XTREME"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=16&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "AXN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=55&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "SPACE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=10&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "TNT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=6&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "TNT SERIES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=5&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "AMC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=57&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "CINECANAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=50&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "CINEMAX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=49&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DISCOVERY CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=47&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DISCOVERY TURBO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=80&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "HISTORY CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=19&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "NATGEO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=15&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DISCOVERY ID"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=18&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DISCOVERY H&H"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=46&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "GOLDEN PLUS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=26&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "GOLDEN PREMIER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=25&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "PARAMOUNT NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=12&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "USA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=9&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "FX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=27&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "UNIVISION LLEGA (LA)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=3&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "SONY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=11&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "ANIMAL PLANET"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=56&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "A&E"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=58&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "WARNER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=2&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "TELEMUNDO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=7&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "LIFE TIME"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=33&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "STAR CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=37&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "UNIVERSO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=68&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "TLNOVELAS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=69&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "STUDIO UNIVERSAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=70&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "RCN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=71&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "TCM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=73&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "CLARO CINEMA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=83&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "CINE LATINO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=84&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "CINEMA DINAMITA MX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=85&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "CARACOL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=86&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "AZ MUNDO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=87&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DISNEY CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=44&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DISCOVERY KIDS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=45&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "CARTOON NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=51&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "TOONCAST"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=14&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "NICK  JR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=13&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DISNEY JR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=43&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "AZTECA UNO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=1&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "AZTECA 7"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=54&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "CANAL 5"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=52&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DE PELICULA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=48&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "LAS ESTRELLAS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=17&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "ESPN 1 MX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=41&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "ESPN 2 MX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=40&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "ESPN 3 MX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=39&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "FOX SPORTS 1 MX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=30&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "FOX SPORTS 3 MX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=28&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "WIN SPORTS +"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=66&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "WIN SPORTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=67&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "NBA TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=74&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "GOLTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=76&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "LA LIGA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=75&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "ESPN SUR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=77&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "ESPN 2 SUR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=79&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "ESPN 3 SUR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=78&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "CLARO SPORTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=82&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "Az Cinema"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=89&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "Az Corazon"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=88&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "Cartoonito"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=53&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "Distrito Comedia"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=42&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "TUDN USA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=64&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "Universal Comedy"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=34&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "Universal Reality"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=34&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "fox sports 2 mx"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=29&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "Hbo 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=23&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "Nick"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista0.php?c=92&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "A&E"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46526&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "A&E Alt"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46527&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "A&E HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46528&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "AMC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46529&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "AMC HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46530&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "ANIMAL PLANET"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46531&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "ANIMAL PLANET HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46532&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "AXN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46533&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "AXN Alt"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46534&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "AXN HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46535&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "AZ CINEMA HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46536&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "CINE CANAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46537&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "CINE CANAL HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46538&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "CINEMA DINAMITA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46571&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "CINEMAX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46572&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "CINEMAX HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46573&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "COMEDY CENTRAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46574&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "COMEDY CENTRAL HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46575&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DE PELICULA HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46576&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DE PELICULA PLUS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46577&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DE PELICULA PLUS HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46578&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DISCOVERY CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46579&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DISCOVERY CHANNEL HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46580&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DISCOVERY H&H"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46582&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DISCOVERY H&H HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46583&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DISCOVERY ID"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46584&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DISCOVERY ID HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46585&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DISCOVERY SCIENCE HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46586&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DISCOVERY THEATER HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46587&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DISCOVERY TLC HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46588&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DISCOVERY TURBO HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46589&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DISCOVERY WORLD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46590&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DISCOVERY WORLD HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46591&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "DISTRITO COMEDIA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46592&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "E! ENTERTAINMENT HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46593&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "EL GOURMET HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46594&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "EUROPA EUROPA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46595&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "FILM & ARTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46596&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "STAR CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46597&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "STAR CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46605&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "STAR CHANNEL Alt"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46606&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "FX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46619&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "FX HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46620&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "FXM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46621&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "FXM HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46622&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "GLITZ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46623&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "GOLDEN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46624&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "GOLDEN EDGE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46625&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "GOLDEN PLUS HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46626&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "GOLDEN PREMIER HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46627&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "H2 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46628&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "HBO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46629&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "HBO 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46630&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "HBO 2 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46631&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "HBO FAMILY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46632&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "HBO FAMILY HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46633&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "HBO HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46634&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "HBO PLUS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46635&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "HBO PLUS HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46636&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "HBO SIGNATURE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46637&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "HBO SIGNATURE HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46638&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "HISTORY CHANNEL HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46639&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "HOLA TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46640&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "LIFETIME HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46643&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "MAS CHIC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46644&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "HBO MUNDI"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46645&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "HBO XTREME HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46646&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "HBO POP HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46647&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "NAT GEO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46649&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "NAT GEO HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46650&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "PARAMOUNT CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46653&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "PARAMOUNT CHANNEL HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46654&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "PASIONES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46655&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "SONY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46659&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "SONY HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46660&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "SPACE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46661&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "SPACE HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46662&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "STAR TVE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46663&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "Studio Universal HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46675&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "TNT NOVELAS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46677&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "TNT NOVELAS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46678&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "TCM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46679&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "TNT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46680&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "TNT SERIES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46682&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "TNT SERIES HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46683&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "ULTRA CINE HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46684&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "ULTRA CLASICO HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46685&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "ULTRA FAMILIA HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46686&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "ULTRA FILM HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46687&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "ULTRA MACHO HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46688&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "ULTRA TAINMENT HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46689&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "UNIVERSAL CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46690&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "WARNER CHANNEL HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46691&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+{
+    Title: "WOBI"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logo.png"
+    Stream: "http://clubtv.link/marzo17/phpcode/lista4.php?c=46692&token=TecnotvGeneradorPlaylist&f=.m3u8"
+    Live: true
+}
+
+
 {   
     Title: "24/7 REDBOX"
     streamFormat: "hls|mts"
