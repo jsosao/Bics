@@ -446,6 +446,13 @@
 }
 
 {
+    Title: "SLP: Canal 9"
+    streamFormat: "hls|mts"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/slp_canal_9.png"
+    Stream: "https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8"
+}
+
+{
     Title: "SIN: TVP Culiacan"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/sin_tvp_culiacan.png"
