@@ -255,6 +255,13 @@
 }
 
 {
+    Title: "CAMP: Mayavsión"
+    streamFormat: "hls|mts"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/camp_mayavision.png"
+    Stream: "https://www.amixtv.com:8081/mayavision/index.m3u8"
+}
+
+{
     Title: "CHIH: Canal 44"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/chih_canal_44.png"
