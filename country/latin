@@ -337,6 +337,16 @@
 }
 
 {   
+    Artist:"milista"
+    Title: "VE: VENEVISION"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ve_venevision.png"
+    Stream: "http://goldfull.pro:8880/yimxcvyrbm/EEa8Ju8BGm4h/418781"
+    Live: true
+}
+
+{   
     Title: "VE: VENEVISION INTERNACIONAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
