@@ -47,6 +47,17 @@
 }
 
 {   
+    Artist:"milista"
+    Title: "CL: Chilevisión"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/cl_chilevision.png"
+    Stream: "http://goldfull.pro:8880/yimxcvyrbm/EEa8Ju8BGm4h/272240
+"
+    Live: true
+}
+
+{   
     Title: "EC: Ecuador TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
