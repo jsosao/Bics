@@ -1,5 +1,15 @@
 
 {
+    Artist:"Abisoft77"    
+    Title: "UNIVERSAL PREMIER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_premier.png"
+    Stream: "http://190.83.2.172:8081/play/a05o"
+    Live: true
+}
+
+{
     Artist:"neblina6383"    
     Title: "TNT HD"
     streamFormat: "hls|mts"
