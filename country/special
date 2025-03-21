@@ -8,15 +8,6 @@
 }
 
 {   
-    Title: "DAZN F1 FHD (EXTRA)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_f1.png"
-    Stream: "https://65.108.40.218:2096/live/blickkk/XUbxsnSbxbQ2/828.ts"
-    Live: true
-}
-
-{   
     Title: "SKY F1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -24,35 +15,6 @@
     Stream: "http://117tv.icu:8080/X5xRz0/944877/125947"
     Live: true
 }
-
-{   
-    Title: "ES: SKY SPORTS FOOTBALL FHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sky_sports.png"
-    Stream: "https://65.108.40.218:2096/live/blickkk/XUbxsnSbxbQ2/5011.ts"
-    Live: true
-}
-
-{   
-    Title: "ES: SKYSHOWTIME FHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sky_sports.png"
-    Stream: "https://65.108.40.218:2096/live/blickkk/XUbxsnSbxbQ2/5397.ts"
-    Live: true
-}
-
-{   
-    Title: "ES: SKYSHOWTIME HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sky_sports.png"
-    Stream: "https://65.108.40.218:2096/live/blickkk/XUbxsnSbxbQ2/5398.t"
-    Live: true
-}
-
-
 
 {   
     Title: "WILLOW MPD"
