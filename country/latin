@@ -52,8 +52,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/cl_chilevision.png"
-    Stream: "http://goldfull.pro:8880/yimxcvyrbm/EEa8Ju8BGm4h/272240
-"
+    Stream: "http://goldfull.pro:8880/yimxcvyrbm/EEa8Ju8BGm4h/272240"
     Live: true
 }
 
@@ -72,6 +71,66 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ec_ecuavisa.png"
     Stream: "https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "EC: ECUAVISA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ec_teleamazonas.png"
+    Stream: "http://goldfull.pro:8880/yimxcvyrbm/EEa8Ju8BGm4h/347670"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "CO: CARACOL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/co_caracol.png"
+    Stream: "http://goldfull.pro:8880/yimxcvyrbm/EEa8Ju8BGm4h/318372"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "CO: RCN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/co_rcn.png"
+    Stream: http://goldfull.pro:8880/yimxcvyrbm/EEa8Ju8BGm4h/318383"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "PA: TV MAX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/pa_tvmax.png"
+    Stream: "http://goldfull.pro:8880/yimxcvyrbm/EEa8Ju8BGm4h/418185"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "PA: TVN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/pa_tvn.png"
+    Stream: "http://goldfull.pro:8880/yimxcvyrbm/EEa8Ju8BGm4h/418186"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "HN: CANLA 5"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/hn_canal_5.png"
+    Stream: "http://goldfull.pro:8880/yimxcvyrbm/EEa8Ju8BGm4h/357710"
     Live: true
 }
 
@@ -274,6 +333,16 @@
 }
 
 {   
+    Artist:"milista"
+    Title: "CR: CANAL 7"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/cr_canal_7.png"
+    Stream: "http://goldfull.pro:8880/yimxcvyrbm/EEa8Ju8BGm4h/429228"
+    Live: true
+}
+
+{   
     Title: "CR: TV NOSARA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -369,6 +438,24 @@
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/br_globo.png"
     Stream: "http://play.1list.vip/live/listatvs/controliptv/215396.ts"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "UY: CANAL 10"
+    streamFormat: "hls|mts"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/uy_canal_10.png"
+    Stream: "http://goldfull.pro:8880/yimxcvyrbm/EEa8Ju8BGm4h/385087"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "PY: TELEFUTURO"
+    streamFormat: "hls|mts"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/py_telefuturo.png"
+    Stream: "http://goldfull.pro:8880/yimxcvyrbm/EEa8Ju8BGm4h/357909"
     Live: true
 }
 
