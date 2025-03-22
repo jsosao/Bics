@@ -40,6 +40,16 @@
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145435"
 }
 
+{
+    Artist: "Chloe125_TV"
+    Title: "FOX SPORT 1 MX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports.png"
+    Stream: "http://200.229.147.142:8000/play/a06a/index.m3u8"
+    Live: true
+}
+
 {   
     Artist: "angel200881"
     Title: "MX: FOX SPORTS 2"
@@ -55,6 +65,16 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports_2.png"
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145433"
+}
+
+{
+    Artist: "Chloe125_TV"
+    Title: "FOX SPORT 2 MX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports_2.png"
+    Stream: "http://200.229.147.142:8000/play/a06b/index.m3u8"
+    Live: true
 }
 
 {   
@@ -99,6 +119,16 @@
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135645"
 }
 
+{
+    Artist: "Chloe125_TV"
+    Title: "Fox Sports HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://181.13.173.86:8000/play/a07j/index.m3u8"
+    Live: true
+}
+
 
 {   
     Title: "AR: FOX SPORTS 2"
@@ -108,7 +138,6 @@
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135646"
 }
 
-
 {   
     Title: "AR: FOX SPORTS 2"
     streamFormat: "hls|mts"
@@ -116,6 +145,17 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/no_logo.png"
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145431"
 }
+
+{
+    Artist: "Chloe125_TV"
+    Title: "FOX SPORT 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://181.13.173.86:8000/play/a0ai/index.m3u8"
+    Live: true
+}
+
 
 {   
     Title: "AR: FOX SPORTS 3"
@@ -132,6 +172,16 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/no_logo.png"
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135647"
+}
+
+{
+    Artist: "Chloe125_TV"
+    Title: "Fox Sports 3 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://181.13.173.86:8000/play/a02t/index.m3u8"
+    Live: true
 }
 
 {   
