@@ -11,7 +11,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/azteca_uno_1_h.png"
-    Stream: "https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8"
+    Stream: "https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8"
 }
 
 {
@@ -255,18 +255,13 @@
     Stream: "https://5f1af61612fb5.streamlock.net/trc/videotrc/playlist.m3u8"
 }
 
-{
-    Title: "CAMP: Telemar"
+{   
+    Artist:"Chloe125" 
+    Title: "UNIFE"
     streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/camp_telemar.png"
-    Stream: "https://live-c.cf.dmcdn.net/sec2(u6u4-oP3-3kI6u6ZwVQF7mfOrzpeynX6nXpVSNeTwMRj9eJ5kxa8DsufUIDKobarf4ONDesszMjDSVkjiaWzJiCCUOhvecwJAxaq9dPV3FMjcJdnKVs9Njtus-AYS782)/dm/3/x80bl3l/s/live-380.m3u8.m3u8"
-}
-
-{
-    Title: "CAMP: Mayavisión"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/camp_mayavision.png"
-    Stream: "https://www.amixtv.com:8081/mayavision/index.m3u8"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/cdmx_unife.png"
+    Stream: "https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8"
 }
 
 {
