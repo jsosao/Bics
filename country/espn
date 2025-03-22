@@ -7,17 +7,6 @@
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134462"
 }
 
-
-{
-    Artist: "Chloe125_TV"
-    Title: "ESPN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
-    Stream: "http://190.216.158.199:8000/play/a02l/index.m3u8"
-    Live: true
-}
-
 {   
     Artist: "angel200881"
     Title: "MX: ESPN 2"
@@ -36,16 +25,6 @@
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145425"
 }
 
-{
-    Artist: "Chloe125_TV"
-    Title: "ESPN 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
-    Stream: "http://190.216.158.199:8000/play/a036/index.m3u8"
-    Live: true
-}
-
 {   
     Artist: "listDev"
     Title: "MX: ESPN 3"
@@ -54,17 +33,6 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145426"
 }
-
-{
-    Artist: "Chloe125_TV"
-    Title: "ESPN 3"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
-    Stream: "http://190.216.158.199:8000/play/a035/index.m3u8"
-    Live: true
-}
-
 
 {   
     Title: "US: ESPN"
@@ -139,7 +107,6 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
     Stream: "http://45.71.254.1:8000/play/a0e7/index.m3u8"
 }
-
 
 {   
     Artist: "listDev"
@@ -326,6 +293,16 @@
     Stream: "http://181.78.74.69:8000/play/a056/index.m3u8"
 }
 
+{
+    Artist: "Chloe125_TV"
+    Title: "CO: ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Stream: "http://190.216.158.199:8000/play/a02l/index.m3u8"
+    Live: true
+}
+
 {   
     Artist: "06_SPORTS"    
     Title: "CO: ESPN 2"
@@ -510,17 +487,6 @@
     Stream: "http://200.229.147.142:8000/play/a04v/index.m3u8"
     Live: true
 }
-
-{   
-    Artist: "listDev"
-    Title: "MX: ESPN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
-    Stream: "http://170.39.192.130:2095/56971052330playtv/181224play/99617"
-}
-
-
 
 {
     Title: "ESPN"
