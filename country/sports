@@ -108,6 +108,15 @@
 }
 
 {   
+    Artist:"Chloe125" 
+    Title: "AZTECA DEPORTES NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/azteca_deportes_network.png"
+    Stream: "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+}
+
+{   
     Title: "MX: CANELA DEPORTES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -683,6 +692,15 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sporttv_4.png"
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145457"
+}
+
+{   
+    Artist:"Chloe125" 
+    Title: "TIGO SPORTS GT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tigo_sports.png"
+    Stream: "https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8"
 }
 
 {   
