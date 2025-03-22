@@ -96,12 +96,22 @@
 }
 
 {   
-    Artist:"milista"
+    Artist:"Chloe125"
     Title: "CO: RCN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/co_rcn.png"
-    Stream: "http://goldfull.pro:8880/yimxcvyrbm/EEa8Ju8BGm4h/318383"
+    Stream: "http://190.216.158.199:8000/play/a003/index.m3u8"
+    Live: true
+}
+
+{   
+    Artist:"Chloe125"
+    Title: "AR: UNIFE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/cdmx_unife.png"
+    Stream: "https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/mono.m3u8"
     Live: true
 }
 
@@ -316,6 +326,16 @@
 }
 
 {   
+    Artist:"Chloe125"
+    Title: "CR: UNIFE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/cdmx_unife.png"
+    Stream: "http://190.7.192.164:8020/play/s41"
+    Live: true
+}
+
+{   
     Title: "CR: CANAL 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -362,20 +382,22 @@
 }
 
 {   
+    Artist:"Chloe125"
     Title: "BO: CANAL 7.1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/bo_canal_7_1.png"
-    Stream: "https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8"
+    Stream: "http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8"
     Live: true
 }
 
 {   
+    Artist:"Chloe125"
     Title: "BO: CANAL 7.2 DEPORTES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/bo_canal_7_1.png"
-    Stream: "https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8"
+    Stream: "https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8"
     Live: true
 }
 
