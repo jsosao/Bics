@@ -238,6 +238,17 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_h2.png"
     Stream: "https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8"
 }
+
+{
+    Artist: "Chloe125_TV"
+    Title: "ANIMAL PLANET"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/animal_planet.png"
+    Stream: "http://190.216.158.199:8000/play/a00h/index.m3u8"
+    Live: true
+}
+
 {
     Title: "MX: NATGEO HD"
     streamFormat: "hls|mts"
@@ -261,6 +272,16 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nat_geo_wild.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310668"
+    Live: true
+}
+
+{
+    Artist: "Chloe125_TV"
+    Title: "DISCOVERY CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_channel.png"
+    Stream: "http://190.216.158.199:8000/play/a00o/index.m3u8"
     Live: true
 }
 
@@ -440,6 +461,36 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_warner_tv.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310644"
+    Live: true
+}
+
+{
+    Artist: "Chloe125_TV"
+    Title: "WARNER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_warner_tv.png"
+    Stream: "http://190.216.158.199:8000/play/a00m/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "Chloe125_TV"
+    Title: "WARNER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_warner_tv.png"
+    Stream: "http://181.13.173.86:8000/play/a0as/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "Chloe125_TV"
+    Title: "WARNER HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_warner_tv.png"
+    Stream: "http://200.229.147.142:8000/play/a03e/index.m3u8"
     Live: true
 }
 
