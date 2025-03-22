@@ -16,6 +16,16 @@
     Live: true
 }
 
+{
+    Artist: "Chloe125_TV"
+    Title: "CARTOON NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/cartoon_network.png"
+    Stream: "http://190.216.158.199:8000/play/a00j/index.m3u8"
+    Live: true
+}
+
 {   
     Title: "DISNEY CHANNEL"
     streamFormat: "hls|mts"
@@ -94,6 +104,26 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/retro_cartoons.png"
     Stream: "https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8"
+    Live: true
+}
+
+{
+    Artist: "Chloe125_TV"
+    Title: "CARTOONITO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/cartoonito.png"
+    Stream: "http://190.216.158.199:8000/play/a00b/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "Chloe125_TV"
+    Title: "DISCOVERY KIDS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/d_kids.png"
+    Stream: "http://190.216.158.199:8000/play/a00r/index.m3u8"
     Live: true
 }
 
