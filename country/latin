@@ -448,15 +448,6 @@
 }
 
 {   
-    Title: "VE: TELECENTRO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ve_telecentro.png"
-    Stream: "https://streamtv.intervenhosting.net:3698/live/telecentrolive.m3u8"
-    Live: true
-}
-
-{   
     Title: "BR: GLOBO BRASILIA"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/br_globo.png"
