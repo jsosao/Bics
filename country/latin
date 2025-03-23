@@ -95,6 +95,16 @@
     Live: true
 }
 
+{
+    Artist: "Chloe125_TV"
+    Title: "CO: CARACOL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/co_caracol.png"
+    Stream: "http://190.216.158.199:8000/play/a001/index.m3u8"
+    Live: true
+}
+
 {   
     Artist:"Chloe125"
     Title: "CO: RCN"
@@ -105,6 +115,26 @@
     Live: true
 }
 
+{
+    Artist: "Chloe125_TV"
+    Title: "SEÑAL COLOMBIA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/co_senal_colombia.png"
+    Stream: "http://190.216.158.199:8000/play/a00z/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "Chloe125_TV"
+    Title: "SUR TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/co_sur_tv.png"
+    Stream: "http://190.216.158.199:8000/play/a02k/index.m3u8"
+    Live: true
+}
+
 {   
     Artist:"Chloe125"
     Title: "AR: UNIFE"
@@ -112,6 +142,16 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/cdmx_unife.png"
     Stream: "https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/mono.m3u8"
+    Live: true
+}
+
+{
+    Artist: "Chloe125_TV"
+    Title: "AR: AMERICA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ar_america.png"
+    Stream: "http://181.13.173.86:8000/play/a0a7/index.m3u8"
     Live: true
 }
 
@@ -406,7 +446,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/bo_bolivision.png"
-    Stream: "https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u"
+    Stream: "https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8"
     Live: true
 }
 
@@ -470,6 +510,16 @@
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/py_telefuturo.png"
     Stream: "http://goldfull.pro:8880/yimxcvyrbm/EEa8Ju8BGm4h/357909"
+    Live: true
+}
+
+{
+    Artist: "Chloe125_TV"
+    Title: "TELEMUNDO INTL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
+    Stream: "http://190.216.158.199:8000/play/a00e/index.m3u8"
     Live: true
 }
 
