@@ -307,22 +307,6 @@
     Live: true
 }
 
-#{
-#    Title: "CAME: HISTORY CHANNEL"
-#    streamFormat: "hls|mts"
-#    SwitchingStrategy: "full-adaptation"
-#    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_history_channel.png"
-#    Stream: "https://streamer1.nexgen.bz/HISTORY/index.m3u8"
-#    Live: true
-#}
-
-#{
-#    Title: "CAME: HISTORY CHANNEL"
-#    streamFormat: "hls|mts"
-#    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_history_channel.png"
-#    Stream: "https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8"
-#}
-
 {
     Title: "MX: HISTORY 2"
     streamFormat: "hls|mts"
@@ -331,20 +315,6 @@
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310600"
     Live: true
 }
-
-#{
-#    Title: "CAME: HISTORY 2"
-#    streamFormat: "hls|mts"
-#    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_h2.png"
-#    Stream: "https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8"
-#}
-
-#{
-#    Title: "CAME: HISTORY 2"
-#    streamFormat: "hls|mts"
-#    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_h2.png"
-#    Stream: "https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8"
-#}
 
 {
     Artist: "Chloe125_TV"
@@ -364,14 +334,6 @@
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310669"
     Live: true
 }
-
-#{
-#    Title: "CAME: NAT GEO"
-#    streamFormat: "hls|mts"
-#    SwitchingStrategy: "full-adaptation"
-#    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nat_geo.png"
-#    Stream: "https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
-#}
 
 {
     Title: "MX: NATGEO WILD"
@@ -411,14 +373,6 @@
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310630"
     Live: true
 }
-
-#{
-#    Title: "CAME: DISCOVERY CHANNEL"
-#    streamFormat: "hls|mts"
-#    SwitchingStrategy: "full-adaptation"
-#    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_channel.png"
-#    Stream: "https://streamer1.nexgen.bz/DISCOVERY/index.m3u8"
-#}
 
 {
     Title: "MX: DISCOVERY TLC"
@@ -467,14 +421,6 @@
     Stream: "http://181.13.173.86:8000/play/a01w/index.m3u8"
     Live: true
 }
-
-#{
-#    Title: "CAME: DISCOVERY TURBO"
-#    streamFormat: "hls|mts"
-#    SwitchingStrategy: "full-adaptation"
-#    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_turbo.png"
-#    Stream: "https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8"
-#}
 
 {
     Title: "DISCOVERY SCIENCE"
@@ -571,13 +517,6 @@
     Live: true
 }
 
-#{
-#    Title: "CAME: FX"
-#    streamFormat: "hls|mts"
-#    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/fx.png"
-#    Stream: "https://streamer1.nexgen.bz/FX/index.m3u8"
-#}
-
 {
     Title: "MX: STAR CHANNEL"
     streamFormat: "hls|mts"
@@ -586,15 +525,6 @@
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310617"
     Live: true
 }
-
-#{
-#    Title: "CAME: STAR CHANNEL"
-#    streamFormat: "hls|mts"
-#    SwitchingStrategy: "full-adaptation"    
-#    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_star_channel.png"
-#    Stream: "https://streamer1.nexgen.bz/STAR/index.m3u8"
-#    Live: true
-#}
 
 {
     Title: "MX: AXN SERIES"
@@ -614,20 +544,6 @@
     Stream: "http://181.13.173.86:8000/play/a0a8/index.m3u8"
     Live: true
 }
-
-#{
-#    Title: "CAME: AXN"
-#    streamFormat: "hls|mts"
-#    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_axn.png"
-#    Stream: "https://streamer1.nexgen.bz/AXN/index.m3u8"
-#}
-
-#{
-#    Title: "CAME: AXN"
-#    streamFormat: "hls|mts"
-#    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_axn.png"
-#    Stream: "https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8"
-#}
 
 {   
     Title: "BR: AXN"
@@ -970,15 +886,6 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/215593.ts"
     Live: true
 }
-
-#{
-#    Title: "CAME: LIFETIME"
-#    streamFormat: "hls|mts"
-#    SwitchingStrategy: "full-adaptation"    
-#    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/lifetime.png"
-#    Stream: "https://streamer1.nexgen.bz/LIFETIME/index.m3u8"
-#    Live: true
-#}
 
 {   
     Title: "BR: LIFETIME"
@@ -1350,14 +1257,6 @@
     Live: true
 }
 
-#{
-#    Title: "CAME: HBO FAMILY"
-#    streamFormat: "hls|mts"
-#    SwitchingStrategy: "full-adaptation"
-#    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo_family.png"
-#    Stream: "https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8"
-#}
-
 {   
     Title: "BR: HBO FAMILY"
     streamFormat: "hls|mts"
@@ -1439,14 +1338,6 @@
     Live: true
 }
 
-#{
-#    Title: "CAME: HBO PLUS"
-#    streamFormat: "hls|mts"
-#    SwitchingStrategy: "full-adaptation"
-#    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_pop.png"
-#    Stream: "https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8"
-#}
-
 {
     Title: "HBO MUNDI HD"
     streamFormat: "hls|mts"
@@ -1501,13 +1392,6 @@
     Live: true
 }
 
-#{
-#    Title: "CAME: CINECANAL"
-#    streamFormat: "hls|mts"
-#    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_cinecanal.png"
-#    Stream: "https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8"
-#}
-
 {   
     Title: "BR: CINECANAL"
     streamFormat: "hls|mts"
@@ -1515,6 +1399,7 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/41479.ts"
     Live: true
 }
+
 {
     Title: "MX: GOLDEN EDGE"
     streamFormat: "hls|mts"
