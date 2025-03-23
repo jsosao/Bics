@@ -40,16 +40,6 @@
 
 {
     Artist: "Chloe125_TV"
-    Title: "CARACOL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.216.158.199:8000/play/a001/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
     Title: "CITY TV HD COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -121,66 +111,6 @@
 
 {
     Artist: "Chloe125_TV"
-    Title: "RCN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.216.158.199:8000/play/a003/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "SEÑAL COLOMBIA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.216.158.199:8000/play/a00z/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "SONY CHANNEL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.216.158.199:8000/play/a00k/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "SPACE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.216.158.199:8000/play/a01r/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "SUR TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.216.158.199:8000/play/a02k/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "USA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.216.158.199:8000/play/a00g/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
     Title: "TELE ANTIOQUIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -241,16 +171,6 @@
 
 {
     Artist: "Chloe125_TV"
-    Title: "TELEMUNDO INTL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.216.158.199:8000/play/a00e/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
     Title: "TLNOVELAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -259,35 +179,8 @@
     Live: true
 }
 
-{
-    Artist: "Chloe125_TV"
-    Title: "TNT"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.216.158.199:8000/play/a02j/index.m3u8"
-    Live: true
-}
 
-{
-    Artist: "Chloe125_TV"
-    Title: "TNT SERIES"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.216.158.199:8000/play/a00l/index.m3u8"
-    Live: true
-}
 
-{
-    Artist: "Chloe125_TV"
-    Title: "UNIVERSAL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.216.158.199:8000/play/a02m/index.m3u8"
-    Live: true
-}
 
 {
     Artist: "Chloe125_TV"
@@ -298,18 +191,6 @@
     Stream: "http://190.216.158.199:8000/play/a00c/index.m3u8"
     Live: true
 }
-
-{
-    Artist: "Chloe125_TV"
-    Title: "VIDEO ROLA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.216.158.199:8000/play/a02i/index.m3u8"
-    Live: true
-}
-
-
 
 {
     Artist: "Chloe125_TV"
@@ -328,16 +209,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http://181.13.173.86:8000/play/a01r/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "A&E"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://181.13.173.86:8000/play/a0a6/index.m3u8"
     Live: true
 }
 
@@ -363,36 +234,6 @@
 
 {
     Artist: "Chloe125_TV"
-    Title: "AMC"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://181.13.173.86:8000/play/a01z/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "AMERICA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://181.13.173.86:8000/play/a0a7/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "AXN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://181.13.173.86:8000/play/a0a8/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
     Title: "C5N"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -408,16 +249,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http://181.13.173.86:8000/play/a09r/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "CINEMAX"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://181.13.173.86:8000/play/a0aa/index.m3u8"
     Live: true
 }
 
@@ -501,65 +332,6 @@
     Live: true
 }
 
-{
-    Artist: "Chloe125_TV"
-    Title: "Discovery Channel HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://181.13.173.86:8000/play/a07i/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "Discovery H&H HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://181.13.173.86:8000/play/a07h/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "Discovery Science"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://181.13.173.86:8000/play/a02k/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "Discovery Theater HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://181.13.173.86:8000/play/a02z/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "Discovery Turbo"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://181.13.173.86:8000/play/a01w/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "Discovery World HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://181.13.173.86:8000/play/a031/index.m3u8"
-    Live: true
-}
 
 {
     Artist: "Chloe125_TV"
@@ -604,16 +376,6 @@
 
 {
     Artist: "Chloe125_TV"
-    Title: "El Gourmet"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://181.13.173.86:8000/play/a06w/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
     Title: "Encuentro"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -632,15 +394,7 @@
     Live: true
 }
 
-{
-    Artist: "Chloe125_TV"
-    Title: "FX HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://181.13.173.86:8000/play/a02v/index.m3u8"
-    Live: true
-}
+
 
 {
     Artist: "Chloe125_TV"
@@ -864,16 +618,6 @@
 
 {
     Artist: "Chloe125_TV"
-    Title: "Paramount HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://181.13.173.86:8000/play/a02y/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
     Title: "Quiero Musica"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -922,15 +666,6 @@
     Live: true
 }
 
-{
-    Artist: "Chloe125_TV"
-    Title: "Space HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://181.13.173.86:8000/play/a02w/index.m3u8"
-    Live: true
-}
 
 {
     Artist: "Chloe125_TV"
@@ -1012,15 +747,7 @@
     Live: true
 }
 
-{
-    Artist: "Chloe125_TV"
-    Title: "TNT HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://181.13.173.86:8000/play/a07d/index.m3u8"
-    Live: true
-}
+
 
 {
     Artist: "Chloe125_TV"
@@ -1032,15 +759,6 @@
     Live: true
 }
 
-{
-    Artist: "Chloe125_TV"
-    Title: "TNT Series HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://181.13.173.86:8000/play/a07e/index.m3u8"
-    Live: true
-}
 
 {
     Artist: "Chloe125_TV"
@@ -1112,15 +830,7 @@
     Live: true
 }
 
-{
-    Artist: "Chloe125_TV"
-    Title: "USA Network"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://181.13.173.86:8000/play/a023/index.m3u8"
-    Live: true
-}
+
 
 {
     Artist: "Chloe125_TV"
@@ -2636,15 +2346,7 @@
     Live: true
 }
 
-{
-    Artist: "Chloe125_TV"
-    Title: "Paramount HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.229.147.142:8000/play/a04x/index.m3u8"
-    Live: true
-}
+
 
 {
     Artist: "Chloe125_TV"
@@ -2726,15 +2428,7 @@
     Live: true
 }
 
-{
-    Artist: "Chloe125_TV"
-    Title: "SPACE HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.229.147.142:8000/play/a04p/index.m3u8"
-    Live: true
-}
+
 
 {
     Artist: "Chloe125_TV"
@@ -3373,14 +3067,7 @@
     Live: true
 }
 
-{
-    Title: "Space MX"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logoo.png"
-    Stream: "http://181.78.105.146:2000/play/a04x/index.m3u8"
-    Live: true
-}
+
 
 {
     Title: "A&E"
@@ -3671,14 +3358,7 @@
     Live: true
 }
 
-{
-    Title: "Paramount"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/prueba/no_logoo.png"
-    Stream: "http://181.78.105.146:2000/play/a01s/index.m3u8"
-    Live: true
-}
+
 
 {
     Title: "AGROTENDENCIA"
@@ -4218,31 +3898,8 @@
     Live: true
 }
 
-{   
-    Title: "SPACE"
-    streamFormat: "hls|mts"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png"
-    Stream: "http://181.78.105.146:2000/play/a04x/index.m3u8"
-    UserAgent: ":http-user-agent="
-}
 
-{   
-    Title: "SPACE OP2"
-    streamFormat: "hls|mts"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png"
-    Stream: "http://200.59.188.3:8000/play/a00j"
-    UserAgent: ":http-user-agent="
-    Live: true
-}
 
-{   
-    Title: "USA NETWORK"
-    streamFormat: "hls|mts"
-    Logo: "https://www.retronyms.com/consulting/images/syfy-logo.png"
-    Stream: "http://200.113.4.75:7210/play/a02l/index.m3u8"
-    UserAgent: ":http-user-agent="
-    Live: true
-}
 
 
 {   
