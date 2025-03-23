@@ -711,6 +711,16 @@
     Live: true
 }
 
+{
+    Artist: "Chloe125_TV"
+    Title: "UNIVERSAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_universal_tv.png"
+    Stream: "http://181.13.173.86:8000/play/a0ar/index.m3u8"
+    Live: true
+}
+
 {   
     Title: "BR: UNIVERSAL TV"
     streamFormat: "hls|mts"
