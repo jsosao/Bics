@@ -987,15 +987,6 @@
 }
 
 {
-    Title: "MX: ESPN 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310621"
-    Live: true
-}
-
-{
     Title: "MX: ESPN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -1014,10 +1005,10 @@
 }
 
 {
-    Title: "MX: FOX SPORTS 1"
+    Title: "MX: ESPN PREMIUM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310616"
     Live: true
 }
