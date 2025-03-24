@@ -156,6 +156,16 @@
 
 {   
     Artist:"milista"
+    Title: "AR: TELEFE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ar_telefe.png"
+    Stream: "http://playtv44.com:8080/975571207/142536/116943"
+    Live: true
+}
+
+{   
+    Artist:"milista"
     Title: "PA: TV MAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
