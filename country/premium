@@ -10,6 +10,74 @@
 }
 
 {
+    Artist:"milista"    
+    Title: "UNIVERSAL PREMIER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_premier.png"
+    Stream: "http://playtv44.com:8080/975571207/142536/78385"
+    Live: true
+}
+
+{
+    Artist:"milista"    
+    Title: "UNIVERSAL CRIME"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_crime.png"
+    Stream: "http://playtv44.com:8080/975571207/142536/39370"
+    Live: true
+}
+
+{
+    Artist:"milista"    
+    Title: "UNIVERSAL COMEDY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_comedy.png"
+    Stream: "http://playtv44.com:8080/975571207/142536/78383"
+    Live: true
+}
+
+{
+    Artist:"milista"    
+    Title: "UNIVERSAL REALITY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_reality.png"
+    Stream: "http://playtv44.com:8080/975571207/142536/78384"
+    Live: true
+}
+
+{
+    Title: "MX: UNIVERSAL TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_universal_tv.png"
+    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310656"
+    Live: true
+}
+
+{
+    Artist: "Chloe125_TV"
+    Title: "UNIVERSAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_universal_tv.png"
+    Stream: "http://181.13.173.86:8000/play/a0ar/index.m3u8"
+    Live: true
+}
+
+{   
+    Title: "BR: UNIVERSAL TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_universal_tv.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/71655.ts"
+    Live: true
+}
+
+{
     Artist:"neblina6383"    
     Title: "TNT HD"
     streamFormat: "hls|mts"
@@ -616,34 +684,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_mas_chic.png"
     Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310650"
-    Live: true
-}
-
-{
-    Title: "MX: UNIVERSAL TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_universal_tv.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310656"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "UNIVERSAL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_universal_tv.png"
-    Stream: "http://181.13.173.86:8000/play/a0ar/index.m3u8"
-    Live: true
-}
-
-{   
-    Title: "BR: UNIVERSAL TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_universal_tv.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/71655.ts"
     Live: true
 }
 
