@@ -19,6 +19,26 @@
 }
 
 {   
+    Artist:"cuartetorolan_paises"    
+    Title: "ES: LA 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/sp_la_uno.png"
+    Stream: "https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8"
+    Live: true
+}
+
+{   
+    Artist:"cuartetorolan_paises"    
+    Title: "ES: LA 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/sp_la_dos.png"
+    Stream: "https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8"
+    Live: true
+}
+
+{   
     Artist:"milista"
     Title: "ES: TELECINCO"
     streamFormat: "hls|mts"
