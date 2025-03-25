@@ -18,6 +18,16 @@
 }
 
 {   
+    Artist:"web"
+    Title: "EU: Estrella TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/estrella_tv.png"
+    Stream: "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8"
+    Live: true
+}
+
+{   
     Title: "EU: INFINITA TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
