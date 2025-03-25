@@ -24,15 +24,6 @@
 }
 
 {   
-    Artist: "Chloe125_TV"   
-    Title: "LA MIA TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/lamia_tv.png"
-    Stream: "https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8"
-}
-
-{   
     Title: "LATIN POP"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
