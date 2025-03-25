@@ -1,4 +1,44 @@
 {   
+    Artist:"milista"
+    Title: "ES: TVE INTERNACIONAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/sp_tve.png"
+    Stream: "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8"
+    Live: true
+}
+
+{   
+    Artist:"milista"    
+    Title: "ES: TVE STAR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/sp_tve.png"
+    Stream: "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "ES: TELECINCO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/sp_tve.png"
+    Stream: "http://185.189.225.150:85/TeleCincoHD/index.m3u8"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "ES: LA SEXTA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/sp_la_sexta.png"
+    Stream: "http://185.189.225.150:85/LaSexta/index.m3u8"
+    Live: true
+}
+
+{   
     Title: "PT: TV PORTUGUESA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -13,15 +53,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/pt_sictv.png"
     Stream: "https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8"
-    Live: true
-}
-
-{   
-    Title: "PT: TVI INTERNACIONAL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/pt_tvi_internacional.png"
-    Stream: "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI1IDQ6NDc6NTIgUE0maGFzaF92YWx1ZT1VVlkzRERUWjg5NHgzd0xwQzNPSzBnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZTc2YzQzYmQtNDRkNy00ODczLThjNDItZDQ4NjA5Y2ZlNzg2/"
     Live: true
 }
 
