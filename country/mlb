@@ -3,7 +3,23 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mlb.png"
+    Stream: "https://fl2.moveonjoy.com/MLB_1/index.m3u8"
+}
+
+{   
+    Title: "MLB 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mlb.png"
     Stream: "https://fl4.moveonjoy.com/MLB_1/index.m3u8"
+}
+
+{   
+    Title: "MLB 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mlb.png"
+    Stream: "https://fl2.moveonjoy.com/MLB_2/index.m3u8"
 }
 
 {   
@@ -19,7 +35,23 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mlb.png"
+    Stream: "https://fl2.moveonjoy.com/MLB_3/index.m3u8"
+}
+
+{   
+    Title: "MLB 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mlb.png"
     Stream: "https://fl4.moveonjoy.com/MLB_3/index.m3u8"
+}
+
+{   
+    Title: "MLB 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mlb.png"
+    Stream: "https://fl2.moveonjoy.com/MLB_4/index.m3u8"
 }
 
 {   
