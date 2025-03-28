@@ -177,4 +177,34 @@
     Live: true
 }
 
+{   
+    Artist:"TVGarden"
+    Title: "TH: TNN 16"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/th_tnn_16.png"
+    Stream: "https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8"
+    Live: true
+}
+
+{   
+    Artist:"TVGarden"
+    Title: "TH: JKN 18"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/th_jkn_18.png"
+    Stream: "https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8"
+    Live: true
+}
+
+{   
+    Artist:"TVGarden"
+    Title: "TH: NATION TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/th_nation_tv.png"
+    Stream: "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8"
+    Live: true
+}
+
 
