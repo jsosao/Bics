@@ -68,6 +68,27 @@
 }
 
 {   
+    Artist:"milista"
+    Title: "PT: RTP 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/pt_rtp_2.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79027"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "PT: RTP 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/pt_rtp_3.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79051"
+    Live: true
+}
+
+
+{   
     Title: "PT: SIC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -113,6 +134,66 @@
 }
 
 {   
+    Artist:"milista"
+    Title: "FR: TF 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/fr_tf_1.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78076"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "FR: FRANCE 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/fr_france_2.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78078"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "FR: FRANCE 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/fr_france_3.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78081"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "FR: FRANCE 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/fr_france_4.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78084"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "FR: FRANCE 5"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/fr_france_4.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78086"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "FR: M6"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/fr_m6.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78087"
+    Live: true
+}
+
+{   
     Title: "FR: BFM TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -150,6 +231,16 @@
 }
 
 {   
+    Artist:"milista"
+    Title: "IT: RAI 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/it_rai_2.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77993"
+    Live: true
+}
+
+{   
     Title: "IT: RAI 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -158,6 +249,15 @@
     Live: true
 }
 
+{   
+    Artist:"milista"
+    Title: "IT: RAI 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/it_rai_4.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77994"
+    Live: true
+}
 
 {   
     Title: "IT: LA 7"
@@ -165,6 +265,66 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/it_la_7.png"
     Stream: "https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ITBD1500002NL"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "UK: BBC ONE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/uk_bbc_one.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78713"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "UK: BBC TWO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/uk_bbc_two.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78724"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "UK: BBC CBBC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/uk_bbc_cbbc.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78721"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "UK: BBC FOUR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/uk_bbc_four.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78710"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "HU: M1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/hu_m1.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79618"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "HU: M2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/hu_m2.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79618"
     Live: true
 }
 
