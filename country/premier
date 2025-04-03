@@ -16,29 +16,30 @@
 }
 
 {   
-    Title: "USA NETWORK"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/usa_network.png"
-    Stream: "http://fl2.moveonjoy.com/USA_Network/index.m3u8"
-}
-
-{   
-    Artist: "angel200881"
-    Title: "MX: SKY SPORTS PREMIERE"
+    Artist: "milista"
+    Title: "SKY SPORTS PREMIERE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sky_sports_premiere.png"
-    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/160999"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77028"
 }
 
 {   
-    Artist:"neblina6383"    
+    Artist:"milista"    
     Title: "SKY PREMIER LEAGUE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sky_sports_premiere.png"
-    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145438"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77250"
+}
+
+{   
+    Artist:"milista"    
+    Title: "CANAL + PREMIER LEAGUE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sky_sports_premiere.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78182"
 }
 
 {   
@@ -48,39 +49,4 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
     Stream: "http://play.1list.vip/live/listatvs/controliptv/59097.ts"
     Live: true
-}
-
-{   
-    Title: "Liga de Campeones"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/liga_campeones.png"
-    Stream: "http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/246282.ts"
-    Live: true
-}
-
-{   
-    Title: "DAZN 1"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_1.png"
-    Stream: "http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/228385.ts"
-    Live: true
-}
-
-{   
-    Title: "Liga de Campeones"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/liga_campeones.png"
-    Stream: "http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/825178.ts"
-    Live: true
-}
-
-{   
-    Title: "QR: BEIN SPORTS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/bein_sports.png"
-    Stream: "https://dffgtrdb.vffddd.online/bein1/tracks-v1a1/mono.ts.m3u8"
 }
