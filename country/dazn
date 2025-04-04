@@ -20,7 +20,7 @@
 
 {
     Artist: "milista"
-    Title: "ES: DAZN 1 FHD/PPV"
+    Title: "SP: DAZN 1 FHD/PPV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_1.png"
@@ -30,7 +30,7 @@
 
 {
     Artist: "milista"
-    Title: "ES: DAZN 2 HD/PPV"
+    Title: "SP: DAZN 2 HD/PPV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_2.png"
@@ -40,7 +40,7 @@
 
 {
     Artist: "milista"
-    Title: "ES: DAZN 2 FHD/PPV"
+    Title: "SP: DAZN 2 FHD/PPV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_2.png"
@@ -50,7 +50,7 @@
 
 {
     Artist: "milista"
-    Title: "ES: DAZN 3 HD/PPV"
+    Title: "SP: DAZN 3 HD/PPV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_3.png"
@@ -60,7 +60,7 @@
 
 {
     Artist: "milista"
-    Title: "ES: DAZN 3 FHD/PPV"
+    Title: "SP: DAZN 3 FHD/PPV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_3.png"
@@ -70,7 +70,7 @@
 
 {
     Artist: "milista"
-    Title: "ES: DAZN 4 HD/PVV"
+    Title: "SP: DAZN 4 HD/PVV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_4.png"
@@ -80,7 +80,7 @@
 
 {
     Artist: "milista"
-    Title: "ES: DAZN 4 FHD/PPV"
+    Title: "SP: DAZN 4 FHD/PPV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_4.png"
@@ -90,7 +90,7 @@
 
 {
     Artist: "milista"
-    Title: "ES: DAZN F1 HD/PPV"
+    Title: "SP: DAZN F1 HD/PPV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_f1.png"
@@ -100,7 +100,7 @@
 
 {
     Artist: "milista"
-    Title: "ES: DAZN F1 FHD/PPV"
+    Title: "SP: DAZN F1 FHD/PPV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_f1.png"
@@ -589,7 +589,7 @@
 
 {
     Artist: "milista"
-    Title: "PT: DAZN 1 HD ᴴᵉᵛᶜ"
+    Title: "PT: DAZN 1 HD
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_1.png"
@@ -599,7 +599,7 @@
 
 {
     Artist: "milista"
-    Title: "PT: DAZN 1 FHD ᴴᵉᵛᶜ"
+    Title: "PT: DAZN 1 FHD
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_1.png"
@@ -669,7 +669,7 @@
 
 {
     Artist: "milista"
-    Title: "PT: DAZN 2 HD ᴴᵉᵛᶜ"
+    Title: "PT: DAZN 2 HD
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_2.png"
@@ -772,7 +772,7 @@
     Title: "PT: DAZN 5 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_%.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_5.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79199"
     Live: true
 }
