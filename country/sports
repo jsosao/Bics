@@ -192,24 +192,6 @@
 }
 
 {   
-    Artist: "listDev"
-    Title: "PT: DAZN 1"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_1.png"
-    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79180"
-}
-
-{   
-    Artist: "listDev"
-    Title: "SP: DAZN LL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
-    Stream: "http://170.39.192.130:2095/56993164346fpro/180724play/99583"
-}
-
-{   
     Artist: "milista"
     Title: "MX: TVC DEPORTES"
     streamFormat: "hls|mts"
