@@ -1,6 +1,16 @@
+{   
+    Artist: "listDev"
+    Title: "SP: DAZN LL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
+    Stream: "http://170.39.192.130:2095/56993164346fpro/180724play/99583"
+}
+
+
 {
     Artist: "milista"
-    Title: "ES: DAZN 1 HD/PPV"
+    Title: "SP: DAZN 1 HD/PPV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_1.png"
@@ -63,7 +73,7 @@
     Title: "ES: DAZN 4 HD/PVV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_3.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_4.png"
     Stream: "http://moontools.me:8080/Freddy/Freddy321456/1301141"
     Live: true
 }
@@ -353,7 +363,7 @@
     Title: "DE: DAZN Bundesliga 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_bundesliga.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77368"
     Live: true
 }
@@ -363,7 +373,7 @@
     Title: "DE: DAZN Bundesliga 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_bundesliga.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77369"
     Live: true
 }
@@ -373,7 +383,7 @@
     Title: "DE: DAZN Bundesliga 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_bundesliga.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77370"
     Live: true
 }
@@ -383,7 +393,7 @@
     Title: "DE: DAZN Bundesliga 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_bundesliga.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77371"
     Live: true
 }
@@ -393,7 +403,7 @@
     Title: "DE: DAZN Bundesliga 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_bundesliga.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77372"
     Live: true
 }
@@ -403,7 +413,7 @@
     Title: "DE: DAZN Bundesliga 6"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_bundesliga.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77373"
     Live: true
 }
@@ -413,7 +423,7 @@
     Title: "DE: DAZN Bundesliga 7"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_bundesliga.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77374"
     Live: true
 }
@@ -423,7 +433,7 @@
     Title: "DE: DAZN Bundesliga 8"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_bundesliga.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77375"
     Live: true
 }
@@ -433,7 +443,7 @@
     Title: "DE: DAZN Bundesliga 9"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_bundesliga.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77376"
     Live: true
 }
@@ -443,7 +453,7 @@
     Title: "DE: DAZN Bundesliga 10"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_bundesliga.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77377"
     Live: true
 }
@@ -518,12 +528,21 @@
     Live: true
 }
 
+{   
+    Artist: "listDev"
+    Title: "PT: DAZN 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_1.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79180"
+}
+
 {
     Artist: "milista"
     Title: "PT: DAZN 1 LOW"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_!.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_1.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79176"
     Live: true
 }
