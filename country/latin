@@ -8,16 +8,6 @@
 }
 
 {   
-    Artist:"milista"
-    Title: "EU: Estrella TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/estrella_tv.png"
-    Stream: "http://socketevolution.online:8080/OscarCha465/OscarCha354/165168"
-    Live: true
-}
-
-{   
     Artist:"web"
     Title: "EU: Estrella TV"
     streamFormat: "hls|mts"
@@ -135,16 +125,6 @@
     Live: true
 }
 
-{   
-    Artist:"milista"
-    Title: "CO: RCN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/co_rcn.png"
-    Stream: "http://socketevolution.online:8080/MarcoCast9337/D334MW9/3576"
-    Live: true
-}
-
 {
     Artist: "Chloe125_TV"
     Title: "SEÑAL COLOMBIA"
@@ -202,16 +182,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/pa_tvmax.png"
     Stream: "http://socketevolution.online:8080/OscarCha465/OscarCha354/527217"
-    Live: true
-}
-
-{   
-    Artist:"milista"
-    Title: "PA: TV MAX"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/pa_tvmax.png"
-    Stream: "http://socketevolution.online:8080/OscarCha465/OscarCha354/527218"
     Live: true
 }
 
