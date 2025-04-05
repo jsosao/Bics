@@ -313,7 +313,7 @@
     Title: "DE: DAZN EUROSPORT 1 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_eurosport.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77235"
     Live: true
 }
@@ -323,14 +323,14 @@
     Title: "DE DAZN EUROSPORT 2 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_eurosport.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77236"
     Live: true
 }
 
 {
     Artist: "milista"
-    Title: "DE: DAZN MBL HD"
+    Title: "DE: DAZN MLB HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_mlb.png"
