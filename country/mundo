@@ -134,6 +134,26 @@
 }
 
 {   
+    Artist:"milista"
+    Title: "DE: RTL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/de_rtl.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/76846"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "DE: RTL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/de_rtl.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/76840"
+    Live: true
+}
+
+{   
     Artist:"TVGarden"
     Title: "DE: NDR"
     streamFormat: "hls|mts"
@@ -142,7 +162,6 @@
     Stream: "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8"
     Live: true
 }
-
 
 {   
     Artist:"milista"
@@ -390,6 +409,17 @@
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79618"
     Live: true
 }
+
+{   
+    Artist:"milista"
+    Title: "HU: RTL +"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/de_rtl.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79726"
+    Live: true
+}
+
 
 {   
     Title: "TR: TRT 1"
