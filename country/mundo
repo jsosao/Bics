@@ -309,6 +309,58 @@
 }
 
 {   
+    Artist:"TVGarden"
+    Title: "JP: NHK PREMIUM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/jp_nhk_premium.png"
+    Stream: "https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8"
+    Live: true
+}
+
+{   
+    Artist:"TVGarden"
+    Title: "JP: NHK JAPAN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/jp_nhk_japan.png"
+    Stream: "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8"
+    Live: true
+}
+
+{   
+    Artist:"TVGarden"
+    Title: "KR: EBS 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/kr_ebs_1.png"
+    Stream: "https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8"
+    Live: true
+}
+
+{   
+    Artist:"TVGarden"
+    Title: "KR: EBS 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/kr_ebs_2.png"
+    Stream: "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8"
+    Live: true
+}
+
+{   
+    Artist:"TVGarden"
+    Title: "KR: EBS E"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/kr_ebs_e.png"
+    Stream: "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
+    Live: true
+}
+
+
+
+{   
     Artist:"milista"
     Title: "HU: M1"
     streamFormat: "hls|mts"
