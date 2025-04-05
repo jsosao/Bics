@@ -420,6 +420,15 @@
     Live: true
 }
 
+{   
+    Artist:"milista"
+    Title: "RU: РОССИЯ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/ru_РОССИЯ.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/81525"
+    Live: true
+}
 
 {   
     Title: "TR: TRT 1"
@@ -427,6 +436,16 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/tr_trt_1.png"
     Stream: "https://trt.daioncdn.net/trt-1/master.m3u8?app=web"
+    Live: true
+}
+
+{   
+    Artist:"milista"
+    Title: "TR: TRT 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/tr_trt_2.png"
+    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79840"
     Live: true
 }
 
