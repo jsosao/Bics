@@ -184,6 +184,46 @@
 }
 
 {   
+    Artist:"Paradise-91_ParaTV"
+    Title: "CH: CARAC 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/ch_carac_1.png"
+    Stream: "https://rougetv.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8"
+    Live: true
+}
+
+{   
+    Artist:"Paradise-91_ParaTV"
+    Title: "CH: CARAC 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/ch_carac_2.png"
+    Stream: "https://onefmmd.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8"
+    Live: true
+}
+
+{   
+    Artist:"Paradise-91_ParaTV"
+    Title: "CH: CARAC 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/ch_carac_3.png"
+    Stream: "https://lfmmd.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8"
+    Live: true
+}
+
+{   
+    Artist:"Paradise-91_ParaTV"
+    Title: "CH: CARAC 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/ch_carac_4.png"
+    Stream: "https://lfmmd.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8"
+    Live: true
+}
+
+{   
     Artist:"milista"
     Title: "FR: TF 1"
     streamFormat: "hls|mts"
