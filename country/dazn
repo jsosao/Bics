@@ -3,7 +3,7 @@
     Title: "SP: DAZN LL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_la_liga.png"
     Stream: "http://170.39.192.130:2095/56993164346fpro/180724play/99583"
 }
 
@@ -320,7 +320,7 @@
 
 {
     Artist: "milista"
-    Title: "|DE| DAZN EUROSPORT 2 HD"
+    Title: "DE DAZN EUROSPORT 2 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
@@ -333,7 +333,7 @@
     Title: "DE: DAZN MBL HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_mlb.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77237"
     Live: true
 }
@@ -343,7 +343,7 @@
     Title: "DE: DAZN NFL NETWORK HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_nfl.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77238"
     Live: true
 }
@@ -353,7 +353,7 @@
     Title: "DE: DAZN NBA HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_nba.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77239"
     Live: true
 }
