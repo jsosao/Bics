@@ -134,6 +134,17 @@
 }
 
 {   
+    Artist:"TVGarden"
+    Title: "DE: NDR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/de_ndr.png"
+    Stream: "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8"
+    Live: true
+}
+
+
+{   
     Artist:"milista"
     Title: "FR: TF 1"
     streamFormat: "hls|mts"
