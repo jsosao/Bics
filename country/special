@@ -1,5 +1,39 @@
+{
+    Title: "COAH Multimedios Lag"
+    streamFormat: "hls|mts"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/coah_multimedios_laguna.png"
+    Stream: "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8"
+}
+
+{
+    Artist:"PABLOPOM"
+    Title: "Imagen TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/imagen_tv.png"
+    Stream: "http://181.78.105.146:2000/play/a00h/index.m3u8"
+}
+
+{
+    Artist:"neblina6383"
+    Title: "Imagen TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/imagen_tv.png"
+    Stream: "http://moontools.me:8080/Freddy/Freddy321456/81761"
+}
+
+{
+    Artist:"neblina6383"
+    Title: "Imagen TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/imagen_tv.png"
+    Stream: "http://moontools.me:8080/Freddy/Freddy321456/81913"
+}
+
 {   
-    Title: "3"
+    Title: "DAZN F1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_f1.png"
@@ -13,16 +47,5 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_f1.png"
     Stream: "http://117tv.icu:8080/X5xRz0/944877/125947"
-    Live: true
-}
-
-{   
-    Title: "WILLOW MPD"
-    streamFormat: "dash"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/no_logo.png"
-    Stream: "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
-    KeyId = "cc5cf3b7928fb9e0a1ee6a8b566f0a8e"
-    key = "63ac662dde310cfb4cc6f9b43b34196d"
     Live: true
 }
