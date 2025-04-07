@@ -1,4 +1,20 @@
 {   
+    Title: "MX: INTERNETV DEPORTES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/itv_deportes.png"
+    Stream: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999"
+}
+
+{   
+    Title: "MX: AYM SPORTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/aym_sports.png"
+    Stream: "https://aym-as.otteravision.com/aym/as/as_1080p.m3u8"
+}
+
+{   
     Title: "Unión Laguna"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
