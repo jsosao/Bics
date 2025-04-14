@@ -18,15 +18,6 @@
 }
 
 {   
-    Title: "EU: INFINITA TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/infinita_tv.png"
-    Stream: "https://s2.tvdatta.com:3753/hybrid/play.m3u8"
-    Live: true
-}
-
-{   
     Artist:"TVGarden"
     Title: "CL: TVN"
     streamFormat: "hls|mts"
@@ -102,6 +93,15 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ec_teleamazonas.png"
     Stream: "http://socketevolution.online:8080/OscarCha465/OscarCha354/231816"
+    Live: true
+}
+
+{   
+    Title: "EC: INFINITA TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/infinita_tv.png"
+    Stream: "https://s2.tvdatta.com:3753/hybrid/play.m3u8"
     Live: true
 }
 
@@ -405,6 +405,37 @@
 }
 
 {   
+    Artist:"TVGarden"
+    Title: "CR: CANAL 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/cr_canal_2.png"
+    Stream: "https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8"
+    Live: true
+}
+
+{   
+    Artist:"TVGarden"
+    Title: "CR: CANAL 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/cr_canal_3.png"
+    Stream: "https://cloudvideo.servers10.com:8081/8120/index.m3u8"
+    Live: true
+}
+
+{   
+    Artist:"TVGarden"
+    Title: "CR: CANAL 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/cr_canal_4.png"
+    Stream: "https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8"
+    Live: true
+}
+
+
+{   
     Title: "CR: CANAL 6"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -532,6 +563,16 @@
     Stream: "http://socketevolution.online:8080/MarcoCast9337/D334MW9/131713"
     Live: true
 }
+
+{   
+    Artist:"TVGarden"
+    Title: "PY: CANAL 13"
+    streamFormat: "hls|mts"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/py_canal_13.png"
+    Stream: "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8"
+    Live: true
+}
+
 
 {
     Artist: "Chloe125_TV"
