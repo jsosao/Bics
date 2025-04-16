@@ -77,11 +77,30 @@
 }
 
 {
+    Artist:"Alverich"
+    Title: "Imagen TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/imagen_tv.png"
+    Stream: "http://disfruta.net/live/balooshy/Dcw7jXk5T5/7d0b6a4d-8251-4c10-ac48-4d0dbd6e5749.m3u"
+}
+
+{
     Title: "Imagen TV+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/imagen_tv_plus.png"
     Stream: "https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8"
+}
+
+{
+    Artist:"Alverich"    
+    Title: "Canal 5"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/canal_5.png"
+    Stream: "http://goldfull.pro:8880/56957514063f/EG4MhhF3YGws/135430"
+    Live: true
 }
 
 {
@@ -137,6 +156,16 @@
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/nu9ve.png"
     Stream: "http://innovat.ddns.net/live/INNOVA2011/GPygQQ7Crh/3746.m3u8"
+}
+
+{
+    Artist:"Alverich"    
+    Title: "Canal Nu9ve"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/nu9ve.png"
+    Stream: "http://fastream.xyz:8080/Jorge_Patrick/t4wBUmH4Dkyv/59498"
+    Live: true
 }
 
 {
