@@ -8,12 +8,12 @@
 }
 
 {   
-    Artist: "rasta12"
+    Artist: "Alverich"
     Title: "MX: ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
-    Stream: "http://181.78.105.146:2000/play/a064/index.m3u8"
+    Stream: "http://home-playtv.com:8080/RoltyFndz/GBQGK/185154"
 }
 
 {   
@@ -26,12 +26,12 @@
 }
 
 {   
-    Artist: "rasta12"
+    Artist: "Alverich"
     Title: "MX: ESPN 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
-    Stream: "http://181.78.105.146:2000/play/a063/index.m3u8"
+    Stream: "http://home-playtv.com:8080/RoltyFndz/GBQGK/36391"
 }
 
 {   
@@ -44,12 +44,12 @@
 }
 
 {   
-    Artist: "rasta12"
+    Artist: "Alverich"
     Title: "MX: ESPN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
-    Stream: "http://181.78.105.146:2000/play/a03n/index.m3u8"
+    Stream: "http://home-playtv.com:8080/RoltyFndz/GBQGK/9530"
 }
 
 {   
@@ -59,6 +59,15 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_4.png"
     Stream: "http://socketevolution.online:8080/MarcoCast9337/D334MW9/272217"
+}
+
+{   
+    Artist: "Alverich"
+    Title: "MX: ESPN 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_4.png"
+    Stream: "http://disfruta.net/live/balooshy/Dcw7jXk5T5/8e248005-1c24-4459-a471-1329f8da3815.m3u"
 }
 
 {   
