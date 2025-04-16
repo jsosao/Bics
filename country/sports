@@ -24,12 +24,21 @@
 }
 
 {   
-    Artist: "listDev"
+    Artist: "Alverich"
     Title: "MX: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
-    Stream: "http://190.92.10.66:4000/play/a006/index.m3u8"
+    Stream: "http://disfruta.net/live/balooshy/Dcw7jXk5T5/33499fe0-7ac3-4596-a167-1c9fbe122b6d.m3u"
+}
+
+{   
+    Artist: "Alverich"
+    Title: "MX: TUDN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
+    Stream: "https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKiODg91cRBJ-9rXu5VEnd_E/ts"
 }
 
 {   
@@ -42,12 +51,12 @@
 }
 
 {   
-    Artist:"milista"
+    Artist:"Alverich"
     Title: "US: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
-    Stream: "http://socketevolution.online:8080/MarcoCast9337/D334MW9/153956"
+    Stream: "http://disfruta.net/live/balooshy/Dcw7jXk5T5/54a9ea28-9fe3-4297-ab1d-43aa03651f31.m3u"
 }
 
 {   
