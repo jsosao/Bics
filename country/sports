@@ -192,8 +192,18 @@
 }
 
 {
+    Artist: "milista"
+    Title: "MX: TVC DEPORTES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_tvc_deportes.png"
+    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322756"
+    Live: true
+}
+
+{
     Artist: "Chloe125_TV"
-    Title: "MX: DEPORTES TVC"
+    Title: "DEPORTES TVC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/deportes_tvc.png"
