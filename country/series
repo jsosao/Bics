@@ -59,6 +59,36 @@
 }
 
 {
+    Artist: "milista"
+    Title: "Disney Cinema 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/series/disney_plus.png"
+    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322856"
+    Live: true
+}
+
+{
+    Artist: "milista"
+    Title: "Disney Cinema 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/series/disney_plus.png"
+    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322857"
+    Live: true
+}
+
+{
+    Artist: "milista"
+    Title: "Disney Cinema 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/series/disney_plus.png"
+    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322858"
+    Live: true
+}
+
+{
     Artist: "Dish"
     Title: "Disney+ Premiere 1"
     streamFormat: "hls|mts"
@@ -176,8 +206,55 @@
     Live: true
 }
 
+{
+    Artist: "milista"
+    Title: "Netflix Cinema 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/series/netflix.png"
+    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322851"
+    Live: true
+}
 
+{
+    Artist: "milista"
+    Title: "Netflix Cinema 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/series/netflix.png"
+    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322852"
+    Live: true
+}
 
+{
+    Artist: "milista"
+    Title: "Netflix Cinema 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/series/netflix.png"
+    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322853"
+    Live: true
+}
+
+{
+    Artist: "milista"
+    Title: "Netflix Cinema 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/series/netflix.png"
+    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322854"
+    Live: true
+}
+
+{
+    Artist: "milista"
+    Title: "Netflix Cinema 5"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/series/netflix.png"
+    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322855"
+    Live: true
+}
 
 {
     Title: "Netflix Premiere info"
