@@ -17,6 +17,16 @@
 }
 
 {   
+    Artist: "InsolenceWillow"
+    Title: "ABC 7 KABC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_kabc.png"
+    Stream: "https://tvpass.org/live/abc-kabc-los-angeles-ca/hd"
+    Live: true
+}
+
+{   
     Title: "CBS ESTE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -31,6 +41,16 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cbs_2.png"
     Stream: "http://fl2.moveonjoy.com/CBSEAST/index.m3u8"
+    Live: true
+}
+
+{   
+    Artist: "InsolenceWillow"
+    Title: "NBC KCBS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nbc_kcbs.png"
+    Stream: "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd"
     Live: true
 }
 
@@ -53,6 +73,16 @@
 }
 
 {   
+    Artist: "InsolenceWillow"
+    Title: "NBC KNBC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nbc_knbc.png"
+    Stream: "https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd"
+    Live: true
+}
+
+{   
     Title: "FOX EAST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -69,6 +99,17 @@
     Stream: "http://fl2.moveonjoy.com/FOX_EAST/index.m3u8"
     Live: true
 }
+
+{   
+    Artist: "InsolenceWillow"
+    Title: "FOX KTTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/fox_kttv.png"
+    Stream: "https://tvpass.org/live/fox-kttv-los-angeles-ca/hd"
+    Live: true
+}
+
 
 {   
     Title: "FX"
