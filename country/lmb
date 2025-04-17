@@ -14,6 +14,16 @@
     Stream: "https://aym-as.otteravision.com/aym/as/as_1080p.m3u8"
 }
 
+{
+    Artist: "milista"
+    Title: "MX: TVC DEPORTES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_tvc_deportes.png"
+    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322756"
+    Live: true
+}
+
 {   
     Title: "Unión Laguna"
     streamFormat: "hls|mts"
