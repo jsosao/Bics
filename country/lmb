@@ -14,6 +14,16 @@
     Stream: "https://aym-as.otteravision.com/aym/as/as_1080p.m3u8"
 }
 
+{
+    Artist: "Chloe125_TV"
+    Title: "MX: TVC DEPORTES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_tvc_deportes.png"
+    Stream: "http://200.229.147.142:8000/play/a05g/index.m3u8"
+    Live: true
+}
+
 {   
     Title: "Unión Laguna"
     streamFormat: "hls|mts"
