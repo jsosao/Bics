@@ -49,6 +49,14 @@
 }
 
 {
+    Title: "SP: 24 Horas Internacional"
+    streamFormat: "hls|mts"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/sp_tve_24h.png"
+    Stream: "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8"
+    Live: true
+}
+
+{
     Title: "DW Español"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/dw_espanol.png"
