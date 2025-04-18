@@ -25,6 +25,33 @@
 }
 
 {   
+    Artist: "milista"
+    Title: "MX: ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Stream: "http://playtv44.com:8080/555898/123456/52749"
+}
+
+{
+    Artist: "Chloe125_TV"
+    Title: "MX: FOX SPORT 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports_2.png"
+    Stream: "http://200.229.147.142:8000/play/a06b/index.m3u8"
+    Live: true
+}
+
+{   
+    Title: "MX: CLARO SPORTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/claro_sports.png"
+    Stream: "https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8"
+}
+
+{   
     Title: "Unión Laguna"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
