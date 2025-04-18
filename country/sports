@@ -103,7 +103,7 @@
 }
 
 {
-    Artist: "Chloe125_TV"
+    Artist: "neblina6383"
     Title: "MX: LAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -213,14 +213,13 @@
 
 {
     Artist: "Chloe125_TV"
-    Title: "DEPORTES TVC"
+    Title: "HN: DEPORTES TVC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/deportes_tvc.png"
     Stream: "http://200.229.147.142:8000/play/a05g/index.m3u8"
     Live: true
 }
-
 
 {   
     Title: "US: GOLF CHANNEL"
@@ -303,7 +302,7 @@
 }
 
 {   
-    Title: "US: MSG 2"
+    Title: "US: MSG"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/msg.png"
@@ -546,7 +545,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tyc_sports.png"
-    Stream: "http://socketevolution.online:8080/MarcoCast9337/D334MW9/167479"
+    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322758"
 }
 
 {  
@@ -555,7 +554,16 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tyc_sports.png"
-    Stream: "http://socketevolution.online:8080/MarcoCast9337/D334MW9/228150"
+    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322759"
+}
+
+{  
+    Artist:"milista"    
+    Title: "TNT SPORTS PREMIUM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tnt_sports_premium.png"
+    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/314863"
 }
 
 {
@@ -667,10 +675,6 @@
     Live: true
 }
 
-
-
-
-
 {   
     Artist:"milista"    
     Title: "EC: ECDF"
@@ -699,12 +703,12 @@
 }
 
 {   
-    Artist:"MILTON" 
+    Artist:"milista" 
     Title: "WIN SPORTS+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/win_sports_plus.png"
-    Stream: "http://190.60.46.141:9876/play/a0ar/index.m3u8"
+    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322770"
 }
 
 {   
