@@ -15,6 +15,16 @@
 }
 
 {
+    Artist: "neblina6383"
+    Title: "MX: LAS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_las.png"
+    Stream: "http://moontools.me:8080/Freddy/Freddy321456/81949"
+    Live: true
+}
+
+{
     Artist: "milista"
     Title: "MX: TVC DEPORTES"
     streamFormat: "hls|mts"
@@ -121,7 +131,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/bravos.png"
-    Stream: "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8"
+    Stream: "https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8"
 }
 
 {   
