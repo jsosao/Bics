@@ -138,15 +138,8 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/azteca_siete.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310638"
+    Stream: "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"
     Live: true
-}
-
-{
-    Title: "Canal Nu9ve"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/nu9ve.png"
-    Stream: "http://innovat.ddns.net/live/INNOVA2011/GPygQQ7Crh/3746.m3u8"
 }
 
 {
@@ -156,16 +149,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/nu9ve.png"
     Stream: "http://fastream.xyz:8080/Jorge_Patrick/t4wBUmH4Dkyv/59498"
-    Live: true
-}
-
-{
-    Artist:"neblina6383"    
-    Title: "Canal Nu9ve"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/nu9ve.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310612"
     Live: true
 }
 
@@ -222,7 +205,7 @@
     Title: "TV UNAM"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/tv_unam.png"
-    Stream: "http://181.78.105.146:2000/play/a045/index.m3u8"
+    Stream: "https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR="
 }
 
 {
