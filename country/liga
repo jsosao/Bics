@@ -11,7 +11,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_deportes.png"
-    Stream: "http://190.92.10.66:4000/play/a003/index.m3u8"
+    Stream: "http://190.92.10.66:4000/play/a003/index.m3u8
 }
 
 {   
@@ -45,36 +45,4 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/do_sports_max.png"
     Stream: "https://streamer1.nexgen.bz/SPORTSMAX2/tracks-v1a1/mono.m3u8"
-}
-
-{   
-    Title: "ES: M+ LA LIGA"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/OCTavio812084/TAviorTIZ834509/490"
-    Live: true
-}
-
-{   
-    Title: "ES: M+ LA LIGA"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/OCTavio812084/TAviorTIZ834509/495"
-    Live: true
-}
-
-{   
-    Title: "ES: M+ LA LIGA"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/OCTavio812084/TAviorTIZ834509/492"
-    Live: true
-}
-
-{   
-    Title: "ES: M+ LA LIGA"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/es_laliga_tv.png"
-    Stream: "http://fastream.xyz:8080/OCTavio812084/TAviorTIZ834509/493"
-    Live: true
 }
