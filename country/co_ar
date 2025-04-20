@@ -198,12 +198,9 @@
     Live: true
 }
 
-
-
-
 {
     Artist: "Chloe125_TV"
-    Title: "MX: AM Sports"
+    Title: "AM Sports"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -256,7 +253,7 @@
     Title: "CNN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cnn.png"
     Stream: "http://181.13.173.86:8000/play/a0ab/index.m3u8"
     Live: true
 }
@@ -296,7 +293,7 @@
     Title: "Cinecanal HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_cinecanal.png"
     Stream: "http://181.13.173.86:8000/play/a07b/index.m3u8"
     Live: true
 }
@@ -306,7 +303,7 @@
     Title: "Comedy Central HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/comedy_central.png"
     Stream: "http://181.13.173.86:8000/play/a02x/index.m3u8"
     Live: true
 }
@@ -331,13 +328,12 @@
     Live: true
 }
 
-
 {
     Artist: "Chloe125_TV"
     Title: "E!"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/e!.png"
     Stream: "http://181.13.173.86:8000/play/a0ad/index.m3u8"
     Live: true
 }
@@ -367,7 +363,7 @@
     Title: "El Canal  de las Estrellas"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/las_estrellas.png"
     Stream: "http://181.13.173.86:8000/play/a06z/index.m3u8"
     Live: true
 }
@@ -417,7 +413,7 @@
     Title: "HBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo.png"
     Stream: "http://181.13.173.86:8000/play/a06o/index.m3u8"
     Live: true
 }
@@ -427,7 +423,7 @@
     Title: "HBO 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo_2.png"
     Stream: "http://181.13.173.86:8000/play/a06q/index.m3u8"
     Live: true
 }
@@ -437,7 +433,7 @@
     Title: "HBO Family"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo_family.png"
     Stream: "http://181.13.173.86:8000/play/a06r/index.m3u8"
     Live: true
 }
@@ -447,7 +443,7 @@
     Title: "HBO Mundi"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_mundi.png"
     Stream: "http://181.13.173.86:8000/play/a02a/index.m3u8"
     Live: true
 }
@@ -457,7 +453,7 @@
     Title: "HBO Plus"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_plus.png"
     Stream: "http://181.13.173.86:8000/play/a06p/index.m3u8"
     Live: true
 }
@@ -467,7 +463,7 @@
     Title: "HBO Signature"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_signature.png"
     Stream: "http://181.13.173.86:8000/play/a02c/index.m3u8"
     Live: true
 }
@@ -477,7 +473,7 @@
     Title: "HBO Xtreme"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_xtreme.png"
     Stream: "http://181.13.173.86:8000/play/a02b/index.m3u8"
     Live: true
 }
@@ -487,7 +483,7 @@
     Title: "HGTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hgtv.png"
     Stream: "http://181.13.173.86:8000/play/a02j/index.m3u8"
     Live: true
 }
@@ -497,7 +493,7 @@
     Title: "HISTORY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_history_channel.png.png"
     Stream: "http://181.13.173.86:8000/play/a0aj/index.m3u8"
     Live: true
 }
