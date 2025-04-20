@@ -38,32 +38,22 @@
 }
 
 {   
-    Artist:"milista"
+    Artist:"angel200881"
     Title: "CL: Chilevisión"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/cl_chilevision.png"
-    Stream: "http://socketevolution.online:8080/MarcoCast9337/D334MW9/151013"
+    Stream: "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/35300"
     Live: true
 }
 
 {   
-    Artist:"milista"
-    Title: "CL: Chilevisión"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/cl_chilevision.png"
-    Stream: "http://socketevolution.online:8080/MarcoCast9337/D334MW9/151014"
-    Live: true
-}
-
-{   
-    Artist:"milista"
+    Artist:"angel200881"
     Title: "CL: MEGA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/cl_mega.png"
-    Stream: "http://socketevolution.online:8080/MarcoCast9337/D334MW9/152315"
+    Stream: "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/35297"
     Live: true
 }
 
@@ -116,12 +106,32 @@
 }
 
 {   
+    Artist:"angel200881"
+    Title: "CO: CARACOL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/co_caracol.png"
+    Stream: "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/304245"
+    Live: true
+}
+
+{   
     Artist:"Chloe125"
     Title: "CO: RCN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/co_rcn.png"
     Stream: "http://190.216.158.199:8000/play/a003/index.m3u8"
+    Live: true
+}
+
+{   
+    Artist:"angel200881"
+    Title: "CO: RCN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/co_rcn.png"
+    Stream: "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/304258"
     Live: true
 }
 
