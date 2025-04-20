@@ -68,19 +68,13 @@
     Stream: "https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8"
 }
 
+
+
 {   
     Title: "Unión Laguna"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/ul.png"
-    Stream: "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8"
-}
-
-{   
-    Title: "Toros de Tijuana"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/toros.png"
     Stream: "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8"
 }
 
@@ -100,12 +94,21 @@
     Stream: "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8"
 }
 
+
 {   
     Title: "Sultanes"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/sultanes.png"
     Stream: "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8"
+}
+
+{   
+    Title: "Toros de Tijuana"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/toros.png"
+    Stream: "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8"
 }
 
 {   
@@ -132,6 +135,13 @@
     Stream: "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8"
 }
 
+{   
+    Title: "Rieleros"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/rieleros.png"
+    Stream: "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8"
+}
 
 {   
     Title: "Bravos"
@@ -139,14 +149,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/bravos.png"
     Stream: "https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8"
-}
-
-{   
-    Title: "Rieleros"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/rieleros.png"
-    Stream: "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8"
 }
 
 {   
@@ -166,14 +168,6 @@
 }
 
 {   
-    Title: "Pericos"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/pericos.png"
-    Stream: "https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8"
-}
-
-{   
     Title: "Leones"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -190,11 +184,11 @@
 }
 
 {   
-    Title: "Aguila de Veracruz"
+    Title: "Pericos"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/aguila.png"
-    Stream: "https://5f1af61612fb5.streamlock.net/rtv/videortv/playlist.m3u8"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/pericos.png"
+    Stream: "https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8"
 }
 
 {   
@@ -214,11 +208,19 @@
 }
 
 {   
+    Title: "Aguila de Veracruz"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/aguila.png"
+    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322756"
+}
+
+{   
     Title: "Conspiradores"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/conspiradores.png"
-    Stream: "https://scontent.fmex1-1.fna.fbcdn.net/hvideo-nha-vll/_nc_cat-110/_nc_sr_t-4/v/rASfe9o_lRWYRnq2Ck0rPT4Iz-z_Kk5f-4rbLO9XdNAlbkw/_nc_ohc-nP49_65Y7RoQ7kNvwGc7V_o/live-dash/dash-abr-ibr-audio/1073614191471595.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AfFcCLc61jT6vCvPl1c8YIqMxru2o_guEC6fhkLmlZFH0w&oe=68062387"
+    Stream: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999"
 }
 
 {   
@@ -226,7 +228,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/charros.png"
-    Stream: "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8"
+    Stream: "http://200.229.147.142:8000/play/a06b/index.m3u8"
 }
 
 
