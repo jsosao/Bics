@@ -523,7 +523,7 @@
     Title: "Lifetime"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/lifetime.png"
     Stream: "http://181.13.173.86:8000/play/a06n/index.m3u8"
     Live: true
 }
@@ -563,7 +563,7 @@
     Title: "NAT GEO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nat_geo.png"
     Stream: "http://181.13.173.86:8000/play/a0al/index.m3u8"
     Live: true
 }
@@ -573,7 +573,7 @@
     Title: "NICK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/nick.png"
     Stream: "http://181.13.173.86:8000/play/a0am/index.m3u8"
     Live: true
 }
@@ -583,7 +583,7 @@
     Title: "Nick Jr"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/nick_jr.png"
     Stream: "http://181.13.173.86:8000/play/a06u/index.m3u8"
     Live: true
 }
@@ -1918,16 +1918,6 @@
 
 {
     Artist: "Chloe125_TV"
-    Title: "La voz de Maria"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.229.147.142:8000/play/a049/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
     Title: "Latin America Sport"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -2462,7 +2452,7 @@
 
 {
     Artist: "Chloe125_TV"
-    Title: "TVC DEPORTES HD"
+    Title: "DEPORTES TVC HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
