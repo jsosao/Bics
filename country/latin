@@ -196,16 +196,6 @@
 }
 
 {   
-    Artist:"milista"
-    Title: "HN: CANAL 5"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/hn_canal_5.png"
-    Stream: "http://socketevolution.online:8080/MarcoCast9337/D334MW9/125936"
-    Live: true
-}
-
-{   
     Title: "PR: TELEMUNDO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -252,6 +242,16 @@
 }
 
 {   
+    Artist:"Chloe125_TV"
+    Title: "GT: GUATEVISION"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/gt_guatevision.png"
+    Stream: "http://200.229.147.142:8000/play/a00w/index.m3u8"
+    Live: true
+}
+
+{   
     Title: "GT: CANAL 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -279,6 +279,36 @@
 }
 
 {   
+    Artist:"Chloe125_TV"
+    Title: "HN: TSI"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/hn_tsi.png"
+    Stream: "https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8"
+    Live: true
+}
+
+{   
+    Artist:"Chloe125_TV"
+    Title: "HN: CANAL 5"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/hn_canal_5.png"
+    Stream: "http://200.229.147.142:8000/play/a05a/index.m3u8"
+    Live: true
+}
+
+{   
+    Artist:"Chloe125_TV"
+    Title: "HN: CANAL 11"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/hn_canal_11.png"
+    Stream: "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8"
+    Live: true
+}
+
+{   
     Title: "HN: CTV INTERNACIONAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -293,6 +323,26 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/hn_vtv.png"
     Stream: "https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8"
+    Live: true
+}
+
+{  
+    Artist:"Chloe125_TV"
+    Title: "HN: LTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/hn_ltv.png"
+    Stream: "https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8"
+    Live: true
+}
+
+{  
+    Artist:"Chloe125_TV"
+    Title: "HN: TELEMAS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/hn_telemas.png"
+    Stream: "https://viewhn.com/telemas/live/playlist.m3u8"
     Live: true
 }
 
