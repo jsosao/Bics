@@ -1371,7 +1371,7 @@
 {
     Artist: "angel200881"
     Title: " Chicago PD"
-    streamFormat: "hls|mts"
+    streamFormat: "hls|mts|m3u|m3u8|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/347976"
