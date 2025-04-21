@@ -884,190 +884,10 @@
 
 {
     Artist: "Chloe125_TV"
-    Title: "HBO+"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://170.254.18.106/HBO_PLUS/tracks-v1a2/mono.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "HBO Family"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://170.254.18.106/HBO_FAMILY/tracks-v1a2/mono.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "HBO 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://170.254.18.106/HBO2/tracks-v1a2/mono.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "HBO Mundi"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://170.254.18.106/HBO_MUNDI/tracks-v1a2/mono.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "HBO Xtreme"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://170.254.18.106/HBO_XTREME/tracks-v1a2/mono.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "HBO SIGNATURE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://170.254.18.106/HBO_SIG/tracks-v1a2/mono.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "HBO POP"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://170.254.18.106/HBO_POP/tracks-v1a2/mono.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "FX Latino"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://170.254.18.106/FX/tracks-v1a2/mono.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "AXN Latin"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://170.254.18.106/AXN/tracks-v1a2/mono.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "STAR Channel LAT"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://170.254.18.106/STAR/tracks-v1a2/mono.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "Lifetime Latino"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://170.254.18.106/LIFETIME/tracks-v1a2/mono.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "Bravo"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://170.254.18.106/BRAVO/tracks-v1a2/mono.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "TNT USA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://170.254.18.106/TNT/tracks-v1a2/mono.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "AMC USA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://170.254.18.106/AMC/tracks-v1a2/mono.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "BET USA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://170.254.18.106/BET/tracks-v1a2/mono.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "Comedy Central USA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://170.254.18.106/COMEDY_CENTRAL/tracks-v1a2/mono.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "Paramount USA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://170.254.18.106/PARAMOUNT/tracks-v1a2/mono.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "VH1 USA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://170.254.18.106/VH1/tracks-v1a2/mono.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
     Title: "ABC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc.png"
     Stream: "http://143.244.60.30/ABC_EAST/index.m3u8"
     Live: true
 }
@@ -1077,7 +897,7 @@
     Title: "NBC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nbc.png"
     Stream: "http://143.244.60.30/NBC_EAST/index.m3u8"
     Live: true
 }
@@ -1087,7 +907,7 @@
     Title: "TBS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/tbs.png"
     Stream: "http://143.244.60.30/TBS/index.m3u8"
     Live: true
 }
@@ -1097,7 +917,7 @@
     Title: "TCM USA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/tcm.png"
     Stream: "http://143.244.60.30/TCM/index.m3u8"
     Live: true
 }
@@ -1107,7 +927,7 @@
     Title: "NICK USA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/nick.png"
     Stream: "http://143.244.60.30/NICKELODEON/index.m3u8"
     Live: true
 }
@@ -1121,6 +941,8 @@
     Stream: "http://91.247.68.229:8000/play/Fashion/index.m3u8"
     Live: true
 }
+
+
 
 {
     Artist: "Chloe125_TV"
@@ -1147,7 +969,7 @@
     Title: "AMC HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/amc.png"
     Stream: "http://200.229.147.142:8000/play/a01y/index.m3u8"
     Live: true
 }
@@ -1157,7 +979,7 @@
     Title: "AXN HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_axn.png"
     Stream: "http://200.229.147.142:8000/play/a027/index.m3u8"
     Live: true
 }
@@ -1169,16 +991,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http://200.229.147.142:8000/play/a06u/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "AZTECA DEPORTES"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.229.147.142:8000/play/a06s/index.m3u8"
     Live: true
 }
 
@@ -1989,7 +1801,7 @@
     Title: "HBO Family HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/mx/hbo_family.png"
     Stream: "http://200.229.147.142:8000/play/a06q/index.m3u8"
     Live: true
 }
@@ -1999,7 +1811,7 @@
     Title: "HBO HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo.png"
     Stream: "http://200.229.147.142:8000/play/a00q/index.m3u8"
     Live: true
 }
@@ -2009,7 +1821,7 @@
     Title: "HBO Plus HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_plus.png"
     Stream: "http://200.229.147.142:8000/play/a00s/index.m3u8"
     Live: true
 }
@@ -2019,7 +1831,7 @@
     Title: "HBO XTREME"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_xtreme.png"
     Stream: "http://200.229.147.142:8000/play/a00t/index.m3u8"
     Live: true
 }
@@ -2029,7 +1841,7 @@
     Title: "HBO2 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo_2.png"
     Stream: "http://200.229.147.142:8000/play/a00r/index.m3u8"
     Live: true
 }
