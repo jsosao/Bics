@@ -449,6 +449,16 @@
 }
 
 {
+    Title: "GRO: Canal 12"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/gro_canal_12.png"
+    Stream: "https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8"
+}
+
+
+
+{
     Title: "JAL: Multimedios Gdl"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -463,6 +473,15 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/jal_jaliscotv.png"
     Stream: "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8"
 }
+
+{
+    Title: "NAY: Nayarit TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/nay_8ntv.png"
+    Stream: "https://5e50264bd6766.streamlock.net/ntv/smil:ntv.smil/playlist.m3u8"
+}
+
 
 {
     Title: "NL: Multimedios Mty"
