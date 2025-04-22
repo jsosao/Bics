@@ -39,6 +39,27 @@
 }
 
 {
+    Artist: "Mevohad2024"
+    Title: "UNIVERSAL PREMIER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_premier.png"
+    Stream: "http://200.115.96.66:4000/play/a034/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "Mevohad2024"
+    Title: "UNIVERSAL PREMIER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_premier.png"
+    Stream: "http://38.159.227.122:8000/play/a02w/index.m3u"
+    Live: true
+}
+
+
+{
     Artist:"milista"    
     Title: "UNIVERSAL CRIME"
     streamFormat: "hls|mts"
@@ -63,7 +84,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_universal_tv.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310656"
+    Stream: "http://45.235.37.254/universalhd/index.m3u8"
     Live: true
 }
 
@@ -87,25 +108,79 @@
 }
 
 {
+    Artist: "Chloe125_TV"
+    Title: "AXN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_axn.png"
+    Stream: "http://181.13.173.86:8000/play/a0a8/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "Mevohad2024"
+    Title: "AXN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_axn.png"
+    Stream: "https://streamer1.nexgen.bz/AXN/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "Mevohad2024"
+    Title: "AXN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_axn.png"
+    Stream: "http://45.235.37.254/axnhd/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "Mevohad2024"
+    Title: "AXN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_axn.png"
+    Stream: "http://45.186.106.207:8000/play/a02p/index.m3u88"
+    Live: true
+}
+
+{   
+    Title: "BR: AXN"
+    streamFormat: "hls|mts"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_axn.png"
+    Stream: "http://play.1list.vip/live/listatvs/controliptv/41468.ts"
+    Live: true
+}
+
+
+
+
+{
     Artist:"neblina6383"    
     Title: "TNT HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/tnt.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310579"
+    Stream: "http://181.176.153.106:8090/play/a0ig/index.m3u8"
     Live: true
 }
 
+
 {
+    Artist: "Mevohad2024"
     Title: "MX: TNT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/tnt.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310661"
+    Stream: "http://45.235.37.254/tnthd/index.m3u8"
     Live: true
 }
 
 {
+    Artist: "Mevohad2024"
     Artist: "Chloe125_TV"
     Title: "TNT"
     streamFormat: "hls|mts"
@@ -135,11 +210,12 @@
 }
 
 {
+    Artist: "Mevohad2024"  
     Title: "MX: TNT SERIES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_tnt_series.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310660"
+    Stream: "http://181.78.201.70:8000/play/a0pn/index.m3u8"
     Live: true
 }
 
@@ -173,20 +249,22 @@
 }
 
 {
+    Artist: "Mevohad2024"    
     Title: "MX: TNT NOVELAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_tnt_novelas.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310597"
+    Stream: "http://181.78.12.164:9000/play/a08y"
     Live: true
 }
 
 {
+    Artist: "Mevohad2024"    
     Title: "MX: TLC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/tlc.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310595"
+    Stream: "http://190.111.16.106:40000/play/a06g"
     Live: true
 }
 
@@ -201,11 +279,12 @@
 
 
 {
+    Artist: "Mevohad2024"    
     Title: "MX: TCM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/tcm.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310596"
+    Stream: "http://181.78.99.187:8000/play/a0nu/index.m3u8"
     Live: true
 }
 
@@ -219,11 +298,12 @@
 }
 
 {
+    Artist: "Mevohad2024"    
     Title: "MX: SPACE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_space.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310598"
+    Stream: "http://181.176.153.106:8090/play/a0q9/index.m3u8"
     Live: true
 }
 
@@ -302,13 +382,13 @@
     Live: true
 }
 
-
 {
+    Artist: "Mevohad2024"    
     Title: "MX: GOURMET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_gourmet.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310608"
+    Stream: "http://181.78.201.70:8000/play/a0pi/index.m3u8"
     Live: true
 }
 
@@ -323,29 +403,32 @@
 }
 
 {
+    Artist: "Mevohad2024"        
     Title: "MX: FOOD NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/food_network.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310618"
+    Stream: "http://190.0.241.181:8000/play/a0ac/index.m3u8"
     Live: true
 }
 
 {
+    Artist: "Mevohad2024"        
     Title: "MX: ANTENA SERIES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_antena_series.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310605"
+    Stream: "http://200.115.120.1:8000/play/ca0101/index.m3u8"
     Live: true
 }
 
 {
+    Artist: "Mevohad2024"        
     Title: "MX: E ENTERTAINMENT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/e!.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310624"
+    Stream: "http://181.78.21.46:8009/play/a03a"
     Live: true
 }
 {
@@ -358,38 +441,32 @@
 }
 
 {
+    Artist: "Mevohad2024"        
     Title: "MX: COMEDY CENTRAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/comedy_central.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310626"
+    Stream: "http://200.115.120.1:8000/play/ca108/index.m3u8"
     Live: true
 }
 
 {
-    Title: "MX: COMEDY CENTRAL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/comedy_central.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310675"
-    Live: true
-}
-
-{
+    Artist: "Mevohad2024"        
     Title: "MX: HISTORY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_history_channel.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310671"
+    Stream: "http://181.78.109.48:8000/play/a02b/index.m3u8"
     Live: true
 }
 
 {
+    Artist: "Mevohad2024"        
     Title: "MX: HISTORY 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_h2.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310600"
+    Stream: "http://181.78.109.48:8000/play/a03k/index.m3u8"
     Live: true
 }
 
@@ -404,11 +481,12 @@
 }
 
 {
+    Artist: "Mevohad2024"      
     Title: "MX: NATGEO HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nat_geo.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310669"
+    Stream: "https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
     Live: true
 }
 
@@ -443,29 +521,32 @@
 }
 
 {
+    Artist: "Mevohad2024"      
     Title: "MX: DISCOVERY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_channel.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310630"
+    Stream: "http://45.186.106.207:8000/play/a075/index.m3u88"
     Live: true
 }
 
 {
+    Artist: "Mevohad2024"      
     Title: "MX: DISCOVERY TLC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_tlc.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310663"
+    Stream: "http://190.111.16.106:40000/play/a06g"
     Live: true
 }
 
 {
+    Artist: "Mevohad2024"      
     Title: "MX: DISCOVERY WORLD HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_wolrd.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310627"
+    Stream: "http://45.186.106.207:8000/play/a076/index.m3u88"
     Live: true
 }
 
@@ -481,11 +562,12 @@
 }
 
 {
+    Artist: "Mevohad2024"      
     Title: "MX: DISCOVERY TURBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_turbo.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310628"
+    Stream: "http://45.186.106.207:8000/play/a028/index.m3u88"
     Live: true
 }
 
@@ -500,20 +582,12 @@
 }
 
 {
+    Artist: "Mevohad2024"      
     Title: "DISCOVERY SCIENCE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_science.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310581"
-    Live: true
-}
-
-{
-    Title: "MX: DISCOVERY SCIENCE HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_science.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310629"
+    Stream: "http://45.186.106.207:8000/play/a06m/index.m3u88"
     Live: true
 }
 
@@ -529,11 +603,12 @@
 
 
 {
+    Artist: "Mevohad2024"  
     Title: "MX: DISCOVERY THEATHER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_theater.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310592"
+    Stream: "http://181.78.27.128:8000/play/a02l/index.m3u8"
     Live: true
 }
 
@@ -542,7 +617,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_theater.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310631"
+    Stream: "http://181.78.99.187:8000/play/a0l0/index.m3u8"
     Live: true
 }
 
@@ -557,11 +632,12 @@
 }
 
 {
+    Artist: "Mevohad2024"  
     Title: "MX: DISCOVERY ID"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/id.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310632"
+    Stream: "http://45.186.106.207:8000/play/a079/index.m3u88"
     Live: true
 }
 
@@ -576,11 +652,12 @@
 }
 
 {
+    Artist: "Mevohad2024"  
     Title: "MX: FX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/fx.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310613"
+    Stream: "http://45.235.37.254/fxhd/index.m3u8"
     Live: true
 }
 
@@ -595,56 +672,32 @@
 }
 
 {
+    Artist: "Mevohad2024"  
     Title: "MX: STAR CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_star_channel.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310617"
+    Stream: "http://181.78.109.48:8000/play/a04t/index.m3u8"
     Live: true
 }
 
 {
-    Title: "MX: AXN SERIES"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_axn.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310640"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "AXN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_axn.png"
-    Stream: "http://181.13.173.86:8000/play/a0a8/index.m3u8"
-    Live: true
-}
-
-{   
-    Title: "BR: AXN"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_axn.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/41468.ts"
-    Live: true
-}
-
-{
+    Artist: "Mevohad2024"  
     Title: "MX: ANIMAL PLANET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/animal_planet.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310641"
+    Stream: "http://45.186.106.207:8000/play/a07u/index.m3u88"
     Live: true
 }
 
 {
+    Artist: "Mevohad2024"  
     Title: "MX: WARNER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_warner_tv.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310644"
+    Stream: "http://181.78.211.244:8000/play/a029/index.m3u8"
     Live: true
 }
 
@@ -688,11 +741,12 @@
 }
 
 {
+    Artist: "Mevohad2024"  
     Title: "MX: MAS CHIC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_mas_chic.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310650"
+    Stream: "http://200.115.120.1:8000/play/ca021/index.m3u8"
     Live: true
 }
 
@@ -752,11 +806,12 @@
 }
 
 {
+    Artist: "Mevohad2024"  
     Title: "MX: A&E"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_a&e.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310658"
+    Stream: "http://45.186.106.207:8000/play/a07x/index.m3u88"
     Live: true
 }
 
@@ -779,11 +834,12 @@
 }
 
 {
+    Artist: "Mevohad2024"  
     Title: "MX: AMC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/amc_network.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310662"
+    Stream: "http://45.235.37.254/amchd/index.m3u8"
     Live: true
 }
 
@@ -806,11 +862,12 @@
 }
 
 {
+    Artist: "Mevohad2024"  
     Title: "MX: PARAMOUNT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/paramount_network.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310665"
+    Stream: "http://200.115.96.66:4000/play/a0dq/index.m3u8"
     Live: true
 }
 
@@ -854,7 +911,7 @@
 
 
 {
-    Title: "MX: ESTUDIO UNIVERSAL"
+    Title: "MX: STUDIO UNIVERSAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_studio_universal.png"
@@ -864,7 +921,7 @@
 
 {
     Artist: "Chloe125_TV"
-    Title: "ESTUDIO UNIVERSAL"
+    Title: "STUDIO UNIVERSAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_studio_universal.png"
@@ -891,11 +948,12 @@
 }
 
 {
+    Artist: "Mevohad2024"  
     Title: "MX: SONY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_canal_sony.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310648"
+    Stream: "http://181.78.109.48:8000/play/a04v/index.m3u8"
     Live: true
 }
 
@@ -909,21 +967,22 @@
     Live: true
 }
 
-{
-    Title: "MX: SONY MOVIES"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_canal_sony.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310670"
-    Live: true
-}
-
 {   
     Title: "BR: SONY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_canal_sony.png"
     Stream: "http://play.1list.vip/live/listatvs/controliptv/41470.ts"
+    Live: true
+}
+
+{
+    Artist: "Mevohad2024"
+    Title: "MX: SONY MOVIES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_canal_sony.png"
+    Stream: "http://181.78.109.48:8000/play/a02p/index.m3u8"
     Live: true
 }
 
@@ -964,38 +1023,52 @@
 }
 
 {
+    Artist: "Mevohad2024"
     Title: "MX: CARTOON NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/cartoon_network.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310677"
+    Stream: "http://45.186.106.207:8000/play/a07l/index.m3u88"
     Live: true
 }
 
 {
+    Artist: "Mevohad2024"
+    Title: "MX: CARTOONITO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/cartoonito.png"
+    Stream: "http://181.78.109.48:8000/play/a01o/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "Mevohad2024"
     Title: "MX: DISCOVERY KIDS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_kids.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310654"
+    Stream: "http://45.186.106.207:8000/play/a06t/index.m3u88"
     Live: true
 }
 
 {
+    Artist: "Mevohad2024"
     Title: "MX: BITME"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_bitme.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310655"
+    Stream: "http://179.49.163.34:45000/play/a02m/index.m3u8"
     Live: true
 }
 
 {
+    Artist: "Mevohad2024"
     Title: "MX: TOONCAST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_tooncast.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310659"
+    Stream: "http://181.78.109.48:8000/play/a04e/index.m3u8"
     Live: true
 }
 
@@ -1009,146 +1082,122 @@
 }
 
 {
+    Artist: "Mevohad2024"
     Title: "US: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310580"
+    Stream: "http://206.212.244.71:8080/4wVQA7/625159/11885"
     Live: true
 }
 
 {
+    Artist: "Mevohad2024"
     Title: "MX: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310664"
+    Stream: "http://190.111.16.106:40000/play/a09p"
     Live: true
 }
 
 {
+    Artist: "Mevohad2024"
     Title: "MX: ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310622"
+    Stream: "http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/97"
     Live: true
 }
 
 {
+    Artist: "Mevohad2024"
+    Title: "MX: ESPN 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
+    Stream: "http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/1456"
+    Live: true
+}
+
+{
+    Artist: "Mevohad2024"
     Title: "MX: ESPN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310620"
+    Stream: "http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/91"
     Live: true
 }
 
 {
-    Title: "MX: ESPN  EXTRA"
+    Artist: "Mevohad2024"
+    Title: "MX: ESPN 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_4.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310623"
+    Stream: "http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/90"
     Live: true
 }
 
 {
-    Title: "MX: ESPN PREMIUM"
+    Artist: "Mevohad2024"
+    Title: "ESPN 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310616"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_5.png"
+    Stream: "http://181.78.21.46:8009/play/a018"
     Live: true
 }
 
 {
+    Artist: "Mevohad2024"
+    Title: "MX: ESPN 6"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_6.png"
+    Stream: "http://181.78.21.46:8009/play/a019"
+    Live: true
+}
+
+{
+    Artist: "Mevohad2024"
+    Title: "MX: FOX SPORTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports.png"
+    Stream: "http://200.115.96.66:4000/play/a0jx/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "Mevohad2024"
     Title: "MX: FOX SPORTS 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports_2.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310615"
+    Stream: "http://200.115.96.66:4000/play/a0h1/index.m3u8"
     Live: true
 }
 
 {
+    Artist: "Mevohad2024"
     Title: "FOX SPORTS 3 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports_3.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310582"
+    Stream: "http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/100"
     Live: true
 }
 
 {
-    Title: "MX: FOX SPORTS 3"
+    Artist: "Mevohad2024"
+    Title: "FOX SPORTS PREMIUM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports_3.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310614"
-    Live: true
-}
-
-{
-    Title: "MX: CLARO SPORTS FHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/claro_sports.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310593"
-    Live: true
-}
-
-{
-    Title: "MX: AYM DEPORTES"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/aym_sports.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310602"
-    Live: true
-}
-
-{
-    Title: "MX: TVC DEPORTES"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_tvc_deportes.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310645"
-    Live: true
-}
-
-{
-    Title: "MX: ADRENALINA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_adrenalina.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310594"
-    Live: true
-}
-
-{
-    Title: "MX: BANDAMAX"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_bandamax.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310637"
-    Live: true
-}
-
-{
-    Title: "MX: TELEHIT"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_telehit.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310647"
-    Live: true
-}
-
-{
-    Title: "MX: MTV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/mtv.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310649"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports_premium.png"
+    Stream: "http://stklatino.dynns.com:2082/diegoantofaiptv/iroquitv23/79152"
     Live: true
 }
 
@@ -1167,34 +1216,17 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cinemax.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310607"
-    Live: true
-}
-
-{   
-    Title: "BR: CINEMAX"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cinemax.png"
     Stream: "http://play.1list.vip/live/listatvs/controliptv/40261.ts"
     Live: true
 }
 
 {
+    Artist: "Mevohad2024"
     Title: "MX: HBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310607"
-    Live: true
-}
-
-{
-    Title: "HBO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310584"
+    Stream: "http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/120"
     Live: true
 }
 
@@ -1208,20 +1240,12 @@
 }
 
 {
+    Artist: "Mevohad2024"
     Title: "HBO 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo_2.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310585"
-    Live: true
-}
-
-{
-    Title: "MX: HBO 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo_2.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310606"
+    Stream: "http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/121"
     Live: true
 }
 
@@ -1235,11 +1259,12 @@
 }
 
 {
+    Artist: "Mevohad2024"
     Title: "MX: HBO MUNDI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_mundi.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310651"
+    Stream: "http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/1628"
     Live: true
 }
 
@@ -1253,20 +1278,12 @@
 }
 
 {
+    Artist: "Mevohad2024"
     Title: "MX: HBO XTREME"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_xtreme.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310603"
-    Live: true
-}
-
-{
-    Title: "HBO XTREME HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_xtreme.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310590"
+    Stream: "http://200.115.96.66:4000/play/a02o/index.m3u8"
     Live: true
 }
 
@@ -1280,20 +1297,12 @@
 }
 
 {
+    Artist: "Mevohad2024"
     Title: "MX: HBO FAMILY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo_family.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310604"
-    Live: true
-}
-
-{
-    Title: "HBO FAMILY HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo_family.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310586"
+    Stream: "http://181.78.109.48:8000/play/a01a/index.m3u8"
     Live: true
 }
 
@@ -1307,20 +1316,12 @@
 }
 
 {
+    Artist: "Mevohad2024"
     Title: "MX: HBO SIGNATURE HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_signature.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310672"
-    Live: true
-}
-
-{
-    Title: "HBO SIGNATURE HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_signature.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310589"
+    Stream: "http://181.78.78.66:8000/play/a0ch"
     Live: true
 }
 
@@ -1334,29 +1335,12 @@
 }
 
 {
+    Artist: "Mevohad2024"
     Title: "MX: HBO POP"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_pop.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310673"
-    Live: true
-}
-
-{
-    Title: "HBO POP"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_pop.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310578"
-    Live: true
-}
-
-{
-    Title: "HBO POP"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_pop.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310578"
+    Stream: "http://190.60.38.45:8000/play/a09t/index.m3u8"
     Live: true
 }
 
@@ -1379,29 +1363,22 @@
 }
 
 {
+    Artist: "Mevohad2024"
     Title: "HBO MUNDI HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_mundi.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310587"
+    Stream: "http://181.78.201.70:8000/play/a0fu/index.m3u8"
     Live: true
 }
 
 {
+    Artist: "Mevohad2024"
     Title: "MX: HBO PLUS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_plus.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310674"
-    Live: true
-}
-
-{
-    Title: "HBO PLUS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_plus.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310588"
+    Stream: "http://181.78.109.48:8000/play/a019/index.m3u8"
     Live: true
 }
 
@@ -1410,16 +1387,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_d_pelicula_plus.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310625"
-    Live: true
-}
-
-{
-    Title: "MX: CINEMA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_cinema.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310633"
+    Stream: "http://181.78.109.48:8000/play/a06j/index.m3u8"
     Live: true
 }
 
@@ -1428,7 +1396,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_cinecanal.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310634"
+    Stream: "http://masterprotv1.com:8080/aube1205carl/carlos1234/315"
     Live: true
 }
 
@@ -1445,16 +1413,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_golden_edge.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310652"
-    Live: true
-}
-
-{
-    Title: "MX: GOLDEN EDGE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_golden_edge.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310609"
+    Stream: "http://200.115.120.1:8000/play/ca037/index.m3u8"
     Live: true
 }
 
@@ -1463,17 +1422,16 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_golden.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310611"
+    Stream: "http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/1624"
     Live: true
 }
 
 {
-    Artist:"neblina6383"        
     Title: "MX: GOLDEN PLUS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_golden_plus.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310610"
+    Stream: "http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/75"
     Live: true
 }
 
