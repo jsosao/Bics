@@ -231,6 +231,19 @@
 }
 
 {
+    Artist: "Mevohad2024"
+    Title: "MX: TVC DEPORTES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_tvc_deportes.png"
+    Stream: "http://stklatino.dynns.com:2082/diegoantofaiptv/iroquitv23/13689"
+    Live: true
+}
+
+
+
+
+{
     Artist: "Chloe125_TV"
     Title: "HN: DEPORTES TVC"
     streamFormat: "hls|mts"
