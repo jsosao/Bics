@@ -37,7 +37,7 @@
 {
     Artist: "Facebook"
     Title: "Hi! SPORTS"
-    streamFormat: "hls|mts"
+    streamFormat: "hls|mts|mpd"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_hi_sports.png"
     Stream: "https://scontent.fmex1-2.fna.fbcdn.net/hvideo-atn-frc/_nc_cat-100/_nc_sr_t-4/v/rAScWoAYQiTNNuYKzv4I7fkXfXEcAPzbPzrWqIkICSv1riA/_nc_ohc-LeG85Z3r7EIQ7kNvwFi6-uC/live-dash/dash-abr-ibr-audio/122183104100285964.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AfET1xrbnOISlPs_V0oE0_JlPKoNGEMCxvWhagP4SmxQew&oe=680A307A"
@@ -125,7 +125,7 @@
 
 {   
     Title: "Toros de Tijuana -X"
-    streamFormat: "hls|mts"
+    streamFormat: "hls|mts|mpd"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/toros.png"
     Stream: "https://scontent.fmex1-1.fna.fbcdn.net/hvideo-ldc-frc/_nc_cat-106/_nc_sr_t-4/v/rASf8kx_yvrDmOOdBkTH1XpPztmUA_w9aPOgxx4AO2SiiHA/_nc_ohc-5VyDTE8Eu3oQ7kNvwFo1ZeA/live-dash/dash-abr-ibr-audio/122140801076603346.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AfG0xCtX31Eh9PuSivs13bgV6gvIr_lZdDA_0dKo-hx48Q&oe=6808E6E6"
@@ -133,7 +133,7 @@
 
 {   
     Title: "Tecolotes -X"
-    streamFormat: "hls|mts"
+    streamFormat: "hls|mts|mpd"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/tecos.png"
     Stream: "https://scontent.fmex1-5.fna.fbcdn.net/hvideo-odn-cln/_nc_cat-103/_nc_sr_t-4/v/rASfR8XPeG03u1oSVTyf3tzbr2JqClxNO9usQHM2JkDwzbw/_nc_ohc-hbnRoSAEj-QQ7kNvwFgSFdd/live-dash/dash-abr-ibr-audio/122177220350344139.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AfGDblyid0jXOwVKmaCsUGMOSe0n3eM_70FUyapOXBHoLA&oe=680A17C8"
@@ -245,7 +245,7 @@
 
 {   
     Title: "Charros -X"
-    streamFormat: "hls|mts"
+    streamFormat: "hls|mts|mpd"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/charros.png"
     Stream: "https://scontent.fmex1-1.fna.fbcdn.net/hvideo-cln-odn/_nc_cat-106/_nc_sr_t-4/v/rAScrr7BaPOKnT7HlY7qT02xUHEUhFs7oJhZP2EemexQWHg/_nc_ohc-M_LZyyD_Om4Q7kNvwHgSdq-/live-dash/dash-abr-ibr-audio/122153870966582008.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AfE3zgNPH_0H4psGZi3_x9FpJK5tlNgipwSIePs2QYLbvw&oe=680A0D51"
