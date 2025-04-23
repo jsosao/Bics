@@ -1,12 +1,12 @@
 
 {
-    Title: "COAH Multimedios"
+    Title: "COAH Multimedios IZZI"
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     keySystem: "Widevine"
-    licenseServerURL: "https://mscs1.prod.ovp.ses.com:9194/policy_manager/v4/drm_proxy/"
+    licenseServerURL: "https://licizzpromax.bgaddon.repl.co/izz.php?token=lakjfñlDAS"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/coah_multimedios_laguna.png"
-    Stream: "https://dish.akamaized.net/Content/DASH/Live/channel(13c8fed2-46b8-3bfb-90ae-34f938ae4b98)/variant.mpd"
+    Stream: "https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd"
 }
 
 
