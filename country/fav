@@ -4,12 +4,11 @@
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     keySystem: "Widevine"
+    encodingKey: "2d0afa4581af1d11f96db1412ba8247d:ddf73aab675225c6edd1d9b2ee5e7bd8"
     licenseServerURL: "https://endpoints-startv.cef-technology.com:8939/?"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/coah_multimedios_laguna.png"
     Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/espn/vmx/index.mpd"
 }
-
-
 
 {
     Title: "COAH Multimedios Lag"
