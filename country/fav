@@ -1,12 +1,12 @@
 
 {
-    Title: "COAH Multimedios IZZI"
+    Title: "ESPN"
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     keySystem: "Widevine"
-    licenseServerURL: "https://licizzpromax.bgaddon.repl.co/izz.php?token=lakjfñlDAS"
+    licenseServerURL: "https://endpoints-startv.cef-technology.com:8939/?"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/coah_multimedios_laguna.png"
-    Stream: "https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd"
+    Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/espn/vmx/index.mpd"
 }
 
 
