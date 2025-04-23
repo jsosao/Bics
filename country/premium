@@ -1,4 +1,14 @@
 {
+    Artist:"maurysam"    
+    Title: "UNIVERSAL PREMIER"
+    streamFormat: "dash"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_premier.png"
+    Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_premier/vmx/index.mpd"
+    Live: true
+}
+
+{
     Artist:"angel200881"    
     Title: "UNIVERSAL PREMIER"
     streamFormat: "hls|mts"
