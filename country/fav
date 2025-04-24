@@ -49,35 +49,3 @@
     Stream: "http://117tv.icu:8080/X5xRz0/944877/125947"
     Live: true
 }
-
-{
-    Title: "SIETE"
-    streamFormat: "dash"
-    SwitchingStrategy: "full-adaptation"
-    keySystem: "Widevine"
-    licenseServerURL: "https://endpoints-startv.cef-technology.com:8063/"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/coah_multimedios_laguna.png"
-    Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/zu_azteca_siete/vmx/index.mpd"
-}
-
-{
-    Title: "ESPN"
-    streamFormat: "dash"
-    SwitchingStrategy: "full-adaptation"
-    keySystem: "Widevine"
-    encodingKey: "2d0afa4581af1d11f96db1412ba8247d:ddf73aab675225c6edd1d9b2ee5e7bd8"
-    licenseServerURL: "https://endpoints-startv.cef-technology.com:8939/?"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/coah_multimedios_laguna.png"
-    Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/espn/vmx/index.mpd"
-}
-
-{
-    Title: "FOXX"
-    streamFormat: "dash"
-    keySystem: "clearkey"
-    keyId = "2fbdaa3bea0d0323ae011b318d1db716"
-    key = "8726ef7eaf5b9dce15fb6aa9f80bd53f"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/coah_multimedios_laguna.png"
-    Stream: "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd"
-}
