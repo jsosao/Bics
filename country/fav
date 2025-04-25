@@ -1,30 +1,5 @@
 
 {
-    Title: "Dishhh"
-    streamFormat: "dash"
-    SwitchingStrategy: "full-adaptation"
-    keySystem: "clearkey"
-    licenseKey: "91a21f7ffc03b3e46fe348dd0755758e:5fe60fd77dfa61dbf41d1a0ac959621d"
-    User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/coah_multimedios_laguna.png"
-    Stream: "https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd"
-}
-
-{
-    Title: "13"
-    streamFormat: "dash"
-    SwitchingStrategy: "full-adaptation"
-    keySystem: "widevine"
-    licenseServerURL: "https://endpoints-startv.cef-technology.com:8063/"
-    Referer: "https://edgelb.stargroup.com.mx/"
-    User-Agent: "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/coah_multimedios_laguna.png"
-    Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/zu_azteca_uno/vmx/index.mpd"
-}
-
-
-
-{
     Title: "COAH Multimedios Lag"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
