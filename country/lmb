@@ -25,16 +25,6 @@
 }
 
 {
-    Artist: "web"
-    Title: "MX: BEISBOL LATINO TV"
-    streamFormat: "hls|mts|m3u|m3u8|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_beisbol_latino.png"
-    Stream: "https://hls.aymsports.net/hls/chanel_2/stream.m3u8"
-    Live: true
-}
-
-{
     Artist: "Facebook"
     Title: "Hi! SPORTS"
     streamFormat: "hls|mts|mpd"
@@ -114,7 +104,6 @@
     Stream: "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8"
 }
 
-
 {   
     Title: "Sultanes"
     streamFormat: "hls|mts"
@@ -124,19 +113,19 @@
 }
 
 {   
+    Title: "Tecolotes"
+    streamFormat: "hls|mts|mpd"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/tecos.png"
+    Stream: "https://hls.aymsports.net/hls/chanel_2/stream.m3u8"
+}
+
+{   
     Title: "Toros de Tijuana -X"
     streamFormat: "hls|mts|mpd"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/toros.png"
     Stream: "https://scontent.fmex1-1.fna.fbcdn.net/hvideo-ldc-frc/_nc_cat-106/_nc_sr_t-4/v/rASf8kx_yvrDmOOdBkTH1XpPztmUA_w9aPOgxx4AO2SiiHA/_nc_ohc-5VyDTE8Eu3oQ7kNvwFo1ZeA/live-dash/dash-abr-ibr-audio/122140801076603346.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AfG0xCtX31Eh9PuSivs13bgV6gvIr_lZdDA_0dKo-hx48Q&oe=6808E6E6"
-}
-
-{   
-    Title: "Tecolotes -X"
-    streamFormat: "hls|mts|mpd"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/tecos.png"
-    Stream: "https://hls.aymsports.net/hls/chanel_2/stream.m3u8"
 }
 
 {   
@@ -160,7 +149,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/rieleros.png"
-    Stream: "https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8"
+    Stream: "http://stklatino.dynns.com:2082/diegoantofaiptv/iroquitv23/79152"
 }
 
 {   
@@ -248,7 +237,7 @@
     streamFormat: "hls|mts|mpd"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/charros.png"
-    Stream: "http://200.115.96.66:4000/play/a0h1/index.m3u8"
+    Stream: "http://stklatino.dynns.com:2082/diegoantofaiptv/iroquitv23/79152"
 }
 
 
