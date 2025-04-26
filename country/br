@@ -224,7 +224,7 @@
     Title: "BR: HBO PLUS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_pop.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_plus.png"
     Stream: "http://play.1list.vip/live/listatvs/controliptv/41487.ts"
     Live: true
 }
@@ -244,15 +244,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.imgur.com/ny7Mt46.png"
     Stream: "http://play.1list.vip/live/listatvs/controliptv/61965.ts"
-    Live: true
-}
-
-{   Title: "STAR CHANNEL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_star_channel.png"
-    Stream: "http://play.1list.vip:80/listatvs/controliptv/38427"
-    UserAgent: ":http-user-agent="
     Live: true
 }
 
@@ -327,7 +318,7 @@
     Title: "SPORTTV 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sporttv_1.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/br_sportv.png"
     Stream: "http://play.1list.vip/listatvs/controliptv/40785"
     Live: true
 }
@@ -337,7 +328,7 @@
     Title: "SPORTTV 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sporttv_2.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/br_sportv_2.png"
     Stream: "http://play.1list.vip/listatvs/controliptv/215402"
     Live: true
 }
@@ -347,7 +338,7 @@
     Title: "SPORTTV 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sporttv_3.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/br_sportv_3.png"
     Stream: "http://play.1list.vip/listatvs/controliptv/215403"
     Live: true
 }
@@ -428,7 +419,7 @@
     Title: "ANIMAL PLANET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/animal_planet.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62794"
     UserAgent: ":http-user-agent="
     Live: true
@@ -438,7 +429,7 @@
     Title: "DISCOVERY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://designconceitual.com.br/wp-content/uploads/2019/04/Discover_2019.jpg"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_channel.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/50538"
     UserAgent: ":http-user-agent="
     Live: true
@@ -448,7 +439,7 @@
     Title: "DISCOVERY H&H"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://teleguiado.com/wp-content/uploads/2022/08/DISCOVERY-HOME-E-HEALTH.jpg"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_h&h.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/74791"
     UserAgent: ":http-user-agent="
     Live: true
@@ -458,7 +449,7 @@
     Title: "DISCOVERY SCIENCE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.ytimg.com/vi/D1_upDw-DFM/maxresdefault.jpg"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_science.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/50540"
     UserAgent: ":http-user-agent="
     Live: true
@@ -468,7 +459,7 @@
     Title: "DISCOVERY THEATER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://static.wikia.nocookie.net/tvpediabrasil/images/d/d7/Discthe.jpg/revision/latest?cb=20180802215845&path-prefix=pt-br"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/discovery_theater.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62879"
     UserAgent: ":http-user-agent="
     Live: true
@@ -478,7 +469,7 @@
     Title: "DISCOVERY TURBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/discovery_turbo.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/74794"
     UserAgent: ":http-user-agent="
     Live: true
@@ -487,7 +478,7 @@
     Title: "DISCOVERY WORLD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_world.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62875"
     UserAgent: ":http-user-agent="
     Live: true
@@ -496,7 +487,7 @@
     Title: "HISTORY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3be17d1161643.5a5e3b28d567e.jpg"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_history_channel.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62858"
     UserAgent: ":http-user-agent="
     Live: true
@@ -504,7 +495,7 @@
 {   
     Title: "HISTORY 2"
     streamFormat: "hls|mts"
-    Logo: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3be17d1161643.5a5e3b28d567e.jpg"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_h2.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/51245"
     UserAgent: ":http-user-agent="
     Live: true
@@ -513,33 +504,29 @@
     Title: "NATIONAL GEOGRAPHIC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nglogo2.png?w=400&h=400&q=75"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nat_geo.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/41280"
     UserAgent: ":http-user-agent="
     Live: true
 }
 
-
-
-
-
 {   Title: "CARTOON NETWORK"
     streamFormat: "hls|mts"
-    Logo: "https://logospng.org/download/cartoon-network/logo-cartoon-network-1024.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/cartoon_network.png"
     Stream: "http://play.1list.vip/listatvs/controliptv/50534"
     UserAgent: ":http-user-agent=https://blackghost.live/play/wistream-bglve-711.php?cat=latinos&ch=nationalgeo&f=.m3u8"
     Live: true
 }
 {   Title: "DISCOVERY KIDS"
     streamFormat: "hls|mts"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/discovery_kids.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62881"
     UserAgent: ":http-user-agent="
     Live: true
 }
 {   Title: "DISNEY CHANNEL"
     streamFormat: "hls|mts"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/disney_channel.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62873"
     UserAgent: ":http-user-agent="
     Live: true
@@ -560,21 +547,21 @@
 }
 {   Title: "NICKELODEON"
     streamFormat: "hls|mts"
-    Logo: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ec545603-cf4e-48e0-936d-5376ea12fdc0/dg3pg8y-0d5a0671-3b0d-4fb7-8b4e-8d2582f17034.png/v1/fill/w_1192,h_670/nickelodeon_logo_png_2023_by_wcwjunkbox_dg3pg8y-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZWM1NDU2MDMtY2Y0ZS00OGUwLTkzNmQtNTM3NmVhMTJmZGMwXC9kZzNwZzh5LTBkNWEwNjcxLTNiMGQtNGZiNy04YjRlLThkMjU4MmYxNzAzNC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.-ZKzrCoTN-KiI1xlC_3i6iggjk1NDi_hIECmT_k_cPI"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/nickelodeon.png"
     Stream: "http://globalsrv.me:80/live/612714/629529/1818667"
     UserAgent: ":http-user-agent="
     Live: true
 }
 {   Title: "NICK"
     streamFormat: "hls|mts"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/nick.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62886"
     UserAgent: ":http-user-agent="
     Live: true
 }
 {   Title: "NICK JR"
     streamFormat: "hls|mts"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/2155px-Nick_Jr._logo_2023_%28outline%29.svg.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/nick_jr.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62884"
     UserAgent: ":http-user-agent="
     Live: true
@@ -602,16 +589,11 @@
 }
 {   Title: "TOONCAST"
     streamFormat: "hls|mts"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/tooncast.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/91495"
     UserAgent: ":http-user-agent="
     Live: true
 }
-
-
-
-
-
 
 {   
     Title: "BR: MEGAPIX"
