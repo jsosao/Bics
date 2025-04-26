@@ -459,7 +459,7 @@
     Title: "DISCOVERY THEATER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/discovery_theater.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_theater.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62879"
     UserAgent: ":http-user-agent="
     Live: true
@@ -469,7 +469,7 @@
     Title: "DISCOVERY TURBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/discovery_turbo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_turbo.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/74794"
     UserAgent: ":http-user-agent="
     Live: true
@@ -510,84 +510,98 @@
     Live: true
 }
 
-{   Title: "CARTOON NETWORK"
+{   
+    Title: "CARTOON NETWORK"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/cartoon_network.png"
     Stream: "http://play.1list.vip/listatvs/controliptv/50534"
     UserAgent: ":http-user-agent=https://blackghost.live/play/wistream-bglve-711.php?cat=latinos&ch=nationalgeo&f=.m3u8"
     Live: true
 }
-{   Title: "DISCOVERY KIDS"
+
+{   
+    Title: "DISCOVERY KIDS"
     streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/discovery_kids.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/d_kids.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62881"
     UserAgent: ":http-user-agent="
     Live: true
 }
-{   Title: "DISNEY CHANNEL"
+
+{       
+    Title: "DISNEY CHANNEL"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/disney_channel.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62873"
     UserAgent: ":http-user-agent="
     Live: true
 }
-{   Title: "GLOOB"
+{   
+    Title: "GLOOB"
     streamFormat: "hls|mts"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Gloob_Logo_%282012%29.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/51244"
     UserAgent: ":http-user-agent="
     Live: true
 }
-{   Title: "GLOOBINHO"
+{   
+    Title: "GLOOBINHO"
     streamFormat: "hls|mts"
     Logo: "https://mondrian.claro.com.br/channels/inverse/gloobinho@3x.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62814"
     UserAgent: ":http-user-agent="
     Live: true
 }
-{   Title: "NICKELODEON"
+{   
+    Title: "NICKELODEON"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/nickelodeon.png"
     Stream: "http://globalsrv.me:80/live/612714/629529/1818667"
     UserAgent: ":http-user-agent="
     Live: true
 }
-{   Title: "NICK"
+{   
+    Title: "NICK"
     streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/nick.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/nickelodeon.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62886"
     UserAgent: ":http-user-agent="
     Live: true
 }
-{   Title: "NICK JR"
+{   
+    Title: "NICK JR"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/nick_jr.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62884"
     UserAgent: ":http-user-agent="
     Live: true
 }
-{   Title: "NICK JR CLUB"
+{  
+    Title: "NICK JR CLUB"
     streamFormat: "hls|mts"
     Logo: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/990f75eb-172d-42a8-bd8f-899ab38ba394/dgbgndb-446298d7-4d42-416a-bfc6-786951f5bcc4.png/v1/fill/w_1192,h_670/club_nick_kids_logo_concept_by_carxl2029_dgbgndb-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvOTkwZjc1ZWItMTcyZC00MmE4LWJkOGYtODk5YWIzOGJhMzk0XC9kZ2JnbmRiLTQ0NjI5OGQ3LTRkNDItNDE2YS1iZmM2LTc4Njk1MWY1YmNjNC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.6YH0G1MUeSkAfYDvQuaNugk9FsblnDGhDbWKVhz9hKI"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/90596"
     UserAgent: ":http-user-agent="
     Live: true
 }
-{   Title: "TV JUNIOR"
+{   
+    Title: "TV JUNIOR"
     streamFormat: "hls|mts"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Junior_Logo_2015.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/90594"
     UserAgent: ":http-user-agent="
     Live: true
 }
-{   Title: "TV RA TIM BUM"
+{   
+    Title: "TV RA TIM BUM"
     streamFormat: "hls|mts"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62898"
     UserAgent: ":http-user-agent="
     Live: true
 }
-{   Title: "TOONCAST"
+{  
+    Title: "TOONCAST"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/tooncast.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/91495"
@@ -602,6 +616,7 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/41491.ts"
     Live: true
 }
+
 
 {   
     Title: "BR: BOX"
