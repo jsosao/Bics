@@ -79,15 +79,6 @@
 }
 
 {   
-    Title: "BR: USA NETWORK"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/usa_network.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/41504.ts"
-    Live: true
-}
-
-{   
     Title: "BR: A&E"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_a&e.png"
@@ -234,7 +225,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_cinecanal.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/41479.ts"
+    Stream: "http://play.1list.vip:80/listatvs/controliptv/41479"
     Live: true
 }
 
@@ -603,7 +594,7 @@
 {  
     Title: "TOONCAST"
     streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/tooncast.png"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/91495"
     UserAgent: ":http-user-agent="
     Live: true
@@ -613,7 +604,7 @@
     Title: "BR: MEGAPIX"
     streamFormat: "hls|mts"
     Logo: "https://i.imgur.com/oPzq9zc.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/41491.ts"
+    Stream: "http://play.1list.vip:80/listatvs/controliptv/62868"
     Live: true
 }
 
@@ -622,7 +613,7 @@
     Title: "BR: BOX"
     streamFormat: "hls|mts"
     Logo: "https://i.imgur.com/FFYtx7a.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/41501.ts"
+    Stream: "http://play.1list.vip:80/listatvs/controliptv/41501"
     Live: true
 }
 
