@@ -1,9 +1,9 @@
 {
     Artist: "Mevohad2024_CHUYTV"
-    Title: "Telemundo Puerto Rico"
+    Title: "PR: Telemundo Puerto Rico"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Telemundo_Puerto_Rico.svg/1200px-Telemundo_Puerto_Rico.svg.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo_pr.png"
     Stream: "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
     Live: true
 }
@@ -13,7 +13,7 @@
     Title: "Telemundo Novelas Clasicas"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
     Stream: "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0"
     Live: true
 }
@@ -23,7 +23,7 @@
     Title: "Telemundo Accion"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
     Stream: "https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8"
     Live: true
 }
@@ -33,17 +33,17 @@
     Title: "Telemundo Romance"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
     Stream: "https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8"
     Live: true
 }
 
 {
     Artist: "Mevohad2024_CHUYTV"
-    Title: "Noricias Telemundo Ahora"
+    Title: "Noticias Telemundo Ahora"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
     Stream: "https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8"
     Live: true
 }
@@ -53,7 +53,7 @@
     Title: "TELEMUNDO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
     Stream: "http://190.216.158.199:8000/play/a00e/index.m3u8"
     Live: true
 }
@@ -63,7 +63,7 @@
     Title: "TELEMUNDO MIAMI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
     Stream: "http://200.229.147.142:8000/play/a064/index.m3u8"
     Live: true
 }
@@ -73,7 +73,7 @@
     Title: "Telemundo"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
     Stream: "http://200.229.147.142:8000/play/a016/index.m3u8"
     Live: true
 }
@@ -83,7 +83,7 @@
     Title: "Telemundo HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
     Stream: "http://200.229.147.142:8000/play/a01z/index.m3u8"
     Live: true
 }
@@ -93,7 +93,7 @@
     Title: "Telemundo"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
     Stream: "http://38.44.109.41:8003/play/a017/index.m3u8"
     Live: true
 }
@@ -103,7 +103,7 @@
     Title: "UNIVISION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
     Stream: "http://190.216.158.199:8000/play/a00c/index.m3u8"
     Live: true
 }
@@ -113,7 +113,7 @@
     Title: "UNIVISION MIAMI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
     Stream: "http://200.229.147.142:8000/play/a02i/index.m3u8"
     Live: true
 }
@@ -123,7 +123,7 @@
     Title: "Univision HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
     Stream: "http://200.229.147.142:8000/play/a052/index.m3u8"
     Live: true
 }
@@ -133,7 +133,7 @@
     Title: "1 TELEMUNDO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
     Stream: "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
     Live: true
 }
@@ -143,7 +143,7 @@
     Title: "TELEMUNDO 52 CHICAGO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
     Stream: "https://nxt.plus:8443/olmos/1234guz/189349"
     Live: true
 }
@@ -153,7 +153,7 @@
     Title: "1 TELEMUNDO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
     Stream: "http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/56410"
     Live: true
 }
@@ -163,7 +163,7 @@
     Title: "2 TELEMUNDO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
     Stream: "http://a8d4b9d8.cbilant.com/iptv/DRQBA3GVMPFWG3/1080/index.m3u8"
     Live: true
 }
@@ -173,7 +173,7 @@
     Title: "3 TELEMUNDO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
     Stream: "http://wanicelife.com:8880/6mc250009/28887461/60096"
     Live: true
 }
@@ -183,7 +183,7 @@
     Title: "1 Universo"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/universo.png"
     Stream: "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8"
     Live: true
 }
@@ -193,7 +193,7 @@
     Title: "2 Universo"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/universo.png"
     Stream: "http://latinapro.net:25461/CARLOSa61/rodriguez2CA/4361.ts"
     Live: true
 }
@@ -203,7 +203,7 @@
     Title: "3 Univisión"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
     Stream: "http://190.11.225.124:5000/live/univision_hd/playlist.m3u8"
     Live: true
 }
