@@ -37,17 +37,6 @@
 }
 
 {
-    Artist: "angel200881"    
-    Title: "LAT: Telemundo"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
-    Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134464"
-    Live: true
-}
-
-
-{
     Artist: "05_PABLOPOM"    
     Title: "LAT: Telemundo"
     streamFormat: "hls|mts"
@@ -56,238 +45,6 @@
     Stream: "http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8"
     Live: true
 }
-
-{
-    Artist: "05_PABLOPOM"    
-    Title: "LAT: Universo"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/universo.png"
-    Stream: "http://belami.top/DATAS/arm/plays.php?ch=96&f=.m3u8"
-    Live: true
-}
-
-{
-    Artist: "05_PABLOPOM"    
-    Title: "LAT: Universo"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/universo.png"
-    Stream: "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
-    Title: "UNIVISION WEST HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1595801"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
-    Title: "UNIVISION EAST HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1595800"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
-    Title: "UNIVISION DENVER"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113597"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
-    Title: "UNIVISION LA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113595"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
-    Title: "UNIVISION ATLANTA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113600"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
-    Title: "UNIVISION CHICAGO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113613"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
-    Title: "UNIVISION CLEVELAND"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113602"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
-    Title: "UNIVISION DALLAS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113615"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
-    Title: "UNIVISION EAST"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113616"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
-    Title: "UNIVISION HOUSTON"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113617"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
-    Title: "UNIVISION LA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113618"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
-    Title: "UNIVISION LA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113614"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
-    Title: "UNIVISION NY"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113619"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
-    Title: "UNIVISION PHI"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113604"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
-    Title: "UNIVISION PR"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113621"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
-    Title: "UNIVISION SAN ANTONIO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113609"
-    Live: true
-}
-
-
-{
-    Artist: "neblina6383"    
-    Title: "GALAVISION"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/galavision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1595802"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
-    Title: "GALAVISION"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/galavision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1595803"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
-    Title: "UNIMAS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/unimas.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1595805"
-    Live: true
-}
-
-{
-    Artist: "neblina6383"    
-    Title: "UNIVISION"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1595806"
-    Live: true
-}
-
-
-
-
-
-
-
-
-
-
-
 
 {
     Artist: "Mevohad2024_CHUYTV"
@@ -371,7 +128,7 @@
 
 {
     Artist: "Mevohad2024_CHUYTV"
-    Title: "Telemundo"
+    Title: "Telemundo Internacional"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
@@ -381,37 +138,7 @@
 
 {
     Artist: "Mevohad2024_CHUYTV"
-    Title: "UNIVISION"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://190.216.158.199:8000/play/a00c/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Mevohad2024_CHUYTV"
-    Title: "UNIVISION MIAMI"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://200.229.147.142:8000/play/a02i/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Mevohad2024_CHUYTV"
-    Title: "Univision HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
-    Stream: "http://200.229.147.142:8000/play/a052/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Mevohad2024_CHUYTV"
-    Title: "1 TELEMUNDO"
+    Title: "TELEMUNDO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
@@ -431,7 +158,7 @@
 
 {
     Artist: "Mevohad2024_CHUYTV"
-    Title: "1 TELEMUNDO"
+    Title: "TELEMUNDO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
@@ -441,7 +168,7 @@
 
 {
     Artist: "Mevohad2024_CHUYTV"
-    Title: "2 TELEMUNDO"
+    Title: "TELEMUNDO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
@@ -450,18 +177,8 @@
 }
 
 {
-    Artist: "Mevohad2024_CHUYTV"
-    Title: "3 TELEMUNDO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
-    Stream: "http://wanicelife.com:8880/6mc250009/28887461/60096"
-    Live: true
-}
-
-{
-    Artist: "Mevohad2024_CHUYTV"
-    Title: "1 Universo"
+    Artist: "05_PABLOPOM"    
+    Title: "LAT: Universo"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/universo.png"
@@ -471,7 +188,17 @@
 
 {
     Artist: "Mevohad2024_CHUYTV"
-    Title: "2 Universo"
+    Title: "Universo"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/universo.png"
+    Stream: "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8"
+    Live: true
+}
+
+{
+    Artist: "Mevohad2024_CHUYTV"
+    Title: "Universo"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/universo.png"
@@ -481,7 +208,7 @@
 
 {
     Artist: "Mevohad2024_CHUYTV"
-    Title: "3 Univisión"
+    Title: "Univisión"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
@@ -489,3 +216,22 @@
     Live: true
 }
 
+{
+    Artist: "Mevohad2024_CHUYTV"
+    Title: "UNIVISION"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
+    Stream: "http://190.216.158.199:8000/play/a00c/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "Mevohad2024_CHUYTV"
+    Title: "Univision HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/univision.png"
+    Stream: "http://200.229.147.142:8000/play/a052/index.m3u8"
+    Live: true
+}
