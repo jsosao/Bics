@@ -279,11 +279,41 @@
 
 {
     Artist: "barriodemontecastro"
-    Title: "FOX CHANNEL"
+    Title: "STAR CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_star_channel.png"
     Stream: "http://38.49.128.38:8000/play/a08v/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "barriodemontecastro"
+    Title: "SPACE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_space.png"
+    Stream: "http://38.49.128.38:8000/play/a0cg/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "barriodemontecastro"
+    Title: "SYFY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/syfy.png"
+    Stream: "http://38.49.128.38:8000/play/a0b1/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "barriodemontecastro"
+    Title: "TELEMUNDO INTER HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo_intl.png"
+    Stream: "http://38.49.128.38:8000/play/a0mg/index.m3u8"
     Live: true
 }
 
@@ -579,6 +609,16 @@
 
 {
     Artist: "barriodemontecastro"
+    Title: "CNN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cnn.png"
+    Stream: "http://38.49.128.38:8000/play/a0dl/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "barriodemontecastro"
     Title: "JUSTICIA TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -694,20 +734,10 @@
 
 {
     Artist: "barriodemontecastro"
-    Title: "CNN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.49.128.38:8000/play/a0dl/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "barriodemontecastro"
     Title: "COMEDY CENTRAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/comedy_central.png"
     Stream: "http://38.49.128.38:8000/play/a0b3/index.m3u8"
     Live: true
 }
@@ -967,46 +997,170 @@
     Live: true
 }
 
+
+
+
+
+
+
+
+
 {
     Artist: "barriodemontecastro"
-    Title: "SPACE"
+    Title: "BOOMERANG"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.49.128.38:8000/play/a0cg/index.m3u8"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/boomerang.png"
+    Stream: "http://38.49.128.38:8000/play/a0c1/index.m3u8"
     Live: true
 }
 
 {
     Artist: "barriodemontecastro"
-    Title: "SYFY"
+    Title: "CARTOON NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.49.128.38:8000/play/a0b1/index.m3u8"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/cartoon_network.png"
+    Stream: "http://38.49.128.38:8000/play/a0c0/index.m3u8"
     Live: true
 }
 
 {
     Artist: "barriodemontecastro"
-    Title: "TELEMAR"
+    Title: "DISNEY JR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.49.128.38:8000/play/a0nb/index.m3u8"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/disney_jr.png"
+    Stream: "http://38.49.128.38:8000/play/a0bz/index.m3u8"
     Live: true
 }
 
 {
     Artist: "barriodemontecastro"
-    Title: "TELEMUNDO INTER HD"
+    Title: "Cartonito"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.49.128.38:8000/play/a0mg/index.m3u8"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/cartoonito.png"
+    Stream: "http://38.49.128.38:8000/play/a0kc/index.m3u8"
     Live: true
 }
 
+{
+    Artist: "barriodemontecastro"
+    Title: "ADN 40 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/adn_40.png"
+    Stream: "http://38.49.128.38:8000/play/a0ne/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "barriodemontecastro"
+    Title: "MILENIO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/milenio.png"
+    Stream: "http://38.49.128.38:8000/play/a0dm/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "barriodemontecastro"
+    Title: "FORMULA NOTICIAS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://38.49.128.38:8000/play/a0be/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "barriodemontecastro"
+    Title: "FRANCE 24"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/france_espanol.png"
+    Stream: "http://38.49.128.38:8000/play/a0nm/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "barriodemontecastro"
+    Title: "DW ESPAÑOL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/dw_espanol.png"
+    Stream: "http://38.49.128.38:8000/play/a0nl/index.m3u8"
+    Live: true
+}
+
+
+
+
+
+
+
+{
+    Artist: "barriodemontecastro"
+    Title: "MTV HITS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/mtv.png"
+    Stream: "http://38.49.128.38:8000/play/a0b4/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "barriodemontecastro"
+    Title: "TLR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://38.49.128.38:8000/play/a0em/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "barriodemontecastro"
+    Title: "VH1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/vh1.png"
+    Stream: "http://38.49.128.38:8000/play/a0b6/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "barriodemontecastro"
+    Title: "VIDEO ROLA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://38.49.128.38:8000/play/a0b5/index.m3u8"
+    Live: true
+}
+
+
+{
+    Artist: "barriodemontecastro"
+    Title: "letra a"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://38.49.128.38:8000/play/a0bu/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "barriodemontecastro"
+    Title: "teleplay"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://38.49.128.38:8000/play/a0ng/index.m3u8"
+    Live: true
+}
 
 {
     Artist: "barriodemontecastro"
@@ -1039,179 +1193,12 @@
     Live: true
 }
 
-
-
-
 {
     Artist: "barriodemontecastro"
-    Title: "letra a"
+    Title: "TELEMAR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.49.128.38:8000/play/a0bu/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "barriodemontecastro"
-    Title: "teleplay"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.49.128.38:8000/play/a0ng/index.m3u8"
-    Live: true
-}
-
-
-
-{
-    Artist: "barriodemontecastro"
-    Title: "BABY TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.49.128.38:8000/play/a0b9/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "barriodemontecastro"
-    Title: "BOOMERAN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.49.128.38:8000/play/a0c1/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "barriodemontecastro"
-    Title: "CARTOON NETWORK"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.49.128.38:8000/play/a0c0/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "barriodemontecastro"
-    Title: "DISNEY JR"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.49.128.38:8000/play/a0bz/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "barriodemontecastro"
-    Title: "Cartonito"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.49.128.38:8000/play/a0kc/index.m3u8"
-    Live: true
-}
-
-
-
-
-
-
-{
-    Artist: "barriodemontecastro"
-    Title: "ADN 40 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.49.128.38:8000/play/a0ne/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "barriodemontecastro"
-    Title: "MILENIO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.49.128.38:8000/play/a0dm/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "barriodemontecastro"
-    Title: "FORMULA NOTICIAS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.49.128.38:8000/play/a0be/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "barriodemontecastro"
-    Title: "france 24"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.49.128.38:8000/play/a0nm/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "barriodemontecastro"
-    Title: "dw espa"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.49.128.38:8000/play/a0nl/index.m3u8"
-    Live: true
-}
-
-
-
-
-
-
-
-{
-    Artist: "barriodemontecastro"
-    Title: "MTV HITS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.49.128.38:8000/play/a0b4/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "barriodemontecastro"
-    Title: "TLR"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.49.128.38:8000/play/a0em/index.m3u8"
-    Live: true
-}
-
-
-{
-    Artist: "barriodemontecastro"
-    Title: "VH1"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.49.128.38:8000/play/a0b6/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "barriodemontecastro"
-    Title: "VIDEO ROLA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.49.128.38:8000/play/a0b5/index.m3u8"
+    Stream: "http://38.49.128.38:8000/play/a0nb/index.m3u8"
     Live: true
 }
