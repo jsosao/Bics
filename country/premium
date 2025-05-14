@@ -122,12 +122,12 @@
 }
 
 {
-    Artist: "Chloe125_TV"
+    Artist: "thedeveloperlad"
     Title: "AXN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_axn.png"
-    Stream: "http://181.13.173.86:8000/play/a0a8/index.m3u8"
+    Stream: "http://8.243.64.35:8002/play/a0a7/index.m3u8"
     Live: true
 }
 
@@ -741,17 +741,17 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_a&e.png"
-    Stream: "http://45.186.106.207:8000/play/a07x/index.m3u88"
+    Stream: "http://45.186.106.207:8000/play/a07x/index.m3u8"
     Live: true
 }
 
 {
-    Artist: "Chloe125_TV"
+    Artist: "thedeveloperlad"
     Title: "A&E"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_a&e.png"
-    Stream: "http://181.13.173.86:8000/play/a0a6/index.m3u8"
+    Stream: "http://8.243.64.35:8002/play/a0a4/index.m3u8"
     Live: true
 }
 
@@ -766,12 +766,12 @@
 }
 
 {
-    Artist: "Chloe125_TV"
+    Artist: "thedeveloperlad"
     Title: "AMC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/amc_network.png"
-    Stream: "http://181.13.173.86:8000/play/a01z/index.m3u8"
+    Stream: "http://8.243.64.35:8002/play/a0a9/index.m3u8"
     Live: true
 }
 
@@ -791,17 +791,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/paramount_network.png"
-    Stream: "http://181.13.173.86:8000/play/a02y/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Chloe125_TV"
-    Title: "Paramount HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/paramount_network.png"
-    Stream: "http://200.229.147.142:8000/play/a04x/index.m3u8"
+    Stream: "http://8.243.64.35:8002/play/a03k/index.m3u8"
     Live: true
 }
 
@@ -829,7 +819,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_studio_universal.png"
-    Stream: "http://190.216.158.199:8000/play/a02m/index.m3u8"
+    Stream: "http://8.243.64.35:8002/play/a083/index.m3u8"
     Live: true
 }
 
@@ -858,7 +848,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_canal_sony.png"
-    Stream: "http://190.216.158.199:8000/play/a00k/index.m3u8"
+    Stream: "http://8.243.64.35:8002/play/a0a6/index.m3u8"
     Live: true
 }
 
@@ -969,64 +959,76 @@
 }
 
 {
-    Artist: "Mevohad2024"
+    Artist: "thedeveloperlad"
     Title: "MX: ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
-    Stream: "http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/97"
+    Stream: "http://8.243.64.35:8002/play/a047/index.m3u8"
     Live: true
 }
 
 {
-    Artist: "Mevohad2024"
+    Artist: "thedeveloperlad"
     Title: "MX: ESPN 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
-    Stream: "http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/1456"
+    Stream: "http://8.243.64.35:8002/play/a02j/index.m3u8"
     Live: true
 }
 
 {
-    Artist: "Mevohad2024"
+    Artist: "thedeveloperlad"
     Title: "MX: ESPN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
-    Stream: "http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/91"
+    Stream: "http://8.243.64.35:8002/play/a08e/index.m3u8"
     Live: true
 }
 
 {
-    Artist: "Mevohad2024"
+    Artist: "thedeveloperlad"
     Title: "MX: ESPN 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_4.png"
-    Stream: "http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/90"
+    Stream: "http://8.243.64.35:8002/play/a03j/index.m3u8"
     Live: true
 }
 
 {
-    Artist: "Mevohad2024"
+    Artist: "thedeveloperlad"
     Title: "ESPN 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_5.png"
-    Stream: "http://181.78.21.46:8009/play/a018"
+    Stream: "http://8.243.64.35:8002/play/a046/index.m3u8"
     Live: true
 }
 
 {
-    Artist: "Mevohad2024"
+    Artist: "thedeveloperlad"
     Title: "MX: ESPN 6"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_6.png"
-    Stream: "http://181.78.21.46:8009/play/a019"
+    Stream: "http://8.243.64.35:8002/play/a00i/index.m3u8"
     Live: true
 }
+
+{
+    Artist: "thedeveloperlad"
+    Title: "MX: ESPN 7"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_7.png"
+    Stream: "http://8.243.64.35:8002/play/a07q/index.m3u8"
+    Live: true
+}
+
+
 
 {
     Artist: "Mevohad2024"
@@ -1167,6 +1169,7 @@
     Stream: "http://181.78.109.48:8000/play/a019/index.m3u8"
     Live: true
 }
+
 
 {
     Title: "MX: D'PELICULA"
