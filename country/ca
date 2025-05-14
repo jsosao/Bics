@@ -66,7 +66,16 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/crave.png"
-    Stream: "http://fl2.moveonjoy.com/CRAVE_2/index.m3u8"
+    Stream: "http://fl1.moveonjoy.com/CRAVE_2/index.m3u8"
+    Live: true
+}
+
+{   
+    Title: "CRAVE 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/crave.png"
+    Stream: "http://fl3.moveonjoy.com/CRAVE_2/index.m3u8"
     Live: true
 }
 
@@ -84,7 +93,16 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/crave.png"
-    Stream: "http://fl2.moveonjoy.com/CRAVE_4/index.m3u8"
+    Stream: "http://fl1.moveonjoy.com/CRAVE_4/index.m3u8"
+    Live: true
+}
+
+{   
+    Title: "CRAVE 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/crave.png"
+    Stream: "http://fl6.moveonjoy.com/CRAVE_4/index.m3u8"
     Live: true
 }
 
