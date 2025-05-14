@@ -19,32 +19,12 @@
 }
 
 {
-    Artist:"angel200881"    
-    Title: "UNIVERSAL PREMIER LAT"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_premier.png"
-    Stream: "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/312947"
-    Live: true
-}
-
-{
     Artist:"Abisoft77"    
     Title: "UNIVERSAL PREMIER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_premier.png"
     Stream: "http://190.83.2.172:8081/play/a05o"
-    Live: true
-}
-
-{
-    Artist:"milista"    
-    Title: "UNIVERSAL PREMIER"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_premier.png"
-    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322913"
     Live: true
 }
 
@@ -69,6 +49,16 @@
 }
 
 {
+    Artist:"thedeveloperlad"    
+    Title: "UNIVERSAL PREMIER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_premier.png"
+    Stream: "http://200.107.142.38:9000/play/a01c/index.m3u8"
+    Live: true
+}
+
+{
     Artist:"maurysam"    
     Title: "UNIVERSAL CINEMA"
     streamFormat: "dash"
@@ -78,27 +68,33 @@
     Live: true
 }
 
-
-
-
-
 {
-    Artist:"milista"    
-    Title: "UNIVERSAL CRIME"
-    streamFormat: "hls|mts"
+    Artist:"thedeveloperlad"    
+    Title: "UNIVERSAL CINEMA"
+    streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_crime.png"
-    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322908"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_cinema.png"
+    Stream: "http://200.107.142.38:9000/play/a01t/index.m3u8"
     Live: true
 }
 
 {
-    Artist:"milista"    
+    Artist:"thedeveloperlad"    
+    Title: "UNIVERSAL CRIME"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_crime.png"
+    Stream: "http://200.107.142.38:9000/play/a01e/index.m3u8"
+    Live: true
+}
+
+{
+    Artist:"thedeveloperlad"    
     Title: "UNIVERSAL COMEDY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_comedy.png"
-    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322911"
+    Stream: "http://200.107.142.38:9000/play/a01f/index.m3u8"
     Live: true
 }
 
@@ -112,12 +108,12 @@
 }
 
 {
-    Artist: "Chloe125_TV"
+    Artist: "thedeveloperlad"
     Title: "UNIVERSAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_universal_tv.png"
-    Stream: "http://181.13.173.86:8000/play/a0ar/index.m3u8"
+    Stream: "http://8.243.64.35:8002/play/a038/index.m3u8"
     Live: true
 }
 
@@ -157,7 +153,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_axn.png"
-    Stream: "http://45.186.106.207:8000/play/a02p/index.m3u88"
+    Stream: "http://45.186.106.207:8000/play/a02p/index.m3u8"
     Live: true
 }
 
@@ -194,12 +190,12 @@
 }
 
 {
-    Artist: "Chloe125_TV"
+    Artist: "thedeveloperlad"
     Title: "TNT HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/tnt.png"
-    Stream: "http://181.13.173.86:8000/play/a07d/index.m3u8"
+    Stream: "http://8.243.64.35:8002/play/a00g/index.m3u8"
     Live: true
 }
 
@@ -224,12 +220,12 @@
 }
 
 {
-    Artist: "Chloe125_TV"
+    Artist: "thedeveloperlad"
     Title: "TNT Series HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_tnt_series.png"
-    Stream: "http://181.13.173.86:8000/play/a07e/index.m3u8"
+    Stream: "http://8.243.64.35:8002/play/a04c/index.m3u8"
     Live: true
 }
 
@@ -294,48 +290,22 @@
 }
 
 {
-    Artist: "Chloe125_TV"
+    Artist: "thedeveloperlad"
     Title: "Space HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_space.png"
-    Stream: "http://181.13.173.86:8000/play/a02w/index.m3u8"
-    Live: true
-}
-
-
-{
-    Title: "Space MX"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_space.png"
-    Stream: "http://181.78.105.146:2000/play/a04x/index.m3u8"
-    Live: true
-}
-
-{   
-    Title: "SPACE"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_space.png"
-    Stream: "http://181.78.105.146:2000/play/a04x/index.m3u8"
-    UserAgent: ":http-user-agent="
-}
-
-{   
-    Title: "SPACE"
-    streamFormat: "hls|mts"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_space.png"
-    Stream: "http://200.59.188.3:8000/play/a00j"
-    UserAgent: ":http-user-agent="
+    Stream: "http://8.243.64.35:8002/play/a006/index.m3u8"
     Live: true
 }
 
 {
+    Artist: "thedeveloperlad"
     Title: "MX: CNN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cnn.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310601"
+    Stream: "http://200.107.142.38:9000/play/a00u/index.m3u8"
     Live: true
 }
 
@@ -350,12 +320,12 @@
 }
 
 {
-    Artist: "Chloe125_TV"
+    Artist: "thedeveloperlad"
     Title: "El Gourmet"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_gourmet.png"
-    Stream: "http://181.13.173.86:8000/play/a06w/index.m3u8"
+    Stream: "http://8.243.64.35:8002/play/a0a5/index.m3u8"
     Live: true
 }
 
@@ -376,24 +346,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_antena_series.png"
     Stream: "http://200.115.120.1:8000/play/ca0101/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Mevohad2024"        
-    Title: "MX: E ENTERTAINMENT"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/e!.png"
-    Stream: "http://181.78.21.46:8009/play/a03a"
-    Live: true
-}
-{
-    Title: "MX: DISTRITO COMEDIA HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_distrito_comedia.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310591"
     Live: true
 }
 
@@ -448,15 +400,6 @@
 }
 
 {
-    Title: "MX: NATGEO WILD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nat_geo_wild.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310668"
-    Live: true
-}
-
-{
     Artist: "Chloe125_TV"
     Title: "DISCOVERY CHANNEL"
     streamFormat: "hls|mts"
@@ -468,22 +411,12 @@
 
 
 {
-    Artist: "Chloe125_TV"
+    Artist: "thedeveloperlad"
     Title: "Discovery Channel HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_channel.png"
-    Stream: "http://181.13.173.86:8000/play/a07i/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Mevohad2024"      
-    Title: "MX: DISCOVERY CHANNEL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_channel.png"
-    Stream: "http://45.186.106.207:8000/play/a075/index.m3u88"
+    Stream: "http://8.243.64.35:8002/play/a03g/index.m3u8"
     Live: true
 }
 
@@ -502,19 +435,19 @@
     Title: "MX: DISCOVERY WORLD HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_wolrd.png"
-    Stream: "http://45.186.106.207:8000/play/a076/index.m3u88"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_world.png"
+    Stream: "http://45.186.106.207:8000/play/a076/index.m3u8"
     Live: true
 }
 
 
 {
-    Artist: "Chloe125_TV"
+    Artist: "thedeveloperlad"
     Title: "Discovery World HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_wolrd.png"
-    Stream: "http://181.13.173.86:8000/play/a031/index.m3u8"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_world.png"
+    Stream: "http://8.243.64.35:8002/play/a03d/index.m3u8"
     Live: true
 }
 
@@ -524,17 +457,17 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_turbo.png"
-    Stream: "http://45.186.106.207:8000/play/a028/index.m3u88"
+    Stream: "http://45.186.106.207:8000/play/a028/index.m3u8"
     Live: true
 }
 
 {
-    Artist: "Chloe125_TV"
+    Artist: "thedeveloperlad"
     Title: "Discovery Turbo"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_turbo.png"
-    Stream: "http://181.13.173.86:8000/play/a01w/index.m3u8"
+    Stream: "http://8.243.64.35:8002/play/a06h/index.m3u8"
     Live: true
 }
 
@@ -544,20 +477,9 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_science.png"
-    Stream: "http://45.186.106.207:8000/play/a06m/index.m3u88"
+    Stream: "http://45.186.106.207:8000/play/a06m/index.m3u8"
     Live: true
 }
-
-{
-    Artist: "Chloe125_TV"
-    Title: "Discovery Science"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_science.png"
-    Stream: "http://181.13.173.86:8000/play/a02k/index.m3u8"
-    Live: true
-}
-
 
 {
     Artist: "Mevohad2024"  
@@ -579,32 +501,22 @@
 }
 
 {
-    Artist: "Chloe125_TV"
-    Title: "Discovery Theater HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_theater.png"
-    Stream: "http://181.13.173.86:8000/play/a02z/index.m3u8"
-    Live: true
-}
-
-{
     Artist: "Mevohad2024"  
     Title: "MX: DISCOVERY ID"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/id.png"
-    Stream: "http://45.186.106.207:8000/play/a079/index.m3u88"
+    Stream: "http://45.186.106.207:8000/play/a079/index.m3u8"
     Live: true
 }
 
 {
-    Artist: "Chloe125_TV"
+    Artist: "thedeveloperlad"
     Title: "Discovery H&H HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_h&h.png"
-    Stream: "http://181.13.173.86:8000/play/a07h/index.m3u8"
+    Stream: "http://8.243.64.35:8002/play/a03h/index.m3u8"
     Live: true
 }
 
@@ -619,12 +531,12 @@
 }
 
 {
-    Artist: "Chloe125_TV"
+    Artist: "thedeveloperlad"
     Title: "FX HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/fx.png"
-    Stream: "http://181.13.173.86:8000/play/a02v/index.m3u8"
+    Stream: "http://8.243.64.35:8002/play/a048/index.m3u8"
     Live: true
 }
 
@@ -644,7 +556,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/animal_planet.png"
-    Stream: "http://45.186.106.207:8000/play/a07u/index.m3u88"
+    Stream: "http://45.186.106.207:8000/play/a07u/index.m3u8"
     Live: true
 }
 
@@ -669,12 +581,12 @@
 }
 
 {
-    Artist: "Chloe125_TV"
+    Artist: "thedeveloperlad"
     Title: "WARNER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_warner_tv.png"
-    Stream: "http://181.13.173.86:8000/play/a0as/index.m3u8"
+    Stream: "http://8.243.64.35:8002/play/a004/index.m3u8"
     Live: true
 }
 
@@ -708,30 +620,11 @@
     Live: true
 }
 
-{
-    Artist: "Chloe125_TV"
-    Title: "USA Network"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/usa_network.png"
-    Stream: "http://181.13.173.86:8000/play/a023/index.m3u8"
-    Live: true
-}
-
 {   
     Title: "USA NETWORK"
     streamFormat: "hls|mts"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/usa_network.png"
     Stream: "http://200.113.4.75:7210/play/a02l/index.m3u8"
-    Live: true
-}
-
-{
-    Title: "MX: UNICABLE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_unicable.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310657"
     Live: true
 }
 
@@ -885,7 +778,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/cartoon_network.png"
-    Stream: "http://45.186.106.207:8000/play/a07l/index.m3u88"
+    Stream: "http://45.186.106.207:8000/play/a07l/index.m3u8"
     Live: true
 }
 
@@ -905,7 +798,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_kids.png"
-    Stream: "http://45.186.106.207:8000/play/a06t/index.m3u88"
+    Stream: "http://45.186.106.207:8000/play/a06t/index.m3u8"
     Live: true
 }
 
