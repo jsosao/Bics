@@ -96,14 +96,15 @@
 }
 
 {   
-    Artist:"milista"
+    Artist:"vk"
     Title: "CO: CARACOL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/co_caracol.png"
-    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/316508"
+    Stream: "http://181.189.241.114:5050/play/a0q8"
     Live: true
 }
+
 
 {   
     Artist:"angel200881"
@@ -176,12 +177,12 @@
 }
 
 {   
-    Artist:"milista"
+    Artist:"vk"
     Title: "AR: TELEFE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ar_telefe.png"
-    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/313434"
+    Stream: "http://38.250.119.233:4444/play/a09s/index.m3u8"
     Live: true
 }
 
