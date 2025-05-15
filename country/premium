@@ -679,7 +679,7 @@
 }
 
 {
-    Artist: "Chloe125_TV"
+    Artist: "vk"
     Title: "Paramount HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -707,7 +707,7 @@
 }
 
 {
-    Artist: "Chloe125_TV"
+    Artist: "vk"
     Title: "STUDIO UNIVERSAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -736,7 +736,7 @@
 }
 
 {
-    Artist: "Chloe125_TV"
+    Artist: "vk"
     Title: "SONY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -819,15 +819,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_tooncast.png"
     Stream: "http://181.78.109.48:8000/play/a04e/index.m3u8"
-    Live: true
-}
-
-{
-    Title: "MX: OUTDOOR"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/outdoor.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310666"
     Live: true
 }
 
@@ -954,52 +945,42 @@
 }
 
 {
-    Artist: "Mevohad2024"
+    Artist: "vk"
     Title: "FOX SPORTS PREMIUM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports_premium.png"
-    Stream: "http://stklatino.dynns.com:2082/diegoantofaiptv/iroquitv23/79152"
+    Stream: "http://45.5.117.57:8200/play/a096/index.m3u8"
     Live: true
 }
 
 {
-    Artist: "Chloe125_TV"
+    Artist: "vk"
     Title: "CINEMAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cinemax.png"
-    Stream: "http://181.13.173.86:8000/play/a0aa/index.m3u8"
+    Stream: "http://45.5.117.57:8200/play/a0il/index.m3u8"
     Live: true
 }
 
 {
-    Artist: "Mevohad2024"
+    Artist: "vk"
     Title: "MX: HBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo.png"
-    Stream: "http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/120"
+    Stream: "http://45.5.117.57:8200/play/a0l2/index.m3u8"
     Live: true
 }
 
 {
-    Artist: "Mevohad2024"
+    Artist: "vk"
     Title: "HBO 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo_2.png"
-    Stream: "http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/121"
-    Live: true
-}
-
-{
-    Artist: "Mevohad2024"
-    Title: "MX: HBO MUNDI"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_mundi.png"
-    Stream: "http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/1628"
+    Stream: "http://45.5.117.57:8200/play/a00c/index.m3u8"
     Live: true
 }
 
@@ -1063,48 +1044,46 @@
     Live: true
 }
 
-
 {
-    Title: "MX: D'PELICULA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_d_pelicula_plus.png"
-    Stream: "http://181.78.109.48:8000/play/a06j/index.m3u8"
-    Live: true
-}
-
-{
+    Artist: "vk"
     Title: "MX: CINECANAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_cinecanal.png"
-    Stream: "http://masterprotv1.com:8080/aube1205carl/carlos1234/315"
+    Stream: "http://45.5.117.57:8200/play/a0hq/index.m3u8"
     Live: true
 }
 
 {
-    Title: "MX: GOLDEN EDGE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_golden_edge.png"
-    Stream: "http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/84"
-    Live: true
-}
-
-{
+    Artist: "vk"
     Title: "MX: GOLDEN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_golden.png"
-    Stream: "http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/1624"
+    Stream: "http://45.5.117.57:8200/play/a0jv/index.m3u8"
     Live: true
 }
 
 {
-    Title: "MX: GOLDEN PLUS"
+    Artist: "vk"
+    Title: "MX: GOLDEN PREMIERE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_golden_plus.png"
-    Stream: "http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/75"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_golden.png"
+    Stream: "200.107.142.38:9000/play/a011/index.m3u8"
     Live: true
 }
+
+{
+    Artist: "vk"
+    Title: "MX: GOLDEN PREMIERE 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_golden.png"
+    Stream: "200.107.142.38:9000/play/a012/index.m3u8"
+    Live: true
+}
+
+
+
+
