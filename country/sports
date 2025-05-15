@@ -188,6 +188,15 @@
 }
 
 {   
+    Artist: "vk"
+    Title: "MX: CLARO SPORTS 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/claro_sports.png"
+    Stream: "http://45.5.117.57:8200/play/a09k/index.m3u8"
+}
+
+{   
     Artist: "Mevohad2024"
     Title: "MX: CLARO SPORTS 2"
     streamFormat: "hls|mts"
@@ -195,6 +204,8 @@
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/claro_sports.png"
     Stream: "http://38.180.133.31:8000/play/a0yh/index.m3u8"
 }
+
+
 
 {   
     Title: "DO: CDN DEPORTE"
