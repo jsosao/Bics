@@ -138,6 +138,16 @@
 }
 
 {
+    Artist: "maurysam"        
+    Title: "Azteca 7"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/azteca_siete.png"
+    Stream: "https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8"
+}
+
+
+{
     Title: "Azteca 7"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -154,6 +164,8 @@
     Stream: "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"
     Live: true
 }
+
+
 
 {
     Artist:"Alverich"    
