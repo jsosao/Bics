@@ -1090,16 +1090,6 @@
 
 {
     Artist: "kv"
-    Title: "Playboy HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.250.119.233:4444/play/a02a/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "kv"
     Title: "RADIO BETHEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -1145,16 +1135,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http://38.250.119.233:4444/play/a00t/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "kv"
-    Title: "Sextreme"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.250.119.233:4444/play/a01h/index.m3u8"
     Live: true
 }
 
@@ -1435,16 +1415,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http://38.250.119.233:4444/play/a0bp/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "kv"
-    Title: "Venus"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.250.119.233:4444/play/a01g/index.m3u8"
     Live: true
 }
 
