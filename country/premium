@@ -98,7 +98,6 @@
     Live: true
 }
 
-
 {
     Artist:"vk"    
     Title: "UNIVERSAL COMEDY"
@@ -119,9 +118,6 @@
     Live: true
 }
 
-
-
-
 {
     Title: "MX: UNIVERSAL TV"
     streamFormat: "hls|mts"
@@ -138,16 +134,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_universal_tv.png"
     Stream: "http://8.243.64.35:8002/play/a038/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "vk"
-    Title: "AXN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_axn.png"
-    Stream: "http://8.243.64.35:8002/play/a0a7/index.m3u8"
     Live: true
 }
 
@@ -203,7 +189,6 @@
 }
 
 {
-    Artist: "Mevohad2024"
     Artist: "Chloe125_TV"
     Title: "TNT"
     streamFormat: "hls|mts"
@@ -355,16 +340,6 @@
 
 {
     Artist: "Mevohad2024"        
-    Title: "MX: FOOD NETWORK"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/food_network.png"
-    Stream: "http://190.0.241.181:8000/play/a0ac/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Mevohad2024"        
     Title: "MX: ANTENA SERIES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -408,7 +383,7 @@
     Title: "MX: HISTORY 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_history_channel.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_h2.png"
     Stream: "https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8"
     Live: true
 }
@@ -434,6 +409,16 @@
 }
 
 {
+    Artist: "Mevohad2024"  
+    Title: "MX: ANIMAL PLANET"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/animal_planet.png"
+    Stream: "http://45.186.106.207:8000/play/a07u/index.m3u8"
+    Live: true
+}
+
+{
     Artist: "Mevohad2024"      
     Title: "MX: NATGEO HD"
     streamFormat: "hls|mts"
@@ -452,7 +437,6 @@
     Stream: "http://190.216.158.199:8000/play/a00o/index.m3u8"
     Live: true
 }
-
 
 {
     Artist: "vk"
@@ -483,7 +467,6 @@
     Stream: "http://45.186.106.207:8000/play/a076/index.m3u8"
     Live: true
 }
-
 
 {
     Artist: "vk"
@@ -594,7 +577,6 @@
     Live: true
 }
 
-
 {
     Artist: "Mevohad2024"  
     Title: "MX: STAR CHANNEL"
@@ -602,16 +584,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_star_channel.png"
     Stream: "http://181.78.109.48:8000/play/a04t/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Mevohad2024"  
-    Title: "MX: ANIMAL PLANET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/animal_planet.png"
-    Stream: "http://45.186.106.207:8000/play/a07u/index.m3u8"
     Live: true
 }
 
@@ -783,34 +755,6 @@
 }
 
 {
-    Title: "MX: STUDIO UNIVERSAL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_studio_universal.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310676"
-    Live: true
-}
-
-{
-    Artist: "vk"
-    Title: "STUDIO UNIVERSAL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_studio_universal.png"
-    Stream: "http://8.243.64.35:8002/play/a083/index.m3u8"
-    Live: true
-}
-
-{
-    Title: "MX: SYFY"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/syfy.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310678"
-    Live: true
-}
-
-{
     Artist: "Mevohad2024"  
     Title: "MX: SONY"
     streamFormat: "hls|mts"
@@ -821,39 +765,12 @@
 }
 
 {
-    Artist: "vk"
-    Title: "SONY CHANNEL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_canal_sony.png"
-    Stream: "http://8.243.64.35:8002/play/a0a6/index.m3u8"
-    Live: true
-}
-
-{
     Artist: "Mevohad2024"
     Title: "MX: SONY MOVIES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_canal_sony.png"
     Stream: "http://181.78.109.48:8000/play/a02p/index.m3u8"
-    Live: true
-}
-
-{
-    Title: "MX: ADULT SWIM"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_adult_swim.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310646"
-    Live: true
-}
-{
-    Title: "MX: NICKTOONS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/nicktoons.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310667"
     Live: true
 }
 
@@ -996,8 +913,6 @@
     Stream: "http://8.243.64.35:8002/play/a07q/index.m3u8"
     Live: true
 }
-
-
 
 {
     Artist: "Mevohad2024"
