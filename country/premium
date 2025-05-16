@@ -71,7 +71,7 @@
 {
     Artist:"vk"    
     Title: "UNIVERSAL CINEMA"
-    streamFormat: "dash"
+    streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_cinema.png"
     Stream: "http://200.107.142.38:9000/play/a01t/index.m3u8"
@@ -89,6 +89,17 @@
 }
 
 {
+    Artist:"maurysam"    
+    Title: "UNIVERSAL COMEDY"
+    streamFormat: "dash"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_comedy.png"
+    Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_comedy/vmx/index.mpd"
+    Live: true
+}
+
+
+{
     Artist:"vk"    
     Title: "UNIVERSAL COMEDY"
     streamFormat: "hls|mts"
@@ -97,6 +108,19 @@
     Stream: "http://200.107.142.38:9000/play/a01f/index.m3u8"
     Live: true
 }
+
+{
+    Artist:"maurysam"    
+    Title: "UNIVERSAL COMEDY"
+    streamFormat: "dash"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_reality.png"
+    Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_reality/vmx/index.mpd"
+    Live: true
+}
+
+
+
 
 {
     Title: "MX: UNIVERSAL TV"
@@ -360,12 +384,32 @@
 }
 
 {
+    Artist: "maurysam"        
+    Title: "MX: HISTORY CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_history_channel.png"
+    Stream: "https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8"
+    Live: true
+}
+
+{
     Artist: "Mevohad2024"        
     Title: "MX: HISTORY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_history_channel.png"
     Stream: "http://181.78.109.48:8000/play/a02b/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "maurysam"        
+    Title: "MX: HISTORY 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_history_channel.png"
+    Stream: "https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8"
     Live: true
 }
 
@@ -541,6 +585,17 @@
 }
 
 {
+    Artist: "maurysam"  
+    Title: "MX: STAR CHANNEL"
+    streamFormat: "dash"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_star_channel.png"
+    Stream: "https://coop-montehermoso.cdn.rcs.net.ar/mnp/foxhd/output.mpd"
+    Live: true
+}
+
+
+{
     Artist: "Mevohad2024"  
     Title: "MX: STAR CHANNEL"
     streamFormat: "hls|mts"
@@ -611,6 +666,16 @@
 }
 
 {
+    Artist: "maurysam"
+    Title: "USA NETWORK"
+    streamFormat: "dash"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/usa_network.png"
+    Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/usa/vmx/index.mpd"
+    Live: true
+}
+
+{
     Artist: "Chloe125_TV"
     Title: "USA NETWORK"
     streamFormat: "hls|mts"
@@ -669,6 +734,16 @@
 }
 
 {
+    Artist: "maurysam"  
+    Title: "MX: PARAMOUNT"
+    streamFormat: "dash"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/paramount_network.png"
+    Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/paramount/vmx/index.mpd"
+    Live: true
+}
+
+{
     Artist: "Mevohad2024"  
     Title: "MX: PARAMOUNT"
     streamFormat: "hls|mts"
@@ -694,6 +769,16 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/paramount_network.png"
     Stream: "http://181.78.105.146:2000/play/a01s/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "maurysam"      
+    Title: "MX: STUDIO UNIVERSAL"
+    streamFormat: "dash"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_studio_universal.png"
+    Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_studio/vmx/index.mpd"
     Live: true
 }
 
