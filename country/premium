@@ -965,6 +965,16 @@
 }
 
 {
+    Artist: "maurysam"
+    Title: "MX: HBO"
+    streamFormat: "dash"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo.png"
+    Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/hbo/vmx/index.mpd"
+    Live: true
+}
+
+{
     Artist: "vk"
     Title: "MX: HBO"
     streamFormat: "hls|mts"
