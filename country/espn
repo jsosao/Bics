@@ -1,4 +1,13 @@
 {   
+    Artist: "vk"
+    Title: "MX: ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Stream: "http://190.107.137.235:8000/play/a00l/index.m3u8"
+}
+
+{   
     Artist: "milista"
     Title: "MX: ESPN"
     streamFormat: "hls|mts"
@@ -23,6 +32,15 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://lunar.pm:8080/mrjayp/Spectrum2/120111"
+}
+
+{   
+    Artist: "vk"
+    Title: "MX: ESPN 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
+    Stream: "http://190.107.137.235:8000/play/a00m/index.m3u8"
 }
 
 {   
@@ -53,6 +71,15 @@
 }
 
 {   
+    Artist: "vk"
+    Title: "MX: ESPN 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
+    Stream: "http://190.107.137.235:8000/play/a00n/index.m3u8"
+}
+
+{   
     Artist: "milista"
     Title: "MX: ESPN 3"
     streamFormat: "hls|mts"
@@ -77,6 +104,15 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
     Stream: "http://lunar.pm:8080/mrjayp/Spectrum2/120113"
+}
+
+{   
+    Artist: "vk"
+    Title: "MX: ESPN 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_4.png"
+    Stream: "http://190.107.137.235:8000/play/a00a/index.m3u8"
 }
 
 {   
