@@ -12,7 +12,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/n+_foro.png"
-    Stream: "http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310635"
+    Stream: "https://dnslivetv.online:443/7336/1234/591611.m3u8"
     Live: true
 }
 
@@ -77,7 +77,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/bbc_america.png"
-    Stream: "http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8"
+    Stream: "http://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8"
     Live: true
 }
 
@@ -86,7 +86,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/bbc_news.png"
-    Stream: "http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8"
+    Stream: "http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8"
     Live: true
 }
 
@@ -95,7 +95,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/bloomberg.png"
-    Stream: "http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8"
+    Stream: "http://fl1.moveonjoy.com/BLOOMBERG/index.m3u8"
     Live: true
 }
 
@@ -131,7 +131,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cnn_internacional.png"
-    Stream: "http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8"
+    Stream: "http://fl1.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8"
     Live: true
 }
 
@@ -159,15 +159,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cl_t_13.png"
     Stream: "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8"
-    Live: true
-}
-
-{   
-    Title: "PY: ABC TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/py_abc.png"
-    Stream: "https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=145000.m3u8"
     Live: true
 }
 
@@ -212,7 +203,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/fox_bussiness.png"
-    Stream: "http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8"
+    Stream: "http://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8"
     Live: true
 }
 
@@ -221,7 +212,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/fox_news.png"
-    Stream: "http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8"
+    Stream: "http://fl1.moveonjoy.com/FOX_News_Channel/index.m3u8"
     Live: true
 }
 
@@ -230,7 +221,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/news_nation.png"
-    Stream: "http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8"
+    Stream: "http://fl1.moveonjoy.com/NEWS_NATION/index.m3u8"
     Live: true
 }
 
