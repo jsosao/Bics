@@ -25,21 +25,12 @@
 }
 
 {
-    Artist: "Facebook"
-    Title: "Hi! SPORTS"
-    streamFormat: "dash"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_hi_sports.png"
-    Stream: "https://scontent.fmex1-2.fna.fbcdn.net/hvideo-atn-frc/_nc_cat-100/_nc_sr_t-4/v/rAScWoAYQiTNNuYKzv4I7fkXfXEcAPzbPzrWqIkICSv1riA/_nc_ohc-LeG85Z3r7EIQ7kNvwFi6-uC/live-dash/dash-abr-ibr-audio/122183104100285964.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AfET1xrbnOISlPs_V0oE0_JlPKoNGEMCxvWhagP4SmxQew&oe=680A307A"
-}
-
-{
     Artist: "milista"
     Title: "MX: TVC DEPORTES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_tvc_deportes.png"
-    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322756"
+    Stream: "http://directo.ddns.me:2082/felipenarcelles/felipe7388/13689"
     Live: true
 }
 
@@ -72,12 +63,12 @@
 }
 
 {   
-    Artist: "Mevohad2024"
+    Artist: "angel200881"
     Title: "MX: FOX SPORTS PREMIUM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports_premium.png"
-    Stream: "http://stklatino.dynns.com:2082/diegoantofaiptv/iroquitv23/79152"
+    Stream: "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/304554"
 }
 
 {   
@@ -121,11 +112,11 @@
 }
 
 {   
-    Title: "Toros de Tijuana -X"
+    Title: "Toros de Tijuana"
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/toros.png"
-    Stream: "https://scontent.fmex1-1.fna.fbcdn.net/hvideo-ldc-frc/_nc_cat-106/_nc_sr_t-4/v/rASf8kx_yvrDmOOdBkTH1XpPztmUA_w9aPOgxx4AO2SiiHA/_nc_ohc-5VyDTE8Eu3oQ7kNvwFo1ZeA/live-dash/dash-abr-ibr-audio/122140801076603346.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AfG0xCtX31Eh9PuSivs13bgV6gvIr_lZdDA_0dKo-hx48Q&oe=6808E6E6"
+    Stream: "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8"
 }
 
 {   
@@ -217,11 +208,11 @@
 }
 
 {   
-    Title: "Aguila de Veracruz -X"
+    Title: "Aguila de Veracruz"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/lmb/aguila.png"
-    Stream: "https://hls.aymsports.net/hls/chanel_3/stream.m3u8"
+    Stream: "https://5f1af61612fb5.streamlock.net/rtv/videortv/playlist.m3u8"
 }
 
 {   
