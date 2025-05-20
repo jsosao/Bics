@@ -88,23 +88,13 @@
     Live: true
 }
 
-{
+{   
     Artist: "milista"
-    Title: "SP: DAZN F1 HD/PPV"
+    Title: "DAZN F1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_f1.png"
-    Stream: "http://moontools.me:8080/Freddy/Freddy321456/1301143"
-    Live: true
-}
-
-{
-    Artist: "milista"
-    Title: "SP: DAZN F1 FHD/PPV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_f1.png"
-    Stream: "http://moontools.me:8080/Freddy/Freddy321456/1301144"
+    Stream: "http://directo.ddns.me:2082/felipenarcelles/felipe7388/38487"
     Live: true
 }
 
