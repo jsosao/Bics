@@ -3,7 +3,7 @@
     Title: "A&E HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_a&e.png"
     Stream: "http://38.250.119.233:4444/play/a00i/index.m3u8"
     Live: true
 }
@@ -13,7 +13,7 @@
     Title: "AMC HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/amc_network.png"
     Stream: "http://38.250.119.233:4444/play/a02l/index.m3u8"
     Live: true
 }
@@ -33,7 +33,7 @@
     Title: "ATRES SERIES HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_antena_series.png"
     Stream: "http://38.250.119.233:4444/play/a01t/index.m3u8"
     Live: true
 }
@@ -53,18 +53,8 @@
     Title: "AXN HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_axn.png"
     Stream: "http://38.250.119.233:4444/play/a00l/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "kv"
-    Title: "Adult Swim HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.250.119.233:4444/play/a01x/index.m3u8"
     Live: true
 }
 
@@ -93,7 +83,7 @@
     Title: "Animal Planet HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/animal_planet.png"
     Stream: "http://38.250.119.233:4444/play/a02v/index.m3u8"
     Live: true
 }
@@ -103,7 +93,7 @@
     Title: "Antena 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_antena_series.png"
     Stream: "http://38.250.119.233:4444/play/a0ci/index.m3u8"
     Live: true
 }
@@ -143,7 +133,7 @@
     Title: "CHV HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/cl_chilevision.png"
     Stream: "http://38.250.119.233:4444/play/a01j/index.m3u8"
     Live: true
 }
@@ -153,7 +143,7 @@
     Title: "CNN Chile HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cnn.png"
     Stream: "http://38.250.119.233:4444/play/a00g/index.m3u8"
     Live: true
 }
@@ -163,7 +153,7 @@
     Title: "CNN Espaæol"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cnn_espanol.png"
     Stream: "http://38.250.119.233:4444/play/a0cf/index.m3u8"
     Live: true
 }
@@ -223,7 +213,7 @@
     Title: "Cartoon Network HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/cartoon_network.png"
     Stream: "http://38.250.119.233:4444/play/a02p/index.m3u8"
     Live: true
 }
@@ -233,7 +223,7 @@
     Title: "Cartoonito"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/cartoonito.png"
     Stream: "http://38.250.119.233:4444/play/a09e/index.m3u8"
     Live: true
 }
@@ -243,7 +233,7 @@
     Title: "Cinecanal HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_cinecanal.png"
     Stream: "http://38.250.119.233:4444/play/a02k/index.m3u8"
     Live: true
 }
@@ -253,7 +243,7 @@
     Title: "Cinemax HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cinemax.png"
     Stream: "http://38.250.119.233:4444/play/a01u/index.m3u8"
     Live: true
 }
@@ -263,7 +253,7 @@
     Title: "Comedy Central HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/comedy_central.png"
     Stream: "http://38.250.119.233:4444/play/a01v/index.m3u8"
     Live: true
 }
@@ -273,7 +263,7 @@
     Title: "Cristovisiðn"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/cristovision.png"
     Stream: "http://38.250.119.233:4444/play/a0al/index.m3u8"
     Live: true
 }
@@ -283,7 +273,7 @@
     Title: "DHE HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_h&h.png"
     Stream: "http://38.250.119.233:4444/play/a03k/index.m3u8"
     Live: true
 }
@@ -293,7 +283,7 @@
     Title: "DW Espaæol"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/dw_espanol.png"
     Stream: "http://38.250.119.233:4444/play/a0cn/index.m3u8"
     Live: true
 }
@@ -303,7 +293,7 @@
     Title: "De PelŦcula"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_d_pelicula_plus.png"
     Stream: "http://38.250.119.233:4444/play/a0a3/index.m3u8"
     Live: true
 }
@@ -313,7 +303,7 @@
     Title: "Discovery Channel HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_channel.png"
     Stream: "http://38.250.119.233:4444/play/a03l/index.m3u8"
     Live: true
 }
@@ -323,7 +313,7 @@
     Title: "Discovery H&H HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_h&h.png"
     Stream: "http://38.250.119.233:4444/play/a022/index.m3u8"
     Live: true
 }
@@ -333,7 +323,7 @@
     Title: "Discovery Kids HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/d_kids.png"
     Stream: "http://38.250.119.233:4444/play/a021/index.m3u8"
     Live: true
 }
@@ -343,7 +333,7 @@
     Title: "Discovery Science"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_science.png"
     Stream: "http://38.250.119.233:4444/play/a09h/index.m3u8"
     Live: true
 }
@@ -353,7 +343,7 @@
     Title: "Discovery Theater HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_theater.png"
     Stream: "http://38.250.119.233:4444/play/a023/index.m3u8"
     Live: true
 }
@@ -363,7 +353,7 @@
     Title: "Discovery Turbo"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_turbo.png"
     Stream: "http://38.250.119.233:4444/play/a0an/index.m3u8"
     Live: true
 }
@@ -373,7 +363,7 @@
     Title: "Discovery World HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_world.png"
     Stream: "http://38.250.119.233:4444/play/a02j/index.m3u8"
     Live: true
 }
@@ -383,7 +373,7 @@
     Title: "Disney HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/disney_channel.png"
     Stream: "http://38.250.119.233:4444/play/a01l/index.m3u8"
     Live: true
 }
@@ -393,7 +383,7 @@
     Title: "Distrito Comedia"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_distrito_comedia.png"
     Stream: "http://38.250.119.233:4444/play/a0a5/index.m3u8"
     Live: true
 }
@@ -403,7 +393,7 @@
     Title: "E! HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/e!.png"
     Stream: "http://38.250.119.233:4444/play/a031/index.m3u8"
     Live: true
 }
@@ -413,7 +403,7 @@
     Title: "ESPN 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
     Stream: "http://38.250.119.233:4444/play/a09u/index.m3u8"
     Live: true
 }
@@ -423,7 +413,7 @@
     Title: "ESPN 2 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
     Stream: "http://38.250.119.233:4444/play/a01r/index.m3u8"
     Live: true
 }
@@ -433,7 +423,7 @@
     Title: "ESPN 3 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
     Stream: "http://38.250.119.233:4444/play/a099/index.m3u8"
     Live: true
 }
@@ -443,7 +433,7 @@
     Title: "ESPN 4HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_4.png"
     Stream: "http://38.250.119.233:4444/play/a04s/index.m3u8"
     Live: true
 }
@@ -453,7 +443,7 @@
     Title: "ESPN 5HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_5.png"
     Stream: "http://38.250.119.233:4444/play/a05d/index.m3u8"
     Live: true
 }
@@ -463,7 +453,7 @@
     Title: "ESPN 6 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_6.png"
     Stream: "http://38.250.119.233:4444/play/a05e/index.m3u8"
     Live: true
 }
@@ -473,7 +463,7 @@
     Title: "ESPN 7HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_7.png"
     Stream: "http://38.250.119.233:4444/play/a05g/index.m3u8"
     Live: true
 }
@@ -483,7 +473,7 @@
     Title: "ESPN 7HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_7.png"
     Stream: "http://38.250.119.233:4444/play/a0d3/index.m3u8"
     Live: true
 }
@@ -493,7 +483,7 @@
     Title: "ESPN HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://38.250.119.233:4444/play/a00w/index.m3u8"
     Live: true
 }
@@ -503,7 +493,7 @@
     Title: "ESPN Premium HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://38.250.119.233:4444/play/a05f/index.m3u8"
     Live: true
 }
@@ -553,7 +543,7 @@
     Title: "El Gourmet HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_gourmet.png"
     Stream: "http://38.250.119.233:4444/play/a01y/index.m3u8"
     Live: true
 }
