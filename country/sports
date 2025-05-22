@@ -464,7 +464,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/arena_sports_1.png"
-    Stream: "http://109.105.201.198/ARENASPORT1/video.m3u8?token=test"
+    Stream: "http://nl.iptvsolution.info/arena1hr/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b"
     Live: true
 }
 
@@ -473,7 +473,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/arena_sports_2.png"
-    Stream: "http://109.105.201.198/Arenasport2/video.m3u8?token=test"
+    Stream: "http://nl.iptvsolution.info:80/arena2hr/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6"
 }
 
 {   
@@ -599,7 +599,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tyc_sports.png"
-    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322758"
+    Stream: "http://directo.ddns.me:2082/felipenarcelles/felipe7388/5582"
 }
 
 {  
@@ -608,7 +608,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tyc_sports.png"
-    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322759"
+    Stream: "http://directo.ddns.me:2082/felipenarcelles/felipe7388/3110"
 }
 
 {  
@@ -735,7 +735,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/ec_ecdf.png"
-    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322669"
+    Stream: "http://directo.ddns.me:2082/felipenarcelles/felipe7388/52252"
 }
 
 {   
@@ -744,7 +744,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/gol_tv.png"
-    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322699"
+    Stream: "http://directo.ddns.me:2082/felipenarcelles/felipe7388/3098"
 }
 
 {   
@@ -762,7 +762,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/win_sports_plus.png"
-    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322770"
+    Stream: "http://directo.ddns.me:2082/felipenarcelles/felipe7388/15349"
 }
 
 {   
@@ -807,7 +807,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tigo_sports.png"
-    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322749"
+    Stream: "http://directo.ddns.me:2082/felipenarcelles/felipe7388/3123"
 }
 
 {   
@@ -816,7 +816,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tigo_sports.png"
-    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322752"
+    Stream: "http://directo.ddns.me:2082/felipenarcelles/felipe7388/3125"
 }
 
 
