@@ -27,6 +27,46 @@
 }
 
 {   
+    Artist: "StudioBox4-IPTV"
+    Title: "ABC KMBC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_kabc.png"
+    Stream: "https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8"
+    Live: true
+}
+
+{   
+    Artist: "StudioBox4-IPTV"
+    Title: "ABC KMIZ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_kabc.png"
+    Stream: "https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8"
+    Live: true
+}
+
+{   
+    Artist: "StudioBox4-IPTV"
+    Title: "ABC KTVO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_kabc.png"
+    Stream: "https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8"
+    Live: true
+}
+
+{   
+    Artist: "StudioBox4-IPTV"
+    Title: "ABC WOLO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_kabc.png"
+    Stream: "http://143.244.60.30/ABC_EAST/index.m3u8"
+    Live: true
+}
+
+{   
     Title: "CBS ESTE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -73,6 +113,36 @@
 }
 
 {   
+    Artist: "StudioBox4-IPTV"
+    Title: "CBS KSMOIND"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cbs_2.png"
+    Stream: "https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8"
+    Live: true
+}
+
+{   
+    Artist: "StudioBox4-IPTV"
+    Title: "CBS KRCG"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cbs_2.png"
+    Stream: "https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8"
+    Live: true
+}
+
+{   
+    Artist: "StudioBox4-IPTV"
+    Title: "CBS KTVO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cbs_2.png"
+    Stream: "https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8"
+    Live: true
+}
+
+{   
     Title: "NBC EAST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -101,6 +171,36 @@
 }
 
 {   
+    Artist: "StudioBox4-IPTV"
+    Title: "NBC KOMU"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nbc_4.png"
+    Stream: "https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8"
+    Live: true
+}
+
+{   
+    Artist: "StudioBox4-IPTV"
+    Title: "NBC KSHB"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nbc_4.png"
+    Stream: "https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8"
+    Live: true
+}
+
+{   
+    Artist: "StudioBox4-IPTV"
+    Title: "NBC KYOU"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nbc_4.png"
+    Stream: "https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8"
+    Live: true
+}
+
+{   
     Title: "FOX EAST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -125,6 +225,36 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/fox_kttv.png"
     Stream: "https://tvpass.org/live/fox-kttv-los-angeles-ca/sd"
+    Live: true
+}
+
+{   
+    Artist: "StudioBox4-IPTV"
+    Title: "FOX KQFX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/fox_5.png"
+    Stream: "https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8"
+    Live: true
+}
+
+{   
+    Artist: "StudioBox4-IPTV"
+    Title: "FOX KYOU"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/fox_5.png"
+    Stream: "https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8"
+    Live: true
+}
+
+{   
+    Artist: "StudioBox4-IPTV"
+    Title: "FOX WDAF"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/fox_5.png"
+    Stream: "https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8"
     Live: true
 }
 
