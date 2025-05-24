@@ -279,4 +279,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: validation-report
-        path: validation_report.txt
+        path: validation_report_sports.txt
