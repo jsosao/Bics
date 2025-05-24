@@ -8,6 +8,18 @@
 }
 
 {   
+    Artist: "LiveTVCollector"
+    Title: "CTV 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv_2.png"
+    Stream: "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/136612"
+    Live: true
+}
+
+
+
+{   
     Title: "CTV drama"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
