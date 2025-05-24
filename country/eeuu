@@ -31,7 +31,7 @@
     Title: "ABC KMBC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_kabc.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc.png"
     Stream: "https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8"
     Live: true
 }
@@ -41,7 +41,7 @@
     Title: "ABC KMIZ"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_kabc.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc.png"
     Stream: "https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8"
     Live: true
 }
@@ -51,7 +51,7 @@
     Title: "ABC KTVO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_kabc.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc.png"
     Stream: "https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8"
     Live: true
 }
@@ -61,7 +61,7 @@
     Title: "ABC WOLO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc_kabc.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/abc.png"
     Stream: "http://143.244.60.30/ABC_EAST/index.m3u8"
     Live: true
 }
@@ -117,7 +117,7 @@
     Title: "CBS KSMOIND"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cbs_2.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cbs.png"
     Stream: "https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8"
     Live: true
 }
@@ -127,7 +127,7 @@
     Title: "CBS KRCG"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cbs_2.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cbs.png"
     Stream: "https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8"
     Live: true
 }
@@ -137,7 +137,7 @@
     Title: "CBS KTVO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cbs_2.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cbs.png"
     Stream: "https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8"
     Live: true
 }
@@ -175,7 +175,7 @@
     Title: "NBC KOMU"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nbc_4.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nbc.png"
     Stream: "https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8"
     Live: true
 }
@@ -185,7 +185,7 @@
     Title: "NBC KSHB"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nbc_4.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nbc.png"
     Stream: "https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8"
     Live: true
 }
@@ -195,7 +195,7 @@
     Title: "NBC KYOU"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nbc_4.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nbc.png"
     Stream: "https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8"
     Live: true
 }
@@ -233,7 +233,7 @@
     Title: "FOX KQFX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/fox_5.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/fox.png"
     Stream: "https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8"
     Live: true
 }
@@ -243,7 +243,7 @@
     Title: "FOX KYOU"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/fox_5.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/fox.png"
     Stream: "https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8"
     Live: true
 }
@@ -253,7 +253,7 @@
     Title: "FOX WDAF"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/fox_5.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/fox.png"
     Stream: "https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8"
     Live: true
 }
