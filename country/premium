@@ -1,15 +1,14 @@
 {
-    Artist:"maurysam"    
-    Title: "UNIVERSAL PREMIER"
+    Artist: "maurysam"
+    Title: "[X] UNIVERSAL PREMIER"
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_premier.png"
     Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_premier/vmx/index.mpd"
     Live: true
 }
-
 {
-    Artist:"angel200881"    
+    Artist: "angel200881"
     Title: "UNIVERSAL PREMIER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -17,9 +16,8 @@
     Stream: "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302742"
     Live: true
 }
-
 {
-    Artist:"Abisoft77"    
+    Artist: "Abisoft77"
     Title: "UNIVERSAL PREMIER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -27,7 +25,6 @@
     Stream: "http://190.83.2.172:8081/play/a05o"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
     Title: "UNIVERSAL PREMIER"
@@ -37,7 +34,6 @@
     Stream: "http://200.115.96.66:4000/play/a034/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
     Title: "UNIVERSAL PREMIER"
@@ -47,9 +43,8 @@
     Stream: "http://38.159.227.122:8000/play/a02w/index.m3u"
     Live: true
 }
-
 {
-    Artist:"vk"    
+    Artist: "vk"
     Title: "UNIVERSAL PREMIER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -57,19 +52,17 @@
     Stream: "http://200.107.142.38:9000/play/a01c/index.m3u8"
     Live: true
 }
-
 {
-    Artist:"maurysam"    
-    Title: "UNIVERSAL CINEMA"
+    Artist: "maurysam"
+    Title: "[X] UNIVERSAL CINEMA"
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_cinema.png"
     Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_cinema/vmx/index.mpd"
     Live: true
 }
-
 {
-    Artist:"vk"    
+    Artist: "vk"
     Title: "UNIVERSAL CINEMA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -77,9 +70,8 @@
     Stream: "http://200.107.142.38:9000/play/a01t/index.m3u8"
     Live: true
 }
-
 {
-    Artist:"vk"    
+    Artist: "vk"
     Title: "UNIVERSAL CRIME"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -87,19 +79,17 @@
     Stream: "http://200.107.142.38:9000/play/a01e/index.m3u8"
     Live: true
 }
-
 {
-    Artist:"maurysam"    
-    Title: "UNIVERSAL COMEDY"
+    Artist: "maurysam"
+    Title: "[X] UNIVERSAL COMEDY"
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_comedy.png"
     Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_comedy/vmx/index.mpd"
     Live: true
 }
-
 {
-    Artist:"vk"    
+    Artist: "vk"
     Title: "UNIVERSAL COMEDY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -107,18 +97,17 @@
     Stream: "http://200.107.142.38:9000/play/a01f/index.m3u8"
     Live: true
 }
-
 {
-    Artist:"maurysam"    
-    Title: "UNIVERSAL COMEDY"
+    Artist: "maurysam"
+    Title: "[X] UNIVERSAL COMEDY"
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/universal_reality.png"
     Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_reality/vmx/index.mpd"
     Live: true
 }
-
 {
+    Artist: "web"
     Title: "MX: UNIVERSAL TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -126,7 +115,6 @@
     Stream: "http://45.235.37.254/universalhd/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "UNIVERSAL"
@@ -136,7 +124,6 @@
     Stream: "http://8.243.64.35:8002/play/a038/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
     Title: "AXN"
@@ -146,7 +133,6 @@
     Stream: "https://streamer1.nexgen.bz/AXN/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
     Title: "AXN"
@@ -156,7 +142,6 @@
     Stream: "http://45.235.37.254/axnhd/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
     Title: "AXN"
@@ -166,9 +151,8 @@
     Stream: "http://45.186.106.207:8000/play/a02p/index.m3u8"
     Live: true
 }
-
 {
-    Artist:"neblina6383"    
+    Artist: "neblina6383"
     Title: "TNT HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -176,8 +160,6 @@
     Stream: "http://181.176.153.106:8090/play/a0ig/index.m3u8"
     Live: true
 }
-
-
 {
     Artist: "Mevohad2024"
     Title: "MX: TNT"
@@ -187,7 +169,6 @@
     Stream: "http://45.235.37.254/tnthd/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "TNT"
@@ -197,7 +178,6 @@
     Stream: "http://190.216.158.199:8000/play/a02j/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "TNT HD"
@@ -207,9 +187,8 @@
     Stream: "http://8.243.64.35:8002/play/a00g/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"  
+    Artist: "Mevohad2024"
     Title: "MX: TNT SERIES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -217,7 +196,6 @@
     Stream: "http://181.78.201.70:8000/play/a0pn/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "TNT SERIES"
@@ -227,7 +205,6 @@
     Stream: "http://190.216.158.199:8000/play/a00l/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "TNT Series HD"
@@ -237,9 +214,8 @@
     Stream: "http://8.243.64.35:8002/play/a04c/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"    
+    Artist: "Mevohad2024"
     Title: "MX: TNT NOVELAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -247,9 +223,8 @@
     Stream: "http://181.78.12.164:9000/play/a08y"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"    
+    Artist: "Mevohad2024"
     Title: "MX: TLC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -257,9 +232,8 @@
     Stream: "http://190.111.16.106:40000/play/a06g"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"    
+    Artist: "Mevohad2024"
     Title: "MX: TCM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -267,9 +241,8 @@
     Stream: "http://181.78.99.187:8000/play/a0nu/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"    
+    Artist: "Mevohad2024"
     Title: "MX: SPACE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -277,7 +250,6 @@
     Stream: "http://181.176.153.106:8090/play/a0q9/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "SPACE"
@@ -287,7 +259,6 @@
     Stream: "http://190.216.158.199:8000/play/a01r/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "SPACE HD"
@@ -297,7 +268,6 @@
     Stream: "http://200.229.147.142:8000/play/a04p/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "Space HD"
@@ -307,7 +277,6 @@
     Stream: "http://8.243.64.35:8002/play/a006/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "MX: CNN"
@@ -317,9 +286,8 @@
     Stream: "http://200.107.142.38:9000/play/a00u/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"    
+    Artist: "Mevohad2024"
     Title: "MX: GOURMET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -327,7 +295,6 @@
     Stream: "http://181.78.201.70:8000/play/a0pi/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "El Gourmet"
@@ -337,9 +304,8 @@
     Stream: "http://8.243.64.35:8002/play/a0a5/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"        
+    Artist: "Mevohad2024"
     Title: "MX: ANTENA SERIES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -347,9 +313,8 @@
     Stream: "http://200.115.120.1:8000/play/ca0101/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"        
+    Artist: "Mevohad2024"
     Title: "MX: COMEDY CENTRAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -357,9 +322,8 @@
     Stream: "http://200.115.120.1:8000/play/ca108/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "maurysam"        
+    Artist: "maurysam"
     Title: "MX: HISTORY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -367,19 +331,17 @@
     Stream: "https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"        
-    Title: "MX: HISTORY CHANNEL"
+    Artist: "Mevohad2024"
+    Title: "[X] MX: HISTORY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_history_channel.png"
     Stream: "http://181.78.109.48:8000/play/a02b/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "maurysam"        
+    Artist: "maurysam"
     Title: "MX: HISTORY 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -387,17 +349,15 @@
     Stream: "https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"        
-    Title: "MX: HISTORY 2"
+    Artist: "Mevohad2024"
+    Title: "[X] MX: HISTORY 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_h2.png"
     Stream: "http://181.78.109.48:8000/play/a03k/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "ANIMAL PLANET"
@@ -407,9 +367,8 @@
     Stream: "http://190.216.158.199:8000/play/a00h/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"  
+    Artist: "Mevohad2024"
     Title: "MX: ANIMAL PLANET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -417,9 +376,8 @@
     Stream: "http://45.186.106.207:8000/play/a07u/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"      
+    Artist: "Mevohad2024"
     Title: "MX: NATGEO HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -427,7 +385,6 @@
     Stream: "https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "DISCOVERY CHANNEL"
@@ -437,7 +394,6 @@
     Stream: "http://190.216.158.199:8000/play/a00o/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "Discovery Channel HD"
@@ -447,9 +403,8 @@
     Stream: "http://8.243.64.35:8002/play/a03g/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"      
+    Artist: "Mevohad2024"
     Title: "MX: DISCOVERY TLC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -457,9 +412,8 @@
     Stream: "http://190.111.16.106:40000/play/a06g"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"      
+    Artist: "Mevohad2024"
     Title: "MX: DISCOVERY WORLD HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -467,7 +421,6 @@
     Stream: "http://45.186.106.207:8000/play/a076/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "Discovery World HD"
@@ -477,9 +430,8 @@
     Stream: "http://8.243.64.35:8002/play/a03d/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"      
+    Artist: "Mevohad2024"
     Title: "MX: DISCOVERY TURBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -487,7 +439,6 @@
     Stream: "http://45.186.106.207:8000/play/a028/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "Discovery Turbo"
@@ -497,9 +448,8 @@
     Stream: "http://8.243.64.35:8002/play/a06h/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"      
+    Artist: "Mevohad2024"
     Title: "DISCOVERY SCIENCE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -507,9 +457,8 @@
     Stream: "http://45.186.106.207:8000/play/a06m/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"  
+    Artist: "Mevohad2024"
     Title: "MX: DISCOVERY THEATHER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -517,8 +466,8 @@
     Stream: "http://181.78.27.128:8000/play/a02l/index.m3u8"
     Live: true
 }
-
 {
+    Artist: "web"
     Title: "MX: DISCOVERY THEATER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -526,9 +475,8 @@
     Stream: "http://181.78.99.187:8000/play/a0l0/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"  
+    Artist: "Mevohad2024"
     Title: "MX: DISCOVERY ID"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -536,7 +484,6 @@
     Stream: "http://45.186.106.207:8000/play/a079/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "Discovery H&H HD"
@@ -546,9 +493,8 @@
     Stream: "http://8.243.64.35:8002/play/a03h/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"  
+    Artist: "Mevohad2024"
     Title: "MX: FX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -556,7 +502,6 @@
     Stream: "http://45.235.37.254/fxhd/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "FX HD"
@@ -566,9 +511,8 @@
     Stream: "http://8.243.64.35:8002/play/a048/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "maurysam"  
+    Artist: "maurysam"
     Title: "MX: STAR CHANNEL"
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
@@ -576,19 +520,17 @@
     Stream: "https://coop-montehermoso.cdn.rcs.net.ar/mnp/foxhd/output.mpd"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"  
-    Title: "MX: STAR CHANNEL"
+    Artist: "Mevohad2024"
+    Title: "[X] MX: STAR CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_star_channel.png"
     Stream: "http://181.78.109.48:8000/play/a04t/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"  
+    Artist: "Mevohad2024"
     Title: "MX: WARNER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -596,7 +538,6 @@
     Stream: "http://181.78.211.244:8000/play/a029/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "WARNER"
@@ -606,7 +547,6 @@
     Stream: "http://190.216.158.199:8000/play/a00m/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "WARNER"
@@ -616,7 +556,6 @@
     Stream: "http://8.243.64.35:8002/play/a004/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "WARNER HD"
@@ -626,9 +565,8 @@
     Stream: "http://200.229.147.142:8000/play/a03e/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"  
+    Artist: "Mevohad2024"
     Title: "MX: MAS CHIC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -636,17 +574,15 @@
     Stream: "http://200.115.120.1:8000/play/ca021/index.m3u8"
     Live: true
 }
-
 {
     Artist: "maurysam"
-    Title: "USA NETWORK"
+    Title: "[X] USA NETWORK"
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/usa_network.png"
     Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/usa/vmx/index.mpd"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "USA NETWORK"
@@ -656,17 +592,17 @@
     Stream: "http://190.216.158.199:8000/play/a00g/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "USA NETWORK"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/usa_network.png"
     Stream: "http://200.113.4.75:7210/play/a02l/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"  
+    Artist: "Mevohad2024"
     Title: "MX: A&E"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -674,7 +610,6 @@
     Stream: "http://45.186.106.207:8000/play/a07x/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "A&E"
@@ -684,9 +619,8 @@
     Stream: "http://8.243.64.35:8002/play/a0a4/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"  
+    Artist: "Mevohad2024"
     Title: "MX: AMC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -694,7 +628,6 @@
     Stream: "http://45.235.37.254/amchd/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "AMC"
@@ -704,19 +637,17 @@
     Stream: "http://8.243.64.35:8002/play/a0a9/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "maurysam"  
-    Title: "MX: PARAMOUNT"
+    Artist: "maurysam"
+    Title: "[X] MX: PARAMOUNT"
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/paramount_network.png"
     Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/paramount/vmx/index.mpd"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"  
+    Artist: "Mevohad2024"
     Title: "MX: PARAMOUNT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -724,7 +655,6 @@
     Stream: "http://200.115.96.66:4000/play/a0dq/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "Paramount HD"
@@ -734,46 +664,42 @@
     Stream: "http://8.243.64.35:8002/play/a03k/index.m3u8"
     Live: true
 }
-
 {
-    Title: "Paramount"
+    Artist: "web"
+    Title: "[X] Paramount"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/paramount_network.png"
     Stream: "http://181.78.105.146:2000/play/a01s/index.m3u8"
     Live: true
 }
-
 {
-    Artist: "maurysam"      
-    Title: "MX: STUDIO UNIVERSAL"
+    Artist: "maurysam"
+    Title: "[X] MX: STUDIO UNIVERSAL"
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_studio_universal.png"
     Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_studio/vmx/index.mpd"
     Live: true
 }
-
 {
-    Artist: "Mevohad2024"  
-    Title: "MX: SONY"
+    Artist: "Mevohad2024"
+    Title: "[X] MX: SONY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_canal_sony.png"
     Stream: "http://181.78.109.48:8000/play/a04v/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
-    Title: "MX: SONY MOVIES"
+    Title: "[X] MX: SONY MOVIES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_canal_sony.png"
     Stream: "http://181.78.109.48:8000/play/a02p/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
     Title: "MX: CARTOON NETWORK"
@@ -783,17 +709,15 @@
     Stream: "http://45.186.106.207:8000/play/a07l/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
-    Title: "MX: CARTOONITO"
+    Title: "[X] MX: CARTOONITO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/cartoonito.png"
     Stream: "http://181.78.109.48:8000/play/a01o/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
     Title: "MX: DISCOVERY KIDS"
@@ -803,7 +727,6 @@
     Stream: "http://45.186.106.207:8000/play/a06t/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
     Title: "MX: BITME"
@@ -813,17 +736,15 @@
     Stream: "http://179.49.163.34:45000/play/a02m/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
-    Title: "MX: TOONCAST"
+    Title: "[X] MX: TOONCAST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_tooncast.png"
     Stream: "http://181.78.109.48:8000/play/a04e/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
     Title: "US: TUDN"
@@ -833,7 +754,6 @@
     Stream: "http://206.212.244.71:8080/4wVQA7/625159/11885"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
     Title: "MX: TUDN"
@@ -843,7 +763,6 @@
     Stream: "http://190.111.16.106:40000/play/a09p"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "MX: ESPN"
@@ -853,7 +772,6 @@
     Stream: "http://8.243.64.35:8002/play/a047/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "MX: ESPN 2"
@@ -863,17 +781,15 @@
     Stream: "http://8.243.64.35:8002/play/a02j/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
-    Title: "MX: ESPN 3"
+    Title: "[X] MX: ESPN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
     Stream: "http://8.243.64.35:8002/play/a08e/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "MX: ESPN 4"
@@ -883,7 +799,6 @@
     Stream: "http://8.243.64.35:8002/play/a03j/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "ESPN 5"
@@ -893,7 +808,6 @@
     Stream: "http://8.243.64.35:8002/play/a046/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "MX: ESPN 6"
@@ -903,17 +817,15 @@
     Stream: "http://8.243.64.35:8002/play/a00i/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
-    Title: "MX: ESPN 7"
+    Title: "[X] MX: ESPN 7"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_7.png"
     Stream: "http://8.243.64.35:8002/play/a07q/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
     Title: "MX: FOX SPORTS"
@@ -923,7 +835,6 @@
     Stream: "http://200.115.96.66:4000/play/a0jx/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
     Title: "MX: FOX SPORTS 2"
@@ -933,17 +844,15 @@
     Stream: "http://200.115.96.66:4000/play/a0h1/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
-    Title: "FOX SPORTS 3 HD"
+    Title: "[X] FOX SPORTS 3 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports_3.png"
     Stream: "http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/100"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "FOX SPORTS PREMIUM"
@@ -953,7 +862,6 @@
     Stream: "http://45.5.117.57:8200/play/a096/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "CINEMAX"
@@ -963,17 +871,15 @@
     Stream: "http://45.5.117.57:8200/play/a0il/index.m3u8"
     Live: true
 }
-
 {
     Artist: "maurysam"
-    Title: "MX: HBO"
+    Title: "[X] MX: HBO"
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo.png"
     Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/hbo/vmx/index.mpd"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "MX: HBO"
@@ -983,7 +889,6 @@
     Stream: "http://45.5.117.57:8200/play/a0l2/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "HBO 2"
@@ -993,7 +898,6 @@
     Stream: "http://45.5.117.57:8200/play/a00c/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
     Title: "MX: HBO XTREME"
@@ -1003,17 +907,15 @@
     Stream: "http://200.115.96.66:4000/play/a02o/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
-    Title: "MX: HBO FAMILY"
+    Title: "[X] MX: HBO FAMILY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo_family.png"
     Stream: "http://181.78.109.48:8000/play/a01a/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
     Title: "MX: HBO SIGNATURE HD"
@@ -1023,7 +925,6 @@
     Stream: "http://181.78.78.66:8000/play/a0ch"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
     Title: "MX: HBO POP"
@@ -1033,27 +934,24 @@
     Stream: "http://190.60.38.45:8000/play/a09t/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
-    Title: "HBO MUNDI HD"
+    Title: "[X] HBO MUNDI HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_mundi.png"
     Stream: "http://181.78.201.70:8000/play/a0fu/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
-    Title: "MX: HBO PLUS"
+    Title: "[X] MX: HBO PLUS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_plus.png"
     Stream: "http://181.78.109.48:8000/play/a019/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "MX: CINECANAL"
@@ -1063,7 +961,6 @@
     Stream: "http://45.5.117.57:8200/play/a0hq/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "MX: GOLDEN"
@@ -1073,27 +970,21 @@
     Stream: "http://45.5.117.57:8200/play/a0jv/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
-    Title: "MX: GOLDEN PREMIERE"
+    Title: "[X] MX: GOLDEN PREMIERE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_golden.png"
     Stream: "200.107.142.38:9000/play/a011/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
-    Title: "MX: GOLDEN PREMIERE 2"
+    Title: "[X] MX: GOLDEN PREMIERE 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_golden.png"
     Stream: "200.107.142.38:9000/play/a012/index.m3u8"
     Live: true
 }
-
-
-
-
