@@ -25,7 +25,7 @@ on:
   schedule:
     - cron: '0 17 * * *'
   
-  # Ejecutar cuando se modifica el archivo apps
+  # Ejecutar cuando se modifica el archivo NFL
   push:
     paths:
       - 'country/nfl'
@@ -143,7 +143,7 @@ jobs:
         }}'''
         
         # Configuración
-        file_path = "country/apps"
+        file_path = "country/nfl"
         validate_urls = "${{ github.event.inputs.validate_urls }}" != "false"
         update_file = "${{ github.event.inputs.update_file }}" == "true"
         
