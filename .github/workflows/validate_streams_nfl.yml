@@ -23,7 +23,7 @@ on:
   
   # Ejecutar automáticamente cada día a las 17:00 AM UTC
   schedule:
-    - cron: '0 7 * * *'
+    - cron: '0 17 * * *'
   
   # Ejecutar cuando se modifica el archivo NFL
   push:
