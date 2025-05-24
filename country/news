@@ -306,4 +306,14 @@
     Live: true
 }
 
+{   
+    Artist: "LiveTVCollector"
+    Title: "CTV NEWS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv_news.png"
+    Stream: "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57350"
+    Live: true
+}
+
 
