@@ -249,7 +249,7 @@ jobs:
                 print(f"❌ Error al guardar: {str(e)}")
         
         # Guardar reporte
-        with open("validation_report.txt", 'w', encoding='utf-8') as f:
+        with open("validation_report_nfl.txt", 'w', encoding='utf-8') as f:
             f.write(f"REPORTE DE VALIDACIÓN\n")
             f.write(f"====================\n")
             f.write(f"Fecha: $(date)\n")
