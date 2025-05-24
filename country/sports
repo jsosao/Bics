@@ -1,175 +1,183 @@
-{   
+{
+    Artist: "web"
     Title: "MX: FOX DEPORTES TUBI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/fox_tubi.png"
     Stream: "https://aegis-cloudfront-1.tubi.video/568a05ce-4b59-4c9e-98f6-757cdf106597/playlist720p.m3u8"
+    Live: true
 }
-
-{   
-    Artist:"Alverich"
+{
+    Artist: "Alverich"
     Title: "MX: CALIENTE TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/caliente_tv.png"
     Stream: "http://home-playtv.com:80/RoltyFndz/GBQGK/558709"
+    Live: true
 }
-
 {
     Artist: "maurysam"
-    Title: "MX: TUDN"
+    Title: "[X] MX: TUDN"
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
     Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/tudn/vmx/index.mpd"
     Live: true
 }
-
-{   
-    Artist:"vk"
+{
+    Artist: "vk"
     Title: "MX: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
     Stream: "http://45.5.117.57:8200/play/a04f/index.m3u8"
+    Live: true
 }
-
-{   
+{
     Artist: "Alverich"
     Title: "MX: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
     Stream: "http://disfruta.net/live/balooshy/Dcw7jXk5T5/33499fe0-7ac3-4596-a167-1c9fbe122b6d.m3u"
+    Live: true
 }
-
-{   
+{
     Artist: "Alverich"
-    Title: "MX: TUDN"
+    Title: "[X] MX: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
     Stream: "https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKiODg91cRBJ-9rXu5VEnd_E/ts"
+    Live: true
 }
-
-{   
+{
     Artist: "05_Pablo"
     Title: "MX: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
     Stream: "http://200.115.120.1:8000/play/ca039/index.m3u8"
+    Live: true
 }
-
-{   
-    Artist:"Alverich"
+{
+    Artist: "Alverich"
     Title: "US: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
     Stream: "http://disfruta.net/live/balooshy/Dcw7jXk5T5/54a9ea28-9fe3-4297-ab1d-43aa03651f31.m3u"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "US: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
     Stream: "http://45.68.35.218:4001/play/a00x/index.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "MX: SKY SPORTS LA LIGA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sky_sports_laliga.png"
     Stream: "http://190.92.10.66:4000/play/a001/index.m3u8"
+    Live: true
 }
-
-{   
+{
     Artist: "MILTON"
     Title: "SKY SPORTS PREMIERE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sky_sports_premiere.png"
     Stream: "http://181.78.106.127:9000/play/ca029/index.m3u8"
+    Live: true
 }
-
-{   
-    Artist:"MILTON"    
+{
+    Artist: "MILTON"
     Title: "SKY SPORTS FOOTBALL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sky_sports_football.png"
     Stream: "http://181.78.106.127:9000/play/ca028/index.m3u8"
+    Live: true
 }
-
-{   
-    Artist:"Chloe125" 
+{
+    Artist: "Chloe125"
     Title: "AZTECA DEPORTES NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/azteca_deportes_network.png"
     Stream: "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+    Live: true
 }
-
-{   
-    Artist:"LiveTVCollector" 
+{
+    Artist: "LiveTVCollector"
     Title: "FIFA +"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/fifa_plus.png"
     Stream: "https://jmp2.uk/sam-ESBC2700009B4.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "MX: CANELA DEPORTES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/canela_deportes.png"
     Stream: "https://amg00658-amg00658c28-canelatv-international-5109.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deportesltta-canelatvinternational/playlist.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "MX: FUTBOL NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/futbol_network.png"
     Stream: "https://live.relentlessinnovations.net:1936/futbolnetwork/futbolnetwork/playlist.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "US: FUBO SPORTS NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/fubo_sports_network.png"
     Stream: "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fubo.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "MX: INTERNETV DEPORTES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/itv_deportes.png"
     Stream: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "MX: AYM SPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/aym_sports.png"
     Stream: "https://aym-as.otteravision.com/aym/as/as_1080p.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "MX: AYM SPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/aym_sports.png"
     Stream: "https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8"
+    Live: true
 }
-
 {
     Artist: "web"
     Title: "MX: LAS"
@@ -179,7 +187,6 @@
     Stream: "https://hls.aymsports.net/hls/chanel_3/stream.m3u8"
     Live: true
 }
-
 {
     Artist: "web"
     Title: "MX: BEISBOL LATINO TV"
@@ -189,36 +196,35 @@
     Stream: "https://hls.aymsports.net/hls/chanel_2/stream.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "MX: CLARO SPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/claro_sports.png"
     Stream: "https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8"
+    Live: true
 }
-
-{   
+{
     Artist: "vk"
     Title: "MX: CLARO SPORTS 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/claro_sports.png"
     Stream: "http://45.5.117.57:8200/play/a09k/index.m3u8"
+    Live: true
 }
-
-{   
+{
     Artist: "Mevohad2024"
     Title: "MX: CLARO SPORTS 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/claro_sports.png"
     Stream: "http://38.180.133.31:8000/play/a0yh/index.m3u8"
+    Live: true
 }
-
-
-
-{   
+{
+    Artist: "web"
     Title: "DO: CDN DEPORTE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -226,41 +232,42 @@
     Stream: "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "US: ACC NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/acc_network.png"
     Stream: "http://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "US: BIG TEN NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/big_ten_network.png"
     Stream: "http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "US: CBS SPORTS NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/cbs_spports_network.png"
     Stream: "http://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
+    Live: true
 }
-
 {
     Artist: "milista"
-    Title: "MX: TVC DEPORTES"
+    Title: "[X] MX: TVC DEPORTES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_tvc_deportes.png"
     Stream: "http://directo.ddns.me:2082/felipenarcelles/felipe7388/13689"
     Live: true
 }
-
 {
     Artist: "Mevohad2024"
     Title: "MX: TVC DEPORTES"
@@ -270,10 +277,6 @@
     Stream: "http://stklatino.dynns.com:2082/diegoantofaiptv/iroquitv23/13689"
     Live: true
 }
-
-
-
-
 {
     Artist: "Chloe125_TV"
     Title: "HN: DEPORTES TVC"
@@ -283,184 +286,205 @@
     Stream: "http://200.229.147.142:8000/play/a05g/index.m3u8"
     Live: true
 }
-
-{   
-    Title: "US: GOLF CHANNEL"
+{
+    Artist: "web"
+    Title: "[X] US: GOLF CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/golf_channel.png"
     Stream: "http://fl1.moveonjoy.com/GOLF_CHANNEL/index.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "US: MLB NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mlb_network.png"
     Stream: "http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "US: NBA TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/nba_tv.png"
     Stream: "http://fl1.moveonjoy.com/NBA_TV/index.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "US: NBC SPORT NET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/nbc_sports_network.png"
     Stream: "http://fl1.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "US: NFL NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/nfl_network.png"
     Stream: "http://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "US: NHL NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/nhl_network.png"
     Stream: "http://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "US: TENNIS CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tennis_channel.png"
     Stream: "http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "US: UFC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/ufc_network.png"
     Stream: "http://fl1.moveonjoy.com/UFC/index.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "US: WWE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/wwe_network.png"
     Stream: "http://fl1.moveonjoy.com/WWE/index.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "US: YES NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/yes_network.png"
     Stream: "http://fl1.moveonjoy.com/YES_NETWORK/index.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "US: MSG"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/msg.png"
     Stream: "https://fl3.moveonjoy.com/MSG/index.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "US: NBC_SPORTS_BOSTON"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/nbc_sports_network.png"
     Stream: "https://fl4.moveonjoy.com/NBC_SPORTS_BOSTON/index.m3u8"
+    Live: true
 }
-
-{   
-    Title: "US: BALLY_SPORTS_DETROIT"
+{
+    Artist: "web"
+    Title: "[X] US: BALLY_SPORTS_DETROIT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/nbc_sports_network.png"
     Stream: "https://fl6.moveonjoy.com/BALLY_SPORTS_DETROIT/index.m3u8"
+    Live: true
 }
-
-{   
-    Title: "US: BALLY_SPORTS_FLORIDA"
+{
+    Artist: "web"
+    Title: "[X] US: BALLY_SPORTS_FLORIDA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/nbc_sports_network.png"
     Stream: "https://fl6.moveonjoy.com/BALLY_SPORTS_FLORIDA/index.m3u8"
+    Live: true
 }
-
-{   
-    Title: "US: BALLY_SPORTS_MIDWEST"
+{
+    Artist: "web"
+    Title: "[X] US: BALLY_SPORTS_MIDWEST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/nbc_sports_network.png"
     Stream: "https://fl6.moveonjoy.com/BALLY_SPORTS_MIDWEST/index.m3u8"
+    Live: true
 }
-
-{   
-    Title: "US: BALLY_SPORTS_ARIZONA"
+{
+    Artist: "web"
+    Title: "[X] US: BALLY_SPORTS_ARIZONA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/nbc_sports_network.png"
     Stream: "https://fl6.moveonjoy.com/BALLY_SPORTS_ARIZONA/index.m3u8"
+    Live: true
 }
-
-{   
-    Title: "US: BALLY_SPORTS_NEW_ORLEANS"
+{
+    Artist: "web"
+    Title: "[X] US: BALLY_SPORTS_NEW_ORLEANS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/nbc_sports_network.png"
     Stream: "https://fl6.moveonjoy.com/BALLY_SPORTS_NEW_ORLEANS/index.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "CA: TSN 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tsn_1.png"
     Stream: "http://fl5.moveonjoy.com/TSN_1/index.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "CA: TSN 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tsn_2.png"
     Stream: "http://fl5.moveonjoy.com/TSN_2/index.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "CA: TSN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tsn_3.png"
     Stream: "http://fl5.moveonjoy.com/TSN_3/index.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "CA: TSN 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tsn_4.png"
     Stream: "http://fl5.moveonjoy.com/TSN_4/index.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "CA: TSN 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tsn_5.png"
     Stream: "http://fl5.moveonjoy.com/TSN_5/index.m3u8"
+    Live: true
 }
-
-{   
+{
     Artist: "LiveTVCollector"
     Title: "TSN THE OCHO"
     streamFormat: "hls|mts"
@@ -469,114 +493,125 @@
     Stream: "https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "US: VIX LA LIGA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/vix.png"
     Stream: "http://45.68.35.218:4001/play/a01s/index.m3u8"
+    Live: true
 }
-
-{   
-    Title: "RS: ARENA SPORT 1"
+{
+    Artist: "web"
+    Title: "[X] RS: ARENA SPORT 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/arena_sports_1.png"
     Stream: "http://nl.iptvsolution.info/arena1hr/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b"
     Live: true
 }
-
-{   
-    Title: "HR: ARENA SPORTS 2"
+{
+    Artist: "web"
+    Title: "[X] HR: ARENA SPORTS 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/arena_sports_2.png"
     Stream: "http://nl.iptvsolution.info:80/arena2hr/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6"
+    Live: true
 }
-
-{   
-    Title: "RS: ARENA SPORT 3"
+{
+    Artist: "web"
+    Title: "[X] RS: ARENA SPORT 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/arena_sports_3.png"
     Stream: "http://109.105.201.198/ARENASPORT3/video.m3u8?token=test"
     Live: true
 }
-
-{   
-    Title: "RS: ARENA SPORT 4"
+{
+    Artist: "web"
+    Title: "[X] RS: ARENA SPORT 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/arena_sports_4.png"
     Stream: "http://109.105.201.198/ARENASPORT4/video.m3u8?token=test"
     Live: true
 }
-{   
-    Title: "HR: ARENA SPORTS 6"
+{
+    Artist: "web"
+    Title: "[X] HR: ARENA SPORTS 6"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/arena_sports_6.png"
     Stream: "http://42490-fred.oot-mx.me:80/live/63d576d12c/747308777cbd/110732.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "DO: SPORTS MAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/do_sports_max.png"
     Stream: "https://streamer1.nexgen.bz/SPORTSMAX2/tracks-v1a1/mono.m3u8"
+    Live: true
 }
-
-{   
-    Title: "HR: SK1"
+{
+    Artist: "web"
+    Title: "[X] HR: SK1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/hr_sk1.png"
     Stream: "http://nl.iptvsolution.info:80/sk1/index.m3u8?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6"
+    Live: true
 }
-
-{   
-    Title: "HR: SK2"
+{
+    Artist: "web"
+    Title: "[X] HR: SK2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/hr_sk2.png"
     Stream: "http://nl.iptvsolution.info:80/sk2/index.m3u8?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6"
+    Live: true
 }
-
-{   
-    Title: "HR: SK3"
+{
+    Artist: "web"
+    Title: "[X] HR: SK3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/hr_sk3.png"
     Stream: "http://nl.iptvsolution.info:80/sk3/index.m3u8?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "IT: SPORT ITALIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/it_sportitalia.png"
     Stream: "https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "SV: WOW TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sv_wow.png"
     Stream: "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "US: GOLAZO NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/golazo.png"
     Stream: "https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: SPORT TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -584,8 +619,8 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/37256.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: SPORT TV 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -593,8 +628,8 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/37044.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: SPORT TV 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -602,8 +637,8 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/37006.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: SPORT TV 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -611,34 +646,33 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/127664.ts"
     Live: true
 }
-
-{   
-    Artist:"milista"    
-    Title: "TyC SPORTS"
+{
+    Artist: "milista"
+    Title: "[X] TyC SPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tyc_sports.png"
     Stream: "http://directo.ddns.me:2082/felipenarcelles/felipe7388/5582"
+    Live: true
 }
-
-{  
-    Artist:"milista"    
-    Title: "TyC SPORTS"
+{
+    Artist: "milista"
+    Title: "[X] TyC SPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tyc_sports.png"
     Stream: "http://directo.ddns.me:2082/felipenarcelles/felipe7388/3110"
+    Live: true
 }
-
-{  
-    Artist:"milista"    
-    Title: "TNT SPORTS PREMIUM"
+{
+    Artist: "milista"
+    Title: "[X] TNT SPORTS PREMIUM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tnt_sports_premium.png"
     Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/314863"
+    Live: true
 }
-
 {
     Artist: "milista"
     Title: "UK: TNT SPORTS 1 HD"
@@ -648,7 +682,6 @@
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78945"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "UK: TNT SPORTS 1"
@@ -658,7 +691,6 @@
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78946"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "UK: TNT SPORTS 2 HD"
@@ -668,7 +700,6 @@
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78947"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "UK: TNT SPORTS 2"
@@ -678,16 +709,15 @@
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78948"
     Live: true
 }
-
-{   
-    Artist:"milista"    
-    Title: "TNT SPORTS 2"
+{
+    Artist: "milista"
+    Title: "[X] TNT SPORTS 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tnt_sports.png"
     Stream: "http://socketevolution.online:8080/MarcoCast9337/D334MW9/132285"
+    Live: true
 }
-
 {
     Artist: "milista"
     Title: "UK: TNT SPORTS 3 HD"
@@ -697,7 +727,6 @@
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78949"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "UK: TNT SPORTS 3"
@@ -707,17 +736,15 @@
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78950"
     Live: true
 }
-
 {
     Artist: "milista"
-    Title: "UK: TNT SPORTS 5 HD"
+    Title: "[X] UK: TNT SPORTS 5 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tnt_sports.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78951"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "UK: TNT SPORTS 6 HD"
@@ -727,7 +754,6 @@
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78952"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "UK: TNT SPORTS 7 HD"
@@ -737,7 +763,6 @@
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78953"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "UK: TNT SPORTS 8 HD"
@@ -747,97 +772,93 @@
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78954"
     Live: true
 }
-
-{   
-    Artist:"milista"    
-    Title: "EC: ECDF"
+{
+    Artist: "milista"
+    Title: "[X] EC: ECDF"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/ec_ecdf.png"
     Stream: "http://directo.ddns.me:2082/felipenarcelles/felipe7388/52252"
+    Live: true
 }
-
-{   
-    Artist:"milista"    
-    Title: "GOL TV"
+{
+    Artist: "milista"
+    Title: "[X] GOL TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/gol_tv.png"
     Stream: "http://directo.ddns.me:2082/felipenarcelles/felipe7388/3098"
+    Live: true
 }
-
-{   
-    Artist:"MILTON" 
+{
+    Artist: "MILTON"
     Title: "WIN SPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/win_sports.png"
     Stream: "http://181.78.4.250:8097/play/a08k/index.m3u8"
+    Live: true
 }
-
-{   
-    Artist:"milista" 
-    Title: "WIN SPORTS+"
+{
+    Artist: "milista"
+    Title: "[X] WIN SPORTS+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/win_sports_plus.png"
     Stream: "http://directo.ddns.me:2082/felipenarcelles/felipe7388/15349"
+    Live: true
 }
-
-{   
-    Artist:"milista" 
-    Title: "SPORTTV 1"
+{
+    Artist: "milista"
+    Title: "[X] SPORTTV 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sporttv_1.png"
     Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322730"
+    Live: true
 }
-
-{   
-    Artist:"milista" 
-    Title: "SPORTTV 2"
+{
+    Artist: "milista"
+    Title: "[X] SPORTTV 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sporttv_2.png"
     Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322731"
+    Live: true
 }
-
 {
-    Artist:"milista" 
-    Title: "SPORTTV 3"
+    Artist: "milista"
+    Title: "[X] SPORTTV 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sporttv_3.png"
     Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322733"
+    Live: true
 }
-
-{   
-    Artist:"Chloe125" 
-    Title: "TIGO SPORTS GT"
+{
+    Artist: "Chloe125"
+    Title: "[X] TIGO SPORTS GT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tigo_sports.png"
     Stream: "https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8"
+    Live: true
 }
-
-{   
-    Artist:"milista" 
-    Title: "TIGO SPORTS BOLIVIA"
+{
+    Artist: "milista"
+    Title: "[X] TIGO SPORTS BOLIVIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tigo_sports.png"
     Stream: "http://directo.ddns.me:2082/felipenarcelles/felipe7388/3123"
+    Live: true
 }
-
-{   
-    Artist:"milista" 
-    Title: "TIGO SPORTS COSTA RICA"
+{
+    Artist: "milista"
+    Title: "[X] TIGO SPORTS COSTA RICA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tigo_sports.png"
     Stream: "http://directo.ddns.me:2082/felipenarcelles/felipe7388/3125"
+    Live: true
 }
-
-
-
-
