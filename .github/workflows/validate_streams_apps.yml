@@ -21,9 +21,9 @@ on:
         - 'true'
         - 'false'
   
-  # Ejecutar automáticamente cada día a las 8:00 AM UTC
+  # Ejecutar automáticamente cada día a las 6:00 AM UTC
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '0 6 * * *'
   
   # Ejecutar cuando se modifica el archivo apps
   push:
