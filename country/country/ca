@@ -1,4 +1,5 @@
-{   
+{
+    Artist: "web"
     Title: "CTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -6,8 +7,7 @@
     Stream: "http://tvmate.icu:8080/live/7686199/9576982/47234.m3u8"
     Live: true
 }
-
-{   
+{
     Artist: "LiveTVCollector"
     Title: "CTV 2"
     streamFormat: "hls|mts"
@@ -16,8 +16,8 @@
     Stream: "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/136612"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "CTV drama"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -25,8 +25,7 @@
     Stream: "http://tvmate.icu:8080/live/7686199/9576982/57254.m3u8"
     Live: true
 }
-
-{   
+{
     Artist: "LiveTVCollector"
     Title: "CTV COMEDY"
     streamFormat: "hls|mts"
@@ -35,10 +34,8 @@
     Stream: "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57408"
     Live: true
 }
-
-
-
-{   
+{
+    Artist: "web"
     Title: "CTV Life"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -46,8 +43,8 @@
     Stream: "http://tvmate.icu:8080/live/7686199/9576982/116506.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "CTV Sci Fi"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -55,8 +52,8 @@
     Stream: "http://tvmate.icu:8080/live/7686199/9576982/57464.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "CTV Wild Life"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -64,8 +61,8 @@
     Stream: "http://fl1.moveonjoy.com/Animal_Planet/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "CTV Nature"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -73,17 +70,17 @@
     Stream: "http://fl3.moveonjoy.com/Discovery_Science/index.m3u8"
     Live: true
 }
-
-{   
-    Title: "CRAVE 1"
+{
+    Artist: "web"
+    Title: "[X] CRAVE 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/crave.png"
     Stream: "http://fl3.moveonjoy.com/CRAVE_1/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "CRAVE 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -91,8 +88,8 @@
     Stream: "http://fl1.moveonjoy.com/CRAVE_2/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "CRAVE 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -100,17 +97,17 @@
     Stream: "http://fl3.moveonjoy.com/CRAVE_2/index.m3u8"
     Live: true
 }
-
-{   
-    Title: "CRAVE 3"
+{
+    Artist: "web"
+    Title: "[X] CRAVE 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/crave.png"
     Stream: "http://fl3.moveonjoy.com/CRAVE_3/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "CRAVE 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -118,8 +115,8 @@
     Stream: "http://fl1.moveonjoy.com/CRAVE_4/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "CRAVE 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -127,8 +124,8 @@
     Stream: "http://fl6.moveonjoy.com/CRAVE_4/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "TSN 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -136,8 +133,8 @@
     Stream: "http://fl5.moveonjoy.com/TSN_1/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "TSN 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -145,8 +142,8 @@
     Stream: "http://fl5.moveonjoy.com/TSN_2/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "TSN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -154,8 +151,8 @@
     Stream: "http://fl5.moveonjoy.com/TSN_3/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "TSN 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -163,8 +160,8 @@
     Stream: "http://fl5.moveonjoy.com/TSN_4/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "TSN 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -172,8 +169,7 @@
     Stream: "http://fl5.moveonjoy.com/TSN_5/index.m3u8"
     Live: true
 }
-
-{   
+{
     Artist: "LiveTVCollector"
     Title: "TSN THE OCHO"
     streamFormat: "hls|mts"

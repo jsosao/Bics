@@ -1,45 +1,50 @@
-{   
-    Title: "Azteca Uno"
+{
+    Artist: "web"
+    Title: "[X] Azteca Uno"
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/azteca_uno.png"
     Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/zu_azteca_uno/vmx/index.mpd"
+    Live: true
 }
-
-{   
-    Title: "Azteca Uno"
+{
+    Artist: "web"
+    Title: "[X] Azteca Uno"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/azteca_uno.png"
     Stream: "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "Azteca Uno - 1H"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/azteca_uno_1_h.png"
     Stream: "https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "Azteca Internacional"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/azteca_internacional.png"
     Stream: "https://azt-mun.otteravision.com/azt/mun/mun.m3u8"
+    Live: true
 }
-
 {
-    Title: "Las Estrellas"
+    Artist: "web"
+    Title: "[X] Las Estrellas"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/las_estrellas.png"
     Stream: "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
+    Live: true
 }
-
 {
-    Artist:"neblina6383"
+    Artist: "neblina6383"
     Title: "Las Estrellas"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -47,35 +52,35 @@
     Stream: "http://sudaka.link:25461/jotace62/KxU3de1Fr5/17739.ts"
     Live: true
 }
-
 {
-    Artist:"neblina6383"
+    Artist: "neblina6383"
     Title: "Imagen TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/imagen_tv.png"
     Stream: "https://dnslivetv.online:443/7336/1234/591596.m3u8"
+    Live: true
 }
-
 {
-    Artist:"Alverich"
+    Artist: "Alverich"
     Title: "Imagen TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/imagen_tv.png"
     Stream: "http://home-playtv.com:8080/RoltyFndz/GBQGK/241993"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "Imagen TV+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/imagen_tv_plus.png"
     Stream: "https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8"
+    Live: true
 }
-
 {
-    Artist:"Alverich"    
+    Artist: "Alverich"
     Title: "Canal 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -83,9 +88,8 @@
     Stream: "http://disfruta.net/live/balooshy/Dcw7jXk5T5/5d01c94d-5dad-46c6-b532-e29da7c7cb3a.m3u"
     Live: true
 }
-
 {
-    Artist:"Alverich"    
+    Artist: "Alverich"
     Title: "Canal 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -93,62 +97,62 @@
     Stream: "http://home-playtv.com:80/RoltyFndz/GBQGK/241991"
     Live: true
 }
-
 {
-    Artist:"PABLOPOM"    
+    Artist: "PABLOPOM"
     Title: "Canal 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/canal_5.png"
     Stream: "http://45.68.35.218:4001/play/a009/index.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "Multimedios NOW"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/multimedios_now.png"
     Stream: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1ynn&did=3dafe10496907bcf3d5a3415a3135845&ifa_type=sessionid&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&country=mx&country_region=mexico%20city&postal_code=07890&site_page=https%253a%252f%252fwww.canela.tv%252fes%252flinear%252ftelediario-now&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1726015280&id=69276&ip=2806%3A2f0%3Aa2a0%3Afb1d%3A7121%3A79d4%3Ac454%3A16ac&override_expiration=1500&deliveryProfileId=23762&sign=1MztDmTEi0FHwHXT9qSFpZNa08kwr6CgtXl8ZbK0rIs%3D"
+    Live: true
 }
-
 {
-    Title: "Multimedios CDMX"
+    Artist: "web"
+    Title: "[X] Multimedios CDMX"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/multimedios_cdmx.png"
     Stream: "https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8"
+    Live: true
 }
-
 {
-    Artist: "maurysam"        
+    Artist: "maurysam"
     Title: "Azteca 7"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/azteca_siete.png"
     Stream: "https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8"
+    Live: true
 }
-
-
 {
+    Artist: "web"
     Title: "Azteca 7"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/azteca_siete.png"
     Stream: "https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8"
+    Live: true
 }
-
 {
-    Artist:"neblina6383"    
-    Title: "Azteca 7"
+    Artist: "neblina6383"
+    Title: "[X] Azteca 7"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/azteca_siete.png"
     Stream: "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"
     Live: true
 }
-
-
-
 {
-    Artist:"Alverich"    
+    Artist: "Alverich"
     Title: "Canal Nu9ve"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -156,79 +160,87 @@
     Stream: "http://fastream.xyz:8080/Jorge_Patrick/t4wBUmH4Dkyv/59498"
     Live: true
 }
-
 {
+    Artist: "web"
     Title: "Canal Once"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/canal_once.png"
     Stream: "https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "Canal Once Digital"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/canal_once_3.png"
     Stream: "https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "Canal 14"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/canal_14.png"
     Stream: "https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8"
+    Live: true
 }
-
 {
-    Title: "Canal 22"
+    Artist: "web"
+    Title: "[X] Canal 22"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/canal_22.png"
     Stream: "https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8"
+    Live: true
 }
-
 {
-    Title: "Canal 22.2"
+    Artist: "web"
+    Title: "[X] Canal 22.2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/canal_22_2.png"
     Stream: "https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8"
+    Live: true
 }
-
 {
-    Title: "A+"
+    Artist: "web"
+    Title: "[X] A+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/a_mas.png"
     Stream: "https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8"
+    Live: true
 }
-
 {
-    Title: "MVS"
+    Artist: "web"
+    Title: "[X] MVS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mvs.png"
     Stream: "https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "TV UNAM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/tv_unam.png"
     Stream: "https://5fe2654d6127d.streamlock.net/tvunam/videotvunam/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "MEXIQUENSE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mexiquense.png"
     Stream: "https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8"
+    Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "HOLA TV"
@@ -236,49 +248,53 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hola_tv.png"
     Stream: "http://200.229.147.142:8000/play/a03n/index.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "Maria Vision"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/maria_vision.png"
     Stream: "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "Maria Vision Capilla"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/maria_vision_capilla.png"
     Stream: "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Privado2/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "EWTN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/ewtn.png"
     Stream: "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "CRISTOVISION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/cristovision.png"
     Stream: "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/chunklist_w2083129638_DVR.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "ORBE 21"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/orbe_21.png"
     Stream: "https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w47885507_b2211840.m3u8"
+    Live: true
 }
-
-
 {
     Artist: "Chloe125_TV"
     Title: "La voz de Maria"
@@ -288,7 +304,6 @@
     Stream: "https://627bb251f23c7.streamlock.net:444/LaVozdeMaria/live/chunklist_w781276725.m3u8"
     Live: true
 }
-
 {
     Artist: "web"
     Title: "CATHOLIC TV"
@@ -298,383 +313,426 @@
     Stream: "https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8"
     Live: true
 }
-
 {
+    Artist: "web"
     Title: "AGS: Canal 26"
     streamFormat: "hls|mts|m3u|m3u8|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/ags_canal_26.png"
     Stream: "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "BC: Canal 66"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/bc_canal_66.png"
     Stream: "https://60417ddeaf0d9.streamlock.net/canal66/videocanal66/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "BC: Canal 33"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/bc_canal_33.png"
     Stream: "https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "CAMP: Canal TRC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/camp_trc.png"
     Stream: "https://5f1af61612fb5.streamlock.net/trc/videotrc/playlist.m3u8"
+    Live: true
 }
-
-{   
-    Artist:"Chloe125" 
+{
+    Artist: "Chloe125"
     Title: "UNIFE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/cdmx_unife.png"
     Stream: "https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "CHIH: Canal 44"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/chih_canal_44.png"
     Stream: "https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8"
+    Live: true
 }
-
 {
-    Title: "COAH Multimedios Lag"
+    Artist: "web"
+    Title: "[X] COAH Multimedios Lag"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/coah_multimedios_laguna.png"
     Stream: "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "COAH: RCG"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/coah_rcg.png"
     Stream: "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "COAH: RCG 8.2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/coah_rcg_2.png"
     Stream: "https://video1.getstreamhosting.com:1936/8246/8246/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "COAH: RCG 8.3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/coah_rcg_3.png"
     Stream: "https://video1.getstreamhosting.com:1936/8032/8032/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "COAH: Canal 15"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/coah_canal_15.png"
     Stream: "https://cdn.fastocloud.com/leonel.m3u8"
+    Live: true
 }
-
 {
-    Title: "COAH: NRT Internacional"
+    Artist: "web"
+    Title: "[X] COAH: NRT Internacional"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/coah_nrt.png"
     Stream: "https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal24/playlist.m3u8"
+    Live: true
 }
-
 {
-    Title: "COAH: NRT Carbonifera"
+    Artist: "web"
+    Title: "[X] COAH: NRT Carbonifera"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/coah_nrt_carbonifera.png"
     Stream: "https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal10/playlist.m3u8"
+    Live: true
 }
-
 {
-    Title: "COAH: NRT Sureste"
+    Artist: "web"
+    Title: "[X] COAH: NRT Sureste"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/coah_nrt_sureste.png"
     Stream: "https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal6/playlist.m3u8"
+    Live: true
 }
-
 {
-    Title: "COAH: NRT Centro"
+    Artist: "web"
+    Title: "[X] COAH: NRT Centro"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/coah_nrt_centro.png"
     Stream: "https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal4/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "COAH: TeleSaltillo"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/coah_telesaltillo.png"
     Stream: "https://servilive.com:3879/live/telesaltillolive.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "COAH: 12 Super Channel"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/coah_superchannel.png"
     Stream: "https://servilive.com:3263/live/channel12live.m3u8"
+    Live: true
 }
-
 {
-    Title: "GTO: Multimedios Bajio"
+    Artist: "web"
+    Title: "[X] GTO: Multimedios Bajio"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/gto_multimedios_bajio.png"
     Stream: "https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "GTO: Canal 4.1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/gto_canal_4_1.png"
     Stream: "https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "GTO: Canal 4.2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/gto_canal_4_2.png"
     Stream: "https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "GTO: Canal 4.3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/gto_canal_4_3.png"
     Stream: "https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "GTO: Canal 4.4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/gto_canal_4_4.png"
     Stream: "https://5ca3e84a76d30.streamlock.net/tv44gto/smil:tv44gto.smil/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "GRO: Canal 12"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/gro_canal_12.png"
     Stream: "https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8"
+    Live: true
 }
-
-
-
 {
-    Title: "JAL: Multimedios Gdl"
+    Artist: "web"
+    Title: "[X] JAL: Multimedios Gdl"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/jal_multimedios_gdl.png"
     Stream: "https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8"
+    Live: true
 }
-
 {
-    Title: "JAL: Jalisco TV"
+    Artist: "web"
+    Title: "[X] JAL: Jalisco TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/jal_jaliscotv.png"
     Stream: "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "NAY: Nayarit TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/nay_8ntv.png"
     Stream: "https://5e50264bd6766.streamlock.net/ntv/smil:ntv.smil/playlist.m3u8"
+    Live: true
 }
-
-
 {
-    Title: "NL: Multimedios Mty"
+    Artist: "web"
+    Title: "[X] NL: Multimedios Mty"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/nl_multimedios_mty.png"
     Stream: "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "NL: Canal 28"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/nl_canal_28.png"
     Stream: "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "OAX: CORTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/oax_cortv.png"
     Stream: "https://s5.mexside.net:1936/cortv/cortv/chunklist_w2050261813.m3u8"
+    Live: true
 }
-
 {
-    Title: "PUE: Multimedios Puebla"
+    Artist: "web"
+    Title: "[X] PUE: Multimedios Puebla"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/pue_multimedios_puebla.png"
     Stream: "https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "PUE: Canal 13"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/pue_canal_13.png"
     Stream: "https://207963.global.ssl.fastly.net/65313d270e749722b6474684/live_19c1e870dfbf11eeadd41749c3286f4a/tracks-v1/index.fmp4.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "QRO: RTQ"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/qro_rtq.png"
     Stream: "https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "QOO: SIPSE TVCUN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/qoo_sipse.png"
     Stream: "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "QOO: Canal 10 Cancún"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/qoo_canal_10.png"
     Stream: "https://stream2.canal10mx.com/live/movil/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "SLP: Canal 7"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/slp_canal_7.png"
     Stream: "https://mvtvstream.com:444/live/667ec6d70825c/index.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "SLP: Canal 9"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/slp_canal_9.png"
     Stream: "https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "SIN: TVP Culiacan"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/sin_tvp_culiacan.png"
     Stream: "https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "SIN: TVP Mazatlan"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/sin_tvp_mazatlan.png"
     Stream: "https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "SIN: TVP Los Mochis"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/sin_tvp_mochis.png"
     Stream: "https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "SIN: TVP Obregón"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/sin_tvp_obregon.png"
     Stream: "https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "SON: Telemax"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/son_telemax.png"
     Stream: "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "TAB: TV UJAT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/tab_tvujat.png"
     Stream: "https://5fe2654d6127d.streamlock.net/ujat/videoujat/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDI1IDI6NTU6MDUgQU0maGFzaF92YWx1ZT1YYWw1UWZ4d0QrTm1BeWowbXhnZDZRPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==&DVR"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "VER: TVMas"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/ver_tvmas.png"
     Stream: "https://5f1af61612fb5.streamlock.net/rtv/videortv/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "YUC: SIPSE Yucatán"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/yuc_sipse.png"
     Stream: "https://webprod.sipse.com.mx:8080/show/merida.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "YUC: Tele Yucatán"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/yuc_tele_yucatan.png"
     Stream: "https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDI1IDI6MDE6MTYgQU0maGFzaF92YWx1ZT15QVR1UnZHbWtuZjVtOGxnVHlJaXFnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ=="
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "ZAC: Canal 15"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/zac_canal_15.png"
     Stream: "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8"
+    Live: true
 }
-
 {
+    Artist: "web"
     Title: "ZAC: Canal 24.1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/zac_canal_24.png"
     Stream: "https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8"
+    Live: true
 }

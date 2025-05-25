@@ -1,4 +1,5 @@
-{   
+{
+    Artist: "web"
     Title: "EU: Canal 57"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -6,19 +7,17 @@
     Stream: "https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8"
     Live: true
 }
-
-{   
-    Artist:"web"
+{
+    Artist: "web"
     Title: "EU: Estrella TV"
     streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"an
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/estrella_tv.png"
     Stream: "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8"
     Live: true
 }
-
-{   
-    Artist:"vk"
+{
+    Artist: "vk"
     Title: "CL: TVN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -26,9 +25,8 @@
     Stream: "http://38.180.133.31:8000/play/a10l/index.m3u8"
     Live: true
 }
-
-{   
-    Artist:"TVGarden"
+{
+    Artist: "TVGarden"
     Title: "CL: TVN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -36,9 +34,8 @@
     Stream: "https://marine2.miplay.cl/tvnchile/mono.m3u8"
     Live: true
 }
-
-{   
-    Artist:"TVGarden"
+{
+    Artist: "TVGarden"
     Title: "CL: TVN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -46,9 +43,8 @@
     Stream: "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8"
     Live: true
 }
-
-{   
-    Artist:"angel200881"
+{
+    Artist: "angel200881"
     Title: "CL: Chilevisión"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -56,9 +52,8 @@
     Stream: "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/35300"
     Live: true
 }
-
-{   
-    Artist:"angel200881"
+{
+    Artist: "angel200881"
     Title: "CL: MEGA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -66,9 +61,8 @@
     Stream: "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/35297"
     Live: true
 }
-
-
-{   
+{
+    Artist: "web"
     Title: "EC: Ecuador TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -76,8 +70,8 @@
     Stream: "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "EC: ECUAVISA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -85,9 +79,8 @@
     Stream: "https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8"
     Live: true
 }
-
-{   
-    Artist:"barriodemontecastro"
+{
+    Artist: "barriodemontecastro"
     Title: "EC: TELEAMAZONAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -95,8 +88,8 @@
     Stream: "http://38.44.109.41:8003/play/a035/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "EC: INFINITA TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -104,9 +97,8 @@
     Stream: "https://s2.tvdatta.com:3753/hybrid/play.m3u8"
     Live: true
 }
-
-{   
-    Artist:"vk"
+{
+    Artist: "vk"
     Title: "CO: CARACOL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -114,10 +106,8 @@
     Stream: "http://181.189.241.114:5050/play/a0q8"
     Live: true
 }
-
-
-{   
-    Artist:"angel200881"
+{
+    Artist: "angel200881"
     Title: "CO: CARACOL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -125,9 +115,8 @@
     Stream: "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/304245"
     Live: true
 }
-
-{   
-    Artist:"Chloe125"
+{
+    Artist: "Chloe125"
     Title: "CO: RCN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -135,9 +124,8 @@
     Stream: "http://190.216.158.199:8000/play/a003/index.m3u8"
     Live: true
 }
-
-{   
-    Artist:"angel200881"
+{
+    Artist: "angel200881"
     Title: "CO: RCN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -145,7 +133,6 @@
     Stream: "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/304258"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "SEÑAL COLOMBIA"
@@ -155,7 +142,6 @@
     Stream: "http://190.216.158.199:8000/play/a00z/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "SUR TV"
@@ -165,9 +151,8 @@
     Stream: "http://190.216.158.199:8000/play/a02k/index.m3u8"
     Live: true
 }
-
-{   
-    Artist:"Chloe125"
+{
+    Artist: "Chloe125"
     Title: "AR: UNIFE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -175,19 +160,17 @@
     Stream: "https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/mono.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
-    Title: "AR: AMERICA"
+    Title: "[X] AR: AMERICA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ar_america.png"
     Stream: "http://181.13.173.86:8000/play/a0a7/index.m3u8"
     Live: true
 }
-
-{   
-    Artist:"vk"
+{
+    Artist: "vk"
     Title: "AR: TELEFE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -195,17 +178,15 @@
     Stream: "http://38.250.119.233:4444/play/a09s/index.m3u8"
     Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "PA: TV MAX"
+{
+    Artist: "milista"
+    Title: "[X] PA: TV MAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/pa_tvmax.png"
     Stream: "http://socketevolution.online:8080/OscarCha465/OscarCha354/527217"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "HN: AZTECA HONDURAS"
@@ -215,8 +196,8 @@
     Stream: "http://200.229.147.142:8000/play/a06h/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "GT: TV AZTECA GUATE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -224,8 +205,8 @@
     Stream: "https://ch1-tva.duin.dev/hls/stream.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "GT: A+ GUATE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -233,9 +214,8 @@
     Stream: "https://ch2-tva.duin.dev/hls/stream.m3u8"
     Live: true
 }
-
-{   
-    Artist:"Chloe125_TV"
+{
+    Artist: "Chloe125_TV"
     Title: "GT: GUATEVISION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -243,8 +223,8 @@
     Stream: "http://200.229.147.142:8000/play/a00w/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "GT: CANAL 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -252,8 +232,8 @@
     Stream: "https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "GT: CANAL 7"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -261,8 +241,8 @@
     Stream: "https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "GT: CANAL 13"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -270,9 +250,8 @@
     Stream: "https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8"
     Live: true
 }
-
-{   
-    Artist:"Chloe125_TV"
+{
+    Artist: "Chloe125_TV"
     Title: "HN: TSI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -280,9 +259,8 @@
     Stream: "https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8"
     Live: true
 }
-
-{   
-    Artist:"Chloe125_TV"
+{
+    Artist: "Chloe125_TV"
     Title: "HN: CANAL 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -290,9 +268,8 @@
     Stream: "http://200.229.147.142:8000/play/a05a/index.m3u8"
     Live: true
 }
-
-{   
-    Artist:"Chloe125_TV"
+{
+    Artist: "Chloe125_TV"
     Title: "HN: CANAL 11"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -300,8 +277,8 @@
     Stream: "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "HN: CTV INTERNACIONAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -309,8 +286,8 @@
     Stream: "https://mediacp.us:8081/ctvhn/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "HN: VTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -318,9 +295,8 @@
     Stream: "https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8"
     Live: true
 }
-
-{  
-    Artist:"Chloe125_TV"
+{
+    Artist: "Chloe125_TV"
     Title: "HN: LTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -328,9 +304,8 @@
     Stream: "https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8"
     Live: true
 }
-
-{  
-    Artist:"Chloe125_TV"
+{
+    Artist: "Chloe125_TV"
     Title: "HN: TELEMAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -338,8 +313,8 @@
     Stream: "https://viewhn.com/telemas/live/playlist.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "SV: ES24"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -347,8 +322,8 @@
     Stream: "https://amg00658-amg00658c98-canelatv-international-6698.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-es24ta-canelatvinternational/cb7e3e167b746f8f9ac26a6cd1f74aa28952378b5135d33f3afe5cc47fc01d0c87b6f3c4bf4dcdfb6de24094385631004262d519ce647d9e803fe05a240d4920d8c7eb2fc9981102a2da0c2a28bb186f57fe7205a2600a7edda62e23b46cfb2b5742b9583a1862ddec52bd3114dc907bcb3f75deca883342241e409a5e5afba358b3e79a2521a510bda14011ce7a5590d711928b05abe68119dd1ad928ee108392e0f88b52dddbc47ca854b17a59167424cdd337c29b0cf6f7956b30907468751f53e7b19ab11b6fd109100ababb9ae93daa109d8821cc6664ea01d51ed5358c26f35ca4e503f7ffbe8e161538f2c15a637efa8bcae8f23641d50c9d8bc8ff2231ceac7e1224cd63cc504852f1ad9159eea0119fb251c3de2d193b96954199c5b3cebee68c49d171c8c5a6d564171d6149018508fbc33f8971dc7daccf495e362751bea545d68fcf5f337b3df7ea31da0617b5e49e90e01e29c3761a59f13aa331757ec5336468f612f19530688c34358c314f9d32518551aeec769ecdb8e90b2fc7baad20d14eb5d960b7f50db97d3d2b61d9937c05322612d4eb7004337cfc49e5ddcdf4760e059e93a79cc5406277537f5b0a8addf3698b8bb24d7774ef727c191e7a168614e96bca0e4d0c2bbb75b9c50a758b032d2ca8b329072f06fbc9a191b8c5de4ba77aecdaef355d5f3301931237c00fb9c7e5a66eab2a041870b84d026eb81f5341e5e7b18ffbae4fbe51e0375a18794dcae2034949737e6618929369ad318a05c92afab834ffee81064c8930ac4364f65a40f8999fe2e4602eeac27416669fc62ec97267a07db179dd82218ee2126e684d68785ef647980699a6488925594d8576a3349b59b699f1bad56719ca9e4427361b47126668a14d667bbbf86b1a72e0b026a908a8bb15e16e5d3d2a5f85c2215082fa781598752f33fee099d8fd985b22eb38a459894216af5b0961d5e709bbcde0a1abd63e004e89e6fa17fbb69ec88cf7da36720e5b3599ea5641388d75a7c254b7ed5557c7bda6c9962e9b7ce930fba3b32def33e98b8a0bbc8394f1f53843100a17dfc9e5f519def35b16e8358b037b41c8d9aaa537aa9a91087ae351e5c5346fa83f6c5486fea8538678ee94544080a6675dc77b3bc5929d774fb244ad42662f11ac6dcfaf12a59e7086d8e9d9f28650b8f91a7f0d9c5f/42/1920x1080_5288800/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "SV: TCS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -356,8 +331,8 @@
     Stream: "https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "SV: TCS+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -365,8 +340,8 @@
     Stream: "https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "SV: CANAL 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -374,8 +349,8 @@
     Stream: "https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "SV: CANAL 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -383,8 +358,8 @@
     Stream: "https://cloud2.streaminglivehd.com:1936/8048/8048/.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "SV: CANAL 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -392,8 +367,8 @@
     Stream: "https://livetv.topmediatv.net:443/TopMediaV2/MuwpDJdMm1/622"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "SV: CANAL 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -401,8 +376,8 @@
     Stream: "https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "SV: CANAL 6"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -410,8 +385,8 @@
     Stream: "https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "SV: CANAL 12"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -419,8 +394,8 @@
     Stream: "https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "SV: CANAL 12"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -428,8 +403,8 @@
     Stream: "https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "SV: CANAL 21"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -437,8 +412,8 @@
     Stream: "https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "SV: CANAL 57"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -446,9 +421,8 @@
     Stream: "https://stream.giostreaming.net:19360/canal57/canal57.m3u8"
     Live: true
 }
-
-{   
-    Artist:"Chloe125"
+{
+    Artist: "Chloe125"
     Title: "CR: UNIFE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -456,8 +430,8 @@
     Stream: "http://190.7.192.164:8020/play/s41"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "CR: CANAL 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -465,9 +439,8 @@
     Stream: "https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8"
     Live: true
 }
-
-{   
-    Artist:"TVGarden"
+{
+    Artist: "TVGarden"
     Title: "CR: CANAL 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -475,19 +448,17 @@
     Stream: "https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8"
     Live: true
 }
-
-{   
-    Artist:"TVGarden"
-    Title: "CR: CANAL 3"
+{
+    Artist: "TVGarden"
+    Title: "[X] CR: CANAL 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/cr_canal_3.png"
     Stream: "https://cloudvideo.servers10.com:8081/8120/index.m3u8"
     Live: true
 }
-
-{   
-    Artist:"TVGarden"
+{
+    Artist: "TVGarden"
     Title: "CR: CANAL 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -495,9 +466,8 @@
     Stream: "https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8"
     Live: true
 }
-
-
-{   
+{
+    Artist: "web"
     Title: "CR: CANAL 6"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -505,9 +475,8 @@
     Stream: "https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8"
     Live: true
 }
-
-{   
-    Artist:"Chloe125_TV"
+{
+    Artist: "Chloe125_TV"
     Title: "CR: CANAL 7"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -515,8 +484,8 @@
     Stream: "http://190.7.192.162:8007/play/s10"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "CR: TV NOSARA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -524,8 +493,8 @@
     Stream: "https://acceso.radiosportstv.online:3430/hybrid/play.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "CR: TELESUR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -533,9 +502,8 @@
     Stream: "https://s1.tvdatta.com:3582/live/telesurlive.m3u8"
     Live: true
 }
-
-{   
-    Artist:"Chloe125"
+{
+    Artist: "Chloe125"
     Title: "BO: CANAL 7.1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -543,18 +511,17 @@
     Stream: "http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8"
     Live: true
 }
-
-{   
-    Artist:"Chloe125"
-    Title: "BO: CANAL 7.2 DEPORTES"
+{
+    Artist: "Chloe125"
+    Title: "[X] BO: CANAL 7.2 DEPORTES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/bo_canal_7_1.png"
     Stream: "https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BO: BOLIVISION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -562,8 +529,8 @@
     Stream: "https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "PE: PLANETA TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -571,8 +538,8 @@
     Stream: "https://live.obslivestream.com/planetatv/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "VE: VPI TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -580,9 +547,8 @@
     Stream: "https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8"
     Live: true
 }
-
-{   
-    Artist:"barriodemontecastro"
+{
+    Artist: "barriodemontecastro"
     Title: "VE: VENEVISION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -590,8 +556,8 @@
     Stream: "http://38.41.8.1:8000/play/a03v"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "VE: VENEVISION INTERNACIONAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -599,40 +565,39 @@
     Stream: "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1660000.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: GLOBO BRASILIA"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/br_globo.png"
     Stream: "http://play.1list.vip/live/listatvs/controliptv/215396.ts"
     Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "UY: CANAL 10"
+{
+    Artist: "milista"
+    Title: "[X] UY: CANAL 10"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/uy_canal_10.png"
     Stream: "http://170.39.192.130:2095/56933873069play/270124play/100836"
     Live: true
 }
-
-{   
-    Artist:"barriodemontecastro"
+{
+    Artist: "barriodemontecastro"
     Title: "PY: TELEFUTURO"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/py_telefuturo.png"
     Stream: "http://170.83.240.134:8000/play/a03e"
     Live: true
 }
-
-{   
-    Artist:"TVGarden"
+{
+    Artist: "TVGarden"
     Title: "PY: CANAL 13"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/py_canal_13.png"
     Stream: "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8"
     Live: true
 }
-
-

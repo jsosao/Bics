@@ -1,5 +1,5 @@
-{   
-    Artist:"milista"
+{
+    Artist: "milista"
     Title: "ES: TVE INTERNACIONAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -7,9 +7,8 @@
     Stream: "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8"
     Live: true
 }
-
-{   
-    Artist:"milista"    
+{
+    Artist: "milista"
     Title: "ES: TVE STAR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -17,9 +16,8 @@
     Stream: "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8"
     Live: true
 }
-
-{   
-    Artist:"cuartetorolan_paises"    
+{
+    Artist: "cuartetorolan_paises"
     Title: "ES: LA 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -27,9 +25,8 @@
     Stream: "https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8"
     Live: true
 }
-
-{   
-    Artist:"cuartetorolan_paises"    
+{
+    Artist: "cuartetorolan_paises"
     Title: "ES: LA 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -37,9 +34,8 @@
     Stream: "https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8"
     Live: true
 }
-
-{   
-    Artist:"paplopom"    
+{
+    Artist: "paplopom"
     Title: "ES: ANTENA TRES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -47,9 +43,8 @@
     Stream: "http://185.189.225.150:85/Antena3HD/index.m3u8"
     Live: true
 }
-
-{   
-    Artist:"paplopom"    
+{
+    Artist: "paplopom"
     Title: "ES: CUATRO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -57,9 +52,8 @@
     Stream: "http://185.189.225.150:85/CuatroHD/index.m3u8"
     Live: true
 }
-
-{   
-    Artist:"milista"
+{
+    Artist: "milista"
     Title: "ES: TELECINCO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -67,9 +61,8 @@
     Stream: "http://185.189.225.150:85/TeleCincoHD/index.m3u8"
     Live: true
 }
-
-{   
-    Artist:"milista"
+{
+    Artist: "milista"
     Title: "ES: LA SEXTA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -77,8 +70,8 @@
     Stream: "http://185.189.225.150:85/LaSexta/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "PT: TV PORTUGUESA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -86,29 +79,26 @@
     Stream: "https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8"
     Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "PT: RTP 2"
+{
+    Artist: "milista"
+    Title: "[X] PT: RTP 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/pt_rtp_2.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79027"
     Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "PT: RTP 3"
+{
+    Artist: "milista"
+    Title: "[X] PT: RTP 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/pt_rtp_3.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79051"
     Live: true
 }
-
-
-{   
+{
+    Artist: "web"
     Title: "PT: SIC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -116,8 +106,8 @@
     Stream: "https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "PT: TVI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -125,8 +115,8 @@
     Stream: "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "PT: V+ TVI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -134,8 +124,8 @@
     Stream: "https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "PT: TVI REALITY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -143,8 +133,8 @@
     Stream: "https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "PT: CANAL PORTO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -152,29 +142,26 @@
     Stream: "https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8"
     Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "DE: RTL"
+{
+    Artist: "milista"
+    Title: "[X] DE: RTL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/de_rtl.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/76846"
     Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "DE: ZDF"
+{
+    Artist: "milista"
+    Title: "[X] DE: ZDF"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/de_zdf.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/76840"
     Live: true
 }
-
-{   
-    Artist:"TVGarden"
+{
+    Artist: "TVGarden"
     Title: "DE: NDR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -182,68 +169,62 @@
     Stream: "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8"
     Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "FR: TF 1"
+{
+    Artist: "milista"
+    Title: "[X] FR: TF 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/fr_tf_1.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78076"
     Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "FR: FRANCE 2"
+{
+    Artist: "milista"
+    Title: "[X] FR: FRANCE 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/fr_france_2.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78078"
     Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "FR: FRANCE 3"
+{
+    Artist: "milista"
+    Title: "[X] FR: FRANCE 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/fr_france_3.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78081"
     Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "FR: FRANCE 4"
+{
+    Artist: "milista"
+    Title: "[X] FR: FRANCE 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/fr_france_4.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78084"
     Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "FR: FRANCE 5"
+{
+    Artist: "milista"
+    Title: "[X] FR: FRANCE 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/fr_france_5.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78086"
     Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "FR: M6"
+{
+    Artist: "milista"
+    Title: "[X] FR: M6"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/fr_m6.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78087"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "FR: BFM TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -251,8 +232,8 @@
     Stream: "https://d2me2cx8crwpp6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-456wmaba0e7dw/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "FR: BFM TV 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -260,18 +241,17 @@
     Stream: "https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m5/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e"
     Live: true
 }
-
-{   
-    Title: "FR: BFM TV PARIS"
+{
+    Artist: "web"
+    Title: "[X] FR: BFM TV PARIS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/fr_bfm_paris.png"
     Stream: "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?end=END&start=LIVE"
     Live: true
 }
-
-
-{   
+{
+    Artist: "web"
     Title: "IT: RAI 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -279,18 +259,17 @@
     Stream: "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8"
     Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "IT: RAI 2"
+{
+    Artist: "milista"
+    Title: "[X] IT: RAI 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/it_rai_2.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77993"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "IT: RAI 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -298,18 +277,17 @@
     Stream: "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8"
     Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "IT: RAI 4"
+{
+    Artist: "milista"
+    Title: "[X] IT: RAI 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/it_rai_4.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77994"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "IT: LA 7"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -317,49 +295,44 @@
     Stream: "https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ITBD1500002NL"
     Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "UK: BBC ONE"
+{
+    Artist: "milista"
+    Title: "[X] UK: BBC ONE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/uk_bbc_one.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78713"
     Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "UK: BBC TWO"
+{
+    Artist: "milista"
+    Title: "[X] UK: BBC TWO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/uk_bbc_two.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78724"
     Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "UK: BBC CBBC"
+{
+    Artist: "milista"
+    Title: "[X] UK: BBC CBBC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/uk_bbc_cbbc.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78721"
     Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "UK: BBC FOUR"
+{
+    Artist: "milista"
+    Title: "[X] UK: BBC FOUR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/uk_bbc_four.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78710"
     Live: true
 }
-
-{   
-    Artist:"TVGarden"
+{
+    Artist: "TVGarden"
     Title: "JP: NHK PREMIUM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -367,9 +340,8 @@
     Stream: "https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8"
     Live: true
 }
-
-{   
-    Artist:"TVGarden"
+{
+    Artist: "TVGarden"
     Title: "JP: NHK JAPAN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -377,9 +349,8 @@
     Stream: "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8"
     Live: true
 }
-
-{   
-    Artist:"TVGarden"
+{
+    Artist: "TVGarden"
     Title: "KR: EBS 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -387,9 +358,8 @@
     Stream: "https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8"
     Live: true
 }
-
-{   
-    Artist:"TVGarden"
+{
+    Artist: "TVGarden"
     Title: "KR: EBS 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -397,9 +367,8 @@
     Stream: "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8"
     Live: true
 }
-
-{   
-    Artist:"TVGarden"
+{
+    Artist: "TVGarden"
     Title: "KR: EBS E"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -407,51 +376,44 @@
     Stream: "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
     Live: true
 }
-
-
-
-{   
-    Artist:"milista"
-    Title: "HU: M1"
+{
+    Artist: "milista"
+    Title: "[X] HU: M1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/hu_m1.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79618"
     Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "HU: M2"
+{
+    Artist: "milista"
+    Title: "[X] HU: M2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/hu_m2.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79618"
     Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "HU: RTL +"
+{
+    Artist: "milista"
+    Title: "[X] HU: RTL +"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/de_rtl.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79726"
     Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "RU: РОССИЯ"
+{
+    Artist: "milista"
+    Title: "[X] RU: РОССИЯ"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/ru_РОССИЯ.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/81525"
     Live: true
 }
-
-{   
-    Artist:"TVGarden"
+{
+    Artist: "TVGarden"
     Title: "RU: HTB Мир"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -459,10 +421,8 @@
     Stream: "https://streaming.skynetconnect.online/live/213.m3u8"
     Live: true
 }
-
-
-
-{   
+{
+    Artist: "web"
     Title: "TR: TRT 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -470,19 +430,17 @@
     Stream: "https://trt.daioncdn.net/trt-1/master.m3u8?app=web"
     Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "TR: TRT 2"
+{
+    Artist: "milista"
+    Title: "[X] TR: TRT 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mundo/tr_trt_2.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79840"
     Live: true
 }
-
-{   
-    Artist:"TVGarden"
+{
+    Artist: "TVGarden"
     Title: "TH: TNN 16"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -490,9 +448,8 @@
     Stream: "https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8"
     Live: true
 }
-
-{   
-    Artist:"TVGarden"
+{
+    Artist: "TVGarden"
     Title: "TH: JKN 18"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -500,9 +457,8 @@
     Stream: "https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8"
     Live: true
 }
-
-{   
-    Artist:"TVGarden"
+{
+    Artist: "TVGarden"
     Title: "TH: NATION TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -510,9 +466,8 @@
     Stream: "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8"
     Live: true
 }
-
-{   
-    Artist:"PABLO"
+{
+    Artist: "PABLO"
     Title: "IN: INDIA TODAY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -520,8 +475,8 @@
     Stream: "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "MO: AL AOULA INTL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -529,8 +484,8 @@
     Stream: "https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_240p/chunks_dvr.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "MO: AL AOULA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -538,8 +493,8 @@
     Stream: "https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/playlist_dvr.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "MO: ARRYADIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -547,8 +502,8 @@
     Stream: "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "MO: Al Maghribia"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -556,8 +511,8 @@
     Stream: "https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/playlist_dvr.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "MO: TELE MAROC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -565,8 +520,6 @@
     Stream: "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/telmar.m3u8"
     Live: true
 }
-
-
 {
     Artist: "vk"
     Title: "|BE| DAZN PRO LEAGUE 1"
@@ -576,7 +529,6 @@
     Stream: "http://185.236.230.212:9982/play/a09q"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|BE| ECLIPS TV"
@@ -586,7 +538,6 @@
     Stream: "http://185.236.230.212:9982/play/a09d"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|BE| KETNET"
@@ -596,7 +547,6 @@
     Stream: "http://185.236.230.212:9982/play/a09j"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|BE| MENT POP"
@@ -606,7 +556,6 @@
     Stream: "http://185.236.230.212:9982/play/a09c"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|BE| PLAY 5"
@@ -616,7 +565,6 @@
     Stream: "http://185.236.230.212:9982/play/a09o"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|BE| PLAY 7"
@@ -626,7 +574,6 @@
     Stream: "http://185.236.230.212:9982/play/a09p"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|BE| VRT 1 HD"
@@ -636,7 +583,6 @@
     Stream: "http://185.236.230.212:9982/play/a0a0"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|BE| VRT CANVAS HD"
@@ -646,7 +592,6 @@
     Stream: "http://185.236.230.212:9982/play/a0a2"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|BE| VTM 3"
@@ -656,7 +601,6 @@
     Stream: "http://185.236.230.212:9982/play/a09l"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|BE| VTM 4"
@@ -666,7 +610,6 @@
     Stream: "http://185.236.230.212:9982/play/a09m"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|BE| VTM GOLD"
@@ -676,7 +619,6 @@
     Stream: "http://185.236.230.212:9982/play/a09i"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|BE| VTM XMAS"
@@ -686,7 +628,6 @@
     Stream: "http://185.236.230.212:9982/play/a09k"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| A11"
@@ -696,7 +637,6 @@
     Stream: "http://185.236.230.212:9982/play/a08c"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| AXN"
@@ -706,7 +646,6 @@
     Stream: "http://185.236.230.212:9982/play/a08e"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| AXN BLACK CENTRAL EUROPE"
@@ -716,7 +655,6 @@
     Stream: "http://185.236.230.212:9982/play/a094"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| AXN WHITE CENTRAL EUROPE"
@@ -726,7 +664,6 @@
     Stream: "http://185.236.230.212:9982/play/a095"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| BARRANDOV KRIMI"
@@ -736,7 +673,6 @@
     Stream: "http://185.236.230.212:9982/play/a08m"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| CANAL+ SPORT 2 HD"
@@ -746,7 +682,6 @@
     Stream: "http://185.236.230.212:9982/play/a0b9"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| CARTOONITO"
@@ -756,7 +691,6 @@
     Stream: "http://185.236.230.212:9982/play/a085"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| CINEMAX2 HD CZ/HU"
@@ -766,7 +700,6 @@
     Stream: "http://185.236.230.212:9982/play/a08u"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| CT 1 JM HD"
@@ -776,7 +709,6 @@
     Stream: "http://185.236.230.212:9982/play/a0b6"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| CT 1 JZC HD"
@@ -786,7 +718,6 @@
     Stream: "http://185.236.230.212:9982/play/a0ba"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| CT 1 PHA HD"
@@ -796,7 +727,6 @@
     Stream: "http://185.236.230.212:9982/play/a0b0"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| CT 1 SM HD"
@@ -806,7 +736,6 @@
     Stream: "http://185.236.230.212:9982/play/a0b5"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| CT 1 SVC HD"
@@ -816,7 +745,6 @@
     Stream: "http://185.236.230.212:9982/play/a0b8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| CT 2 HD"
@@ -826,7 +754,6 @@
     Stream: "http://185.236.230.212:9982/play/a0b1"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| CT 24 HD"
@@ -836,7 +763,6 @@
     Stream: "http://185.236.230.212:9982/play/a0b2"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| CT :D/ART HD"
@@ -846,7 +772,6 @@
     Stream: "http://185.236.230.212:9982/play/a0b4"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| CT SPORT HD"
@@ -856,7 +781,6 @@
     Stream: "http://185.236.230.212:9982/play/a0b3"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| FILM EUROPE+ HD"
@@ -866,7 +790,6 @@
     Stream: "http://185.236.230.212:9982/play/a08v"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| FILM+ HD"
@@ -876,7 +799,6 @@
     Stream: "http://185.236.230.212:9982/play/a08q"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| FILMBOX PREMIUM HD"
@@ -886,7 +808,6 @@
     Stream: "http://185.236.230.212:9982/play/a08t"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| FILMBOX STARS"
@@ -896,7 +817,6 @@
     Stream: "http://185.236.230.212:9982/play/a08x"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| FISHING & HUNTING CZ/HU"
@@ -906,7 +826,6 @@
     Stream: "http://185.236.230.212:9982/play/a08d"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| GOLF CHANNEL"
@@ -916,7 +835,6 @@
     Stream: "http://185.236.230.212:9982/play/a08b"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| HBO HD CZ/HU"
@@ -926,7 +844,6 @@
     Stream: "http://185.236.230.212:9982/play/a081"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| HBO2 HD CZ/HU"
@@ -936,7 +853,6 @@
     Stream: "http://185.236.230.212:9982/play/a08r"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| HBO3 HD CZ/HU"
@@ -946,7 +862,6 @@
     Stream: "http://185.236.230.212:9982/play/a08s"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| HISTORY HD CZ/HU"
@@ -956,7 +871,6 @@
     Stream: "http://185.236.230.212:9982/play/a093"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| KINO BARRANDOV"
@@ -966,7 +880,6 @@
     Stream: "http://185.236.230.212:9982/play/a08l"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| LEO TV (22-06)"
@@ -976,7 +889,6 @@
     Stream: "http://185.236.230.212:9982/play/a090"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| LOVE NATURE HD CZ/HU"
@@ -986,7 +898,6 @@
     Stream: "http://185.236.230.212:9982/play/a089"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| LOVE NATURE HD INT CZ/TR/BG/RU/HU/PL/NL"
@@ -996,7 +907,6 @@
     Stream: "http://185.236.230.212:9982/play/a08i"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| MINIMAX"
@@ -1006,7 +916,6 @@
     Stream: "http://185.236.230.212:9982/play/a08z"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| MNAM TV"
@@ -1016,7 +925,6 @@
     Stream: "http://185.236.230.212:9982/play/a08y"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| MTV EUROPE"
@@ -1026,7 +934,6 @@
     Stream: "http://185.236.230.212:9982/play/a086"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| NAT GEO HD CZ/HU"
@@ -1036,7 +943,6 @@
     Stream: "http://185.236.230.212:9982/play/a07w"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| NAT GEO HD CZ/HU"
@@ -1046,7 +952,6 @@
     Stream: "http://185.236.230.212:9982/play/a07x"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| NATIONAL GEO WILD HD CZ/HU"
@@ -1056,7 +961,6 @@
     Stream: "http://185.236.230.212:9982/play/a07z"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| NATIONAL GEO WILD HD CZ/RU/NL/HU/IL"
@@ -1066,7 +970,6 @@
     Stream: "http://185.236.230.212:9982/play/a07y"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| NOVA ACTION HD"
@@ -1076,7 +979,6 @@
     Stream: "http://185.236.230.212:9982/play/a0ao"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| NOVA CINEMA HD"
@@ -1086,7 +988,6 @@
     Stream: "http://185.236.230.212:9982/play/a0ap"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| NOVA HD"
@@ -1096,7 +997,6 @@
     Stream: "http://185.236.230.212:9982/play/a0al"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| NOVA INT."
@@ -1106,7 +1006,6 @@
     Stream: "http://185.236.230.212:9982/play/a0av"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| NOVA SPORT 1 HD"
@@ -1116,7 +1015,6 @@
     Stream: "http://185.236.230.212:9982/play/a0an"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| OCKO"
@@ -1126,7 +1024,6 @@
     Stream: "http://185.236.230.212:9982/play/a082"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| OCKO STAR"
@@ -1136,7 +1033,6 @@
     Stream: "http://185.236.230.212:9982/play/a083"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| PREMIUM HD"
@@ -1146,7 +1042,6 @@
     Stream: "http://185.236.230.212:9982/play/a084"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| PRIMA COOL HD"
@@ -1156,7 +1051,6 @@
     Stream: "http://185.236.230.212:9982/play/a0aq"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| PRIMA HD"
@@ -1166,7 +1060,6 @@
     Stream: "http://185.236.230.212:9982/play/a0am"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| PRIMA SK HD"
@@ -1176,7 +1069,6 @@
     Stream: "http://185.236.230.212:9982/play/a0b7"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| SLAGER MUZIKA"
@@ -1186,7 +1078,6 @@
     Stream: "http://185.236.230.212:9982/play/a0aw"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| SPEKTRUM HD CZ/HU"
@@ -1196,7 +1087,6 @@
     Stream: "http://185.236.230.212:9982/play/a08a"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| SPORT 2 HD CZ/SK"
@@ -1206,7 +1096,6 @@
     Stream: "http://185.236.230.212:9982/play/a08g"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| STORY4 HD CZ/HU"
@@ -1216,7 +1105,6 @@
     Stream: "http://185.236.230.212:9982/play/a08w"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| TV BARRANDOV"
@@ -1226,7 +1114,6 @@
     Stream: "http://185.236.230.212:9982/play/a08k"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| TV NOE"
@@ -1236,7 +1123,6 @@
     Stream: "http://185.236.230.212:9982/play/a0bg"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| VIASAT HISTORY HD CZ/HU"
@@ -1246,7 +1132,6 @@
     Stream: "http://185.236.230.212:9982/play/a08o"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|CZ| VIASAT NATURE HD CZ/HU"
@@ -1256,7 +1141,6 @@
     Stream: "http://185.236.230.212:9982/play/a08p"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|DE| STINGRAY CLASSICA HD"
@@ -1266,7 +1150,6 @@
     Stream: "http://185.236.230.212:9982/play/a0bi"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|EN| STINGRAY CMUSIC"
@@ -1276,7 +1159,6 @@
     Stream: "http://185.236.230.212:9982/play/a087"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|EN| STINGRAY CMUSIC CZ"
@@ -1286,7 +1168,6 @@
     Stream: "http://185.236.230.212:9982/play/a088"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|EN| STINGRAY ICONCERT HD"
@@ -1296,7 +1177,6 @@
     Stream: "http://185.236.230.212:9982/play/a0bh"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|HU| COMEDY CENTRAL"
@@ -1306,7 +1186,6 @@
     Stream: "http://185.236.230.212:9982/play/a08f"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|HU| GALAXY4"
@@ -1316,7 +1195,6 @@
     Stream: "http://185.236.230.212:9982/play/a08n"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|HU| M5"
@@ -1326,7 +1204,6 @@
     Stream: "http://185.236.230.212:9982/play/a0be"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|HU| MUZSIKA TV"
@@ -1336,7 +1213,6 @@
     Stream: "http://185.236.230.212:9982/play/a09s"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|HU| RTL GOLD"
@@ -1346,7 +1222,6 @@
     Stream: "http://185.236.230.212:9982/play/a09u"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|HU| RTL HAROM"
@@ -1356,7 +1231,6 @@
     Stream: "http://185.236.230.212:9982/play/a0ah"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|HU| RTL KETTO"
@@ -1366,7 +1240,6 @@
     Stream: "http://185.236.230.212:9982/play/a0ai"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|HU| SLAGER TV"
@@ -1376,7 +1249,6 @@
     Stream: "http://185.236.230.212:9982/play/a09t"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|HU| SOROZAT+"
@@ -1386,7 +1258,6 @@
     Stream: "http://185.236.230.212:9982/play/a0aj"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|HU| STORY4"
@@ -1396,7 +1267,6 @@
     Stream: "http://185.236.230.212:9982/play/a0bd"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|HU| TV2 SEF"
@@ -1406,7 +1276,6 @@
     Stream: "http://185.236.230.212:9982/play/a09v"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|HU| TV2KLUB"
@@ -1416,7 +1285,6 @@
     Stream: "http://185.236.230.212:9982/play/a08h"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|LU| CHAMBER TV HD"
@@ -1426,7 +1294,6 @@
     Stream: "http://185.236.230.212:9982/play/a09x"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|LU| RTL TELE LETZEBUERG"
@@ -1436,7 +1303,6 @@
     Stream: "http://185.236.230.212:9982/play/a09y"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| 24KITCHEN"
@@ -1446,7 +1312,6 @@
     Stream: "http://185.236.230.212:9982/play/a0a5"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| COMEDY CENTRAL"
@@ -1456,7 +1321,6 @@
     Stream: "http://185.236.230.212:9982/play/a0ad"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| FILM1 ACTION"
@@ -1466,7 +1330,6 @@
     Stream: "http://185.236.230.212:9982/play/a098"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| FILM1 DRAMA"
@@ -1476,7 +1339,6 @@
     Stream: "http://185.236.230.212:9982/play/a097"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| FILM1 FAMILY"
@@ -1486,7 +1348,6 @@
     Stream: "http://185.236.230.212:9982/play/a096"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| FILM1 PREMIERE HD"
@@ -1496,7 +1357,6 @@
     Stream: "http://185.236.230.212:9982/play/a09e"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| HISTORY CHANNEL"
@@ -1506,7 +1366,6 @@
     Stream: "http://185.236.230.212:9982/play/a09h"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| LOVE NATURE HD BNL"
@@ -1516,7 +1375,6 @@
     Stream: "http://185.236.230.212:9982/play/a08j"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| MTV"
@@ -1526,7 +1384,6 @@
     Stream: "http://185.236.230.212:9982/play/a0af"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| NATIONAL GEO HD"
@@ -1536,7 +1393,6 @@
     Stream: "http://185.236.230.212:9982/play/a09g"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| NATIONAL GEO WILD HD"
@@ -1546,7 +1402,6 @@
     Stream: "http://185.236.230.212:9982/play/a080"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| NET 5 HD"
@@ -1556,7 +1411,6 @@
     Stream: "http://185.236.230.212:9982/play/a09z"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| NICKELODEON"
@@ -1566,7 +1420,6 @@
     Stream: "http://185.236.230.212:9982/play/a0ac"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| NPO 1 HD"
@@ -1576,7 +1429,6 @@
     Stream: "http://185.236.230.212:9982/play/a0a1"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| NPO 3 HD"
@@ -1586,7 +1438,6 @@
     Stream: "http://185.236.230.212:9982/play/a0a4"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| OMROEP BRABANT TELEVISIE"
@@ -1596,7 +1447,6 @@
     Stream: "http://185.236.230.212:9982/play/a0ab"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| OMROEP FRYSLAN TELEVISIE"
@@ -1606,7 +1456,6 @@
     Stream: "http://185.236.230.212:9982/play/a0a6"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| PARAMOUNT NETWORK"
@@ -1616,7 +1465,6 @@
     Stream: "http://185.236.230.212:9982/play/a0ae"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| SPORT 10"
@@ -1626,7 +1474,6 @@
     Stream: "http://185.236.230.212:9982/play/a09r"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| TV DRENTHE"
@@ -1636,7 +1483,6 @@
     Stream: "http://185.236.230.212:9982/play/a0a7"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| TV GELDERLAND"
@@ -1646,7 +1492,6 @@
     Stream: "http://185.236.230.212:9982/play/a0a8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| TV NOORD"
@@ -1656,7 +1501,6 @@
     Stream: "http://185.236.230.212:9982/play/a0aa"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| TV OOST"
@@ -1666,7 +1510,6 @@
     Stream: "http://185.236.230.212:9982/play/a0a9"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| TV ORANJE"
@@ -1676,7 +1519,6 @@
     Stream: "http://185.236.230.212:9982/play/a0ag"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| VERONICA/DISNEYXD HD"
@@ -1686,7 +1528,6 @@
     Stream: "http://185.236.230.212:9982/play/a0a3"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| VIAPLAY TV"
@@ -1696,7 +1537,6 @@
     Stream: "http://185.236.230.212:9982/play/a09b"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| ZIGGO SPORT 1 HD"
@@ -1706,7 +1546,6 @@
     Stream: "http://185.236.230.212:9982/play/a09f"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| ZIGGO SPORT 2"
@@ -1716,7 +1555,6 @@
     Stream: "http://185.236.230.212:9982/play/a099"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|NL| ZIGGO SPORT 6"
@@ -1726,7 +1564,6 @@
     Stream: "http://185.236.230.212:9982/play/a09a"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|SK| DAJTO HD"
@@ -1736,7 +1573,6 @@
     Stream: "http://185.236.230.212:9982/play/a0ar"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|SK| JOJ 24 HD"
@@ -1746,7 +1582,6 @@
     Stream: "http://185.236.230.212:9982/play/a0az"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|SK| JOJ PLUS HD"
@@ -1756,7 +1591,6 @@
     Stream: "http://185.236.230.212:9982/play/a0at"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|SK| JOJ SPORT HD"
@@ -1766,7 +1600,6 @@
     Stream: "http://185.236.230.212:9982/play/a0ax"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|SK| JOJ SVET HD"
@@ -1776,7 +1609,6 @@
     Stream: "http://185.236.230.212:9982/play/a0bc"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|SK| JOJKO"
@@ -1786,7 +1618,6 @@
     Stream: "http://185.236.230.212:9982/play/a0au"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|SK| MARKIZA KRIMI HD"
@@ -1796,7 +1627,6 @@
     Stream: "http://185.236.230.212:9982/play/a0ay"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|SK| NOVA SPORT 5 HD"
@@ -1806,7 +1636,6 @@
     Stream: "http://185.236.230.212:9982/play/a09w"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|SK| TA3 HD"
@@ -1816,7 +1645,6 @@
     Stream: "http://185.236.230.212:9982/play/a0bf"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|SK| TV JOJ HD"
@@ -1826,7 +1654,6 @@
     Stream: "http://185.236.230.212:9982/play/a0as"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|SK| TV LUX HD"
@@ -1836,7 +1663,6 @@
     Stream: "http://185.236.230.212:9982/play/a0bb"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|SK| TV SPARK"
@@ -1846,7 +1672,6 @@
     Stream: "http://185.236.230.212:9982/play/a092"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|SK| TV8"
@@ -1856,7 +1681,6 @@
     Stream: "http://185.236.230.212:9982/play/a091"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "|UK| BBC FIRST HD"
