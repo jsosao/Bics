@@ -135,15 +135,6 @@
 }
 {
     Artist: "Chloe125_TV"
-    Title: "[X] TELEANTILLA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.216.158.199:8000/play/a01q/index.m3u8"
-    Live: true
-}
-{
-    Artist: "Chloe125_TV"
     Title: "TELEISLAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -756,15 +747,6 @@
 }
 {
     Artist: "kv"
-    Title: "[X] Heliconia Radio - Pajarito"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.60.56.41:8000/play/a002/index.m3u8"
-    Live: true
-}
-{
-    Artist: "kv"
     Title: "History Channel"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -788,15 +770,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http://190.60.56.41:8000/play/a009/index.m3u8"
-    Live: true
-}
-{
-    Artist: "kv"
-    Title: "[X] La Despechada Tv - Nobsa"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.60.56.41:8000/play/a001/index.m3u8"
     Live: true
 }
 {
@@ -977,15 +950,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http://190.60.56.41:8000/play/a01h/index.m3u8"
-    Live: true
-}
-{
-    Artist: "kv"
-    Title: "[X] X-EURONEWS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.60.56.41:8000/play/a01g/index.m3u8"
     Live: true
 }
 {
