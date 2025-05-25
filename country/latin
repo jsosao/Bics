@@ -18,6 +18,16 @@
 }
 
 {   
+    Artist:"vk"
+    Title: "CL: TVN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/cl_tvn.png"
+    Stream: "http://38.180.133.31:8000/play/a10l/index.m3u8"
+    Live: true
+}
+
+{   
     Artist:"TVGarden"
     Title: "CL: TVN"
     streamFormat: "hls|mts"
