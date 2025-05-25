@@ -1,23 +1,22 @@
-{   
+{
     Artist: "milista"
-    Title: "DAZN F1"
+    Title: "[X] DAZN F1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/dazn_f1.png"
     Stream: "http://directo.ddns.me:2082/felipenarcelles/felipe7388/38487"
     Live: true
 }
-
-{   
-    Title: "SKY F1"
+{
+    Artist: "web"
+    Title: "[X] SKY F1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sky_f1.png"
     Stream: "http://117tv.icu:8080/X5xRz0/944877/125947"
     Live: true
 }
-
-{   
+{
     Artist: "Alverich"
     Title: "US: ESPN DEPORTES"
     streamFormat: "hls|mts"
@@ -26,13 +25,12 @@
     Stream: "http://disfruta.net/live/balooshy/Dcw7jXk5T5/9db9023b-972f-4776-aecf-5386bae176db.m3u"
     Live: true
 }
-
-{   
+{
     Artist: "Alverich"
-    Title: "AR: FOX SPORTS"
+    Title: "[X] AR: FOX SPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/ar_fox_sports.png"
     Stream: "http://181.13.173.86:8000/play/a07j/index.m3u8"
+    Live: true
 }
-
