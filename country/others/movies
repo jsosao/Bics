@@ -1,1902 +1,2430 @@
-{   
-    Title: "La sustancia" 
+{
+    Artist: "web"
+    Title: "[X] La sustancia"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg"
-    Stream: "http://170.39.192.130:2095/movie/56993164346fpro/180724play/312631.mkv"         
+    Stream: "http://170.39.192.130:2095/movie/56993164346fpro/180724play/312631.mkv"
     Live: false
 }
-
-{   
-    Title: "Flow" 
+{
+    Artist: "web"
+    Title: "[X] Flow"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PPvMc165yk0zafItbitQ2ZqZyo.jpg"
-    Stream: "http://170.39.192.130:2095/movie/56993164346fpro/180724play/315416.mkv"         
+    Stream: "http://170.39.192.130:2095/movie/56993164346fpro/180724play/315416.mkv"
     Live: false
 }
-
-{   
-    Title: "Moana 2" 
+{
+    Artist: "web"
+    Title: "[X] Moana 2"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSjM4OPwfF3PvWsVgV6SKd6GeXJ.jpg"
-    Stream: "http://170.39.192.130:2095/movie/56993164346fpro/180724play/313122.mp4"         
+    Stream: "http://170.39.192.130:2095/movie/56993164346fpro/180724play/313122.mp4"
     Live: false
 }
-
-{   
-    Artisit:"Abisoft77"
-    Title: "Cónclave" 
+{
+    Artist: "web"
+    Title: "[X] Cónclave"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.filmofilia.com/wp-content/uploads/2024/09/conclave-1-860x512.jpg"
-    Stream: "http://170.39.192.130:2095/movie/56993164346fpro/180724play/313089.mkv"    
-    AudioTrack: "0"
+    Stream: "http://170.39.192.130:2095/movie/56993164346fpro/180724play/313089.mkv"
     Live: false
 }
-
-{   
-    Title: "INDIANA JONES Y EL IDEAL DEL DESTINO" 
+{
+    Artist: "web"
+    Title: "[X] INDIANA JONES Y EL IDEAL DEL DESTINO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://lumiere-a.akamaihd.net/v1/images/eu_xx_indiana-jones-5_c169_r_v2_9e1f2761.jpeg?region=0,0,1460,823&width=960"
-    Stream: "https://www.polimor.club/movies/indy.mp4"         
+    Stream: "https://www.polimor.club/movies/indy.mp4"
     Live: false
 }
-
-{   
-    Title: "Guardianes de la Galaxia volumen 3" 
+{
+    Artist: "web"
+    Title: "[X] Guardianes de la Galaxia volumen 3"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg"
-    Stream: "http://170.39.192.130:2095/movie/56993164346fpro/180724play/311867.mp4"         
+    Stream: "http://170.39.192.130:2095/movie/56993164346fpro/180724play/311867.mp4"
     Live: false
 }
-
-{   
-    Title: "TORNADOS" 
+{
+    Artist: "web"
+    Title: "TORNADOS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://services.meteored.com/img/article/tornados-2024-la-pelicula-twister-estrena-un-nuevo-capitulo-luego-de-28-anos-mira-el-avance-1715679320174_1280.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/twisters%202024.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/twisters%202024.mkv"
     Live: false
 }
-
-{   
-    Title: "JACKPOT LOTERIA MORTAL" 
+{
+    Artist: "web"
+    Title: "[X] JACKPOT LOTERIA MORTAL"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-07-02/e_jackpot_07022024.jpg"
-    Stream: "https://www.polimor.club/movies/loteria.mp4"         
+    Stream: "https://www.polimor.club/movies/loteria.mp4"
     Live: false
 }
-
-{   
-    Title: "EXHUMAN LA TUMBA DEL DIABLO" 
+{
+    Artist: "web"
+    Title: "[X] EXHUMAN LA TUMBA DEL DIABLO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/Hg7McW2ogSE/maxresdefault.jpg"
-    Stream: "https://www.polimor.club/movies/exhuma.mp4"         
+    Stream: "https://www.polimor.club/movies/exhuma.mp4"
     Live: false
 }
-{   
-    Title: "EL SINDICATO" 
+{
+    Artist: "web"
+    Title: "EL SINDICATO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://baztabonline.com/wp-content/uploads/2024/06/%D8%AA%D8%B1%DB%8C%D9%84%D8%B1-%D9%81%DB%8C%D9%84%D9%85-The-Union-%D9%85%D9%86%D8%AA%D8%B4%D8%B1-%D8%B4%D8%AF.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20union%202024.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20union%202024.mkv"
     Live: false
 }
-
-{   
-    Title: "EL SECUESTRO DEL PAPA" 
+{
+    Artist: "web"
+    Title: "[X] EL SECUESTRO DEL PAPA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://img.youtube.com/vi/PYQ9AduUZ_Y/sddefault.jpg"
-    Stream: "https://www.polimor.club/movies/papa.mp4"         
+    Stream: "https://www.polimor.club/movies/papa.mp4"
     Live: false
 }
-{   
-    Title: "AL RESCATE DE FONDO DE BIKINI: LA PELICULA DE ARENITA MEJILLA" 
+{
+    Artist: "web"
+    Title: "AL RESCATE DE FONDO DE BIKINI: LA PELICULA DE ARENITA MEJILLA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th/id/OIP.adzIMfn8ueiST2O3rgduAQHaEK?rs=1&pid=ImgDetMain"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/saving%20bikini%20bottom%20the%20sandy%20cheeks%20movie%202024.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/saving%20bikini%20bottom%20the%20sandy%20cheeks%20movie%202024.mkv"
     Live: false
 }
-{   
-    Title: "DEADPOOL AND WOLVERINE" 
+{
+    Artist: "web"
+    Title: "[X] DEADPOOL AND WOLVERINE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.marvel.com/content/1x/deadpoolandwolverine_lob_log_def_03.png"
-    Stream: "https://www.polimor.club/movies/deadpool3.mp4"         
+    Stream: "https://www.polimor.club/movies/deadpool3.mp4"
     Live: false
 }
-{   
-    Title: "MI VILLANO FAVORITO 4" 
+{
+    Artist: "web"
+    Title: "MI VILLANO FAVORITO 4"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://ovaciones.com/wp-content/uploads/2024/05/Daniel-Reza-2024-05-07T173633.163.png"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/despicable%20me%204%202024.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/despicable%20me%204%202024.mkv"
     Live: false
 }
-{   
-    Title: "UN LUGAR EN SILENCIO DIA UNO" 
+{
+    Artist: "web"
+    Title: "UN LUGAR EN SILENCIO DIA UNO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://admin.esports.gg/wp-content/uploads/2024/03/a-quiet-place-day-1-1-968x544.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/a%20quiet%20place%20day%20one%202024.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/a%20quiet%20place%20day%20one%202024.mkv"
     Live: false
 }
-{   
-    Title: "MAXXXINE" 
+{
+    Artist: "web"
+    Title: "[X] MAXXXINE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://cinesunidosweb.blob.core.windows.net/slider/HO00005092.jpg"
-    Stream: "https://www.polimor.club/movies/maxxine.mp4"         
+    Stream: "https://www.polimor.club/movies/maxxine.mp4"
     Live: false
 }
-{   
-    Title: "UNA MANIOBRA ARRIESGADA" 
+{
+    Artist: "web"
+    Title: "UNA MANIOBRA ARRIESGADA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqzarEYqPa1O0ns8pH4SNsUXZwjcaqQEInKiA6YKL-urGOSQdVtIsQVqkdCxgNTJ9UKGKgVfFqbDyojg2z2zMMpN3NBeVztdXUm1PXH-uub0uYFBr4DM58asVwYExYp8Ky7w3u4aRtHLAbikiBSRFXqKifgDN_3DSlhs_Sahu8hDdi-ctAb4VTiaJ7KP2m/s2560/Una%20maniobra%20arriesgada%20(2024).jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/one%20fast%20move%202024.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/one%20fast%20move%202024.mkv"
     Live: false
 }
-{   
-    Title: "LOS INSTIGADORES" 
+{
+    Artist: "web"
+    Title: "[X] LOS INSTIGADORES"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.apple.com/es/tv-pr/shows-and-films/t/the-instigators/images/show-home-graphic-header/key-art-01/4x1/Apple_TV_The_Instigators_key_art_graphic_header_4_1_show_home.jpg"
-    Stream: "https://www.polimor.club/movies/incitadores.mp4"         
+    Stream: "https://www.polimor.club/movies/incitadores.mp4"
     Live: false
 }
-{  
-    Title: "LA VENGANZA DEL DRAGON" 
+{
+    Artist: "web"
+    Title: "[X] LA VENGANZA DEL DRAGON"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://intervez.com/wp-content/uploads/2024/01/La-Venganza-del-Dragon.jpg"
-    Stream: "https://www.polimor.club/movies/farang.mp4"         
+    Stream: "https://www.polimor.club/movies/farang.mp4"
     Live: false
 }
-{   
-    Title: "V DE VICTOR" 
+{
+    Artist: "web"
+    Title: "[X] V DE VICTOR"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://salallena.com.mx/wp-content/uploads/2024/04/image-1.png?w=936"
-    Stream: "https://www.polimor.club/movies/victor.mp4"         
+    Stream: "https://www.polimor.club/movies/victor.mp4"
     Live: false
 }
-{   
-    Title: "EL ABUELO Y KID" 
+{
+    Artist: "web"
+    Title: "EL ABUELO Y KID"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR50fRIg5XQfWdPCWljYzDIxXO8G4Syi5eqkyjyG5Nl0YDk9-ElIvZIjNln6tMOgSxD8c&usqp=CAU"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/lolo%20and%20the%20kid%202024.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/lolo%20and%20the%20kid%202024.mkv"
     Live: false
 }
-{   
-    Title: "LA FAVORITA DEL REY" 
+{
+    Artist: "web"
+    Title: "[X] LA FAVORITA DEL REY"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://revistabombea.com/wp-content/uploads/2024/07/maxresdefault-1-660x330.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/favorita2.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/favorita2.mp4"
     Live: false
 }
-{   
-    Title: "PLANETA DE LOS SIMIOS: NUEVO REINO" 
+{
+    Artist: "web"
+    Title: "PLANETA DE LOS SIMIOS: NUEVO REINO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.eyescreamproductions.com/allaccess/wp-content/uploads/2024/05/el-planeta-de-los-simios-ya-se-conoce-cuando-se-estrenara-el-nuevo-trailer-de-la-cinta-que-se-estrena-en-este-2024-1223259-1.webp"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/kingdom%20of%20the%20planet%20of%20the%20apes%202024.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/kingdom%20of%20the%20planet%20of%20the%20apes%202024.mkv"
     Live: false
 }
-{   
-    Title: "LOS VIGILANTES" 
+{
+    Artist: "web"
+    Title: "[X] LOS VIGILANTES"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://s1.dmcdn.net/v/Vt0bc1byDjtf6PwWy/x720"
-    Stream: "https://www.polimorhdd.online/stuff/watchers.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/watchers.mp4"
     Live: false
 }
-{   
-    Title: "GRANDES ESPIAS: MISION ITALIA" 
+{
+    Artist: "web"
+    Title: "GRANDES ESPIAS: MISION ITALIA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://m.media-amazon.com/images/S/pv-target-images/01128b5a8652f08abae8e2d421637b732870cc67e8b32efbafc040e1c45afe5a.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/my%20spy%20the%20eternal%20city%202024.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/my%20spy%20the%20eternal%20city%202024.mkv"
     Live: false
 }
-{   
-    Title: "SUPER DETECTIVE EN HOLLYWOOD ALEX F" 
+{
+    Artist: "web"
+    Title: "[X] SUPER DETECTIVE EN HOLLYWOOD ALEX F"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.findelahistoria.com/web/wp-content/uploads/2024/07/Beverly-Hills-Cop-Axel-F.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/cop4.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/cop4.mp4"
     Live: false
 }
-{   
-    Title: "RECUERDOS MORTALES" 
+{
+    Artist: "web"
+    Title: "[X] RECUERDOS MORTALES"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://imagemfilmeslatam.com/media/im_bnnrs_home/recuerdos-mortales.jpg"
-    Stream: "https://www.polimor.club/movies/recuerdos.mp4"         
+    Stream: "https://www.polimor.club/movies/recuerdos.mp4"
     Live: false
 }
-{   
-    Title: "EL CLUB DE LOS VANDALOS" 
+{
+    Artist: "web"
+    Title: "[X] EL CLUB DE LOS VANDALOS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCtpxn9KuCk28RIgjJWf6vRipLZbMMXgVfMYlqOG67EMqg36chj4JHszIp9GvFr1fFzE4xrddB31AaizF_QfYy76lClINeuyqg3Og_UnqAhlmNa5mjt4vmIJsZLgYo8dkxpvi8FYbIq62byZtmaSekuX1H9hFX_NlxWYYppXQ7L9c3IzN8JB9j96uKMx0/s1222/image001.png"
-    Stream: "https://www.polimorhdd.online/stuff/vandalos.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/vandalos.mp4"
     Live: false
 }
-{   
-    Title: "ARACNIDOS" 
+{
+    Artist: "web"
+    Title: "[X] ARACNIDOS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://files.lafm.com.co/assets/public/styles/facebook2/public/2024-03/racnidos.jpg.webp?VersionId=BsePyWsArjsHt4NPWugGpvvvwdky8Yk7&itok=zRi8mf8f"
-    Stream: "https://www.polimor.club/movies/aracnidos.mp4"         
+    Stream: "https://www.polimor.club/movies/aracnidos.mp4"
     Live: false
 }
-{   
-    Title: "LA OTRA CARA DE LA LUNA" 
+{
+    Artist: "web"
+    Title: "[X] LA OTRA CARA DE LA LUNA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://cinesunidosweb.blob.core.windows.net/slider/HO00005094.jpg"
-    Stream: "https://www.polimor.club/movies/moon.mp4"         
+    Stream: "https://www.polimor.club/movies/moon.mp4"
     Live: false
 }
-{   
-    Title: "NOVATA ESPACIAL" 
+{
+    Artist: "web"
+    Title: "[X] NOVATA ESPACIAL"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th/id/OIP.P2fF7-hja2gqTxONWA5AhQHaEK?rs=1&pid=ImgDetMain"
-    Stream: "https://www.polimor.club/movies/novata.mp4"         
+    Stream: "https://www.polimor.club/movies/novata.mp4"
     Live: false
 }
-{   
-    Title: "UN ACTOR MALO" 
+{
+    Artist: "web"
+    Title: "[X] UN ACTOR MALO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/qrD-t03-Wz8/maxresdefault.jpg"
-    Stream: "https://www.polimor.club/movies/actor.mp4"         
+    Stream: "https://www.polimor.club/movies/actor.mp4"
     Live: false
 }
-{   
-    Title: "EL NIÑO Y LA GARZA" 
+{
+    Artist: "web"
+    Title: "EL NIÑO Y LA GARZA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.noscogiolanoche.tv/wp-content/uploads/elementor/thumbs/04_GIBLI-WWW-JUAN-MEJIA-qhtm2bdmrbql3m009z8q760avz0iokgfq2kua9qgli.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20boy%20and%20the%20heron%202023.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20boy%20and%20the%20heron%202023.mkv"
     Live: false
 }
-{   
-    Title: "HACHIKO" 
+{
+    Artist: "web"
+    Title: "[X] HACHIKO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://m.media-amazon.com/images/S/pv-target-images/dd2d493efd0e1282fc33dffd50cc1bad8e95e4a80e77cfb4d61dc8d02c126e6d._UR1920,1080_SX720_FMjpg_.jpg"
-    Stream: "https://www.polimor.club/movies/hachiko.mp4"         
+    Stream: "https://www.polimor.club/movies/hachiko.mp4"
     Live: false
 }
-{   
-    Title: "DETONANTES" 
+{
+    Artist: "web"
+    Title: "DETONANTES"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://elrefugiodelpirata.com/wp-content/uploads/2024/06/eKealeoM38LbNMLLA4b5NMfrKFd.jpg.webp"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/trigger%20warning%202024.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/trigger%20warning%202024.mkv"
     Live: false
 }
-{   
-    Title: "LOS INFALIBLES" 
+{
+    Artist: "web"
+    Title: "[X] LOS INFALIBLES"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://m.media-amazon.com/images/S/pv-target-images/23157e6bfc363c8520b2223eeba0d63791491c38ae918ade3d93844c0505f230._SX1080_FMjpg_.jpg"
-    Stream: "https://vod.tuxchannel.mx/peliculas/720/les%20infaillibles%202024.mkv"         
+    Stream: "https://vod.tuxchannel.mx/peliculas/720/les%20infaillibles%202024.mkv"
     Live: false
 }
-{   
-    Title: "LA FAMILIA DEL BARRIO LA PELICULA" 
+{
+    Artist: "web"
+    Title: "[X] LA FAMILIA DEL BARRIO LA PELICULA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://images.vix.com/prd/videos/video:mcp:4535817/acc8cb4b4acd6091b6405f22895977da"
-    Stream: "https://www.polimor.club/movies/barrio.mp4"         
+    Stream: "https://www.polimor.club/movies/barrio.mp4"
     Live: false
 }
-{   
-    Title: "LOUD HOUSE: NO HAY TIEMPO PARA ESPIAR" 
+{
+    Artist: "web"
+    Title: "LOUD HOUSE: NO HAY TIEMPO PARA ESPIAR"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://image.tmdb.org/t/p/original/1Tw1k8AcoO7FC9CpiZXiNrDNQCH.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/no%20time%20to%20spy%20a%20loud%20house%20movie%202024.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/no%20time%20to%20spy%20a%20loud%20house%20movie%202024.mkv"
     Live: false
 }
-{   
-    Title: "INTENSAMENTE 2" 
+{
+    Artist: "web"
+    Title: "[X] INTENSAMENTE 2"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.natura.com.ar/sites/default/files/recorte_webpelicula_intensamente_2_regresan_las_emociones.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/intensamente2.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/intensamente2.mp4"
     Live: false
 }
-{   
-    Title: "TAROT" 
+{
+    Artist: "web"
+    Title: "[X] TAROT"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.sonypictures.com.mx/sites/mexico/files/2024-02/TAR_2572x1100.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/tarot.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/tarot.mp4"
     Live: false
 }
-{   
-    Title: "THE STRANGER: CHAPTER 1" 
+{
+    Artist: "web"
+    Title: "[X] THE STRANGER: CHAPTER 1"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/Gho_aoP_mV8/maxresdefault.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/extranos1.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/extranos1.mp4"
     Live: false
 }
-{   
-    Title: "BAD BOYS: RIDE OR DIE" 
+{
+    Artist: "web"
+    Title: "[X] BAD BOYS: RIDE OR DIE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th/id/OIP.ghlzbvH0cmBQsy61IluxQQHaEs?rs=1&pid=ImgDetMain"
-    Stream: "https://www.polimorhdd.online/stuff/badboys4.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/badboys4.mp4"
     Live: false
 }
-{   
-    Title: "CIVIL WAR" 
+{
+    Artist: "web"
+    Title: "CIVIL WAR"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.tvinsider.com/wp-content/uploads/2023/12/civil-war.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/civil%20war%202024.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/civil%20war%202024.mkv"
     Live: false
 }
-{   
-    Title: "EN LAS PROFUNDIDADES DEL SENA" 
+{
+    Artist: "web"
+    Title: "[X] EN LAS PROFUNDIDADES DEL SENA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th/id/OIP.i6-pLmFBnyrcmLyrjiq6UQHaEK?rs=1&pid=ImgDetMain"
-    Stream: "https://www.polimor.club/movies/sena.mp4"         
+    Stream: "https://www.polimor.club/movies/sena.mp4"
     Live: false
 }
-{   
-    Title: "HIT MAN: ASESINO POR CASUALIDAD" 
+{
+    Artist: "web"
+    Title: "[X] HIT MAN: ASESINO POR CASUALIDAD"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://herculesdiario.es/wp-content/uploads/2024/06/gqXJxxp.png"
-    Stream: "https://www.polimor.club/movies/hitman.mp4"         
+    Stream: "https://www.polimor.club/movies/hitman.mp4"
     Live: false
 }
-{   
-    Title: "EL DURO" 
+{
+    Artist: "web"
+    Title: "EL DURO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th/id/OIP.nLJf8RE260oIxVx2jwdjwgAAAA?rs=1&pid=ImgDetMain"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/road%20house%202024.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/road%20house%202024.mkv"
     Live: false
 }
-{   
-    Title: "GARFIELD" 
+{
+    Artist: "web"
+    Title: "[X] GARFIELD"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.cweb.com/wp-content/uploads/2024/03/garfield-1.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/garfield.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/garfield.mp4"
     Live: false
 }
-{   
-    Title: "ATLAS" 
+{
+    Artist: "web"
+    Title: "ATLAS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.heavenofhorror.com/wp-content/uploads/2024/05/Atlas-Netflix-Review.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/atlas%202024.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/atlas%202024.mkv"
     Live: false
 }
-{   
-    Title: "LA PRIMERA PROFECIA" 
+{
+    Artist: "web"
+    Title: "[X] LA PRIMERA PROFECIA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/mNhWMRE8IC0/maxresdefault.jpg"
-    Stream: "https://www.polimor.club/movies/profecia.mp4"        
+    Stream: "https://www.polimor.club/movies/profecia.mp4"
     Live: false
 }
-{   
-    Title: "SOUTH PARK: EL FIN DE LA OBESIDAD" 
+{
+    Artist: "web"
+    Title: "[X] SOUTH PARK: EL FIN DE LA OBESIDAD"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th?id=OIF.eUEumUqe74ekF9qP5%2b%2fvIw&rs=1&pid=ImgDetMain"
-    Stream: "https://www.polimorhdd.online/stuff/cartman.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/cartman.mp4"
     Live: false
 }
-{   
-    Title: "DARKNESS OF MAN" 
+{
+    Artist: "web"
+    Title: "[X] DARKNESS OF MAN"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/tl8k3g69jpE/maxresdefault.jpg"
-    Stream: "https://www.ciudadmaderas.club/stuff/dark.mp4"         
+    Stream: "https://www.ciudadmaderas.club/stuff/dark.mp4"
     Live: false
 }
-{   
-    Title: "KLAMMER: ROZANDO EL LIMITE" 
+{
+    Artist: "web"
+    Title: "[X] KLAMMER: ROZANDO EL LIMITE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/Zw5OulAAXgE/maxresdefault.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/klammer.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/klammer.mp4"
     Live: false
 }
-{   
-    Title: "BOYS KILL WORLD" 
+{
+    Artist: "web"
+    Title: "[X] BOYS KILL WORLD"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://dx35vtwkllhj9.cloudfront.net/roadsideattractions/boy-kills-world/images/regions/us/share.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/boy.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/boy.mp4"
     Live: false
 }
-{   
-    Title: "BACK TO BLACK" 
+{
+    Artist: "web"
+    Title: "BACK TO BLACK"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://dx35vtwkllhj9.cloudfront.net/studiocanalintl/back-to-black/images/regions/au/header.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/back%20to%20black%202024.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/back%20to%20black%202024.mkv"
     Live: false
 }
-{   
-    Title: "GARRA DE HIERRO" 
+{
+    Artist: "web"
+    Title: "GARRA DE HIERRO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/VGXu4fl3HpQ/maxresdefault.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20iron%20claw%202023.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20iron%20claw%202023.mkv"
     Live: false
 }
-{   
-    Title: "ABIGAIL" 
+{
+    Artist: "web"
+    Title: "[X] ABIGAIL"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://dx35vtwkllhj9.cloudfront.net/universalstudios/abigail/images/regions/ca/share.jpg"
-    Stream: "https://www.polimor.club/movies/abigail.mp4"         
+    Stream: "https://www.polimor.club/movies/abigail.mp4"
     Live: false
 }
-{   
-    Title: "GODZILLA MINUS ONE" 
+{
+    Artist: "web"
+    Title: "[X] GODZILLA MINUS ONE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.theplaylist.net/wp-content/uploads/2016/04/05095741/GodzillaMinusOne_PayoffPoster_FullRes_RGB.jpg"
-    Stream: "https://www.ciudadmaderas.club/stuff/godzilla.mp4"         
+    Stream: "https://www.ciudadmaderas.club/stuff/godzilla.mp4"
     Live: false
 }
-{   
-    Title: "EN LLAMAS" 
+{
+    Artist: "web"
+    Title: "[X] EN LLAMAS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://onfiremovie.com/assets/images/desktopbanner.jpg"
-    Stream: "https://www.ciudadmaderas.club/stuff/fire.mp4"         
+    Stream: "https://www.ciudadmaderas.club/stuff/fire.mp4"
     Live: false
 }
-{   
-    Title: "INMACULADA" 
+{
+    Artist: "web"
+    Title: "[X] INMACULADA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://vid.aullidos.com/videos/images/354x170/immaculate-trailer.jpg"
-    Stream: "https://www.ciudadmaderas.club/stuff/inmaculada.mp4"         
+    Stream: "https://www.ciudadmaderas.club/stuff/inmaculada.mp4"
     Live: false
 }
-{   
-    Title: "ARTHUR" 
+{
+    Artist: "web"
+    Title: "[X] ARTHUR"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th/id/OIP._GDgSI_K9fkevO7F3MFkEAAAAA?rs=1&pid=ImgDetMain"
-    Stream: "https://www.ciudadmaderas.club/stuff/arthur.mp4"         
+    Stream: "https://www.ciudadmaderas.club/stuff/arthur.mp4"
     Live: false
 }
-{   
-    Title: "BAGHEAD: CONTACTO CON LA MUERTE" 
+{
+    Artist: "web"
+    Title: "[X] BAGHEAD: CONTACTO CON LA MUERTE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/zb--suV0SCM/mqdefault.jpg"
-    Stream: "https://www.ciudadmaderas.club/stuff/baghead.mp4"         
+    Stream: "https://www.ciudadmaderas.club/stuff/baghead.mp4"
     Live: false
 }
-{   
-    Title: "SAYEN LA CAZADORA" 
+{
+    Artist: "web"
+    Title: "SAYEN LA CAZADORA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://pbs.twimg.com/media/GMHRm-DXcAAEywJ.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/sayen%20the%20huntress%202024.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/sayen%20the%20huntress%202024.mkv"
     Live: false
 }
-{   
-    Title: "MIRACULOUS LADYBUG SHADYBUG Y CLAW NOIR" 
+{
+    Artist: "web"
+    Title: "MIRACULOUS LADYBUG SHADYBUG Y CLAW NOIR"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/ovYN8ScQn3Q/maxresdefault.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/miraculous%20world%20paris%20tales%20of%20shadybug%20and%20claw%20noir%202023.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/miraculous%20world%20paris%20tales%20of%20shadybug%20and%20claw%20noir%202023.mkv"
     Live: false
 }
-{   
-    Title: "MONKEY MAN" 
+{
+    Artist: "web"
+    Title: "[X] MONKEY MAN"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://dx35vtwkllhj9.cloudfront.net/universalstudios/monkey-man/images/regions/us/share.jpg"
-    Stream: "https://www.ciudadmaderas.club/stuff/monkey.mp4"         
+    Stream: "https://www.ciudadmaderas.club/stuff/monkey.mp4"
     Live: false
 }
-{   
-    Title: "GODZILLA Y KONG: EL NUEVO IMPERIO" 
+{
+    Artist: "web"
+    Title: "[X] GODZILLA Y KONG: EL NUEVO IMPERIO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.nacionflix.com/__export/1682360303843/sites/debate/img/2023/04/24/godzilla-x-kong-the-new-empire_1.jpg_242310155.jpg"
-    Stream: "https://alianzajuridicainteramericana.com/stuff/godkong.mp4"         
+    Stream: "https://alianzajuridicainteramericana.com/stuff/godkong.mp4"
     Live: false
 }
-{   
-    Title: "KUNG FU PANDA 4" 
+{
+    Artist: "web"
+    Title: "[X] KUNG FU PANDA 4"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://editorialge.com/wp-content/uploads/2021/11/Kung-Fu-Panda-4.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/kung.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/kung.mp4"
     Live: false
 }
-{   
-    Title: "DUNE PARTE 2" 
+{
+    Artist: "web"
+    Title: "[X] DUNE PARTE 2"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th/id/OIP.a-BsRmSMW9voWt6c5zfocwAAAA?rs=1&pid=ImgDetMain"
-    Stream: "https://www.polimorhdd.online/stuff/duna2.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/duna2.mp4"
     Live: false
 }
-{   
-    Title: "PAJARO LOCO: SE VA DE CAMPAMENTO" 
+{
+    Artist: "web"
+    Title: "PAJARO LOCO: SE VA DE CAMPAMENTO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVTwb9TZfa_xBKoSWQ7shqjVGQl2XB6gEZLIHyr8GlqbPKoSk63C2NrmXq6KAt9syl6E7EjkC0ifQDVH5gZo2J3TbFDZRWV-bCn6WzfmcEo4oZWjA4oP5-_DG3iYWvVvo2TV3B6ifvHlDNtAlvYLCeMlzADwvAGqq-Mzg70b1wfNvAOLDm5P90RXowvX8z/s800/camp-woo-hoo.jpg"
-    Stream: "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/abr24/Ver%20El%20P%C3%A1jaro%20Loco%20se%20va%20de%20campamento%20online%20HD%20-%20Cuevana%202.mp4"         
+    Stream: "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/abr24/Ver%20El%20P%C3%A1jaro%20Loco%20se%20va%20de%20campamento%20online%20HD%20-%20Cuevana%202.mp4"
     Live: false
 }
-{   
-    Title: "ROOMIE" 
+{
+    Artist: "web"
+    Title: "[X] ROOMIE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://pbs.twimg.com/media/GEd90RjXMAALJ1B.jpg:large"
-    Stream: "https://www.ciudadmaderas.club/stuff/roomie.mp4"         
+    Stream: "https://www.ciudadmaderas.club/stuff/roomie.mp4"
     Live: false
 }
-{   
-    Title: "FIGHTER: DRAGONES DEL AIRE" 
+{
+    Artist: "web"
+    Title: "FIGHTER: DRAGONES DEL AIRE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/6amIq_mP4xM/maxresdefault.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/fighter%202024.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/fighter%202024.mkv"
     Live: false
 }
-{   
-    Title: "JUGUETE DIABOLICO" 
+{
+    Artist: "web"
+    Title: "[X] JUGUETE DIABOLICO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.cinedot.com.mx/CDN/media/entity/get/FilmBackdrop/h-HO00000508?width=1024&referenceScheme=HeadOffice&allowPlaceHolder=true&fallbackMediaType=FilmTitleGraphic"
-    Stream: "https://www.polimorhdd.online/stuff/juguete.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/juguete.mp4"
     Live: false
 }
-{   
-    Title: "ATRAPADOS EN LO PROFUNDO" 
+{
+    Artist: "web"
+    Title: "[X] ATRAPADOS EN LO PROFUNDO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/YF4J9K7UwLs/maxresdefault.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/profundo.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/profundo.mp4"
     Live: false
 }
-{   
-    Title: "BOB MARLEY" 
+{
+    Artist: "web"
+    Title: "[X] BOB MARLEY"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.unotv.com/images/2023/07/one-love-123650-1024x576.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/marley.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/marley.mp4"
     Live: false
 }
-{   
-    Title: "EL PEOR EQUIPO DEL MUNDO" 
+{
+    Artist: "web"
+    Title: "[X] EL PEOR EQUIPO DEL MUNDO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.movienewsletters.net/media/slider/1200x444/303558.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/gol.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/gol.mp4"
     Live: false
 }
-{   
-    Title: "UNICORN WARS" 
+{
+    Artist: "web"
+    Title: "UNICORN WARS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.findelahistoria.com/web/wp-content/uploads/2022/10/Unicorn-Wars-pelicula-2022-Alberto-Vazquez-min-1.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/unicorn%20wars%202022.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/unicorn%20wars%202022.mkv"
     Live: false
 }
-{   
-    Title: "LOS CAZAGRANDES LA PELICULA" 
+{
+    Artist: "web"
+    Title: "LOS CAZAGRANDES LA PELICULA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABXhG6lGmA6XGSdLZrG45YESy0R2Y3GYZAs6VwIH-B6whaovJQqg9j1ovXB_wMNEm9nwpbXPzSRp-aygNROzTlTe8MCsbv5T1tYhB.jpg?r=87f"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20casagrandes%20movie%202024.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20casagrandes%20movie%202024.mkv"
     Live: false
 }
-{   
-    Title: "EL COLOR PURPURA" 
+{
+    Artist: "web"
+    Title: "EL COLOR PURPURA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.colombia.com/sdi/2024/02/06/el-color-purpura-todo-lo-que-debes-saber-de-la-cinta-sinopsis-trailer-fecha-de-estreno-y-elenco-1223279-1.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20color%20purple%202023.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20color%20purple%202023.mkv"
     Live: false
 }
-{   
-    Title: "SOBREVIVIENTES DESPUES DEL TERREMOTO" 
+{
+    Artist: "web"
+    Title: "SOBREVIVIENTES DESPUES DEL TERREMOTO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://grandeslanzamientos.com.co/wp-content/uploads/2024/01/facebook-10-1.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/concrete%20utopia%202023.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/concrete%20utopia%202023.mkv"
     Live: false
 }
-{   
-    Title: "MADAME WEB" 
+{
+    Artist: "web"
+    Title: "MADAME WEB"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.madamewebmovie.com.au/images/share.jpg"
-    Stream: "http://208.88.245.85/hd/Madame.Web.2024.mkv"         
+    Stream: "http://208.88.245.85/hd/Madame.Web.2024.mkv"
     Live: false
 }
-{   
-    Title: "SIMÓN" 
+{
+    Artist: "web"
+    Title: "SIMÓN"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.moobys.es/wp-content/uploads/2024/01/08145755/Simon-2450x700-1.gif"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/simon%202023.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/simon%202023.mkv"
     Live: false
 }
-{   
-    Title: "ARGYLL" 
+{
+    Artist: "web"
+    Title: "[X] ARGYLL"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.apple.com/tv-pr/shows-and-films/a/argylle/images/show-home-graphic-header/key-art-01/16x9/Apple_TV_Argylle_key_art_graphic_header_16_9_show_home.jpg.large_2x.jpg"
-    Stream: "https://www.polimor.club/movies/argyll.mp4"         
+    Stream: "https://www.polimor.club/movies/argyll.mp4"
     Live: false
 }
-
-{   
-    Title: "RED RIGHT HAND" 
+{
+    Artist: "web"
+    Title: "[X] RED RIGHT HAND"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th/id/R.2be9776a5fc463746bddee9624c547b1?rik=cY%2fYp8RT8%2b4iUw&riu=http%3a%2f%2fwww.magpictures.com%2fredrighthand%2fimages%2fposter-fb.jpg&ehk=xoB95sx%2fPS8Ji8uwyzAA0MRiwvRpaK%2fl3ZvliTtvU7Q%3d&risl=&pid=ImgRaw&r=0"
-    Stream: "https://www.polimorhdd.online/stuff/red.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/red.mp4"
     Live: false
 }
-{   
-    Title: "ANATOMIA DE UNA CAIDA" 
+{
+    Artist: "web"
+    Title: "[X] ANATOMIA DE UNA CAIDA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th/id/OIP.lXljOPKj8rmkrnSfrqGNdgHaJQ?rs=1&pid=ImgDetMain"
-    Stream: "https://alianzajuridicainteramericana.com/stuff/caida.mp4"         
+    Stream: "https://alianzajuridicainteramericana.com/stuff/caida.mp4"
     Live: false
 }
-{   
-    Title: "FERRARI" 
+{
+    Artist: "web"
+    Title: "FERRARI"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://premierescene.net/wp-content/uploads/2019/06/Ferrari-Race-to-Immortality.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/ferrari%202023.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/ferrari%202023.mkv"
     Live: false
 }
-{   
-    Title: "MEGAMENTE CONTRA EL SINDICATO DEL MAL" 
+{
+    Artist: "web"
+    Title: "MEGAMENTE CONTRA EL SINDICATO DEL MAL"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://image.tmdb.org/t/p/original/3Kzc6V4MWs3RXCmE5DhAYnfWL8F.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/megamind%20vs%20the%20doom%20syndicate%202024.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/megamind%20vs%20the%20doom%20syndicate%202024.mkv"
     Live: false
 }
-{   
-    Title: "LOS MENOS PRECIADOS" 
+{
+    Artist: "web"
+    Title: "LOS MENOS PRECIADOS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/n1FfDZqiui8/maxresdefault.jpg"
-    Stream: "http://208.88.245.81/nuevo/los.menospreciados.dual.2024.mkv"         
+    Stream: "http://208.88.245.81/nuevo/los.menospreciados.dual.2024.mkv"
     Live: false
 }
-{   
-    Title: "POBRES CRIATURAS" 
+{
+    Artist: "web"
+    Title: "[X] POBRES CRIATURAS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://pbs.twimg.com/media/GFGiJLkaEAAvQqG.jpg"
-    Stream: "https://alianzajuridicainteramericana.com/stuff/pobres.mp4"         
+    Stream: "https://alianzajuridicainteramericana.com/stuff/pobres.mp4"
     Live: false
 }
-{   
-    Title: "PAPÁ O MAMÁ" 
+{
+    Artist: "web"
+    Title: "[X] PAPÁ O MAMÁ"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.sincroguia.tv/uploads/programs/m/a/m/mama-o-papa-824622_SPA-73.jpg"
-    Stream: "https://www.polimor.club/movies/papaomama.mp4"         
+    Stream: "https://www.polimor.club/movies/papaomama.mp4"
     Live: false
 }
-{   
-    Title: "EL APRENDIZ DE TIGRE" 
+{
+    Artist: "web"
+    Title: "EL APRENDIZ DE TIGRE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://image.tmdb.org/t/p/original/acpFrSmVLnTNAIuHxnZArkC3dwU.jpg?language=pt-BR"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20tigers%20apprentice%202024.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20tigers%20apprentice%202024.mkv"
     Live: false
 }
-{   
-    Title: "BEEKEPER EL PROTECTOR" 
+{
+    Artist: "web"
+    Title: "[X] BEEKEPER EL PROTECTOR"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.diariodevenusville.com/wp-content/uploads/2024/01/BEEKEEPER-EL-PROTECTOR-caratula.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/beek.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/beek.mp4"
     Live: false
 }
-{   
-    Title: "UPGRADE PRIMERA CLASE" 
+{
+    Artist: "web"
+    Title: "[X] UPGRADE PRIMERA CLASE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.imgur.com/MU2iEV3.jpeg"
-    Stream: "https://www.polimorhdd.online/stuff/ascenso.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/ascenso.mp4"
     Live: false
 }
-{   
-    Title: "RADICAL" 
+{
+    Artist: "web"
+    Title: "[X] RADICAL"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://thedailytelevision.com/sites/default/files/notas/imagenes/interior/filme_radical_vbig.jpg"
-    Stream: "https://alianzajuridicainteramericana.com/stuff/radical.mp4"         
+    Stream: "https://alianzajuridicainteramericana.com/stuff/radical.mp4"
     Live: false
 }
-{   
-    Title: "CON TODOS MENOS CONMIGO" 
+{
+    Artist: "web"
+    Title: "[X] CON TODOS MENOS CONMIGO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th/id/OIP.a7ytUrHmEf299U1dNmCiIQHaE7?rs=1&pid=ImgDetMain"
-    Stream: "https://www.polimorhdd.online/stuff/todos.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/todos.mp4"
     Live: false
 }
-{   
-    Title: "SEÑORA INFLUENCER" 
+{
+    Artist: "web"
+    Title: "[X] SEÑORA INFLUENCER"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://media.zenfs.com/en/tomatazos_56/439de8b19c591d6441a42491c59dbce5"
-    Stream: "https://www.polimorhdd.online/stuff/senora.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/senora.mp4"
     Live: false
 }
-{   
-    Title: "WISH: EL PODER DE LOS DESEOS" 
+{
+    Artist: "web"
+    Title: "[X] WISH: EL PODER DE LOS DESEOS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/89E131E8986BB4A7EDC4DE1C905DD11C1594CC8E4A916FDC1C7F544EA2B8560F/scale?width=1200&aspectRatio=1.78&format=jpeg"
-    Stream: "https://www.polimorhdd.online/stuff/wish.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/wish.mp4"
     Live: false
 }
-{   
-    Title: "AQUAMAN Y EL REINO PERDIDO" 
+{
+    Artist: "web"
+    Title: "AQUAMAN Y EL REINO PERDIDO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://geekpopnews.com.br/wp-content/uploads/2023/04/aquaman-2-.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/aquaman%20and%20the%20lost%20kingdom%202023.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/aquaman%20and%20the%20lost%20kingdom%202023.mkv"
     Live: false
 }
-{   
-    Title: "PATOS 2023" 
+{
+    Artist: "web"
+    Title: "PATOS 2023"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.prayananimation.com/blog/wp-content/uploads/2023/11/migration-movie.webp"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/migration%202023.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/migration%202023.mkv"
     Live: false
 }
-{   
-    Title: "AGUAS SINIESTRAS" 
+{
+    Artist: "web"
+    Title: "AGUAS SINIESTRAS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/d2ufIBiGtWE/maxresdefault.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/night%20swim%202024.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/night%20swim%202024.mkv"
     Live: false
 }
-{   
-    Title: "ELIJIO CREER" 
+{
+    Artist: "web"
+    Title: "ELIJIO CREER"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://static.misionesonline.news/wp-content/uploads/2023/12/elijo-creer.jpg"
-    Stream: "http://208.88.245.85/nuevo/elijo.creer.latino2024.mkv"         
+    Stream: "http://208.88.245.85/nuevo/elijo.creer.latino2024.mkv"
     Live: false
 }
-{   
-    Title: "WONKA" 
+{
+    Artist: "web"
+    Title: "[X] WONKA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.entertainmentvandaag.nl/wp-content/uploads/2023/07/wonka-film-trailer-2.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/wonka.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/wonka.mp4"
     Live: false
 }
-{   
-    Title: "LIFT UN ROBO DE PRIMERA CLASE" 
+{
+    Artist: "web"
+    Title: "[X] LIFT UN ROBO DE PRIMERA CLASE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://e.rpp-noticias.io/xlarge/2024/01/15/394939_1525234.webp"
-    Stream: "https://www.polimor.club/movies/lift.mp4"         
+    Stream: "https://www.polimor.club/movies/lift.mp4"
     Live: false
 }
-{   
-    Title: "JUEGA O MUERE" 
+{
+    Artist: "web"
+    Title: "[X] JUEGA O MUERE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.diariousach.cl/diario/site/artic/20231109/imag/foto_0000000520231109123919/HO00001113.jpg"
-    Stream: "http://plusxtream.online:80/play/NVOlICMMIaXnV_4e2nAHWhKmGcJijq_sr8Ty1chvcPqhzuvOTimKyDfKiraWodaF#.mkv"         
+    Stream: "http://plusxtream.online:80/play/NVOlICMMIaXnV_4e2nAHWhKmGcJijq_sr8Ty1chvcPqhzuvOTimKyDfKiraWodaF#.mkv"
     Live: false
 }
-{   
-    Title: "NAPOLEON" 
+{
+    Artist: "web"
+    Title: "NAPOLEON"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th/id/R.d1d4fbd9f411fc64982ccee315833276?rik=Z7igBP3somwxfg&riu=http%3a%2f%2fwww.sonypictures.my%2fsites%2fmalaysia%2ffiles%2fstyles%2fmax_1300_x_1300%2fpublic%2f2023-10%2fNPLN_SPEWebsite_Herobanner_0.jpg%3fitok%3dInCIoope&ehk=Pid2Vk4EuMmWNF1y%2bq14w3ibM%2fQbaW3Or1zxFpBE9NI%3d&risl=&pid=ImgRaw&r=0"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/napoleon%202023.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/napoleon%202023.mkv"
     Live: false
 }
-{   
-    Title: "TAYLOR SWIFT THE ERAS TOUR" 
+{
+    Artist: "web"
+    Title: "TAYLOR SWIFT THE ERAS TOUR"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://noticias.radiorama.mx/wp-content/uploads/2023/10/Taylor-Swift-The-Eras-Tour.jpg"
-    Stream: "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/diciembre/Ver%20TAYLOR%20SWIFT%20-%20THE%20ERAS%20TOUR%20online%20HD%20-%20Cuevana%202.mp4"         
+    Stream: "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/diciembre/Ver%20TAYLOR%20SWIFT%20-%20THE%20ERAS%20TOUR%20online%20HD%20-%20Cuevana%202.mp4"
     Live: false
 }
-{   
-    Title: "LA SOCIEDAD DIA DELA NIEVE" 
+{
+    Artist: "web"
+    Title: "LA SOCIEDAD DIA DELA NIEVE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://image.tmdb.org/t/p/w780/yv0vtcYyFZoyL8YDikugeMT41md.jpg"
-    Stream: "http://208.88.245.85/nuevo/la.sociedad.dla.nieve.latino.2024.mkv"         
+    Stream: "http://208.88.245.85/nuevo/la.sociedad.dla.nieve.latino.2024.mkv"
     Live: false
 }
-{   
-    Title: "MUCHACHOS" 
+{
+    Artist: "web"
+    Title: "MUCHACHOS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.sol915.com.ar/wp-content/uploads/2023/12/muchachos-pelicula-mundial-qatar-2023.jpg"
-    Stream: "http://208.88.245.85/nuevo/muchachos.latino.2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/muchachos.latino.2023.mkv"
     Live: false
 }
-{   
-    Title: "REBEL MOON PARTE UNO" 
+{
+    Artist: "web"
+    Title: "[X] REBEL MOON PARTE UNO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://prod.assets.earlygamecdn.com/images/Rebel-Moon-Hub.jpg?transform=banner2x_webp"
-    Stream: "http://zonamovie.live:8080/movie/Herberthlopez/ODHS5645/698217.mkv"         
+    Stream: "http://zonamovie.live:8080/movie/Herberthlopez/ODHS5645/698217.mkv"
     Live: false
 }
-{   
-    Title: "SALTBURN: EL LABERINTO" 
+{
+    Artist: "web"
+    Title: "SALTBURN: EL LABERINTO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://api.baskadia.com/static/content/1779934/2337deb8-2459-4b0f-a7e6-1f52c541b070.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/saltburn%202023.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/saltburn%202023.mkv"
     Live: false
 }
-{   
-    Title: "CHICKEN RUN: EL AMANECER DE LOS NUGGETS" 
+{
+    Artist: "web"
+    Title: "CHICKEN RUN: EL AMANECER DE LOS NUGGETS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th/id/OIP.CLxYZ_cERchDx3x0LwEN5gHaEK?rs=1&pid=ImgDetMain"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/chicken%20run%20dawn%20of%20the%20nugget%202023.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/chicken%20run%20dawn%20of%20the%20nugget%202023.mkv"
     Live: false
 }
-{   
-    Title: "PLAN FAMILIAR" 
+{
+    Artist: "web"
+    Title: "[X] PLAN FAMILIAR"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.apple.com/mx/tv-pr/shows-and-films/t/the-family-plan/images/show-home-graphic-header/key-art-01/4x1/Apple_TV_The_Family_Plan_key_art_graphic_header_4_1_show_home.jpg.medium.jpg"
-    Stream: "https://alianzajuridicainteramericana.com/stuff/planfamiliar.mp4"         
+    Stream: "https://alianzajuridicainteramericana.com/stuff/planfamiliar.mp4"
     Live: false
 }
-{   
-    Title: "EL DIARIO DE GREG EN NAVIDAD: ATRAPADOS EN LA NIEVE" 
+{
+    Artist: "web"
+    Title: "EL DIARIO DE GREG EN NAVIDAD: ATRAPADOS EN LA NIEVE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/83909B577B380D61930A09C3D56EFEC57396DD1633F893DE80D76BD8D0A38B6F/scale?width=1200&aspectRatio=1.78&format=jpeg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/diary%20of%20a%20wimpy%20kid%20christmas%20cabin%20fever%202023.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/diary%20of%20a%20wimpy%20kid%20christmas%20cabin%20fever%202023.mkv"
     Live: false
 }
-{   
-    Title: "FELIZ MINI-BAT NAVIDAD" 
+{
+    Artist: "web"
+    Title: "FELIZ MINI-BAT NAVIDAD"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.lascosasquenoshacenfelices.com/wp-content/uploads/2023/12/be3be3a8-e3fc-4124-96b5-8d6d68c75e7d._UR19201080_SX1440_FMjpg_.jpeg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/merry%20little%20batman%202023.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/merry%20little%20batman%202023.mkv"
     Live: false
 }
-{   
-    Title: "VIAJE TODO ROBADO" 
+{
+    Artist: "web"
+    Title: "[X] VIAJE TODO ROBADO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/vyyg5b2-jPI/maxresdefault.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/viaje.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/viaje.mp4"
     Live: false
 }
-{   
-    Title: "MEJOR NAVIDAD IMPOSIBLE" 
+{
+    Artist: "web"
+    Title: "MEJOR NAVIDAD IMPOSIBLE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://occ-0-444-999.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABYwKNJSjknx5GyE7x4DL8W9EeW4kteSl3MvH0PppnO_fBRUnpU3Dp_zKVEzTLrIMNyOco_LHVhIgNxxpBjrh5YSnJqc1x2JOwO0xfDAz-ND7CIdEBJdYMasZP1qmuP7kz_Mr5LFrmPecQ1ihY-GLrhQMliXyL-ZabnsWOi0y7F_QV6x8tLzlkrhGOWkKbWZMmct49eSp0ruanmRHSVzNhJg03OCIifsEQexf3bWzjuD9DYYDCuDALvfyhMQfP8Jux8JxhwE4atzpDgRaEknBOTOViVz6cekpb8UZnDf_deHeDWSwde1UV3N5Qn5x.jpg?r=dd4"
-    Stream: "http://208.88.245.85/nuevo/mejor.navidad.imposible.dual2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/mejor.navidad.imposible.dual2023.mkv"
     Live: false
 }
-{  
-    Title: "EL SEXTO BUS" 
+{
+    Artist: "web"
+    Title: "EL SEXTO BUS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/G1vnNp7I73I/maxresdefault.jpg"
-    Stream: "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/diciembre/Ver%20El%20Sexto%20Bus%20online%20HD%20-%20Cuevana%202.mp4"         
+    Stream: "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/diciembre/Ver%20El%20Sexto%20Bus%20online%20HD%20-%20Cuevana%202.mp4"
     Live: false
 }
-{   
-    Title: "12 HORAS PARA EL FIN DEL MUNDO" 
+{
+    Artist: "web"
+    Title: "[X] 12 HORAS PARA EL FIN DEL MUNDO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/cYhRjwTgi50/maxresdefault.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/mira.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/mira.mp4"
     Live: false
 }
-{   
-    Title: "THE MARVELS" 
+{
+    Artist: "web"
+    Title: "THE MARVELS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.gamma.app/zrxugjlzcrn367v/3d282fe267ca4cdf8fd9fd15a49aa120/original/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20marvels%202023.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20marvels%202023.mkv"
     Live: false
 }
-{  
-    Title: "LEO" 
+{
+    Artist: "web"
+    Title: "LEO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT52RSKEUHXO84yS4NRj9Olcr9JLrlwb-w0EPm02e6unIoFUhsOXGZS_lt_YCDuuFNVUTI&usqp=CAU"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/leo%202023.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/leo%202023.mkv"
     Live: false
 }
-{   
-    Title: "LOS TIPOS MALOS: UNA NAVIDAD MUY MALA" 
+{
+    Artist: "web"
+    Title: "LOS TIPOS MALOS: UNA NAVIDAD MUY MALA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th/id/OIP.khOE49QlcxMfWS-vChWYTwHaEK?rs=1&pid=ImgDetMain"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20bad%20guys%20a%20very%20bad%20holiday%202023.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20bad%20guys%20a%20very%20bad%20holiday%202023.mkv"
     Live: false
 }
-{   
-    Title: "PRANCER: UN CUENTO DE NAVIDAD" 
+{
+    Artist: "web"
+    Title: "[X] PRANCER: UN CUENTO DE NAVIDAD"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.justwatch.com/images/backdrop/301676656/s640/prancer-un-cuento-de-navidad/prancer-un-cuento-de-navidad"
-    Stream: "http://illoquepasa.xyz:80/play/KDBIm-ac4IHoAs5Y9nCqtVoO72DU0C18l8X0xdKgWRY"         
+    Stream: "http://illoquepasa.xyz:80/play/KDBIm-ac4IHoAs5Y9nCqtVoO72DU0C18l8X0xdKgWRY"
     Live: false
 }
-{   
-    Title: "EL SABOR DE LA NAVIDAD" 
+{
+    Artist: "web"
+    Title: "EL SABOR DE LA NAVIDAD"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://images.vix.com/prd/videos/video:mcp:4484664/5860c2e12a6d94a7422ed2f51e9dafe6"
-    Stream: "http://208.88.245.85/nuevo/el.sabor.dla.navidad.latino2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/el.sabor.dla.navidad.latino2023.mkv"
     Live: false
 }
-{   
-    Title: "LOS NUEVE TRAVIESOS" 
+{
+    Artist: "web"
+    Title: "LOS NUEVE TRAVIESOS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn1.edgedatg.com/aws/v2/dnow/TheNaughtyNine/theme/4321846/942c00ed7568de0d28e0c408cd8b654b/480x270-Q95_942c00ed7568de0d28e0c408cd8b654b.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20naughty%20nine%202023.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20naughty%20nine%202023.mkv"
     Live: false
 }
-{   
-    Title: "LOS ULTIMOS SUPERVIVIENTES" 
+{
+    Artist: "web"
+    Title: "[X] LOS ULTIMOS SUPERVIVIENTES"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/7ea50ab8a25903663e117f5ab668c3af632d0d034baa8c258a1db746b58d13bc._UY500_UX667_RI_TTW_.jpg"
-    Stream: "https://www.polimor.club/movies/survivors.mp4"         
+    Stream: "https://www.polimor.club/movies/survivors.mp4"
     Live: false
 }
-{   
-    Title: "GOLPE A WALL STREET" 
+{
+    Artist: "web"
+    Title: "[X] GOLPE A WALL STREET"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th/id/OIP.sK8Kv5If7eAgbJvd6ASIwwHaEL?rs=1&pid=ImgDetMain"
-    Stream: "https://www.polimor.club/movies/dump.mp4"         
+    Stream: "https://www.polimor.club/movies/dump.mp4"
     Live: false
 }
-{   
-    Title: "EL ARTE DE MATAR" 
+{
+    Artist: "web"
+    Title: "[X] EL ARTE DE MATAR"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://image.tmdb.org/t/p/w780/r91RkmIGadbpsIIVgGh1O3asUp0.jpg"
-    Stream: "https://vod.tuxchannel.mx/peliculas/720/the%20kill%20room%202023.mkv"         
+    Stream: "https://vod.tuxchannel.mx/peliculas/720/the%20kill%20room%202023.mkv"
     Live: false
 }
-{   
-    Title: "LOS ASESINOS DE LA LUNA" 
+{
+    Artist: "web"
+    Title: "[X] LOS ASESINOS DE LA LUNA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.novacinemas.cr/wp-content/uploads/2023/10/Los-asesinos-de-la-luna-de-las-flores.jpg"
-    Stream: "https://www.polimor.club/movies/luna.mp4"         
+    Stream: "https://www.polimor.club/movies/luna.mp4"
     Live: false
 }
-{   
-    Title: "TROLLS 3" 
+{
+    Artist: "web"
+    Title: "[X] TROLLS 3"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/KzmMXT0sHWo/maxresdefault.jpg"
-    Stream: "https://www.polimor.club/movies/trols3.mp4"         
+    Stream: "https://www.polimor.club/movies/trols3.mp4"
     Live: false
 }
-{   
-    Title: "LA PUERTA MAGICA" 
+{
+    Artist: "web"
+    Title: "[X] LA PUERTA MAGICA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://m.media-amazon.com/images/S/pv-target-images/aff6b7764eb7592a4a54e1021b75e42660bb30d3ee4655b563dd4962743064cb.jpg"
-    Stream: "https://www.polimor.club/movies/puerta.mp4"         
+    Stream: "https://www.polimor.club/movies/puerta.mp4"
     Live: false
 }
-{   
-    Title: "UNDERGROUND" 
+{
+    Artist: "web"
+    Title: "[X] UNDERGROUND"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/pUM0A60ffFk/maxresdefault.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/souterrain.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/souterrain.mp4"
     Live: false
 }
-{   
-    Title: "EL ACESINO" 
+{
+    Artist: "web"
+    Title: "[X] EL ACESINO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://ntvb.tmsimg.com/assets/p23903924_v_h10_aa.jpg?w=1280&h=720"
-    Stream: "https://www.polimorhdd.online/stuff/killer.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/killer.mp4"
     Live: false
 }
-{   
-    Title: "ACENSO AL LIMITE" 
+{
+    Artist: "web"
+    Title: "[X] ACENSO AL LIMITE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/KMClMRWUMto/maxresdefault.jpg"
-    Stream: "https://www.polimor.club/movies/summersub.mp4"         
+    Stream: "https://www.polimor.club/movies/summersub.mp4"
     Live: false
 }
-{   
-    Title: "SLY" 
+{
+    Artist: "web"
+    Title: "SLY"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.lavanguardia.com/andro4all/hero/2023/10/sly.jpg?width=768&aspect_ratio=16:9&format=nowebp"
-    Stream: "http://208.88.245.85/nuevo/sly.dual.2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/sly.dual.2023.mkv"
     Live: false
 }
-{   
-    Title: "WELCOME AL NORTE" 
+{
+    Artist: "web"
+    Title: "[X] WELCOME AL NORTE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://mexico.quadratin.com.mx/www/wp-content/uploads/2023/07/image001.jpg"
-    Stream: "https://www.polimor.club/movies/welcome.mp4"         
+    Stream: "https://www.polimor.club/movies/welcome.mp4"
     Live: false
 }
-{   
-    Title: "PAPÁS A LA ANTIGUA" 
+{
+    Artist: "web"
+    Title: "[X] PAPÁS A LA ANTIGUA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsYZ4DJ_CEnKA7AT7COv9euLuKMsJq_UfTJTLkpf7W2bhGO6-b1IANnwJ5Wbxpa8xTkOmIaD5-KT15xaPL-oRx78sHoLCqI1SHysoAKxG-96-Qjx4FpjKdc7QQ_ZWZ5eUkUyI0LaMn9S23WQsbxCN9CKt_y1_Ly3Y1-Zu0mZdvs_Jj7ZeTZoz1EVenOHw/s2048/papas%20a%20la%20antigua%20netflix.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/papas.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/papas.mp4"
     Live: false
 }
-{   
-    Title: "EL CREADOR" 
+{
+    Artist: "web"
+    Title: "[X] EL CREADOR"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://m.media-amazon.com/images/M/MV5BZTI4ZWMzNjYtYWJmNy00NmYyLWFhNTktOWRiMDcxNDY4Yzg1XkEyXkFqcGdeQXVyMTE0MzQwMjgz._V1_QL75_UX500_CR0,13,500,281_.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/creator.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/creator.mp4"
     Live: false
 }
-{   
-    Title: "LEGO AVENGERS: CODIGO ROJO" 
+{
+    Artist: "web"
+    Title: "LEGO AVENGERS: CODIGO ROJO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/17f26397-fad3-4f1c-9503-a7924e05bb2d/dgc30j8-080f747d-4ca2-4500-8ce4-25c540f66d84.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE3ZjI2Mzk3LWZhZDMtNGYxYy05NTAzLWE3OTI0ZTA1YmIyZFwvZGdjMzBqOC0wODBmNzQ3ZC00Y2EyLTQ1MDAtOGNlNC0yNWM1NDBmNjZkODQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SoYMYpqZEb_LLgQrCdKa2HHqkTWvsYYD9SJ19xLOlSU"
-    Stream: "http://208.88.245.85/nuevo/lego.avengers.codigo.rojo.dual2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/lego.avengers.codigo.rojo.dual2023.mkv"
     Live: false
 }
-{   
-    Title: "FIVE NIGHTS AT FREDDYS" 
+{
+    Artist: "web"
+    Title: "FIVE NIGHTS AT FREDDYS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://movies.universalpictures.com/media/06-fnf-dm-mobile-banner-1080x745-n-kr-f01-101923-653b04bb19230-1.jpg"
-    Stream: "http://208.88.245.85/nuevo/fivenight.at.freddys.dual2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/fivenight.at.freddys.dual2023.mkv"
     Live: false
 }
-{   
-    Title: "SAW X" 
+{
+    Artist: "web"
+    Title: "SAW X"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.lavanguardia.com/andro4all/hero/2023/09/saw-x-estreno-en-streaming.png"
-    Stream: "http://208.88.245.85/nuevo/saw.x.dual.2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/saw.x.dual.2023.mkv"
     Live: false
 }
-{   
-    Title: "EL EXORCISTA: CREYENTES" 
+{
+    Artist: "web"
+    Title: "EL EXORCISTA: CREYENTES"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.clarin.com/img/2023/07/25/OFP7ZKqhB_720x0__1.jpg"
-    Stream: "http://208.88.245.85/nuevo/el.exorcista.creyentes.dual2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/el.exorcista.creyentes.dual2023.mkv"
     Live: false
 }
-{   
-    Title: "CASERIA EN VENECIA" 
+{
+    Artist: "web"
+    Title: "CASERIA EN VENECIA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/7erEaIQSCKc/maxresdefault.jpg"
-    Stream: "http://208.88.245.85/nuevo/misterio.en.venecia.dual2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/misterio.en.venecia.dual2023.mkv"
     Live: false
 }
-{   
-    Title: "JUICIO AL DIABLO" 
+{
+    Artist: "web"
+    Title: "JUICIO AL DIABLO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.heavenofhorror.com/wp-content/uploads/2023/10/The-Devil-on-Trial-Netflix-Review.jpg"
-    Stream: "http://208.88.245.85/nuevo/juicio.al.diablo.dual.2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/juicio.al.diablo.dual.2023.mkv"
     Live: false
 }
-{   
-    Title: "CUANDO ACECHA LA MALDAD" 
+{
+    Artist: "web"
+    Title: "[X] CUANDO ACECHA LA MALDAD"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th/id/OIF.STHa6rvfMJql5V4ErM8TYw?pid=ImgDet&rs=1"
-    Stream: "http://cineplay.vip:8080/movie/fcorzo23/UqZqrEkQcY/250118.mkv"         
+    Stream: "http://cineplay.vip:8080/movie/fcorzo23/UqZqrEkQcY/250118.mkv"
     Live: false
 }
-{   
-    Title: "SOUTH PARK: ENTARANDO AL PANDERVERSE" 
+{
+    Artist: "web"
+    Title: "[X] SOUTH PARK: ENTARANDO AL PANDERVERSE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/c883bd2f72c3d0b2ac6da6628bb472d8f20ac90ac3a4ff348c95cbdd8c234258._UY500_UX667_RI_TTW_.jpg"
-    Stream: "http://cineplay.vip:8080/movie/fcorzo23/UqZqrEkQcY/252417.mkv"         
+    Stream: "http://cineplay.vip:8080/movie/fcorzo23/UqZqrEkQcY/252417.mkv"
     Live: false
 }
-{   
-    Title: "LOS INDESTRUCTIBLES 4" 
+{
+    Artist: "web"
+    Title: "[X] LOS INDESTRUCTIBLES 4"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th?id=OIF.c7sVTY%2ftYOgtIzJ1WBJP%2fA&pid=ImgDet&rs=1"
-    Stream: "https://www.polimorhdd.online/stuff/indestructibles.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/indestructibles.mp4"
     Live: false
 }
-{   
-    Title: "JUEGO LIMPIO" 
+{
+    Artist: "web"
+    Title: "[X] JUEGO LIMPIO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://dnm.nflximg.net/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABQfAOpEbKjqSg2BT58g8p-jMZbRaiC1w6YL6orVz6-XgPp4EEiinqop20vRYZQNRuLgpqBMgNpkTVX2A2HCDGQuV5PQL6H51OK-sNXB_QQqF_mVu7A95tDcQqilJJdkCFrPYUw.jpg?r=ef2"
-    Stream: "https://www.polimorhdd.online/stuff/juegolimpio.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/juegolimpio.mp4"
     Live: false
 }
-{   
-    Title: "LA HIJA DEL PRICIONERO" 
+{
+    Artist: "web"
+    Title: "LA HIJA DEL PRICIONERO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/8qeGjnDR4jA/maxresdefault.jpg"
-    Stream: "http://208.88.245.85/nuevo/la.hija.del.prisionero.dual2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/la.hija.del.prisionero.dual2023.mkv"
     Live: false
 }
-{   
-    Title: "A REALLY HAUNTED LOUD HOUSE" 
+{
+    Artist: "web"
+    Title: "A REALLY HAUNTED LOUD HOUSE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i0.wp.com/themoviedb.org/t/p/w780/iOYZbQA4wiMHoVSECQfZSvny6Nw.jpg"
-    Stream: "http://208.88.245.85/nuevo/una.verdadera.familiaembrujada.dual2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/una.verdadera.familiaembrujada.dual2023.mkv"
     Live: false
 }
-{   
-    Title: "PAW PATROL LA SUPER PELICULA" 
+{
+    Artist: "web"
+    Title: "PAW PATROL LA SUPER PELICULA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th/id/OIP.yMAFI4MWVqMLC1l_iMDLewAAAA?pid=ImgDet&rs=1"
-    Stream: "http://208.88.245.85/nuevo/pawpatrol.lasuperpelicula.dual2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/pawpatrol.lasuperpelicula.dual2023.mkv"
     Live: false
 }
-{   
-    Title: "SCOOBY Y KRYPTO AL RESCATE" 
+{
+    Artist: "web"
+    Title: "SCOOBY Y KRYPTO AL RESCATE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/afddc637-0042-4347-a23b-fa25920d380b/dgcbzow-079b5c73-49a8-45b0-9a02-d4ee6d7de621.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FmZGRjNjM3LTAwNDItNDM0Ny1hMjNiLWZhMjU5MjBkMzgwYlwvZGdjYnpvdy0wNzliNWM3My00OWE4LTQ1YjAtOWEwMi1kNGVlNmQ3ZGU2MjEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.W-kqJoWHzDM64sTC_e0hQWJbsvmwsfLi7vV98p5u7rk"
-    Stream: "http://208.88.245.85/nuevo/scooby.ykrypto.alrescate.dual2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/scooby.ykrypto.alrescate.dual2023.mkv"
     Live: false
 }
-{   
-    Title: "FINNICK" 
+{
+    Artist: "web"
+    Title: "FINNICK"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://image.tmdb.org/t/p/w500/rmDsMg9C85PxvCh6oYYVKdY2gKX.jpg"
-    Stream: "http://208.88.245.85/nuevo/finnick.dual2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/finnick.dual2023.mkv"
     Live: false
 }
-{   
-    Title: "NADIE TE SALVARA" 
+{
+    Artist: "web"
+    Title: "[X] NADIE TE SALVARA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.accioncine.es/wp-content/uploads/2023/09/Nadie-te-salvara.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/nadie.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/nadie.mp4"
     Live: false
 }
-{   
-    Title: "SANGRIENTOS DICISEIS" 
+{
+    Artist: "web"
+    Title: "[X] SANGRIENTOS DICISEIS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://image.tmdb.org/t/p/original/qZ8w8yAPsCStPUrfiuLianpGgAZ.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/dulces.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/dulces.mp4"
     Live: false
 }
-{   
-    Title: "CURANDERO" 
+{
+    Artist: "web"
+    Title: "[X] CURANDERO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th/id/OIP.-qGZ4AQNe1fQXH2m2BMT5AHaDA?pid=ImgDet&rs=1"
-    Stream: "https://www.polimorhdd.online/stuff/curandero.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/curandero.mp4"
     Live: false
 }
-{   
-    Title: "CASSANDRO" 
+{
+    Artist: "web"
+    Title: "CASSANDRO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://ntvb.tmsimg.com/assets/p25430190_v_h8_aa.jpg?w=960&h=540"
-    Stream: "http://208.88.245.81/nuevo/casandro.2023dual.mkv"         
+    Stream: "http://208.88.245.81/nuevo/casandro.2023dual.mkv"
     Live: false
 }
-{   
-    Title: "LA MONJA 2" 
+{
+    Artist: "web"
+    Title: "[X] LA MONJA 2"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://diseccionmoon.com/wp-content/uploads/2023/08/1-MII.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/monja.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/monja.mp4"
     Live: false
 }
-{   
-    Title: "MANSION EMBRUJADA 2023" 
+{
+    Artist: "web"
+    Title: "[X] MANSION EMBRUJADA 2023"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://revistahush.com/wp-content/uploads/2023/02/Haunted-Mansion-2.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/mansion.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/mansion.mp4"
     Live: false
 }
-{   
-    Title: "GRAN TURISMO" 
+{
+    Artist: "web"
+    Title: "[X] GRAN TURISMO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://img.remediosdigitales.com/b44ccf/gran-turismo/1366_2000.jpeg"
-    Stream: "https://www.polimorhdd.online/stuff/turismo.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/turismo.mp4"
     Live: false
 }
-{   
-    Title: "EL JUSTICIERO: CAPITULO FINAL" 
+{
+    Artist: "web"
+    Title: "[X] EL JUSTICIERO: CAPITULO FINAL"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/rF9GASqBEfA/maxresdefault.jpg"
-    Stream: "https://www.polimorhdd.online/stuff/equalizer3.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/equalizer3.mp4"
     Live: false
 }
-{   
-    Title: "THE BOOGEYMAN" 
+{
+    Artist: "web"
+    Title: "[X] THE BOOGEYMAN"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.heavenofhorror.com/wp-content/uploads/2023/06/the-boogeyman-2023-review-horror-movie-1200x675.jpg"
-    Stream: "https://www.polimor.club/movies/boogey.mp4"         
+    Stream: "https://www.polimor.club/movies/boogey.mp4"
     Live: false
 }
-{   
-    Title: "SONIDO DE LIBERTAD" 
+{
+    Artist: "web"
+    Title: "SONIDO DE LIBERTAD"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://elcomercio.pe/resizer/BQ81Z88O6nzVGcdTwJ80DYtudyY=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JSAMTULMKVFL3GI2RKRFVVRKAA.jpg"
-    Stream: "http://sdmx.vip:8080/movie/BUZZXCS/RL7NU7/2187489.mp4"         
+    Stream: "http://sdmx.vip:8080/movie/BUZZXCS/RL7NU7/2187489.mp4"
     Live: false
 }
-{   
-    Title: "BLUE BEETLE" 
+{
+    Artist: "web"
+    Title: "[X] BLUE BEETLE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.netflixplans.com/wp-content/uploads/2023/07/Blue-Beettle-Movie.jpg?vqgpb"
-    Stream: "https://www.polimorhdd.online/stuff/blue.mp4"         
+    Stream: "https://www.polimorhdd.online/stuff/blue.mp4"
     Live: false
 }
-{   
-    Title: "CONTRARRELOJ" 
+{
+    Artist: "web"
+    Title: "[X] CONTRARRELOJ"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/WGbEOJMRJ3I/maxresdefault.jpg"
-    Stream: "https://www.polimor.club/movies/retribucion.mp4"         
+    Stream: "https://www.polimor.club/movies/retribucion.mp4"
     Live: false
-}	
-{   
-    Title: "HIPNOSIS: ARMA INVISIBLE" 
+}
+{
+    Artist: "web"
+    Title: "HIPNOSIS: ARMA INVISIBLE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/8LQoMIa0q7I/maxresdefault.jpg"
-    Stream: "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/septiembre/Ver%20Hipnosis-%20Arma%20Invisible%20online%20HD%20-%20Cuevana%202.mp4"         
+    Stream: "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/septiembre/Ver%20Hipnosis-%20Arma%20Invisible%20online%20HD%20-%20Cuevana%202.mp4"
     Live: false
 }
-{   
-    Title: "AMIGOS DE LAS VACACIONES 2" 
+{
+    Artist: "web"
+    Title: "AMIGOS DE LAS VACACIONES 2"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRv60xXDjRpIrTpGMB7bwo4j4GMrgV-I1I2RRAqszX4yuVpVS2e2JUtbnvV4bYDxvTAS8tbrcc9ebOGiSK0mW18d47yZJ1UFPzp2NJF3e1sbGTPnhOEPrXaRQIjNhXZm2uhEJJvZcOcHig10IJotXjd_AHAeIK-wJ7uGJOuXCS2QoAFoWHWN2oaQVwuZI/w640-h360/vlcsnap-2023-08-25-10h53m33s214.png"
-    Stream: "http://208.88.245.85/nuevo/amigos.dlas.vacaciones2.dual.mkv"         
+    Stream: "http://208.88.245.85/nuevo/amigos.dlas.vacaciones2.dual.mkv"
     Live: false
 }
-{   
-    Title: "MEGALODON 2: EL GRAN ABISMO" 
+{
+    Artist: "web"
+    Title: "[X] MEGALODON 2: EL GRAN ABISMO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.blogs.es/732438/meg_two_the_trench_ver22_xxlg/500_333.jpeg"
-    Stream: "https://www.polimor.club/movies/meg2.mp4"         
+    Stream: "https://www.polimor.club/movies/meg2.mp4"
     Live: false
 }
-{   
-    Title: "UNWELCOME" 
+{
+    Artist: "web"
+    Title: "[X] UNWELCOME"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i0.wp.com/theabominabledrwelsh.blog/wp-content/uploads/2023/03/Unwelcome-FEATURE.jpg?fit=1200%2C675&ssl=1"
-    Stream: "https://www.polimor.club/movies/unwelcome.mp4"         
+    Stream: "https://www.polimor.club/movies/unwelcome.mp4"
     Live: false
 }
-{   
-    Title: "SNOOPY PRESENTA: LA INIGUALABLE MARCIE" 
+{
+    Artist: "web"
+    Title: "SNOOPY PRESENTA: LA INIGUALABLE MARCIE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://ntvb.tmsimg.com/assets/p24798205_b_h8_ai.jpg?w=960&h=540"
-    Stream: "http://208.88.245.85/nuevo/snoopypresenta.launicaeinigualable.marcie.dual2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/snoopypresenta.launicaeinigualable.marcie.dual2023.mkv"
     Live: false
 }
-{   
-    Title: "LEGO DISNEY PRINCESAS: AVENTURAS EN EL CASTILLO" 
+{
+    Artist: "web"
+    Title: "LEGO DISNEY PRINCESAS: AVENTURAS EN EL CASTILLO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2B12AAFFC703A3832FD82FA6F905B0A3786A115C64A73BA07701D294E8F1DCBC/scale?width=1200&aspectRatio=1.78&format=jpeg"
-    Stream: "http://208.88.245.85/nuevo/castle.quest.legodisney.princes.dual2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/castle.quest.legodisney.princes.dual2023.mkv"
     Live: false
 }
-{   
-    Title: "EL REY MONO" 
+{
+    Artist: "web"
+    Title: "[X] EL REY MONO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i0.wp.com/enteratehidalgo.com/wp-content/uploads/2023/07/Miniatura-Blog-Enterate-5.png?fit=1821%2C1033&ssl=1"
-    Stream: "https://www.polimor.club/movies/reymono.mp4"         
+    Stream: "https://www.polimor.club/movies/reymono.mp4"
     Live: false
 }
-{   
-    Title: "LOS HABITANTES" 
+{
+    Artist: "web"
+    Title: "LOS HABITANTES"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://img19.tokyvideo.com/videos/297/297834/previews/previews_0012_custom_1690245902.8852.jpg"
-    Stream: "http://208.88.245.85/nuevo/los.habitantes.2023.latino.mkv"         
+    Stream: "http://208.88.245.85/nuevo/los.habitantes.2023.latino.mkv"
     Live: false
 }
-{   
-    Title: "OPPENHEIMER" 
+{
+    Artist: "web"
+    Title: "OPPENHEIMER"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://tvstarsinfo.com/wp-content/uploads/2022/07/oppenheimer-001.jpg"
-    Stream: "http://208.88.245.85/nuevo/oppenheimer.2023.dual.mkv"         
+    Stream: "http://208.88.245.85/nuevo/oppenheimer.2023.dual.mkv"
     Live: false
 }
-{   
-    Title: "ELEMENTAL" 
+{
+    Artist: "web"
+    Title: "[X] ELEMENTAL"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://whatsondisneyplus.com/wp-content/uploads/2023/02/elemental-1024x576.jpg"
-    Stream: "https://www.polimor.club/movies/elemental.mp4"         
+    Stream: "https://www.polimor.club/movies/elemental.mp4"
     Live: false
 }
-{   
-    Title: "MISION IMPOSIBLE SENTENCIA MORTAL - PARTE 1" 
+{
+    Artist: "web"
+    Title: "MISION IMPOSIBLE SENTENCIA MORTAL - PARTE 1"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://noescinetodoloquereluce.com/wp-content/uploads/2022/05/mism1.png"
-    Stream: "http://208.88.245.85/nuevo/misionimposible.senmortal.2023.dual.mkv"         
+    Stream: "http://208.88.245.85/nuevo/misionimposible.senmortal.2023.dual.mkv"
     Live: false
 }
-{   
-    Title: "AGENTE STONE" 
+{
+    Artist: "web"
+    Title: "[X] AGENTE STONE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://occ.a.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABU5DfilVvuChEyL3CPRWRbjUmqxZCPmqex1Su9U9hFVOUmO9XbI_TvfNKeOMrVDQKne7SCbROfuxrPqEvCljWwFfU__wJGdfd-Jf_2axLLwnJmDZnQSUAM2W1sS6giTDgXUQCw.jpg?r=f52"
-    Stream: "https://www.polimor.club/movies/stone.mp4"         
+    Stream: "https://www.polimor.club/movies/stone.mp4"
     Live: false
 }
-{   
-    Title: "LOS TRES MOSQUETEROS" 
+{
+    Artist: "web"
+    Title: "[X] LOS TRES MOSQUETEROS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.periodicoelmosquito.com/wp-content/uploads/2023/03/BANNER.jpg"
-    Stream: "https://www.polimor.club/movies/mosqueteros.mp4"         
+    Stream: "https://www.polimor.club/movies/mosqueteros.mp4"
     Live: false
 }
-{   
-    Title: "LA FIEBRE DE LOS PELUCHES" 
+{
+    Artist: "web"
+    Title: "LA FIEBRE DE LOS PELUCHES"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCgIFTFS9-eXitsZfR-WZIPVy7UXgMq9YMKmjR5aqCl8phtEPcBgkHb34jj18XDCK3-VKgoPVXMbpFIbDowfYfjiMtwrBOW8xv8A4E0AqH-BN1clgT73qI9PKUw93__dFOpJ1hHC0gPUTxrS56s77XOp-GHa_SfR6XaZQ54mZip29P_reE5w5nOkKZ15U/s1200/la%20fiebre%20de%20los%20peluches%20beanie.jpg"
-    Stream: "http://208.88.245.81/nuevo/la.fiebre.dlos.peluches.beanie.dual2023.mkv"         
+    Stream: "http://208.88.245.81/nuevo/la.fiebre.dlos.peluches.beanie.dual2023.mkv"
     Live: false
 }
-{   
-    Title: "ZOEY 102" 
+{
+    Artist: "web"
+    Title: "ZOEY 102"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/06/zoey-102-header.jpg"
-    Stream: "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/agosto/Watch%20Zoey%20102%202023%201080p%20Latino%20mkv.mp4"         
+    Stream: "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/agosto/Watch%20Zoey%20102%202023%201080p%20Latino%20mkv.mp4"
     Live: false
 }
-{   
-    Title: "QUIZAS PARA SIEMPRE" 
+{
+    Artist: "web"
+    Title: "QUIZAS PARA SIEMPRE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b1289b5177beca285fa1eaeaf257e7d36ac0628a257cdfc973afe999c44a97e5._UY500_UX667_RI_TTW_.jpg"
-    Stream: "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/agosto/Watch%20maybe%202023%20lat%201080p%20mp4.mp4"         
+    Stream: "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/agosto/Watch%20maybe%202023%20lat%201080p%20mp4.mp4"
     Live: false
 }
-{   
-    Title: "SPIDER-MAN:ACROSS THE SPIDER-VERSE" 
+{
+    Artist: "web"
+    Title: "SPIDER-MAN:ACROSS THE SPIDER-VERSE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th?id=OIF.26hdz9A5K5mKY7S0%2bdTZsw&pid=ImgDet&rs=1"
-    Stream: "http://208.88.245.85:80/nuevo/spiderm.atravesdelspiderverso.2023dual.mkv"         
+    Stream: "http://208.88.245.85:80/nuevo/spiderm.atravesdelspiderverso.2023dual.mkv"
     Live: false
 }
-{   
-    Title: "INSIDIOUS: LA PUERTA ROJA" 
+{
+    Artist: "web"
+    Title: "INSIDIOUS: LA PUERTA ROJA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/CiEmz8KOg9o/maxresdefault.jpg"
-    Stream: "http://208.88.245.81/nuevo/insidiuos.puertaroja.dual2023.mkv"         
+    Stream: "http://208.88.245.81/nuevo/insidiuos.puertaroja.dual2023.mkv"
     Live: false
 }
-{   
-    Title: "PROYECTO EXTRACCIÓN" 
+{
+    Artist: "web"
+    Title: "[X] PROYECTO EXTRACCIÓN"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://occ-0-58-32.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABfe66o78w6nwSI8X71cj6YBeBJek40jxOcxIdqT90KT4y2eH4zAg418bIQaYdVPULslIt-P6TcH8vIM_ctdhzejnQDgfKfi0PGcA.jpg?r=84d"
-    Stream: "https://ia902704.us.archive.org/15/items/01_20230801_20230801_2036/01.mp4"         
+    Stream: "https://ia902704.us.archive.org/15/items/01_20230801_20230801_2036/01.mp4"
     Live: false
 }
-{   
-    Title: "MIRACULOUS LAS AVENTURAS DE LADYBUG LA PELICULA" 
+{
+    Artist: "web"
+    Title: "[X] MIRACULOUS LAS AVENTURAS DE LADYBUG LA PELICULA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://larepublica.cronosmedia.glr.pe/original/2023/07/17/64b5e6118af57816854e7855.jpg"
-    Stream: "https://ia802707.us.archive.org/33/items/01_20230801_20230801_2115/01.mp4"         
+    Stream: "https://ia802707.us.archive.org/33/items/01_20230801_20230801_2115/01.mp4"
     Live: false
 }
-{   
-    Title: "INVINCIBLE: ATOM EVE" 
+{
+    Artist: "web"
+    Title: "[X] INVINCIBLE: ATOM EVE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://m.media-amazon.com/images/I/91RDJ47IY6L._RI_.jpg"
-    Stream: "https://ia802707.us.archive.org/29/items/01_20230801_20230801_2052/01.mp4"         
+    Stream: "https://ia802707.us.archive.org/29/items/01_20230801_20230801_2052/01.mp4"
     Live: false
 }
-{   
-    Title: "PARADISE" 
+{
+    Artist: "web"
+    Title: "[X] PARADISE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://occ-0-34-56.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABeJ2FzjUpaz-U_KzmVm9QzEBxJZ-UcFUcn8AbJahKr9sDvuPd7SEE3Jad0H908FhmqrmoHN9kg_3sqkgj_CssWxV8fh0DwNYASsnSyhIb5fi_ScMhe32R8olkfPjvtOdfsVcqA.jpg?r=5cb"
-    Stream: "https://ia802705.us.archive.org/17/items/01_20230801_20230801_2301/01.mp4"         
+    Stream: "https://ia802705.us.archive.org/17/items/01_20230801_20230801_2301/01.mp4"
     Live: false
 }
-{   
-    Title: "ZOM 100:COSAS QUE QUIERO HACER ANTES DE COMVERTIRME EN ZOMBIE" 
+{
+    Artist: "web"
+    Title: "ZOM 100:COSAS QUE QUIERO HACER ANTES DE COMVERTIRME EN ZOMBIE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://images.gids.tv/films/77850/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-1691311108898.jpg?watermark%5Btext%5D=Bron%3A+Netflix"
-    Stream: "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/agosto/Ver%20Zom%20100-%20Cien%20cosas%20que%20quiero%20hacer%20antes%20de%20convertirme%20en%20zombi%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4"         
+    Stream: "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/agosto/Ver%20Zom%20100-%20Cien%20cosas%20que%20quiero%20hacer%20antes%20de%20convertirme%20en%20zombi%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4"
     Live: false
 }
-{   
-    Title: "OPERACION KANDAHAR" 
+{
+    Artist: "web"
+    Title: "[X] OPERACION KANDAHAR"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://ep01.epimg.net/tematicos/imagenes/2023/06/02/elpaismas/1685705970_191316_1685707446_noticia_normal.jpg"
-    Stream: "https://ia802706.us.archive.org/12/items/01_20230801_20230801_2103/01.mp4"         
+    Stream: "https://ia802706.us.archive.org/12/items/01_20230801_20230801_2103/01.mp4"
     Live: false
 }
-{   
-    Title: "FELICIDAD PARA PRINCIPIANTES" 
+{
+    Artist: "web"
+    Title: "[X] FELICIDAD PARA PRINCIPIANTES"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.justwatch.com/images/backdrop/306189834/s640/happiness-for-beginners"
-    Stream: "https://ia902704.us.archive.org/14/items/01_20230801_20230801_2211/01.mp4"         
+    Stream: "https://ia902704.us.archive.org/14/items/01_20230801_20230801_2211/01.mp4"
     Live: false
 }
-{   
-    Title: "LA SIRENITA" 
+{
+    Artist: "web"
+    Title: "LA SIRENITA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://image.tmdb.org/t/p/original/lvtdCBUmxT3CZ7T7wIFFy8rhEeb.jpg"
-    Stream: "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/julio/Ver%20La%20sirenita%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4"         
+    Stream: "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/julio/Ver%20La%20sirenita%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4"
     Live: false
 }
-{   
-    Title: "RESIDENT EVIL: DEATH ISLAND" 
+{
+    Artist: "web"
+    Title: "RESIDENT EVIL: DEATH ISLAND"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://viciados.net/wp-content/uploads/2023/06/Resident-Evil-Death-Island-Sony-Blu-Ray-July-25.webp"
-    Stream: "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/julio/Ver%20Resident%20Evil-%20Death%20Island%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4"         
+    Stream: "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/julio/Ver%20Resident%20Evil-%20Death%20Island%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4"
     Live: false
 }
-{   
-    Title: "KRAKENS Y SIRENAS" 
+{
+    Artist: "web"
+    Title: "KRAKENS Y SIRENAS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://assets.adnradio.cl/2023/05/Krakens-y-sirenas-Conoce-a-los-Gillman-tr%C3%A1iler-925x470.jpg"
-    Stream: "http://208.88.245.85/nuevo/krakensysirenas.dual2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/krakensysirenas.dual2023.mkv"
     Live: false
 }
-{   
-    Title: "LA LEYENDA DE LOS CHANEQUES" 
+{
+    Artist: "web"
+    Title: "LA LEYENDA DE LOS CHANEQUES"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/zucwp4eKqLs/maxresdefault.jpg"
-    Stream: "http://208.88.245.85/nuevo/la.leyenda.delos.chaneques.ltino2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/la.leyenda.delos.chaneques.ltino2023.mkv"
     Live: false
 }
-{   
-    Title: "LA LIGA DE LA JUSTICIA: WARWORLD" 
+{
+    Artist: "web"
+    Title: "[X] LA LIGA DE LA JUSTICIA: WARWORLD"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://images.alphacoders.com/131/1318672.jpeg"
-    Stream: "https://ia902707.us.archive.org/4/items/01_20230801_20230801_2043/01.mp4"         
+    Stream: "https://ia902707.us.archive.org/4/items/01_20230801_20230801_2043/01.mp4"
     Live: false
 }
-{   
-    Title: "EL CLON DE TYRONE" 
+{
+    Artist: "web"
+    Title: "EL CLON DE TYRONE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://areajugones.sport.es/wp-content/uploads/2023/07/el-clon-de-tyrone-final-explicado.jpg"
-    Stream: "http://208.88.245.85/nuevo/el.clon.de.tyrone.dual2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/el.clon.de.tyrone.dual2023.mkv"
     Live: false
 }
-{   
-    Title: "MISANTROPO" 
+{
+    Artist: "web"
+    Title: "MISANTROPO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.otrasyerbasrock.com/wp-content/uploads/2023/05/Misantropo-portada-OYR.png"
-    Stream: "https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis/julio/Ver%20Misa%CC%81ntropo%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4"         
+    Stream: "https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis/julio/Ver%20Misa%CC%81ntropo%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4"
     Live: false
 }
-{   
-    Title: "BIRD BOX BARCELONA" 
+{
+    Artist: "web"
+    Title: "BIRD BOX BARCELONA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.elincorrecto.mx/wp-content/uploads/2023/07/bird-box-barcelona.jpg"
-    Stream: "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/julio/Ver%20Bird%20Box%20Barcelona%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4"         
+    Stream: "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/julio/Ver%20Bird%20Box%20Barcelona%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4"
     Live: false
 }
-{   
-    Title: "LIONEL MESSI DESTINY" 
+{
+    Artist: "web"
+    Title: "LIONEL MESSI DESTINY"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://media.ambito.com/p/637ea1963883202552179dc53e1d4770/adjuntos/239/imagenes/040/826/0040826914/documental-messi-bbcjpg.jpg"
-    Stream: "http://208.88.245.85/nuevo/lionelmessi.destiny.2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/lionelmessi.destiny.2023.mkv"
     Live: false
 }
-{   
-    Title: "SHOOTING STAR" 
+{
+    Artist: "web"
+    Title: "SHOOTING STAR"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.justwatch.com/images/backdrop/306560708/s640/shooting-stars-2023"
-    Stream: "http://208.88.245.85/nuevo/shooting.stars.dual2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/shooting.stars.dual2023.mkv"
     Live: false
 }
-{   
-    Title: "FLASH 2023" 
+{
+    Artist: "web"
+    Title: "[X] FLASH 2023"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://iforum-de.c.hihonor.com/es_data/images/10000/2023/6/13/178ae5ad-c811-4df2-ac84-59f9c02f5ed4.jpg"
-    Stream: "https://www.alianzajuridicainteramericana.com/movies/flash.mp4"         
+    Stream: "https://www.alianzajuridicainteramericana.com/movies/flash.mp4"
     Live: false
 }
-{   
-    Title: "TIBURON NEGRO" 
+{
+    Artist: "web"
+    Title: "[X] TIBURON NEGRO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.loslunesseriefilos.com/wp-content/uploads/2023/06/tiburon-negro-pelicula.jpg"
-    Stream: "https://www.alianzajuridicainteramericana.com/movies/demonionero.mp4"         
+    Stream: "https://www.alianzajuridicainteramericana.com/movies/demonionero.mp4"
     Live: false
 }
-{   
-    Title: "UNOS SUEGROS DE ARMAS TOMAR" 
+{
+    Artist: "web"
+    Title: "UNOS SUEGROS DE ARMAS TOMAR"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.findelahistoria.com/web/wp-content/uploads/2023/07/Unos-suegros-de-armas-tomar-0.jpg"
-    Stream: "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/julio/Ver%20Unos%20suegros%20de%20armas%20tomar%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4"         
+    Stream: "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/julio/Ver%20Unos%20suegros%20de%20armas%20tomar%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4"
     Live: false
 }
-{   
-    Title: "BLACK CLOVER: LA ESPADA DEL REY MAGO" 
+{
+    Artist: "web"
+    Title: "[X] BLACK CLOVER: LA ESPADA DEL REY MAGO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://e.radio-grpp.io/normal/2022/12/02/075907_1354836.jpg"
-    Stream: "https://archive.org/download/01_20230623_20230623_1910/01.mp4"         
+    Stream: "https://archive.org/download/01_20230623_20230623_1910/01.mp4"
     Live: false
 }
-{   
-    Title: "LA NIÑA DE LA COMUNION" 
+{
+    Artist: "web"
+    Title: "LA NIÑA DE LA COMUNION"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.diariodevenusville.com/wp-content/uploads/2023/02/LA-NINA-DE-LA-COMUNION-carat.jpg"
-    Stream: "http://208.88.245.85:80/nuevo/la.nina.dela.comunion.2023cast.mkv"         
+    Stream: "http://208.88.245.85:80/nuevo/la.nina.dela.comunion.2023cast.mkv"
     Live: false
 }
-{   
-    Title: "OFRENDA AL DEMONIO" 
+{
+    Artist: "web"
+    Title: "OFRENDA AL DEMONIO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://enterados.pe/wp-content/uploads/2023/01/ofrenda-al-demonio-peli-640x360.jpg"
-    Stream: "http://208.88.245.85/nuevo/ofrenda.aldemonio.dual.2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/ofrenda.aldemonio.dual.2023.mkv"
     Live: false
 }
-{   
-    Title: "NIMONA" 
+{
+    Artist: "web"
+    Title: "[X] NIMONA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://ntvb.tmsimg.com/assets/p23924603_v_h8_aa.jpg?w=1280&h=720"
-    Stream: "http://tv.pro-ott.com:25443/movie/S099G634LK/MRYDTW5VYK/275414.mkv"         
+    Stream: "http://tv.pro-ott.com:25443/movie/S099G634LK/MRYDTW5VYK/275414.mkv"
     Live: false
 }
-{   
-    Title: "SUZUME" 
+{
+    Artist: "web"
+    Title: "[X] SUZUME"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://jovemnerd.com.br/wp-content/uploads/2022/12/suzume_main_kv_16x9__1631h40w-760x428.png"
-    Stream: "https://taraturismo.com/stuff/susume.mp4"         
+    Stream: "https://taraturismo.com/stuff/susume.mp4"
     Live: false
 }
-{   
-    Title: "MISION RESCATE 2"
+{
+    Artist: "web"
+    Title: "[X] MISION RESCATE 2"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.bolavip.com%2Fwebp%2Fcl%2Ffull%2FBCL_20230617_BCL_10062_mision-de-rescate-2-como-se-hizo-la-increible-escena-de-persecucion-ok-scaled.webp&width=490&height=275"
-    Stream: "http://playhispano.org:8080/movie/userlw/led5120/244071.mkv"         
+    Stream: "http://playhispano.org:8080/movie/userlw/led5120/244071.mkv"
     Live: false
 }
-{   
-    Title: "EL PACTO (THE COVENANT)" 
+{
+    Artist: "web"
+    Title: "EL PACTO (THE COVENANT)"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://starsmydestination.files.wordpress.com/2023/06/el-pacto-portada-02.jpg?w=1200"
-    Stream: "http://208.88.245.81/nuevo/el.pacto.2023dual.mkv"         
+    Stream: "http://208.88.245.81/nuevo/el.pacto.2023dual.mkv"
     Live: false
 }
-{   
-    Title: "LA USURPADORA"
+{
+    Artist: "web"
+    Title: "[X] LA USURPADORA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://stateless-fueradefoco.storage.googleapis.com/wp-content/uploads/2023/04/13204506/Videocine-cine-mexicano-la-usurp-1024x576.webp"
-    Stream: "http://00322.xyz:8000/movie/saabj84/CNGUPDY6RA/162724.mkv"         
+    Stream: "http://00322.xyz:8000/movie/saabj84/CNGUPDY6RA/162724.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "FLAMIN’ HOT: EL SABOR QUE CAMBIO LA HISTORIA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://geekzilla.tech/home/wp-content/uploads/2023/06/FLAMIN-HOT-STAR-DISNEY-JPG-1024x704.jpg"
-    Stream: "http://208.88.245.85/nuevo/flaminhot.2023dual.mkv"         
+    Stream: "http://208.88.245.85/nuevo/flaminhot.2023dual.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "RAPIDOS Y FURIOSOS X"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/sdNv9aUf900/maxresdefault.jpg"
-    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis/junn/Ver%20R%C3%A1pidos%20y%20furiosos%20X%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4"         
+    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis/junn/Ver%20R%C3%A1pidos%20y%20furiosos%20X%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "LA MADRE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://cuarteldelmetal.com/wp-content/uploads/2023/05/The-Mother.jpeg"
-    Stream: "http://208.88.245.85/nuevo/la.madre.dual.2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/la.madre.dual.2023.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "SUPER MARIO BROTHERS: LA PELICULA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.nintenderos.com/wp-content/uploads/2023/02/pelicula-marios.jpg"
-    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20S%C3%BAper%20Mario%20Bros-%20La%20pel%C3%ADcula%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4"         
+    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20S%C3%BAper%20Mario%20Bros-%20La%20pel%C3%ADcula%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "EVIL DEAD RISE: EL DESPERTAR"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://img.asmedia.epimg.net/resizer/o8og0pk6o2mG-WteJlnbFjPBKi8=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/RPOHCYGEK5GYJFS4OGALB6OKVI.jpg"
-    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis/mayooo/Ver%20Evil%20Dead-%20El%20despertar%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4"         
+    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis/mayooo/Ver%20Evil%20Dead-%20El%20despertar%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "RENFIELD: ASISTENTE DE VAMPIRO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i0.wp.com/movsgold.com/wp-content/uploads/2023/04/Renfield-Asistente-de-vampiro-Fecha-estreno-en-Peru-sinopsis-reparto-poster-y-mas-Movsgold.jpg?fit=1200%2C675&ssl=1"
-    Stream: "http://208.88.245.81/nuevo/renfield.asistdvampiro.dual2023.mkv"         
+    Stream: "http://208.88.245.81/nuevo/renfield.asistdvampiro.dual2023.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "EL EXORCISTA DEL PAPA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/Ot1TSAoKma4/maxresdefault.jpg"
-    Stream: "http://208.88.245.85/nuevo/el.exorcistadelpapa.dual2023.mkv"         
+    Stream: "http://208.88.245.85/nuevo/el.exorcistadelpapa.dual2023.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "CALABOZOS Y DRAGONES: HONOR ENTRE LADRONES"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://dx35vtwkllhj9.cloudfront.net/paramountpictures/dungeons-and-dragons-honor-among-thieves/images/regions/mx/share.jpg"
-    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis/abril/Ver%20Calabozos%20&%20Dragones-%20Honor%20entre%20ladrones%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4"         
+    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis/abril/Ver%20Calabozos%20&%20Dragones-%20Honor%20entre%20ladrones%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "SCREAM 6"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.diariodevenusville.com/wp-content/uploads/2023/03/SCREAM-VI-carat.jpg"
-    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis/abril/Ver%20Scream%20VI%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4"         
+    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis/abril/Ver%20Scream%20VI%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "GHOSTEADO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/ve96Bzj7cnY/maxresdefault.jpg"
-    Stream: "http://208.88.245.81/nuevo/ghosted.dual.2023.mkv"         
+    Stream: "http://208.88.245.81/nuevo/ghosted.dual.2023.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "JOHN WICK 4"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://popculturetimes.com/wp-content/uploads/2020/09/John-Wick-Chapter-4-release-date-696x425.jpg"
-    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20John%20Wick%204%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4"       
+    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20John%20Wick%204%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4"
     Live: false
 }
-{   
-    Title: "ANT-MAN Y LA AVISPA: QUANTUMANIA"
+{
+    Artist: "web"
+    Title: "[X] ANT-MAN Y LA AVISPA: QUANTUMANIA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://cinescape.kinsta.cloud/wp-content/uploads/2021/06/Antman-and-the-wasp-Quantumania-1-1024x512-1-750x430.jpg"
-    Stream: "http://51.81.208.167/pelis2023/Ant-Man.and.the.Wasp.Quantumania.2023.720p-dual-lat.mkv"         
+    Stream: "http://51.81.208.167/pelis2023/Ant-Man.and.the.Wasp.Quantumania.2023.720p-dual-lat.mkv"
     Live: false
 }
-{   
-    Title: "OSO INTOXICADO"
+{
+    Artist: "web"
+    Title: "[X] OSO INTOXICADO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/oSRbvkB1I3U/maxresdefault.jpg"
-    Stream: "http://playhispano.org:25461/movie/eliaseggy787/JRZpSNT6Bv/199766.mkv"         
+    Stream: "http://playhispano.org:25461/movie/eliaseggy787/JRZpSNT6Bv/199766.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "EL GATO CON BOTAS: EL ÚLTIMO DESEO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.moviementarios.com/wp-content/uploads/2022/11/MV5BNzY3ODU5MjMtZTFjMi00YTUxLWIwMzctNWRiMTliMWYzZWU5XkEyXkFqcGdeQXVyMTUxNTU1NzEz._V1_.jpg"
-    Stream: "https://d1yei2z3i6k35z.cloudfront.net/2104853/63b8e638cabec_1GCBNuerm4ok_F.mp4"         
+    Stream: "https://d1yei2z3i6k35z.cloudfront.net/2104853/63b8e638cabec_1GCBNuerm4ok_F.mp4"
     Live: false
 }
-{   
-    Title: "MINIONS AND MORE VOLUMEN 2"
+{
+    Artist: "web"
+    Title: "[X] MINIONS AND MORE VOLUMEN 2"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*6281*8444_8_muochl_mvg%5Bwmn%5Bzkr%5Be3%5B3tnef7scwumJ44OAAqbaBI5paTp%5BZZZZYuzO5Hx9pbj2ppfthO5tI3B3NJSLHaDeNjFWaHwFZkzKdwHqEeHe5WhDrow2A04NcYDzRpOEyr2Nly2UQ5fy5eXwotlMBDUPFiV.jpg"
-    Stream: "https://www.mediafire.com/file/kxqfs1bi9vp99pr/MNOSANDMORE2.mp4/file"         
+    Stream: "https://www.mediafire.com/file/kxqfs1bi9vp99pr/MNOSANDMORE2.mp4/file"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "MIRA POR MI"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://image.tmdb.org/t/p/w500/tzNx4y7kYf1Xw3F3T6QxrE7PPwb.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/see%20for%20me%202022.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/see%20for%20me%202022.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "PRESENCIAS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.informador.mx/__export/1662084712848/sites/elinformador/img/2022/09/01/whatsapp_image_2022-09-01_at_8_25_48_pm_crop1662084481317.jpeg_554688468.jpeg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/presencias%202022.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/presencias%202022.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "¡NOPE!"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.filmyt.com/wp-content/uploads/2021/08/nope-2022.jpg"
-    Stream: "https://d1yei2z3i6k35z.cloudfront.net/2104853/6314218e2ebc7_54NPNumero4k_T.mp4"         
+    Stream: "https://d1yei2z3i6k35z.cloudfront.net/2104853/6314218e2ebc7_54NPNumero4k_T.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "TOP GUN MAVERICK"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/zzBIzYmxatU/maxresdefault.jpg"
-    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fagosto%2FVer%20Top%20Gun-%20Maverick%20(2022)%20Online%20%E2%80%93%20CineHDPlus.mp4"         
+    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fagosto%2FVer%20Top%20Gun-%20Maverick%20(2022)%20Online%20%E2%80%93%20CineHDPlus.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "EL ACENSO DE LAS TORTUGAS NINJA: LA PELICULA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.gamelivestory.com/images/article/netflix-unveils-action-packed-trailer-for-rise-of-the-teenage-mutant-ninja-turtles-the-movie-main.webp"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/rise%20of%20the%20teenage%20mutant%20ninja%20turtles%20the%20movie%202022.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/rise%20of%20the%20teenage%20mutant%20ninja%20turtles%20the%20movie%202022.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "DOBLEMENTE ENBARAZADA 2"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.justwatch.com/images/backdrop/296281138/s640/doblemente-embarazada-2-2022"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/doblemente%20embarazada%202%202022.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/doblemente%20embarazada%202%202022.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "SED DE VENGANZA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/5geYfqTqTcE/maxresdefault.jpg"
-    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjulio%2FVer%20Sed%20de%20Venganza%20(2022)%20Online%20%E2%80%93%20CineHDPlus_2.mp4"         
+    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjulio%2FVer%20Sed%20de%20Venganza%20(2022)%20Online%20%E2%80%93%20CineHDPlus_2.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "EVERYTHING EVERYWHERE ALL AT ONCE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/05/wallpapersden.com_official-everything-everywhere-all-at-once-hd_2828x1591-scaled.jpg?fit=2560%2C1440&quality=50&strip=all&ssl=1"
-    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjulio%2FVer%20Todo%20En%20Todas%20Partes%20Al%20Mismo%20Tiempo%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4"         
+    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjulio%2FVer%20Todo%20En%20Todas%20Partes%20Al%20Mismo%20Tiempo%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "DAKOTA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://m.media-amazon.com/images/M/MV5BZjcwNzFhZmMtZWEwZi00ODczLTlmMjQtZjI1MmEwNzU0MmQ3XkEyXkFqcGdeQXVyNTIzODcxNDM@._V1_.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/dakota%202022.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/dakota%202022.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "¿Y COMO ES EL?"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/WBp8wf3EkJw/maxresdefault.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/y%20como%20es%20el%202022.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/y%20como%20es%20el%202022.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "LA CABEZA DE ARAÑA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://juegodedragones.xyz/wp-content/uploads/2022/05/la-cabeza-de-la-arana-netflix-1030x579.jpg"
-    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjuniio%2FVer%20La%20Cabeza%20de%20la%20Ara%C3%B1a%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4"         
+    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjuniio%2FVer%20La%20Cabeza%20de%20la%20Ara%C3%B1a%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "DOCTOR STRANGE: MULTIVERSO DE LA LOCURA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.pdvg.it/wp-content/uploads/2020/01/Doctor-Strange-2.jpg"
-    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjuniio%2FVer%20Doctor%20Strange%20en%20el%20multiverso%20de%20la%20locura%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4"         
+    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjuniio%2FVer%20Doctor%20Strange%20en%20el%20multiverso%20de%20la%20locura%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "UN DIA PARA MORIR"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/RmFbtpPo-xg/maxresdefault.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/a%20day%20to%20die%202022.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/a%20day%20to%20die%202022.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "KING TWEETY"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://pic-bstarstatic.akamaized.net/ugc/1e458f01aa2e5e5b2dc978f987064292.jpg@960w_540h_1e_1c_1f.webp"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/king%20tweety%202022.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/king%20tweety%202022.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "DOG: UN VIAJE SALVAJE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://as01.epimg.net/meristation/imagenes/2022/04/21/reportajes/1650537596_832056_1650539103_noticia_normal.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/dog%202022.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/dog%202022.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "EL PESO DEL TALENTO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://nerdreactor.com/wp-content/uploads/2022/04/the-unbearable-weight-of-massive-talent.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20unbearable%20weight%20of%20massive%20talent%202022.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20unbearable%20weight%20of%20massive%20talent%202022.mkv"
     Live: false
 }
-{  
+{
+    Artist: "web"
     Title: "ANIMALES FANTASTICOS: LOS SECRETOS DE DOMBLEDORE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://sm.ign.com/t/ign_latam/screenshot/default/animales_hy14.1280.jpg"
-    Stream: "https://d1yei2z3i6k35z.cloudfront.net/2104853/6295211c4c1dd_85AFLSDDNumero4k_A.mp4"         
+    Stream: "https://d1yei2z3i6k35z.cloudfront.net/2104853/6295211c4c1dd_85AFLSDDNumero4k_A.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "CORAZÓN DE FUEGO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://locosxlosjuegos.com/wp-content/uploads/2022/02/Corazon-de-Fuego-Portada.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/fireheart%202022.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/fireheart%202022.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "CHIP Y DALE: AL RESCATE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://image.tmdb.org/t/p/w780/qK7Ssnrfvrt65F66A1thvehfQg2.jpg"
-    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fmayo%2F%E2%96%B7%20Ver%20Chip%20y%20Dale-%20Al%20Rescate%20(2022)%20Pel%C3%ADcula%20Online%20Latino.mp4"         
+    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fmayo%2F%E2%96%B7%20Ver%20Chip%20y%20Dale-%20Al%20Rescate%20(2022)%20Pel%C3%ADcula%20Online%20Latino.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "KING: REGRESO A CASA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/xlVlX8Vngyc/maxresdefault.jpg"
-    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fmayo%2FVer%20King-%20Regreso%20a%20casa%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4"         
+    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fmayo%2FVer%20King-%20Regreso%20a%20casa%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "MORBIUS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://s1.dmcdn.net/v/Rulxg1U7YlvACUdIP/x1080"
-    Stream: "https://d1yei2z3i6k35z.cloudfront.net/2104853/62838bfd28d5f_44MRBIUSNumero4k_T.mp4"         
+    Stream: "https://d1yei2z3i6k35z.cloudfront.net/2104853/62838bfd28d5f_44MRBIUSNumero4k_T.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "LOS TIPOS MALOS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i0.wp.com/cuatrobastardos.com/wp-content/uploads/2022/03/the-bad-guys-share-image-v2.jpeg?resize=678%2C381&ssl=1"
-    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fmayo%2F%E2%96%B7%20Ver%20Los%20Tipos%20Malos%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4"         
+    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fmayo%2F%E2%96%B7%20Ver%20Los%20Tipos%20Malos%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "JACKASS FOREVER"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.blogs.es/26b9cd/jackass-forever-critica/1366_2000.jpeg"
-    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2FVer%20Jackass%20Forever%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4"         
+    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2FVer%20Jackass%20Forever%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "UNCHARTED FUERA DEL MAPA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.alertageekchile.cl/wp-content/uploads/2022/02/Cover_noticia_UnchartedFueradelMapa.jpg"
-    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fabril%2F%E2%96%B7%20Ver%20Uncharted-%20Fuera%20del%20Mapa%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20en%20Espa%C3%B1ol%20Latino.mp4"         
+    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fabril%2F%E2%96%B7%20Ver%20Uncharted-%20Fuera%20del%20Mapa%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20en%20Espa%C3%B1ol%20Latino.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "LA LLAMADA FINAL"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/EONySn0c3SQ/maxresdefault.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20call%202020.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20call%202020.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "TONY PARKER: THE FINAL SHOT"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://basket-infos.com/wp-content/uploads/2020/12/Tony-Parker-the-final-Shot-660x330.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/tony%20parker%20the%20final%20shot%202021.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/tony%20parker%20the%20final%20shot%202021.mkv"
     Live: false
 }
-{   
-    Title: "SPIDER-MAN: NO WAY HOME"
+{
+    Artist: "web"
+    Title: "[X] SPIDER-MAN: NO WAY HOME"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://as01.epimg.net/meristation/imagenes/2021/12/16/reportajes/1639644481_655591_1640209353_noticia_normal.jpg"
-    Stream: "http://45.179.164.59:8181/Peliculas/Spiderman%20No%20Way%20Home.mkv"         
+    Stream: "http://45.179.164.59:8181/Peliculas/Spiderman%20No%20Way%20Home.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "LUZ NEGRA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://filmdaily.co/wp-content/uploads/2022/02/blacklightmovie-02.jpg"
-    Stream: "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisene%2FVer%20Blacklight%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4"         
+    Stream: "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisene%2FVer%20Blacklight%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "LA CASA SOBRE EL PANTANO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://images.justwatch.com/backdrop/255996816/s640/a-house-on-the-bayou"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/a%20house%20on%20the%20bayou%202021.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/a%20house%20on%20the%20bayou%202021.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "SIN SALIDA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.streamingrant.com/wp-content/uploads/2022/02/NO-EXIT.jpg"
-    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelfeb%2F%E2%96%B7%20Ver%20Sin%20Salida%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Espa%C3%B1ol%20Latino.mp4"         
+    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelfeb%2F%E2%96%B7%20Ver%20Sin%20Salida%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Espa%C3%B1ol%20Latino.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "SIN RESPIRO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://ociotime.com/wp-content/uploads/2022/02/Sin-respiro.jpg"
-    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelissept%2F%E2%96%B7%20Ver%20No%20Respires%202%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Espa%C3%B1ol%20Latino.mp4"         
+    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelissept%2F%E2%96%B7%20Ver%20No%20Respires%202%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Espa%C3%B1ol%20Latino.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "ERAX"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABSf0rLf7lgRpaGqaR3YFAcMIjG7kPqFc4Te9mmp6Ul9gRfn31qZJZKQOxuoke3GGYgCs7en5k4UHbBRH22-795VuphQ1.jpg?r=94a"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/erax%202022.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/erax%202022.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "LA MASACRE DE TEXAS 2022"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th/id/OIP.JwO1xRG0CFZmdL5HERxehAHaEK?pid=ImgDet&rs=1"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/texas%20chainsaw%20massacre%202022.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/texas%20chainsaw%20massacre%202022.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "VEGANZA A GOLPES"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.justwatch.com/images/backdrop/263193537/s640/fistful-of-vengeance"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/fistful%20of%20vengeance%202022.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/fistful%20of%20vengeance%202022.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "EL LEGADO DE LAS MENTIRAS"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/6a4095e28485be37216e773a958fe5146e141a488a7f8d345cb9f663d5bfff39._UY500_UX667_RI_V_TTW_.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/legacy%20of%20lies%202020.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/legacy%20of%20lies%202020.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "EL REFLEJO DEL DIABLO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://image.tmdb.org/t/p/original/m98QzJzUKvxk7HasILGSzE4fq0c.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/queen%20of%20spades%202021.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/queen%20of%20spades%202021.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "THE TINDER SWINDLER"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://thumb.zigi.id/frontend/thumbnail/2022/02/04/zigi-61fd46395f291-the-tinder-swindler_910_512.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20tinder%20swindler%202022.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/the%20tinder%20swindler%202022.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "EL SECUESTRO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i1.wp.com/www.cinema9ja.com/wp-content/uploads/2021/05/Take-Back-3.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/take%20back%202021.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/take%20back%202021.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "MONSTERMANIA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3xG4xajDI2RLdDrO6dJ4k_hjXvsz-qPf7v91uqjj-scuTHGuSfoSbOCCK8NrBv8uNj-M&usqp=CAU"
-    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisfeeb%2FVer%20Monsterman%C3%ADa%20Pelicula%20Completa%20HD%20Online%20-%20EntrePeliculasySeries.mp4"         
+    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisfeeb%2FVer%20Monsterman%C3%ADa%20Pelicula%20Completa%20HD%20Online%20-%20EntrePeliculasySeries.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "TOM AND JERRY: COWBOY UP!"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpj1iYX3nEQZb40FJfXgiOUPe7AGQsMhiEdA&usqp=CAU"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/tom%20and%20jerry%20cowboy%20up%202022.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/tom%20and%20jerry%20cowboy%20up%202022.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "RUNION"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ytimg.com/vi/drW5ii_bnbg/maxresdefault.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/reunion%202020.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/reunion%202020.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "ATRAPADA EN LAS PROFUNDIDADES"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/5d/65/b4/5d65b467-c71b-fd7a-4e19-814dc55370f0/IT106090_artwork_169_WW.png/1200x675.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/breaking%20surface%202020.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/breaking%20surface%202020.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "LA ULTIMA NOCHE DE SOHO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://cinefilosfrustrados.com/wp-content/uploads/2021/11/Ultima-noche-en-el-soho.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/last%20night%20in%20soho%202021.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/last%20night%20in%20soho%202021.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "HOTEL TRANSYLVANIA: TRANSFORMANIA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://www.notigape.com/thumburl/thumbnail/900x506/outbound/uploads/photos/34ZN4813xImPyIUmRbv9.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/hotel%20transylvania%204%20transformania%202022.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/hotel%20transylvania%204%20transformania%202022.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "RESIDENT EVIL: BIENVENIDO A RACCOON CITY"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th/id/OIP.-5vIjC8IRQJT7UXZu_Q6iQHaEK?pid=ImgDet&rs=1"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/resident%20evil%20welcome%20to%20raccoon%20city%202021.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/resident%20evil%20welcome%20to%20raccoon%20city%202021.mkv"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "GHOSTBUSTERS: EL LEGADO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2021/11/ghostbusters-afterlife-3.jpg"
-    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpeliseneen%2FVer%20Ghostbusters-%20El%20Legado%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4"         
+    Stream: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpeliseneen%2FVer%20Ghostbusters-%20El%20Legado%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4"
     Live: false
 }
-{   
+{
+    Artist: "web"
     Title: "CHILANGOLANDIA"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://img.youtube.com/vi/13OvAxf4ws4/mqdefault.jpg"
-    Stream: "http://vod.tuxchannel.mx/peliculas/720/chilangolandia%202021.mkv"         
+    Stream: "http://vod.tuxchannel.mx/peliculas/720/chilangolandia%202021.mkv"
     Live: false
 }

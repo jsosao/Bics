@@ -1,13 +1,14 @@
 {
-    Title: "N+ FORO"
+    Artist: "web"
+    Title: "[X] N+ FORO"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/n+_foro.png"
     Stream: "https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true"
     Live: true
 }
-
 {
-    Artist:"neblina6383"    
+    Artist: "neblina6383"
     Title: "N+ FORO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -15,64 +16,71 @@
     Stream: "https://dnslivetv.online:443/7336/1234/591611.m3u8"
     Live: true
 }
-
 {
+    Artist: "web"
     Title: "ADN 40"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/adn_40.png"
     Stream: "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8"
     Live: true
 }
-
 {
-    Title: "MILENIO"
+    Artist: "web"
+    Title: "[X] MILENIO"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/milenio.png"
     Stream: "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8"
     Live: true
 }
-
 {
-    Title: "CÑÑ"
+    Artist: "web"
+    Title: "[X] CÑÑ"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cnn_espanol.png"
     Stream: "https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8"
     Live: true
 }
-
 {
+    Artist: "web"
     Title: "UNIVISION 24/7"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/univision_24_7.png"
     Stream: "https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8"
     Live: true
 }
-
 {
-    Title: "SP: 24 Horas Internacional"
+    Artist: "web"
+    Title: "[X] SP: 24 Horas Internacional"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/sp_tve_24h.png"
     Stream: "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8"
     Live: true
 }
-
 {
+    Artist: "web"
     Title: "DW Español"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/dw_espanol.png"
     Stream: "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8"
     Live: true
 }
-
 {
+    Artist: "web"
     Title: "France Español"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/france_espanol.png"
     Stream: "https://s5.mexside.net:1936/france24/france24/playlist.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BBC AMERICA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -80,8 +88,8 @@
     Stream: "http://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BBC WORLD NEWS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -89,8 +97,8 @@
     Stream: "http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BLOOMBERG"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -98,26 +106,26 @@
     Stream: "http://fl1.moveonjoy.com/BLOOMBERG/index.m3u8"
     Live: true
 }
-
-{   
-    Title: "C SPAN"
+{
+    Artist: "web"
+    Title: "[X] C SPAN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cspan.png"
     Stream: "http://fl2.moveonjoy.com/C-SPAN/index.m3u8"
     Live: true
 }
-
-{   
-    Title: "CNBC"
+{
+    Artist: "web"
+    Title: "[X] CNBC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cnbc.png"
     Stream: "http://fl2.moveonjoy.com/CNBC/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "CNN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -125,8 +133,8 @@
     Stream: "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "CNN INTERNACIONAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -134,8 +142,8 @@
     Stream: "http://fl1.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "PE: TVPE NOTICIAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -143,8 +151,8 @@
     Stream: "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "PE: TVPE NOTICIAS INTL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -152,8 +160,8 @@
     Stream: "https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "CL: T 13"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -161,8 +169,8 @@
     Stream: "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "UK: SKY NEWS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -170,8 +178,8 @@
     Stream: "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "AL JAZEERA EN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -179,8 +187,8 @@
     Stream: "https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "AL JAZEERA ARAB"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -188,8 +196,8 @@
     Stream: "https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "IT: RAI NEWS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -197,8 +205,8 @@
     Stream: "https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "FOX BUSSINESS NET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -206,17 +214,17 @@
     Stream: "http://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8"
     Live: true
 }
-
-{   
-    Title: "FOX NEWS CHANNEL"
+{
+    Artist: "web"
+    Title: "[X] FOX NEWS CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/fox_news.png"
     Stream: "http://fl1.moveonjoy.com/FOX_News_Channel/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "NEWS NATION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -224,8 +232,8 @@
     Stream: "http://fl1.moveonjoy.com/NEWS_NATION/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "JP: NHK JAPAN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -233,8 +241,8 @@
     Stream: "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "KR: ARIRANG"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -242,8 +250,8 @@
     Stream: "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "TR: TRT WORLD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -251,8 +259,8 @@
     Stream: "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "SG: CNA SINGAPURE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -260,8 +268,8 @@
     Stream: "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "CA: RDI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -269,17 +277,17 @@
     Stream: "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8"
     Live: true
 }
-
-{   
-    Title: "FR: TV 5 MONDE"
+{
+    Artist: "web"
+    Title: "[X] FR: TV 5 MONDE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/fr_tv5_monde.png"
     Stream: "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "IL: ISRAEL 24 NEWSE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -287,8 +295,8 @@
     Stream: "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "PT: SIC NOTICIAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -296,8 +304,8 @@
     Stream: "https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "PT: CNN PORTUGAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -305,8 +313,7 @@
     Stream: "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8"
     Live: true
 }
-
-{   
+{
     Artist: "LiveTVCollector"
     Title: "CTV NEWS"
     streamFormat: "hls|mts"
@@ -315,5 +322,3 @@
     Stream: "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57350"
     Live: true
 }
-
-

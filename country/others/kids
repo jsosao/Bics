@@ -1,4 +1,5 @@
-{   
+{
+    Artist: "web"
     Title: "BOOMERANG"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -6,8 +7,8 @@
     Stream: "http://fl3.moveonjoy.com/BOOMERANG/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "CARTOON NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -15,7 +16,6 @@
     Stream: "http://fl3.moveonjoy.com/CARTOON_NETWORK/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "CARTOON NETWORK"
@@ -25,37 +25,35 @@
     Stream: "http://190.216.158.199:8000/play/a00j/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
-    Title: "Cartoon Network HD"
+    Title: "[X] Cartoon Network HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/cartoon_network.png"
     Stream: "http://181.13.173.86:8000/play/a075/index.m3u8"
     Live: true
 }
-
-{   
-    Title: "DISNEY CHANNEL"
+{
+    Artist: "web"
+    Title: "[X] DISNEY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/disney_channel.png"
     Stream: "http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
-    Title: "Disney Channel HD"
+    Title: "[X] Disney Channel HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/disney_channel.png"
     Stream: "http://181.13.173.86:8000/play/a02r/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "DISNEY JR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -63,18 +61,17 @@
     Stream: "http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
-    Title: "DISNEY JR"
+    Title: "[X] DISNEY JR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/disney_jr.png"
     Stream: "http://181.13.173.86:8000/play/a0ac/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "DISNEY XD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -82,8 +79,8 @@
     Stream: "http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "NICKELODEON"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -91,8 +88,8 @@
     Stream: "http://fl3.moveonjoy.com/NICKELODEON/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "NICK JR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -100,8 +97,8 @@
     Stream: "http://fl3.moveonjoy.com/NICK_JR/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "NICK MUSIC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -109,8 +106,8 @@
     Stream: "http://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "NICKTOONS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -118,8 +115,8 @@
     Stream: "http://fl3.moveonjoy.com/NICKTOONS/index.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "TEEN NICK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -127,16 +124,15 @@
     Stream: "https://fl3.moveonjoy.com/Teen_Nick/index.m3u8"
     Live: true
 }
-
-{   
-    Title: "RETRO CARTOONS"
+{
+    Artist: "web"
+    Title: "[X] RETRO CARTOONS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/retro_cartoons.png"
     Stream: "https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "CARTOONITO"
@@ -146,7 +142,6 @@
     Stream: "http://190.216.158.199:8000/play/a00b/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "DISCOVERY KIDS"
@@ -156,14 +151,12 @@
     Stream: "http://190.216.158.199:8000/play/a00r/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
-    Title: "Discovery Kids"
+    Title: "[X] Discovery Kids"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/d_kids.png"
     Stream: "http://181.13.173.86:8000/play/a06t/index.m3u8"
     Live: true
 }
-
