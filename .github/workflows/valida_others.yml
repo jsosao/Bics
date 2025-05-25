@@ -26,9 +26,9 @@ on:
     - cron: '0 3 * * *'
   
   # Ejecutar cuando se modifica algún archivo en el directorio others
-  push:
-    paths:
-      - 'country/others/**'
+  # push:
+  #  paths:
+  #    - 'country/others/**'
 
 jobs:
   validate-streams:
