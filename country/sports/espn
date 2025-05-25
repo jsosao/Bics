@@ -1,504 +1,498 @@
-{   
+{
     Artist: "milista"
     Title: "MX: ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://playtv44.com:8080/555898/123456/52749"
+    Live: true
 }
-
-{   
+{
     Artist: "Alverich"
     Title: "MX: ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://home-playtv.com:8080/RoltyFndz/GBQGK/9380"
+    Live: true
 }
-
-{   
+{
     Artist: "angel200881"
     Title: "MX: ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://lunar.pm:8080/mrjayp/Spectrum2/120111"
+    Live: true
 }
-
-{   
-    Artist: "milista"    
+{
+    Artist: "milista"
     Title: "MX: ESPN 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
     Stream: "http://playtv44.com:8080/555898/123456/52744"
+    Live: true
 }
-
-{   
+{
     Artist: "Alverich"
     Title: "MX: ESPN 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
     Stream: "http://home-playtv.com:8080/RoltyFndz/GBQGK/36391"
+    Live: true
 }
-
-{   
+{
     Artist: "angel200881"
     Title: "MX: ESPN 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
     Stream: "http://lunar.pm:8080/mrjayp/Spectrum2/120112"
+    Live: true
 }
-
-{   
+{
     Artist: "milista"
     Title: "MX: ESPN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
     Stream: "http://playtv44.com:8080/555898/123456/219010"
+    Live: true
 }
-
-{   
+{
     Artist: "Alverich"
     Title: "MX: ESPN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
     Stream: "http://home-playtv.com:8080/RoltyFndz/GBQGK/9530"
+    Live: true
 }
-
-{   
+{
     Artist: "angel200881"
     Title: "MX: ESPN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
     Stream: "http://lunar.pm:8080/mrjayp/Spectrum2/120113"
+    Live: true
 }
-
-{   
+{
     Artist: "milista"
-    Title: "MX: ESPN 4"
+    Title: "[X] MX: ESPN 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_4.png"
     Stream: "http://socketevolution.online:8080/MarcoCast9337/D334MW9/272217"
+    Live: true
 }
-
-{   
+{
     Artist: "Alverich"
     Title: "MX: ESPN 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_4.png"
     Stream: "http://disfruta.net/live/balooshy/Dcw7jXk5T5/8e248005-1c24-4459-a471-1329f8da3815.m3u"
+    Live: true
 }
-
-{   
+{
     Artist: "angel200881"
     Title: "MX: ESPN 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_4.png"
     Stream: "http://lunar.pm:8080/mrjayp/Spectrum2/120114"
+    Live: true
 }
-
-{   
+{
     Artist: "angel200881"
     Title: "US: ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://lunar.pm:8080/mrjayp/Spectrum2/9569"
+    Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "US: ESPN"
+{
+    Artist: "milista"
+    Title: "[X] US: ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://socketevolution.online:8080/MarcoCast9337/D334MW9/222250"
+    Live: true
 }
-
-{   
-    Title: "US: ESPN 2"
+{
+    Artist: "web"
+    Title: "[X] US: ESPN 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
     Stream: "http://fl2.moveonjoy.com/ESPN_2/index.m3u8"
+    Live: true
 }
-
-{   
-    Title: "US: ESPN NEWS"
+{
+    Artist: "web"
+    Title: "[X] US: ESPN NEWS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_news.png"
     Stream: "http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8"
+    Live: true
 }
-
-{   
-    Title: "US: ESPN U"
+{
+    Artist: "web"
+    Title: "[X] US: ESPN U"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_u.png"
     Stream: "http://fl2.moveonjoy.com/ESPN_U/index.m3u8"
+    Live: true
 }
-
-{   
+{
     Artist: "Alverich"
     Title: "US: ESPN DEPORTES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_deportes.png"
     Stream: "http://disfruta.net/live/balooshy/Dcw7jXk5T5/9db9023b-972f-4776-aecf-5386bae176db.m3u"
+    Live: true
 }
-
-{   
+{
     Artist: "vk"
-    Title: "LAT: ESPN"
+    Title: "[X] LAT: ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://190.107.137.235:8000/play/a00l/index.m3u8"
+    Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "LAT: ESPN"
+{
+    Artist: "milista"
+    Title: "[X] LAT: ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322655"
+    Live: true
 }
-
-{   
+{
     Artist: "vk"
-    Title: "LAT: ESPN 2"
+    Title: "[X] LAT: ESPN 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
     Stream: "http://190.107.137.235:8000/play/a00m/index.m3u8"
+    Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "LAT: ESPN 2"
+{
+    Artist: "milista"
+    Title: "[X] LAT: ESPN 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
     Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322657"
+    Live: true
 }
-
-{   
+{
     Artist: "vk"
-    Title: "LAT: ESPN 3"
+    Title: "[X] LAT: ESPN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
     Stream: "http://190.107.137.235:8000/play/a00n/index.m3u8"
+    Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "LAT: ESPN 3"
+{
+    Artist: "milista"
+    Title: "[X] LAT: ESPN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
     Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322659"
+    Live: true
 }
-
-{   
+{
     Artist: "vk"
-    Title: "LAT: ESPN 4"
+    Title: "[X] LAT: ESPN 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_4.png"
     Stream: "http://190.107.137.235:8000/play/a00a/index.m3u8"
+    Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "LAT: ESPN EXTRA"
+{
+    Artist: "milista"
+    Title: "[X] LAT: ESPN EXTRA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_4.png"
     Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322662"
+    Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "LAT: ESPN 5"
+{
+    Artist: "milista"
+    Title: "[X] LAT: ESPN 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_5.png"
     Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322644"
+    Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "LAT: ESPN 6"
+{
+    Artist: "milista"
+    Title: "[X] LAT: ESPN 6"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_6.png"
     Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322647"
+    Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "LAT: ESPN 7"
+{
+    Artist: "milista"
+    Title: "[X] LAT: ESPN 7"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_7.png"
     Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322643"
+    Live: true
 }
-
-{   
-    Artist:"Chloe125_TV"
+{
+    Artist: "Chloe125_TV"
     Title: "LAT: ESPN 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://200.229.147.142:8000/play/a05z/index.m3u8"
+    Live: true
 }
-
-{   
-    Artist:"Chloe125_TV"
+{
+    Artist: "Chloe125_TV"
     Title: "LAT: ESPN 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
     Stream: "http://200.229.147.142:8000/play/a03b/index.m3u8"
+    Live: true
 }
-
-{   
-    Artist:"Chloe125_TV"
+{
+    Artist: "Chloe125_TV"
     Title: "LAT: ESPN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
     Stream: "http://200.229.147.142:8000/play/a061/index.m3u8"
+    Live: true
 }
-
-{   
-    Artist:"Chloe125_TV"
+{
+    Artist: "Chloe125_TV"
     Title: "LAT: ESPN 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_4.png"
     Stream: "http://200.229.147.142:8000/play/a05s/index.m3u8"
+    Live: true
 }
-
-{   
-    Artist:"Chloe125_TV"
+{
+    Artist: "Chloe125_TV"
     Title: "LAT: ESPN 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_5.png"
     Stream: "http://200.229.147.142:8000/play/a05y/index.m3u8"
+    Live: true
 }
-
-{   
-    Artist:"Chloe125_TV"
+{
+    Artist: "Chloe125_TV"
     Title: "LAT: ESPN 6"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_6.png"
     Stream: "http://200.229.147.142:8000/play/a04v/index.m3u8"
+    Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "AR: ESPN PREMIUM"
+{
+    Artist: "milista"
+    Title: "[X] AR: ESPN PREMIUM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322641"
+    Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "AR: ESPN"
+{
+    Artist: "milista"
+    Title: "[X] AR: ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322632"
+    Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "AR: ESPN 2"
+{
+    Artist: "milista"
+    Title: "[X] AR: ESPN 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
     Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322635"
+    Live: true
 }
-
-{   
-    Artist:"milista"
-    Title: "AR: ESPN 3"
+{
+    Artist: "milista"
+    Title: "[X] AR: ESPN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
     Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322638"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "DO: ESPN NORTE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://45.71.254.1:8000/play/a0e6/index.m3u8"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "DO: ESPN 2 NORTE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
     Stream: "http://45.71.254.1:8000/play/a0e7/index.m3u8"
+    Live: true
 }
-
-{   
+{
     Artist: "listDev"
-    Title: "AR: ESPN VIVO"
+    Title: "[X] AR: ESPN VIVO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://170.39.192.130:2095/56993164346fpro/180724play/99604"
+    Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "AR: ESPN VIVO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://45.71.254.1:8000/play/a01r/index.m3u8"
+    Live: true
 }
-
-{   
+{
     Artist: "listDev"
-    Title: "AR: ESPN VIVO"
+    Title: "[X] AR: ESPN VIVO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://170.39.192.130:2095/56993164346fpro/180724play/99607"
+    Live: true
 }
-
-
-
-
-
-
-
 {
     Artist: "Chloe125_TV"
-    Title: "AR: ESPN"
+    Title: "[X] AR: ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://181.13.173.86:8000/play/a0af/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
-    Title: "AR: ESPN 2"
+    Title: "[X] AR: ESPN 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
     Stream: "http://181.13.173.86:8000/play/a0ag/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
-    Title: "AR: ESPN 3"
+    Title: "[X] AR: ESPN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
     Stream: "http://181.13.173.86:8000/play/a0ah/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
-    Title: "AR: ESPN 4 HD"
+    Title: "[X] AR: ESPN 4 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_4.png"
     Stream: "http://181.13.173.86:8000/play/a076/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
-    Title: "AR: ESPN Premium HD"
+    Title: "[X] AR: ESPN Premium HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://181.13.173.86:8000/play/a078/index.m3u8"
     Live: true
 }
-
-{   
+{
     Artist: "listDev"
-    Title: "AR: ESPN PREMIUM"
+    Title: "[X] AR: ESPN PREMIUM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145421"
+    Live: true
 }
-
-{   
+{
     Artist: "06_Sports"
     Title: "AR: ESPN PREMIUM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://190.102.246.93:9005/play/a00x"
+    Live: true
 }
-
-{   
+{
     Artist: "06_Sports"
     Title: "AR: ESPN VIVO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://45.71.254.1:8000/play/a038/index.m3u8"
+    Live: true
 }
-
-{   
+{
     Artist: "06_Sports"
     Title: "AR: ESPN VIVO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://45.71.254.1:8000/play/a01r/index.m3u8"
+    Live: true
 }
-
-{   
-    Artist: "listDev"    
-    Title: "AR: ESPN"
+{
+    Artist: "listDev"
+    Title: "[X] AR: ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://181.78.74.69:8000/play/a060/index.m3u8"
+    Live: true
 }
-
-
-{   
-    Artist: "Mevohad2024"    
-    Title: "CO: ESPN"
+{
+    Artist: "Mevohad2024"
+    Title: "[X] CO: ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://181.78.21.46:8009/play/a015"
+    Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "CO: ESPN"
@@ -508,7 +502,6 @@
     Stream: "http://38.44.109.41:8003/play/a02v/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "CO: ESPN 3"
@@ -518,7 +511,6 @@
     Stream: "http://38.44.109.41:8003/play/a00v/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "CO: ESPN 3"
@@ -528,7 +520,6 @@
     Stream: "http://38.44.109.41:8003/play/a00w/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "CO: ESPN 4"
@@ -538,7 +529,6 @@
     Stream: "http://38.44.109.41:8003/play/a03m/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "CO: ESPN 5"
@@ -548,7 +538,6 @@
     Stream: "http://38.44.109.41:8003/play/a02t/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "CO: ESPN 6"
@@ -558,7 +547,6 @@
     Stream: "http://38.44.109.41:8003/play/a00u/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "CO: ESPN 7"
@@ -568,7 +556,6 @@
     Stream: "http://38.44.109.41:8003/play/a02u/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "CO: ESPN PREMIUM"
@@ -578,63 +565,62 @@
     Stream: "http://38.44.109.41:8003/play/a02m/index.m3u8"
     Live: true
 }
-
-
-{   
+{
     Artist: "Junior7766"
     Title: " BR ESPN"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://play.1list.vip/listatvs/controliptv/215398"
     Live: true
 }
-
-{   
+{
     Artist: "Junior7766"
     Title: " BR ESPN 2"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
     Stream: "http://play.1list.vip/listatvs/controliptv/215399"
     Live: true
 }
-
-{   
+{
     Artist: "Junior7766"
     Title: " BR ESPN 3"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
     Stream: "http://play.1list.vip/listatvs/controliptv/215400"
     Live: true
 }
-
-{   
+{
     Artist: "Junior7766"
     Title: " BR ESPN 4"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_4.png"
     Stream: "http://play.1list.vip/listatvs/controliptv/215401"
     Live: true
 }
-
-{   
+{
     Artist: "Junior7766"
     Title: " BR ESPN 5"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_5.png"
     Stream: "http://play.1list.vip/listatvs/controliptv/50545"
     Live: true
 }
-
-{   
+{
     Artist: "Junior7766"
     Title: " BR ESPN 5"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_6.png"
     Stream: "http://play.1list.vip/listatvs/controliptv/62818"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: ESPN 6"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -642,7 +628,6 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/129624.ts"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "ESPN 1 HD CA"
@@ -652,7 +637,6 @@
     Stream: "http://200.229.147.142:8000/play/a05z/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "ESPN 2 HD CA"
@@ -662,7 +646,6 @@
     Stream: "http://200.229.147.142:8000/play/a03b/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "ESPN 3 HD CA"
@@ -672,7 +655,6 @@
     Stream: "http://200.229.147.142:8000/play/a061/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "ESPN 4 HD CA"
@@ -682,7 +664,6 @@
     Stream: "http://200.229.147.142:8000/play/a05s/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "ESPN 5 HD CA"
@@ -692,7 +673,6 @@
     Stream: "http://200.229.147.142:8000/play/a05y/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Chloe125_TV"
     Title: "ESPN 6 CA"
