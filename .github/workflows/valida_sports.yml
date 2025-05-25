@@ -21,9 +21,9 @@ on:
         - 'true'
         - 'false'
   
-  # Ejecutar automáticamente cada día a las 1:00 AM UTC
+  # Ejecutar automáticamente cada día a las 07:00 AM UTC
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '0 7 * * *'
   
   # Ejecutar cuando se modifica algún archivo en el directorio sports
   # push:
