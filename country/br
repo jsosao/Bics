@@ -1,4 +1,5 @@
-{   
+{
+    Artist: "web"
     Title: "BR: UNIVERSAL TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -6,16 +7,17 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/71655.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: AXN"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_axn.png"
     Stream: "http://play.1list.vip/live/listatvs/controliptv/41468.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: TNT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -23,8 +25,8 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/41507.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: TNT SERIES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -32,17 +34,17 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/41508.ts"
     Live: true
 }
-
-{   
-    Title: "BR: TLC"
+{
+    Artist: "web"
+    Title: "[X] BR: TLC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/tlc.png"
     Stream: "http://play.1list.vip/live/listatvs/controliptv/61964.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: TCM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -50,8 +52,8 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/63645.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: SPACE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -59,8 +61,8 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/41503.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: WARNER CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -68,8 +70,8 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/38384.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: USA NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -77,24 +79,26 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/41504.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: A&E"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_a&e.png"
     Stream: "http://play.1list.vip/live/listatvs/controliptv/40263.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: AMC"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/amc_network.png"
     Stream: "http://play.1list.vip/live/listatvs/controliptv/40262.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: PARAMOUNT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -102,8 +106,8 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/41500.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: STUDIO UNIVERSAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -111,8 +115,8 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/41511.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: SONY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -120,8 +124,8 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/41470.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: SONY MOVIES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -129,17 +133,17 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/215593.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: LIFETIME"
     streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"    
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/lifetime.png"
     Stream: "http://play.1list.vip/live/listatvs/controliptv/51251.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: CINEMAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -147,8 +151,8 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/40261.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: HBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -156,8 +160,8 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/61972.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: HBO 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -165,8 +169,8 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/38423.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: HBO MUNDI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -174,8 +178,8 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/40268.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: HBO XTREME"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -183,8 +187,8 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/42901.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: HBO FAMILY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -192,8 +196,8 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/41486.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: HBO SIGNATURE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -201,8 +205,8 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/41488.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: HBO POP"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -210,8 +214,8 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/40270.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: HBO PLUS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -219,17 +223,17 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/41487.ts"
     Live: true
 }
-
-{   
-    Title: "BR: CINECANAL"
+{
+    Artist: "web"
+    Title: "[X] BR: CINECANAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_cinecanal.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/41479"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: FILM AND ARTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -237,75 +241,71 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/61965.ts"
     Live: true
 }
-
-{   
+{
     Artist: "Junior7766"
     Title: "GLOBO MG"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/br_globo.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/68058"
-    UserAgent: ":http-user-agent="
     Live: true
 }
-
-
-{   
+{
     Artist: "Junior7766"
     Title: " BR ESPN"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
     Stream: "http://play.1list.vip/listatvs/controliptv/215398"
     Live: true
 }
-
-{   
+{
     Artist: "Junior7766"
     Title: " BR ESPN 2"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
     Stream: "http://play.1list.vip/listatvs/controliptv/215399"
     Live: true
 }
-
-{   
+{
     Artist: "Junior7766"
     Title: " BR ESPN 3"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
     Stream: "http://play.1list.vip/listatvs/controliptv/215400"
     Live: true
 }
-
-{   
+{
     Artist: "Junior7766"
     Title: " BR ESPN 4"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_4.png"
     Stream: "http://play.1list.vip/listatvs/controliptv/215401"
     Live: true
 }
-
-{   
+{
     Artist: "Junior7766"
     Title: " BR ESPN 5"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_5.png"
     Stream: "http://play.1list.vip/listatvs/controliptv/50545"
     Live: true
 }
-
-{   
+{
     Artist: "Junior7766"
     Title: " BR ESPN 5"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_6.png"
     Stream: "http://play.1list.vip/listatvs/controliptv/62818"
     Live: true
 }
-
-{   
-    Artist:"Junior7766" 
+{
+    Artist: "Junior7766"
     Title: "SPORTTV 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -313,9 +313,8 @@
     Stream: "http://play.1list.vip/listatvs/controliptv/40785"
     Live: true
 }
-
-{   
-    Artist:"Junior7766" 
+{
+    Artist: "Junior7766"
     Title: "SPORTTV 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -323,19 +322,17 @@
     Stream: "http://play.1list.vip/listatvs/controliptv/215402"
     Live: true
 }
-
-{   
-    Artist:"Junior7766" 
-    Title: "SPORTTV 3"
+{
+    Artist: "Junior7766"
+    Title: "[X] SPORTTV 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/br_sportv_3.png"
     Stream: "http://play.1list.vip/listatvs/controliptv/215403"
     Live: true
 }
-
-{   
-    Artist:"Junior7766" 
+{
+    Artist: "Junior7766"
     Title: "BR: PREMIERE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -343,9 +340,8 @@
     Stream: "http://play.1list.vip:80/listatvs/controliptv/40783"
     Live: true
 }
-
-{   
-    Artist:"Junior7766" 
+{
+    Artist: "Junior7766"
     Title: "BR: PREMIERE 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -353,9 +349,8 @@
     Stream: "http://play.1list.vip:80/listatvs/controliptv/38410"
     Live: true
 }
-
-{   
-    Artist:"Junior7766" 
+{
+    Artist: "Junior7766"
     Title: "BR: PREMIERE 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -363,9 +358,8 @@
     Stream: "http://play.1list.vip:80/listatvs/controliptv/38409"
     Live: true
 }
-
-{   
-    Artist:"Junior7766" 
+{
+    Artist: "Junior7766"
     Title: "BR: PREMIERE 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -373,9 +367,8 @@
     Stream: "http://play.1list.vip:80/listatvs/controliptv/38408"
     Live: true
 }
-
-{   
-    Artist:"Junior7766" 
+{
+    Artist: "Junior7766"
     Title: "BR: PREMIERE 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -383,9 +376,8 @@
     Stream: "http://play.1list.vip:80/listatvs/controliptv/38407"
     Live: true
 }
-
-{   
-    Artist:"Junior7766" 
+{
+    Artist: "Junior7766"
     Title: "BR: PREMIERE 6"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -393,9 +385,8 @@
     Stream: "http://play.1list.vip:80/listatvs/controliptv/38406"
     Live: true
 }
-
-{   
-    Artist:"Junior7766" 
+{
+    Artist: "Junior7766"
     Title: "BR: PREMIERE 7"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -403,247 +394,254 @@
     Stream: "http://play.1list.vip:80/listatvs/controliptv/38405"
     Live: true
 }
-
-
-{   
-    Artist:"Junior7766" 
+{
+    Artist: "Junior7766"
     Title: "ANIMAL PLANET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/animal_planet.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62794"
-    UserAgent: ":http-user-agent="
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "DISCOVERY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_channel.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/50538"
-    UserAgent: ":http-user-agent="
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "DISCOVERY H&H"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_h&h.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/74791"
-    UserAgent: ":http-user-agent="
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "DISCOVERY SCIENCE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_science.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/50540"
-    UserAgent: ":http-user-agent="
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "DISCOVERY THEATER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_theater.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62879"
-    UserAgent: ":http-user-agent="
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "DISCOVERY TURBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_turbo.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/74794"
-    UserAgent: ":http-user-agent="
     Live: true
 }
-{   
+{
+    Artist: "web"
     Title: "DISCOVERY WORLD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_world.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62875"
-    UserAgent: ":http-user-agent="
     Live: true
 }
-{   
+{
+    Artist: "web"
     Title: "HISTORY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_history_channel.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62858"
-    UserAgent: ":http-user-agent="
     Live: true
 }
-{   
+{
+    Artist: "web"
     Title: "HISTORY 2"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_h2.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/51245"
-    UserAgent: ":http-user-agent="
     Live: true
 }
-{   
-    Title: "NATIONAL GEOGRAPHIC"
+{
+    Artist: "web"
+    Title: "[X] NATIONAL GEOGRAPHIC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nat_geo.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/41280"
-    UserAgent: ":http-user-agent="
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "CARTOON NETWORK"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/cartoon_network.png"
     Stream: "http://play.1list.vip/listatvs/controliptv/50534"
-    UserAgent: ":http-user-agent=https://blackghost.live/play/wistream-bglve-711.php?cat=latinos&ch=nationalgeo&f=.m3u8"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "DISCOVERY KIDS"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/d_kids.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62881"
-    UserAgent: ":http-user-agent="
     Live: true
 }
-
-{       
-    Title: "DISNEY CHANNEL"
+{
+    Artist: "web"
+    Title: "[X] DISNEY CHANNEL"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/disney_channel.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62873"
-    UserAgent: ":http-user-agent="
     Live: true
 }
-{   
+{
+    Artist: "web"
     Title: "GLOOB"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Gloob_Logo_%282012%29.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/51244"
-    UserAgent: ":http-user-agent="
     Live: true
 }
-{   
+{
+    Artist: "web"
     Title: "GLOOBINHO"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://mondrian.claro.com.br/channels/inverse/gloobinho@3x.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62814"
-    UserAgent: ":http-user-agent="
     Live: true
 }
-{   
-    Title: "NICKELODEON"
+{
+    Artist: "web"
+    Title: "[X] NICKELODEON"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/nickelodeon.png"
     Stream: "http://globalsrv.me:80/live/612714/629529/1818667"
-    UserAgent: ":http-user-agent="
     Live: true
 }
-{   
+{
+    Artist: "web"
     Title: "NICK"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/nickelodeon.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62886"
-    UserAgent: ":http-user-agent="
     Live: true
 }
-{   
+{
+    Artist: "web"
     Title: "NICK JR"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/nick_jr.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62884"
-    UserAgent: ":http-user-agent="
     Live: true
 }
-{  
+{
+    Artist: "web"
     Title: "NICK JR CLUB"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/990f75eb-172d-42a8-bd8f-899ab38ba394/dgbgndb-446298d7-4d42-416a-bfc6-786951f5bcc4.png/v1/fill/w_1192,h_670/club_nick_kids_logo_concept_by_carxl2029_dgbgndb-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvOTkwZjc1ZWItMTcyZC00MmE4LWJkOGYtODk5YWIzOGJhMzk0XC9kZ2JnbmRiLTQ0NjI5OGQ3LTRkNDItNDE2YS1iZmM2LTc4Njk1MWY1YmNjNC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.6YH0G1MUeSkAfYDvQuaNugk9FsblnDGhDbWKVhz9hKI"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/90596"
-    UserAgent: ":http-user-agent="
     Live: true
 }
-{   
+{
+    Artist: "web"
     Title: "TV JUNIOR"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Junior_Logo_2015.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/90594"
-    UserAgent: ":http-user-agent="
     Live: true
 }
-{   
+{
+    Artist: "web"
     Title: "TV RA TIM BUM"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62898"
-    UserAgent: ":http-user-agent="
     Live: true
 }
-{  
+{
+    Artist: "web"
     Title: "TOONCAST"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/91495"
-    UserAgent: ":http-user-agent="
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: MEGAPIX"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.imgur.com/oPzq9zc.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/62868"
     Live: true
 }
-
-
-{   
+{
+    Artist: "web"
     Title: "BR: BOX"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.imgur.com/FFYtx7a.png"
     Stream: "http://play.1list.vip:80/listatvs/controliptv/41501"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: URBAN MOVIES"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.imgur.com/5FmSlAU.png"
     Stream: "http://play.1list.vip/live/listatvs/controliptv/86531.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: URBAN SERIES"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.imgur.com/5FmSlAU.png"
     Stream: "http://play.1list.vip/live/listatvs/controliptv/86530.ts"
     Live: true
 }
-
-{   
-    Title: "BR: TELECINE ACCION"
+{
+    Artist: "web"
+    Title: "[X] BR: TELECINE ACCION"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.imgur.com/BGE3Oe4.png"
     Stream: "http://play.1list.vip/live/listatvs/controliptv/38418.ts"
     Live: true
 }
-
-{   
+{
+    Artist: "web"
     Title: "BR: TELECINE PREMIUM"
     streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://i.imgur.com/IoWD44d.png"
     Stream: "http://play.1list.vip/live/listatvs/controliptv/38415.ts"
     Live: true
