@@ -26,9 +26,9 @@ on:
     - cron: '0 1 * * *'
   
   # Ejecutar cuando se modifica algún archivo en el directorio sports
-  push:
-    paths:
-      - 'country/sports/**'
+  # push:
+  #  paths:
+  #    - 'country/sports/**'
 
 jobs:
   validate-streams:
