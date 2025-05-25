@@ -1,17 +1,18 @@
-{   
+{
     Artist: "milista"
-    Title: "MX: SKY SPORTS BUNDES"
+    Title: "[X] MX: SKY SPORTS BUNDES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sky_sports_bundes.png"
     Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77054"
+    Live: true
 }
-
-{   
+{
     Artist: "milista"
     Title: "MX: SKY SPORTS BUNDES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/sky_sports_bundes.png"
     Stream: "http://190.95.60.228:8500/play/a01l"
+    Live: true
 }
