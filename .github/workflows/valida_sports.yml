@@ -28,7 +28,7 @@ on:
   # Ejecutar cuando se modifica algún archivo en el directorio sports
   push:
     paths:
-      - 'country/sport/**'
+      - 'country/sports/**'
 
 jobs:
   validate-streams:
@@ -143,7 +143,7 @@ jobs:
         }}'''
         
         # Configuración - directorio a procesar
-        directory_path = "country/sport"
+        directory_path = "country/sports"
         validate_urls = "${{ github.event.inputs.validate_urls }}" != "false"
         update_file = "${{ github.event.inputs.update_file }}" == "true"
         
@@ -304,7 +304,7 @@ jobs:
                 print(f"   Porcentaje total válidas: {total_percentage:.1f}%")
         
         # Guardar reporte
-        with open("validation_report.txt", 'w', encoding='utf-8') as f:
+        with open("validation_report_sports.txt", 'w', encoding='utf-8') as f:
             f.write(f"REPORTE DE VALIDACIÓN\n")
             f.write(f"====================\n")
             f.write(f"Fecha: $(date)\n")
@@ -336,4 +336,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: validation-report
-        path: validation_report.txt
+        path: validation_report_sports.txt
