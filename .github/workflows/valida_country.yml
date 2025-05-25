@@ -26,9 +26,9 @@ on:
     - cron: '0 2 * * *'
   
   # Ejecutar cuando se modifica algún archivo en el directorio country
-  push:
-    paths:
-      - 'country/country/**'
+  # push:
+  #  paths:
+  #    - 'country/country/**'
 
 jobs:
   validate-streams:
