@@ -1,0 +1,497 @@
+name: Validar Streams [x] Country
+
+on:
+  # Ejecutar manualmente
+  workflow_dispatch:
+    inputs:
+      validate_urls:
+        description: '¿Validar URLs de streaming?'
+        required: true
+        default: 'true'
+        type: choice
+        options:
+        - 'true'
+        - 'false'
+      update_file:
+        description: '¿Actualizar archivo original?'
+        required: true
+        default: 'true'
+        type: choice
+        options:
+        - 'true'
+        - 'false'
+  
+  # Ejecutar automáticamente cada día a las 8:00 AM UTC
+  schedule:
+    - cron: '0 8 * * *'
+  
+  # Ejecutar cuando se modifica algún archivo en el directorio sports
+  push:
+    paths:
+      - 'country/country/**'
+
+jobs:
+  validate-streams:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: Validar Streams
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        python << 'EOF'
+        import urllib.request
+        import urllib.error
+        from urllib.parse import urlparse, urljoin
+        import socket
+        import re
+        import json
+        import base64
+        import os
+        import time
+        
+        def validate_stream_url(url, timeout=15):
+            """
+            Valida una URL de streaming verificando:
+            1. Que la URL responda correctamente
+            2. Que contenga contenido de streaming válido (m3u8, mpd, o stream data)
+            """
+            try:
+                parsed_url = urlparse(url)
+                if not parsed_url.scheme or not parsed_url.netloc:
+                    return False, "URL malformada"
+                
+                socket.setdefaulttimeout(timeout)
+                
+                headers = {
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+                    'Accept': '*/*',
+                    'Accept-Language': 'es-ES,es;q=0.9,en;q=0.8',
+                    'Connection': 'keep-alive',
+                    'Referer': f"{parsed_url.scheme}://{parsed_url.netloc}/"
+                }
+                
+                req = urllib.request.Request(url, headers=headers)
+                
+                with urllib.request.urlopen(req, timeout=timeout) as response:
+                    status_code = response.getcode()
+                    content_type = response.headers.get('content-type', '').lower()
+                    
+                    # Verificar código de respuesta
+                    if not (200 <= status_code < 400):
+                        return False, f"HTTP {status_code}"
+                    
+                    # Leer una muestra del contenido
+                    try:
+                        content_sample = response.read(8192).decode('utf-8', errors='ignore')
+                    except:
+                        try:
+                            content_sample = response.read(8192).decode('latin-1', errors='ignore')
+                        except:
+                            content_sample = ""
+                    
+                    # Verificar si es contenido de streaming válido
+                    is_valid_stream, stream_type = check_streaming_content(content_sample, content_type, url)
+                    
+                    if is_valid_stream:
+                        return True, f"✅ {stream_type}"
+                    else:
+                        return False, f"❌ No es contenido de streaming válido"
+                        
+            except urllib.error.HTTPError as e:
+                return False, f"HTTP Error {e.code}"
+            except urllib.error.URLError as e:
+                return False, f"URL Error: {str(e.reason)}"
+            except socket.timeout:
+                return False, "Timeout"
+            except Exception as e:
+                return False, f"Error: {str(e)[:50]}"
+        
+        def check_streaming_content(content, content_type, url):
+            """
+            Verifica si el contenido es realmente un stream válido
+            """
+            content_lower = content.lower()
+            url_lower = url.lower()
+            
+            # 1. Verificar por extensión de archivo en URL
+            if any(ext in url_lower for ext in ['.m3u8', '.mpd', '.ts', '.m4s']):
+                if '.m3u8' in url_lower:
+                    return True, "HLS (m3u8 en URL)"
+                elif '.mpd' in url_lower:
+                    return True, "DASH (mpd en URL)"
+                elif '.ts' in url_lower:
+                    return True, "Transport Stream"
+                elif '.m4s' in url_lower:
+                    return True, "DASH Segment"
+            
+            # 2. Verificar por Content-Type
+            streaming_content_types = [
+                'application/vnd.apple.mpegurl',  # HLS
+                'application/x-mpegurl',         # HLS
+                'application/dash+xml',          # DASH
+                'video/mp2t',                    # MPEG-TS
+                'application/octet-stream'       # Puede ser streaming
+            ]
+            
+            if any(ct in content_type for ct in streaming_content_types):
+                if 'mpegurl' in content_type:
+                    return True, "HLS (Content-Type)"
+                elif 'dash+xml' in content_type:
+                    return True, "DASH (Content-Type)"
+                elif 'mp2t' in content_type:
+                    return True, "MPEG-TS (Content-Type)"
+            
+            # 3. Verificar contenido HLS (m3u8)
+            hls_indicators = [
+                '#extm3u',
+                '#ext-x-version',
+                '#ext-x-targetduration',
+                '#ext-x-media-sequence',
+                '#extinf:',
+                '#ext-x-stream-inf',
+                '#ext-x-playlist-type'
+            ]
+            
+            if any(indicator in content_lower for indicator in hls_indicators):
+                return True, "HLS Playlist"
+            
+            # 4. Verificar contenido DASH (mpd)
+            dash_indicators = [
+                '<mpd',
+                'urn:mpeg:dash:schema',
+                '<period',
+                '<adaptationset',
+                '<representation',
+                'dash:profile'
+            ]
+            
+            if any(indicator in content_lower for indicator in dash_indicators):
+                return True, "DASH Manifest"
+            
+            # 5. Verificar si contiene enlaces a segmentos de video
+            segment_patterns = [
+                r'\.ts\b',           # Segmentos TS
+                r'\.m4s\b',         # Segmentos DASH
+                r'\.mp4\b',         # Segmentos MP4
+                r'seg-\d+',         # Patrones de segmentos
+                r'chunk-\d+',       # Patrones de chunks
+                r'fragment-\d+'     # Patrones de fragmentos
+            ]
+            
+            for pattern in segment_patterns:
+                if re.search(pattern, content_lower):
+                    return True, "Contiene segmentos de video"
+            
+            # 6. Verificar headers de streaming en el contenido
+            streaming_headers = [
+                'x-media-sequence',
+                'x-targetduration',
+                'x-version'
+            ]
+            
+            if any(header in content_lower for header in streaming_headers):
+                return True, "Headers de streaming"
+            
+            # 7. Verificar si es contenido binario que podría ser video
+            if len(content) > 100:
+                # Verificar magic numbers comunes de video
+                content_bytes = content.encode('latin-1')[:100] if isinstance(content, str) else content[:100]
+                
+                # Magic numbers para diferentes formatos
+                video_signatures = [
+                    b'\x00\x00\x00\x1cftyp',     # MP4
+                    b'\x00\x00\x00\x18ftypmp4',  # MP4
+                    b'G@',                        # MPEG-TS
+                    b'G\x40',                     # MPEG-TS
+                    b'\x47',                      # MPEG-TS sync byte
+                ]
+                
+                for sig in video_signatures:
+                    if sig in content_bytes:
+                        return True, "Contenido de video binario"
+            
+            return False, "No es contenido de streaming"
+        
+        def parse_stream_block(block_text):
+            try:
+                title_match = re.search(r'Title:\s*"([^"]*)"', block_text)
+                title = title_match.group(1) if title_match else ""
+                
+                stream_match = re.search(r'Stream:\s*"([^"]*)"', block_text)
+                stream_url = stream_match.group(1) if stream_match else ""
+                
+                artist_match = re.search(r'Artist:\s*"([^"]*)"', block_text)
+                artist = artist_match.group(1) if artist_match else "web"
+                
+                stream_format_match = re.search(r'streamFormat:\s*"([^"]*)"', block_text)
+                stream_format = stream_format_match.group(1) if stream_format_match else "hls|mts"
+                
+                switching_strategy_match = re.search(r'SwitchingStrategy:\s*"([^"]*)"', block_text)
+                switching_strategy = switching_strategy_match.group(1) if switching_strategy_match else "full-adaptation"
+                
+                logo_match = re.search(r'Logo:\s*"([^"]*)"', block_text)
+                logo = logo_match.group(1) if logo_match else "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+                
+                live_match = re.search(r'Live:\s*(true|false)', block_text)
+                live = live_match.group(1) if live_match else "true"
+                
+                return {
+                    'artist': artist,
+                    'title': title,
+                    'stream_format': stream_format,
+                    'switching_strategy': switching_strategy,
+                    'logo': logo,
+                    'stream_url': stream_url,
+                    'live': live
+                }
+            except:
+                return None
+        
+        def update_title_status(title, is_online):
+            has_x_marker = title.startswith("[X] ")
+            
+            if is_online:
+                if has_x_marker:
+                    return title[4:]  # Remover [X] si está online
+                else:
+                    return title
+            else:
+                if not has_x_marker:
+                    return f"[X] {title}"  # Agregar [X] si está offline
+                else:
+                    return title
+        
+        def create_stream_block(stream_data):
+            return f'''{{
+            Artist: "{stream_data['artist']}"
+            Title: "{stream_data['title']}"
+            streamFormat: "{stream_data['stream_format']}"
+            SwitchingStrategy: "{stream_data['switching_strategy']}"
+            Logo: "{stream_data['logo']}"
+            Stream: "{stream_data['stream_url']}"
+            Live: {stream_data['live']}
+        }}'''
+        
+        # Configuración - directorio a procesar
+        directory_path = "country/country"
+        validate_urls = "${{ github.event.inputs.validate_urls }}" != "false"
+        update_file = "${{ github.event.inputs.update_file }}" == "true"
+        
+        if "${{ github.event_name }}" == "schedule":
+            validate_urls = True
+            update_file = True
+        
+        print("🎯 === VALIDADOR AVANZADO DE STREAMS - GITHUB ACTION ===")
+        print(f"📁 Procesando directorio: {directory_path}")
+        print(f"🔍 Validar URLs: {validate_urls}")
+        print(f"💾 Actualizar archivo: {update_file}")
+        print("🔬 Validación mejorada: Verifica contenido de streaming real (m3u8, mpd, etc.)")
+        print()
+        
+        # Verificar si el directorio existe
+        if not os.path.exists(directory_path):
+            print(f"❌ Directorio {directory_path} no encontrado")
+            exit(1)
+        
+        # Obtener todos los archivos del directorio
+        try:
+            all_files = os.listdir(directory_path)
+            # Filtrar solo archivos (no directorios) y excluir archivos ocultos
+            file_paths = [os.path.join(directory_path, f) for f in all_files 
+                         if os.path.isfile(os.path.join(directory_path, f)) and not f.startswith('.')]
+            
+            if not file_paths:
+                print(f"❌ No se encontraron archivos en {directory_path}")
+                exit(1)
+                
+            print(f"📋 Archivos encontrados: {len(file_paths)}")
+            for fp in file_paths:
+                print(f"   - {fp}")
+            print()
+            
+        except Exception as e:
+            print(f"❌ Error al leer el directorio {directory_path}: {str(e)}")
+            exit(1)
+        
+        total_streams = 0
+        total_valid = 0
+        total_invalid = 0
+        total_updated = 0
+        processed_files = 0
+        detailed_log = []
+        
+        # Procesar cada archivo
+        for file_path in file_paths:
+            print(f"\n📂 === PROCESANDO: {file_path} ===")
+            
+            # Leer archivo
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+            except Exception as e:
+                print(f"❌ Error al leer el archivo {file_path}: {str(e)}")
+                continue
+            
+            # Procesar bloques
+            blocks = []
+            current_block = ""
+            brace_count = 0
+            
+            for line in content.split('\n'):
+                line = line.strip()
+                if not line:
+                    continue
+                    
+                current_block += line + '\n'
+                brace_count += line.count('{') - line.count('}')
+                
+                if brace_count == 0 and current_block.strip():
+                    blocks.append(current_block.strip())
+                    current_block = ""
+            
+            if not blocks:
+                print(f"❌ No se encontraron bloques válidos en {file_path}")
+                continue
+            
+            print(f"📊 Encontrados {len(blocks)} streams en {file_path}")
+            total_streams += len(blocks)
+            
+            updated_blocks = []
+            valid_count = 0
+            invalid_count = 0
+            updated_count = 0
+            
+            for i, block in enumerate(blocks, 1):
+                stream_data = parse_stream_block(block)
+                
+                if not stream_data:
+                    updated_blocks.append(block)
+                    continue
+                
+                original_title = stream_data['title']
+                stream_url = stream_data['stream_url']
+                
+                if validate_urls and stream_url:
+                    print(f"🔍 Validando {i}/{len(blocks)}: {original_title[:50]}...")
+                    
+                    # Validación mejorada
+                    is_online, validation_detail = validate_stream_url(stream_url)
+                    
+                    if is_online:
+                        valid_count += 1
+                        print(f"  {validation_detail}")
+                        detailed_log.append(f"✅ {file_path} - {original_title}: {validation_detail}")
+                    else:
+                        invalid_count += 1
+                        print(f"  ❌ {validation_detail}")
+                        detailed_log.append(f"❌ {file_path} - {original_title}: {validation_detail}")
+                    
+                    new_title = update_title_status(original_title, is_online)
+                    
+                    if new_title != original_title:
+                        updated_count += 1
+                        print(f"  🔄 Actualizado: '{original_title}' → '{new_title}'")
+                    
+                    stream_data['title'] = new_title
+                    
+                    # Pequeña pausa para no sobrecargar los servidores
+                    time.sleep(0.5)
+                
+                updated_block = create_stream_block(stream_data)
+                updated_blocks.append(updated_block)
+            
+            # Generar contenido final para este archivo
+            final_content = '\n'.join(updated_blocks)
+            
+            # Estadísticas del archivo
+            print(f"\n📈 ESTADÍSTICAS PARA {file_path}:")
+            print(f"   Streams procesados: {len(blocks)}")
+            if validate_urls:
+                print(f"   URLs válidas: {valid_count}")
+                print(f"   URLs inválidas: {invalid_count}")
+                print(f"   Títulos actualizados: {updated_count}")
+                if (valid_count + invalid_count) > 0:
+                    percentage = (valid_count / (valid_count + invalid_count)) * 100
+                    print(f"   Porcentaje válidas: {percentage:.1f}%")
+            
+            # Acumular totales
+            total_valid += valid_count
+            total_invalid += invalid_count
+            total_updated += updated_count
+            processed_files += 1
+            
+            # Guardar archivo si hay cambios
+            if update_file and updated_count > 0:
+                try:
+                    with open(file_path, 'w', encoding='utf-8') as f:
+                        f.write(final_content)
+                    print(f"💾 Archivo actualizado: {file_path}")
+                except Exception as e:
+                    print(f"❌ Error al guardar {file_path}: {str(e)}")
+        
+        # Estadísticas totales
+        print(f"\n🎯 === ESTADÍSTICAS TOTALES ===")
+        print(f"   Directorio procesado: {directory_path}")
+        print(f"   Total archivos procesados: {processed_files}")
+        print(f"   Total streams: {total_streams}")
+        if validate_urls:
+            print(f"   Total URLs válidas: {total_valid}")
+            print(f"   Total URLs inválidas: {total_invalid}")
+            print(f"   Total títulos actualizados: {total_updated}")
+            if (total_valid + total_invalid) > 0:
+                total_percentage = (total_valid / (total_valid + total_invalid)) * 100
+                print(f"   Porcentaje total válidas: {total_percentage:.1f}%")
+        
+        # Guardar reporte detallado
+        with open("validation_report_country.txt", 'w', encoding='utf-8') as f:
+            f.write(f"REPORTE DETALLADO DE VALIDACIÓN DE STREAMS\n")
+            f.write(f"=========================================\n")
+            f.write(f"Fecha: $(date)\n")
+            f.write(f"Directorio procesado: {directory_path}\n")
+            f.write(f"Archivos procesados: {processed_files}\n")
+            f.write(f"Total streams: {total_streams}\n")
+            if validate_urls:
+                f.write(f"Total URLs válidas: {total_valid}\n")
+                f.write(f"Total URLs inválidas: {total_invalid}\n")
+                f.write(f"Total títulos actualizados: {total_updated}\n")
+                if (total_valid + total_invalid) > 0:
+                    total_percentage = (total_valid / (total_invalid + total_invalid)) * 100
+                    f.write(f"Porcentaje total válidas: {total_percentage:.1f}%\n")
+                f.write(f"\nDETALLE DE VALIDACIONES:\n")
+                f.write(f"========================\n")
+                for log_entry in detailed_log:
+                    f.write(f"{log_entry}\n")
+        
+        print("✅ Proceso completado con validación mejorada")
+        print("📋 Los streams ahora se validan verificando contenido real de streaming")
+        EOF
+    
+    - name: Commit cambios
+      if: github.event.inputs.update_file == 'true' || github.event_name == 'schedule'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        if git diff --staged --quiet; then
+          echo "No hay cambios para commitear"
+        else
+          git commit -m "🤖 Validación automática mejorada de streams - $(date)"
+          git push
+        fi
+    
+    - name: Upload reporte
+      uses: actions/upload-artifact@v4
+      with:
+        name: validation-report
+        path: validation_report_country.txt
