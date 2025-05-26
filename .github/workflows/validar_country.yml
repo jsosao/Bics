@@ -1,4 +1,4 @@
-name: Validar Streams [X] - Mejorado
+name: Validar Streams [x] Country
 
 on:
   # Ejecutar manualmente
@@ -20,25 +20,12 @@ on:
         options:
         - 'true'
         - 'false'
-      directory_path:
-        description: 'Directorio a procesar'
-        required: true
-        default: 'country/country'
-        type: string
-      deep_validation:
-        description: '¿Validación profunda de segmentos?'
-        required: true
-        default: 'false'
-        type: choice
-        options:
-        - 'true'
-        - 'false'
   
   # Ejecutar automáticamente cada día a las 08:00 AM UTC
   schedule:
     - cron: '0 8 * * *'
   
-  # Ejecutar cuando se modifica algún archivo en el directorio especificado
+  # Ejecutar cuando se modifica algún archivo en el directorio country
   # push:
   #  paths:
   #    - 'country/country/**'
@@ -56,513 +43,297 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.11'
+        python-version: '3.9'
     
-    - name: Install dependencies
-      run: |
-        pip install requests lxml beautifulsoup4
-    
-    - name: Validar Streams Mejorado
+    - name: Validar Streams
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         python << 'EOF'
-        import requests
+        import urllib.request
+        import urllib.error
+        from urllib.parse import urlparse
         import socket
         import re
         import json
+        import base64
         import os
-        import time
-        from datetime import datetime
-        from urllib.parse import urlparse, urljoin
-        import xml.etree.ElementTree as ET
         
-        class StreamValidator:
-            def __init__(self, timeout=15, max_retries=3):
-                self.timeout = timeout
-                self.max_retries = max_retries
-                self.session = requests.Session()
-                self.session.headers.update({
-                    'User-Agent': 'GitHub-Action-Stream-Validator/2.0',
-                    'Accept': '*/*',
-                    'Accept-Language': 'en-US,en;q=0.9',
-                    'Cache-Control': 'no-cache'
-                })
-                
-                # Estadísticas
-                self.stats = {
-                    'total_streams': 0,
-                    'valid_streams': 0,
-                    'invalid_streams': 0,
-                    'error_403': 0,
-                    'error_404': 0,
-                    'error_503': 0,
-                    'timeout_errors': 0,
-                    'format_errors': 0,
-                    'updated_titles': 0
-                }
-            
-            def validate_stream_url(self, url, deep_validation=False):
-                """Valida una URL de streaming con reintentos y validación específica"""
-                if not url or not self._is_valid_url(url):
-                    return {'valid': False, 'error': 'Invalid URL format', 'status_code': 0}
-                
-                for attempt in range(1, self.max_retries + 1):
-                    try:
-                        response = self.session.get(
-                            url, 
-                            timeout=self.timeout,
-                            allow_redirects=True,
-                            stream=True
-                        )
-                        
-                        # Manejar códigos de estado específicos
-                        if response.status_code == 200:
-                            # Validar contenido del stream
-                            content_type = response.headers.get('content-type', '').lower()
-                            
-                            # Leer primeros bytes para validar formato
-                            try:
-                                chunk = next(response.iter_content(chunk_size=1024), b'')
-                                content_preview = chunk.decode('utf-8', errors='ignore')
-                                
-                                is_valid_format = self._validate_stream_format(content_preview, url)
-                                
-                                if is_valid_format:
-                                    # Validación profunda si se solicita
-                                    if deep_validation:
-                                        segment_validation = self._validate_segments(content_preview, url)
-                                        if not segment_validation['valid']:
-                                            return segment_validation
-                                    
-                                    return {'valid': True, 'status_code': 200, 'content_type': content_type}
-                                else:
-                                    self.stats['format_errors'] += 1
-                                    return {'valid': False, 'error': 'Invalid stream format', 'status_code': 200}
-                                    
-                            except Exception as e:
-                                return {'valid': False, 'error': f'Content validation error: {str(e)}', 'status_code': 200}
-                        
-                        elif response.status_code == 403:
-                            self.stats['error_403'] += 1
-                            if attempt < self.max_retries:
-                                # Intentar con headers adicionales
-                                self.session.headers.update({
-                                    'Referer': urlparse(url).netloc,
-                                    'Origin': f"{urlparse(url).scheme}://{urlparse(url).netloc}"
-                                })
-                                time.sleep(2 ** attempt)  # Backoff exponencial
-                                continue
-                            return {'valid': False, 'error': 'Access forbidden (403)', 'status_code': 403}
-                        
-                        elif response.status_code == 404:
-                            self.stats['error_404'] += 1
-                            return {'valid': False, 'error': 'Stream not found (404)', 'status_code': 404}
-                        
-                        elif response.status_code == 503:
-                            self.stats['error_503'] += 1
-                            if attempt < self.max_retries:
-                                time.sleep(5 * attempt)  # Esperar más tiempo para 503
-                                continue
-                            return {'valid': False, 'error': 'Service unavailable (503)', 'status_code': 503}
-                        
-                        elif 500 <= response.status_code < 600:
-                            if attempt < self.max_retries:
-                                time.sleep(3 * attempt)
-                                continue
-                            return {'valid': False, 'error': f'Server error ({response.status_code})', 'status_code': response.status_code}
-                        
-                        else:
-                            return {'valid': False, 'error': f'HTTP {response.status_code}', 'status_code': response.status_code}
-                            
-                    except requests.exceptions.Timeout:
-                        self.stats['timeout_errors'] += 1
-                        if attempt < self.max_retries:
-                            continue
-                        return {'valid': False, 'error': 'Request timeout', 'status_code': 0}
-                    
-                    except requests.exceptions.ConnectionError:
-                        if attempt < self.max_retries:
-                            time.sleep(2 * attempt)
-                            continue
-                        return {'valid': False, 'error': 'Connection error', 'status_code': 0}
-                    
-                    except Exception as e:
-                        if attempt < self.max_retries:
-                            time.sleep(1 * attempt)
-                            continue
-                        return {'valid': False, 'error': f'Unexpected error: {str(e)}', 'status_code': 0}
-                
-                return {'valid': False, 'error': 'Max retries exceeded', 'status_code': 0}
-            
-            def _is_valid_url(self, url):
-                """Valida formato básico de URL"""
-                try:
-                    parsed = urlparse(url)
-                    return all([parsed.scheme in ['http', 'https'], parsed.netloc])
-                except:
+        def validate_stream_url(url, timeout=15):
+            try:
+                parsed_url = urlparse(url)
+                if not parsed_url.scheme or not parsed_url.netloc:
                     return False
-            
-            def _validate_stream_format(self, content, url):
-                """Valida si el contenido corresponde a un formato de streaming válido"""
-                content_lower = content.lower()
                 
-                # Validar M3U8 (HLS)
-                if url.endswith('.m3u8') or 'application/vnd.apple.mpegurl' in content_lower:
-                    return ('#extm3u' in content_lower or 
-                           '#ext-x-version' in content_lower or
-                           '#extinf' in content_lower)
+                socket.setdefaulttimeout(timeout)
                 
-                # Validar MPD (DASH)
-                if url.endswith('.mpd') or 'application/dash+xml' in content_lower:
-                    return ('<mpd' in content_lower and 
-                           'xmlns' in content_lower and
-                           'mediapresentation' in content_lower.replace(' ', ''))
+                headers = {
+                    'User-Agent': 'GitHub-Action-Stream-Validator/1.0'
+                }
                 
-                # Validar TS (Transport Stream)
-                if url.endswith('.ts'):
-                    return len(content.encode()) > 188  # TS packets are 188 bytes
+                req = urllib.request.Request(url, headers=headers)
                 
-                # Para otros formatos, asumir válido si hay contenido
-                return len(content.strip()) > 0
-            
-            def _validate_segments(self, manifest_content, base_url):
-                """Validación profunda de segmentos para HLS"""
-                try:
-                    lines = manifest_content.split('\n')
-                    segment_urls = []
-                    
-                    for line in lines:
-                        line = line.strip()
-                        if line and not line.startswith('#'):
-                            if line.startswith('http'):
-                                segment_urls.append(line)
-                            else:
-                                segment_urls.append(urljoin(base_url, line))
-                    
-                    if not segment_urls:
-                        return {'valid': True}  # No hay segmentos para validar
-                    
-                    # Validar primeros 2 segmentos
-                    valid_segments = 0
-                    for segment_url in segment_urls[:2]:
-                        try:
-                            response = self.session.head(segment_url, timeout=5)
-                            if response.status_code == 200:
-                                valid_segments += 1
-                        except:
-                            pass
-                    
-                    return {
-                        'valid': valid_segments > 0,
-                        'segments_checked': min(len(segment_urls), 2),
-                        'valid_segments': valid_segments
-                    }
-                    
-                except Exception as e:
-                    return {'valid': True}  # En caso de error, no fallar la validación principal
+                with urllib.request.urlopen(req, timeout=timeout) as response:
+                    if 200 <= response.getcode() < 400:
+                        return True
+                        
+                return False
+                
+            except:
+                return False
         
         def parse_stream_block(block_text):
-            """Parsea un bloque de configuración de stream"""
             try:
-                patterns = {
-                    'title': r'Title:\s*"([^"]*)"',
-                    'stream': r'Stream:\s*"([^"]*)"',
-                    'artist': r'Artist:\s*"([^"]*)"',
-                    'stream_format': r'streamFormat:\s*"([^"]*)"',
-                    'switching_strategy': r'SwitchingStrategy:\s*"([^"]*)"',
-                    'logo': r'Logo:\s*"([^"]*)"',
-                    'live': r'Live:\s*(true|false)'
+                title_match = re.search(r'Title:\s*"([^"]*)"', block_text)
+                title = title_match.group(1) if title_match else ""
+                
+                stream_match = re.search(r'Stream:\s*"([^"]*)"', block_text)
+                stream_url = stream_match.group(1) if stream_match else ""
+                
+                artist_match = re.search(r'Artist:\s*"([^"]*)"', block_text)
+                artist = artist_match.group(1) if artist_match else "web"
+                
+                stream_format_match = re.search(r'streamFormat:\s*"([^"]*)"', block_text)
+                stream_format = stream_format_match.group(1) if stream_format_match else "hls|mts"
+                
+                switching_strategy_match = re.search(r'SwitchingStrategy:\s*"([^"]*)"', block_text)
+                switching_strategy = switching_strategy_match.group(1) if switching_strategy_match else "full-adaptation"
+                
+                logo_match = re.search(r'Logo:\s*"([^"]*)"', block_text)
+                logo = logo_match.group(1) if logo_match else "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+                
+                live_match = re.search(r'Live:\s*(true|false)', block_text)
+                live = live_match.group(1) if live_match else "true"
+                
+                return {
+                    'artist': artist,
+                    'title': title,
+                    'stream_format': stream_format,
+                    'switching_strategy': switching_strategy,
+                    'logo': logo,
+                    'stream_url': stream_url,
+                    'live': live
                 }
-                
-                data = {}
-                for key, pattern in patterns.items():
-                    match = re.search(pattern, block_text)
-                    data[key] = match.group(1) if match else ""
-                
-                # Valores por defecto
-                defaults = {
-                    'artist': 'web',
-                    'stream_format': 'hls|mts',
-                    'switching_strategy': 'full-adaptation',
-                    'logo': 'https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png',
-                    'live': 'true'
-                }
-                
-                for key, default_value in defaults.items():
-                    if not data[key]:
-                        data[key] = default_value
-                
-                return data
-                
-            except Exception as e:
-                print(f"Error parsing block: {str(e)}")
+            except:
                 return None
         
         def update_title_status(title, is_online):
-            """Actualiza el título con marcador [X] según el estado"""
             has_x_marker = title.startswith("[X] ")
             
             if is_online:
-                return title[4:] if has_x_marker else title
+                if has_x_marker:
+                    return title[4:]
+                else:
+                    return title
             else:
-                return f"[X] {title}" if not has_x_marker else title
+                if not has_x_marker:
+                    return f"[X] {title}"
+                else:
+                    return title
         
         def create_stream_block(stream_data):
-            """Crea un bloque de configuración de stream"""
             return f'''{{
             Artist: "{stream_data['artist']}"
             Title: "{stream_data['title']}"
             streamFormat: "{stream_data['stream_format']}"
             SwitchingStrategy: "{stream_data['switching_strategy']}"
             Logo: "{stream_data['logo']}"
-            Stream: "{stream_data['stream']}"
+            Stream: "{stream_data['stream_url']}"
             Live: {stream_data['live']}
         }}'''
         
-        def process_files(directory_path, validator, validate_urls=True, update_file=True, deep_validation=False):
-            """Procesa todos los archivos en el directorio especificado"""
-            
-            print("🎯 === VALIDADOR DE STREAMS MEJORADO ===")
-            print(f"📁 Procesando directorio: {directory_path}")
-            print(f"🔍 Validar URLs: {validate_urls}")
-            print(f"💾 Actualizar archivo: {update_file}")
-            print(f"🔬 Validación profunda: {deep_validation}")
-            print(f"⏰ Timestamp: {datetime.now().isoformat()}")
-            print()
-            
-            if not os.path.exists(directory_path):
-                print(f"❌ Directorio {directory_path} no encontrado")
-                return False
-            
-            try:
-                all_files = os.listdir(directory_path)
-                file_paths = [os.path.join(directory_path, f) for f in all_files 
-                             if os.path.isfile(os.path.join(directory_path, f)) and not f.startswith('.')]
-                
-                if not file_paths:
-                    print(f"❌ No se encontraron archivos en {directory_path}")
-                    return False
-                    
-                print(f"📋 Archivos encontrados: {len(file_paths)}")
-                for fp in file_paths:
-                    print(f"   - {os.path.basename(fp)}")
-                print()
-                
-            except Exception as e:
-                print(f"❌ Error al leer el directorio {directory_path}: {str(e)}")
-                return False
-            
-            processed_files = 0
-            
-            for file_path in file_paths:
-                print(f"\n📂 === PROCESANDO: {os.path.basename(file_path)} ===")
-                
-                try:
-                    with open(file_path, 'r', encoding='utf-8') as f:
-                        content = f.read()
-                except Exception as e:
-                    print(f"❌ Error al leer el archivo: {str(e)}")
-                    continue
-                
-                # Procesar bloques
-                blocks = []
-                current_block = ""
-                brace_count = 0
-                
-                for line in content.split('\n'):
-                    line = line.strip()
-                    if not line:
-                        continue
-                        
-                    current_block += line + '\n'
-                    brace_count += line.count('{') - line.count('}')
-                    
-                    if brace_count == 0 and current_block.strip():
-                        blocks.append(current_block.strip())
-                        current_block = ""
-                
-                if not blocks:
-                    print(f"❌ No se encontraron bloques válidos")
-                    continue
-                
-                print(f"📊 Encontrados {len(blocks)} streams")
-                validator.stats['total_streams'] += len(blocks)
-                
-                updated_blocks = []
-                file_updated_count = 0
-                
-                for i, block in enumerate(blocks, 1):
-                    stream_data = parse_stream_block(block)
-                    
-                    if not stream_data:
-                        updated_blocks.append(block)
-                        continue
-                    
-                    original_title = stream_data['title']
-                    stream_url = stream_data['stream']
-                    
-                    if validate_urls and stream_url:
-                        print(f"🔍 [{i:3d}/{len(blocks)}] {original_title[:40]}...")
-                        
-                        validation_result = validator.validate_stream_url(stream_url, deep_validation)
-                        is_online = validation_result['valid']
-                        
-                        if is_online:
-                            validator.stats['valid_streams'] += 1
-                            print(f"    ✅ Online")
-                        else:
-                            validator.stats['invalid_streams'] += 1
-                            error_msg = validation_result.get('error', 'Unknown error')
-                            status_code = validation_result.get('status_code', 0)
-                            print(f"    ❌ Offline - {error_msg}")
-                        
-                        new_title = update_title_status(original_title, is_online)
-                        
-                        if new_title != original_title:
-                            file_updated_count += 1
-                            validator.stats['updated_titles'] += 1
-                            print(f"    🔄 '{original_title}' → '{new_title}'")
-                        
-                        stream_data['title'] = new_title
-                    
-                    updated_block = create_stream_block(stream_data)
-                    updated_blocks.append(updated_block)
-                
-                # Generar contenido final
-                final_content = '\n'.join(updated_blocks)
-                
-                print(f"\n📈 Estadísticas del archivo:")
-                print(f"   Streams procesados: {len(blocks)}")
-                if validate_urls:
-                    valid_count = sum(1 for block in blocks if not parse_stream_block(block)['title'].startswith('[X]')) if blocks else 0
-                    print(f"   Títulos actualizados: {file_updated_count}")
-                
-                # Guardar archivo si hay cambios
-                if update_file and file_updated_count > 0:
-                    try:
-                        with open(file_path, 'w', encoding='utf-8') as f:
-                            f.write(final_content)
-                        print(f"💾 Archivo actualizado")
-                    except Exception as e:
-                        print(f"❌ Error al guardar: {str(e)}")
-                
-                processed_files += 1
-            
-            return True
-        
-        def generate_report(validator, directory_path):
-            """Genera reporte de validación"""
-            stats = validator.stats
-            timestamp = datetime.now().isoformat()
-            
-            report_content = f"""REPORTE DE VALIDACIÓN DE STREAMS
-
-Fecha: {timestamp}
-Directorio procesado: {directory_path}
-
-ESTADÍSTICAS GENERALES:
-- Total streams procesados: {stats['total_streams']}
-- Streams válidos: {stats['valid_streams']}
-- Streams inválidos: {stats['invalid_streams']}
-- Títulos actualizados: {stats['updated_titles']}
-
-ERRORES POR TIPO:
-- Error 403 (Acceso denegado): {stats['error_403']}
-- Error 404 (No encontrado): {stats['error_404']}
-- Error 503 (Servicio no disponible): {stats['error_503']}
-- Timeouts: {stats['timeout_errors']}
-- Errores de formato: {stats['format_errors']}
-
-PORCENTAJES:
-"""
-            
-            if stats['valid_streams'] + stats['invalid_streams'] > 0:
-                total_validated = stats['valid_streams'] + stats['invalid_streams']
-                success_rate = (stats['valid_streams'] / total_validated) * 100
-                report_content += f"- Tasa de éxito: {success_rate:.1f}%\n"
-                report_content += f"- Tasa de error: {100 - success_rate:.1f}%\n"
-            
-            return report_content
-        
-        # === CONFIGURACIÓN PRINCIPAL ===
-        directory_path = "${{ github.event.inputs.directory_path }}" or "country/country"
+        # Configuración - directorio a procesar
+        directory_path = "country/country"
         validate_urls = "${{ github.event.inputs.validate_urls }}" != "false"
         update_file = "${{ github.event.inputs.update_file }}" == "true"
-        deep_validation = "${{ github.event.inputs.deep_validation }}" == "true"
         
-        # Para ejecución programada
         if "${{ github.event_name }}" == "schedule":
             validate_urls = True
             update_file = True
-            deep_validation = False
         
-        # Inicializar validador
-        validator = StreamValidator(timeout=20, max_retries=3)
+        print("🎯 === VALIDADOR DE STREAMS - GITHUB ACTION ===")
+        print(f"📁 Procesando directorio: {directory_path}")
+        print(f"🔍 Validar URLs: {validate_urls}")
+        print(f"💾 Actualizar archivo: {update_file}")
+        print()
         
-        # Procesar archivos
-        success = process_files(
-            directory_path=directory_path,
-            validator=validator,
-            validate_urls=validate_urls,
-            update_file=update_file,
-            deep_validation=deep_validation
-        )
-        
-        if success:
-            # Mostrar estadísticas finales
-            print(f"\n🎯 === ESTADÍSTICAS FINALES ===")
-            stats = validator.stats
-            print(f"Total streams: {stats['total_streams']}")
-            print(f"Válidos: {stats['valid_streams']}")
-            print(f"Inválidos: {stats['invalid_streams']}")
-            print(f"Actualizados: {stats['updated_titles']}")
-            
-            # Generar reporte
-            report_content = generate_report(validator, directory_path)
-            with open("validation_report.txt", 'w', encoding='utf-8') as f:
-                f.write(report_content)
-            
-            print("✅ Proceso completado exitosamente")
-        else:
-            print("❌ El proceso falló")
+        # Verificar si el directorio existe
+        if not os.path.exists(directory_path):
+            print(f"❌ Directorio {directory_path} no encontrado")
             exit(1)
         
+        # Obtener todos los archivos del directorio
+        try:
+            all_files = os.listdir(directory_path)
+            # Filtrar solo archivos (no directorios) y excluir archivos ocultos
+            file_paths = [os.path.join(directory_path, f) for f in all_files 
+                         if os.path.isfile(os.path.join(directory_path, f)) and not f.startswith('.')]
+            
+            if not file_paths:
+                print(f"❌ No se encontraron archivos en {directory_path}")
+                exit(1)
+                
+            print(f"📋 Archivos encontrados: {len(file_paths)}")
+            for fp in file_paths:
+                print(f"   - {fp}")
+            print()
+            
+        except Exception as e:
+            print(f"❌ Error al leer el directorio {directory_path}: {str(e)}")
+            exit(1)
+        
+        total_streams = 0
+        total_valid = 0
+        total_invalid = 0
+        total_updated = 0
+        processed_files = 0
+        
+        # Procesar cada archivo
+        for file_path in file_paths:
+            print(f"\n📂 === PROCESANDO: {file_path} ===")
+            
+            # Leer archivo
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+            except Exception as e:
+                print(f"❌ Error al leer el archivo {file_path}: {str(e)}")
+                continue
+            
+            # Procesar bloques
+            blocks = []
+            current_block = ""
+            brace_count = 0
+            
+            for line in content.split('\n'):
+                line = line.strip()
+                if not line:
+                    continue
+                    
+                current_block += line + '\n'
+                brace_count += line.count('{') - line.count('}')
+                
+                if brace_count == 0 and current_block.strip():
+                    blocks.append(current_block.strip())
+                    current_block = ""
+            
+            if not blocks:
+                print(f"❌ No se encontraron bloques válidos en {file_path}")
+                continue
+            
+            print(f"📊 Encontrados {len(blocks)} streams en {file_path}")
+            total_streams += len(blocks)
+            
+            updated_blocks = []
+            valid_count = 0
+            invalid_count = 0
+            updated_count = 0
+            
+            for i, block in enumerate(blocks, 1):
+                stream_data = parse_stream_block(block)
+                
+                if not stream_data:
+                    updated_blocks.append(block)
+                    continue
+                
+                original_title = stream_data['title']
+                stream_url = stream_data['stream_url']
+                
+                if validate_urls and stream_url:
+                    print(f"🔍 Validando {i}/{len(blocks)}: {original_title[:50]}...")
+                    is_online = validate_stream_url(stream_url)
+                    
+                    if is_online:
+                        valid_count += 1
+                        print("  ✅ Online")
+                    else:
+                        invalid_count += 1
+                        print("  ❌ Offline")
+                    
+                    new_title = update_title_status(original_title, is_online)
+                    
+                    if new_title != original_title:
+                        updated_count += 1
+                        print(f"  🔄 Actualizado: '{original_title}' → '{new_title}'")
+                    
+                    stream_data['title'] = new_title
+                
+                updated_block = create_stream_block(stream_data)
+                updated_blocks.append(updated_block)
+            
+            # Generar contenido final para este archivo
+            final_content = '\n'.join(updated_blocks)
+            
+            # Estadísticas del archivo
+            print(f"\n📈 ESTADÍSTICAS PARA {file_path}:")
+            print(f"   Streams procesados: {len(blocks)}")
+            if validate_urls:
+                print(f"   URLs válidas: {valid_count}")
+                print(f"   URLs inválidas: {invalid_count}")
+                print(f"   Títulos actualizados: {updated_count}")
+                if (valid_count + invalid_count) > 0:
+                    percentage = (valid_count / (valid_count + invalid_count)) * 100
+                    print(f"   Porcentaje válidas: {percentage:.1f}%")
+            
+            # Acumular totales
+            total_valid += valid_count
+            total_invalid += invalid_count
+            total_updated += updated_count
+            processed_files += 1
+            
+            # Guardar archivo si hay cambios
+            if update_file and updated_count > 0:
+                try:
+                    with open(file_path, 'w', encoding='utf-8') as f:
+                        f.write(final_content)
+                    print(f"💾 Archivo actualizado: {file_path}")
+                except Exception as e:
+                    print(f"❌ Error al guardar {file_path}: {str(e)}")
+        
+        # Estadísticas totales
+        print(f"\n🎯 === ESTADÍSTICAS TOTALES ===")
+        print(f"   Directorio procesado: {directory_path}")
+        print(f"   Total archivos procesados: {processed_files}")
+        print(f"   Total streams: {total_streams}")
+        if validate_urls:
+            print(f"   Total URLs válidas: {total_valid}")
+            print(f"   Total URLs inválidas: {total_invalid}")
+            print(f"   Total títulos actualizados: {total_updated}")
+            if (total_valid + total_invalid) > 0:
+                total_percentage = (total_valid / (total_valid + total_invalid)) * 100
+                print(f"   Porcentaje total válidas: {total_percentage:.1f}%")
+        
+        # Guardar reporte
+        with open("validation_report_country.txt", 'w', encoding='utf-8') as f:
+            f.write(f"REPORTE DE VALIDACIÓN\n")
+            f.write(f"====================\n")
+            f.write(f"Fecha: $(date)\n")
+            f.write(f"Directorio procesado: {directory_path}\n")
+            f.write(f"Archivos procesados: {processed_files}\n")
+            f.write(f"Total streams: {total_streams}\n")
+            if validate_urls:
+                f.write(f"Total URLs válidas: {total_valid}\n")
+                f.write(f"Total URLs inválidas: {total_invalid}\n")
+                f.write(f"Total títulos actualizados: {total_updated}\n")
+        
+        print("✅ Proceso completado")
         EOF
     
     - name: Commit cambios
-      if: (github.event.inputs.update_file == 'true' || github.event_name == 'schedule') && success()
+      if: github.event.inputs.update_file == 'true' || github.event_name == 'schedule'
       run: |
         git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action - Stream Validator"
+        git config --local user.name "GitHub Action"
         git add .
         if git diff --staged --quiet; then
           echo "No hay cambios para commitear"
         else
-          git commit -m "🤖 Validación automática de streams - $(date '+%Y-%m-%d %H:%M:%S')"
+          git commit -m "🤖 Validación automática de streams - $(date)"
           git push
         fi
     
     - name: Upload reporte
       uses: actions/upload-artifact@v4
-      if: always()
       with:
-        name: validation-report-${{ github.run_number }}
-        path: validation_report.txt
-        retention-days: 30
-    
-    - name: Comentar en PR (si aplica)
-      if: github.event_name == 'pull_request'
-      uses: actions/github-script@v7
-      with:
-        script: |
-          const fs = require('fs');
-          if (fs.existsSync('validation_report.txt')) {
-            const report = fs.readFileSync('validation_report.txt', 'utf8');
-            github.rest.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: `## 📊 Reporte de Validación de Streams\n\n\`\`\`\n${report}\n\`\`\``
-            });
-          }
+        name: validation-report
+        path: validation_report_country.txt
