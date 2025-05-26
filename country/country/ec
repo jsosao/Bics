@@ -57,7 +57,7 @@
     Title: "LAS ESTRELLAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/las_estrellas.png"
     Stream: "http://38.44.109.41:8003/play/a00g/index.m3u8"
     Live: true
 }
@@ -184,7 +184,7 @@
     Title: "FX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/tnt.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/fx.png"
     Stream: "http://38.44.109.41:8003/play/a01g/index.m3u8"
     Live: true
 }
@@ -376,7 +376,7 @@
     Title: "DISCOVERY ID"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_id.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/id.png"
     Stream: "http://38.44.109.41:8003/play/a02s/index.m3u8"
     Live: true
 }
