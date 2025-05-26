@@ -1,53 +1,12 @@
 {
     Artist: "los3"
-    Title: "24 HORAS"
+    Title: "TVN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a00m/index.m3u8"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/cl_tvn.png"
+    Stream: "http://200.113.4.75:7210/play/a007/index.m3u8"
     Live: true
 }
-
-{
-    Artist: "los3"
-    Title: "AE MUNDO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a012/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "AXN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a022/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "ANIMAL PLANET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a00t/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "BABYFIRST"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a02j/index.m3u8"
-    Live: true
-}
-
 {
     Artist: "los3"
     Title: "CANAL 13"
@@ -57,433 +16,93 @@
     Stream: "http://200.113.4.75:7210/play/a00a/index.m3u8"
     Live: true
 }
-
 {
     Artist: "los3"
     Title: "CHV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/cl_chilevision.png"
     Stream: "http://200.113.4.75:7210/play/a009/index.m3u8"
     Live: true
 }
-
-{
-    Artist: "los3"
-    Title: "CNN CHILE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a01k/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "CNN ESPANOL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a005/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "CANAL ESTRELLAS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a015/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "CARTOON NETWORK"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a01o/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "CINECANAL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a01e/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "CINEMAX"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a020/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "DISCOVERY CHANNEL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a00s/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "DISCOVERY ID"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a01u/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "DISCOVERY KIDS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a004/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "DISCOVERY TURBO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a026/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "DISNEY CHANNEL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a00r/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "DISNEY JR"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a00l/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "E ENTERTAINMENT"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a00v/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "ESPN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a00y/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "ESPN 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a00n/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "ESPN 2 LATIN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a00x/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "ESPN 3"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a028/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "ENLACE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a01q/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "ESNE TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a027/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "FX"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a024/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "FOX SPORTS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a00w/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "FOX SPORTS 1"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a00d/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "FOX SPORTS 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a016/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "FOX SPORTS 3"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a017/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "HBO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a01z/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "HBO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a02b/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "HBO 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a00h/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "HBO FAMILY"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a00k/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "HBO PLUS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a00i/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "HBO XTREME SD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a00j/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "HISTORY CHANNEL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a01d/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "HOMEANDHEALTH"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a01w/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "LA RED"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a006/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "LIFETIME"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a02k/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "MTV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a01h/index.m3u8"
-    Live: true
-}
-
 {
     Artist: "los3"
     Title: "MEGA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/cl_mega.png"
     Stream: "http://200.113.4.75:7210/play/a008/index.m3u8"
     Live: true
 }
-
 {
     Artist: "los3"
-    Title: "NTV"
+    Title: "CANAL ESTRELLAS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/las_estrellas.png"
+    Stream: "http://200.113.4.75:7210/play/a015/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "24 HORAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a00o/index.m3u8"
+    Stream: "http://200.113.4.75:7210/play/a00m/index.m3u8"
     Live: true
 }
-
 {
     Artist: "los3"
-    Title: "NAT GEO"
+    Title: "AXN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a01c/index.m3u8"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_axn.png"
+    Stream: "http://200.113.4.75:7210/play/a022/index.m3u8"
     Live: true
 }
-
 {
     Artist: "los3"
-    Title: "NICK JR"
+    Title: "FX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a025/index.m3u8"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/fx.png"
+    Stream: "http://200.113.4.75:7210/play/a024/index.m3u8"
     Live: true
 }
-
 {
     Artist: "los3"
-    Title: "NICKELODEON"
+    Title: "AE MUNDO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a01a/index.m3u8"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_a&e.png"
+    Stream: "http://200.113.4.75:7210/play/a012/index.m3u8"
     Live: true
 }
-
 {
     Artist: "los3"
-    Title: "RCN NOVELAS"
+    Title: "UNIVERSAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a01t/index.m3u8"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_universal_tv.png"
+    Stream: "http://200.113.4.75:7210/play/a01f/index.m3u8"
     Live: true
 }
-
+{
+    Artist: "los3"
+    Title: "WARNER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_warner_tv.png"
+    Stream: "http://200.113.4.75:7210/play/a00u/index.m3u8"
+    Live: true
+}
 {
     Artist: "los3"
     Title: "STAR CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_star_channel.png"
     Stream: "http://200.113.4.75:7210/play/a01l/index.m3u8"
     Live: true
 }
@@ -493,7 +112,7 @@
     Title: "SONY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_canal_sony.png"
     Stream: "http://200.113.4.75:7210/play/a021/index.m3u8"
     Live: true
 }
@@ -503,7 +122,7 @@
     Title: "SPACE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_space.png"
     Stream: "http://200.113.4.75:7210/play/a023/index.m3u8"
     Live: true
 }
@@ -513,7 +132,7 @@
     Title: "SYFY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/syfy.png"
     Stream: "http://200.113.4.75:7210/play/a02l/index.m3u8"
     Live: true
 }
@@ -523,7 +142,7 @@
     Title: "TCM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/tcm.png"
     Stream: "http://200.113.4.75:7210/play/a01m/index.m3u8"
     Live: true
 }
@@ -533,7 +152,7 @@
     Title: "TLC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/tlc.png"
     Stream: "http://200.113.4.75:7210/play/a013/index.m3u8"
     Live: true
 }
@@ -543,11 +162,379 @@
     Title: "TNT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/tnt.png"
     Stream: "http://200.113.4.75:7210/play/a01p/index.m3u8"
     Live: true
 }
+{
+    Artist: "los3"
+    Title: "E ENTERTAINMENT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/e!.png"
+    Stream: "http://200.113.4.75:7210/play/a00v/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "LIFETIME"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/lifetime.png"
+    Stream: "http://200.113.4.75:7210/play/a02k/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "TELEMUNDO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
+    Stream: "http://200.113.4.75:7210/play/a018/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "CINECANAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_cinecanal.png"
+    Stream: "http://200.113.4.75:7210/play/a01e/index.m3u8"
+    Live: true
+}
 
+{
+    Artist: "los3"
+    Title: "CINEMAX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cinemax.png"
+    Stream: "http://200.113.4.75:7210/play/a020/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "HBO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo.png"
+    Stream: "http://200.113.4.75:7210/play/a01z/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "los3"
+    Title: "HBO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo.png"
+    Stream: "http://200.113.4.75:7210/play/a02b/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "los3"
+    Title: "HBO 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo_2.png"
+    Stream: "http://200.113.4.75:7210/play/a00h/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "los3"
+    Title: "HBO FAMILY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo_family.png"
+    Stream: "http://200.113.4.75:7210/play/a00k/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "los3"
+    Title: "HBO PLUS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_plus.png"
+    Stream: "http://200.113.4.75:7210/play/a00i/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "los3"
+    Title: "HBO XTREME SD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_xtreme.png"
+    Stream: "http://200.113.4.75:7210/play/a00j/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "ANIMAL PLANET"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/animal_planet.png"
+    Stream: "http://200.113.4.75:7210/play/a00t/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "DISCOVERY CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_channel.png"
+    Stream: "http://200.113.4.75:7210/play/a00s/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "DISCOVERY ID"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/id.png"
+    Stream: "http://200.113.4.75:7210/play/a01u/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "DISCOVERY TURBO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_turbo.png"
+    Stream: "http://200.113.4.75:7210/play/a026/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "HOMEANDHEALTH"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_h&h.png"
+    Stream: "http://200.113.4.75:7210/play/a01w/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "NAT GEO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nat_geo.png"
+    Stream: "http://200.113.4.75:7210/play/a01c/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "los3"
+    Title: "HISTORY CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_history_channel.png"
+    Stream: "http://200.113.4.75:7210/play/a01d/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Stream: "http://200.113.4.75:7210/play/a00y/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "ESPN 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
+    Stream: "http://200.113.4.75:7210/play/a00n/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "los3"
+    Title: "ESPN 2 LATIN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
+    Stream: "http://200.113.4.75:7210/play/a00x/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "los3"
+    Title: "ESPN 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
+    Stream: "http://200.113.4.75:7210/play/a028/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "FOX SPORTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/ar_fox_sports.png"
+    Stream: "http://200.113.4.75:7210/play/a00w/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "FOX SPORTS 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/ar_fox_sports.png"
+    Stream: "http://200.113.4.75:7210/play/a00d/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "FOX SPORTS 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/ar_fox_sports_2.png"
+    Stream: "http://200.113.4.75:7210/play/a016/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "FOX SPORTS 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/ar_fox_sports_3.png"
+    Stream: "http://200.113.4.75:7210/play/a017/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "TNT SPORTS 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tnt_sports.png"
+    Stream: "http://200.113.4.75:7210/play/a00c/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "TNT SPORTS 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tnt_sports.png"
+    Stream: "http://200.113.4.75:7210/play/a011/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "DISCOVERY KIDS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/d_kids.png"
+    Stream: "http://200.113.4.75:7210/play/a004/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "DISNEY CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/disney_channel.png"
+    Stream: "http://200.113.4.75:7210/play/a00r/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "DISNEY JR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/disney_jr.png"
+    Stream: "http://200.113.4.75:7210/play/a00l/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "CARTOON NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/cartoon_network.png"
+    Stream: "http://200.113.4.75:7210/play/a01o/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "NICK JR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/nick_jr.png"
+    Stream: "http://200.113.4.75:7210/play/a025/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "NICKELODEON"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/nickelodeon.png"
+    Stream: "http://200.113.4.75:7210/play/a01a/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "CNN CHILE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cnn_espanol.png"
+    Stream: "http://200.113.4.75:7210/play/a01k/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "CNN ESPANOL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cnn_espanol.png"
+    Stream: "http://200.113.4.75:7210/play/a005/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "LA RED"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://200.113.4.75:7210/play/a006/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "MTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://200.113.4.75:7210/play/a01h/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "NTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://200.113.4.75:7210/play/a00o/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "RCN NOVELAS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://200.113.4.75:7210/play/a01t/index.m3u8"
+    Live: true
+}
 {
     Artist: "los3"
     Title: "TNT NOVELAS"
@@ -557,27 +544,6 @@
     Stream: "http://200.113.4.75:7210/play/a02m/index.m3u8"
     Live: true
 }
-
-{
-    Artist: "los3"
-    Title: "TNT SPORTS 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a00c/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "TNT SPORTS 3"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a011/index.m3u8"
-    Live: true
-}
-
 {
     Artist: "los3"
     Title: "TVE"
@@ -587,38 +553,6 @@
     Stream: "http://200.113.4.75:7210/play/a01r/index.m3u8"
     Live: true
 }
-
-{
-    Artist: "los3"
-    Title: "TVN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a007/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "TELEMUNDO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a018/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "UNIVERSAL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a01f/index.m3u8"
-    Live: true
-}
-
-
 {
     Artist: "los3"
     Title: "VIAX"
@@ -628,17 +562,24 @@
     Stream: "http://200.113.4.75:7210/play/a014/index.m3u8"
     Live: true
 }
-
 {
     Artist: "los3"
-    Title: "WARNER"
+    Title: "ENLACE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a00u/index.m3u8"
+    Stream: "http://200.113.4.75:7210/play/a01q/index.m3u8"
     Live: true
 }
-
+{
+    Artist: "los3"
+    Title: "ESNE TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://200.113.4.75:7210/play/a027/index.m3u8"
+    Live: true
+}
 {
     Artist: "los3"
     Title: "ZONA LATINA"
@@ -648,4 +589,3 @@
     Stream: "http://200.113.4.75:7210/play/a01i/index.m3u8"
     Live: true
 }
-
