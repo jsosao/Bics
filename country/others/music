@@ -292,7 +292,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/mtv.png"
-    Stream: "http://fl2.moveonjoy.com/MTV/index.m3u8"
+    Stream: "http://fl1.moveonjoy.com/MTV/index.m3u8"
     Live: true
 }
 {
@@ -301,7 +301,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/mtv_2.png"
-    Stream: "http://fl2.moveonjoy.com/MTV_2/index.m3u8"
+    Stream: "http://fl1.moveonjoy.com/MTV_2/index.m3u8"
     Live: true
 }
 {
@@ -310,7 +310,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/mtv_classic.png"
-    Stream: "http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8"
+    Stream: "http://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8"
     Live: true
 }
 {
@@ -319,7 +319,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/mtv_live.png"
-    Stream: "http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8"
+    Stream: "http://fl1.moveonjoy.com/MTV_LIVE/index.m3u8"
     Live: true
 }
 {
@@ -328,7 +328,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/mtv_u.png"
-    Stream: "http://fl2.moveonjoy.com/MTV_U/index.m3u8"
+    Stream: "http://fl1.moveonjoy.com/MTV_U/index.m3u8"
     Live: true
 }
 {
@@ -337,6 +337,6 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/vh1.png"
-    Stream: "http://fl2.moveonjoy.com/VH1/index.m3u8"
+    Stream: "http://fl1.moveonjoy.com/VH1/index.m3u8"
     Live: true
 }
