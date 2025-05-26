@@ -1,6 +1,96 @@
 {
     Artist: "los3"
-    Title: "EC| A3CINE"
+    Title: "ECUADORTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ec_ecuadortv.png"
+    Stream: "http://38.44.109.41:8003/play/a02b/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "ECUAVISA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ec_ecuavisa.png"
+    Stream: "http://38.44.109.41:8003/play/a019/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "TELEAMAZONAS HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ec_teleamazonas.png"
+    Stream: "http://38.44.109.41:8003/play/a035/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "TELEAMAZONAS SD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/ec_teleamazonas.png"
+    Stream: "http://38.44.109.41:8003/play/a01d/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "AZTECA UNO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/azteca_uno.png"
+    Stream: "http://38.44.109.41:8003/play/a033/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "LAS ESTRELLAS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://38.44.109.41:8003/play/a00g/index.m3u8"
+    Live: true
+}
+
+
+
+
+
+
+
+
+
+{
+    Artist: "los3"
+    Title: "AXN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_axn.png"
+    Stream: "http://38.44.109.41:8003/play/a031/index.m3u8"
+    Live: true
+}
+
+
+
+
+{
+    Artist: "los3"
+    Title: "AMC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/amc_network.png"
+    Stream: "http://38.44.109.41:8003/play/a02a/index.m3u8"
+    Live: true
+}
+
+
+
+
+
+{
+    Artist: "los3"
+    Title: "A3CINE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -8,19 +98,13 @@
     Live: true
 }
 
-{
-    Artist: "los3"
-    Title: "EC| AMC"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.44.109.41:8003/play/a02a/index.m3u8"
-    Live: true
-}
+
+
+
 
 {
     Artist: "los3"
-    Title: "EC| ATV"
+    Title: "ATV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -30,7 +114,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| ATV SUR"
+    Title: "ATV SUR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -38,29 +122,14 @@
     Live: true
 }
 
-{
-    Artist: "los3"
-    Title: "EC| AXN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.44.109.41:8003/play/a031/index.m3u8"
-    Live: true
-}
+
+
+
+
 
 {
     Artist: "los3"
-    Title: "EC| ALJAZEERA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.44.109.41:8003/play/a00q/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "EC| AMERICA TV GO"
+    Title: "AMERICA TV GO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -68,29 +137,23 @@
     Live: true
 }
 
+
+
+
 {
     Artist: "los3"
-    Title: "EC| ANIMAL PLANET"
+    Title: "ANIMAL PLANET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/animal_planet.png"
     Stream: "http://38.44.109.41:8003/play/a010/index.m3u8"
     Live: true
 }
 
-{
-    Artist: "los3"
-    Title: "EC| AZTECA UNO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.44.109.41:8003/play/a033/index.m3u8"
-    Live: true
-}
 
 {
     Artist: "los3"
-    Title: "EC| BITME"
+    Title: "BITME"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -98,29 +161,12 @@
     Live: true
 }
 
-{
-    Artist: "los3"
-    Title: "EC| CGTN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.44.109.41:8003/play/a021/index.m3u8"
-    Live: true
-}
+
+
 
 {
     Artist: "los3"
-    Title: "EC| CNN ESPAÑOL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.44.109.41:8003/play/a00d/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "EC| CANAL 1"
+    Title: "CANAL 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -130,7 +176,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| CANAL 6 MX"
+    Title: "CANAL 6 MX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -140,7 +186,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| CARACOL HD"
+    Title: "CARACOL HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -150,7 +196,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| CARTOON NETWORK"
+    Title: "CARTOON NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -160,7 +206,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| CARTOONITO"
+    Title: "CARTOONITO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -170,7 +216,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| CINECANAL"
+    Title: "CINECANAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -180,7 +226,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| CINEMAX"
+    Title: "CINEMAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -190,7 +236,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| CITY TV"
+    Title: "CITY TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -200,7 +246,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| COCAVISION"
+    Title: "COCAVISION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -210,7 +256,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| CUBAVISION"
+    Title: "CUBAVISION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -220,7 +266,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| DW"
+    Title: "DW"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -230,7 +276,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| DISCOVERY"
+    Title: "DISCOVERY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -240,7 +286,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| DISCOVERY H&H"
+    Title: "DISCOVERY H&H"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -250,7 +296,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| DISCOVERY ID"
+    Title: "DISCOVERY ID"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -260,7 +306,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| DISCOVERY KIDS"
+    Title: "DISCOVERY KIDS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -270,7 +316,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| DISNEY CHANNEL"
+    Title: "DISNEY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -280,7 +326,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| DISNEY JR"
+    Title: "DISNEY JR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -290,7 +336,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| DISTRITO COMEDIA"
+    Title: "DISTRITO COMEDIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -300,7 +346,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| E!"
+    Title: "E!"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -310,7 +356,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| ECDF"
+    Title: "ECDF"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -320,7 +366,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| EJTV"
+    Title: "EJTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -330,7 +376,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| ESPN 1"
+    Title: "ESPN 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -340,7 +386,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| ESPN 2"
+    Title: "ESPN 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -350,7 +396,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| ESPN 3"
+    Title: "ESPN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -360,7 +406,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| ESPN 4 HD"
+    Title: "ESPN 4 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -370,7 +416,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| ESPN 5"
+    Title: "ESPN 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -380,7 +426,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| ESPN 6"
+    Title: "ESPN 6"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -390,7 +436,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| ESPN 7"
+    Title: "ESPN 7"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -400,7 +446,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| ESPN PREMIUM"
+    Title: "ESPN PREMIUM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -410,7 +456,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| ESPN2_MOD"
+    Title: "ESPN2_MOD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -420,7 +466,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| ESPN3_MOD"
+    Title: "ESPN3_MOD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -430,7 +476,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| ESPN5_MOD"
+    Title: "ESPN5_MOD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -440,7 +486,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| ESPNPREMIUM_MOD"
+    Title: "ESPNPREMIUM_MOD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -450,7 +496,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| ESPN_MOD"
+    Title: "ESPN_MOD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -460,7 +506,20 @@
 
 {
     Artist: "los3"
-    Title: "EC| EWTN"
+    Title: "WIN SPORTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://38.44.109.41:8003/play/a03n/index.m3u8"
+    Live: true
+}
+
+
+
+
+{
+    Artist: "los3"
+    Title: "EWTN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -468,29 +527,10 @@
     Live: true
 }
 
-{
-    Artist: "los3"
-    Title: "EC| ECUADORTV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.44.109.41:8003/play/a02b/index.m3u8"
-    Live: true
-}
 
 {
     Artist: "los3"
-    Title: "EC| ECUAVISA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.44.109.41:8003/play/a019/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "EC| ENLACE"
+    Title: "ENLACE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -500,7 +540,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| EUROCHANNEL"
+    Title: "EUROCHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -510,7 +550,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| FX"
+    Title: "FX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -520,7 +560,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| FOOD NETWORK"
+    Title: "FOOD NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -530,7 +570,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| GAMAVISION"
+    Title: "GAMAVISION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -540,7 +580,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| GOL TV"
+    Title: "GOL TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -550,7 +590,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| GOLDEN"
+    Title: "GOLDEN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -560,7 +600,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| GOLDEN EDGE"
+    Title: "GOLDEN EDGE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -570,7 +610,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| GUATEVISION"
+    Title: "GUATEVISION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -580,7 +620,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| HBO"
+    Title: "HBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -590,7 +630,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| HBO FAMILY"
+    Title: "HBO FAMILY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -600,7 +640,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| HISPAN TV"
+    Title: "HISPAN TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -610,7 +650,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| HISTORY CHANNEL"
+    Title: "HISTORY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -620,7 +660,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| HOGAR TV"
+    Title: "HOGAR TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -630,7 +670,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| LA TELE"
+    Title: "LA TELE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -638,19 +678,11 @@
     Live: true
 }
 
-{
-    Artist: "los3"
-    Title: "EC| LAS ESTRELLAS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.44.109.41:8003/play/a00g/index.m3u8"
-    Live: true
-}
+
 
 {
     Artist: "los3"
-    Title: "EC| LOLLY KIDS"
+    Title: "LOLLY KIDS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -660,7 +692,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| LOVE NATURE"
+    Title: "LOVE NATURE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -670,7 +702,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| MTV"
+    Title: "MTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -680,7 +712,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| MAKRODIGITAL"
+    Title: "MAKRODIGITAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -690,7 +722,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| NAT GEO"
+    Title: "NAT GEO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -700,7 +732,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| NICK"
+    Title: "NICK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -710,7 +742,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| NICK JR"
+    Title: "NICK JR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -720,7 +752,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| NUEVO TIEMPO"
+    Title: "NUEVO TIEMPO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -730,7 +762,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| OROMAR"
+    Title: "OROMAR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -740,7 +772,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| PANAMERICANA"
+    Title: "PANAMERICANA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -750,7 +782,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| PASIONES"
+    Title: "PASIONES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -760,7 +792,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| PLIM PLIM"
+    Title: "PLIM PLIM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -770,7 +802,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| RCN HD"
+    Title: "RCN HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -780,7 +812,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| RT"
+    Title: "RT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -790,7 +822,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| RTS"
+    Title: "RTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -800,7 +832,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| RTU"
+    Title: "RTU"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -810,7 +842,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| RUMBA TV"
+    Title: "RUMBA TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -820,7 +852,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| SNT"
+    Title: "SNT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -830,7 +862,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| SENAL COLOMBIA"
+    Title: "SENAL COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -840,7 +872,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| SONY"
+    Title: "SONY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -850,7 +882,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| SPACE"
+    Title: "SPACE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -860,7 +892,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| STAR CHANNEL"
+    Title: "STAR CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -870,7 +902,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| STUDIO UNIVERSAL"
+    Title: "STUDIO UNIVERSAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -880,7 +912,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| TC HD"
+    Title: "TC HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -890,7 +922,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| TNT"
+    Title: "TNT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -900,7 +932,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| TNT SERIES"
+    Title: "TNT SERIES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -910,7 +942,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| TV AGRO"
+    Title: "TV AGRO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -920,7 +952,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| TVC"
+    Title: "TVC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -928,29 +960,10 @@
     Live: true
 }
 
-{
-    Artist: "los3"
-    Title: "EC| TELEAMAZONAS HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.44.109.41:8003/play/a035/index.m3u8"
-    Live: true
-}
 
 {
     Artist: "los3"
-    Title: "EC| TELEAMAZONAS SD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.44.109.41:8003/play/a01d/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "los3"
-    Title: "EC| TELEANTILLAS"
+    Title: "TELEANTILLAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -960,7 +973,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| TELEHIT"
+    Title: "TELEHIT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -970,7 +983,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| TELEMEDELLIN"
+    Title: "TELEMEDELLIN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -980,7 +993,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| TELEMICRO"
+    Title: "TELEMICRO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -990,7 +1003,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| TELEMUNDO"
+    Title: "TELEMUNDO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1000,7 +1013,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| TELENOSTALGIA"
+    Title: "TELENOSTALGIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1010,7 +1023,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| TELENOVELAS"
+    Title: "TELENOVELAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1020,7 +1033,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| TELESUR"
+    Title: "TELESUR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1030,7 +1043,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| TRECE"
+    Title: "TRECE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1040,7 +1053,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| TURBO"
+    Title: "TURBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1050,7 +1063,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| TYC SPORTS"
+    Title: "TYC SPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1060,7 +1073,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| UNICABLE"
+    Title: "UNICABLE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1070,7 +1083,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| VTV"
+    Title: "VTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1078,19 +1091,41 @@
     Live: true
 }
 
+
 {
     Artist: "los3"
-    Title: "EC| WIN SPORTS"
+    Title: "CNN ESPAÑOL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://38.44.109.41:8003/play/a03n/index.m3u8"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/cnn_espanol.png"
+    Stream: "http://38.44.109.41:8003/play/a00d/index.m3u8"
     Live: true
 }
 
 {
     Artist: "los3"
-    Title: "EC| YASUNITV"
+    Title: "ALJAZEERA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/al_jazeera.png"
+    Stream: "http://38.44.109.41:8003/play/a00q/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "CGTN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://38.44.109.41:8003/play/a021/index.m3u8"
+    Live: true
+}
+
+
+
+{
+    Artist: "los3"
+    Title: "YASUNITV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1100,7 +1135,7 @@
 
 {
     Artist: "los3"
-    Title: "EC| ZOOMOO"
+    Title: "ZOOMOO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
