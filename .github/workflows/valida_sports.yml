@@ -31,7 +31,7 @@ on:
   #    - 'country/sports/**'
 
 jobs:
-  validate-streams:
+  validate-streams-sports:
     runs-on: ubuntu-latest
     
     steps:
