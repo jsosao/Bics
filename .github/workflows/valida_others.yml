@@ -31,7 +31,7 @@ on:
   #    - 'country/others/**'
 
 jobs:
-  validate-streams:
+  validate-streams-others:
     runs-on: ubuntu-latest
     
     steps:
