@@ -1,30 +1,13 @@
 {
-    Artist: "kv"
-    Title: "AZTECA CINEMA"
+    Artist: "Chloe125_TV"
+    Title: "LAS ESTRELLAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.217.23.56:1010/play/a0br/index.m3u8"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/las_estrellas.png"
+    Stream: "http://190.216.158.199:8000/play/a02s/index.m3u8"
     Live: true
 }
-{
-    Artist: "kv"
-    Title: "AZTECA CLIC"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.217.23.56:1010/play/a0bq/index.m3u8"
-    Live: true
-}
-{
-    Artist: "kv"
-    Title: "AZTECA CORAZON"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.217.23.56:1010/play/a0bs/index.m3u8"
-    Live: true
-}
+
 {
     Artist: "kv"
     Title: "AZTECA INTERNACIONAL"
@@ -72,24 +55,6 @@
 }
 {
     Artist: "kv"
-    Title: "ATV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.217.23.56:1010/play/a0bx/index.m3u8"
-    Live: true
-}
-{
-    Artist: "kv"
-    Title: "DHE HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.217.23.56:1010/play/a08s/index.m3u8"
-    Live: true
-}
-{
-    Artist: "kv"
     Title: "[X] Discovery H&H HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -102,7 +67,7 @@
     Title: "[X] Discovery HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_channel.png"
     Stream: "http://190.217.23.56:1010/play/a0cf/index.m3u8"
     Live: true
 }
@@ -120,7 +85,7 @@
     Title: "Distrito Comedia"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/distrito_comedia.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_distrito_comedia.png"
     Stream: "http://190.217.23.56:1010/play/a0er/index.m3u8"
     Live: true
 }
@@ -279,8 +244,6 @@
 }
 
 
-
-
 {
     Artist: "kv"
     Title: "Nick HD"
@@ -297,15 +260,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/nick_jr.png"
     Stream: "http://190.217.23.56:1010/play/a0af/index.m3u8"
-    Live: true
-}
-{
-    Artist: "kv"
-    Title: "Pasiones"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.217.23.56:1010/play/a0dz/index.m3u8"
     Live: true
 }
 {
@@ -356,19 +310,10 @@
 }
 {
     Artist: "kv"
-    Title: "[X] Telenovelas"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.217.23.56:1010/play/a0bz/index.m3u8"
-    Live: true
-}
-{
-    Artist: "kv"
     Title: "[X] Telesur"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telesur.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/cr_telesur.png"
     Stream: "http://190.217.23.56:1010/play/a0cz/index.m3u8"
     Live: true
 }
@@ -480,15 +425,8 @@
     Stream: "http://190.60.56.41:8000/play/a00p/index.m3u8"
     Live: true
 }
-{
-    Artist: "kv"
-    Title: "Enlace"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.60.56.41:8000/play/a00k/index.m3u8"
-    Live: true
-}
+
+
 {
     Artist: "kv"
     Title: "FX"
@@ -521,7 +459,7 @@
     Title: "ITV Deportes"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/itv.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/itv_deportes.png"
     Stream: "http://190.60.56.41:8000/play/a009/index.m3u8"
     Live: true
 }
@@ -530,7 +468,7 @@
     Title: "Maria Vision"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/maria_vision.png"
     Stream: "http://190.60.56.41:8000/play/a003/index.m3u8"
     Live: true
 }
@@ -557,17 +495,8 @@
     Title: "Nickelodeon"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/nick.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/nickelodeon.png"
     Stream: "http://190.60.56.41:8000/play/a00d/index.m3u8"
-    Live: true
-}
-{
-    Artist: "kv"
-    Title: "RCN Novelas"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://190.60.56.41:8000/play/a00n/index.m3u8"
     Live: true
 }
 {
@@ -619,15 +548,6 @@
 }
 {
     Artist: "Chloe125_TV"
-    Title: "LAS ESTRELLAS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/las_estrellas.png"
-    Stream: "http://190.216.158.199:8000/play/a02s/index.m3u8"
-    Live: true
-}
-{
-    Artist: "Chloe125_TV"
     Title: "GOLDEN EDGE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -663,7 +583,89 @@
     Live: true
 }
 
+{
+    Artist: "kv"
+    Title: "[X] Telenovelas"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://190.217.23.56:1010/play/a0bz/index.m3u8"
+    Live: true
+}
 
+{
+    Artist: "kv"
+    Title: "Pasiones"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://190.217.23.56:1010/play/a0dz/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "kv"
+    Title: "ATV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://190.217.23.56:1010/play/a0bx/index.m3u8"
+    Live: true
+}
+{
+    Artist: "kv"
+    Title: "DHE HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://190.217.23.56:1010/play/a08s/index.m3u8"
+    Live: true
+}
+{
+    Artist: "kv"
+    Title: "AZTECA CINEMA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://190.217.23.56:1010/play/a0br/index.m3u8"
+    Live: true
+}
+{
+    Artist: "kv"
+    Title: "AZTECA CLIC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://190.217.23.56:1010/play/a0bq/index.m3u8"
+    Live: true
+}
+{
+    Artist: "kv"
+    Title: "AZTECA CORAZON"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://190.217.23.56:1010/play/a0bs/index.m3u8"
+    Live: true
+}
+{
+    Artist: "kv"
+    Title: "RCN Novelas"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://190.60.56.41:8000/play/a00n/index.m3u8"
+    Live: true
+}
+{
+    Artist: "kv"
+    Title: "Enlace"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://190.60.56.41:8000/play/a00k/index.m3u8"
+    Live: true
+}
 {
     Artist: "kv"
     Title: "RT"
