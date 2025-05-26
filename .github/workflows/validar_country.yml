@@ -457,7 +457,7 @@ jobs:
             timestamp = datetime.now().isoformat()
             
             report_content = f"""REPORTE DE VALIDACIÓN DE STREAMS
-==========================================
+
 Fecha: {timestamp}
 Directorio procesado: {directory_path}
 
