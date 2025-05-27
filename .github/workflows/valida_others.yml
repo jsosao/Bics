@@ -328,7 +328,7 @@ jobs:
         if git diff --staged --quiet; then
           echo "No hay cambios para commitear"
         else
-          git commit -m "🤖 Validación automática de streams - $(date)"
+          git commit -m "🤖 Validación Others - $(date)"
           git push
         fi
     
