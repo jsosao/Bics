@@ -225,15 +225,6 @@
 }
 {
     Artist: "Mevohad2024"
-    Title: "[X] MX: TLC"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/tlc.png"
-    Stream: "http://190.111.16.106:40000/play/a06g"
-    Live: true
-}
-{
-    Artist: "Mevohad2024"
     Title: "MX: TCM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -350,12 +341,12 @@
     Live: true
 }
 {
-    Artist: "Mevohad2024"
+    Artist: "los3"
     Title: "[X] MX: HISTORY 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_h2.png"
-    Stream: "http://181.78.109.48:8000/play/a03k/index.m3u8"
+    Stream: "http://38.49.128.38:8000/play/a0dj/index.m3u8"
     Live: true
 }
 {
@@ -386,12 +377,12 @@
     Live: true
 }
 {
-    Artist: "Chloe125_TV"
+    Artist: "los3"
     Title: "[X] DISCOVERY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_channel.png"
-    Stream: "http://190.216.158.199:8000/play/a00o/index.m3u8"
+    Stream: "http://38.49.128.38:8000/play/a0ep/index.m3u8"
     Live: true
 }
 {
@@ -404,12 +395,12 @@
     Live: true
 }
 {
-    Artist: "Mevohad2024"
-    Title: "[X] MX: DISCOVERY TLC"
+    Artist: "los3"
+    Title: "[X] MX: TLC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_tlc.png"
-    Stream: "http://190.111.16.106:40000/play/a06g"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/tlc.png"
+    Stream: "http://38.49.128.38:8000/play/a0bx/index.m3u8"
     Live: true
 }
 {
@@ -521,12 +512,12 @@
     Live: true
 }
 {
-    Artist: "Mevohad2024"
+    Artist: "Chloe125_TV"
     Title: "[X] MX: STAR CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_star_channel.png"
-    Stream: "http://181.78.109.48:8000/play/a04t/index.m3u8"
+    Stream: "http://200.229.147.142:8000/play/a03d/index.m3u8"
     Live: true
 }
 {
@@ -665,15 +656,6 @@
     Live: true
 }
 {
-    Artist: "web"
-    Title: "[X] Paramount"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/paramount_network.png"
-    Stream: "http://181.78.105.146:2000/play/a01s/index.m3u8"
-    Live: true
-}
-{
     Artist: "maurysam"
     Title: "[X] MX: STUDIO UNIVERSAL"
     streamFormat: "dash"
@@ -688,7 +670,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_canal_sony.png"
-    Stream: "http://181.78.109.48:8000/play/a04v/index.m3u8"
+    Stream: "http://45.235.37.254/sonyhd/index.m3u8"
     Live: true
 }
 {
@@ -715,7 +697,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/cartoonito.png"
-    Stream: "http://181.78.109.48:8000/play/a01o/index.m3u8"
+    Stream: "http://200.115.120.1:8000/play/ca006/index.m3u8"
     Live: true
 }
 {
@@ -742,7 +724,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_tooncast.png"
-    Stream: "http://181.78.109.48:8000/play/a04e/index.m3u8"
+    Stream: "http://80.80.91.195:8000/play/a04s/index.m3u8"
     Live: true
 }
 {
@@ -760,7 +742,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tudn.png"
-    Stream: "http://190.111.16.106:40000/play/a09p"
+    Stream: "http://200.115.120.1:8000/play/ca039/index.m3u8"
     Live: true
 }
 {
@@ -782,12 +764,12 @@
     Live: true
 }
 {
-    Artist: "vk"
+    Artist: "los3"
     Title: "[X] MX: ESPN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
-    Stream: "http://8.243.64.35:8002/play/a08e/index.m3u8"
+    Stream: "http://38.49.128.38:8000/play/a0c3/index.m3u8"
     Live: true
 }
 {
@@ -818,15 +800,6 @@
     Live: true
 }
 {
-    Artist: "vk"
-    Title: "[X] MX: ESPN 7"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_7.png"
-    Stream: "http://8.243.64.35:8002/play/a07q/index.m3u8"
-    Live: true
-}
-{
     Artist: "Mevohad2024"
     Title: "MX: FOX SPORTS"
     streamFormat: "hls|mts"
@@ -850,7 +823,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/mx_fox_sports_3.png"
-    Stream: "http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/100"
+    Stream: "http://181.78.27.128:8000/play/a02s/index.m3u8"
     Live: true
 }
 {
@@ -913,7 +886,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo_family.png"
-    Stream: "http://181.78.109.48:8000/play/a01a/index.m3u8"
+    Stream: "http://186.148.195.206:8000/play/a0w9/index.m3u8"
     Live: true
 }
 {
@@ -940,7 +913,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_mundi.png"
-    Stream: "http://181.78.201.70:8000/play/a0fu/index.m3u8"
+    Stream: "http://186.148.195.206:8000/play/a0vj/index.m3u8"
     Live: true
 }
 {
@@ -976,7 +949,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_golden.png"
-    Stream: "200.107.142.38:9000/play/a011/index.m3u8"
+    Stream: "http://200.107.142.38:9000/play/a011/index.m3u8"
     Live: true
 }
 {
@@ -985,6 +958,6 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_golden.png"
-    Stream: "200.107.142.38:9000/play/a012/index.m3u8"
+    Stream: "http://200.107.142.38:9000/play/a012/index.m3u8"
     Live: true
 }
