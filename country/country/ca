@@ -9,7 +9,7 @@
 }
 {
     Artist: "LiveTVCollector"
-    Title: "[X] CTV 2"
+    Title: "CTV 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv_2.png"
@@ -27,7 +27,7 @@
 }
 {
     Artist: "LiveTVCollector"
-    Title: "[X] CTV COMEDY"
+    Title: "CTV COMEDY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca/ctv_comedy.png"
@@ -232,11 +232,3 @@
     Stream: "http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/2219"
     Live: true
 }
-
-
-
-
-
-
-
-
