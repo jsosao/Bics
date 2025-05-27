@@ -316,6 +316,15 @@
 {
     Artist: "maury"
     Title: "MX: HISTORY CHANNEL"
+    streamFormat: "dash"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_history_channel.png"
+    Stream: "https://dish.akamaized.net/content/DASH/Live/channel(history)/variant.mpd"
+    Live: true
+}
+{
+    Artist: "maury"
+    Title: "MX: HISTORY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_history_channel.png"
