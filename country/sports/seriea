@@ -3,7 +3,7 @@
     Title: "DO: ESPN NORTE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
     Stream: "http://45.71.254.1:8000/play/a0e6/index.m3u8"
     Live: true
 }
@@ -12,7 +12,7 @@
     Title: "BR: ESPN 6"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_6.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_6.png"
     Stream: "http://play.1list.vip/live/listatvs/controliptv/129624.ts"
     Live: true
 }
@@ -21,7 +21,7 @@
     Title: "[X] RS: ARENA SPORT 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/arena_sports_1.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/rs_arena_sports_1.png"
     Stream: "http://109.105.201.198/ARENASPORT1/video.m3u8?token=test"
     Live: true
 }
@@ -30,7 +30,7 @@
     Title: "[X] RS: ARENA SPORT 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/arena_sports_3.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/rs_arena_sports_3.png"
     Stream: "http://109.105.201.198/ARENASPORT3/video.m3u8?token=test"
     Live: true
 }
@@ -39,7 +39,7 @@
     Title: "[X] RS: ARENA SPORT 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/arena_sports_4.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/rs_arena_sports_4.png"
     Stream: "http://109.105.201.198/ARENASPORT4/video.m3u8?token=test"
     Live: true
 }
