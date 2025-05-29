@@ -3,7 +3,7 @@
  Title: "A&E HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_a&e.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_a&e.png"
  Stream: "http://190.116.38.19:9090/play/a05t/index.m3u8"
  Live: true 
 }
@@ -13,7 +13,7 @@
  Title: "AMC HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/amc_network.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_amc_network.png"
  Stream: "http://190.116.38.19:9090/play/a065/index.m3u8"
  Live: true 
 }
@@ -23,7 +23,7 @@
  Title: "ATRES SERIES HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_antena_series.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_antena_series.png"
  Stream: "http://190.116.38.19:9090/play/a08u/index.m3u8"
  Live: true 
 }
@@ -33,7 +33,7 @@
  Title: "AXN HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_axn.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_axn.png"
  Stream: "http://190.116.38.19:9090/play/a08m/index.m3u8"
  Live: true 
 }
@@ -43,7 +43,7 @@
  Title: "AMERICA TV HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/pe_america_tv.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pe_america_tv.png"
  Stream: "http://190.116.38.19:9090/play/a04x/index.m3u8"
  Live: true 
 }
@@ -53,7 +53,7 @@
  Title: "ANIMAL PLANET HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/animal_planet.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_animal_planet.png"
  Stream: "http://190.116.38.19:9090/play/a08i/index.m3u8"
  Live: true 
 }
@@ -64,7 +64,7 @@
  Title: "CARTOON NETWORK HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/cartoon_network.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoon_network.png"
  Stream: "http://190.116.38.19:9090/play/a08q/index.m3u8"
  Live: true 
 }
@@ -74,7 +74,7 @@
  Title: "CINEMAX HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/cinemax.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cinemax.png"
  Stream: "http://190.116.38.19:9090/play/a07v/index.m3u8"
  Live: true 
 }
@@ -84,7 +84,7 @@
  Title: "CINECANAL HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_cinecanal.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cinecanal.png"
  Stream: "http://190.116.38.19:9090/play/a04t/index.m3u8"
  Live: true 
 }
@@ -94,7 +94,7 @@
  Title: "COMEDY CENTRAL HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/comedy_central.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_comedy_central.png"
  Stream: "http://190.116.38.19:9090/play/a05u/index.m3u8"
  Live: true 
 }
@@ -114,7 +114,7 @@
  Title: "DISCOVERY CHANNEL HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_channel.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_channel.png"
  Stream: "http://190.116.38.19:9090/play/a08p/index.m3u8"
  Live: true 
 }
@@ -124,7 +124,7 @@
  Title: "DISCOVERY H&H HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_h&h.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_h&h.png"
  Stream: "http://190.116.38.19:9090/play/a04v/index.m3u8"
  Live: true 
 }
@@ -134,7 +134,7 @@
  Title: "DISCOVERY HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/discovery_channel.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_channel.png"
  Stream: "http://190.116.38.19:9090/play/a051/index.m3u8"
  Live: true 
 }
@@ -144,7 +144,7 @@
  Title: "DISCOVERY KIDS HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_kids.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_kids.png"
  Stream: "http://190.116.38.19:9090/play/a05h/index.m3u8"
  Live: true 
 }
@@ -154,7 +154,7 @@
  Title: "DISCOVERY THEATER HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_theater.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_theater.png"
  Stream: "http://190.116.38.19:9090/play/a05e/index.m3u8"
  Live: true 
 }
@@ -164,7 +164,7 @@
  Title: "DISCOVERY WORLD HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_discovery_world.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_world.png"
  Stream: "http://190.116.38.19:9090/play/a04s/index.m3u8"
  Live: true 
 }
@@ -174,7 +174,7 @@
  Title: "DISNEY HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/disney_channel.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_channel.png"
  Stream: "http://190.116.38.19:9090/play/a04r/index.m3u8"
  Live: true 
 }
@@ -184,7 +184,7 @@
  Title: "ESPN 2 HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_2.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_2.png"
  Stream: "http://190.116.38.19:9090/play/a00z/index.m3u8"
  Live: true 
 }
@@ -194,7 +194,7 @@
  Title: "ESPN 3 HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_3.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_3.png"
  Stream: "http://190.116.38.19:9090/play/a01v/index.m3u8"
  Live: true 
 }
@@ -204,7 +204,7 @@
  Title: "ESPN 4 HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_4.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_4.png"
  Stream: "http://190.116.38.19:9090/play/a05f/index.m3u8"
  Live: true 
 }
@@ -214,7 +214,7 @@
  Title: "ESPN 5 HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_5.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_5.png"
  Stream: "http://190.116.38.19:9090/play/a07b/index.m3u8"
  Live: true 
 }
@@ -224,7 +224,7 @@
  Title: "ESPN 6 HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_6.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_6.png"
  Stream: "http://190.116.38.19:9090/play/a05o/index.m3u8"
  Live: true 
 }
@@ -234,7 +234,7 @@
  Title: "ESPN 7 HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn_7.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_7.png"
  Stream: "http://190.116.38.19:9090/play/a078/index.m3u8"
  Live: true 
 }
@@ -244,7 +244,7 @@
  Title: "ESPN HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
  Stream: "http://190.116.38.19:9090/play/a016/index.m3u8"
  Live: true 
 }
@@ -254,7 +254,7 @@
  Title: "ESPN PREMIUM HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/espn.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
  Stream: "http://190.116.38.19:9090/play/a05g/index.m3u8"
  Live: true 
 }
@@ -274,7 +274,7 @@
  Title: "EL GOURMET HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_gourmet.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_gourmet.png"
  Stream: "http://190.116.38.19:9090/play/a05v/index.m3u8"
  Live: true 
 }
@@ -284,7 +284,7 @@
  Title: "FX HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/fx.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fx.png"
  Stream: "http://190.116.38.19:9090/play/a05j/index.m3u8"
  Live: true 
 }
@@ -294,7 +294,7 @@
  Title: "FOOD NETWORK HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/food_network.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_food_network.png"
  Stream: "http://190.116.38.19:9090/play/a08x/index.m3u8"
  Live: true 
 }
@@ -304,7 +304,7 @@
  Title: "FOX SPORTS 3 HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/ar_fox_sports_3.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_fox_sports_3.png"
  Stream: "http://190.116.38.19:9090/play/a01w/index.m3u8"
  Live: true 
 }
@@ -314,7 +314,7 @@
  Title: "FRANCE 24" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/news/france_espanol.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_france_espanol.png"
  Stream: "http://190.116.38.19:9090/play/a07n/index.m3u8"
  Live: true 
 }
@@ -334,7 +334,7 @@
  Title: "GOL PERU" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/gol_tv.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_gol_tv.png"
  Stream: "http://190.116.38.19:9090/play/a085/index.m3u8"
  Live: true 
 }
@@ -344,7 +344,7 @@
  Title: "GOLDEN HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_golden.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_golden.png"
  Stream: "http://190.116.38.19:9090/play/a08s/index.m3u8"
  Live: true 
 }
@@ -364,7 +364,7 @@
  Title: "GOL TV" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/gol_tv.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_gol_tv.png"
  Stream: "http://190.116.38.19:9090/play/a07r/index.m3u8"
  Live: true 
 }
@@ -374,7 +374,7 @@
  Title: "HBO FAMILY HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo_family.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_family.png"
  Stream: "http://190.116.38.19:9090/play/a083/index.m3u8"
  Live: true 
 }
@@ -384,7 +384,7 @@
  Title: "HBO HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/hbo.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png"
  Stream: "http://190.116.38.19:9090/play/a050/index.m3u8"
  Live: true 
 }
@@ -394,7 +394,7 @@
  Title: "HBO POP HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_pop.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_pop.png"
  Stream: "http://190.116.38.19:9090/play/a010/index.m3u8"
  Live: true 
 }
@@ -404,7 +404,7 @@
  Title: "HBO XTREME HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/hbo_xtreme.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_xtreme.png"
  Stream: "http://190.116.38.19:9090/play/a08e/index.m3u8"
  Live: true 
 }
@@ -414,7 +414,7 @@
  Title: "HISTORY 2" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_h2.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_2.png"
  Stream: "http://190.116.38.19:9090/play/a07p/index.m3u8"
  Live: true 
 }
@@ -424,7 +424,7 @@
  Title: "HISTORY CHANNEL HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_history_channel.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_channel.png"
  Stream: "http://190.116.38.19:9090/play/a08j/index.m3u8"
  Live: true 
 }
@@ -434,7 +434,7 @@
  Title: "ID HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/id.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_id.png"
  Stream: "http://190.116.38.19:9090/play/a08n/index.m3u8"
  Live: true 
 }
@@ -454,7 +454,7 @@
  Title: "LAS ESTRELLAS HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/las_estrellas.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas.png"
  Stream: "http://190.116.38.19:9090/play/a08f/index.m3u8"
  Live: true 
 }
@@ -474,7 +474,7 @@
  Title: "MTV 00S HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/mtv.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mtv.png"
  Stream: "http://190.116.38.19:9090/play/a08r/index.m3u8"
  Live: true 
 }
@@ -484,7 +484,7 @@
  Title: "MTV HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/mtv.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mtv.png"
  Stream: "http://190.116.38.19:9090/play/a067/index.m3u8"
  Live: true 
 }
@@ -494,7 +494,7 @@
  Title: "MTV LIVE HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/music/mtv_live.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mtv_live.png"
  Stream: "http://190.116.38.19:9090/play/a08h/index.m3u8"
  Live: true 
 }
@@ -524,7 +524,7 @@
  Title: "NAT GEO HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/nat_geo.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo.png"
  Stream: "http://190.116.38.19:9090/play/a08k/index.m3u8"
  Live: true 
 }
@@ -534,7 +534,7 @@
  Title: "NICK HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kids/nick_jr.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nick_jr.png"
  Stream: "http://190.116.38.19:9090/play/a08b/index.m3u8"
  Live: true 
 }
@@ -554,7 +554,7 @@
  Title: "PARAMOUNT HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/paramount_network.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_paramount_network.png"
  Stream: "http://190.116.38.19:9090/play/a04z/index.m3u8"
  Live: true 
 }
@@ -574,7 +574,7 @@
  Title: "STAR CHANNEL HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_star_channel.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_star_channel.png"
  Stream: "http://190.116.38.19:9090/play/a07i/index.m3u8"
  Live: true 
 }
@@ -584,7 +584,7 @@
  Title: "SONY HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/sony_movies.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sony_movies.png"
  Stream: "http://190.116.38.19:9090/play/a08l/index.m3u8"
  Live: true 
 }
@@ -594,7 +594,7 @@
  Title: "SPACE HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_space.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_space.png"
  Stream: "http://190.116.38.19:9090/play/a00x/index.m3u8"
  Live: true 
 }
@@ -614,7 +614,7 @@
  Title: "STUDIO UNIVERSAL HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_studio_universal.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal.png"
  Stream: "http://190.116.38.19:9090/play/a06d/index.m3u8"
  Live: true 
 }
@@ -624,7 +624,7 @@
  Title: "TELEMUNDO" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/telemundo.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
  Stream: "http://190.116.38.19:9090/play/a04c/index.m3u8"
  Live: true 
 }
@@ -634,7 +634,7 @@
  Title: "TNT HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/eeuu/tnt.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tnt.png"
  Stream: "http://190.116.38.19:9090/play/a01u/index.m3u8"
  Live: true 
 }
@@ -644,7 +644,7 @@
  Title: "TNT SERIES HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_tnt_series.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tnt_series.png"
  Stream: "http://190.116.38.19:9090/play/a05k/index.m3u8"
  Live: true 
 }
@@ -674,7 +674,7 @@
  Title: "TVN HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/latin/cl_tvn.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cl_tvn.png"
  Stream: "http://190.116.38.19:9090/play/a06s/index.m3u8"
  Live: true 
 }
@@ -684,7 +684,7 @@
  Title: "TYC SPORTS" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sports/tyc_sports.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_tyc_sports.png"
  Stream: "http://190.116.38.19:9090/play/a07s/index.m3u8"
  Live: true 
 }
@@ -694,7 +694,7 @@
  Title: "UNIVERSAL CHANNEL HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_universal_channel.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_channel.png"
  Stream: "http://190.116.38.19:9090/play/a08g/index.m3u8"
  Live: true 
 }
@@ -724,7 +724,7 @@
  Title: "WARNER HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/mx_warner_tv.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_warner_tv.png"
  Stream: "http://190.116.38.19:9090/play/a08o/index.m3u8"
  Live: true 
 }
