@@ -162,10 +162,10 @@
 }
 {
     Artist: "vk"
-    Title: "AR: AMERICA"
+    Title: "AR: AMERICA TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_america.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_america_tv.png"
     Stream: "http://190.95.60.228:8500/play/a00y"
     Live: true
 }
@@ -175,7 +175,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_telefe.png"
-    Stream: "http://38.250.119.233:4444/play/a09s/index.m3u8"
+    Stream: "http://190.95.60.228:8500/play/a042"
     Live: true
 }
 {
