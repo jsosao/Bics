@@ -45,7 +45,7 @@
 }
 {
     Artist: "neblina"
-    Title: "Las Estrellas"
+    Title: "[X] Las Estrellas"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas.png"
@@ -225,7 +225,7 @@
 }
 {
     Artist: "web"
-    Title: "[X] TV UNAM"
+    Title: "TV UNAM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tv_unam.png"
@@ -522,7 +522,7 @@
 }
 {
     Artist: "web"
-    Title: "[X] GRO: Canal 12"
+    Title: "GRO: Canal 12"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_gro_canal_12.png"
