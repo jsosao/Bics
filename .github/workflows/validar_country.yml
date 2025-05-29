@@ -134,7 +134,7 @@ jobs:
         def create_stream_block(stream_data):
             return f'''{{
             Artist: "{stream_data['artist']}"
-            Title: "{stream_data['title']}"
+            Title: "{stream_data['title'].upper()}"
             streamFormat: "{stream_data['stream_format']}"
             SwitchingStrategy: "{stream_data['switching_strategy']}"
             Logo: "{stream_data['logo']}"
@@ -304,10 +304,12 @@ jobs:
                 print(f"   Porcentaje total válidas: {total_percentage:.1f}%")
         
         # Guardar reporte
+        current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S UTC")
+        
         with open("validation_report_country.txt", 'w', encoding='utf-8') as f:
             f.write(f"REPORTE DE VALIDACIÓN\n")
             f.write(f"====================\n")
-            f.write(f"Fecha: $(date)\n")
+            f.write(f"Fecha: {current_time}\n")
             f.write(f"Directorio procesado: {directory_path}\n")
             f.write(f"Archivos procesados: {processed_files}\n")
             f.write(f"Total streams: {total_streams}\n")
