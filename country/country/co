@@ -1,4 +1,40 @@
 {
+    Artist: "kv"
+    Title: "RCN HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_rcn.png"
+    Stream: "http://190.217.23.56:1010/play/a0d4/index.m3u8"
+    Live: true
+}
+{
+    Artist: "kv"
+    Title: "[X] CANAL RCN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_rcn.png"
+    Stream: "http://190.60.56.41:8000/play/a00u/index.m3u8"
+    Live: true
+}
+{
+    Artist: "kv"
+    Title: "[X] CANAL CARACOL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_caracol.png"
+    Stream: "http://190.60.56.41:8000/play/a00t/index.m3u8"
+    Live: true
+}
+{
+    Artist: "kv"
+    Title: "CARACOL HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_caracol.png"
+    Stream: "http://190.217.23.56:1010/play/a0d5/index.m3u8"
+    Live: true
+}
+{
     Artist: "Chloe125_TV"
     Title: "LAS ESTRELLAS"
     streamFormat: "hls|mts"
@@ -18,20 +54,47 @@
 }
 {
     Artist: "kv"
+    Title: "[X] SPACE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_space.png"
+    Stream: "http://190.60.56.41:8000/play/a016/index.m3u8"
+    Live: true
+}
+{
+    Artist: "kv"
+    Title: "[X] TNT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tnt.png"
+    Stream: "http://190.60.56.41:8000/play/a00j/index.m3u8"
+    Live: true
+}
+{
+    Artist: "kv"
+    Title: "[X] UNIVERSAL TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv.png"
+    Stream: "http://190.60.56.41:8000/play/a00h/index.m3u8"
+    Live: true
+}
+{
+    Artist: "kv"
+    Title: "TNT HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tnt.png"
+    Stream: "http://190.217.23.56:1010/play/a00f/index.m3u8"
+    Live: true
+}
+{
+    Artist: "kv"
     Title: "CNN ESPAÑOL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cnn_espanol.png"
     Stream: "http://190.217.23.56:1010/play/a09r/index.m3u8"
-    Live: true
-}
-{
-    Artist: "kv"
-    Title: "CARACOL HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_caracol.png"
-    Stream: "http://190.217.23.56:1010/play/a0d5/index.m3u8"
     Live: true
 }
 {
@@ -153,6 +216,24 @@
 }
 {
     Artist: "kv"
+    Title: "WIN SPORTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_win_sports.png"
+    Stream: "http://190.217.23.56:1010/play/a0eg/index.m3u8"
+    Live: true
+}
+{
+    Artist: "kv"
+    Title: "WIN SPORTS+ HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_win_sports_plus.png"
+    Stream: "http://190.217.23.56:1010/play/a0et/index.m3u8"
+    Live: true
+}
+{
+    Artist: "kv"
     Title: "EL GOURMET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -261,15 +342,6 @@
 }
 {
     Artist: "kv"
-    Title: "RCN HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_rcn.png"
-    Stream: "http://190.217.23.56:1010/play/a0d4/index.m3u8"
-    Live: true
-}
-{
-    Artist: "kv"
     Title: "SONY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -284,15 +356,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tcm.png"
     Stream: "http://190.217.23.56:1010/play/a0dm/index.m3u8"
-    Live: true
-}
-{
-    Artist: "kv"
-    Title: "TNT HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tnt.png"
-    Stream: "http://190.217.23.56:1010/play/a00f/index.m3u8"
     Live: true
 }
 {
@@ -329,42 +392,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_warner_tv.png"
     Stream: "http://190.217.23.56:1010/play/a046/index.m3u8"
-    Live: true
-}
-{
-    Artist: "kv"
-    Title: "WIN SPORTS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_win_sports.png"
-    Stream: "http://190.217.23.56:1010/play/a0eg/index.m3u8"
-    Live: true
-}
-{
-    Artist: "kv"
-    Title: "WIN SPORTS+ HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_win_sports_plus.png"
-    Stream: "http://190.217.23.56:1010/play/a0et/index.m3u8"
-    Live: true
-}
-{
-    Artist: "kv"
-    Title: "[X] CANAL CARACOL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_caracol.png"
-    Stream: "http://190.60.56.41:8000/play/a00t/index.m3u8"
-    Live: true
-}
-{
-    Artist: "kv"
-    Title: "[X] CANAL RCN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_rcn.png"
-    Stream: "http://190.60.56.41:8000/play/a00u/index.m3u8"
     Live: true
 }
 {
@@ -485,35 +512,8 @@
     Live: true
 }
 {
-    Artist: "kv"
-    Title: "[X] SPACE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_space.png"
-    Stream: "http://190.60.56.41:8000/play/a016/index.m3u8"
-    Live: true
-}
-{
-    Artist: "kv"
-    Title: "[X] TNT"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tnt.png"
-    Stream: "http://190.60.56.41:8000/play/a00j/index.m3u8"
-    Live: true
-}
-{
-    Artist: "kv"
-    Title: "[X] UNIVERSAL TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv.png"
-    Stream: "http://190.60.56.41:8000/play/a00h/index.m3u8"
-    Live: true
-}
-{
     Artist: "Chloe125_TV"
-    Title: "DPELICULA"
+    Title: "D PELICULA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_d_pelicula_plus.png"
