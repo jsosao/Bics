@@ -486,15 +486,6 @@
 }
 {
     Artist: "los3"
-    Title: "MTV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mtv.png"
-    Stream: "http://200.113.4.75:7210/play/a01h/index.m3u8"
-    Live: true
-}
-{
-    Artist: "los3"
     Title: "RCN NOVELAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -522,20 +513,29 @@
 }
 {
     Artist: "los3"
+    Title: "NTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_ntv.png"
+    Stream: "http://200.113.4.75:7210/play/a00o/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "MTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mtv.png"
+    Stream: "http://200.113.4.75:7210/play/a01h/index.m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
     Title: "LA RED"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http://200.113.4.75:7210/play/a006/index.m3u8"
-    Live: true
-}
-{
-    Artist: "los3"
-    Title: "NTV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://200.113.4.75:7210/play/a00o/index.m3u8"
     Live: true
 }
 {
