@@ -1,4 +1,154 @@
 {
+    Artist: "maury"
+    Title: "PREMIUM| [X] UNIVERSAL PREMIER"
+    streamFormat: "dash"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premier.png"
+    Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_premier/vmx/index.mpd"
+    Live: true
+}
+
+{
+    Artist: "angel"
+    Title: "PREMIUM| UNIVERSAL PREMIER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premier.png"
+    Stream: "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302742"
+    Live: true
+}
+
+{
+    Artist: "Abi"
+    Title: "PREMIUM| UNIVERSAL PREMIER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premier.png"
+    Stream: "http://190.83.2.172:8081/play/a05o"
+    Live: true
+}
+
+{
+    Artist: "Mevo"
+    Title: "PREMIUM| UNIVERSAL PREMIER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premier.png"
+    Stream: "http://200.115.96.66:4000/play/a034/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "Mevo"
+    Title: "PREMIUM| UNIVERSAL PREMIER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premier.png"
+    Stream: "http://38.159.227.122:8000/play/a02w/index.m3u"
+    Live: true
+}
+
+{
+    Artist: "vk"
+    Title: "PREMIUM| UNIVERSAL PREMIER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premier.png"
+    Stream: "http://200.107.142.38:9000/play/a01c/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "maury"
+    Title: "PREMIUM| [X] UNIVERSAL CINEMA"
+    streamFormat: "dash"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_cinema.png"
+    Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_cinema/vmx/index.mpd"
+    Live: true
+}
+
+{
+    Artist: "vk"
+    Title: "PREMIUM| UNIVERSAL CINEMA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_cinema.png"
+    Stream: "http://200.107.142.38:9000/play/a01t/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "vk"
+    Title: "PREMIUM| UNIVERSAL CRIME"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_crime.png"
+    Stream: "http://200.107.142.38:9000/play/a01e/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "maury"
+    Title: "PREMIUM| [X] UNIVERSAL COMEDY"
+    streamFormat: "dash"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_comedy.png"
+    Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_comedy/vmx/index.mpd"
+    Live: true
+}
+
+{
+    Artist: "vk"
+    Title: "PREMIUM| UNIVERSAL COMEDY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_comedy.png"
+    Stream: "http://200.107.142.38:9000/play/a01f/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "maury"
+    Title: "PREMIUM| [X] UNIVERSAL COMEDY"
+    streamFormat: "dash"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_reality.png"
+    Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_reality/vmx/index.mpd"
+    Live: true
+}
+
+{
+    Artist: "web"
+    Title: "PREMIUM| MX: UNIVERSAL TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv.png"
+    Stream: "http://45.235.37.254/universalhd/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "vk"
+    Title: "PREMIUM| UNIVERSAL TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv.png"
+    Stream: "http://8.243.64.35:8002/play/a038/index.m3u8"
+    Live: true
+}
+
+{
+    Artist: "maury"
+    Title: "PREMIUM| [X] MX: STUDIO UNIVERSAL"
+    streamFormat: "dash"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal.png"
+    Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_studio/vmx/index.mpd"
+    Live: true
+}
+
+{
     Artist: "vk"
     Title: "AR| STUDIO UNIVERSAL"
     streamFormat: "hls|mts"
@@ -268,155 +418,6 @@
     Live: true
 }
 
-{
-    Artist: "maury"
-    Title: "PREMIUM| [X] UNIVERSAL PREMIER"
-    streamFormat: "dash"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premier.png"
-    Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_premier/vmx/index.mpd"
-    Live: true
-}
-
-{
-    Artist: "angel"
-    Title: "PREMIUM| UNIVERSAL PREMIER"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premier.png"
-    Stream: "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302742"
-    Live: true
-}
-
-{
-    Artist: "Abi"
-    Title: "PREMIUM| UNIVERSAL PREMIER"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premier.png"
-    Stream: "http://190.83.2.172:8081/play/a05o"
-    Live: true
-}
-
-{
-    Artist: "Mevo"
-    Title: "PREMIUM| UNIVERSAL PREMIER"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premier.png"
-    Stream: "http://200.115.96.66:4000/play/a034/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "Mevo"
-    Title: "PREMIUM| UNIVERSAL PREMIER"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premier.png"
-    Stream: "http://38.159.227.122:8000/play/a02w/index.m3u"
-    Live: true
-}
-
-{
-    Artist: "vk"
-    Title: "PREMIUM| UNIVERSAL PREMIER"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premier.png"
-    Stream: "http://200.107.142.38:9000/play/a01c/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "maury"
-    Title: "PREMIUM| [X] UNIVERSAL CINEMA"
-    streamFormat: "dash"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_cinema.png"
-    Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_cinema/vmx/index.mpd"
-    Live: true
-}
-
-{
-    Artist: "vk"
-    Title: "PREMIUM| UNIVERSAL CINEMA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_cinema.png"
-    Stream: "http://200.107.142.38:9000/play/a01t/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "vk"
-    Title: "PREMIUM| UNIVERSAL CRIME"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_crime.png"
-    Stream: "http://200.107.142.38:9000/play/a01e/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "maury"
-    Title: "PREMIUM| [X] UNIVERSAL COMEDY"
-    streamFormat: "dash"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_comedy.png"
-    Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_comedy/vmx/index.mpd"
-    Live: true
-}
-
-{
-    Artist: "vk"
-    Title: "PREMIUM| UNIVERSAL COMEDY"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_comedy.png"
-    Stream: "http://200.107.142.38:9000/play/a01f/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "maury"
-    Title: "PREMIUM| [X] UNIVERSAL COMEDY"
-    streamFormat: "dash"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_reality.png"
-    Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_reality/vmx/index.mpd"
-    Live: true
-}
-
-{
-    Artist: "web"
-    Title: "PREMIUM| MX: UNIVERSAL TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv.png"
-    Stream: "http://45.235.37.254/universalhd/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "vk"
-    Title: "PREMIUM| UNIVERSAL TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv.png"
-    Stream: "http://8.243.64.35:8002/play/a038/index.m3u8"
-    Live: true
-}
-
-{
-    Artist: "maury"
-    Title: "PREMIUM| [X] MX: STUDIO UNIVERSAL"
-    streamFormat: "dash"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal.png"
-    Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_studio/vmx/index.mpd"
-    Live: true
-}
 {
     Artist: "milista"
     Title: "PRUEBA| UNIVERSAL CHANNEL HD (MX)"
