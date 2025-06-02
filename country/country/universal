@@ -1,13 +1,12 @@
 {
     Artist: "maury"
-    Title: "PREMIUM| [X] UNIVERSAL PREMIER"
+    Title: "[X] PREMIUM| [X] UNIVERSAL PREMIER"
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premier.png"
     Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_premier/vmx/index.mpd"
     Live: true
 }
-
 {
     Artist: "angel"
     Title: "PREMIUM| UNIVERSAL PREMIER"
@@ -17,7 +16,6 @@
     Stream: "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302742"
     Live: true
 }
-
 {
     Artist: "Abi"
     Title: "PREMIUM| UNIVERSAL PREMIER"
@@ -27,7 +25,6 @@
     Stream: "http://190.83.2.172:8081/play/a05o"
     Live: true
 }
-
 {
     Artist: "Mevo"
     Title: "PREMIUM| UNIVERSAL PREMIER"
@@ -37,7 +34,6 @@
     Stream: "http://200.115.96.66:4000/play/a034/index.m3u8"
     Live: true
 }
-
 {
     Artist: "Mevo"
     Title: "PREMIUM| UNIVERSAL PREMIER"
@@ -47,7 +43,6 @@
     Stream: "http://38.159.227.122:8000/play/a02w/index.m3u"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "PREMIUM| UNIVERSAL PREMIER"
@@ -57,17 +52,15 @@
     Stream: "http://200.107.142.38:9000/play/a01c/index.m3u8"
     Live: true
 }
-
 {
     Artist: "maury"
-    Title: "PREMIUM| [X] UNIVERSAL CINEMA"
+    Title: "[X] PREMIUM| [X] UNIVERSAL CINEMA"
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_cinema.png"
     Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_cinema/vmx/index.mpd"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "PREMIUM| UNIVERSAL CINEMA"
@@ -77,7 +70,6 @@
     Stream: "http://200.107.142.38:9000/play/a01t/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "PREMIUM| UNIVERSAL CRIME"
@@ -87,17 +79,15 @@
     Stream: "http://200.107.142.38:9000/play/a01e/index.m3u8"
     Live: true
 }
-
 {
     Artist: "maury"
-    Title: "PREMIUM| [X] UNIVERSAL COMEDY"
+    Title: "[X] PREMIUM| [X] UNIVERSAL COMEDY"
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_comedy.png"
     Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_comedy/vmx/index.mpd"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "PREMIUM| UNIVERSAL COMEDY"
@@ -107,17 +97,15 @@
     Stream: "http://200.107.142.38:9000/play/a01f/index.m3u8"
     Live: true
 }
-
 {
     Artist: "maury"
-    Title: "PREMIUM| [X] UNIVERSAL COMEDY"
+    Title: "[X] PREMIUM| [X] UNIVERSAL COMEDY"
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_reality.png"
     Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_reality/vmx/index.mpd"
     Live: true
 }
-
 {
     Artist: "web"
     Title: "PREMIUM| MX: UNIVERSAL TV"
@@ -127,7 +115,6 @@
     Stream: "http://45.235.37.254/universalhd/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "PREMIUM| UNIVERSAL TV"
@@ -137,17 +124,15 @@
     Stream: "http://8.243.64.35:8002/play/a038/index.m3u8"
     Live: true
 }
-
 {
     Artist: "maury"
-    Title: "PREMIUM| [X] MX: STUDIO UNIVERSAL"
+    Title: "[X] PREMIUM| [X] MX: STUDIO UNIVERSAL"
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal.png"
     Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/universal_studio/vmx/index.mpd"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "AR| STUDIO UNIVERSAL"
@@ -157,7 +142,6 @@
     Stream: "http://38.180.133.31:8000/play/a0qc/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "AR| UNIVERSAL CINEMA ESTE HD"
@@ -167,7 +151,6 @@
     Stream: "http://38.180.133.31:8000/play/a0qx/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "AR| UNIVERSAL COMEDY HD"
@@ -177,7 +160,6 @@
     Stream: "http://38.180.133.31:8000/play/a0pi/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "AR| UNIVERSAL CRIME HD"
@@ -187,7 +169,6 @@
     Stream: "http://38.180.133.31:8000/play/a0ph/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "AR| UNIVERSAL PREMIERE HD"
@@ -197,7 +178,6 @@
     Stream: "http://38.180.133.31:8000/play/a0pe/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "AR| UNIVERSAL PREMIERE O HD"
@@ -207,7 +187,6 @@
     Stream: "http://38.180.133.31:8000/play/a0pf/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "AR| UNIVERSAL REALITY HD"
@@ -217,7 +196,6 @@
     Stream: "http://38.180.133.31:8000/play/a0pg/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "AR| UNIVERSAL TV"
@@ -227,7 +205,6 @@
     Stream: "http://38.180.133.31:8000/play/a0q7/index.m3u8"
     Live: true
 }
-
 {
     Artist: "kv"
     Title: "AR| STUDIO UNIVERSAL"
@@ -237,7 +214,6 @@
     Stream: "http://190.95.60.228:8500/play/a01w"
     Live: true
 }
-
 {
     Artist: "kv"
     Title: "AR| UNIVERSAL"
@@ -247,7 +223,6 @@
     Stream: "http://190.95.60.228:8500/play/a00n"
     Live: true
 }
-
 {
     Artist: "kv"
     Title: "AR| UNIVERSAL HD"
@@ -257,7 +232,6 @@
     Stream: "http://190.95.60.228:8500/play/a01c"
     Live: true
 }
-
 {
     Artist: "web"
     Title: "BR| BR: UNIVERSAL TV"
@@ -267,7 +241,6 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/71655.ts"
     Live: true
 }
-
 {
     Artist: "web"
     Title: "BR| BR: STUDIO UNIVERSAL"
@@ -277,7 +250,6 @@
     Stream: "http://play.1list.vip/live/listatvs/controliptv/41511.ts"
     Live: true
 }
-
 {
     Artist: "los3"
     Title: "CL| UNIVERSAL TV"
@@ -287,17 +259,15 @@
     Stream: "http://200.113.4.75:7210/play/a01f/index.m3u8"
     Live: true
 }
-
 {
     Artist: "kv"
-    Title: "CO| UNIVERSAL TV"
+    Title: "[X] CO| UNIVERSAL TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv.png"
     Stream: "http://190.60.56.41:8000/play/a00h/index.m3u8"
     Live: true
 }
-
 {
     Artist: "barrio"
     Title: "DISH| UNIVERSAL"
@@ -307,7 +277,6 @@
     Stream: "http://38.49.128.38:8000/play/a0bt/index.m3u8"
     Live: true
 }
-
 {
     Artist: "barrio"
     Title: "DISH| STUDIO UNIVERSAL"
@@ -317,7 +286,6 @@
     Stream: "http://38.49.128.38:8000/play/a0bh/index.m3u8"
     Live: true
 }
-
 {
     Artist: "los3"
     Title: "EC| STUDIO UNIVERSAL"
@@ -327,7 +295,6 @@
     Stream: "http://38.44.109.41:8003/play/a03e/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "GT| UNIVERSAL CINEMA HD"
@@ -337,7 +304,6 @@
     Stream: "http://45.5.117.57:8200/play/a0kt/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "GT| UNIVERSAL COMEDY HD"
@@ -347,7 +313,6 @@
     Stream: "http://45.5.117.57:8200/play/a0i5/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "GT| UNIVERSAL CRIME HD"
@@ -357,7 +322,6 @@
     Stream: "http://45.5.117.57:8200/play/a0i4/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "GT| UNIVERSAL PREMIER HD"
@@ -367,7 +331,6 @@
     Stream: "http://45.5.117.57:8200/play/a0i1/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "GT| UNIVERSAL REALITY HD"
@@ -377,7 +340,6 @@
     Stream: "http://45.5.117.57:8200/play/a0i3/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "GT| UNIVERSAL TV"
@@ -387,7 +349,6 @@
     Stream: "http://45.5.117.57:8200/play/a0ih/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
     Title: "GT| STUDIO UNIVERSAL"
@@ -397,27 +358,24 @@
     Stream: "http://45.5.117.57:8200/play/a09m/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
-    Title: "PE| UNIVERSAL TV HD"
+    Title: "[X] PE| UNIVERSAL TV HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv.png"
     Stream: "http://190.116.38.19:9090/play/a08g/index.m3u8"
     Live: true
 }
-
 {
     Artist: "vk"
-    Title: "PE| STUDIO UNIVERSAL HD"
+    Title: "[X] PE| STUDIO UNIVERSAL HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal.png"
     Stream: "http://190.116.38.19:9090/play/a06d/index.m3u8"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| UNIVERSAL CHANNEL HD (MX)"
@@ -427,7 +385,6 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302739"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| UNIVERSAL CHANNEL FHD (LAT)*"
@@ -437,7 +394,6 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/312892"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| STUDIO UNIVERSAL SD (MX)"
@@ -447,7 +403,6 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34965"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| STUDIO UNIVERSAL HD (MX)"
@@ -457,7 +412,6 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302721"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| UNIVERSAL CINEMA SD (LAT)"
@@ -467,7 +421,6 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34869"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| UNIVERSAL CINEMA HD (LAT)"
@@ -477,7 +430,6 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/312948"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| UNIVERSAL CINEMA HD (MX)"
@@ -487,7 +439,6 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302740"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| UNIVERSAL COMEDY FHD (LAT)"
@@ -497,7 +448,6 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34856"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| UNIVERSAL COMEDY HD (MX)"
@@ -507,7 +457,6 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/304508"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| UNIVERSAL CRIME HD (MX)"
@@ -517,7 +466,6 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302741"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| UNIVERSAL CRIME SD (LAT)"
@@ -527,7 +475,6 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34851"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| UNIVERSAL PREMIER HD (MX)"
@@ -537,7 +484,6 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302742"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| UNIVERSAL PREMIERE FHD (LAT)*"
@@ -547,7 +493,6 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/312912"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| UNIVERSAL PREMIERE FHD (LAT)"
@@ -557,7 +502,6 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/312947"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| UNIVERSAL PREMIERE FHD (LAT)"
@@ -567,7 +511,6 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34875"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| UNIVERSAL PREMIERE OESTE FHD (LAT)"
@@ -577,7 +520,6 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/312774"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| UNIVERSAL PREMIERE SD (LAT)"
@@ -587,7 +529,6 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34873"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| UNIVERSAL REALITY SD (LAT)"
@@ -597,7 +538,6 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34862"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| UNIVERSAL REALITY HD (LAT)"
@@ -607,7 +547,6 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34864"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| UNIVERSAL REALITY HD (MX)"
@@ -617,7 +556,6 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302743"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| STUDIO UNIVERSAL FHD (BR)"
@@ -627,7 +565,6 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/338908"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| UNIVERSAL CHANNEL HD (BR)"
@@ -637,7 +574,6 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/338914"
     Live: true
 }
-
 {
     Artist: "milista"
     Title: "PRUEBA| UNIVERSAL KIDS FHD (USA)"
@@ -647,10 +583,9 @@
     Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/319578"
     Live: true
 }
-
 {
     Artist: "web"
-    Title: "PRUEBA| [X] UNIVERSAL TV HD"
+    Title: "[X] PRUEBA| [X] UNIVERSAL TV HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv.png"
