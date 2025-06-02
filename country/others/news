@@ -165,7 +165,7 @@
     Title: "CL: T 13"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cl_t_13.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cl_canal_t13.png"
     Stream: "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8"
     Live: true
 }
@@ -324,7 +324,16 @@
 }
 {
     Artist: "web"
-    Title: "RU: RT"
+    Title: "RU: RT ES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_rt.png"
+    Stream: "https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "RU: RT EN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_rt.png"
