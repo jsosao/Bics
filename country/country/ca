@@ -556,6 +556,17 @@
 
 { 
  Artist: "web" 
+ Title: "CTV OTTAWA" 
+ streamFormat: "hls|mts" 
+ SwitchingStrategy: "full-adaptation" 
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
+ Stream: "http://cord-cutter.net:8080/bn80NG/909467/47237"
+ Live: true 
+}
+
+
+{ 
+ Artist: "web" 
  Title: "CTV 2 VANCOUVER ISLAND (E)" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
@@ -596,6 +607,16 @@
 
 { 
  Artist: "web" 
+ Title: "CTV 2 VANCOUVER" 
+ streamFormat: "hls|mts" 
+ SwitchingStrategy: "full-adaptation" 
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_2.png"
+ Stream: "http://cord-cutter.net:8080/bn80NG/909467/57316"
+ Live: true 
+}
+
+{ 
+ Artist: "web" 
  Title: "CTV LIFE (E)" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
@@ -624,7 +645,6 @@
  Live: true 
 }
 
-
 { 
  Artist: "web" 
  Title: "CTV SCI-FI" 
@@ -642,6 +662,16 @@
  SwitchingStrategy: "full-adaptation" 
  Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_scifi.png"
  Stream: "http://cord-cutter.net:8080/bn80NG/909467/57253"
+ Live: true 
+}
+
+{ 
+ Artist: "web" 
+ Title: "CTV NEWS CHANNEL HD" 
+ streamFormat: "hls|mts" 
+ SwitchingStrategy: "full-adaptation" 
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_news.png"
+ Stream: "http://cord-cutter.net:8080/bn80NG/909467/57350"
  Live: true 
 }
 
@@ -812,6 +842,16 @@
  SwitchingStrategy: "full-adaptation" 
  Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png"
  Stream: "http://cord-cutter.net:8080/bn80NG/909467/57436"
+ Live: true 
+}
+
+{ 
+ Artist: "web" 
+ Title: "RDI (E)" 
+ streamFormat: "hls|mts" 
+ SwitchingStrategy: "full-adaptation" 
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_rdi.png"
+ Stream: "http://cord-cutter.net:8080/bn80NG/909467/126723"
  Live: true 
 }
 
@@ -1235,7 +1275,7 @@
  Title: "DISNEY LA CHAINE (R)" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_disney_channel.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_channel.png"
  Stream: "http://cord-cutter.net:8080/bn80NG/909467/57481"
  Live: true 
 }
@@ -1288,16 +1328,6 @@
  SwitchingStrategy: "full-adaptation" 
  Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
  Stream: "http://cord-cutter.net:8080/bn80NG/909467/57488"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "RDI (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_rdi.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/126723"
  Live: true 
 }
 
@@ -1745,6 +1775,15 @@
  Stream: "http://cord-cutter.net:8080/bn80NG/909467/210450"
  Live: true 
 }
+{ 
+ Artist: "web" 
+ Title: "HBO" 
+ streamFormat: "hls|mts" 
+ SwitchingStrategy: "full-adaptation" 
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png"
+ Stream: "http://cord-cutter.net:8080/bn80NG/909467/57437"
+ Live: true 
+}
 
 { 
  Artist: "web" 
@@ -1801,7 +1840,7 @@
  Title: "INVESTIGATION DISCOVERY HD (E)" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovey_id.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_id.png"
  Stream: "http://cord-cutter.net:8080/bn80NG/909467/57442"
  Live: true 
 }
@@ -1843,26 +1882,6 @@
  SwitchingStrategy: "full-adaptation" 
  Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mtv_2.png"
  Stream: "http://cord-cutter.net:8080/bn80NG/909467/57447"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "NATIONAL GEOGRAPHIC WILD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_nat_geo_wild.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57280"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "NATIONAL GEOGRAPHIC WILD (R)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_nat_geo_wild.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57450"
  Live: true 
 }
 
@@ -1995,7 +2014,7 @@
  Title: "TURNER CLASSIC MOVIES" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tmc.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tcm.png"
  Stream: "http://cord-cutter.net:8080/bn80NG/909467/66242"
  Live: true 
 }
@@ -2116,7 +2135,7 @@
  Title: "ABC SPARK" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/py_abc.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_abc.png"
  Stream: "http://cord-cutter.net:8080/bn80NG/909467/57375"
  Live: true 
 }
@@ -2253,35 +2272,6 @@
  Live: true 
 }
 
-{ 
- Artist: "web" 
- Title: "CTV NEWS CHANNEL HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_news.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57350"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV OTTAWA" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47237"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV 2 VANCOUVER" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_2.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57316"
- Live: true 
-}
 
 { 
  Artist: "web" 
@@ -2362,16 +2352,6 @@
  SwitchingStrategy: "full-adaptation" 
  Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_golf_channel.png"
  Stream: "http://cord-cutter.net:8080/bn80NG/909467/57362"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "HBO" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57437"
  Live: true 
 }
 
@@ -2472,6 +2452,25 @@
  SwitchingStrategy: "full-adaptation" 
  Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo.png"
  Stream: "http://cord-cutter.net:8080/bn80NG/909467/57281"
+ Live: true 
+}
+{ 
+ Artist: "web" 
+ Title: "NATIONAL GEOGRAPHIC WILD" 
+ streamFormat: "hls|mts" 
+ SwitchingStrategy: "full-adaptation" 
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo_wild.png"
+ Stream: "http://cord-cutter.net:8080/bn80NG/909467/57280"
+ Live: true 
+}
+
+{ 
+ Artist: "web" 
+ Title: "NATIONAL GEOGRAPHIC WILD (R)" 
+ streamFormat: "hls|mts" 
+ SwitchingStrategy: "full-adaptation" 
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo_wild.png"
+ Stream: "http://cord-cutter.net:8080/bn80NG/909467/57450"
  Live: true 
 }
 
