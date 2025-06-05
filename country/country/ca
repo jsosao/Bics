@@ -486,16 +486,6 @@
 
 { 
  Artist: "web" 
- Title: "CTV LIFE (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_life.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/116506"
- Live: true 
-}
-
-{ 
- Artist: "web" 
  Title: "CTV MONTREAL HD" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
@@ -523,9 +513,6 @@
  Stream: "http://cord-cutter.net:8080/bn80NG/909467/66382"
  Live: true 
 }
-
-
-
 
 { 
  Artist: "web" 
@@ -604,6 +591,16 @@
  SwitchingStrategy: "full-adaptation" 
  Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_2.png"
  Stream: "http://cord-cutter.net:8080/bn80NG/909467/58546"
+ Live: true 
+}
+
+{ 
+ Artist: "web" 
+ Title: "CTV LIFE (E)" 
+ streamFormat: "hls|mts" 
+ SwitchingStrategy: "full-adaptation" 
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_life.png"
+ Stream: "http://cord-cutter.net:8080/bn80NG/909467/116506"
  Live: true 
 }
 
@@ -833,7 +830,7 @@
  Title: "ICI TELE MONTREAL HD (D)" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ici.png"
  Stream: "http://cord-cutter.net:8080/bn80NG/909467/57484"
  Live: true 
 }
@@ -843,7 +840,7 @@
  Title: "ICI TELE QUEBEC HD (D)" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ici.png"
  Stream: "http://cord-cutter.net:8080/bn80NG/909467/57493"
  Live: true 
 }
@@ -853,7 +850,7 @@
  Title: "ICI VANCOUVER FR" 
  streamFormat: "hls|mts" 
  SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+ Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ici.png"
  Stream: "http://cord-cutter.net:8080/bn80NG/909467/57485"
  Live: true 
 }
