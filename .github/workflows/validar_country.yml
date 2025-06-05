@@ -59,7 +59,7 @@ jobs:
         import base64
         import os
         
-        def validate_stream_url(url, timeout=2):
+        def validate_stream_url(url, timeout=10):
             try:
                 parsed_url = urlparse(url)
                 if not parsed_url.scheme or not parsed_url.netloc:
