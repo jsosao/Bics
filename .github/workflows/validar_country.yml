@@ -21,9 +21,9 @@ on:
         - 'true'
         - 'false'
   
-  # Ejecutar automáticamente cada día a las 08:00 AM UTC
+  # Ejecutar automáticamente cada día a las 09:00 AM UTC
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '0 9 * * *'
   
   # Ejecutar cuando se modifica algún archivo en el directorio country
   # push:
@@ -59,7 +59,7 @@ jobs:
         import base64
         import os
         
-        def validate_stream_url(url, timeout=15):
+        def validate_stream_url(url, timeout=2):
             try:
                 parsed_url = urlparse(url)
                 if not parsed_url.scheme or not parsed_url.netloc:
