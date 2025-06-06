@@ -18,7 +18,7 @@
 }
 {
     Artist: "web"
-    Title: "CTV"
+    Title: "[X] CTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
@@ -36,7 +36,7 @@
 }
 {
     Artist: "web"
-    Title: "CTV DRAMA"
+    Title: "[X] CTV DRAMA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_drama.png"
@@ -54,7 +54,7 @@
 }
 {
     Artist: "web"
-    Title: "CTV LIFE"
+    Title: "[X] CTV LIFE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_life.png"
@@ -63,7 +63,7 @@
 }
 {
     Artist: "web"
-    Title: "CTV SCI FI"
+    Title: "[X] CTV SCI FI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_scifi.png"
@@ -268,2319 +268,2055 @@
     Stream: "http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/2219"
     Live: true
 }
-{ 
- Artist: "web" 
- Title: "ONE SOCCER" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_one_soccer.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/135810"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CBC  NEW BRUNSWICK / FREDERICTON NB" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/217655"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CBC CALGARY HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57381"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CBC CHARLOTTETOWN HD (D)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57382"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CBC HALIFAX HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57385"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CBC MONTREAL HD (D)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57387"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CBC NEWS NETWORK (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc_news.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57304"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CBC TORONTO" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57260"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CBC EDMONTON" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57384"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CBC OTTAWA" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57305"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CBC TORONTO" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57306"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CBC VANCOUVER" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57391"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CBC WINDSOR" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/86749"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CBC WINNIPEG" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/100628"
- Live: true 
-}
-
-
-
-
-
-
-{ 
- Artist: "web" 
- Title: "CTV BARRIE ONTARIO HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57373"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV CALGARY (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57964"
- Live: true 
-}
-
-
-{ 
- Artist: "web" 
- Title: "CTV EDMONTON ALBERTA HD (D)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/58725"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV HALIFAX (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/188777"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV HALIFAX NOVA SCOTIA HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57410"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV HALIFAX NOVA SCOTIA HD (D)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/188776"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV KITCHENER" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/58557"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV MONTREAL HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47234"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV REGINA SASKATCHEWAN HD (D)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/66381"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV SASKATOON SASKATCHEWAN HD (D)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/66382"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV SUDBURY ONTARIO HD (D)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/100454"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV TIMMINS ONTARIO HD (D)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/100455"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV TORONTO HD (R)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47296"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV WINNIPEG (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/100630"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV OTTAWA" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47237"
- Live: true 
-}
-
-
-{ 
- Artist: "web" 
- Title: "CTV 2 VANCOUVER ISLAND (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_2.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/136612"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV 2 WINDSOR HD (B)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_2.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/77165"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV 2 ATLANTIC" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_2.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/79547"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV 2 LONDON HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_2.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/58546"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV 2 VANCOUVER" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_2.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57316"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV LIFE (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_life.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/116506"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV COMEDY CHANNEL" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_comedy.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57408"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV DRAMA CHANNEL (R)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_drama.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57254"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV SCI-FI" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_scifi.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57464"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV SCI-FI CHANNEL (B)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_scifi.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57253"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CTV NEWS CHANNEL HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_news.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57350"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "GLOBAL CALGARY" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/115349"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "GLOBAL DURHAM (CHEX-DT-2)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/100453"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "GLOBAL EDMONTON (D)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/132271"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "GLOBAL EDMONTON NEWS (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/58724"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "GLOBAL MARITIMES HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/171954"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "GLOBAL MONTERIAL NEWS (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/136641"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "GLOBAL MONTREAL HD (B)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/136640"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "GLOBAL NEWS CALGARY (D)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/111067"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "GLOBAL NEWS KINGSTON (D)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57432"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "GLOBAL NEWS REGINA (D)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/66384"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "GLOBAL NEWS WINNIPEG (D)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/100629"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "GLOBAL PETERBOROUGH NEWS (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/137681"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "GLOBAL SASKATOON (B)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/66383"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "GLOBAL TORONTO" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57435"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "GLOBAL HALIFAX NEWS" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57434"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "GLOBAL TORONTO" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57302"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "GLOBAL VANCOUVER" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57436"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "RDI (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_rdi.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/126723"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "ICI RDI (D)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_rdi.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/164369"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "ICI TELE MONTREAL HD (D)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ici.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57484"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "ICI TELE QUEBEC HD (D)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ici.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57493"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "ICI VANCOUVER FR" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ici.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57485"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CRAVE 1 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57309"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CRAVE 2 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57310"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CRAVE 3" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57322"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CRAVE 4 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57311"
- Live: true 
-}
-
-
-{ 
- Artist: "web" 
- Title: "TSN 1 (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_1.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57292"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "TSN 1 (R)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_1.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47440"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "TSN 2 (R)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_2.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/16129"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "TSN 2 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_2.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47442"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "TSN 3 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_3.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47444"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "TSN 3 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_3.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/10389"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "TSN 4" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_4.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/66783"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "TSN 4 (B)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_4.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47446"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "TSN 4 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_4.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/16130"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "TSN 5" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_5.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57295"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "TSN 5 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_5.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/16131"
- Live: true 
-}
-
-
-{ 
- Artist: "web" 
- Title: "SPORTNET 360 (HD)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57299"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "SPORTNET 360 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/2219"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "SPORTNET EAST (D)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/41836"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "SPORTNET EAST HD (F)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57298"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "SPORTNET ONE (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/10247"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "SPORTNET ONE (FHD)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57297"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "SPORTNET ONE (HD)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47379"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "SPORTNET ONTARIO (FHD)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/11649"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "SPORTNET ONTARIO HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57296"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "SPORTNET PACIFIC (FHD)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/9860"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "SPORTNET PACIFIC HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47387"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "SPORTNET WEST (FHD)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/20975"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "SPORTNET WORLD HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/75675"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "SPORTNET ONTARIO" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57463"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "SPORTNET WEST" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57300"
- Live: true 
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{ 
- Artist: "web" 
- Title: "FEVA (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/100457"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "ADDIKTV HD (B)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/168466"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CANAL D SD (P)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57479"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CANAL VIE HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/116947"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CASA SD (P)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/116948"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CINEPOP SD (P)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57480"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "DISNEY LA CHAINE (R)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_channel.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57481"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "EVASION SD (P)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57482"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "HISTORY HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_channel.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57483"
- Live: true 
-}
-
-
-{ 
- Artist: "web" 
- Title: "LCN (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_e!.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57968"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "NOOVO (D)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57501"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "PRISE  (P)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57488"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "RDS (R)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57325"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "RDS2 HD (B)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57490"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "SUPER ECRAN 1 (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/66363"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "SUPER ECRAN 2 SD (P)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/66364"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "SUPER ECRAN 3 SD (P)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/66365"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "SUPER ECRAN 4 SD (P)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/66366"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "TFO HD (R)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57495"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "TV5" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/fr_tv5_monde.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57288"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "TVA MONTREAL FHD (B)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57497"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "TVA SPORTS 2" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57337"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "ZESTE HD  (B)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57502"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "NTD (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/58023"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "APTN" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57320"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "THE SHOPPING CHANNEL (B)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57370"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "A&E" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_a&e.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57264"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "ADULT SWIM (R)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_adult_swim.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/11644"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CARTOON NETWORK" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoon_network.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57380"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CARTOON NETWORK (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoon_network.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57356"
- Live: true 
-}
-
-
-{ 
- Artist: "web" 
- Title: "CHCH (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57393"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CITY NEWS TORONTO ON" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/216100"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CITY TV CALGARY (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/75652"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CITY TV TORONTO (D)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57394"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CITY TV VANCOUVER (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57395"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CITY TV WINNIPEG (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/100631"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CMT" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cmt.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57258"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CNN" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cnn.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47213"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "COOKING CHANNEL" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cooking_channel.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/107960"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "COTTAGE LIFE HD (B)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47217"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CP24 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57345"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CP24 NEWS HD (D)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57357"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CP24 NEWS HD (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57401"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "CPAC HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57351"
- Live: true 
-}
-
-
-{ 
- Artist: "web" 
- Title: "DEJAVIEW HD (B)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/122001"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "DISCOVERY CHANNEL" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_channel.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57252"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "DISCOVERY VELOCITY HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/46212"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "DISNEY JUNIOR" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_channel.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57349"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "DISNEY XD (R)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_xd.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57420"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "DOCUMENTARY HD (B)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/148610"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "E! (R)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_e!.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57422"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "FOOD NETWORK" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_food_network.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57247"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "FOX NEWS" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox_news.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47281"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "FXX" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fxx.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57429"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "GAME SHOW NETWORK HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57430"
- Live: true 
-}
-
-
-
-
-{ 
- Artist: "web" 
- Title: "H2 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_2.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/210450"
- Live: true 
-}
-{ 
- Artist: "web" 
- Title: "HBO" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57437"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "HBO 2 (R)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_2.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57438"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "HGTV" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hgtv.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57273"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "HISTORY" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_channel.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47302"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "HISTORY (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_channel.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57272"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "HPITV EAST HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/173131"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "INVESTIGATION DISCOVERY HD (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_id.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57442"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "LIFETIME" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_lifetime.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57271"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "LOVE NATURE HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47324"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "MSNBC (R)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47332"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "MTV2 (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mtv_2.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57447"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "NICKELODEON (R)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nickelodeon.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47349"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "NTV ST. JOHN`S" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57478"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "OLN (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57366"
- Live: true 
-}
-
-
-
-{ 
- Artist: "web" 
- Title: "OWN" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57277"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "PEACHTREE TV HD (R)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47362"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "SILVER SCREEN (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/107190"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "SLICE TV" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57274"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "SMITHSONIAN CHANNEL (B)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47369"
- Live: true 
-}
-
-
-{ 
- Artist: "web" 
- Title: "SUPER CHANNEL HEART & HOME" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/100460"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "TELETOON EAST (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57372"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "TLC" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tlc.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57290"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "TREEHOUSE (R)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57371"
- Live: true 
-}
-
-
-{ 
- Artist: "web" 
- Title: "TURNER CLASSIC MOVIES" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tcm.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/66242"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "W NETWORK EAST (E)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57284"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "WILD TV" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/100456"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "YES TV" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57472"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "YTV EAST" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/63850"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "BBC EARTH" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/99621"
- Live: true 
-}
-
-
-{ 
- Artist: "web" 
- Title: "METEO" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57486"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "MOI ET CIE" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57487"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "RDS INFO" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57491"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "TVA SPORTS 1" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57498"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "NBA TV" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nba.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/22995"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "A&E" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_a&e.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57476"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "ABC SPARK" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_abc.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57375"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "AMC" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_amc_network.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57376"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "ANIMAL PLANET" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_animal_planet.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57377"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "BBC WORLD NEWS" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_bbc_news.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/139752"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "BNN BLOOMBERG HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_bloomberg.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57358"
- Live: true 
-}
-
-{ 
- Artist: "web" 
- Title: "BRAVO" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_bravo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57379"
- Live: true 
-}
-
-
-{ 
- Artist: "web" 
- Title: "CHARGE" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
+{
+    Artist: "web"
+    Title: "ONE SOCCER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_one_soccer.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/135810"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CBC  NEW BRUNSWICK / FREDERICTON NB"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/217655"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CBC CALGARY HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57381"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CBC CHARLOTTETOWN HD (D)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57382"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CBC HALIFAX HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57385"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CBC MONTREAL HD (D)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57387"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CBC NEWS NETWORK (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc_news.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57304"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CBC TORONTO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57260"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CBC EDMONTON"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57384"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CBC OTTAWA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57305"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CBC TORONTO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57306"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CBC VANCOUVER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57391"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CBC WINDSOR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/86749"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CBC WINNIPEG"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/100628"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV BARRIE ONTARIO HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57373"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV CALGARY (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57964"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV EDMONTON ALBERTA HD (D)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/58725"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV HALIFAX (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/188777"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV HALIFAX NOVA SCOTIA HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57410"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV HALIFAX NOVA SCOTIA HD (D)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/188776"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV KITCHENER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/58557"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV MONTREAL HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47234"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV REGINA SASKATCHEWAN HD (D)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/66381"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV SASKATOON SASKATCHEWAN HD (D)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/66382"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV SUDBURY ONTARIO HD (D)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/100454"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV TIMMINS ONTARIO HD (D)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/100455"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV TORONTO HD (R)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47296"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV WINNIPEG (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/100630"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV OTTAWA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47237"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV 2 VANCOUVER ISLAND (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_2.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/136612"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV 2 WINDSOR HD (B)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_2.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/77165"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "[X] CTV 2 ATLANTIC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_2.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/79547"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV 2 LONDON HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_2.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/58546"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV 2 VANCOUVER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_2.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57316"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV LIFE (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_life.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/116506"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "[X] CTV COMEDY CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_comedy.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57408"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV DRAMA CHANNEL (R)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_drama.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57254"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV SCI-FI"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_scifi.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57464"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV SCI-FI CHANNEL (B)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_scifi.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57253"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CTV NEWS CHANNEL HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_news.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57350"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "GLOBAL CALGARY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/115349"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "GLOBAL DURHAM (CHEX-DT-2)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/100453"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "GLOBAL EDMONTON (D)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/132271"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "GLOBAL EDMONTON NEWS (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/58724"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "GLOBAL MARITIMES HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/171954"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "GLOBAL MONTERIAL NEWS (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/136641"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "GLOBAL MONTREAL HD (B)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/136640"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "GLOBAL NEWS CALGARY (D)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/111067"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "GLOBAL NEWS KINGSTON (D)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57432"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "GLOBAL NEWS REGINA (D)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/66384"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "GLOBAL NEWS WINNIPEG (D)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/100629"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "GLOBAL PETERBOROUGH NEWS (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/137681"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "GLOBAL SASKATOON (B)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/66383"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "GLOBAL TORONTO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57435"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "GLOBAL HALIFAX NEWS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57434"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "GLOBAL TORONTO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57302"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "GLOBAL VANCOUVER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57436"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "RDI (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_rdi.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/126723"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "ICI RDI (D)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_rdi.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/164369"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "ICI TELE MONTREAL HD (D)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ici.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57484"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "ICI TELE QUEBEC HD (D)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ici.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57493"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "ICI VANCOUVER FR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ici.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57485"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CRAVE 1 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57309"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CRAVE 2 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57310"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CRAVE 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57322"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CRAVE 4 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57311"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TSN 1 (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_1.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57292"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TSN 1 (R)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_1.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47440"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TSN 2 (R)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_2.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/16129"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TSN 2 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_2.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47442"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TSN 3 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_3.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47444"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TSN 3 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_3.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/10389"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TSN 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_4.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/66783"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TSN 4 (B)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_4.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47446"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TSN 4 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_4.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/16130"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TSN 5"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_5.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57295"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TSN 5 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_5.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/16131"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SPORTNET 360 (HD)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57299"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SPORTNET 360 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/2219"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SPORTNET EAST (D)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/41836"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SPORTNET EAST HD (F)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57298"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SPORTNET ONE (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/10247"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SPORTNET ONE (FHD)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57297"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SPORTNET ONE (HD)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47379"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SPORTNET ONTARIO (FHD)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/11649"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SPORTNET ONTARIO HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57296"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SPORTNET PACIFIC (FHD)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/9860"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SPORTNET PACIFIC HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47387"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SPORTNET WEST (FHD)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/20975"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SPORTNET WORLD HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/75675"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SPORTNET ONTARIO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57463"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SPORTNET WEST"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57300"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "FEVA (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/100457"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "ADDIKTV HD (B)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/168466"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CANAL D SD (P)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57479"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CANAL VIE HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/116947"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CASA SD (P)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/116948"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CINEPOP SD (P)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57480"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "DISNEY LA CHAINE (R)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_channel.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57481"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "EVASION SD (P)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57482"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "HISTORY HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_channel.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57483"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "LCN (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_e!.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57968"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "NOOVO (D)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57501"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "PRISE  (P)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57488"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "RDS (R)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57325"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "RDS2 HD (B)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57490"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SUPER ECRAN 1 (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/66363"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SUPER ECRAN 2 SD (P)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/66364"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SUPER ECRAN 3 SD (P)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/66365"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SUPER ECRAN 4 SD (P)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/66366"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TFO HD (R)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57495"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TV5"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/fr_tv5_monde.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57288"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TVA MONTREAL FHD (B)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57497"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TVA SPORTS 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57337"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "ZESTE HD  (B)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57502"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "[X] NTD (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/58023"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "APTN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57320"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "THE SHOPPING CHANNEL (B)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57370"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "A&E"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_a&e.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57264"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "ADULT SWIM (R)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_adult_swim.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/11644"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CARTOON NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoon_network.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57380"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CARTOON NETWORK (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoon_network.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57356"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CHCH (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57393"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CITY NEWS TORONTO ON"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/216100"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CITY TV CALGARY (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/75652"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CITY TV TORONTO (D)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57394"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CITY TV VANCOUVER (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57395"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CITY TV WINNIPEG (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/100631"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CMT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cmt.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57258"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CNN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cnn.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47213"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "COOKING CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cooking_channel.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/107960"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "COTTAGE LIFE HD (B)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47217"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CP24 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57345"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CP24 NEWS HD (D)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57357"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CP24 NEWS HD (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57401"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CPAC HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57351"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "DEJAVIEW HD (B)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/122001"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "DISCOVERY CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_channel.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57252"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "DISCOVERY VELOCITY HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/46212"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "DISNEY JUNIOR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_channel.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57349"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "DISNEY XD (R)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_xd.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57420"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "[X] DOCUMENTARY HD (B)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/148610"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "E! (R)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_e!.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57422"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "FOOD NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_food_network.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57247"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "FOX NEWS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox_news.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47281"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "[X] FXX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fxx.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57429"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "GAME SHOW NETWORK HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57430"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "H2 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_2.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/210450"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "HBO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57437"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "HBO 2 (R)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_2.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57438"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "HGTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hgtv.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57273"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "HISTORY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_channel.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47302"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "HISTORY (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_channel.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57272"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "HPITV EAST HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/173131"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "INVESTIGATION DISCOVERY HD (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_id.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57442"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "LIFETIME"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_lifetime.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57271"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "LOVE NATURE HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47324"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "MSNBC (R)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47332"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "[X] MTV2 (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mtv_2.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57447"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "NICKELODEON (R)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nickelodeon.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47349"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "NTV ST. JOHN`S"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57478"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "OLN (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57366"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "OWN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57277"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "[X] PEACHTREE TV HD (R)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47362"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SILVER SCREEN (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/107190"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SLICE TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57274"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SMITHSONIAN CHANNEL (B)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47369"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "SUPER CHANNEL HEART & HOME"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/100460"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TELETOON EAST (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57372"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TLC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tlc.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57290"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TREEHOUSE (R)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57371"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TURNER CLASSIC MOVIES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tcm.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/66242"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "W NETWORK EAST (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57284"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "WILD TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/100456"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "YES TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57472"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "YTV EAST"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/63850"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "BBC EARTH"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/99621"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "METEO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57486"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "MOI ET CIE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57487"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "RDS INFO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57491"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TVA SPORTS 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57498"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "NBA TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nba.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/22995"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "A&E"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_a&e.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57476"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "ABC SPARK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_abc.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57375"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "AMC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_amc_network.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57376"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "ANIMAL PLANET"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_animal_planet.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57377"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "BBC WORLD NEWS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_bbc_news.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/139752"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "BNN BLOOMBERG HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_bloomberg.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57358"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "BRAVO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_bravo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57379"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CHARGE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_charge.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/75653"
- Live: true 
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/75653"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "CITY TV TORONTO HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57307"
- Live: true 
+{
+    Artist: "web"
+    Title: "CITY TV TORONTO HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57307"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "CNN" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cnn.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57398"
- Live: true 
+{
+    Artist: "web"
+    Title: "CNN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cnn.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57398"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "CP24 FHD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47218"
- Live: true 
+{
+    Artist: "web"
+    Title: "CP24 FHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47218"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "CP24 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57257"
- Live: true 
+{
+    Artist: "web"
+    Title: "CP24 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57257"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "CPAC" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57402"
- Live: true 
+{
+    Artist: "web"
+    Title: "CPAC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57402"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "CPAC ENGLISH" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57352"
- Live: true 
+{
+    Artist: "web"
+    Title: "CPAC ENGLISH"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57352"
+    Live: true
 }
-
-
-{ 
- Artist: "web" 
- Title: "CRIME & INVESTIGATION" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57256"
- Live: true 
+{
+    Artist: "web"
+    Title: "CRIME & INVESTIGATION"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57256"
+    Live: true
 }
-
-
-{ 
- Artist: "web" 
- Title: "DISCOVERY SCIENCE" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_science.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57418"
- Live: true 
+{
+    Artist: "web"
+    Title: "[X] DISCOVERY SCIENCE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_science.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57418"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "DIY NETWORK FHD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_diy.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47258"
- Live: true 
+{
+    Artist: "web"
+    Title: "DIY NETWORK FHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_diy.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47258"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "DTOUR HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57250"
- Live: true 
+{
+    Artist: "web"
+    Title: "DTOUR HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57250"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "E! HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_e!.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57249"
- Live: true 
+{
+    Artist: "web"
+    Title: "E! HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_e!.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57249"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "FAMILY JR HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57346"
- Live: true 
+{
+    Artist: "web"
+    Title: "FAMILY JR HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57346"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "FX HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fx.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57268"
- Live: true 
+{
+    Artist: "web"
+    Title: "FX HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fx.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57268"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "GINX ESPORTS TV" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57431"
- Live: true 
+{
+    Artist: "web"
+    Title: "GINX ESPORTS TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57431"
+    Live: true
 }
-
-
-
-{ 
- Artist: "web" 
- Title: "GOLF CHANNEL HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_golf_channel.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57362"
- Live: true 
+{
+    Artist: "web"
+    Title: "GOLF CHANNEL HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_golf_channel.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57362"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "HLN" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hln.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57441"
- Live: true 
+{
+    Artist: "web"
+    Title: "HLN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hln.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57441"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "LIFETIME MOVIE NETWORK" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_lifetime.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57444"
- Live: true 
+{
+    Artist: "web"
+    Title: "LIFETIME MOVIE NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_lifetime.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57444"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "MAKEFUL" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57270"
- Live: true 
+{
+    Artist: "web"
+    Title: "MAKEFUL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57270"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "MOVIETIME HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47331"
- Live: true 
+{
+    Artist: "web"
+    Title: "MOVIETIME HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47331"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "MTV" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mtv.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57446"
- Live: true 
+{
+    Artist: "web"
+    Title: "MTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mtv.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57446"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "MTV HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mtv.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57368"
- Live: true 
+{
+    Artist: "web"
+    Title: "MTV HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mtv.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57368"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "MUCH MUSIC" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/215268"
- Live: true 
+{
+    Artist: "web"
+    Title: "[X] MUCH MUSIC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/215268"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "NATIONAL GEOGRAPHIC" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47339"
- Live: true 
+{
+    Artist: "web"
+    Title: "NATIONAL GEOGRAPHIC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47339"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "NATIONAL GEOGRAPHIC  HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47338"
- Live: true 
+{
+    Artist: "web"
+    Title: "NATIONAL GEOGRAPHIC  HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47338"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "NATIONAL GEOGRAPHIC" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57281"
- Live: true 
+{
+    Artist: "web"
+    Title: "NATIONAL GEOGRAPHIC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57281"
+    Live: true
 }
-{ 
- Artist: "web" 
- Title: "NATIONAL GEOGRAPHIC WILD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo_wild.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57280"
- Live: true 
+{
+    Artist: "web"
+    Title: "[X] NATIONAL GEOGRAPHIC WILD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo_wild.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57280"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "NATIONAL GEOGRAPHIC WILD (R)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo_wild.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57450"
- Live: true 
+{
+    Artist: "web"
+    Title: "NATIONAL GEOGRAPHIC WILD (R)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo_wild.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57450"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "NFL NETWORK HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_network.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47346"
- Live: true 
+{
+    Artist: "web"
+    Title: "NFL NETWORK HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_network.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47346"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "OMNI1 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57365"
- Live: true 
+{
+    Artist: "web"
+    Title: "OMNI1 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57365"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "PBS HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57276"
- Live: true 
+{
+    Artist: "web"
+    Title: "PBS HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57276"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "SHOWCASE HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/47366"
- Live: true 
+{
+    Artist: "web"
+    Title: "SHOWCASE HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/47366"
+    Live: true
 }
-
-
-{ 
- Artist: "web" 
- Title: "TFO  (FR)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57291"
- Live: true 
+{
+    Artist: "web"
+    Title: "TFO  (FR)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57291"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "TRAVEL ESCAPE" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_travel_channel.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/108136"
- Live: true 
+{
+    Artist: "web"
+    Title: "TRAVEL ESCAPE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_travel_channel.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/108136"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "TV ONTARIO HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57369"
- Live: true 
+{
+    Artist: "web"
+    Title: "TV ONTARIO HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57369"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "VISION" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57468"
- Live: true 
+{
+    Artist: "web"
+    Title: "VISION"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57468"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "WEATHER NETWORK TORONTO" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57470"
- Live: true 
+{
+    Artist: "web"
+    Title: "WEATHER NETWORK TORONTO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57470"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "WORLD FISHING NETWORK" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57471"
- Live: true 
+{
+    Artist: "web"
+    Title: "[X] WORLD FISHING NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57471"
+    Live: true
 }
-
-{ 
- Artist: "web" 
- Title: "TELE QUEBEC (FR)" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http://cord-cutter.net:8080/bn80NG/909467/57336"
- Live: true 
+{
+    Artist: "web"
+    Title: "TELE QUEBEC (FR)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://cord-cutter.net:8080/bn80NG/909467/57336"
+    Live: true
 }
