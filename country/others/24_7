@@ -1,5 +1,100 @@
 {
     Artist: "angel"
+    Title: " Chicago PD"
+    streamFormat: "hls|mts|m3u|m3u8|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_serie_chicago_pd.png"
+    Stream: "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/347976"
+    Live: true
+}
+{
+    Artist: "walter"
+    Title: " Chicago Fire"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_serie_chicago_pd.png"
+    Stream: "http://tv.zapping.life:8080/NonoMuneca4/5cH27dUxgt/94987"
+    Live: true
+}
+{
+    Artist: "walter"
+    Title: " Chicago Fire"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_serie_chicago_fire.png"
+    Stream: "http://tv.zapping.life:8080/NonoMuneca4/5cH27dUxgt/94921"
+    Live: true
+}
+{
+    Artist: "walter"
+    Title: "Chicago Med"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_serie_chicago_med.png"
+    Stream: "http://tv.zapping.life:8080/NonoMuneca4/5cH27dUxgt/94922"
+    Live: true
+}
+{
+    Artist: "walter"
+    Title: "9-1-1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_serie_911.png"
+    Stream: "http://tv.zapping.life:8080/NonoMuneca4/5cH27dUxgt/94915"
+    Live: true
+}
+{
+    Artist: "walter"
+    Title: "CSI Las Vegas (e)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://tv.zapping.life:8080/NonoMuneca4/5cH27dUxgt/94926"
+    Live: true
+}
+{
+    Artist: "walter"
+    Title: "CSI Miami (e)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://tv.zapping.life:8080/NonoMuneca4/5cH27dUxgt/94924"
+    Live: true
+}
+{
+    Artist: "walter"
+    Title: "CSI New York (e)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://tv.zapping.life:8080/NonoMuneca4/5cH27dUxgt/94925"
+    Live: true
+}
+{
+    Artist: "walter"
+    Title: "NCIS (e)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://tv.zapping.life:8080/NonoMuneca4/5cH27dUxgt/94933"
+    Live: true
+}
+{
+    Artist: "walter"
+    Title: "NCIS Los Angeles (e)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http://tv.zapping.life:8080/NonoMuneca4/5cH27dUxgt/94934"
+    Live: true
+}
+
+
+
+
+
+{
+    Artist: "angel"
     Title: " Cinema Comedia HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -1368,13 +1463,5 @@
     Live: true
 }
 
-{
-    Artist: "angel"
-    Title: " Chicago PD"
-    streamFormat: "hls|mts|m3u|m3u8|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/347976"
-    Live: true
-}
+
 
