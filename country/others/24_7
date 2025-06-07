@@ -19,7 +19,7 @@
 }
 {
     Artist: "walter"
-    Title: " Chicago Fire"
+    Title: " Chicago PD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_serie_chicago_pd.png"
@@ -101,7 +101,7 @@
 {
     Artist: "walter"
     Title: "Brooklyn Nine-Nine (e)"
-    streamFormat: "hls|mts"
+    streamFormat: "hls|mts|m3u|m3u8|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_serie_brooklyn_nine_nine.png"
     Stream: "http://tv.zapping.life:8080/NonoMuneca4/5cH27dUxgt/94848"
