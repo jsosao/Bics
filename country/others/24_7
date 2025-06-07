@@ -45,20 +45,20 @@
 }
 {
     Artist: "walter"
-    Title: "CSI Las Vegas (e)"
+    Title: "CSI Miami (e)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://tv.zapping.life:8080/NonoMuneca4/5cH27dUxgt/94926"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_serie_csi_miami.png"
+    Stream: "http://tv.zapping.life:8080/NonoMuneca4/5cH27dUxgt/94924"
     Live: true
 }
 {
     Artist: "walter"
-    Title: "CSI Miami (e)"
+    Title: "CSI Las Vegas (e)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://tv.zapping.life:8080/NonoMuneca4/5cH27dUxgt/94924"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_serie_csi_las_vegas.png"
+    Stream: "http://tv.zapping.life:8080/NonoMuneca4/5cH27dUxgt/94926"
     Live: true
 }
 {
@@ -66,7 +66,7 @@
     Title: "CSI New York (e)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_serie_csi_ny.png"
     Stream: "http://tv.zapping.life:8080/NonoMuneca4/5cH27dUxgt/94925"
     Live: true
 }
@@ -75,7 +75,7 @@
     Title: "NCIS (e)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_serie_ncsi.png"
     Stream: "http://tv.zapping.life:8080/NonoMuneca4/5cH27dUxgt/94933"
     Live: true
 }
@@ -84,7 +84,7 @@
     Title: "NCIS Los Angeles (e)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_serie_ncsi_la.png"
     Stream: "http://tv.zapping.life:8080/NonoMuneca4/5cH27dUxgt/94934"
     Live: true
 }
