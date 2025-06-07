@@ -161,6 +161,15 @@
     Live: true
 }
 {
+    Artist: "reyes"
+    Title: "US: FUBO LATINO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fubo_sports_network.png"
+    Stream: "http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=194161&extension=ts"
+    Live: true
+}
+{
     Artist: "web"
     Title: "MX: INTERNETV DEPORTES"
     streamFormat: "hls|mts"
