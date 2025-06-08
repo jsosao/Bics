@@ -90,7 +90,7 @@
 }
 {
     Artist: "web"
-    Title: "BBC WORLD NEWS"
+    Title: "[X] BBC WORLD NEWS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_bbc_news.png"
@@ -108,7 +108,7 @@
 }
 {
     Artist: "web"
-    Title: "[X] C SPAN"
+    Title: "C SPAN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cspan.png"
@@ -135,7 +135,7 @@
 }
 {
     Artist: "web"
-    Title: "[X] CNN INTERNACIONAL"
+    Title: "CNN INTERNACIONAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cnn_internacional.png"
@@ -189,7 +189,7 @@
 }
 {
     Artist: "web"
-    Title: "AL JAZEERA ARAB"
+    Title: "[X] AL JAZEERA ARAB"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_al_jazeera.png"
@@ -207,7 +207,7 @@
 }
 {
     Artist: "web"
-    Title: "[X] FOX BUSSINESS NET"
+    Title: "FOX BUSSINESS NET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox_bussiness.png"
