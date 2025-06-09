@@ -4,7 +4,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_tve.png"
-    Stream: "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8"
+    Stream: "https[:[/][/]]rtvelivestream-rtveplayplus[.]rtve[.]es[/]rtvesec[/]int[/]tvei_ame_main_dvr_1080[.]m3u8"
     Live: true
 }
 {
@@ -13,7 +13,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_star_tve.png"
-    Stream: "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8"
+    Stream: "https[:[/][/]]rtvelivestream-rtveplayplus[.]rtve[.]es[/]rtvesec[/]int[/]star_main_dvr_1080[.]m3u8"
     Live: true
 }
 {
@@ -22,7 +22,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_la_uno.png"
-    Stream: "https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8"
+    Stream: "https[:[/][/]]dh6vo1bovy43s[.]cloudfront[.]net[/]v1[/]master[/]3722c60a815c199d9c0ef36c5b73da68a62b09d1[/]cc-x3gcl32l5ffq2[/]La_1_ES[.]m3u8"
     Live: true
 }
 {
@@ -31,7 +31,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_la_dos.png"
-    Stream: "https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8"
+    Stream: "https[:[/][/]]di2qeq48iv8ps[.]cloudfront[.]net[/]v1[/]master[/]3722c60a815c199d9c0ef36c5b73da68a62b09d1[/]cc-o8u23e6v7vptv[/]La_2_ES[.]m3u8"
     Live: true
 }
 {
@@ -40,7 +40,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_antena_tres.png"
-    Stream: "http://185.189.225.150:85/Antena3HD/index.m3u8"
+    Stream: "http[:[/][/]]185[.]189[.]225[.]150:85[/]Antena3HD[/]index[.]m3u8"
     Live: true
 }
 {
@@ -49,7 +49,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_cuatro.png"
-    Stream: "http://185.189.225.150:85/CuatroHD/index.m3u8"
+    Stream: "http[:[/][/]]185[.]189[.]225[.]150:85[/]CuatroHD[/]index[.]m3u8"
     Live: true
 }
 {
@@ -58,7 +58,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_telecinco.png"
-    Stream: "http://185.189.225.150:85/TeleCincoHD/index.m3u8"
+    Stream: "http[:[/][/]]185[.]189[.]225[.]150:85[/]TeleCincoHD[/]index[.]m3u8"
     Live: true
 }
 {
@@ -67,7 +67,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_la_sexta.png"
-    Stream: "http://185.189.225.150:85/LaSexta/index.m3u8"
+    Stream: "http[:[/][/]]185[.]189[.]225[.]150:85[/]LaSexta[/]index[.]m3u8"
     Live: true
 }
 {
@@ -76,7 +76,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pt_tv_portuguesa.png"
-    Stream: "https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8"
+    Stream: "https[:[/][/]]video09[.]logicahost[.]com[.]br[/]tvportuguesa[/]tvportuguesa[/]playlist[.]m3u8"
     Live: true
 }
 {
@@ -85,7 +85,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pt_rtp_2.png"
-    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79027"
+    Stream: "http[:[/][/]]main[.]canale-romanesti[.]com:80[/]642668025NetIPTv[/]twbMXXpGvxQYcGlsce9WAUflby8BNj[/]79027"
     Live: true
 }
 {
@@ -94,7 +94,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pt_rtp_3.png"
-    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79051"
+    Stream: "http[:[/][/]]main[.]canale-romanesti[.]com:80[/]642668025NetIPTv[/]twbMXXpGvxQYcGlsce9WAUflby8BNj[/]79051"
     Live: true
 }
 {
@@ -103,7 +103,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pt_sictv.png"
-    Stream: "https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8"
+    Stream: "https[:[/][/]]d1zx6l1dn8vaj5[.]cloudfront[.]net[/]out[/]v1[/]b89cc37caa6d418eb423cf092a2ef970[/]index[.]m3u8"
     Live: true
 }
 {
@@ -112,7 +112,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pt_tvi.png"
-    Stream: "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8"
+    Stream: "https[:[/][/]]raw[.]githubusercontent[.]com[/]ipstreet312[/]freeiptv[/]master[/]ressources[/]tvipt[/]sh[/]tvi[.]m3u8"
     Live: true
 }
 {
@@ -121,7 +121,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pt_v+_tvi.png"
-    Stream: "https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8"
+    Stream: "https[:[/][/]]video-auth2[.]iol[.]pt[/]live_vmais[/]live_vmais[/]edge_servers[/]vmais-720p[/]playlist[.]m3u8"
     Live: true
 }
 {
@@ -130,7 +130,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pt_tvi_realty.png"
-    Stream: "https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8"
+    Stream: "https[:[/][/]]video-auth5[.]iol[.]pt[/]live_tvi_reality[/]live_tvi_reality[/]edge_servers[/]tvireality-720_passthrough[/]playlist[.]m3u8"
     Live: true
 }
 {
@@ -139,7 +139,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pt_porto_canal.png"
-    Stream: "https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8"
+    Stream: "https[:[/][/]]pull-live-156-1[.]global[.]ssl[.]fastly[.]net[/]pc5865dc25400thmb-ea6bf03b14fa318f7133[/]smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03[.]smil[/]playlist[.]m3u8"
     Live: true
 }
 {
@@ -148,7 +148,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/de_rtl.png"
-    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/76846"
+    Stream: "http[:[/][/]]main[.]canale-romanesti[.]com:80[/]642668025NetIPTv[/]twbMXXpGvxQYcGlsce9WAUflby8BNj[/]76846"
     Live: true
 }
 {
@@ -157,7 +157,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/de_zdf.png"
-    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/76840"
+    Stream: "http[:[/][/]]main[.]canale-romanesti[.]com:80[/]642668025NetIPTv[/]twbMXXpGvxQYcGlsce9WAUflby8BNj[/]76840"
     Live: true
 }
 {
@@ -166,7 +166,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/de_ndr.png"
-    Stream: "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8"
+    Stream: "https[:[/][/]]mcdn[.]ndr[.]de[/]ndr[/]hls[/]ndr_fs[/]ndr_hh[/]master[.]m3u8"
     Live: true
 }
 {
@@ -175,7 +175,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/fr_tf_1.png"
-    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78076"
+    Stream: "http[:[/][/]]main[.]canale-romanesti[.]com:80[/]642668025NetIPTv[/]twbMXXpGvxQYcGlsce9WAUflby8BNj[/]78076"
     Live: true
 }
 {
@@ -184,7 +184,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/fr_france_2.png"
-    Stream: "http://cord-cutter.net:8080/bn80NG/909467/160297"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]160297"
     Live: true
 }
 {
@@ -193,7 +193,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/fr_france_3.png"
-    Stream: "http://cord-cutter.net:8080/bn80NG/909467/160298"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]160298"
     Live: true
 }
 {
@@ -202,7 +202,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/fr_france_4.png"
-    Stream: "http://cord-cutter.net:8080/bn80NG/909467/160299"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]160299"
     Live: true
 }
 {
@@ -211,7 +211,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/fr_france_5.png"
-    Stream: "http://cord-cutter.net:8080/bn80NG/909467/160300"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]160300"
     Live: true
 }
 {
@@ -220,7 +220,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/fr_m6.png"
-    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78087"
+    Stream: "http[:[/][/]]main[.]canale-romanesti[.]com:80[/]642668025NetIPTv[/]twbMXXpGvxQYcGlsce9WAUflby8BNj[/]78087"
     Live: true
 }
 {
@@ -229,7 +229,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/fr_bfm.png"
-    Stream: "https://d2me2cx8crwpp6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-456wmaba0e7dw/index.m3u8"
+    Stream: "https[:[/][/]]d2me2cx8crwpp6[.]cloudfront[.]net[/]v1[/]master[/]3722c60a815c199d9c0ef36c5b73da68a62b09d1[/]cc-456wmaba0e7dw[/]index[.]m3u8"
     Live: true
 }
 {
@@ -238,7 +238,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/fr_bfm_2.png"
-    Stream: "https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m5/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e"
+    Stream: "https[:[/][/]]live-cdn-bfm2-euw1[.]bfmtv[.]bct[.]nextradiotv[.]com[/]m5[/]media[.]m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e"
     Live: true
 }
 {
@@ -247,7 +247,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/fr_bfm_paris.png"
-    Stream: "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?end=END&start=LIVE"
+    Stream: "https[:[/][/]]ncdn-live-bfm[.]pfd[.]sfr[.]net[/]shls[/]LIVE$BFM_PARIS[/]index[.]m3u8?end=END&start=LIVE"
     Live: true
 }
 {
@@ -256,7 +256,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/it_rai_1.png"
-    Stream: "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8"
+    Stream: "https[:[/][/]]dash2[.]antik[.]sk[/]live[/]test_rai_uno_tizen[/]playlist[.]m3u8"
     Live: true
 }
 {
@@ -265,7 +265,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/it_rai_2.png"
-    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77993"
+    Stream: "http[:[/][/]]main[.]canale-romanesti[.]com:80[/]642668025NetIPTv[/]twbMXXpGvxQYcGlsce9WAUflby8BNj[/]77993"
     Live: true
 }
 {
@@ -274,7 +274,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/it_rai_3.png"
-    Stream: "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8"
+    Stream: "https[:[/][/]]dash2[.]antik[.]sk[/]live[/]test_rai_tre_tizen[/]playlist[.]m3u8"
     Live: true
 }
 {
@@ -283,7 +283,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/it_rai_4.png"
-    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77994"
+    Stream: "http[:[/][/]]main[.]canale-romanesti[.]com:80[/]642668025NetIPTv[/]twbMXXpGvxQYcGlsce9WAUflby8BNj[/]77994"
     Live: true
 }
 {
@@ -292,7 +292,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/it_la_7.png"
-    Stream: "https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ITBD1500002NL"
+    Stream: "https[:[/][/]]d3749synfikwkv[.]cloudfront[.]net[/]v1[/]master[/]3722c60a815c199d9c0ef36c5b73da68a62b09d1[/]cc-74ylxpgd78bpb[/]Live[.]m3u8?ads[.]device_did=%7BPSID%7D&ads[.]device_dnt=%7BTARGETOPT%7D&ads[.]app_domain=%7BAPP_DOMAIN%7D&ads[.]app_name=%7BAPP_NAME%7D&ads[.]consent=%7BTC_STRING%7D&ads[.]ssai_vendor=SSSLIVE&ads[.]service_id=ITBD1500002NL"
     Live: true
 }
 {
@@ -301,7 +301,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uk_bbc_one.png"
-    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78713"
+    Stream: "http[:[/][/]]main[.]canale-romanesti[.]com:80[/]642668025NetIPTv[/]twbMXXpGvxQYcGlsce9WAUflby8BNj[/]78713"
     Live: true
 }
 {
@@ -310,7 +310,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uk_bbc_two.png"
-    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78724"
+    Stream: "http[:[/][/]]main[.]canale-romanesti[.]com:80[/]642668025NetIPTv[/]twbMXXpGvxQYcGlsce9WAUflby8BNj[/]78724"
     Live: true
 }
 {
@@ -319,7 +319,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uk_bbc_cbbc.png"
-    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78721"
+    Stream: "http[:[/][/]]main[.]canale-romanesti[.]com:80[/]642668025NetIPTv[/]twbMXXpGvxQYcGlsce9WAUflby8BNj[/]78721"
     Live: true
 }
 {
@@ -328,7 +328,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uk_bbc_four.png"
-    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78710"
+    Stream: "http[:[/][/]]main[.]canale-romanesti[.]com:80[/]642668025NetIPTv[/]twbMXXpGvxQYcGlsce9WAUflby8BNj[/]78710"
     Live: true
 }
 {
@@ -337,7 +337,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/jp_nhk_premium.png"
-    Stream: "https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8"
+    Stream: "https[:[/][/]]cdn[.]skygo[.]mn[/]live[/]disk1[/]NHK_World_Premium[/]HLSv3-FTA[/]NHK_World_Premium[.]m3u8"
     Live: true
 }
 {
@@ -346,7 +346,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/jp_nhk_japan.png"
-    Stream: "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8"
+    Stream: "https[:[/][/]]master[.]nhkworld[.]jp[/]nhkworld-tv[/]playlist[/]live[.]m3u8"
     Live: true
 }
 {
@@ -355,7 +355,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kr_ebs_1.png"
-    Stream: "https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8"
+    Stream: "https[:[/][/]]ebsonair[.]ebs[.]co[.]kr[/]groundwavefamilypc[/]familypc1m[/]playlist[.]m3u8"
     Live: true
 }
 {
@@ -364,7 +364,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kr_ebs_2.png"
-    Stream: "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8"
+    Stream: "https[:[/][/]]ebsonair[.]ebs[.]co[.]kr[/]ebs2familypc[/]familypc1m[/]playlist[.]m3u8"
     Live: true
 }
 {
@@ -373,7 +373,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/kr_ebs_e.png"
-    Stream: "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
+    Stream: "https[:[/][/]]ebsonair[.]ebs[.]co[.]kr[/]plus3familypc[/]familypc1m[/]playlist[.]m3u8"
     Live: true
 }
 {
@@ -382,7 +382,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/hu_m1.png"
-    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79618"
+    Stream: "http[:[/][/]]main[.]canale-romanesti[.]com:80[/]642668025NetIPTv[/]twbMXXpGvxQYcGlsce9WAUflby8BNj[/]79618"
     Live: true
 }
 {
@@ -391,7 +391,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/hu_m2.png"
-    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79618"
+    Stream: "http[:[/][/]]main[.]canale-romanesti[.]com:80[/]642668025NetIPTv[/]twbMXXpGvxQYcGlsce9WAUflby8BNj[/]79618"
     Live: true
 }
 {
@@ -400,7 +400,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/de_rtl.png"
-    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79726"
+    Stream: "http[:[/][/]]main[.]canale-romanesti[.]com:80[/]642668025NetIPTv[/]twbMXXpGvxQYcGlsce9WAUflby8BNj[/]79726"
     Live: true
 }
 {
@@ -409,7 +409,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ru_РОССИЯ.png"
-    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/81525"
+    Stream: "http[:[/][/]]main[.]canale-romanesti[.]com:80[/]642668025NetIPTv[/]twbMXXpGvxQYcGlsce9WAUflby8BNj[/]81525"
     Live: true
 }
 {
@@ -418,7 +418,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ru_htb_mnp.png"
-    Stream: "https://streaming.skynetconnect.online/live/213.m3u8"
+    Stream: "https[:[/][/]]streaming[.]skynetconnect[.]online[/]live[/]213[.]m3u8"
     Live: true
 }
 {
@@ -427,7 +427,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/tr_trt_1.png"
-    Stream: "https://trt.daioncdn.net/trt-1/master.m3u8?app=web"
+    Stream: "https[:[/][/]]trt[.]daioncdn[.]net[/]trt-1[/]master[.]m3u8?app=web"
     Live: true
 }
 {
@@ -436,7 +436,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/tr_trt_2.png"
-    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/79840"
+    Stream: "http[:[/][/]]main[.]canale-romanesti[.]com:80[/]642668025NetIPTv[/]twbMXXpGvxQYcGlsce9WAUflby8BNj[/]79840"
     Live: true
 }
 {
@@ -445,7 +445,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/th_tnn_16.png"
-    Stream: "https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8"
+    Stream: "https[:[/][/]]lb1-live-mv[.]v2h-cdn[.]com[/]hls[/]ffdc[/]tnn[/]tnn[.]m3u8"
     Live: true
 }
 {
@@ -454,7 +454,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/th_jkn_18.png"
-    Stream: "https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8"
+    Stream: "https[:[/][/]]lb1-live-mv[.]v2h-cdn[.]com[/]hls[/]ffda[/]jkn18[/]jkn18[.]m3u8"
     Live: true
 }
 {
@@ -463,7 +463,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/th_nation_tv.png"
-    Stream: "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8"
+    Stream: "https[:[/][/]]nationtv-1jdcjo[.]cdn[.]byteark[.]com[/]fleetstream[/]nationtvlive[/]index[.]m3u8"
     Live: true
 }
 {
@@ -472,7 +472,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/in_india_today.png"
-    Stream: "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8"
+    Stream: "https[:[/][/]]indiatodaylive[.]akamaized[.]net[/]hls[/]live[/]2014320[/]indiatoday[/]indiatodaylive[/]playlist[.]m3u8"
     Live: true
 }
 {
@@ -481,7 +481,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mo_al_aoula.png"
-    Stream: "https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_240p/chunks_dvr.m3u8"
+    Stream: "https[:[/][/]]cdn[.]live[.]easybroadcast[.]io[/]abr_corp[/]73_aloula_w1dqfwm[/]corp[/]73_aloula_w1dqfwm_240p[/]chunks_dvr[.]m3u8"
     Live: true
 }
 {
@@ -490,7 +490,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mo_al_aoula.png"
-    Stream: "https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/playlist_dvr.m3u8"
+    Stream: "https[:[/][/]]cdn[.]live[.]easybroadcast[.]io[/]abr_corp[/]73_laayoune_pgagr52[/]playlist_dvr[.]m3u8"
     Live: true
 }
 {
@@ -499,7 +499,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mo_arryadia.png"
-    Stream: "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8"
+    Stream: "https[:[/][/]]cdn[.]live[.]easybroadcast[.]io[/]abr_corp[/]73_arryadia_k2tgcj0[/]playlist_dvr[.]m3u8"
     Live: true
 }
 {
@@ -508,7 +508,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mo_al_maghribia.png"
-    Stream: "https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/playlist_dvr.m3u8"
+    Stream: "https[:[/][/]]cdn[.]live[.]easybroadcast[.]io[/]abr_corp[/]73_almaghribia_83tz85q[/]playlist_dvr[.]m3u8"
     Live: true
 }
 {
@@ -517,7 +517,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mo_tele_maroc.png"
-    Stream: "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/telmar.m3u8"
+    Stream: "https[:[/][/]]raw[.]githubusercontent[.]com[/]ipstreet312[/]freeiptv[/]master[/]ressources[/]kuw[/]telmar[.]m3u8"
     Live: true
 }
 {
@@ -526,7 +526,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09q"
+    Stream: "http[:[/][/]]185[.]236[.]230[.]212:9982[/]play[/]a09q"
     Live: true
 }
 {
@@ -535,7 +535,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09d"
+    Stream: "http[:[/][/]]185[.]236[.]230[.]212:9982[/]play[/]a09d"
     Live: true
 }
 {
@@ -544,7 +544,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09j"
+    Stream: "http[:[/][/]]185[.]236[.]230[.]212:9982[/]play[/]a09j"
     Live: true
 }
 {
@@ -553,7 +553,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09c"
+    Stream: "http[:[/][/]]185[.]236[.]230[.]212:9982[/]play[/]a09c"
     Live: true
 }
 {
@@ -562,7 +562,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09o"
+    Stream: "http[:[/][/]]185[.]236[.]230[.]212:9982[/]play[/]a09o"
     Live: true
 }
 {
@@ -571,7 +571,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09p"
+    Stream: "http[:[/][/]]185[.]236[.]230[.]212:9982[/]play[/]a09p"
     Live: true
 }
 {
@@ -580,7 +580,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0a0"
+    Stream: "http[:[/][/]]185[.]236[.]230[.]212:9982[/]play[/]a0a0"
     Live: true
 }
 {
@@ -589,7 +589,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0a2"
+    Stream: "http[:[/][/]]185[.]236[.]230[.]212:9982[/]play[/]a0a2"
     Live: true
 }
 {
@@ -598,7 +598,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09l"
+    Stream: "http[:[/][/]]185[.]236[.]230[.]212:9982[/]play[/]a09l"
     Live: true
 }
 {
@@ -607,7 +607,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09m"
+    Stream: "http[:[/][/]]185[.]236[.]230[.]212:9982[/]play[/]a09m"
     Live: true
 }
 {
@@ -616,7 +616,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09i"
+    Stream: "http[:[/][/]]185[.]236[.]230[.]212:9982[/]play[/]a09i"
     Live: true
 }
 {
@@ -625,7 +625,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09k"
+    Stream: "http[:[/][/]]185[.]236[.]230[.]212:9982[/]play[/]a09k"
     Live: true
 }
 {
@@ -634,7 +634,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08c"
+    Stream: "http[:[/][/]]185[.]236[.]230[.]212:9982[/]play[/]a08c"
     Live: true
 }
 {
@@ -643,1050 +643,4 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08e"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| AXN BLACK CENTRAL EUROPE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a094"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| AXN WHITE CENTRAL EUROPE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a095"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| BARRANDOV KRIMI"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08m"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| CANAL+ SPORT 2 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0b9"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| CARTOONITO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a085"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| CINEMAX2 HD CZ/HU"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08u"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| CT 1 JM HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0b6"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| CT 1 JZC HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0ba"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| CT 1 PHA HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0b0"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| CT 1 SM HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0b5"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| CT 1 SVC HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0b8"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| CT 2 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0b1"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| CT 24 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0b2"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| CT :D/ART HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0b4"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| CT SPORT HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0b3"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| FILM EUROPE+ HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08v"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| FILM+ HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08q"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| FILMBOX PREMIUM HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08t"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| FILMBOX STARS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08x"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| FISHING & HUNTING CZ/HU"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08d"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| GOLF CHANNEL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08b"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| HBO HD CZ/HU"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a081"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| HBO2 HD CZ/HU"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08r"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| HBO3 HD CZ/HU"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08s"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| HISTORY HD CZ/HU"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a093"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| KINO BARRANDOV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08l"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| LEO TV (22-06)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a090"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| LOVE NATURE HD CZ/HU"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a089"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| LOVE NATURE HD INT CZ/TR/BG/RU/HU/PL/NL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08i"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| MINIMAX"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08z"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| MNAM TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08y"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| MTV EUROPE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a086"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| NAT GEO HD CZ/HU"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a07w"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| NAT GEO HD CZ/HU"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a07x"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| NATIONAL GEO WILD HD CZ/HU"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a07z"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| NATIONAL GEO WILD HD CZ/RU/NL/HU/IL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a07y"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| NOVA ACTION HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0ao"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| NOVA CINEMA HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0ap"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| NOVA HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0al"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| NOVA INT."
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0av"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| NOVA SPORT 1 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0an"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| OCKO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a082"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| OCKO STAR"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a083"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| PREMIUM HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a084"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| PRIMA COOL HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0aq"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| PRIMA HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0am"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| PRIMA SK HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0b7"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| SLAGER MUZIKA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0aw"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| SPEKTRUM HD CZ/HU"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08a"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| SPORT 2 HD CZ/SK"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08g"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| STORY4 HD CZ/HU"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08w"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| TV BARRANDOV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08k"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| TV NOE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0bg"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| VIASAT HISTORY HD CZ/HU"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08o"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|CZ| VIASAT NATURE HD CZ/HU"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08p"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|DE| STINGRAY CLASSICA HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0bi"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|EN| STINGRAY CMUSIC"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a087"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|EN| STINGRAY CMUSIC CZ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a088"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|EN| STINGRAY ICONCERT HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0bh"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|HU| COMEDY CENTRAL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08f"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|HU| GALAXY4"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08n"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|HU| M5"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0be"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|HU| MUZSIKA TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09s"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|HU| RTL GOLD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09u"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|HU| RTL HAROM"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0ah"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|HU| RTL KETTO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0ai"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|HU| SLAGER TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09t"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|HU| SOROZAT+"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0aj"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|HU| STORY4"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0bd"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|HU| TV2 SEF"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09v"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|HU| TV2KLUB"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08h"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|LU| CHAMBER TV HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09x"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|LU| RTL TELE LETZEBUERG"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09y"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| 24KITCHEN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0a5"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| COMEDY CENTRAL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0ad"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| FILM1 ACTION"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a098"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| FILM1 DRAMA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a097"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| FILM1 FAMILY"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a096"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| FILM1 PREMIERE HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09e"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| HISTORY CHANNEL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09h"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| LOVE NATURE HD BNL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a08j"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| MTV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0af"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| NATIONAL GEO HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09g"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| NATIONAL GEO WILD HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a080"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| NET 5 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09z"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| NICKELODEON"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0ac"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| NPO 1 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0a1"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| NPO 3 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0a4"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| OMROEP BRABANT TELEVISIE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0ab"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| OMROEP FRYSLAN TELEVISIE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0a6"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| PARAMOUNT NETWORK"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0ae"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| SPORT 10"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09r"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| TV DRENTHE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0a7"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| TV GELDERLAND"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0a8"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| TV NOORD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0aa"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| TV OOST"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0a9"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| TV ORANJE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0ag"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| VERONICA/DISNEYXD HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0a3"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| VIAPLAY TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09b"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| ZIGGO SPORT 1 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09f"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| ZIGGO SPORT 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a099"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|NL| ZIGGO SPORT 6"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09a"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|SK| DAJTO HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0ar"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|SK| JOJ 24 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0az"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|SK| JOJ PLUS HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0at"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|SK| JOJ SPORT HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0ax"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|SK| JOJ SVET HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0bc"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|SK| JOJKO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0au"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|SK| MARKIZA KRIMI HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0ay"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|SK| NOVA SPORT 5 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a09w"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|SK| TA3 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0bf"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|SK| TV JOJ HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0as"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|SK| TV LUX HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0bb"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|SK| TV SPARK"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a092"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|SK| TV8"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a091"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "|UK| BBC FIRST HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http://185.236.230.212:9982/play/a0ak"
-    Live: true
-}
+    Stream: "http[:[/][/]]185[.]236[.]230[.]212:9982[
