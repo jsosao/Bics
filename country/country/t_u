@@ -4,7 +4,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo_pr.png"
-    Stream: "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
+    Stream: "https[:[/][/]]nbculocallive[.]akamaized[.]net[/]hls[/]live[/]2037499[/]puertorico[/]stream1[/]master[.]m3u8"
     Live: true
 }
 {
@@ -13,7 +13,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo_pr.png"
-    Stream: "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
+    Stream: "https[:[/][/]]nbculocallive[.]akamaized[.]net[/]hls[/]live[/]2037499[/]puertorico[/]stream1[/]master[.]m3u8"
     Live: true
 }
 {
@@ -22,7 +22,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pr_punto_2_pr.png"
-    Stream: "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8"
+    Stream: "https[:[/][/]]nbculocallive[.]akamaized[.]net[/]hls[/]live[/]2037499[/]puertorico[/]stream2[/]master[.]m3u8"
     Live: true
 }
 {
@@ -31,7 +31,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo_intl.png"
-    Stream: "http://190.216.158.199:8000/play/a00e/index.m3u8"
+    Stream: "http[:[/][/]]190[.]216[.]158[.]199:8000[/]play[/]a00e[/]index[.]m3u8"
     Live: true
 }
 {
@@ -40,7 +40,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
-    Stream: "http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8"
+    Stream: "http[:[/][/]]190[.]11[.]225[.]124:5000[/]live[/]telemundo_hd[/]playlist[.]m3u8"
     Live: true
 }
 {
@@ -49,7 +49,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
-    Stream: "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0"
+    Stream: "https[:[/][/]]service-stitcher[.]clusters[.]pluto[.]tv[/]stitch[/]hls[/]channel[/]5cf96cc422df39f1a338d165[/]master[.]m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0"
     Live: true
 }
 {
@@ -58,7 +58,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
-    Stream: "https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8"
+    Stream: "https[:[/][/]]xumo-drct-ch835-ekq0p[.]fast[.]nbcuni[.]com[/]live[/]master[.]m3u8"
     Live: true
 }
 {
@@ -67,7 +67,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
-    Stream: "https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8"
+    Stream: "https[:[/][/]]xumo-drct-ch836-57aiq[.]fast[.]nbcuni[.]com[/]live[/]master[.]m3u8"
     Live: true
 }
 {
@@ -76,7 +76,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
-    Stream: "https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8"
+    Stream: "https[:[/][/]]xumo-xumoent-ch827-uj0ch[.]fast[.]nbcuni[.]com[/]live[/]master[.]m3u8"
     Live: true
 }
 {
@@ -85,7 +85,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
-    Stream: "http://190.216.158.199:8000/play/a00e/index.m3u8"
+    Stream: "http[:[/][/]]190[.]216[.]158[.]199:8000[/]play[/]a00e[/]index[.]m3u8"
     Live: true
 }
 {
@@ -94,7 +94,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
-    Stream: "http://200.229.147.142:8000/play/a064/index.m3u8"
+    Stream: "http[:[/][/]]200[.]229[.]147[.]142:8000[/]play[/]a064[/]index[.]m3u8"
     Live: true
 }
 {
@@ -103,7 +103,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
-    Stream: "http://200.229.147.142:8000/play/a016/index.m3u8"
+    Stream: "http[:[/][/]]200[.]229[.]147[.]142:8000[/]play[/]a016[/]index[.]m3u8"
     Live: true
 }
 {
@@ -112,7 +112,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
-    Stream: "http://200.229.147.142:8000/play/a01z/index.m3u8"
+    Stream: "http[:[/][/]]200[.]229[.]147[.]142:8000[/]play[/]a01z[/]index[.]m3u8"
     Live: true
 }
 {
@@ -121,7 +121,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
-    Stream: "http://38.44.109.41:8003/play/a017/index.m3u8"
+    Stream: "http[:[/][/]]38[.]44[.]109[.]41:8003[/]play[/]a017[/]index[.]m3u8"
     Live: true
 }
 {
@@ -130,7 +130,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
-    Stream: "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
+    Stream: "https[:[/][/]]nbculocallive[.]akamaized[.]net[/]hls[/]live[/]2037499[/]puertorico[/]stream1[/]master[.]m3u8"
     Live: true
 }
 {
@@ -139,7 +139,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
-    Stream: "https://nxt.plus:8443/olmos/1234guz/189349"
+    Stream: "https[:[/][/]]nxt[.]plus:8443[/]olmos[/]1234guz[/]189349"
     Live: true
 }
 {
@@ -148,7 +148,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
-    Stream: "http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/56410"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]cummings77@gmail[.]com[/]dwayne@2023[/]56410"
     Live: true
 }
 {
@@ -157,7 +157,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
-    Stream: "http://a8d4b9d8.cbilant.com/iptv/DRQBA3GVMPFWG3/1080/index.m3u8"
+    Stream: "http[:[/][/]]a8d4b9d8[.]cbilant[.]com[/]iptv[/]DRQBA3GVMPFWG3[/]1080[/]index[.]m3u8"
     Live: true
 }
 {
@@ -166,7 +166,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_universo.png"
-    Stream: "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8"
+    Stream: "http[:[/][/]]190[.]11[.]225[.]124:5000[/]live[/]universo_hd[/]playlist[.]m3u8"
     Live: true
 }
 {
@@ -175,7 +175,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_universo.png"
-    Stream: "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8"
+    Stream: "http[:[/][/]]190[.]11[.]225[.]124:5000[/]live[/]universo_hd[/]playlist[.]m3u8"
     Live: true
 }
 {
@@ -184,7 +184,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_universo.png"
-    Stream: "http://latinapro.net:25461/CARLOSa61/rodriguez2CA/4361.ts"
+    Stream: "http[:[/][/]]latinapro[.]net:25461[/]CARLOSa61[/]rodriguez2CA[/]4361[.]ts"
     Live: true
 }
 {
@@ -193,7 +193,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_univision.png"
-    Stream: "http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8"
+    Stream: "http[:[/][/]]tvmate[.]icu:8080[/]live[/]7686199[/]9576982[/]15336[.]m3u8"
     Live: true
 }
 {
@@ -202,7 +202,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_univision.png"
-    Stream: "http://190.11.225.124:5000/live/univision_hd/playlist.m3u8"
+    Stream: "http[:[/][/]]190[.]11[.]225[.]124:5000[/]live[/]univision_hd[/]playlist[.]m3u8"
     Live: true
 }
 {
@@ -211,7 +211,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_univision.png"
-    Stream: "http://190.216.158.199:8000/play/a00c/index.m3u8"
+    Stream: "http[:[/][/]]190[.]216[.]158[.]199:8000[/]play[/]a00c[/]index[.]m3u8"
     Live: true
 }
 {
@@ -220,6 +220,6 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_univision.png"
-    Stream: "http://200.229.147.142:8000/play/a052/index.m3u8"
+    Stream: "http[:[/][/]]200[.]229[.]147[.]142:8000[/]play[/]a052[/]index[.]m3u8"
     Live: true
 }
