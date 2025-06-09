@@ -153,7 +153,7 @@
 }
 {
     Artist: "neblina"
-    Title: "[X] TNT HD"
+    Title: "TNT HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tnt.png"
@@ -189,7 +189,7 @@
 }
 {
     Artist: "Mevo"
-    Title: "[X] MX: TNT SERIES"
+    Title: "MX: TNT SERIES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tnt_series.png"
@@ -279,7 +279,7 @@
 }
 {
     Artist: "Mevo"
-    Title: "[X] MX: EL GOURMET"
+    Title: "MX: EL GOURMET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_gourmet.png"
@@ -680,5 +680,293 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_sony.png"
     Stream: "http[:[/][/]]45[.]235[.]37[.]254[/]sonyhd[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "Mevo"
+    Title: "[X] MX: SONY MOVIES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_sony.png"
+    Stream: "http[:[/][/]]181[.]78[.]109[.]48:8000[/]play[/]a02p[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "Mevo"
+    Title: "MX: CARTOON NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoon_network.png"
+    Stream: "http[:[/][/]]45[.]186[.]106[.]207:8000[/]play[/]a07l[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "Mevo"
+    Title: "MX: CARTOONITO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoonito.png"
+    Stream: "http[:[/][/]]200[.]115[.]120[.]1:8000[/]play[/]ca006[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "Mevo"
+    Title: "MX: DISCOVERY KIDS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_kids.png"
+    Stream: "http[:[/][/]]45[.]186[.]106[.]207:8000[/]play[/]a06t[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "Mevo"
+    Title: "MX: BITME"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_bitme.png"
+    Stream: "http[:[/][/]]179[.]49[.]163[.]34:45000[/]play[/]a02m[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "Mevo"
+    Title: "MX: TOONCAST"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tooncast.png"
+    Stream: "http[:[/][/]]80[.]80[.]91[.]195:8000[/]play[/]a04s[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "Mevo"
+    Title: "US: TUDN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
+    Stream: "http[:[/][/]]206[.]212[.]244[.]71:8080[/]4wVQA7[/]625159[/]11885"
+    Live: true
+}
+{
+    Artist: "Mevo"
+    Title: "MX: TUDN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
+    Stream: "http[:[/][/]]200[.]115[.]120[.]1:8000[/]play[/]ca039[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "MX: ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
+    Stream: "http[:[/][/]]8[.]243[.]64[.]35:8002[/]play[/]a047[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "MX: ESPN 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_2.png"
+    Stream: "http[:[/][/]]8[.]243[.]64[.]35:8002[/]play[/]a02j[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "MX: ESPN 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_3.png"
+    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0c3[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "MX: ESPN 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_4.png"
+    Stream: "http[:[/][/]]8[.]243[.]64[.]35:8002[/]play[/]a03j[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ESPN 5"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_5.png"
+    Stream: "http[:[/][/]]8[.]243[.]64[.]35:8002[/]play[/]a046[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "MX: ESPN 6"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_6.png"
+    Stream: "http[:[/][/]]8[.]243[.]64[.]35:8002[/]play[/]a00i[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "Mevo"
+    Title: "MX: FOX SPORTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports.png"
+    Stream: "http[:[/][/]]200[.]115[.]96[.]66:4000[/]play[/]a0jx[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "Mevo"
+    Title: "MX: FOX SPORTS 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_2.png"
+    Stream: "http[:[/][/]]200[.]115[.]96[.]66:4000[/]play[/]a0h1[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "Mevo"
+    Title: "FOX SPORTS 3 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_3.png"
+    Stream: "http[:[/][/]]181[.]78[.]27[.]128:8000[/]play[/]a02s[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "[X] FOX SPORTS PREMIUM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_premium.png"
+    Stream: "http[:[/][/]]45[.]5[.]117[.]57:8200[/]play[/]a096[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "[X] CINEMAX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cinemax.png"
+    Stream: "http[:[/][/]]45[.]5[.]117[.]57:8200[/]play[/]a0il[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "maury"
+    Title: "[X] MX: HBO"
+    streamFormat: "dash"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png"
+    Stream: "https[:[/][/]]livedashmx[.]cdn[.]startv[.]tv[/]bpk-tv[/]hbo[/]vmx[/]index[.]mpd"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "[X] MX: HBO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png"
+    Stream: "http[:[/][/]]45[.]5[.]117[.]57:8200[/]play[/]a0l2[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "[X] HBO 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_2.png"
+    Stream: "http[:[/][/]]45[.]5[.]117[.]57:8200[/]play[/]a00c[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "Mevo"
+    Title: "MX: HBO XTREME"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_xtreme.png"
+    Stream: "http[:[/][/]]200[.]115[.]96[.]66:4000[/]play[/]a02o[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "Mevo"
+    Title: "[X] MX: HBO FAMILY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_family.png"
+    Stream: "http[:[/][/]]186[.]148[.]195[.]206:8000[/]play[/]a0w9[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "Mevo"
+    Title: "MX: HBO SIGNATURE HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_signature.png"
+    Stream: "http[:[/][/]]181[.]78[.]78[.]66:8000[/]play[/]a0ch"
+    Live: true
+}
+{
+    Artist: "Mevo"
+    Title: "MX: HBO POP"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_pop.png"
+    Stream: "http[:[/][/]]190[.]60[.]38[.]45:8000[/]play[/]a09t[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "Mevo"
+    Title: "[X] HBO MUNDI HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_mundi.png"
+    Stream: "http[:[/][/]]186[.]148[.]195[.]206:8000[/]play[/]a0vj[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "Mevo"
+    Title: "[X] MX: HBO PLUS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_plus.png"
+    Stream: "http[:[/][/]]181[.]78[.]109[.]48:8000[/]play[/]a019[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "[X] MX: CINECANAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cinecanal.png"
+    Stream: "http[:[/][/]]45[.]5[.]117[.]57:8200[/]play[/]a0hq[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "[X] MX: GOLDEN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_golden.png"
+    Stream: "http[:[/][/]]45[.]5[.]117[.]57:8200[/]play[/]a0jv[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "[X] MX: GOLDEN PREMIERE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_golden.png"
+    Stream: "http[:[/][/]]200[.]107[.]142[.]38:9000[/]play[/]a011[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "[X] MX: GOLDEN PREMIERE 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_golden.png"
+    Stream: "http[:[/][/]]200[.]107[.]142[.]38:9000[/]play[/]a012[/]index[.]m3u8"
     Live: true
 }
