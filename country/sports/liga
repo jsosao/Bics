@@ -45,15 +45,6 @@
 }
 {
     Artist: "web"
-    Title: "[X] HR: ARENA SPORTS 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/rs_arena_sports_2.png"
-    Stream: "http[:[/][/]]109[.]105[.]201[.]198[/]Arenasport2[/]video[.]m3u8?token=test"
-    Live: true
-}
-{
-    Artist: "web"
     Title: "DO: SPORTS MAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
