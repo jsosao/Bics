@@ -16,30 +16,3 @@
     Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]129624[.]ts"
     Live: true
 }
-{
-    Artist: "web"
-    Title: "[X] RS: ARENA SPORT 1"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/rs_arena_sports_1.png"
-    Stream: "http[:[/][/]]109[.]105[.]201[.]198[/]ARENASPORT1[/]video[.]m3u8?token=test"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "[X] RS: ARENA SPORT 3"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/rs_arena_sports_3.png"
-    Stream: "http[:[/][/]]109[.]105[.]201[.]198[/]ARENASPORT3[/]video[.]m3u8?token=test"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "[X] RS: ARENA SPORT 4"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/rs_arena_sports_4.png"
-    Stream: "http[:[/][/]]109[.]105[.]201[.]198[/]ARENASPORT4[/]video[.]m3u8?token=test"
-    Live: true
-}
