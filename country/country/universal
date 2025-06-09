@@ -220,4 +220,375 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_cinema.png"
-    Stream: "http[:[/][/]]190[.]95[.]60[.]228:8500[/]p
+    Stream: "http[:[/][/]]190[.]95[.]60[.]228:8500[/]play[/]a00n"
+    Live: true
+}
+{
+    Artist: "kv"
+    Title: "AR| UNIVERSAL HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_cinema.png"
+    Stream: "http[:[/][/]]190[.]95[.]60[.]228:8500[/]play[/]a01c"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "BR| BR: UNIVERSAL TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv.png"
+    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]71655[.]ts"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "BR| BR: STUDIO UNIVERSAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal.png"
+    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]41511[.]ts"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "CL| UNIVERSAL TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv.png"
+    Stream: "http[:[/][/]]200[.]113[.]4[.]75:7210[/]play[/]a01f[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "kv"
+    Title: "CO| UNIVERSAL TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv.png"
+    Stream: "http[:[/][/]]190[.]60[.]56[.]41:8000[/]play[/]a00h[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "barrio"
+    Title: "DISH| UNIVERSAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv.png"
+    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0bt[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "barrio"
+    Title: "DISH| STUDIO UNIVERSAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal.png"
+    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0bh[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "los3"
+    Title: "EC| STUDIO UNIVERSAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal.png"
+    Stream: "http[:[/][/]]38[.]44[.]109[.]41:8003[/]play[/]a03e[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "[X] GT| UNIVERSAL CINEMA HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_cinema.png"
+    Stream: "http[:[/][/]]45[.]5[.]117[.]57:8200[/]play[/]a0kt[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "[X] GT| UNIVERSAL COMEDY HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_comedy.png"
+    Stream: "http[:[/][/]]45[.]5[.]117[.]57:8200[/]play[/]a0i5[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "[X] GT| UNIVERSAL CRIME HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_crime.png"
+    Stream: "http[:[/][/]]45[.]5[.]117[.]57:8200[/]play[/]a0i4[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "[X] GT| UNIVERSAL PREMIER HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premier.png"
+    Stream: "http[:[/][/]]45[.]5[.]117[.]57:8200[/]play[/]a0i1[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "[X] GT| UNIVERSAL REALITY HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_reality.png"
+    Stream: "http[:[/][/]]45[.]5[.]117[.]57:8200[/]play[/]a0i3[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "[X] GT| UNIVERSAL TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv.png"
+    Stream: "http[:[/][/]]45[.]5[.]117[.]57:8200[/]play[/]a0ih[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "[X] GT| STUDIO UNIVERSAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal.png"
+    Stream: "http[:[/][/]]45[.]5[.]117[.]57:8200[/]play[/]a09m[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "PE| UNIVERSAL TV HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv.png"
+    Stream: "http[:[/][/]]190[.]116[.]38[.]19:9090[/]play[/]a08g[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "PE| STUDIO UNIVERSAL HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal.png"
+    Stream: "http[:[/][/]]190[.]116[.]38[.]19:9090[/]play[/]a06d[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| UNIVERSAL CHANNEL HD (MX)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]302739"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| UNIVERSAL CHANNEL FHD (LAT)*"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]312892"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| STUDIO UNIVERSAL SD (MX)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]34965"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| STUDIO UNIVERSAL HD (MX)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]302721"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| UNIVERSAL CINEMA SD (LAT)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_cinema.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]34869"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| UNIVERSAL CINEMA HD (LAT)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_cinema.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]312948"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| UNIVERSAL CINEMA HD (MX)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_cinema.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]302740"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| UNIVERSAL COMEDY FHD (LAT)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_comedy.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]34856"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| UNIVERSAL COMEDY HD (MX)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_comedy.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]304508"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| UNIVERSAL CRIME HD (MX)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_crime.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]302741"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| UNIVERSAL CRIME SD (LAT)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_crime.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]34851"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| UNIVERSAL PREMIER HD (MX)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premier.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]302742"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| UNIVERSAL PREMIERE FHD (LAT)*"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premier.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]312912"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| UNIVERSAL PREMIERE FHD (LAT)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premier.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]312947"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| UNIVERSAL PREMIERE FHD (LAT)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premier.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]34875"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| UNIVERSAL PREMIERE OESTE FHD (LAT)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premier.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]312774"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| UNIVERSAL PREMIERE SD (LAT)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premier.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]34873"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| UNIVERSAL REALITY SD (LAT)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premier.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]34862"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| UNIVERSAL REALITY HD (LAT)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_reality.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]34864"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| UNIVERSAL REALITY HD (MX)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_reality.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]302743"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| STUDIO UNIVERSAL FHD (BR)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]338908"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| UNIVERSAL CHANNEL HD (BR)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]338914"
+    Live: true
+}
+{
+    Artist: "milista"
+    Title: "PRUEBA| UNIVERSAL KIDS FHD (USA)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]319578"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "[X] PRUEBA| [X] UNIVERSAL TV HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv.png"
+    Stream: "http[:[/][/]]181[.]78[.]105[.]146:2000[/]play[/]a03d[/]index[.]m3u8"
+    Live: true
+}
