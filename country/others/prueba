@@ -88,7 +88,6 @@
     Stream: "https[:[/][/]]cvtv[.]cvalley[.]net[/]hls[/]KPXEION[/]KPXEION[.]m3u8"
     Live: true
 }
-
 {
     Artist: "web"
     Title: "KYOU DT4"
@@ -98,7 +97,6 @@
     Stream: "https[:[/][/]]cvtv[.]cvalley[.]net[/]hls[/]KYOUDT4[/]KYOUDT4[.]m3u8"
     Live: true
 }
-
 {
     Artist: "web"
     Title: "KMSO PBS"
@@ -9524,7 +9522,7 @@
 }
 {
     Artist: "web"
-    Title: "BR: ONE FOOTBALL 3"
+    Title: "|X| BR: ONE FOOTBALL 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.imgur.com/8rSV3N5.png"
