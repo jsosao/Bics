@@ -1,4 +1,4 @@
-name: Validar Streams [X] Others
+name: Validar Streams |X| Others
 
 on:
   # Ejecutar manualmente
@@ -119,7 +119,7 @@ jobs:
                 return None
         
         def update_title_status(title, is_online):
-            has_x_marker = title.startswith("[X] ")
+            has_x_marker = title.startswith("|X| ")
             
             if is_online:
                 if has_x_marker:
@@ -128,7 +128,7 @@ jobs:
                     return title
             else:
                 if not has_x_marker:
-                    return f"[X] {title}"
+                    return f"|X| {title}"
                 else:
                     return title
         
