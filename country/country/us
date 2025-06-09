@@ -1024,7 +1024,15 @@
     Stream: "https[:[/][/]]cvtv[.]cvalley[.]net[/]hls[/]KZOUMYZOU[/]KZOUMYZOU[.]m3u8"
     Live: true
 }
-
+{
+    Artist: "InsolenceWillow"
+    Title: "NBC KNBC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_knbc.png"
+    Stream: "https[:[/][/]]tvpass[.]org[/]live[/]nbc-knbc-los-angeles-ca[/]sd"
+    Live: true
+}
 {
     Artist: "walter"
     Title: "FOX 2 DETROIT MI (WJBK) (720P)"
