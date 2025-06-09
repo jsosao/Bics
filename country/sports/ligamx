@@ -4,7 +4,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_tubi.png"
-    Stream: "https://aegis-cloudfront-1.tubi.video/568a05ce-4b59-4c9e-98f6-757cdf106597/playlist720p.m3u8"
+    Stream: "https[:[/][/]]aegis-cloudfront-1[.]tubi[.]video[/]568a05ce-4b59-4c9e-98f6-757cdf106597[/]playlist720p[.]m3u8"
     Live: true
 }
 {
@@ -13,7 +13,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
-    Stream: "http://45.68.35.218:4001/play/a00x/index.m3u8"
+    Stream: "http[:[/][/]]45[.]68[.]35[.]218:4001[/]play[/]a00x[/]index[.]m3u8"
     Live: true
 }
 {
@@ -22,7 +22,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_siete.png"
-    Stream: "https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8"
+    Stream: "https[:[/][/]]pubads[.]g[.]doubleclick[.]net[/]ssai[/]event[/]YHoOj51dSKCvBQOBG2OvLQ[/]master[.]m3u8"
     Live: true
 }
 {
@@ -31,6 +31,6 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_claro_sports.png"
-    Stream: "https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8"
+    Stream: "https[:[/][/]]dai[.]google[.]com[/]linear[/]hls[/]event[/]yINISWAPQ0CPhPixe-40wQ[/]master[.]m3u8"
     Live: true
 }
