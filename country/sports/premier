@@ -4,7 +4,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_tubi.png"
-    Stream: "https://aegis-cloudfront-1.tubi.video/568a05ce-4b59-4c9e-98f6-757cdf106597/playlist720p.m3u8"
+    Stream: "https[:[/][/]]aegis-cloudfront-1[.]tubi[.]video[/]568a05ce-4b59-4c9e-98f6-757cdf106597[/]playlist720p[.]m3u8"
     Live: true
 }
 {
@@ -13,7 +13,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pr_punto_2_pr.png"
-    Stream: "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8"
+    Stream: "https[:[/][/]]nbculocallive[.]akamaized[.]net[/]hls[/]live[/]2037499[/]puertorico[/]stream2[/]master[.]m3u8"
     Live: true
 }
 {
@@ -22,7 +22,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sky_sports_premiere.png"
-    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77028"
+    Stream: "http[:[/][/]]main[.]canale-romanesti[.]com:80[/]642668025NetIPTv[/]twbMXXpGvxQYcGlsce9WAUflby8BNj[/]77028"
     Live: true
 }
 {
@@ -31,7 +31,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sky_sports_premiere.png"
-    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/77250"
+    Stream: "http[:[/][/]]main[.]canale-romanesti[.]com:80[/]642668025NetIPTv[/]twbMXXpGvxQYcGlsce9WAUflby8BNj[/]77250"
     Live: true
 }
 {
@@ -40,7 +40,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sky_sports_premiere.png"
-    Stream: "http://main.canale-romanesti.com:80/642668025NetIPTv/twbMXXpGvxQYcGlsce9WAUflby8BNj/78182"
+    Stream: "http[:[/][/]]main[.]canale-romanesti[.]com:80[/]642668025NetIPTv[/]twbMXXpGvxQYcGlsce9WAUflby8BNj[/]78182"
     Live: true
 }
 {
@@ -49,6 +49,6 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_2.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/59097.ts"
+    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]59097[.]ts"
     Live: true
 }
