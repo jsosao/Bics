@@ -306,11 +306,11 @@
 }
 {
     Artist: "Chloe"
-    Title: "|X| LA VOZ DE MARIA"
+    Title: "LA VOZ DE MARIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_lvm.png"
-    Stream: "https[:[/][/]]627bb251f23c7[.]streamlock[.]net:444[/]LaVozdeMaria[/]live[/]chunklist_w781276725[.]m3u8"
+    Stream: "https[:[/][/]]live[.]lavozdemaria[.]com:3436[/]live[/]lavozdemarialive[.]m3u8"
     Live: true
 }
 {
