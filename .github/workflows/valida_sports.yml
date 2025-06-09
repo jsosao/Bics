@@ -61,7 +61,8 @@ jobs:
         
         def validate_stream_url(url, timeout=15):
             try:
-                parsed_url = urlparse(url)
+                clean_url = url.replace('[', '').replace(']', '')
+                parsed_url = urlparse(clean_url)
                 if not parsed_url.scheme or not parsed_url.netloc:
                     return False
                 
