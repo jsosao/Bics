@@ -4,7 +4,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_tubi.png"
-    Stream: "https://aegis-cloudfront-1.tubi.video/568a05ce-4b59-4c9e-98f6-757cdf106597/playlist720p.m3u8"
+    Stream: "https[:[/][/]]aegis-cloudfront-1[.]tubi[.]video[/]568a05ce-4b59-4c9e-98f6-757cdf106597[/]playlist720p[.]m3u8"
     Live: true
 }
 {
@@ -13,7 +13,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_tubi.png"
-    Stream: "https://aegis-cloudfront-1.tubi.video/0b3b6122-078c-4c89-ae5e-f548b9b1e382/playlist720p.m3u8"
+    Stream: "https[:[/][/]]aegis-cloudfront-1[.]tubi[.]video[/]0b3b6122-078c-4c89-ae5e-f548b9b1e382[/]playlist720p[.]m3u8"
     Live: true
 }
 {
@@ -22,7 +22,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_caliente_tv.png"
-    Stream: "http://home-playtv.com:80/RoltyFndz/GBQGK/558709"
+    Stream: "http[:[/][/]]home-playtv[.]com:80[/]RoltyFndz[/]GBQGK[/]558709"
     Live: true
 }
 {
@@ -31,7 +31,7 @@
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
-    Stream: "https://livedashmx.cdn.startv.tv/bpk-tv/tudn/vmx/index.mpd"
+    Stream: "https[:[/][/]]livedashmx[.]cdn[.]startv[.]tv[/]bpk-tv[/]tudn[/]vmx[/]index[.]mpd"
     Live: true
 }
 {
@@ -40,7 +40,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
-    Stream: "http://45.5.117.57:8200/play/a04f/index.m3u8"
+    Stream: "http[:[/][/]]45[.]5[.]117[.]57:8200[/]play[/]a04f[/]index[.]m3u8"
     Live: true
 }
 {
@@ -49,7 +49,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
-    Stream: "http://disfruta.net/live/balooshy/Dcw7jXk5T5/33499fe0-7ac3-4596-a167-1c9fbe122b6d.m3u"
+    Stream: "http[:[/][/]]disfruta[.]net[/]live[/]balooshy[/]Dcw7jXk5T5[/]33499fe0-7ac3-4596-a167-1c9fbe122b6d[.]m3u"
     Live: true
 }
 {
@@ -58,7 +58,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
-    Stream: "https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKiODg91cRBJ-9rXu5VEnd_E/ts"
+    Stream: "https[:[/][/]]veotv[.]site:8443[/]play[/]4fnH5CanGhlfgNYb8UXyKiODg91cRBJ-9rXu5VEnd_E[/]ts"
     Live: true
 }
 {
@@ -67,7 +67,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
-    Stream: "http://200.115.120.1:8000/play/ca039/index.m3u8"
+    Stream: "http[:[/][/]]200[.]115[.]120[.]1:8000[/]play[/]ca039[/]index[.]m3u8"
     Live: true
 }
 {
@@ -76,7 +76,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
-    Stream: "http://disfruta.net/live/balooshy/Dcw7jXk5T5/54a9ea28-9fe3-4297-ab1d-43aa03651f31.m3u"
+    Stream: "http[:[/][/]]disfruta[.]net[/]live[/]balooshy[/]Dcw7jXk5T5[/]54a9ea28-9fe3-4297-ab1d-43aa03651f31[.]m3u"
     Live: true
 }
 {
@@ -85,7 +85,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
-    Stream: "http://45.68.35.218:4001/play/a00x/index.m3u8"
+    Stream: "http[:[/][/]]45[.]68[.]35[.]218:4001[/]play[/]a00x[/]index[.]m3u8"
     Live: true
 }
 {
@@ -94,7 +94,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sky_sports_laliga.png"
-    Stream: "http://190.92.10.66:4000/play/a001/index.m3u8"
+    Stream: "http[:[/][/]]190[.]92[.]10[.]66:4000[/]play[/]a001[/]index[.]m3u8"
     Live: true
 }
 {
@@ -103,7 +103,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sky_sports_premiere.png"
-    Stream: "http://181.78.106.127:9000/play/ca029/index.m3u8"
+    Stream: "http[:[/][/]]181[.]78[.]106[.]127:9000[/]play[/]ca029[/]index[.]m3u8"
     Live: true
 }
 {
@@ -112,7 +112,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sky_sports_football.png"
-    Stream: "http://181.78.106.127:9000/play/ca028/index.m3u8"
+    Stream: "http[:[/][/]]181[.]78[.]106[.]127:9000[/]play[/]ca028[/]index[.]m3u8"
     Live: true
 }
 {
@@ -121,7 +121,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_deportes_network.png"
-    Stream: "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+    Stream: "http[:[/][/]]stitcher-ipv4[.]pluto[.]tv[/]v1[/]stitch[/]embed[/]hls[/]channel[/]65cf60d166eec80008724e6f[/]master[.]m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
     Live: true
 }
 {
@@ -130,7 +130,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fifa_plus.png"
-    Stream: "https://jmp2.uk/sam-ESBC2700009B4.m3u8"
+    Stream: "https[:[/][/]]jmp2[.]uk[/]sam-ESBC2700009B4[.]m3u8"
     Live: true
 }
 {
@@ -139,7 +139,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_canela_deportes.png"
-    Stream: "https://amg00658-amg00658c28-canelatv-international-5109.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deportesltta-canelatvinternational/playlist.m3u8"
+    Stream: "https[:[/][/]]amg00658-amg00658c28-canelatv-international-5109[.]playouts[.]now[.]amagi[.]tv[/]playlist[/]amg00658-canelamediafast-deportesltta-canelatvinternational[/]playlist[.]m3u8"
     Live: true
 }
 {
@@ -148,7 +148,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_futbol_network.png"
-    Stream: "https://live.relentlessinnovations.net:1936/futbolnetwork/futbolnetwork/playlist.m3u8"
+    Stream: "https[:[/][/]]live[.]relentlessinnovations[.]net:1936[/]futbolnetwork[/]futbolnetwork[/]playlist[.]m3u8"
     Live: true
 }
 {
@@ -157,7 +157,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fubo_sports_network.png"
-    Stream: "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fubo.m3u8"
+    Stream: "https[:[/][/]]csm-e-eb[.]csm[.]tubi[.]video[/]csm[/]extlive[/]tubiprd01,Cloudfront-Fubo[.]m3u8"
     Live: true
 }
 {
@@ -166,7 +166,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fubo_sports_network.png"
-    Stream: "http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=194161&extension=ts"
+    Stream: "http[:[/][/]]1play[.]cool:25461[/]streaming[/]clients_live[.]php?username=2132580232&password=27be478b47&stream=194161&extension=ts"
     Live: true
 }
 {
@@ -175,7 +175,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_itv_deportes.png"
-    Stream: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999"
+    Stream: "https[:[/][/]]stream[.]ads[.]ottera[.]tv[/]playlist[.]m3u8?network_id=5999"
     Live: true
 }
 {
@@ -184,7 +184,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_aym_sports.png"
-    Stream: "https://aym-as.otteravision.com/aym/as/as_1080p.m3u8"
+    Stream: "https[:[/][/]]aym-as[.]otteravision[.]com[/]aym[/]as[/]as_1080p[.]m3u8"
     Live: true
 }
 {
@@ -193,7 +193,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_aym_sports.png"
-    Stream: "https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8"
+    Stream: "https[:[/][/]]aym-as[.]otteravision[.]com[/]aym[/]as[/]as_720p_high[.]m3u8"
     Live: true
 }
 {
@@ -202,7 +202,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las.png"
-    Stream: "https://hls.aymsports.net/hls/chanel_3/stream.m3u8"
+    Stream: "https[:[/][/]]hls[.]aymsports[.]net[/]hls[/]chanel_3[/]stream[.]m3u8"
     Live: true
 }
 {
@@ -211,7 +211,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_beisbol_latino.png"
-    Stream: "https://hls.aymsports.net/hls/chanel_2/stream.m3u8"
+    Stream: "https[:[/][/]]hls[.]aymsports[.]net[/]hls[/]chanel_2[/]stream[.]m3u8"
     Live: true
 }
 {
@@ -220,7 +220,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_claro_sports.png"
-    Stream: "https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8"
+    Stream: "https[:[/][/]]dai[.]google[.]com[/]linear[/]hls[/]event[/]yINISWAPQ0CPhPixe-40wQ[/]master[.]m3u8"
     Live: true
 }
 {
@@ -229,7 +229,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_claro_sports.png"
-    Stream: "http://45.5.117.57:8200/play/a09k/index.m3u8"
+    Stream: "http[:[/][/]]45[.]5[.]117[.]57:8200[/]play[/]a09k[/]index[.]m3u8"
     Live: true
 }
 {
@@ -238,7 +238,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_claro_sports.png"
-    Stream: "http://38.180.133.31:8000/play/a0yh/index.m3u8"
+    Stream: "http[:[/][/]]38[.]180[.]133[.]31:8000[/]play[/]a0yh[/]index[.]m3u8"
     Live: true
 }
 {
@@ -247,7 +247,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/do_cdn_deportes.png"
-    Stream: "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8"
+    Stream: "https[:[/][/]]rtmp-live-ingest-us-east-1-universe-dacast-com[.]akamaized[.]net[/]transmuxv1[/]streams[/]bc949011-1dd8-4d10-596c-f6910d4a9cf7[.]m3u8"
     Live: true
 }
 {
@@ -256,7 +256,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_acc_network.png"
-    Stream: "http://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]ACC_NETWORK[/]index[.]m3u8"
     Live: true
 }
 {
@@ -265,7 +265,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_big_ten_network.png"
-    Stream: "http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8"
+    Stream: "http[:[/][/]]fl3[.]moveonjoy[.]com[/]BIG_TEN_NETWORK[/]index[.]m3u8"
     Live: true
 }
 {
@@ -274,7 +274,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cbs_spports_network.png"
-    Stream: "http://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]CBS_SPORTS_NETWORK[/]index[.]m3u8"
     Live: true
 }
 {
@@ -283,7 +283,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tvc_deportes.png"
-    Stream: "http://directo.ddns.me:2082/felipenarcelles/felipe7388/13689"
+    Stream: "http[:[/][/]]directo[.]ddns[.]me:2082[/]felipenarcelles[/]felipe7388[/]13689"
     Live: true
 }
 {
@@ -292,7 +292,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tvc_deportes.png"
-    Stream: "http://stklatino.dynns.com:2082/diegoantofaiptv/iroquitv23/13689"
+    Stream: "http[:[/][/]]stklatino[.]dynns[.]com:2082[/]diegoantofaiptv[/]iroquitv23[/]13689"
     Live: true
 }
 {
@@ -301,7 +301,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/hn_deportes_tvc.png"
-    Stream: "http://200.229.147.142:8000/play/a05g/index.m3u8"
+    Stream: "http[:[/][/]]200[.]229[.]147[.]142:8000[/]play[/]a05g[/]index[.]m3u8"
     Live: true
 }
 {
@@ -310,7 +310,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_golf_channel.png"
-    Stream: "http://fl1.moveonjoy.com/GOLF_CHANNEL/index.m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]GOLF_CHANNEL[/]index[.]m3u8"
     Live: true
 }
 {
@@ -319,7 +319,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mlb_network.png"
-    Stream: "http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]MLB_NETWORK[/]index[.]m3u8"
     Live: true
 }
 {
@@ -328,7 +328,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nba_tv.png"
-    Stream: "http://fl1.moveonjoy.com/NBA_TV/index.m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]NBA_TV[/]index[.]m3u8"
     Live: true
 }
 {
@@ -337,7 +337,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "http://fl1.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]NBC_SPORTS_NETWORK[/]index[.]m3u8"
     Live: true
 }
 {
@@ -346,7 +346,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_network.png"
-    Stream: "http://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]NFL_NETWORK[/]index[.]m3u8"
     Live: true
 }
 {
@@ -355,7 +355,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl_network.png"
-    Stream: "http://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]NHL_NETWORK[/]index[.]m3u8"
     Live: true
 }
 {
@@ -364,7 +364,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tennis_channel.png"
-    Stream: "http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]TENNIS_CHANNEL[/]index[.]m3u8"
     Live: true
 }
 {
@@ -373,7 +373,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ufc_network.png"
-    Stream: "http://fl1.moveonjoy.com/UFC/index.m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]UFC[/]index[.]m3u8"
     Live: true
 }
 {
@@ -382,7 +382,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_wwe_network.png"
-    Stream: "http://fl1.moveonjoy.com/WWE/index.m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]WWE[/]index[.]m3u8"
     Live: true
 }
 {
@@ -391,7 +391,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_yes_network.png"
-    Stream: "http://fl1.moveonjoy.com/YES_NETWORK/index.m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]YES_NETWORK[/]index[.]m3u8"
     Live: true
 }
 {
@@ -400,7 +400,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_msg.png"
-    Stream: "https://fl3.moveonjoy.com/MSG/index.m3u8"
+    Stream: "https[:[/][/]]fl3[.]moveonjoy[.]com[/]MSG[/]index[.]m3u8"
     Live: true
 }
 {
@@ -409,7 +409,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https://fl4.moveonjoy.com/NBC_SPORTS_BOSTON/index.m3u8"
+    Stream: "https[:[/][/]]fl4[.]moveonjoy[.]com[/]NBC_SPORTS_BOSTON[/]index[.]m3u8"
     Live: true
 }
 {
@@ -418,7 +418,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https://fl6.moveonjoy.com/BALLY_SPORTS_DETROIT/index.m3u8"
+    Stream: "https[:[/][/]]fl6[.]moveonjoy[.]com[/]BALLY_SPORTS_DETROIT[/]index[.]m3u8"
     Live: true
 }
 {
@@ -427,7 +427,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https://fl6.moveonjoy.com/BALLY_SPORTS_FLORIDA/index.m3u8"
+    Stream: "https[:[/][/]]fl6[.]moveonjoy[.]com[/]BALLY_SPORTS_FLORIDA[/]index[.]m3u8"
     Live: true
 }
 {
@@ -436,7 +436,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https://fl6.moveonjoy.com/BALLY_SPORTS_MIDWEST/index.m3u8"
+    Stream: "https[:[/][/]]fl6[.]moveonjoy[.]com[/]BALLY_SPORTS_MIDWEST[/]index[.]m3u8"
     Live: true
 }
 {
@@ -445,7 +445,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https://fl6.moveonjoy.com/BALLY_SPORTS_ARIZONA/index.m3u8"
+    Stream: "https[:[/][/]]fl6[.]moveonjoy[.]com[/]BALLY_SPORTS_ARIZONA[/]index[.]m3u8"
     Live: true
 }
 {
@@ -454,7 +454,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https://fl6.moveonjoy.com/BALLY_SPORTS_NEW_ORLEANS/index.m3u8"
+    Stream: "https[:[/][/]]fl6[.]moveonjoy[.]com[/]BALLY_SPORTS_NEW_ORLEANS[/]index[.]m3u8"
     Live: true
 }
 {
@@ -463,7 +463,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/319511"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]319511"
     Live: true
 }
 {
@@ -472,7 +472,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/319512"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]319512"
     Live: true
 }
 {
@@ -481,7 +481,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/319513"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]319513"
     Live: true
 }
 {
@@ -490,7 +490,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/319514"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]319514"
     Live: true
 }
 {
@@ -499,7 +499,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/319515"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]319515"
     Live: true
 }
 {
@@ -508,7 +508,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/319516"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]319516"
     Live: true
 }
 {
@@ -517,7 +517,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/319517"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]319517"
     Live: true
 }
 {
@@ -526,7 +526,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/319518"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]319518"
     Live: true
 }
 {
@@ -535,7 +535,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_1.png"
-    Stream: "http://fl5.moveonjoy.com/TSN_1/index.m3u8"
+    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]TSN_1[/]index[.]m3u8"
     Live: true
 }
 {
@@ -544,7 +544,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_2.png"
-    Stream: "http://fl5.moveonjoy.com/TSN_2/index.m3u8"
+    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]TSN_2[/]index[.]m3u8"
     Live: true
 }
 {
@@ -553,7 +553,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_3.png"
-    Stream: "http://fl5.moveonjoy.com/TSN_3/index.m3u8"
+    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]TSN_3[/]index[.]m3u8"
     Live: true
 }
 {
@@ -562,7 +562,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_4.png"
-    Stream: "http://fl5.moveonjoy.com/TSN_4/index.m3u8"
+    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]TSN_4[/]index[.]m3u8"
     Live: true
 }
 {
@@ -571,7 +571,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_5.png"
-    Stream: "http://fl5.moveonjoy.com/TSN_5/index.m3u8"
+    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]TSN_5[/]index[.]m3u8"
     Live: true
 }
 {
@@ -580,7 +580,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_8.png"
-    Stream: "https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8"
+    Stream: "https[:[/][/]]d3pnbvng3bx2nj[.]cloudfront[.]net[/]v1[/]master[/]3722c60a815c199d9c0ef36c5b73da68a62b09d1[/]cc-rds8g35qfqrnv[/]TSN_The_Ocho[.]m3u8"
     Live: true
 }
 {
@@ -589,7 +589,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
-    Stream: "https://a1xs.vip/6000011"
+    Stream: "https[:[/][/]]a1xs[.]vip[/]6000011"
     Live: true
 }
 {
@@ -598,7 +598,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
-    Stream: "https://a1xs.vip/6000012"
+    Stream: "https[:[/][/]]a1xs[.]vip[/]6000012"
     Live: true
 }
 {
@@ -607,7 +607,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
-    Stream: "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47387"
+    Stream: "http[:[/][/]]1tv41[.]icu:8080[/]tandphunt1@gmail[.]com[/]AAn4BJhH7f[/]47387"
     Live: true
 }
 {
@@ -616,7 +616,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
-    Stream: "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57298"
+    Stream: "http[:[/][/]]1tv41[.]icu:8080[/]tandphunt1@gmail[.]com[/]AAn4BJhH7f[/]57298"
     Live: true
 }
 {
@@ -625,7 +625,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
-    Stream: "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57300"
+    Stream: "http[:[/][/]]1tv41[.]icu:8080[/]tandphunt1@gmail[.]com[/]AAn4BJhH7f[/]57300"
     Live: true
 }
 {
@@ -634,7 +634,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
-    Stream: "http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/2219"
+    Stream: "http[:[/][/]]fortv[.]cc:8080[/]longcalvin42@yahoo[.]com[/]C3129344075L[/]2219"
     Live: true
 }
 {
@@ -643,7 +643,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
-    Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/319545"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]319545"
     Live: true
 }
 {
@@ -652,7 +652,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_vix.png"
-    Stream: "http://45.68.35.218:4001/play/a01s/index.m3u8"
+    Stream: "http[:[/][/]]45[.]68[.]35[.]218:4001[/]play[/]a01s[/]index[.]m3u8"
     Live: true
 }
 {
@@ -661,7 +661,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/do_sports_max.png"
-    Stream: "https://streamer1.nexgen.bz/SPORTSMAX2/tracks-v1a1/mono.m3u8"
+    Stream: "https[:[/][/]]streamer1[.]nexgen[.]bz[/]SPORTSMAX2[/]tracks-v1a1[/]mono[.]m3u8"
     Live: true
 }
 {
@@ -670,7 +670,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sv_wow.png"
-    Stream: "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8"
+    Stream: "https[:[/][/]]cdn[.]elsalvadordigital[.]com:1936[/]wowtv[/]smil:wowtv[.]smil[/]playlist[.]m3u8"
     Live: true
 }
 {
@@ -679,7 +679,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_golazo.png"
-    Stream: "https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8"
+    Stream: "https[:[/][/]]dai[.]google[.]com[/]linear[/]hls[/]event[/]GxrCGmwST0ixsrc_QgB6qw[/]master[.]m3u8"
     Live: true
 }
 {
@@ -688,7 +688,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_sportv.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/37256.ts"
+    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]37256[.]ts"
     Live: true
 }
 {
@@ -697,7 +697,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_sportv_2.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/37044.ts"
+    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]37044[.]ts"
     Live: true
 }
 {
@@ -706,7 +706,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_sportv_3.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/37006.ts"
+    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]37006[.]ts"
     Live: true
 }
 {
@@ -715,7 +715,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_sportv.png"
-    Stream: "http://play.1list.vip/live/listatvs/controliptv/127664.ts"
+    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]127664[.]ts"
     Live: true
 }
 {
@@ -724,7 +724,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_tyc_sports.png"
-    Stream: "http://190.95.60.228:8500/play/a01n"
+    Stream: "http[:[/][/]]190[.]95[.]60[.]228:8500[/]play[/]a01n"
     Live: true
 }
 {
@@ -733,7 +733,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_tyc_sports.png"
-    Stream: "http://190.95.60.228:8500/play/a02m"
+    Stream: "http[:[/][/]]190[.]95[.]60[.]228:8500[/]play[/]a02m"
     Live: true
 }
 {
@@ -742,7 +742,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_tnt_sports.png"
-    Stream: "http://38.180.133.31:8000/play/a0t2/index.m3u8"
+    Stream: "http[:[/][/]]38[.]180[.]133[.]31:8000[/]play[/]a0t2[/]index[.]m3u8"
     Live: true
 }
 {
@@ -751,7 +751,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_tnt_sports.png"
-    Stream: "http://38.180.133.31:8000/play/a11j/index.m3u8"
+    Stream: "http[:[/][/]]38[.]180[.]133[.]31:8000[/]play[/]a11j[/]index[.]m3u8"
     Live: true
 }
 {
@@ -760,7 +760,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ec_ecdf.png"
-    Stream: "http://38.44.109.41:8003/play/a038/index.m3u8"
+    Stream: "http[:[/][/]]38[.]44[.]109[.]41:8003[/]play[/]a038[/]index[.]m3u8"
     Live: true
 }
 {
@@ -769,7 +769,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_gol_tv.png"
-    Stream: "http://38.44.109.41:8003/play/a02h/index.m3u8"
+    Stream: "http[:[/][/]]38[.]44[.]109[.]41:8003[/]play[/]a02h[/]index[.]m3u8"
     Live: true
 }
 {
@@ -778,7 +778,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_gol_tv.png"
-    Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/304391"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]304391"
     Live: true
 }
 {
@@ -787,7 +787,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_gol_tv.png"
-    Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34745"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]34745"
     Live: true
 }
 {
@@ -796,7 +796,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_gol_tv.png"
-    Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/319489"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]319489"
     Live: true
 }
 {
@@ -805,7 +805,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_gol_tv.png"
-    Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/319490"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]319490"
     Live: true
 }
 {
@@ -814,7 +814,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_win_sports.png"
-    Stream: "http://190.217.23.56:1010/play/a0eg/index.m3u8"
+    Stream: "http[:[/][/]]190[.]217[.]23[.]56:1010[/]play[/]a0eg[/]index[.]m3u8"
     Live: true
 }
 {
@@ -823,7 +823,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_win_sports_plus.png"
-    Stream: "http://190.217.23.56:1010/play/a0et/index.m3u8"
+    Stream: "http[:[/][/]]190[.]217[.]23[.]56:1010[/]play[/]a0et[/]index[.]m3u8"
     Live: true
 }
 {
@@ -832,7 +832,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_tigo_sports.png"
-    Stream: "http://45.5.117.57:8200/play/a02v/index.m3u8"
+    Stream: "http[:[/][/]]45[.]5[.]117[.]57:8200[/]play[/]a02v[/]index[.]m3u8"
     Live: true
 }
 {
@@ -841,7 +841,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_tigo_sports.png"
-    Stream: "https://hidra.live:443/eufTQNgNXv/ojxBLcjY/335986"
+    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]335986"
     Live: true
 }
 {
@@ -850,7 +850,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/rs_arena_sports_1.png"
-    Stream: "http://nl.iptvsolution.info/arena1hr/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b"
+    Stream: "http[:[/][/]]nl[.]iptvsolution[.]info[/]arena1hr[/]mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b"
     Live: true
 }
 {
@@ -859,7 +859,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/rs_arena_sports_2.png"
-    Stream: "http://nl.iptvsolution.info:80/arena2hr/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6"
+    Stream: "http[:[/][/]]nl[.]iptvsolution[.]info:80[/]arena2hr[/]mpegts?username=milinkovic[.]mara&token=d90f6ec602a20e2b2c9f79380e688df6"
     Live: true
 }
 {
@@ -868,7 +868,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/rs_arena_sports_3.png"
-    Stream: "http://109.105.201.198/ARENASPORT3/video.m3u8?token=test"
+    Stream: "http[:[/][/]]109[.]105[.]201[.]198[/]ARENASPORT3[/]video[.]m3u8?token=test"
     Live: true
 }
 {
@@ -877,7 +877,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/rs_arena_sports_4.png"
-    Stream: "http://109.105.201.198/ARENASPORT4/video.m3u8?token=test"
+    Stream: "http[:[/][/]]109[.]105[.]201[.]198[/]ARENASPORT4[/]video[.]m3u8?token=test"
     Live: true
 }
 {
@@ -886,7 +886,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/rs_arena_sports_6.png"
-    Stream: "http://42490-fred.oot-mx.me:80/live/63d576d12c/747308777cbd/110732.m3u8"
+    Stream: "http[:[/][/]]42490-fred[.]oot-mx[.]me:80[/]live[/]63d576d12c[/]747308777cbd[/]110732[.]m3u8"
     Live: true
 }
 {
@@ -895,7 +895,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/hr_sk1.png"
-    Stream: "http://nl.iptvsolution.info:80/sk1/index.m3u8?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6"
+    Stream: "http[:[/][/]]nl[.]iptvsolution[.]info:80[/]sk1[/]index[.]m3u8?username=milinkovic[.]mara&token=d90f6ec602a20e2b2c9f79380e688df6"
     Live: true
 }
 {
@@ -904,7 +904,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/hr_sk2.png"
-    Stream: "http://nl.iptvsolution.info:80/sk2/index.m3u8?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6"
+    Stream: "http[:[/][/]]nl[.]iptvsolution[.]info:80[/]sk2[/]index[.]m3u8?username=milinkovic[.]mara&token=d90f6ec602a20e2b2c9f79380e688df6"
     Live: true
 }
 {
@@ -913,7 +913,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/hr_sk3.png"
-    Stream: "http://nl.iptvsolution.info:80/sk3/index.m3u8?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6"
+    Stream: "http[:[/][/]]nl[.]iptvsolution[.]info:80[/]sk3[/]index[.]m3u8?username=milinkovic[.]mara&token=d90f6ec602a20e2b2c9f79380e688df6"
     Live: true
 }
 {
@@ -922,7 +922,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/it_sportitalia.png"
-    Stream: "https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8"
+    Stream: "https[:[/][/]]di-kzbhv8pw[.]vo[.]lswcdn[.]net[/]sportitalia[/]sihd[/]playlist[.]m3u8"
     Live: true
 }
 {
@@ -931,7 +931,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pt_sporttv_1.png"
-    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322730"
+    Stream: "http[:[/][/]]170[.]39[.]192[.]130:2095[/]56962725726playtv2[/]090824play[/]322730"
     Live: true
 }
 {
@@ -940,7 +940,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pt_sporttv_2.png"
-    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322731"
+    Stream: "http[:[/][/]]170[.]39[.]192[.]130:2095[/]56962725726playtv2[/]090824play[/]322731"
     Live: true
 }
 {
@@ -949,6 +949,6 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pt_sporttv_3.png"
-    Stream: "http://170.39.192.130:2095/56962725726playtv2/090824play/322733"
+    Stream: "http[:[/][/]]170[.]39[.]192[.]130:2095[/]56962725726playtv2[/]090824play[/]322733"
     Live: true
 }
