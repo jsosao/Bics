@@ -4,7 +4,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_bein_sports.png"
-    Stream: "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]BEIN_SPORTS[/]index[.]m3u8"
     Live: true
 }
 {
@@ -13,6 +13,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_bein_sports.png"
-    Stream: "http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8"
+    Stream: "http[:[/][/]]fl2[.]moveonjoy[.]com[/]BEIN_SPORTS[/]index[.]m3u8"
     Live: true
 }
+
