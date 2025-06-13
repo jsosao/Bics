@@ -81,7 +81,7 @@
 }
 {
     Artist: "web"
-    Title: "US: TUDN"
+    Title: "|X| US: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
@@ -603,7 +603,7 @@
 }
 {
     Artist: "LiveTVCollector"
-    Title: "|X| SPORTNET PACIFIC"
+    Title: "SPORTNET PACIFIC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
@@ -612,7 +612,7 @@
 }
 {
     Artist: "LiveTVCollector"
-    Title: "|X| SPORTNET EAST"
+    Title: "SPORTNET EAST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
@@ -621,7 +621,7 @@
 }
 {
     Artist: "LiveTVCollector"
-    Title: "|X| SPORTNET WEST"
+    Title: "SPORTNET WEST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
@@ -630,7 +630,7 @@
 }
 {
     Artist: "LiveTVCollector"
-    Title: "|X| SPORTNET 360"
+    Title: "SPORTNET 360"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
@@ -648,7 +648,7 @@
 }
 {
     Artist: "web"
-    Title: "US: VIX LA LIGA"
+    Title: "|X| US: VIX LA LIGA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_vix.png"
@@ -666,7 +666,7 @@
 }
 {
     Artist: "web"
-    Title: "SV: WOW TV"
+    Title: "|X| SV: WOW TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sv_wow.png"
@@ -693,7 +693,7 @@
 }
 {
     Artist: "web"
-    Title: "|X| BR: SPORT TV 2"
+    Title: "BR: SPORT TV 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_sportv_2.png"
