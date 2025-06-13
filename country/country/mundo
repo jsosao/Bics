@@ -477,42 +477,6 @@
 }
 {
     Artist: "web"
-    Title: "|X| MO: AL AOULA INTL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mo_al_aoula.png"
-    Stream: "https[:[/][/]]cdn[.]live[.]easybroadcast[.]io[/]abr_corp[/]73_aloula_w1dqfwm[/]corp[/]73_aloula_w1dqfwm_240p[/]chunks_dvr[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "|X| MO: AL AOULA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mo_al_aoula.png"
-    Stream: "https[:[/][/]]cdn[.]live[.]easybroadcast[.]io[/]abr_corp[/]73_laayoune_pgagr52[/]playlist_dvr[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "|X| MO: ARRYADIA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mo_arryadia.png"
-    Stream: "https[:[/][/]]cdn[.]live[.]easybroadcast[.]io[/]abr_corp[/]73_arryadia_k2tgcj0[/]playlist_dvr[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "|X| MO: AL MAGHRIBIA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mo_al_maghribia.png"
-    Stream: "https[:[/][/]]cdn[.]live[.]easybroadcast[.]io[/]abr_corp[/]73_almaghribia_83tz85q[/]playlist_dvr[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
     Title: "MO: TELE MAROC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -520,6 +484,25 @@
     Stream: "https[:[/][/]]raw[.]githubusercontent[.]com[/]ipstreet312[/]freeiptv[/]master[/]ressources[/]kuw[/]telmar[.]m3u8"
     Live: true
 }
+{
+    Artist: "web"
+    Title: "JO: AMMAN TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/jo_aman_tv.png"
+    Stream: "https[:[/][/]]ammantv-live[.]ercdn[.]net[/]ammantvhd[/]ammantvhd[.]m3u8"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "JO: Al Mamlaka TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/jo_al_mamlaka_tv.png"
+    Stream: "https[:[/][/]bcovlive-a[.]akamaihd[.]net[/]4109c7ba30fd4a44ad9afe917c67a8c8[/]eu-central-1[/]6415809151001[/]playlist_dvr[.]m3u8"
+    Live: true
+}
+
 {
     Artist: "vk"
     Title: "|BE| DAZN PRO LEAGUE 1"
