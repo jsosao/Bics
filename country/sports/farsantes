@@ -1,16 +1,16 @@
 {
     Artist: "web"
     Title: "CANAL 1"
-    streamFormat: "hls|mts"
+    streamFormat: "hls|mts|m3u|m3u8|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_farsantes.png"
-    Stream: "https[:[/][/]udb1[.]dbcast[.]live[/]hChh9lO9Pv1gUxkA33w5ZA[/]1750388737[/]3230312e3134312e3131382e323431[/]ff629[/]playlist.m3u8"
+    Stream: "https[:[/][/]]udb1[.]dbcast[.]live[/]hChh9lO9Pv1gUxkA33w5ZA[/]1750388737[/]3230312e3134312e3131382e323431[/]ff629[/]playlist.m3u8"
     Live: true
 }
 {
     Artist: "web"
     Title: "CANAL 2"
-    streamFormat: "hls|mts"
+    streamFormat: "hls|mts|m3u|m3u8|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_farsantes.png"
     Stream: "https[://]miami[.]crackstreamslivehd[.]com[/]global[/]tudn_usa[/]index[.]m3u8?token=7ca7c8e838c29af1efe76bd2fd804005c51fd338-ec-1750404093-1750350093&ip=201.141.118.241"
@@ -19,7 +19,7 @@
 {
     Artist: "web"
     Title: "CANAL 3"
-    streamFormat: "hls|mts"
+    streamFormat: "hls|mts|m3u|m3u8|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_farsantes.png"
     Stream: "https[://]miami[.]crackstreamslivehd[.]com[/]global[/]tudn_usa[/]index[.]m3u8?token=b4d46e059e7fb8c17841ee4e193657b5cfcd6269-3d-1750405020-1750351020&ip=201.141.118.241"
