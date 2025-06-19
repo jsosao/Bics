@@ -1,2459 +1,2214 @@
-{ 
- Artist: "vk" 
- Title: "GUATEVISION - GUA" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_guatevision.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0b5[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "A MAS GUATE 117W" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_a_mas.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00b[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "GUATEMALA TV" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00c[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "GT: CANAL 11" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_canal_11.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cv[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "GT: CANAL 13" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_canal_13.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cu[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "GT: CANAL 3" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_canal_3.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0dn[/]index[.]m3u8"
- Live: true 
-}
-{ 
- Artist: "vk" 
- Title: "GT: CANAL 7" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_canal_7.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0dm[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "GT: CANAL ANTIGUA" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0dk[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CANAL AZTECA - GUA" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_azteca_guate.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0dl[/]index[.]m3u8"
- Live: true 
-}
-
-
-{ 
- Artist: "vk" 
- Title: "13-SINART" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hr[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "3 ABN" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0q0[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "A&E" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_a&e.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0mk[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "A&E HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_a&e.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0c5[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "AMC" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_amc_network.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0bq[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "AMC HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_amc_network.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0c6[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ANIMAL PLANET" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_animal_planet.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0mm[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ANIMAL PLANET HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_animal_planet.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0c2[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ANTENA 3" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_antena_tres.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0h5[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ANTENA 7 - RD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0l1[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ATRES SERIES" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_antena_series.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0h8[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "AXN" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_axn.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ld[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "AXN HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_axn.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ov[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "AZ CLICK HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_clic.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cc[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "AZ CORAZON" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_corazon.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0bf[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "AZ MUNDO" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_azteca_mundo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0mg[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "AZTECA INTERNACIONAL" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_internacional.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ds[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "BBC NEWS" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/bbc_news.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lf[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "BBC WORLD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/bbc_news.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0bs[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "BITME" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_bitme.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0pr[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "BUNDES LIGA" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sky_sports_bundes.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a012[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "SV: CANAL 10" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sv_canal_10.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0kp[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "SV: CANAL 10 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sv_canal_10.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0kx[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "SV: CANAL 10 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sv_canal_10.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ks[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "HN: CANAL 11" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/hn_canal_11.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0kz[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CR: CANAL 11 - REPRETEL" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cr_canal_11.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lx[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "NI: CANAL 13" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ls[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "NI: CANAL 14" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ln[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CANAL 14 INTERCABLE" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00r[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "SV: CANAL 19" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sv_canal_19.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lz[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CANAL 20 INTERCABLE" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_intercable.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00s[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CANAL 23 INTERCABLE" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_intercable.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00t[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CANAL 26 INTERCABLE" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_intercable.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00u[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CANAL 27" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_intercable.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00y[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "HN: CANAL 3 TELESISTEMAS" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0o7[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CANAL 30 INTERCABLE" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_intercable.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00v[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CANAL 32 INTERCABLE" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_intercable.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00w[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "SV: CANAL 4 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sv_canal_4.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0kt[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "MX: CANAL 5" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_5.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a004[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "SV: CANAL 6" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sv_canal_6.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lj[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "NI: CANAL 6" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lr[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CR: CANAL 6 - REPRETEL" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cr_canal_6.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lw[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CR: CANAL 7 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cr_canal_7.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0kl[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "MX: CANAL 7" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_siete.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a002[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "HN: CANAL 8 TNH" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0km[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CANAL CLARO" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ky[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CANAL VTV HND" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/nh_vtv.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0o8[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CARTOON NETWORK" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoon_network.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0b7[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CARTOON NETWORK HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoon_network.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hz[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CARTOONITO" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoonito.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0b9[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "RD: CDN2" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lp[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "RD: CDN37" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0dq[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CINE LATINO" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0oo[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CINECANAL" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cinecanal.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0or[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CINECANAL HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cinecanal.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0e8[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CINEMAX" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cinemax.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0op[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CLARO SPORT 1 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_claro_sports.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hy[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CLARO SPORTS 1 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_claro_sports.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hw[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CLARO SPORTS 2 CA" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_claro_sports.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0og[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CLARO SPORTS 2 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_claro_sports.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hx[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CLARO SPORTS 2 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_claro_sports.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hk[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CNBC" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cnbc.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0os[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CNN INTERNACIONAL" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cnn_internacional.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0kr[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CNNE" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0br[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "RD: COLOR VISION 9" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0dp[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "COMEDY CENTRAL HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_comedy_central.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cm[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CONCERT CHANNEL" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ol[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "DE PELICULA" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_d_pelicula.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0pu[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "DEPORTES 1" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a016[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "DEPORTES TVC - HON" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/hn_deportes_tvc.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0m8[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "DHE" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_dhe.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hu[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "DHE HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_dhe.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cb[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "DIGITAL 15 - RD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lo[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "DISCOVERY CHANNEL" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_channel.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ml[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "DISCOVERY CHANNEL HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_channel.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0p7[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "DISCOVERY HOME & HEALTH" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_h&h.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0oe[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "DISCOVERY ID HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_id.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0pb[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "DISCOVERY KIDS" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_kids.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0o9[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "DISCOVERY KIDS HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_kids.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0h9[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "DISCOVERY SCIENCE" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_science.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0h7[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "DISCOVERY THEATHER HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_theater.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cj[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "DISCOVERY TURBO" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_turbo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0od[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "DISCOVERY WORLD HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_world.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0p8[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "DISNEY" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_channel.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ob[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "DISNEY JR" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_jr.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ba[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "DISTRITO COMEDIA" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_distrito_comedia.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0jw[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "E!" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_e!.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0mj[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "E! ENTERTAIRMENT HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_e!.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0c3[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "EL GOURMET" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_gourmet.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0d7[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ELIM TV - ESA" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0li[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ELIM TV - ESA" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a018[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ESPN  4 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_4.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0gb[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ESPN 117W" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a005[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ESPN 2 117W" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_2.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a006[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ESPN 2 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_2.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0p1[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ESPN 3 117W" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_3.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a007[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ESPN 3 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_3.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0p2[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ESPN 3 SD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_3.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hg[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ESPN 4" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_4.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0pi[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ESPN 4 117W" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_4.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a008[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ESPN 5  HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_5.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ox[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ESPN 5 117W" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_5.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a009[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ESPN 6" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_6.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lc[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ESPN 6 117W" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_6.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00a[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ESPN 6 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_6.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0p3[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ESPN DEPORTES USA" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_deportes.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0pt[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ESPN HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0p0[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ESTERIO SALVACION" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0k5[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "EURO CHANNEL" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0d5[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "EUROPA HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0c9[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "EWTN" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_ewtn.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0bv[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "EXA TV" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_exa_tv.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0e4[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "EXTRA TV 42" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hs[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "FILM & ARTS" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ht[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "FILM & ARTS HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0c4[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "FRANCE 24" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_france_espanol.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0bt[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CR: FUTV" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ny[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "CR: FUTV HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0oz[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "FX" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fx.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0m0[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "FX HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fx.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0c8[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "GOLDEN" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_golden.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0df[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "GOLDEN EDGE" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_golden_edge.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a010[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "GOLDEN PREMIERE 2 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hb[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "GOLDEN PREMIERE HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ha[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "GOLF CHANNEL" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_golf_channel.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0kq[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "HBO FAMILY HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_family.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0i3[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "HBO HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0i0[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "HBO PLUS HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_plus.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0i2[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "HBO XTREME" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_xtreme.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0i4[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "HBO 2 HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_2.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0i1[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "HCH- HON" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0l6[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "HGTV HOME GARDEN LATINO" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hgtv.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hd[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "HISTORY 2" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_2.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0d6[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "HISTORY CHANNEL" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_channel.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0mn[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "HISTORY HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_2.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0bw[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "HOLA! TV" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hola_tv.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ko[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "HOLA! TV HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hola_tv.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cl[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "HOME & HEALTH HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_h&h.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ck[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "HTV" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0de[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ID" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_id.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0of[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "LA LIGA ESPAÑOLA" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sky_sports_laliga.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0k3[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "LA RED TV" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0o1[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "LA VOZ DE MARIA" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_lvm.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0oi[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "LAS ESTRELLAS LAT HONDURAS" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0px[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "LAS ESTRELLAS LATINO SERVI" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0k8[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "LAS ESTRELLAS MX -2" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0pz[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "LAS ESTRELLAS MX HN" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0q3[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "LATIN AMERICA SPORT" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0m5[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "LIFETIME" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_lifetime.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0bk[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "MARIA VISION" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_maria_vision.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0jp[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "MAS CHIC" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_mas_chic.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0h4[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "MULTICINEMA" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0dh[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "MULTIMEDIOS" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_multimedios_cdmx.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hq[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "MULTIPREMIER" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0on[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "NAT GEO HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0p4[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "NATIONAL GEOGRAPHIC" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lb[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "NICARAO TV" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0l7[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "NICK JR" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nick_jr.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0b8[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "NICKELODEON" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nickelodeon.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0oa[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "NICKELODEON HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nickelodeon.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cg[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ORO MAR 2 TV" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a011[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "OROMAR" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0pw[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "PARAMOUNT" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_paramount_network.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hv[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "PARAMOUNT HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_paramount_network.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0p5[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "PASIONES HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_pasiones.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0p9[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "PENIEL FAMILIAR" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0kc[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "PENIEL KIDS" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0q2[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "PXTV" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0m4[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "RADIO SHADAY" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0q6[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "RCN NOVELAS" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_rcn_novelas.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0d4[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "RHEMA TV" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ou[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "RNN - RD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hp[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "SAS TV" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0q1[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "SEMBRADOR" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0di[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "SEMILLITAS" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0bc[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "SONY HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_sony.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0e7[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "SONY MOVIES HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sony_movies.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ca[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "SPACE" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_space.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0l9[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "SPACE HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_space.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ow[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "SRT BANDA MAX CDN" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ju[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "STAR CHANNEL" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_star_channel.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0oc[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "STAR CHANNEL HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_star_channel.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0e5[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "STAR TVE HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_star_tve.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0jh[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "STUDIO UNIVERSAL" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0oq[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "STUDIO UNIVERSAL" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a015[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "SUN CHANNEL" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0d8[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "SUYAPA TV" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ll[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TBN ENLACE" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0bu[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TCM" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tcm.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0dg[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TD+2 HD CR" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0kv[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TD+HD CR" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ku[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TEEN NICK HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nick_jr.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0c0[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TELE ANTILLAS - RD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0l0[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TELECENTRO - RD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lt[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TELEHIT" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_telehit.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0pv[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TELEHIT MUSICA" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_telehit.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0k2[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TELEHIT MUSICA PLUS" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_telehit.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00z[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TELEMICRO - RD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0me[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TELEMUNDO" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0l8[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TELEMUNDO HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0c7[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TELEMUNDO MIAMI" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ps[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TELENOVELAS LATINO" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_teemundo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00o[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TELESISTEMA RD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0l2[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TELEUNION - RD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lu[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TELEUNIVERSO - RD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lq[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TELEVIDA RD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ho[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TIGO SPORTS HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_tigo_sports.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cf[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TLC" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tlc.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0e1[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TN 23" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0kb[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TNT" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tnt.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0le[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TNT HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tnt.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ci[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TNT NOVELAS" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tnt_novelas.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0bi[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TNT SERIES" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tnt_series.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0la[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TNT SERIES HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tnt_series.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0p6[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TOONCAST" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tooncast.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0dr[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TUDN" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0jz[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TUNECO TV" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00x[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TV CHILE" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0kn[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TV ORIENTE ESA" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0nz[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TV TUDN" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a013[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TVE" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_tve.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ot[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "TVM25 -  ESA" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0o6[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "UNIVERSAL" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0om[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "UNIVERSAL CINEMA ESTE HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_cinema.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0pc[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "UNIVERSAL COMEDY HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_comedy.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ct[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "UNIVERSAL CRIME HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_crime.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cs[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "UNIVERSAL PREMIERE HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premiere.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cp[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "UNIVERSAL PREMIERE O HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premiere.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cq[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "UNIVERSAL REALITY HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_reality.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cr[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "UNIVERSAL TV" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a014[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "UNIVISION HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_univision.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0pa[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "USA" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_usa_network.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lg[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "VISOF INTERCABLE" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_intercable.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00q[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "SV: VTV CANAL 35" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ly[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "WARNER" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_warner_tv.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0mi[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "WARNER HD" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_warner_tv.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0e6[/]index[.]m3u8"
- Live: true 
-}
-
-{ 
- Artist: "vk" 
- Title: "ZOOMOO" 
- streamFormat: "hls|mts" 
- SwitchingStrategy: "full-adaptation" 
- Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
- Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0h3[/]index[.]m3u8"
- Live: true 
+{
+    Artist: "vk"
+    Title: "GUATEVISION - GUA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_guatevision.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0b5[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "A MAS GUATE 117W"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_a_mas.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00b[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "GUATEMALA TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00c[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "GT: CANAL 11"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_canal_11.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cv[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "GT: CANAL 13"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_canal_13.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cu[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "GT: CANAL 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_canal_3.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0dn[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "GT: CANAL 7"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_canal_7.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0dm[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "GT: CANAL ANTIGUA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0dk[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CANAL AZTECA - GUA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_azteca_guate.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0dl[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "13-SINART"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hr[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "3 ABN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0q0[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "A&E"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_a&e.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0mk[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "A&E HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_a&e.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0c5[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "AMC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_amc_network.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0bq[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "AMC HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_amc_network.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0c6[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ANIMAL PLANET"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_animal_planet.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0mm[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ANIMAL PLANET HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_animal_planet.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0c2[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ANTENA 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_antena_tres.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0h5[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ANTENA 7 - RD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0l1[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ATRES SERIES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_antena_series.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0h8[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "AXN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_axn.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ld[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "AXN HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_axn.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ov[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "AZ CLICK HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_clic.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cc[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "AZ CORAZON"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_corazon.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0bf[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "AZ MUNDO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_azteca_mundo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0mg[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "AZTECA INTERNACIONAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_internacional.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ds[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "BBC NEWS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/bbc_news.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lf[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "BBC WORLD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/bbc_news.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0bs[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "BITME"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_bitme.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0pr[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "BUNDES LIGA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sky_sports_bundes.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a012[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "SV: CANAL 10"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sv_canal_10.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0kp[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "SV: CANAL 10 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sv_canal_10.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0kx[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "SV: CANAL 10 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sv_canal_10.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ks[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "HN: CANAL 11"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/hn_canal_11.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0kz[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CR: CANAL 11 - REPRETEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cr_canal_11.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lx[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "NI: CANAL 13"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ls[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "NI: CANAL 14"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ln[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CANAL 14 INTERCABLE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00r[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "SV: CANAL 19"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sv_canal_19.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lz[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CANAL 20 INTERCABLE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_intercable.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00s[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CANAL 23 INTERCABLE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_intercable.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00t[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CANAL 26 INTERCABLE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_intercable.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00u[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CANAL 27"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_intercable.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00y[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "HN: CANAL 3 TELESISTEMAS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0o7[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CANAL 30 INTERCABLE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_intercable.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00v[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CANAL 32 INTERCABLE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_intercable.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00w[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "SV: CANAL 4 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sv_canal_4.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0kt[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "MX: CANAL 5"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_5.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a004[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "SV: CANAL 6"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sv_canal_6.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lj[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "NI: CANAL 6"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lr[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CR: CANAL 6 - REPRETEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cr_canal_6.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lw[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CR: CANAL 7 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cr_canal_7.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0kl[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "MX: CANAL 7"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_siete.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a002[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "HN: CANAL 8 TNH"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0km[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CANAL CLARO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ky[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "|X| CANAL VTV HND"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/nh_vtv.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0o8[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CARTOON NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoon_network.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0b7[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CARTOON NETWORK HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoon_network.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hz[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CARTOONITO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoonito.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0b9[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "RD: CDN2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lp[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "RD: CDN37"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0dq[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CINE LATINO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0oo[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CINECANAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cinecanal.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0or[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CINECANAL HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cinecanal.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0e8[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CINEMAX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cinemax.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0op[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CLARO SPORT 1 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_claro_sports.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hy[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CLARO SPORTS 1 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_claro_sports.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hw[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CLARO SPORTS 2 CA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_claro_sports.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0og[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CLARO SPORTS 2 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_claro_sports.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hx[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CLARO SPORTS 2 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_claro_sports.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hk[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CNBC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cnbc.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0os[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CNN INTERNACIONAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cnn_internacional.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0kr[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CNNE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0br[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "RD: COLOR VISION 9"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0dp[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "COMEDY CENTRAL HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_comedy_central.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cm[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CONCERT CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ol[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "DE PELICULA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_d_pelicula.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0pu[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "DEPORTES 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a016[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "DEPORTES TVC - HON"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/hn_deportes_tvc.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0m8[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "DHE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_dhe.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hu[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "DHE HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_dhe.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cb[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "DIGITAL 15 - RD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lo[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "DISCOVERY CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_channel.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ml[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "DISCOVERY CHANNEL HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_channel.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0p7[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "DISCOVERY HOME & HEALTH"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_h&h.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0oe[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "DISCOVERY ID HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_id.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0pb[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "DISCOVERY KIDS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_kids.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0o9[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "DISCOVERY KIDS HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_kids.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0h9[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "DISCOVERY SCIENCE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_science.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0h7[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "DISCOVERY THEATHER HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_theater.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cj[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "DISCOVERY TURBO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_turbo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0od[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "DISCOVERY WORLD HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_world.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0p8[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "DISNEY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_channel.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ob[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "DISNEY JR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_jr.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ba[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "DISTRITO COMEDIA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_distrito_comedia.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0jw[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "E!"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_e!.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0mj[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "E! ENTERTAIRMENT HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_e!.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0c3[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "EL GOURMET"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_gourmet.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0d7[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ELIM TV - ESA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0li[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ELIM TV - ESA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a018[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ESPN  4 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_4.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0gb[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ESPN 117W"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a005[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ESPN 2 117W"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_2.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a006[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ESPN 2 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_2.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0p1[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ESPN 3 117W"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_3.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a007[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ESPN 3 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_3.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0p2[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ESPN 3 SD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_3.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hg[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ESPN 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_4.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0pi[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ESPN 4 117W"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_4.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a008[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ESPN 5  HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_5.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ox[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ESPN 5 117W"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_5.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a009[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ESPN 6"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_6.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lc[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ESPN 6 117W"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_6.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00a[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ESPN 6 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_6.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0p3[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ESPN DEPORTES USA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_deportes.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0pt[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ESPN HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0p0[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ESTERIO SALVACION"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0k5[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "EURO CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0d5[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "EUROPA HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0c9[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "EWTN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_ewtn.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0bv[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "EXA TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_exa_tv.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0e4[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "EXTRA TV 42"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hs[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "FILM & ARTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ht[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "FILM & ARTS HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0c4[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "FRANCE 24"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_france_espanol.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0bt[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CR: FUTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ny[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "CR: FUTV HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0oz[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "FX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fx.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0m0[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "FX HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fx.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0c8[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "GOLDEN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_golden.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0df[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "GOLDEN EDGE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_golden_edge.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a010[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "GOLDEN PREMIERE 2 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hb[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "GOLDEN PREMIERE HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ha[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "GOLF CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_golf_channel.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0kq[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "HBO FAMILY HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_family.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0i3[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "HBO HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0i0[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "HBO PLUS HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_plus.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0i2[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "HBO XTREME"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_xtreme.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0i4[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "HBO 2 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_2.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0i1[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "HCH- HON"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0l6[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "HGTV HOME GARDEN LATINO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hgtv.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hd[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "HISTORY 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_2.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0d6[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "HISTORY CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_channel.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0mn[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "HISTORY HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_2.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0bw[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "HOLA! TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hola_tv.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ko[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "HOLA! TV HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hola_tv.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cl[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "HOME & HEALTH HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_h&h.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ck[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "HTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0de[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ID"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_id.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0of[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "LA LIGA ESPAÑOLA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sky_sports_laliga.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0k3[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "LA RED TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0o1[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "|X| LA VOZ DE MARIA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_lvm.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0oi[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "LAS ESTRELLAS LAT HONDURAS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0px[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "LAS ESTRELLAS LATINO SERVI"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0k8[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "LAS ESTRELLAS MX -2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0pz[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "LAS ESTRELLAS MX HN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0q3[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "LATIN AMERICA SPORT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0m5[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "LIFETIME"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_lifetime.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0bk[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "MARIA VISION"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_maria_vision.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0jp[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "MAS CHIC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_mas_chic.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0h4[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "MULTICINEMA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0dh[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "MULTIMEDIOS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_multimedios_cdmx.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hq[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "MULTIPREMIER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0on[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "NAT GEO HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0p4[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "NATIONAL GEOGRAPHIC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lb[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "NICARAO TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0l7[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "NICK JR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nick_jr.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0b8[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "NICKELODEON"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nickelodeon.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0oa[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "NICKELODEON HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nickelodeon.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cg[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ORO MAR 2 TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a011[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "OROMAR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0pw[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "PARAMOUNT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_paramount_network.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hv[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "PARAMOUNT HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_paramount_network.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0p5[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "PASIONES HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_pasiones.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0p9[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "PENIEL FAMILIAR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0kc[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "PENIEL KIDS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0q2[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "PXTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0m4[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "RADIO SHADAY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0q6[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "RCN NOVELAS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_rcn_novelas.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0d4[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "RHEMA TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ou[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "RNN - RD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0hp[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "SAS TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0q1[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "SEMBRADOR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0di[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "SEMILLITAS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0bc[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "SONY HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_sony.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0e7[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "SONY MOVIES HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sony_movies.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ca[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "SPACE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_space.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0l9[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "SPACE HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_space.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ow[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "SRT BANDA MAX CDN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ju[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "STAR CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_star_channel.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0oc[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "STAR CHANNEL HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_star_channel.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0e5[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "STAR TVE HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_star_tve.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0jh[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "STUDIO UNIVERSAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0oq[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "STUDIO UNIVERSAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a015[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "SUN CHANNEL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0d8[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "SUYAPA TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ll[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TBN ENLACE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0bu[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TCM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tcm.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0dg[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TD+2 HD CR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0kv[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TD+HD CR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ku[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TEEN NICK HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nick_jr.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0c0[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TELE ANTILLAS - RD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0l0[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TELECENTRO - RD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lt[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TELEHIT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_telehit.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0pv[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TELEHIT MUSICA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_telehit.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0k2[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TELEHIT MUSICA PLUS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_telehit.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00z[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TELEMICRO - RD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0me[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TELEMUNDO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0l8[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TELEMUNDO HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0c7[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TELEMUNDO MIAMI"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ps[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TELENOVELAS LATINO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_teemundo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00o[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TELESISTEMA RD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0l2[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TELEUNION - RD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lu[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TELEUNIVERSO - RD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lq[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TELEVIDA RD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ho[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TIGO SPORTS HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_tigo_sports.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cf[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TLC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tlc.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0e1[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TN 23"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0kb[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TNT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tnt.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0le[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TNT HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tnt.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ci[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TNT NOVELAS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tnt_novelas.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0bi[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TNT SERIES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tnt_series.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0la[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TNT SERIES HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tnt_series.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0p6[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TOONCAST"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tooncast.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0dr[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TUDN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0jz[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "|X| TUNECO TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00x[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TV CHILE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0kn[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TV ORIENTE ESA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0nz[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TV TUDN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a013[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TVE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_tve.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ot[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "TVM25 -  ESA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0o6[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "UNIVERSAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0om[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "UNIVERSAL CINEMA ESTE HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_cinema.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0pc[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "UNIVERSAL COMEDY HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_comedy.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ct[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "UNIVERSAL CRIME HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_crime.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cs[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "UNIVERSAL PREMIERE HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premiere.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cp[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "UNIVERSAL PREMIERE O HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_premiere.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cq[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "UNIVERSAL REALITY HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_reality.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0cr[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "UNIVERSAL TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a014[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "UNIVISION HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_univision.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0pa[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "USA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_usa_network.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0lg[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "VISOF INTERCABLE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_intercable.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a00q[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "SV: VTV CANAL 35"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0ly[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "WARNER"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_warner_tv.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0mi[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "WARNER HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_warner_tv.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0e6[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "vk"
+    Title: "ZOOMOO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]181[.]119[.]108[.]43:9997[/]play[/]a0h3[/]index[.]m3u8"
+    Live: true
 }
