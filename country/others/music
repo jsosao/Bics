@@ -4,7 +4,25 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_rockola_tv.png"
-    Stream: "https[:[/][/]]dr2t9f8nivbc6[.]cloudfront[.]net[/]d[/]distro001a[/]RHT6XGG6VHZA0P8T1MGX[/]hls3[/]now,-1m[/]m[.]m3u8"
+    Stream: "https[:[/][/]]d3s7x6kmqcnb6b[.]cloudfront[.]net[/]hls[/]U244XJA[/]6BF095EB3851[/]m[.]m3u8"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "HITS MEXICANOS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[/][/]d3s7x6kmqcnb6b[.]cloudfront[.]net[/]hls[/]MEHTFWQ[/]3F13C2D5DEBB[/]m.m3u8"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "LA BOCINA LATINA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[/][/]]d35j504z0x2vu2[.]cloudfront[.]net[/]v1[/]manifest[/]0bc8e8376bd8417a1b6761138aa41c26c7309312[/]la-bocina-latina[/]28913785-6e55-4162-b391-52f56bffdba6[/]2[.]m3u8"
     Live: true
 }
 {
