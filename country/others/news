@@ -90,7 +90,7 @@
 }
 {
     Artist: "web"
-    Title: "BBC AMERICA"
+    Title: "|X| BBC AMERICA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_bbc_america.png"
@@ -198,7 +198,7 @@
 }
 {
     Artist: "web"
-    Title: "|X| AL JAZEERA ARAB"
+    Title: "AL JAZEERA ARAB"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_al_jazeera.png"
@@ -333,7 +333,7 @@
 }
 {
     Artist: "LiveTVCollector"
-    Title: "CA: CBC NEWS"
+    Title: "|X| CA: CBC NEWS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc_news.png"
