@@ -26,12 +26,21 @@
     Live: true
 }
 {
-    Artist: "maurysam"
-    Title: "|X| MX: TUDN"
+    Artist: "lista"
+    Title: "MX: TUDN"
     streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
-    Stream: "https[:[/][/]]livedashmx[.]cdn[.]startv[.]tv[/]bpk-tv[/]tudn[/]vmx[/]index[.]mpd"
+    Stream: "http[:[/][/]]tvlatino[.]club:2082[/]Huapaya69[/]nnGVKeUzrV2w[/]513275.ts"
+    Live: true
+}
+{
+    Artist: "lista"
+    Title: "MX: TUDN"
+    streamFormat: "dash"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
+    Stream: "http[:[/][/]]tvlatino[.]club:2082[/]Huapaya69[/]nnGVKeUzrV2w[/]513276.ts"
     Live: true
 }
 {
