@@ -9,11 +9,20 @@
 }
 {
     Artist: "web"
+    Title: "MX: FOX DEPORTES TUBI"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_tubi.png"
+    Stream: "https[:[/][/]]aegis-cloudfront-1[.]tubi[.]video[/]0b3b6122-078c-4c89-ae5e-f548b9b1e382[/]playlist720p[.]m3u8"
+    Live: true
+}
+{
+    Artist: "web"
     Title: "|X| US: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
-    Stream: "http[:[/][/]]45[.]68[.]35[.]218:4001[/]play[/]a00x[/]index[.]m3u8"
+    Stream: "http[:[/][/]]tvmate[.]icu:8080[/]Alan[/]Alan1234[/]82241"
     Live: true
 }
 {
