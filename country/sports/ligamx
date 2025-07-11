@@ -17,21 +17,21 @@
     Live: true
 }
 {
-    Artist: "lista"
+    Artist: "05_Pablo"
     Title: "MX: TUDN"
-    streamFormat: "dash"
+    streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
-    Stream: "http[:[/][/]]tvlatino[.]club:2082[/]Huapaya69[/]nnGVKeUzrV2w[/]513275.ts"
+    Stream: "http[:[/][/]]200[.]115[.]120[.]1:8000[/]play[/]ca039[/]index[.]m3u8"
     Live: true
 }
 {
-    Artist: "lista"
+    Artist: "web"
     Title: "MX: TUDN"
-    streamFormat: "dash"
+    streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
-    Stream: "http[:[/][/]]tvlatino[.]club:2082[/]Huapaya69[/]nnGVKeUzrV2w[/]513276.ts"
+    Stream: "http[:[/][/]]190[.]149[.]62[.]46:8004[/]play[/]a0ou[/]index[.]m3u8"
     Live: true
 }
 {
