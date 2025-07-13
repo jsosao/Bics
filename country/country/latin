@@ -198,7 +198,7 @@
 }
 {
     Artist: "milista"
-    Title: "|X| PA: TV MAX"
+    Title: "PA: TV MAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pa_tvmax.png"
@@ -216,7 +216,7 @@
 }
 {
     Artist: "web"
-    Title: "|X| GT: TV AZTECA GUATE"
+    Title: "GT: TV AZTECA GUATE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_azteca_guate.png"
@@ -387,7 +387,7 @@
 }
 {
     Artist: "web"
-    Title: "SV: CANAL 4"
+    Title: "|X| SV: CANAL 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sv_canal_4.png"
@@ -594,7 +594,7 @@
 }
 {
     Artist: "milista"
-    Title: "|X| UY: CANAL 10"
+    Title: "UY: CANAL 10"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uy_canal_10.png"
