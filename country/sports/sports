@@ -17,12 +17,21 @@
     Live: true
 }
 {
-    Artist: "Alverich"
+    Artist: "bebe"
     Title: "MX: CALIENTE TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_caliente_tv.png"
-    Stream: "http[:[/][/]]home-playtv[.]com:80[/]RoltyFndz[/]GBQGK[/]558709"
+    Stream: "https[:[/][/]]11[.]crackstreamslivehd[.]com[/]calientetvmx[/]tracks-v1a1[/]mono.m3u8?token=307738c72e7467400f161e8d913882112f24ed2c-15-1752828800-1752774800"
+    Live: true
+}
+{
+    Artist: "jukior"
+    Title: "MX: CALIENTE TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_caliente_tv.png"
+    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]25Larraga[/]Larraga25[/]7812"
     Live: true
 }
 {
@@ -305,12 +314,21 @@
     Live: true
 }
 {
-    Artist: "milista"
+    Artist: "jukior"
     Title: "|X| MX: TVC DEPORTES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tvc_deportes.png"
-    Stream: "http[:[/][/]]directo[.]ddns[.]me:2082[/]felipenarcelles[/]felipe7388[/]13689"
+    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]25Larraga[/]Larraga25[/]7170"
+    Live: true
+}
+{
+    Artist: "jukior"
+    Title: "|X| MX: TVC DEPORTES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tvc_deportes.png"
+    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]25Larraga[/]Larraga25[/]7249"
     Live: true
 }
 {
