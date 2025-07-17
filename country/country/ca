@@ -18,7 +18,7 @@
 }
 {
     Artist: "web"
-    Title: "|X| CTV"
+    Title: "CTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
@@ -36,7 +36,7 @@
 }
 {
     Artist: "web"
-    Title: "|X| CTV DRAMA"
+    Title: "CTV DRAMA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_drama.png"
@@ -54,7 +54,7 @@
 }
 {
     Artist: "web"
-    Title: "|X| CTV LIFE"
+    Title: "CTV LIFE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_life.png"
@@ -63,7 +63,7 @@
 }
 {
     Artist: "web"
-    Title: "|X| CTV SCI FI"
+    Title: "CTV SCI FI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_scifi.png"
@@ -360,7 +360,7 @@
 }
 {
     Artist: "web"
-    Title: "CBC TORONTO"
+    Title: "|X| CBC TORONTO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
