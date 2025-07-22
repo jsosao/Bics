@@ -45,7 +45,7 @@
 }
 {
     Artist: "web"
-    Title: "BR: TCM"
+    Title: "|X| BR: TCM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tcm.png"
@@ -153,7 +153,7 @@
 }
 {
     Artist: "web"
-    Title: "BR: HBO"
+    Title: "|X| BR: HBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png"
@@ -396,7 +396,7 @@
 }
 {
     Artist: "Junior7766"
-    Title: "ANIMAL PLANET"
+    Title: "|X| ANIMAL PLANET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_animal_planet.png"
@@ -414,7 +414,7 @@
 }
 {
     Artist: "web"
-    Title: "DISCOVERY H&H"
+    Title: "|X| DISCOVERY H&H"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_h&h.png"
@@ -567,7 +567,7 @@
 }
 {
     Artist: "web"
-    Title: "|X| TV JUNIOR"
+    Title: "TV JUNIOR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Junior_Logo_2015.png"
