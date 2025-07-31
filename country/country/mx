@@ -1,19 +1,19 @@
 {
     Artist: "web"
     Title: "|X| AZTECA UNO"
-    streamFormat: "dash"
+    streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_uno.png"
-    Stream: "https[:[/][/]]livedashmx[.]cdn[.]startv[.]tv[/]bpk-tv[/]zu_azteca_uno[/]vmx[/]index[.]mpd"
+    Stream: "https[:[/][/]]mdstrm[.]com[/]live-stream-playlist[/]609b243156cca108312822a6[.]m3u8"
     Live: true
 }
 {
     Artist: "web"
     Title: "|X| AZTECA UNO"
-    streamFormat: "hls|mts"
+    streamFormat: "dash"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_uno.png"
-    Stream: "https[:[/][/]]mdstrm[.]com[/]live-stream-playlist[/]609b243156cca108312822a6[.]m3u8"
+    Stream: "https[:[/][/]]livedashmx[.]cdn[.]startv[.]tv[/]bpk-tv[/]zu_azteca_uno[/]vmx[/]index[.]mpd"
     Live: true
 }
 {
