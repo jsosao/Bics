@@ -18,7 +18,7 @@
 }
 {
     Artist: "vk"
-    Title: "|X| CL: TVN"
+    Title: "CL: TVN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cl_tvn.png"
@@ -270,7 +270,7 @@
 }
 {
     Artist: "Chloe"
-    Title: "HN: TSI"
+    Title: "|X| HN: TSI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/hn_tsi.png"
@@ -531,7 +531,7 @@
 }
 {
     Artist: "web"
-    Title: "BO: CANAL 7.2 DEPORTES"
+    Title: "|X| BO: CANAL 7.2 DEPORTES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/bo_canal_7_1.png"
