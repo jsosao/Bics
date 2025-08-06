@@ -1,5 +1,16 @@
 {
     Artist: "web"
+    Title: "LOS 4 FANTASTICOS: PRIMEROS PASOS"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x26MtUlwtWD26d0G0FXcppxCJio.jpg"
+    Stream: "http[:[/][/]]flx[.]lat:8080[/]movie[/]zno[.]0124[/]D6V8dFtjWSDW[/]306065.mp4"
+    Live: false
+}
+
+
+{
+    Artist: "web"
     Title: "JEFES DE ESTADO"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
@@ -7,6 +18,7 @@
     Stream: "http[:[/][/]]tvlatino[.]club:2082[/]movie[/]Huapaya69[/]nnGVKeUzrV2w[/]576789[.]mkv"
     Live: false
 }
+
 {
     Artist: "web"
     Title: "CAPITAN AMERICA: BRAVE NEW WORLD"
@@ -25,6 +37,27 @@
     Stream: "http[:[/][/]tv[.]nstvlatino[.]com:8080[/]movie[/]eduardoyrosario[/]eduardo2019[/]1247349[.]mkv"
     Live: false
 }
+{
+    Artist: "web"
+    Title: "F1"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JePWGvgg1t4BOojyZEVQdOWjXO.jpg"
+    Stream: "http[:[/][/]]smarterstv99[.]dyndns[.]tv:25461[/]movie[/]Y8HB4V3Z5D[/]vcqRXHytqYkc[/]524469.mp4"
+    Live: false
+}
+{
+    Artist: "web"
+    Title: "F1"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JePWGvgg1t4BOojyZEVQdOWjXO.jpg"
+    Stream: "http[:[/][/]]galaxypro[.]online:8080[/]movie[/]GustavoS[/]SerranoAmpf[/]736514[.]mp4"
+    Live: false
+}
+
+
+
 {
     Artist: "web"
     Title: "MISION IMPOSIBLE"
