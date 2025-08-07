@@ -32,12 +32,11 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_la_dos.png"
     Stream: "https[:[/][/]]d4g9wh8d4wiaw[.]cloudfront[.]net[/]v1[/]master[/]3722c60a815c199d9c0ef36c5b73da68a62b09d1[/]cc-crbrakk0yedqb[/]La2ES[.]m3u8"
-            
     Live: true
 }
 {
     Artist: "paplopom"
-    Title: "ES: ANTENA TRES"
+    Title: "|X| ES: ANTENA TRES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_antena_3.png"
@@ -46,7 +45,7 @@
 }
 {
     Artist: "paplopom"
-    Title: "ES: CUATRO"
+    Title: "|X| ES: CUATRO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_cuatro.png"
@@ -55,7 +54,7 @@
 }
 {
     Artist: "milista"
-    Title: "ES: TELECINCO"
+    Title: "|X| ES: TELECINCO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_telecinco.png"
@@ -64,7 +63,7 @@
 }
 {
     Artist: "milista"
-    Title: "ES: LA SEXTA"
+    Title: "|X| ES: LA SEXTA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_la_sexta.png"
