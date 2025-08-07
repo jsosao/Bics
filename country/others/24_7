@@ -216,7 +216,7 @@
 }
 {
     Artist: "walter"
-    Title: "|X| CINEMA - CIENCIAFICCION (E)"
+    Title: "CINEMA - CIENCIAFICCION (E)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -360,7 +360,7 @@
 }
 {
     Artist: "walter"
-    Title: "|X| CINEMA - ROMANTICO (E)"
+    Title: "CINEMA - ROMANTICO (E)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -621,7 +621,7 @@
 }
 {
     Artist: "walter"
-    Title: "|X| EL SHOW DE LOS LOONEY TUNES (E)"
+    Title: "EL SHOW DE LOS LOONEY TUNES (E)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -738,7 +738,7 @@
 }
 {
     Artist: "walter"
-    Title: "ICARLY (E)"
+    Title: "|X| ICARLY (E)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -774,7 +774,7 @@
 }
 {
     Artist: "walter"
-    Title: "INFANTIL - KICK BUTTOWSKI (E)"
+    Title: "|X| INFANTIL - KICK BUTTOWSKI (E)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -783,7 +783,7 @@
 }
 {
     Artist: "walter"
-    Title: "|X| INFANTIL - LAS AVENTURAS DE BILLY Y MANDY (E)"
+    Title: "INFANTIL - LAS AVENTURAS DE BILLY Y MANDY (E)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1143,7 +1143,7 @@
 }
 {
     Artist: "walter"
-    Title: "SCOOBY-DOO MISTERIOS S. A."
+    Title: "|X| SCOOBY-DOO MISTERIOS S. A."
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1303,8 +1303,6 @@
     Stream: "http[:[/][/]]tv[.]zapping[.]life:8080[/]NonoMuneca4[/]5cH27dUxgt[/]95038"
     Live: true
 }
-
-
 {
     Artist: "Buddy"
     Title: "CINEBOX: ANIMATION"
@@ -1314,7 +1312,6 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]hq3y4G[/]234247[/]119420"
     Live: true
 }
-
 {
     Artist: "Buddy"
     Title: "CINEBOX: BLOCKBUSTERS"
@@ -1324,7 +1321,6 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]hq3y4G[/]234247[/]119421"
     Live: true
 }
-
 {
     Artist: "Buddy"
     Title: "CINEBOX: CLASSIC"
@@ -1334,7 +1330,6 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]hq3y4G[/]234247[/]119422"
     Live: true
 }
-
 {
     Artist: "Buddy"
     Title: "CINEBOX: COMEDY"
@@ -1344,7 +1339,6 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]hq3y4G[/]234247[/]119423"
     Live: true
 }
-
 {
     Artist: "Buddy"
     Title: "CINEBOX: CULT"
@@ -1354,7 +1348,6 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]hq3y4G[/]234247[/]119424"
     Live: true
 }
-
 {
     Artist: "Buddy"
     Title: "CINEBOX: FAMILY"
@@ -1364,7 +1357,6 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]hq3y4G[/]234247[/]119425"
     Live: true
 }
-
 {
     Artist: "Buddy"
     Title: "CINEBOX: GREATS"
@@ -1374,7 +1366,6 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]hq3y4G[/]234247[/]119426"
     Live: true
 }
-
 {
     Artist: "Buddy"
     Title: "CINEBOX: GREATS TWO"
@@ -1384,7 +1375,6 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]hq3y4G[/]234247[/]119427"
     Live: true
 }
-
 {
     Artist: "Buddy"
     Title: "CINEBOX: HISTORICAL"
@@ -1394,7 +1384,6 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]hq3y4G[/]234247[/]119428"
     Live: true
 }
-
 {
     Artist: "Buddy"
     Title: "CINEBOX: MUSICAL"
@@ -1404,7 +1393,6 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]hq3y4G[/]234247[/]119430"
     Live: true
 }
-
 {
     Artist: "Buddy"
     Title: "CINEBOX: MYSTERY"
@@ -1414,7 +1402,6 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]hq3y4G[/]234247[/]119431"
     Live: true
 }
-
 {
     Artist: "Buddy"
     Title: "CINEBOX: PREMIERE"
@@ -1424,7 +1411,6 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]hq3y4G[/]234247[/]119432"
     Live: true
 }
-
 {
     Artist: "Buddy"
     Title: "CINEBOX: ROMANCE"
@@ -1434,7 +1420,6 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]hq3y4G[/]234247[/]119433"
     Live: true
 }
-
 {
     Artist: "Buddy"
     Title: "CINEBOX: SCI-FI"
@@ -1444,7 +1429,6 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]hq3y4G[/]234247[/]119434"
     Live: true
 }
-
 {
     Artist: "Buddy"
     Title: "CINEBOX: WESTERN"
@@ -1454,7 +1438,6 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]hq3y4G[/]234247[/]119435"
     Live: true
 }
-
 {
     Artist: "Buddy"
     Title: "CINEBOX: HITS"
@@ -1464,7 +1447,6 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]hq3y4G[/]234247[/]119436"
     Live: true
 }
-
 {
     Artist: "Buddy"
     Title: "CINEBOX: THRILLER"
@@ -1474,15 +1456,9 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]hq3y4G[/]234247[/]119437"
     Live: true
 }
-
-
-
-
-
-
 {
     Artist: "angel"
-    Title: "|X|  CINEMA COMEDIA HD"
+    Title: " CINEMA COMEDIA HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1491,7 +1467,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  CINEMA DC COMICS FHD"
+    Title: " CINEMA DC COMICS FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1500,7 +1476,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  CINEMA DC UNIVERSE HD"
+    Title: " CINEMA DC UNIVERSE HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1509,7 +1485,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  CINEMA DISNEY FAMILY HD"
+    Title: " CINEMA DISNEY FAMILY HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1518,7 +1494,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  CINEMA DISNEY PIXAR FHD"
+    Title: " CINEMA DISNEY PIXAR FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1527,7 +1503,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  CINEMA DREAMWORKS FHD"
+    Title: " CINEMA DREAMWORKS FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1536,7 +1512,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  CINEMA FAMILIA FHD"
+    Title: " CINEMA FAMILIA FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1545,7 +1521,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  CINEMA HAPPY MADISON FHD"
+    Title: " CINEMA HAPPY MADISON FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1554,7 +1530,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  CINEMA LEGO MOVIES FHD"
+    Title: " CINEMA LEGO MOVIES FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1563,7 +1539,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  CINEMA MARVEL ANIMATED FHD"
+    Title: " CINEMA MARVEL ANIMATED FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1572,7 +1548,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  CINEMA MARVEL STUDIOS FHD"
+    Title: " CINEMA MARVEL STUDIOS FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1581,7 +1557,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  MOVIECENTER KIDS FHD"
+    Title: " MOVIECENTER KIDS FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1590,7 +1566,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  COCINA ABIERTA FHD"
+    Title: " COCINA ABIERTA FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1599,7 +1575,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  DETECTIVE CONAN HD"
+    Title: " DETECTIVE CONAN HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1608,7 +1584,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  DISNEY LIVE ACTION FHD"
+    Title: " DISNEY LIVE ACTION FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1617,7 +1593,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  DISNEY PRINCESS FHD"
+    Title: " DISNEY PRINCESS FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1626,7 +1602,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  DRAGON BALL Z MOVIES FHD"
+    Title: " DRAGON BALL Z MOVIES FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1635,7 +1611,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  EL LABORATORIO DE DEXTER SD"
+    Title: " EL LABORATORIO DE DEXTER SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1644,7 +1620,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  FUTURAMA FHD"
+    Title: " FUTURAMA FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1653,7 +1629,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  HAPPY TREE FRIENDS FHD"
+    Title: " HAPPY TREE FRIENDS FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1662,7 +1638,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  JIMMY NEUTRON SD"
+    Title: " JIMMY NEUTRON SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1671,7 +1647,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  KUNG FU PANDA HD"
+    Title: " KUNG FU PANDA HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1680,7 +1656,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LA CASA DE MICKEY MOUSE HD"
+    Title: " LA CASA DE MICKEY MOUSE HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1689,7 +1665,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LA TROPA GOOFY HD"
+    Title: " LA TROPA GOOFY HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1698,7 +1674,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LILO & STITCH SD"
+    Title: " LILO & STITCH SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1707,7 +1683,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LO MEJOR DE DONALD SD"
+    Title: " LO MEJOR DE DONALD SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1716,7 +1692,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LOS SIMPSONS FHD"
+    Title: " LOS SIMPSONS FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1725,7 +1701,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LOS SIMPSONS HORROR HD"
+    Title: " LOS SIMPSONS HORROR HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1734,7 +1710,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LOS SIMPSONS RETRO SD"
+    Title: " LOS SIMPSONS RETRO SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1743,7 +1719,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  MASHA Y EL OSO HD"
+    Title: " MASHA Y EL OSO HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1752,7 +1728,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  PAW PATROL FHD"
+    Title: " PAW PATROL FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1761,7 +1737,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  PEPPA PIG FHD"
+    Title: " PEPPA PIG FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1770,7 +1746,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  PINGUINOS DE MADAGASCAR HD"
+    Title: " PINGUINOS DE MADAGASCAR HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1779,7 +1755,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  POCOYO HD"
+    Title: " POCOYO HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1788,7 +1764,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  TALKING TOM FHD"
+    Title: " TALKING TOM FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1797,7 +1773,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|   31 MINUTOS HD"
+    Title: "  31 MINUTOS HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1806,7 +1782,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  TINY TOONS SD"
+    Title: " TINY TOONS SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1815,7 +1791,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  MIGUELITO (CHILE) SD"
+    Title: " MIGUELITO (CHILE) SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1824,7 +1800,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LA NIÑERA TEMP 1 SD"
+    Title: " LA NIÑERA TEMP 1 SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1833,7 +1809,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  PASO A PASO SD"
+    Title: " PASO A PASO SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1842,7 +1818,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  VECINOS TEMP 2 SD"
+    Title: " VECINOS TEMP 2 SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1851,7 +1827,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  VECINOS TEMP 3 SD"
+    Title: " VECINOS TEMP 3 SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1860,7 +1836,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  VECINOS TEMP 4 SD"
+    Title: " VECINOS TEMP 4 SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1869,7 +1845,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  PARADISE PD SD"
+    Title: " PARADISE PD SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1878,7 +1854,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LA CASA DE MICKEY MOUSE SD"
+    Title: " LA CASA DE MICKEY MOUSE SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1887,7 +1863,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LA DOCTORA JUGUETE SD"
+    Title: " LA DOCTORA JUGUETE SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1896,7 +1872,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  SHE-RA LA PRINCESA DEL PODER SD"
+    Title: " SHE-RA LA PRINCESA DEL PODER SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1905,7 +1881,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  SAILOR MOON SD"
+    Title: " SAILOR MOON SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1914,7 +1890,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  BIRDMAN SD"
+    Title: " BIRDMAN SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1923,7 +1899,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  CAPITAN CABERNICOLA SD"
+    Title: " CAPITAN CABERNICOLA SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1932,7 +1908,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  JHONNY BRAVO SD"
+    Title: " JHONNY BRAVO SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1941,7 +1917,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LA VACA Y EL POLLITO SD"
+    Title: " LA VACA Y EL POLLITO SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1950,7 +1926,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LOS AÑOS MARAVILLOSOS SD"
+    Title: " LOS AÑOS MARAVILLOSOS SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1959,7 +1935,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  EL OSO YOGUI SD"
+    Title: " EL OSO YOGUI SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1968,7 +1944,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  CANDY CANDY SD"
+    Title: " CANDY CANDY SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1977,7 +1953,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LA CASA DE LOS DIBUJOS SD"
+    Title: " LA CASA DE LOS DIBUJOS SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1986,7 +1962,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  EL GALLO CLAUDIO SD"
+    Title: " EL GALLO CLAUDIO SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1995,7 +1971,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  CINEMA MARVEL STUDIOS OESTE FHD"
+    Title: " CINEMA MARVEL STUDIOS OESTE FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2004,7 +1980,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  CINEMA ANIME [TEST] FHD"
+    Title: " CINEMA ANIME [TEST] FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2013,7 +1989,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  RETRO SIMPSONS SD"
+    Title: " RETRO SIMPSONS SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2022,7 +1998,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  BOB ESPONJA SD"
+    Title: " BOB ESPONJA SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2031,7 +2007,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  DRAGON BALL FHD"
+    Title: " DRAGON BALL FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2040,7 +2016,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  DRAGON BALL 2 FHD"
+    Title: " DRAGON BALL 2 FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2049,7 +2025,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  DRAGON BALL GT SD"
+    Title: " DRAGON BALL GT SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2058,7 +2034,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  EL PAJARO LOCO SD"
+    Title: " EL PAJARO LOCO SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2067,7 +2043,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  GALLO CLAUDIO SD"
+    Title: " GALLO CLAUDIO SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2076,7 +2052,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  AMAZON KIDS (TEST) FHD"
+    Title: " AMAZON KIDS (TEST) FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2085,7 +2061,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LO MEJOR DE PLUTO SD"
+    Title: " LO MEJOR DE PLUTO SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2094,7 +2070,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  DRAGON BALL SUPER 1 SAGA LA BATALLA DE LOS DIOSES Y LA RESURRECCION DE FREZZER HD"
+    Title: " DRAGON BALL SUPER 1 SAGA LA BATALLA DE LOS DIOSES Y LA RESURRECCION DE FREZZER HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2103,7 +2079,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  DRAGON BALL SUPER 2 SAGA UNIVERSO 6 Y GOKU BLACK HD"
+    Title: " DRAGON BALL SUPER 2 SAGA UNIVERSO 6 Y GOKU BLACK HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2112,7 +2088,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  DRAGON BALL SUPER 3 SAGA DE LA SUPERVIVENCIA UNIVERSAL HD"
+    Title: " DRAGON BALL SUPER 3 SAGA DE LA SUPERVIVENCIA UNIVERSAL HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2121,7 +2097,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  EL CHAVO HD"
+    Title: " EL CHAVO HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2130,7 +2106,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  CORAJE SD"
+    Title: " CORAJE SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2139,7 +2115,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  DRAGON BALL SUPER HD"
+    Title: " DRAGON BALL SUPER HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2148,7 +2124,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  EL CHAVO DEL 8 SD"
+    Title: " EL CHAVO DEL 8 SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2157,7 +2133,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  EL PRINCIPE DEL RAP 2 HD"
+    Title: " EL PRINCIPE DEL RAP 2 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2166,7 +2142,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  FRIENDS SD"
+    Title: " FRIENDS SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2175,7 +2151,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LAS AVENTURAS DE TOM SAWYER SD"
+    Title: " LAS AVENTURAS DE TOM SAWYER SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2184,7 +2160,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LOS CABALLEROS DEL ZODIACO SD"
+    Title: " LOS CABALLEROS DEL ZODIACO SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2193,7 +2169,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LOS PEQUEÑOS TOM Y JERRY SD"
+    Title: " LOS PEQUEÑOS TOM Y JERRY SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2202,7 +2178,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LOS SIMPSONS HD"
+    Title: " LOS SIMPSONS HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2211,7 +2187,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  MALCOLM SD"
+    Title: " MALCOLM SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2220,7 +2196,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  PAJARO LOCO HD"
+    Title: " PAJARO LOCO HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2229,7 +2205,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  HEY ARNOLD SD"
+    Title: " HEY ARNOLD SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2238,7 +2214,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  CINEMA CIENCIA FICCION FHD"
+    Title: " CINEMA CIENCIA FICCION FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2247,7 +2223,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  CINEMA MARVEL STUDIOS ESTE FHD"
+    Title: " CINEMA MARVEL STUDIOS ESTE FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2256,7 +2232,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  CINE ESTELAR HD"
+    Title: " CINE ESTELAR HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2265,7 +2241,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  13 NOW KIDS HD"
+    Title: " 13 NOW KIDS HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2274,7 +2250,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  CHU CHU TV FHD"
+    Title: " CHU CHU TV FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2283,7 +2259,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  PLAYKIDS FHD"
+    Title: " PLAYKIDS FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2292,7 +2268,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  DESENCANTO HD"
+    Title: " DESENCANTO HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2301,7 +2277,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  2 PERROS TONTOS"
+    Title: " 2 PERROS TONTOS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2310,7 +2286,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  ALF SD"
+    Title: " ALF SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2319,7 +2295,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  BUZZ LIGHTYEAR SD"
+    Title: " BUZZ LIGHTYEAR SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2328,7 +2304,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  CHICAS SUPERPODEROSAS SD"
+    Title: " CHICAS SUPERPODEROSAS SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2337,7 +2313,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  DC HERO SUPER GIRLS FHD"
+    Title: " DC HERO SUPER GIRLS FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2346,7 +2322,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  DORAEMON HD"
+    Title: " DORAEMON HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2355,7 +2331,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  DUCK DODGERS SD"
+    Title: " DUCK DODGERS SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2364,7 +2340,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  EL SHOW DE GARFIELD FHD"
+    Title: " EL SHOW DE GARFIELD FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2373,7 +2349,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  ESCANDALOSOS 1 FHD"
+    Title: " ESCANDALOSOS 1 FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2382,7 +2358,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  ESCANDALOSOS 2 FHD"
+    Title: " ESCANDALOSOS 2 FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2391,7 +2367,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  ESCANDALOSOS 3 SD"
+    Title: " ESCANDALOSOS 3 SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2400,7 +2376,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  FENOMENOIDE SD"
+    Title: " FENOMENOIDE SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2409,7 +2385,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  GRUPO INCREIBLE SD"
+    Title: " GRUPO INCREIBLE SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2418,7 +2394,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LA GUARDIA DEL LEON FHD"
+    Title: " LA GUARDIA DEL LEON FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2427,7 +2403,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LA SIRENITA"
+    Title: " LA SIRENITA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2436,7 +2412,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LITTLE PET SHOP HD"
+    Title: " LITTLE PET SHOP HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2445,7 +2421,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LO MEJOR DE MICKEY SD"
+    Title: " LO MEJOR DE MICKEY SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2454,7 +2430,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LOONEY TUNES HD"
+    Title: " LOONEY TUNES HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2463,7 +2439,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LOS AUTOS LOCOS SD"
+    Title: " LOS AUTOS LOCOS SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2472,7 +2448,7 @@
 }
 {
     Artist: "angel"
-    Title: "|X|  LOS CAZAFANTASMAS"
+    Title: " LOS CAZAFANTASMAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
