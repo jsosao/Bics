@@ -63,7 +63,7 @@
 }
 {
     Artist: "Alverich"
-    Title: "|X| MX: TUDN"
+    Title: "MX: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
@@ -225,7 +225,7 @@
 }
 {
     Artist: "web"
-    Title: "MX: LAS"
+    Title: "|X| MX: LAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las.png"
@@ -234,7 +234,7 @@
 }
 {
     Artist: "web"
-    Title: "MX: BEISBOL LATINO TV"
+    Title: "|X| MX: BEISBOL LATINO TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_beisbol_latino.png"
@@ -477,7 +477,7 @@
 }
 {
     Artist: "web"
-    Title: "|X| US: BALLY_SPORTS_ARIZONA"
+    Title: "US: BALLY_SPORTS_ARIZONA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
@@ -693,7 +693,7 @@
 }
 {
     Artist: "web"
-    Title: "DO: SPORTS MAX"
+    Title: "|X| DO: SPORTS MAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/do_sports_max.png"
