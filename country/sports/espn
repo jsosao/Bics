@@ -161,30 +161,12 @@
     Live: true
 }
 {
-    Artist: "milista"
-    Title: "(OFF) MX: ESPN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
-    Stream: "http[:[/][/]]playtv44[.]com:8080[/]555898[/]123456[/]52749"
-    Live: true
-}
-{
     Artist: "Alverich"
     Title: "MX: ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
     Stream: "http[:[/][/]]home-playtv[.]com:8080[/]RoltyFndz[/]GBQGK[/]9380"
-    Live: true
-}
-{
-    Artist: "angel"
-    Title: ") MX: ESPN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
-    Stream: "http[:[/][/]]lunar[.]pm:8080[/]mrjayp[/]Spectrum2[/]120111"
     Live: true
 }
 {
@@ -197,21 +179,12 @@
     Live: true
 }
 {
-    Artist: "angel"
-    Title: "(OFF) MX: ESPN 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_2.png"
-    Stream: "http[:[/][/]]lunar[.]pm:8080[/]mrjayp[/]Spectrum2[/]120112"
-    Live: true
-}
-{
     Artist: "milista"
-    Title: "(OFF) MX: ESPN 3"
+    Title: "MX: ESPN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_3.png"
-    Stream: "http[:[/][/]]playtv44[.]com:8080[/]555898[/]123456[/]219010"
+    Stream: "http[:[/][/]]home-playtv[.]com:8080[/]RayGL63501[/]jqDzGNAQ2Z[/]9530"
     Live: true
 }
 {
@@ -224,39 +197,12 @@
     Live: true
 }
 {
-    Artist: "angel"
-    Title: "MX: ESPN 3"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_3.png"
-    Stream: "http[:[/][/]]lunar[.]pm:8080[/]mrjayp[/]Spectrum2[/]120113"
-    Live: true
-}
-{
     Artist: "Alverich"
     Title: "(OFF) MX: ESPN 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_4.png"
     Stream: "http[:[/][/]]disfruta[.]net[/]live[/]balooshy[/]Dcw7jXk5T5[/]8e248005-1c24-4459-a471-1329f8da3815[.]m3u"
-    Live: true
-}
-{
-    Artist: "angel"
-    Title: "MX: ESPN 4"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_4.png"
-    Stream: "http[:[/][/]]lunar[.]pm:8080[/]mrjayp[/]Spectrum2[/]120114"
-    Live: true
-}
-{
-    Artist: "angel"
-    Title: "US: ESPN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
-    Stream: "http[:[/][/]]lunar[.]pm:8080[/]mrjayp[/]Spectrum2[/]9569"
     Live: true
 }
 {
@@ -284,15 +230,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_u.png"
     Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]ESPN_U[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "Alverich"
-    Title: "(OFF) US: ESPN DEPORTES"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_deportes.png"
-    Stream: "http[:[/][/]]disfruta[.]net[/]live[/]balooshy[/]Dcw7jXk5T5[/]9db9023b-972f-4776-aecf-5386bae176db[.]m3u8"
     Live: true
 }
 {
@@ -368,17 +305,8 @@
     Live: true
 }
 {
-    Artist: "listDev"
-    Title: "(OFF) AR: ESPN VIVO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
-    Stream: "http[:[/][/]]170[.]39[.]192[.]130:2095[/]56993164346fpro[/]180724play[/]99604"
-    Live: true
-}
-{
     Artist: "web"
-    Title: ") AR: ESPN VIVO"
+    Title: "AR: ESPN VIVO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
@@ -396,56 +324,74 @@
 }
 {
     Artist: "Chloe"
-    Title: "(OFF) AR: ESPN"
+    Title: "AR: ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
-    Stream: "http[:[/][/]]181[.]13[.]173[.]86:8000[/]play[/]a0af[/]index[.]m3u8"
+    Stream: "http[:[/][/]]381[.]44[.]109[.]41:8003[/]play[/]a02v[/]index[.]m3u8"
     Live: true
 }
 {
     Artist: "Chloe"
-    Title: "(OFF) AR: ESPN 2"
+    Title: "AR: ESPN 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_2.png"
-    Stream: "http[:[/][/]]181[.]13[.]173[.]86:8000[/]play[/]a0ag[/]index[.]m3u8"
+    Stream: "http[:[/][/]]381[.]44[.]109[.]41:8003[/]play[/]a00v[/]index[.]m3u8"
     Live: true
 }
 {
     Artist: "Chloe"
-    Title: "(OFF) AR: ESPN 3"
+    Title: "AR: ESPN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_3.png"
-    Stream: "http[:[/][/]]181[.]13[.]173[.]86:8000[/]play[/]a0ah[/]index[.]m3u8"
+    Stream: "http[:[/][/]]381[.]44[.]109[.]41:8003[/]play[/]a00w[/]index[.]m3u8"
     Live: true
 }
 {
     Artist: "Chloe"
-    Title: "(OFF) AR: ESPN 4 HD"
+    Title: "AR: ESPN 4 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_4.png"
-    Stream: "http[:[/][/]]181[.]13[.]173[.]86:8000[/]play[/]a076[/]index[.]m3u8"
+    Stream: "http[:[/][/]]381[.]44[.]109[.]41:8003[/]play[/]a03m[/]index[.]m3u8"
     Live: true
 }
 {
     Artist: "Chloe"
-    Title: "(OFF) AR: ESPN PREMIUM HD"
+    Title: "AR: ESPN 5 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
-    Stream: "http[:[/][/]]181[.]13[.]173[.]86:8000[/]play[/]a078[/]index[.]m3u8"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_5.png"
+    Stream: "http[:[/][/]]381[.]44[.]109[.]41:8003[/]play[/]a02t[/]index[.]m3u8"
     Live: true
 }
 {
-    Artist: "listDev"
-    Title: "(OFF) AR: ESPN PREMIUM"
+    Artist: "Chloe"
+    Title: "AR: ESPN 6 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_6.png"
+    Stream: "http[:[/][/]]381[.]44[.]109[.]41:8003[/]play[/]a00u[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "Chloe"
+    Title: "AR: ESPN 7 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_7.png"
+    Stream: "http[:[/][/]]381[.]44[.]109[.]41:8003[/]play[/]a02u[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "Chloe"
+    Title: "AR: ESPN PREMIUM HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
-    Stream: "http[:[/][/]]1[.]84423[.]xyz:8000[/]XxXxXXXxX[/]04Il0O395xc22[/]145421"
+    Stream: "http[:[/][/]]381[.]44[.]109[.]41:8003[/]play[/]a02m[/]index[.]m3u8"
     Live: true
 }
 {
@@ -473,24 +419,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
     Stream: "http[:[/][/]]45[.]71[.]254[.]1:8000[/]play[/]a01r[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "listDev"
-    Title: "(OFF) AR: ESPN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
-    Stream: "http[:[/][/]]181[.]78[.]74[.]69:8000[/]play[/]a060[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "Mevo"
-    Title: "(OFF) CO: ESPN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
-    Stream: "http[:[/][/]]181[.]78[.]21[.]46:8009[/]play[/]a015"
     Live: true
 }
 {
@@ -630,11 +558,11 @@
 }
 {
     Artist: "Chloe"
-    Title: "(OFF) ESPN 1 HD CA"
+    Title: "ESPN 1 HD CA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
-    Stream: "http[:[/][/]]200[.]229[.]147[.]142:8000[/]play[/]a05z[/]index[.]m3u8"
+    Stream: "http[:[/][/]]200[.]229[.]147[.]142:8000[/]play[/]a05v[/]index[.]m3u8"
     Live: true
 }
 {
