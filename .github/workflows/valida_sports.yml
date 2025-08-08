@@ -123,7 +123,7 @@ jobs:
             
             if is_online:
                 if has_off_marker:
-                    return title[4:]
+                    return title[6:]
                 else:
                     return title
             else:
