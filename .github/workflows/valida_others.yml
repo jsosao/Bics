@@ -308,7 +308,7 @@ jobs:
         with open("validation_report_others.txt", 'w', encoding='utf-8') as f:
             f.write(f"REPORTE DE VALIDACIÓN\n")
             f.write(f"====================\n")
-            f.write(f"Fecha: $(date)\n")
+            f.write(f"Fecha: {$(date)}\n")
             f.write(f"Directorio procesado: {directory_path}\n")
             f.write(f"Archivos procesados: {processed_files}\n")
             f.write(f"Total streams: {total_streams}\n")
