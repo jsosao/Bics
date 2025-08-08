@@ -36,7 +36,7 @@
 }
 {
     Artist: "paplopom"
-    Title: "|X| ES: ANTENA TRES"
+    Title: "(OFF) ES: ANTENA TRES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_antena_3.png"
@@ -45,7 +45,7 @@
 }
 {
     Artist: "paplopom"
-    Title: "|X| ES: CUATRO"
+    Title: "(OFF) ES: CUATRO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_cuatro.png"
@@ -54,7 +54,7 @@
 }
 {
     Artist: "milista"
-    Title: "|X| ES: TELECINCO"
+    Title: "(OFF) ES: TELECINCO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_telecinco.png"
@@ -63,7 +63,7 @@
 }
 {
     Artist: "milista"
-    Title: "|X| ES: LA SEXTA"
+    Title: "(OFF) ES: LA SEXTA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_la_sexta.png"
@@ -81,7 +81,7 @@
 }
 {
     Artist: "milista"
-    Title: "|X| PT: RTP 2"
+    Title: "(OFF) PT: RTP 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pt_rtp_2.png"
@@ -90,7 +90,7 @@
 }
 {
     Artist: "milista"
-    Title: "|X| PT: RTP 3"
+    Title: "(OFF) PT: RTP 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pt_rtp_3.png"
@@ -144,7 +144,7 @@
 }
 {
     Artist: "milista"
-    Title: "|X| DE: RTL"
+    Title: "(OFF) DE: RTL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/de_rtl.png"
@@ -153,7 +153,7 @@
 }
 {
     Artist: "milista"
-    Title: "|X| DE: ZDF"
+    Title: "(OFF) DE: ZDF"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/de_zdf.png"
@@ -171,7 +171,7 @@
 }
 {
     Artist: "milista"
-    Title: "|X| FR: TF 1"
+    Title: "(OFF) FR: TF 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/fr_tf_1.png"
@@ -216,7 +216,7 @@
 }
 {
     Artist: "milista"
-    Title: "|X| FR: M6"
+    Title: "(OFF) FR: M6"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/fr_m6.png"
@@ -225,7 +225,7 @@
 }
 {
     Artist: "web"
-    Title: "|X| FR: BFM TV"
+    Title: "(OFF) FR: BFM TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/fr_bfm.png"
@@ -243,7 +243,7 @@
 }
 {
     Artist: "web"
-    Title: "|X| FR: BFM TV PARIS"
+    Title: "(OFF) FR: BFM TV PARIS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/fr_bfm_paris.png"
@@ -261,7 +261,7 @@
 }
 {
     Artist: "milista"
-    Title: "|X| IT: RAI 2"
+    Title: "(OFF) IT: RAI 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/it_rai_2.png"
@@ -279,7 +279,7 @@
 }
 {
     Artist: "milista"
-    Title: "|X| IT: RAI 4"
+    Title: "(OFF) IT: RAI 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/it_rai_4.png"
@@ -297,7 +297,7 @@
 }
 {
     Artist: "milista"
-    Title: "|X| UK: BBC ONE"
+    Title: "(OFF) UK: BBC ONE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uk_bbc_one.png"
@@ -306,7 +306,7 @@
 }
 {
     Artist: "milista"
-    Title: "|X| UK: BBC TWO"
+    Title: "(OFF) UK: BBC TWO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uk_bbc_two.png"
@@ -315,7 +315,7 @@
 }
 {
     Artist: "milista"
-    Title: "|X| UK: BBC CBBC"
+    Title: "(OFF) UK: BBC CBBC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uk_bbc_cbbc.png"
@@ -324,7 +324,7 @@
 }
 {
     Artist: "milista"
-    Title: "|X| UK: BBC FOUR"
+    Title: "(OFF) UK: BBC FOUR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uk_bbc_four.png"
@@ -378,7 +378,7 @@
 }
 {
     Artist: "vk"
-    Title: "|X| HU: M1"
+    Title: "(OFF) HU: M1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/hu_m1.png"
@@ -387,7 +387,7 @@
 }
 {
     Artist: "vl"
-    Title: "|X| HU: M2"
+    Title: "(OFF) HU: M2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/hu_m2.png"
@@ -396,7 +396,7 @@
 }
 {
     Artist: "milista"
-    Title: "|X| HU: RTL +"
+    Title: "(OFF) HU: RTL +"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/de_rtl.png"
@@ -414,7 +414,7 @@
 }
 {
     Artist: "web"
-    Title: "|X| RU: РОССИЯ EN"
+    Title: "(OFF) RU: РОССИЯ EN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ru_РОССИЯ_1.png"
@@ -423,7 +423,7 @@
 }
 {
     Artist: "TVGarden"
-    Title: "|X| RU: HTB МИР"
+    Title: "(OFF) RU: HTB МИР"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ru_htb_mnp.png"
@@ -441,7 +441,7 @@
 }
 {
     Artist: "milista"
-    Title: "|X| TR: TRT 2"
+    Title: "(OFF) TR: TRT 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/tr_trt_2.png"
