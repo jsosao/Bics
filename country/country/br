@@ -63,7 +63,7 @@
 }
 {
     Artist: "web"
-    Title: "BR: WARNER CHANNEL"
+    Title: "(OFF) BR: WARNER CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_warner_tv.png"
@@ -81,7 +81,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) BR: A&E"
+    Title: "BR: A&E"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_a&e.png"
@@ -360,7 +360,7 @@
 }
 {
     Artist: "Junior7766"
-    Title: "(OFF) BR: PREMIERE 4"
+    Title: "BR: PREMIERE 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_premiere.png"
@@ -414,7 +414,7 @@
 }
 {
     Artist: "web"
-    Title: "DISCOVERY H&H"
+    Title: "(OFF) DISCOVERY H&H"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_h&h.png"
