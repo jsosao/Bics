@@ -25,7 +25,6 @@
     Stream: "http[:[/][/]]tvlatino[.]club:2082[/]movie[/]Huapaya69[/]nnGVKeUzrV2w[/]576789[.]mkv"
     Live: false
 }
-
 {
     Artist: "web"
     Title: "CAPITAN AMERICA: BRAVE NEW WORLD"
@@ -62,12 +61,9 @@
     Stream: "http[:[/][/]]galaxypro[.]online:8080[/]movie[/]GustavoS[/]SerranoAmpf[/]736514[.]mp4"
     Live: false
 }
-
-
-
 {
     Artist: "web"
-    Title: "MISION IMPOSIBLE"
+    Title: "|X| MISION IMPOSIBLE"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKPsC9EFUafRP9SrUznI61getVP.jpg"
