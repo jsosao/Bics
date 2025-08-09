@@ -1,4 +1,43 @@
 {
+    Artist: "Alvaro"
+    Title: "MLB: Arizona Diamondbacks"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mlb.png"
+    Stream: "http[:[/][/]]bedroombullyonline[.]com:8880[/]live[/]MauriceFigaroa[/]6ggSKB2DPM/682986[.]ts"
+    Live: true
+}
+{
+    Artist: "Alvaro"
+    Title: "MLB: Atlanta Braves"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mlb.png"
+    Stream: "http[:[/][/]]ns106911[.]ip-51-81-106[.]us:25461[/]live[/]rjames3804@verizon[.]net[/]xaDjwwNmXY[/]99215[.]ts"
+    Live: true
+}
+{
+    Artist: "Alvaro"
+    Title: "MLB: Baltimore Orioles"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mlb.png"
+    Stream: "http[:[/][/]]ns106911[.]ip-51-81-106[.]us:25461[/]live[/]rjames3804@verizon[.]net[/]xaDjwwNmXY[/]99216[.]ts"
+    Live: true
+}
+
+
+
+
+
+
+
+
+
+
+
+
+{
     Artist: "LiveTVCollector"
     Title: "(OFF) TVPASS MLB 1"
     streamFormat: "hls|mts"
