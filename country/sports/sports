@@ -23,8 +23,8 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_tubi.png"
     Stream: "https[:[/][/]]live-manifest[.]production-public[.]tubi[.]io[/]live[/]bedd6cce-fd00-49a6-adc5-e1234616fc71[/]playlist[.]m3u8"
+    Live: true
 }
-
 {
     Artist: "web"
     Title: "MX: FOX DEPORTES TUBI"
@@ -72,7 +72,7 @@
 }
 {
     Artist: "Alverich"
-    Title: "(OFF) MX: TUDN"
+    Title: "MX: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
@@ -230,7 +230,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_aym_sports.png"
     Stream: "https[:[/][/]]aym-as[.]otteravision[.]com[/]aym[/]as[/]as_1080p[.]m3u8"
-https://hls.aymsports.net/hls/chanel_3/stream.m3u8
     Live: true
 }
 {
@@ -478,7 +477,7 @@ https://hls.aymsports.net/hls/chanel_3/stream.m3u8
 }
 {
     Artist: "web"
-    Title: "US: BALLY_SPORTS_ARIZONA"
+    Title: "(OFF) US: BALLY_SPORTS_ARIZONA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
@@ -955,7 +954,7 @@ https://hls.aymsports.net/hls/chanel_3/stream.m3u8
 }
 {
     Artist: "web"
-    Title: "IT: SPORT ITALIA"
+    Title: "(OFF) IT: SPORT ITALIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/it_sportitalia.png"
