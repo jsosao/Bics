@@ -71,30 +71,21 @@
     Live: true
 }
 {
-    Artist: "Alverich"
-    Title: "(OFF) CANAL 5"
+    Artist: "Neblina"
+    Title: "CANAL 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_5.png"
-    Stream: "http[:[/][/]]disfruta[.]net[/]live[/]balooshy[/]Dcw7jXk5T5[/]5d01c94d-5dad-46c6-b532-e29da7c7cb3a[.]m3u"
+    Stream: "http[:[/][/]]play[.]tecnomolly[.]com:8080[/]sburgueno[/]52ZNSjqpQRSN[/]32669"
     Live: true
 }
 {
-    Artist: "Alverich"
+    Artist: "Cocina"
     Title: "CANAL 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_5.png"
     Stream: "http[:[/][/]]home-playtv[.]com:80[/]RoltyFndz[/]GBQGK[/]241991"
-    Live: true
-}
-{
-    Artist: "PABLOPOM"
-    Title: "(OFF) CANAL 5"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_5.png"
-    Stream: "http[:[/][/]]45[.]68[.]35[.]218:4001[/]play[/]a009[/]index[.]m3u8"
     Live: true
 }
 {
@@ -134,12 +125,12 @@
     Live: true
 }
 {
-    Artist: "Alverich"
+    Artist: "neblina"
     Title: "CANAL NU9VE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nu9ve.png"
-    Stream: "http[:[/][/]]fastream[.]xyz:8080[/]Jorge_Patrick[/]t4wBUmH4Dkyv[/]59498"
+    Stream: "http[:[/][/]]play[.]tecnomolly[.]com:8080[/]sburgueno[/]52ZNSjqpQRSN[/]34158"
     Live: true
 }
 {
@@ -338,15 +329,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_camp_trc.png"
     Stream: "https[:[/][/]]5f1af61612fb5[.]streamlock[.]net[/]trc[/]videotrc[/]playlist[.]m3u8"
-    Live: true
-}
-{
-    Artist: "Chloe125"
-    Title: "(OFF) UNIFE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cdmx_unife.png"
-    Stream: "https[:[/][/]]5dcabf026b188[.]streamlock[.]net[/]StreamUnife[/]livestream[/]playlist[.]m3u8"
     Live: true
 }
 {
