@@ -188,21 +188,21 @@
     Live: true
 }
 {
-    Artist: "vk"
-    Title: "(OFF) PE: AMERICA TV HD"
+    Artist: "neblina"
+    Title: "PE: AMERICA TV HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pe_america_tv.png"
-    Stream: "http[:[/][/]]190[.]116[.]38[.]19:9090[/]play[/]a04x[/]index[.]m3u8"
+    Stream: "http[:[/][/]]play[.]tecnomolly[.]com:8080[/]sburgueno[/]52ZNSjqpQRSN[/]67584"
     Live: true
 }
 {
-    Artist: "milista"
+    Artist: "neblina"
     Title: "PA: TV MAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pa_tvmax.png"
-    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]335969"
+    Stream: "http[:[/][/]]play[.]tecnomolly[.]com:8080[/]sburgueno[/]52ZNSjqpQRSN[/]68314"
     Live: true
 }
 {
