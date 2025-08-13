@@ -44,48 +44,12 @@
     Live: true
 }
 {
-    Artist: "lista"
-    Title: "MX: TUDN"
-    streamFormat: "dash"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
-    Stream: "http[:[/][/]]tvlatino[.]club:2082[/]Huapaya69[/]nnGVKeUzrV2w[/]513275.ts"
-    Live: true
-}
-{
-    Artist: "lista"
-    Title: "MX: TUDN"
-    streamFormat: "dash"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
-    Stream: "http[:[/][/]]tvlatino[.]club:2082[/]Huapaya69[/]nnGVKeUzrV2w[/]513276.ts"
-    Live: true
-}
-{
-    Artist: "vk"
+    Artist: "rb"
     Title: "MX: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
-    Stream: "http[:[/][/]]45[.]5[.]117[.]57:8200[/]play[/]a04f[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "Alverich"
-    Title: "MX: TUDN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
-    Stream: "http[:[/][/]dplatino[.]net:8080[/]Redcol7363bd[/]6263636bdbfvf[/]314973"
-    Live: true
-}
-{
-    Artist: "Alverich"
-    Title: "MX: TUDN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
-    Stream: "http[:[/][/]dplatino[.]net:8080[/]Redcol7363bd[/]6263636bdbfvf[/]314974"
+    Stream: "http[:[/][/]]user[.]tvcluboficial[.]com[/]live[/]m[/]m[/]698[.]m3u8"
     Live: true
 }
 {
@@ -112,7 +76,34 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
+    Stream: "http[:[/][/]dplatino[.]net:8080[/]Redcol7363bd[/]6263636bdbfvf[/]314973"
+    Live: true
+}
+{
+    Artist: "Alverich"
+    Title: "US: TUDN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
+    Stream: "http[:[/][/]dplatino[.]net:8080[/]Redcol7363bd[/]6263636bdbfvf[/]314974"
+    Live: true
+}
+{
+    Artist: "Alverich"
+    Title: "US: TUDN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
     Stream: "http[:[/][/]dplatino[.]net:8080[/]Redcol7363bd[/]6263636bdbfvf[/]314975"
+    Live: true
+}
+{
+    Artist: "rb"
+    Title: "US: TUDN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
+    Stream: "http[:[/][/]]user[.]tvcluboficial[.]com[/]live[/]m[/]m[/]86[.]m3u8"
     Live: true
 }
 {
@@ -328,6 +319,15 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tvc_deportes.png"
+    Stream: "http[:[/][/]]user[.]tvcluboficial[.]com[/]live[/]m[/]m[/]837[.]m3u8"
+    Live: true
+}
+{
+    Artist: "rb"
+    Title: "MX: TVC DEPORTES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tvc_deportes.png"
     Stream: "http[:[/][/]]xcm[.]budtv-ultra[.]com:9000[/]budtv[/]budtvline[/]8Y3ymUpJESps[/]278563.m3u8"
     Live: true
 }
@@ -338,15 +338,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/hn_deportes_tvc.png"
     Stream: "http[:[/][/]]200[.]229[.]147[.]142:8000[/]play[/]a05g[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "(OFF) US: GOLF CHANNEL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_golf_channel.png"
-    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]GOLF_CHANNEL[/]index[.]m3u8"
     Live: true
 }
 {
@@ -788,6 +779,15 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_tnt_sports.png"
     Stream: "http[:[/][/]]38[.]180[.]133[.]31:8000[/]play[/]a11j[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "rb"
+    Title: "ECDF"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ec_ecdf.png"
+    Stream: "http[:[/][/]]user[.]tvcluboficial[.]com[/]live[/]m[/]m[/]892[.]m3u8"
     Live: true
 }
 {
