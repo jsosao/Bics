@@ -8,6 +8,15 @@
     Live: true
 }
 {
+    Artist: "rb"
+    Title: "AZTECA UNO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_uno.png"
+    Stream: "http[:[/][/]]user[.]tvcluboficial[.]com[/]live[/]m[/]m[/]4[.]m3u8"
+    Live: true
+}
+{
     Artist: "web"
     Title: "AZTECA UNO - 1H"
     streamFormat: "hls|mts"
@@ -35,6 +44,15 @@
     Live: true
 }
 {
+    Artist: "rb"
+    Title: "LAS ESTRELLAS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas.png"
+    Stream: "http[:[/][/]]user[.]tvcluboficial[.]com[/]live[/]m[/]m[/]411[.]m3u8"
+    Live: true
+}
+{
     Artist: "milista"
     Title: "(OFF) LAS ESTRELLAS"
     streamFormat: "hls|mts"
@@ -59,6 +77,15 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_imagen_tv.png"
     Stream: "http[:[/][/]]home-playtv[.]com:8080[/]RoltyFndz[/]GBQGK[/]241993"
+    Live: true
+}
+{
+    Artist: "rb"
+    Title: "IMAGEN TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_imagen_tv.png"
+    Stream: "http[:[/][/]]user[.]tvcluboficial[.]com[/]live[/]m[/]m[/]341[.]m3u8"
     Live: true
 }
 {
