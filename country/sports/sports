@@ -13,7 +13,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_tubi.png"
-    Stream: "https[:[/][/]]aegis-cloudfront-1[.]tubi[.]video[/]568a05ce-4b59-4c9e-98f6-757cdf106597[/]playlist720p[.]m3u8"
+    Stream: "https[:[/][/]]live-manifest[.]production-public[.]tubi[.]io[/]live[/]bedd6cce-fd00-49a6-adc5-e1234616fc71[/]playlist[.]m3u8"
     Live: true
 }
 {
@@ -22,7 +22,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_tubi.png"
-    Stream: "https[:[/][/]]live-manifest[.]production-public[.]tubi[.]io[/]live[/]bedd6cce-fd00-49a6-adc5-e1234616fc71[/]playlist[.]m3u8"
+    Stream: "https[:[/][/]]aegis-cloudfront-1[.]tubi[.]video[/]568a05ce-4b59-4c9e-98f6-757cdf106597[/]playlist720p[.]m3u8"
     Live: true
 }
 {
@@ -113,15 +113,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
     Stream: "http[:[/][/]]tvmate[.]icu:8080[/]Alan[/]Alan1234[/]82241"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "US: TUDN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
-    Stream: "http[:[/][/]]hidra[.]live:80[/]eufTQNgNXv[/]ojxBLcjY[/]319573"
     Live: true
 }
 {
