@@ -1,4 +1,27 @@
 {
+    Artist: "bo"
+    Title: "US: ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]live[/]95549031[/]69361122/14197.ts"
+    Live: true
+}
+{
+    Artist: "bo"
+    Title: "US: ESPN 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_2.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]live[/]95549031[/]69361122/2210.ts"
+    Live: true
+}
+
+
+
+
+
+{
     Artist: "milista"
     Title: "ESPN SD (MX)"
     streamFormat: "hls|mts"
