@@ -117,6 +117,17 @@
 }
 {
     Artist: "web"
+    Title: "US: TUDN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]live[/]Y3DvY8[/]934867[/]11885[.]ts"
+    Live: true
+}
+
+
+{
+    Artist: "web"
     Title: "MX: SKY SPORTS LA LIGA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
