@@ -124,8 +124,6 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]live[/]Y3DvY8[/]934867[/]11885[.]ts"
     Live: true
 }
-
-
 {
     Artist: "web"
     Title: "MX: SKY SPORTS LA LIGA"
@@ -137,7 +135,7 @@
 }
 {
     Artist: "MILTON"
-    Title: "(OFF) SKY SPORTS PREMIERE"
+    Title: "SKY SPORTS PREMIERE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sky_sports_premiere.png"
@@ -470,7 +468,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) US: BALLY_SPORTS_ARIZONA"
+    Title: "US: BALLY_SPORTS_ARIZONA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
@@ -614,7 +612,7 @@
 }
 {
     Artist: "LiveTVCollector"
-    Title: "(OFF) SPORTNET ONTARIO"
+    Title: "SPORTNET ONTARIO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
