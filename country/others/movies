@@ -4,7 +4,25 @@
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x26MtUlwtWD26d0G0FXcppxCJio.jpg"
+    Stream: "https[:[/][/]]dl[.]dropbox[.]com[/]scl[/]fi[/]ifgzkj8nmjycbdk4qj16i[/]sociales[.]mp4?rlkey=qjf9dnhp5mej55di2y7jarj03&st=79g5g9i2&dl=0"
+    Live: false
+}
+{
+    Artist: "web"
+    Title: "LOS 4 FANTASTICOS: PRIMEROS PASOS"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x26MtUlwtWD26d0G0FXcppxCJio.jpg"
     Stream: "http[:[/][/]]flx[.]lat:8080[/]movie[/]zno[.]0124[/]D6V8dFtjWSDW[/]306065.mp4"
+    Live: false
+}
+{
+    Artist: "web"
+    Title: "THUNDERBOLTS"
+    streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://image.tmdb.org/t/p/w154/zLbhKNJGDSfBCXFNtypM7ZuPTaW.jpg"
+    Stream: "https[:[/][/]]dl[.]dropbox[.]com[/]scl[/]fi[/]3d547vysd0q4eblasca2w[/]TH4U13ND1ER3B4OLT5AS[.]ts?rlkey=ooubd2hhuoln986pl9jrdshvs&st=exsgc80t&"
     Live: false
 }
 {
