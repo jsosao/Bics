@@ -18,7 +18,7 @@
 }
 {
     Artist: "vk"
-    Title: "(OFF) CL: TVN"
+    Title: "CL: TVN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cl_tvn.png"
@@ -369,7 +369,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) SV: CANAL 3"
+    Title: "SV: CANAL 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sv_canal_3.png"
@@ -387,7 +387,7 @@
 }
 {
     Artist: "web"
-    Title: "SV: CANAL 4"
+    Title: "(OFF) SV: CANAL 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sv_canal_4.png"
@@ -450,7 +450,7 @@
 }
 {
     Artist: "web"
-    Title: "CR: CANAL 1"
+    Title: "(OFF) CR: CANAL 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cr_canal_1.png"
