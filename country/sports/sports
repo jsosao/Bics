@@ -63,7 +63,7 @@
 }
 {
     Artist: "web"
-    Title: "MX: TUDN"
+    Title: "(OFF) MX: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
@@ -234,7 +234,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) MX: LAS"
+    Title: "MX: LAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las.png"
@@ -243,7 +243,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) MX: BEISBOL LATINO TV"
+    Title: "MX: BEISBOL LATINO TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_beisbol_latino.png"
@@ -468,7 +468,7 @@
 }
 {
     Artist: "web"
-    Title: "US: BALLY_SPORTS_ARIZONA"
+    Title: "(OFF) US: BALLY_SPORTS_ARIZONA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
@@ -630,7 +630,7 @@
 }
 {
     Artist: "LiveTVCollector"
-    Title: "(OFF) SPORTNET PACIFIC"
+    Title: "SPORTNET PACIFIC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
@@ -639,7 +639,7 @@
 }
 {
     Artist: "LiveTVCollector"
-    Title: "(OFF) SPORTNET EAST"
+    Title: "SPORTNET EAST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
@@ -648,7 +648,7 @@
 }
 {
     Artist: "LiveTVCollector"
-    Title: "(OFF) SPORTNET WEST"
+    Title: "SPORTNET WEST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
