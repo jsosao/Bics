@@ -54,7 +54,7 @@
 }
 {
     Artist: "05_Pablo"
-    Title: "MX: TUDN"
+    Title: "(OFF) MX: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
@@ -117,7 +117,7 @@
 }
 {
     Artist: "web"
-    Title: "US: TUDN"
+    Title: "(OFF) US: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
@@ -693,7 +693,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) SV: WOW TV"
+    Title: "SV: WOW TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sv_wow.png"
@@ -720,7 +720,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) BR: SPORT TV 2"
+    Title: "BR: SPORT TV 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_sportv_2.png"
