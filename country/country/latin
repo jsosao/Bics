@@ -18,7 +18,7 @@
 }
 {
     Artist: "vk"
-    Title: "(OFF) CL: TVN"
+    Title: "CL: TVN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cl_tvn.png"
@@ -198,7 +198,7 @@
 }
 {
     Artist: "neblina"
-    Title: "(OFF) PA: TV MAX"
+    Title: "PA: TV MAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pa_tvmax.png"
@@ -243,7 +243,7 @@
 }
 {
     Artist: "web"
-    Title: "GT: CANAL 3"
+    Title: "(OFF) GT: CANAL 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_canal_3.png"
@@ -252,7 +252,7 @@
 }
 {
     Artist: "web"
-    Title: "GT: CANAL 7"
+    Title: "(OFF) GT: CANAL 7"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_canal_7.png"
