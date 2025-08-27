@@ -36,7 +36,7 @@
 }
 {
     Artist: "web"
-    Title: "MILENIO"
+    Title: "(OFF) MILENIO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_milenio.png"
@@ -333,7 +333,7 @@
 }
 {
     Artist: "LiveTVCollector"
-    Title: "(OFF) CA: CBC NEWS"
+    Title: "CA: CBC NEWS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc_news.png"
@@ -351,7 +351,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) RU: RT EN"
+    Title: "RU: RT EN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_rt.png"
