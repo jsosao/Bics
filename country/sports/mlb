@@ -1,4 +1,13 @@
 {
+    Artist: "live"
+    Title: "BIG INNING"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mlb_big_inning.png"
+    Stream: "http[:[/][/]]vocotv[.]pro:80[/]live[/]gast[/]gast[/]715294.ts"
+    Live: true
+}
+{
     Artist: "Alvaro"
     Title: "ARIZONA DIAMONDBACKS"
     streamFormat: "hls|mts"
