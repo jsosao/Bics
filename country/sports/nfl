@@ -1,14 +1,5 @@
 {
     Artist: "live"
-    Title: "NFL RED ZONE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_redzone.png"
-    Stream: "http[:[/][/]]user[.]scalecdn[.]co:8080[/]live[/}supersonicstreams[/]cUewZolveU[/]3752.ts"
-    Live: true
-}
-{
-    Artist: "live"
     Title: "INDIANAPOLIS COLTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
