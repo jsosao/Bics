@@ -117,7 +117,7 @@
 }
 {
     Artist: "web"
-    Title: "MULTIMEDIOS CDMX"
+    Title: "(OFF) MULTIMEDIOS CDMX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_multimedios_cdmx.png"
@@ -369,7 +369,7 @@
 }
 {
     Artist: "web"
-    Title: "COAH MULTIMEDIOS LAG"
+    Title: "(OFF) COAH MULTIMEDIOS LAG"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_coah_multimedios_laguna.png"
@@ -468,7 +468,7 @@
 }
 {
     Artist: "web"
-    Title: "GTO: MULTIMEDIOS BAJIO"
+    Title: "(OFF) GTO: MULTIMEDIOS BAJIO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_gto_multimedios_bajio.png"
@@ -522,7 +522,7 @@
 }
 {
     Artist: "web"
-    Title: "JAL: MULTIMEDIOS GDL"
+    Title: "(OFF) JAL: MULTIMEDIOS GDL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_jal_multimedios_gdl.png"
@@ -549,7 +549,7 @@
 }
 {
     Artist: "web"
-    Title: "NL: MULTIMEDIOS MTY"
+    Title: "(OFF) NL: MULTIMEDIOS MTY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nl_multimedios_mty.png"
@@ -576,7 +576,7 @@
 }
 {
     Artist: "web"
-    Title: "PUE: MULTIMEDIOS PUEBLA"
+    Title: "(OFF) PUE: MULTIMEDIOS PUEBLA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_pue_multimedios_puebla.png"
@@ -702,7 +702,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) YUC: SIPSE YUCATÁN"
+    Title: "YUC: SIPSE YUCATÁN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_yuc_sipse.png"
