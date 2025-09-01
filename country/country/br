@@ -90,7 +90,7 @@
 }
 {
     Artist: "web"
-    Title: "BR: AMC"
+    Title: "(OFF) BR: AMC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_amc_network.png"
@@ -153,7 +153,7 @@
 }
 {
     Artist: "web"
-    Title: "BR: HBO"
+    Title: "(OFF) BR: HBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png"
@@ -270,7 +270,7 @@
 }
 {
     Artist: "Junior7766"
-    Title: "(OFF) BR ESPN 3"
+    Title: "BR ESPN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_3.png"
@@ -639,7 +639,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) BR: TELECINE PREMIUM"
+    Title: "BR: TELECINE PREMIUM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.imgur.com/IoWD44d.png"
