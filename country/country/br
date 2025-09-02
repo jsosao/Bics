@@ -90,7 +90,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) BR: AMC"
+    Title: "BR: AMC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_amc_network.png"
@@ -99,7 +99,7 @@
 }
 {
     Artist: "web"
-    Title: "BR: PARAMOUNT"
+    Title: "(OFF) BR: PARAMOUNT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_paramount_network.png"
@@ -153,7 +153,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) BR: HBO"
+    Title: "BR: HBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png"
