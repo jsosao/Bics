@@ -1,4 +1,31 @@
 {
+    Artist: "Servidor"
+    Title: "CANAL RCN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_rcn.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]100974831[/]100974831[/]78694"
+    Live: true
+}
+{
+    Artist: "Servidor"
+    Title: "CANAL CARACOL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_caracol.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]hq3y4G[/]234247[/]78700"
+    Live: true
+}
+{
+    Artist: "Servidor"
+    Title: "TELE MEDELLIN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]hq3y4G[/]234247[/]78722"
+    Live: true
+}
+{
     Artist: "web"
     Title: "A&E HD"
     streamFormat: "hls|mts"
