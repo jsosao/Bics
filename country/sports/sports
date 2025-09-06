@@ -962,29 +962,38 @@
     Live: true
 }
 {
-    Artist: "milista"
-    Title: "(OFF) SPORTTV 1"
+    Artist: "Alvaro"
+    Title: "SPORTTV 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pt_sporttv_1.png"
-    Stream: "http[:[/][/]]170[.]39[.]192[.]130:2095[/]56962725726playtv2[/]090824play[/]322730"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]live[/]Y3DvY8[/]934867[/]167742[.]ts"
     Live: true
 }
 {
-    Artist: "milista"
-    Title: "(OFF) SPORTTV 2"
+    Artist: "Alvaro"
+    Title: "SPORTTV 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pt_sporttv_2.png"
-    Stream: "http[:[/][/]]170[.]39[.]192[.]130:2095[/]56962725726playtv2[/]090824play[/]322731"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]live[/]Y3DvY8[/]934867[/]167743[.]ts"
     Live: true
 }
 {
-    Artist: "milista"
-    Title: "(OFF) SPORTTV 3"
+    Artist: "Alvaro"
+    Title: "SPORTTV 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pt_sporttv_3.png"
-    Stream: "http[:[/][/]]170[.]39[.]192[.]130:2095[/]56962725726playtv2[/]090824play[/]322733"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]live[/]Y3DvY8[/]934867[/]167744[.]ts"
+    Live: true
+}
+{
+    Artist: "Alvaro"
+    Title: "SPORTTV 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pt_sporttv_4.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]live[/]Y3DvY8[/]934867[/]167745[.]ts"
     Live: true
 }
