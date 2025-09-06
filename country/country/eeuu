@@ -36,7 +36,7 @@
 }
 {
     Artist: "LIVE"
-    Title: "ABC KABC"
+    Title: "(OFF) ABC KABC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_abc_kabc.png"
@@ -81,7 +81,7 @@
 }
 {
     Artist: "live"
-    Title: "CBS KCBS"
+    Title: "(OFF) CBS KCBS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cbs_kcbs.png"
@@ -117,7 +117,7 @@
 }
 {
     Artist: "live"
-    Title: "NBC KNBC"
+    Title: "(OFF) NBC KNBC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_knbc.png"
@@ -162,7 +162,7 @@
 }
 {
     Artist: "live"
-    Title: "FOX KTTV"
+    Title: "(OFF) FOX KTTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox.png"
@@ -171,7 +171,7 @@
 }
 {
     Artist: "LIVE"
-    Title: "KTLA"
+    Title: "(OFF) KTLA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ktla.png"
@@ -999,7 +999,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) REELZ"
+    Title: "REELZ"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_reelz.png"
