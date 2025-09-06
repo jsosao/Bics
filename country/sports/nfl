@@ -18,38 +18,11 @@
 }
 {
     Artist: "live"
-    Title: "INDIANAPOLIS COLTS"
+    Title: "ARIZONA CARDINALS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_colts.png"
-    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34091.ts"
-    Live: true
-}
-{
-    Artist: "live"
-    Title: "DALLAS COWBOYS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_cowboys.png"
-    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34090.ts"
-    Live: true
-}
-{
-    Artist: "live"
-    Title: "MIAMI DOLPHINS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_dolphins.png"
-    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34089.ts"
-    Live: true
-}
-{
-    Artist: "live"
-    Title: "PHILADELPHIA EAGLES"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_eagles.png"
-    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34088.ts"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_cardinals.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55098"
     Live: true
 }
 {
@@ -63,74 +36,11 @@
 }
 {
     Artist: "live"
-    Title: "(OFF) JACKSONVILLE JAGUARS"
+    Title: "ATLANTA FALCONS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_jaguars.png"
-    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34086.ts"
-    Live: true
-}
-{
-    Artist: "live"
-    Title: "NEW YORK JETS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_jets.png"
-    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34085.ts"
-    Live: true
-}
-{
-    Artist: "live"
-    Title: "DETROIT LIONS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_lions.png"
-    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34084.ts"
-    Live: true
-}
-{
-    Artist: "live"
-    Title: "GREEN BAY PACKERS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_packers.png"
-    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34083.ts"
-    Live: true
-}
-{
-    Artist: "live"
-    Title: "CAROLINA PANTHERS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_panthers.png"
-    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34082.ts"
-    Live: true
-}
-{
-    Artist: "live"
-    Title: "(OFF) NEW ENGLAND PATRIOTS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_patriots.png"
-    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34081.ts"
-    Live: true
-}
-{
-    Artist: "live"
-    Title: "LAS VEGAS RAIDERS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_raiders.png"
-    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34080.ts"
-    Live: true
-}
-{
-    Artist: "live"
-    Title: "LOS ANGELES RAMS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_rams.png"
-    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34079.ts"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_falcons.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55099"
     Live: true
 }
 {
@@ -144,38 +54,119 @@
 }
 {
     Artist: "live"
-    Title: "(OFF) WASHINGTON COMMANDERS"
+    Title: "BALTIMORE RAVENS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_commanders.png"
-    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34077.ts"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_ravens.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55100"
     Live: true
 }
 {
     Artist: "live"
-    Title: "NEW ORLEANS SAINTS"
+    Title: "BUFFALO BILLS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_saints.png"
-    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34076.ts"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_bills.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55101"
     Live: true
 }
 {
     Artist: "live"
-    Title: "SEATTLE SEAHAWKS"
+    Title: "CAROLINA PANTHERS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_seahawks.png"
-    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34075.ts"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_panthers.png"
+    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34082.ts"
     Live: true
 }
 {
     Artist: "live"
-    Title: "(OFF) PITTSBURGH STEELERS"
+    Title: "CAROLINA PANTHERS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_steelers.png"
-    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34074.ts"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_panthers.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55102"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "CHICAGO BEARS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_bears.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55103"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "CINCINNATI BENGALS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_bengals.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55104"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "CLEVELAND BROWNS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_browns.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55105"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "DALLAS COWBOYS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_cowboys.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55106"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "DENVER BRONCOS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_broncos.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55107"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "DETROIT LIONS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_lions.png"
+    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34084.ts"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "DETROIT LIONS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_lions.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55108"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "GREEN BAY PACKERS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_packers.png"
+    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34083.ts"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "GREEN BAY PACKERS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_packers.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55109"
     Live: true
 }
 {
@@ -189,11 +180,119 @@
 }
 {
     Artist: "live"
-    Title: "TENNESSEE TITANS"
+    Title: "HOUSTON TEXANS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_titans.png"
-    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34072.ts"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_texans.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55110"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "INDIANAPOLIS COLTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_colts.png"
+    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34091.ts"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "INDIANAPOLIS COLTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_colts.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55111"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "JACKSONVILLE JAGUARS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_jaguars.png"
+    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34086.ts"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "JACKSONVILLE JAGUARS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_jaguars.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55112"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "KANSAS CITY CHIEFS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_chiefs.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55113"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "LAS VEGAS RAIDERS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_raiders.png"
+    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34080.ts"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "LAS VEGAS RAIDERS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_raiders.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55114"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "LOS ANGELES CHARGERS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_chargers.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55115"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "LOS ANGELES RAMS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_rams.png"
+    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34079.ts"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "LOS ANGELES RAMS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_rams.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55116"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "MIAMI DOLPHINS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_dolphins.png"
+    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34089.ts"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "MIAMI DOLPHINS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_dolphins.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55117"
     Live: true
 }
 {
@@ -205,6 +304,187 @@
     Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34071.ts"
     Live: true
 }
+{
+    Artist: "live"
+    Title: "MINNESOTA VIKINGS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_vikings.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55118"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "NEW ENGLAND PATRIOTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_patriots.png"
+    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34081.ts"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "NEW ENGLAND PATRIOTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_patriots.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55119"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "NEW ORLEANS SAINTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_saints.png"
+    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34076.ts"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "NEW ORLEANS SAINTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_saints.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55120"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "NEW YORK GIANTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_giants.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55121"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "NEW YORK JETS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_jets.png"
+    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34085.ts"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "NEW YORK JETS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_jets.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55122"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "PHILADELPHIA EAGLES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_eagles.png"
+    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34088.ts"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "PHILADELPHIA EAGLES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_eagles.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55123"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "PITTSBURGH STEELERS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_steelers.png"
+    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34074.ts"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "PITTSBURGH STEELERS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_steelers.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55124"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "SAN FRANCISCO 49ERS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_49ers.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55126"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "SEATTLE SEAHAWKS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_seahawks.png"
+    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34075.ts"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "SEATTLE SEAHAWKS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_seahawks.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55127"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "TAMPA BAY BUCCANEERS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_bucs.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55128"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "TENNESSEE TITANS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_titans.png"
+    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34072.ts"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "TENNESSEE TITANS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_titans.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55129"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "WASHINGTON COMMANDERS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_commanders.png"
+    Stream: "http[:[/][/]]gjntpkk[.]leadcool[.]xyz:80[/]live[/]2731921600[/]1135460737[/]34077.ts"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "WASHINGTON COMMANDERS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_commanders.png"
+    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]55130"
+    Live: true
+}
+
 {
     Artist: "web"
     Title: "NFL 1"
