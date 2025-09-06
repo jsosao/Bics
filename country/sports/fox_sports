@@ -1,32 +1,57 @@
 {
-    Artist: "star"
+    Artist: "Alvaro"
     Title: "MX: FOX SPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports.png"
-    Stream: "http[:[/][/]]vocotv[.]pro:80[/]gast[/]gast[/]7909"
+    Stream: "http[:[/][/]]directo[.]ddns[.]me:33200[/]live[/]stkzapa[/]6392[/]3087.ts"
     Live: true
 }
 {
-    Artist: "star"
+    Artist: "Alvaro"
     Title: "MX: FOX SPORTS 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_2.png"
-    Stream: "http[:[/][/]]vocotv[.]pro:80[/]gast[/]gast[/]7908"
+    Stream: "http[:[/][/]]directo[.]ddns[.]me:33200[/]live[/]stkzapa[/]6392[/]3089.ts"
     Live: true
 }
 {
-    Artist: "star"
+    Artist: "Alvaro"
+    Title: "MX: FOX SPORTS 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_2.png"
+    Stream: "http[:[/][/]]directo[.]ddns[.]me:33200[/]live[/]stkzapa[/]6392[/]3090.ts"
+    Live: true
+}
+{
+    Artist: "Alvaro"
     Title: "MX: FOX SPORTS 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_3.png"
-    Stream: "http[:[/][/]]vocotv[.]pro:80[/]gast[/]gast[/]7907"
+    Stream: "http[:[/][/]]directo[.]ddns[.]me:33200[/]live[/]stkzapa[/]6392[/]3091.ts"
     Live: true
 }
-
-
+{
+    Artist: "Alvaro"
+    Title: "MX: FOX SPORTS 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_3.png"
+    Stream: "http[:[/][/]]directo[.]ddns[.]me:33200[/]live[/]stkzapa[/]6392[/]3092.ts"
+    Live: true
+}
+{
+    Artist: "Alvaro"
+    Title: "FOX SPORTS PREMIUM (MX)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_premium.png"
+    Stream: "http[:[/][/]]directo[.]ddns[.]me:33200[/]live[/]stkzapa[/]6392[/]3082.ts"
+    Live: true
+}
 {
     Artist: "milista"
     Title: "FOX SPORTS HD (MX)"
