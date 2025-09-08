@@ -22,7 +22,16 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_redzone.png"
-    Stream: "http[:[/][/]]user[.]scalecdn[.]co:8080[/]live[/]supersonicstreams[/]cUewZolveU[/]3752.ts"
+    Stream: "http[:[/][/]]cord-cutter.net:8080[/]37ccEK[/]176337[/]159119"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "REDZONE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_redzone.png"
+    Stream: "http[:[/][/]]cord-cutter.net:8080[/]37ccEK[/]176337[/]159120"
     Live: true
 }
 {
