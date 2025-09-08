@@ -1,5 +1,5 @@
 {
-    Artist: "StudioBox4-IPTV"
+    Artist: "Studio"
     Title: "ABC KMBC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -8,7 +8,7 @@
     Live: true
 }
 {
-    Artist: "StudioBox4-IPTV"
+    Artist: "Studio"
     Title: "ABC KMIZ"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -17,7 +17,7 @@
     Live: true
 }
 {
-    Artist: "StudioBox4-IPTV"
+    Artist: "Studio"
     Title: "ABC KTVO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -26,7 +26,7 @@
     Live: true
 }
 {
-    Artist: "StudioBox4-IPTV"
+    Artist: "Studio"
     Title: "ABC WOLO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -89,7 +89,7 @@
     Live: true
 }
 {
-    Artist: "StudioBox4-IPTV"
+    Artist: "Studio"
     Title: "CBS KSMOIND"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -98,7 +98,7 @@
     Live: true
 }
 {
-    Artist: "StudioBox4-IPTV"
+    Artist: "Studio"
     Title: "CBS KRCG"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -107,7 +107,7 @@
     Live: true
 }
 {
-    Artist: "StudioBox4-IPTV"
+    Artist: "Studio"
     Title: "CBS KTVO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -215,7 +215,7 @@
     Live: true
 }
 {
-    Artist: "StudioBox4-IPTV"
+    Artist: "Studio"
     Title: "NBC KOMU"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -224,7 +224,7 @@
     Live: true
 }
 {
-    Artist: "StudioBox4-IPTV"
+    Artist: "Studio"
     Title: "NBC KSHB"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -233,7 +233,7 @@
     Live: true
 }
 {
-    Artist: "StudioBox4-IPTV"
+    Artist: "Studio"
     Title: "NBC KYOU"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -323,16 +323,7 @@
     Live: true
 }
 {
-    Artist: "InsolenceWillow"
-    Title: "NBC KNBC"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_knbc.png"
-    Stream: "https[:[/][/]]tvpass[.]org[/]live[/]nbc-knbc-los-angeles-ca[/]sd"
-    Live: true
-}
-{
-    Artist: "StudioBox4-IPTV"
+    Artist: "Studio"
     Title: "FOX KQFX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -341,7 +332,7 @@
     Live: true
 }
 {
-    Artist: "StudioBox4-IPTV"
+    Artist: "Studio"
     Title: "FOX KYOU"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -350,7 +341,7 @@
     Live: true
 }
 {
-    Artist: "StudioBox4-IPTV"
+    Artist: "Studio"
     Title: "FOX WDAF"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
