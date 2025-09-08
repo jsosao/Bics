@@ -1,6 +1,6 @@
 {
     Artist: "web"
-    Title: "(OFF) MX: FOX DEPORTES"
+    Title: "MX: FOX DEPORTES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox.png"
@@ -9,14 +9,13 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) MX: FOX DEPORTES"
+    Title: "MX: FOX DEPORTES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox.png"
     Stream: "https[:[/][/]apollo[.]production-public[.]tubi[.]io[/]live[/]fox-en-tubi-dynamic-ad-breaks-aQpF7H[.]m3u8"
     Live: true
 }
-
 {
     Artist: "web"
     Title: "MX: FOX DEPORTES TUBI"
@@ -82,7 +81,7 @@
 }
 {
     Artist: "Alverich"
-    Title: "US: TUDN"
+    Title: "(OFF) US: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
@@ -469,7 +468,7 @@
 }
 {
     Artist: "web"
-    Title: "US: BALLY_SPORTS_MIDWEST"
+    Title: "(OFF) US: BALLY_SPORTS_MIDWEST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
@@ -478,7 +477,7 @@
 }
 {
     Artist: "web"
-    Title: "US: BALLY_SPORTS_ARIZONA"
+    Title: "(OFF) US: BALLY_SPORTS_ARIZONA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
@@ -658,7 +657,7 @@
 }
 {
     Artist: "LiveTVCollector"
-    Title: "SPORTNET WEST"
+    Title: "(OFF) SPORTNET WEST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png"
