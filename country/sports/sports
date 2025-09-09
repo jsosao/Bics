@@ -882,14 +882,28 @@
     Live: true
 }
 {
-    Artist: "Servidor"
+    Artist: "Cord"
     Title: "WIN SPORTS+ HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_win_sports_plus.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]hq3y4G[/]234247[/]78717"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]78717"
     Live: true
 }
+{
+    Artist: "Cord"
+    Title: "WIN SPORTS+ HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_win_sports_plus.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]78697"
+    Live: true
+}
+
+
+
+
+
 {
     Artist: "vk"
     Title: "TIGO SPORTS HD"
