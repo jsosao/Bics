@@ -90,11 +90,11 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) CRAVE 1"
+    Title: "CRAVE 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
-    Stream: "http[:[/][/]]fl3[.]moveonjoy[.]com[/]CRAVE_1[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]CRAVE_1[/]index[.]m3u8"
     Live: true
 }
 {
@@ -126,11 +126,11 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) CRAVE 3"
+    Title: "CRAVE 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
-    Stream: "http[:[/][/]]fl3[.]moveonjoy[.]com[/]CRAVE_3[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]CRAVE_3[/]index[.]m3u8"
     Live: true
 }
 {
