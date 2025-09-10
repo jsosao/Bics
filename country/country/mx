@@ -390,7 +390,7 @@
     Title: "COAH: RCG 8.2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_coah_rcg_2.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_coah_rcg.png"
     Stream: "https[:[/][/]]video1[.]getstreamhosting[.]com:1936[/]8246[/]8246[/]playlist[.]m3u8"
     Live: true
 }
@@ -399,7 +399,7 @@
     Title: "COAH: RCG 8.3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_coah_rcg_3.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_coah_rcg.png"
     Stream: "https[:[/][/]]video1[.]getstreamhosting[.]com:1936[/]8032[/]8032[/]playlist[.]m3u8"
     Live: true
 }
@@ -426,7 +426,7 @@
     Title: "COAH: NRT CARBONIFERA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_coah_nrt_carbonifera.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_coah_nrt.png"
     Stream: "https[:[/][/]]5c001c2729b09[.]streamlock[.]net:4443[/]live[/]_definst_[/]canal10nrt[/]playlist[.]m3u8"
     Live: true
 }
@@ -435,7 +435,7 @@
     Title: "COAH: NRT SURESTE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_coah_nrt_sureste.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_coah_nrt.png"
     Stream: "https[:[/][/]]5c001c2729b09[.]streamlock[.]net:4443[/]live[/]_definst_[/]canal6nrt[/]playlist[.]m3u8"
     Live: true
 }
@@ -444,7 +444,7 @@
     Title: "COAH: NRT CENTRO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_coah_nrt_centro.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_coah_nrt.png"
     Stream: "https[:[/][/]]5c001c2729b09[.]streamlock[.]net:4443[/]live[/]_definst_[/]canal4mva[/]playlist[.]m3u8"
     Live: true
 }
