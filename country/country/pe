@@ -1,4 +1,50 @@
 {
+    Artist: "Cord"
+    Title: "PANAMERICANA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pe_panamericana.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/}110633"
+    Live: true
+}
+{
+    Artist: "Cord"
+    Title: "AMERICA TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pe_america_tv.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/}110637"
+    Live: true
+}
+{
+    Artist: "Cord"
+    Title: "ATV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pe_atv.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/}110638"
+    Live: true
+}
+{
+    Artist: "Cord"
+    Title: "LATINA TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pe_latina_tv.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/}110638"
+    Live: true
+}
+{
+    Artist: "Cord"
+    Title: "EXITOSA TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pe_exitosa_tv.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/}110638"
+    Live: true
+}
+
+{
     Artist: "web"
     Title: "RCN"
     streamFormat: "hls|mts"
