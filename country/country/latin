@@ -593,14 +593,44 @@
     Live: true
 }
 {
-    Artist: "milista"
+    Artist: "Cord"
+    Title: "UY: CANAL 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uy_canal_4.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]164923"
+    Live: true
+}
+{
+    Artist: "Cord"
     Title: "UY: CANAL 10"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uy_canal_10.png"
-    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]304342"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]164917"
     Live: true
 }
+{
+    Artist: "Cord"
+    Title: "UY: CANAL 12"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uy_canal_12.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]164921"
+    Live: true
+}
+{
+    Artist: "Cord"
+    Title: "UY: A MAS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uy_a_mas.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]164922"
+    Live: true
+}
+
+
+
 {
     Artist: "barrio"
     Title: "(OFF) PY: TELEFUTURO"
