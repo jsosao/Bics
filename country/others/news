@@ -242,6 +242,15 @@
     Live: true
 }
 {
+    Artist: "Cord"
+    Title: "UK: RTE NEWS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uk_rte_news.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]79108"
+    Live: true
+}
+{
     Artist: "web"
     Title: "JP: NHK JAPAN"
     streamFormat: "hls|mts"
