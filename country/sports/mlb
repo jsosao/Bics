@@ -1,6 +1,6 @@
 {
     Artist: "web"
-    Title: "US: MLB NETWORK"
+    Title: "(OFF) US: MLB NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mlb_network.png"
@@ -378,7 +378,7 @@
 }
 {
     Artist: "Alvaro"
-    Title: "(OFF) PITTSBURGH PIRATES"
+    Title: "PITTSBURGH PIRATES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mlb_pirates.png"
@@ -459,7 +459,7 @@
 }
 {
     Artist: "Alvaro"
-    Title: "TAMPA BAY RAYS"
+    Title: "(OFF) TAMPA BAY RAYS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mlb_rays.png"
