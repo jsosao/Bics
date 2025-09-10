@@ -27,7 +27,7 @@
 }
 {
     Artist: "Cord"
-    Title: "TELEMUNDO MIAMI"
+    Title: "(OFF) TELEMUNDO MIAMI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
@@ -160,10 +160,9 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]46692"
     Live: true
 }
-
 {
     Artist: "web"
-    Title: "(OFF) UNIVISION"
+    Title: "UNIVISION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_univision.png"
