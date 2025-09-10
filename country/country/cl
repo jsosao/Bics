@@ -1,4 +1,43 @@
 {
+    Artist: "Cord"
+    Title: "MEGA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cl_mega.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]164883"
+    Live: true
+}
+{
+    Artist: "Cord"
+    Title: "CHILEVISION"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cl_chilevision.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]164884"
+    Live: true
+}
+{
+    Artist: "Cord"
+    Title: "TVN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cl_tvn.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]164888"
+    Live: true
+}
+{
+    Artist: "Cord"
+    Title: "CANAL 13"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cl_canal_13.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]164885"
+    Live: true
+}
+
+
+
+{
     Artist: "los3"
     Title: "TVN"
     streamFormat: "hls|mts"
