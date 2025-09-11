@@ -1,6 +1,6 @@
 {
     Artist: "Cord"
-    Title: "CANAL RCN"
+    Title: "(OFF) CANAL RCN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_rcn.png"
@@ -27,7 +27,7 @@
 }
 {
     Artist: "Cord"
-    Title: "(OFF) CANAL CARACOL INTERNACIONAL"
+    Title: "CANAL CARACOL INTERNACIONAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_caracol_internacional.png"
@@ -97,8 +97,6 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]78729"
     Live: true
 }
-
-
 {
     Artist: "web"
     Title: "A&E HD"
@@ -110,7 +108,7 @@
 }
 {
     Artist: "web"
-    Title: "A3 SERIES"
+    Title: "(OFF) A3 SERIES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_antena_series.png"
@@ -875,7 +873,7 @@
 }
 {
     Artist: "web"
-    Title: "PANAMERICANA"
+    Title: "(OFF) PANAMERICANA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pe_panamericana.png"
@@ -2702,7 +2700,7 @@
 }
 {
     Artist: "kv"
-    Title: "(OFF) DW"
+    Title: "DW"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_dw_espanol.png"
@@ -2756,7 +2754,7 @@
 }
 {
     Artist: "kv"
-    Title: "(OFF) ITV DEPORTES"
+    Title: "ITV DEPORTES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_itv_deportes.png"
@@ -2765,7 +2763,7 @@
 }
 {
     Artist: "kv"
-    Title: "(OFF) MARIA VISION"
+    Title: "MARIA VISION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_maria_vision.png"
@@ -2936,7 +2934,7 @@
 }
 {
     Artist: "kv"
-    Title: "(OFF) RED BULL SPORT"
+    Title: "RED BULL SPORT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -3017,7 +3015,7 @@
 }
 {
     Artist: "kv"
-    Title: "(OFF) CGNT"
+    Title: "CGNT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -3026,7 +3024,7 @@
 }
 {
     Artist: "kv"
-    Title: "(OFF) TASTEMADE"
+    Title: "TASTEMADE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -3116,7 +3114,7 @@
 }
 {
     Artist: "kv"
-    Title: "(OFF) CBN"
+    Title: "CBN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"

@@ -9,7 +9,7 @@
 }
 {
     Artist: "Cord"
-    Title: "UK: BBC ONE SCOTLAND"
+    Title: "(OFF) UK: BBC ONE SCOTLAND"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uk_bbc_one_scotland.png"
@@ -18,7 +18,7 @@
 }
 {
     Artist: "Cord"
-    Title: "UK:CHANNEL 5"
+    Title: "(OFF) UK:CHANNEL 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uk_channel_5.png"
@@ -27,7 +27,7 @@
 }
 {
     Artist: "Cord"
-    Title: "UK: ITV 1"
+    Title: "(OFF) UK: ITV 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uk_itv_1.png"
@@ -61,10 +61,6 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]53666"
     Live: true
 }
-
-
-
-
 {
     Artist: "Cord"
     Title: "UK: SKY CINEMA ACTION"

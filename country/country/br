@@ -18,7 +18,7 @@
 }
 {
     Artist: "Cord"
-    Title: "GLOBO NEWS"
+    Title: "(OFF) GLOBO NEWS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_globo_news.png"
@@ -34,7 +34,6 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]20978"
     Live: true
 }
-
 {
     Artist: "web"
     Title: "BR: UNIVERSAL TV"
@@ -145,7 +144,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) BR: STUDIO UNIVERSAL"
+    Title: "BR: STUDIO UNIVERSAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal.png"
@@ -334,7 +333,7 @@
 }
 {
     Artist: "Junior7766"
-    Title: "(OFF) BR ESPN 5"
+    Title: "BR ESPN 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_6.png"
@@ -424,7 +423,7 @@
 }
 {
     Artist: "Junior7766"
-    Title: "BR: PREMIERE 7"
+    Title: "(OFF) BR: PREMIERE 7"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_premiere.png"
