@@ -18,7 +18,7 @@
 }
 {
     Artist: "star"
-    Title: "LA LIGA POR M+"
+    Title: "(OFF) LA LIGA POR M+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_laliga_tv.png"
@@ -45,7 +45,7 @@
 }
 {
     Artist: "web"
-    Title: "MX: SKY SPORTS LA LIGA"
+    Title: "(OFF) MX: SKY SPORTS LA LIGA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sky_sports_laliga.png"
@@ -72,7 +72,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) TSN 1"
+    Title: "TSN 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_1.png"
