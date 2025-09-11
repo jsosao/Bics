@@ -35,6 +35,24 @@
     Live: true
 }
 {
+    Artist: "Cord"
+    Title: "THURSDAY NIGHT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_thursday.png"
+    Stream: "http[:[/][/]]cord-cutter.net:8080[/]37ccEK[/]176337[/]221666"
+    Live: true
+}
+{
+    Artist: "live"
+    Title: "THURSDAY NIGHT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_thursday.png"
+    Stream: "http[:[/][/]]hostengine[.}live:25461[/]0895648[/]5683420[/]53985"
+    Live: true
+}
+{
     Artist: "web"
     Title: "(OFF) NFL 1"
     streamFormat: "hls|mts"
