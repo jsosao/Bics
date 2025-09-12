@@ -48,7 +48,7 @@
     Title: "STATION 19 (E)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_station_19.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_serie_station_19.png"
     Stream: "http[:[/][/]]tv[.]zapping[.]life:8080[/]NonoMuneca4[/]5cH27dUxgt[/]94821"
     Live: true
 }
@@ -133,6 +133,16 @@
     Stream: "http[:[/][/]]tv[.]zapping[.]life:8080[/]NonoMuneca4[/]5cH27dUxgt[/]95593"
     Live: true
 }
+{
+    Artist: "walter"
+    Title: "S.W.A.T. (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_serie_swat.png"
+    Stream: "http[:[/][/]]tv[.]zapping[.]life:8080[/]NonoMuneca4[/]5cH27dUxgt[/]94936"
+    Live: true
+}
+
 {
     Artist: "walter"
     Title: "BATMAN (1966)"
@@ -1121,15 +1131,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[/][/]]tv[.]zapping[.]life:8080[/]NonoMuneca4[/]5cH27dUxgt[/]110052"
-    Live: true
-}
-{
-    Artist: "walter"
-    Title: "S.W.A.T. (E)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[/][/]]tv[.]zapping[.]life:8080[/]NonoMuneca4[/]5cH27dUxgt[/]94936"
     Live: true
 }
 {
