@@ -48,7 +48,7 @@
     Title: "STATION 19 (E)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_station_19.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_serie_station_19.png"
     Stream: "http[:[/][/]]tv[.]zapping[.]life:8080[/]NonoMuneca4[/]5cH27dUxgt[/]94821"
     Live: true
 }
@@ -131,6 +131,15 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_serie_24.png"
     Stream: "http[:[/][/]]tv[.]zapping[.]life:8080[/]NonoMuneca4[/]5cH27dUxgt[/]95593"
+    Live: true
+}
+{
+    Artist: "walter"
+    Title: "S.W.A.T. (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_serie_swat.png"
+    Stream: "http[:[/][/]]tv[.]zapping[.]life:8080[/]NonoMuneca4[/]5cH27dUxgt[/]94936"
     Live: true
 }
 {
@@ -225,7 +234,7 @@
 }
 {
     Artist: "walter"
-    Title: "CINEMA - CLASICO (E)"
+    Title: "(OFF) CINEMA - CLASICO (E)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -738,7 +747,7 @@
 }
 {
     Artist: "walter"
-    Title: "(OFF) ICARLY (E)"
+    Title: "ICARLY (E)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1071,7 +1080,7 @@
 }
 {
     Artist: "walter"
-    Title: "(OFF) MARVELS ULTIMATE SPIDER-MAN (2012)(E)"
+    Title: "MARVELS ULTIMATE SPIDER-MAN (2012)(E)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1121,15 +1130,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[/][/]]tv[.]zapping[.]life:8080[/]NonoMuneca4[/]5cH27dUxgt[/]110052"
-    Live: true
-}
-{
-    Artist: "walter"
-    Title: "S.W.A.T. (E)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[/][/]]tv[.]zapping[.]life:8080[/]NonoMuneca4[/]5cH27dUxgt[/]94936"
     Live: true
 }
 {
@@ -1386,7 +1386,7 @@
 }
 {
     Artist: "Buddy"
-    Title: "(OFF) CINEBOX: MUSICAL"
+    Title: "CINEBOX: MUSICAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cinebox.png"
