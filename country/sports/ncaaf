@@ -1,9 +1,19 @@
 {
     Artist: "Cord"
+    Title: "NCAAF 001 | MEMPHIS AT TROY | 09/13-12:00PM | ESPNU"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251387"
+    Live: true
+}
+
+{
+    Artist: "Cord"
     Title: "NCAAF 129 | SOUTHERN CAL @ UCLA | 11/23-10:30PM | PEACOCK NBC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251259"
     Live: true
 }
@@ -13,7 +23,7 @@
     Title: "NCAAF 128 | COLORADO STATE @ FRESNO STATE | 11/23-10:30PM | CBSSN CBSSN CANADA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251260"
     Live: true
 }
@@ -23,7 +33,7 @@
     Title: "NCAAF 127 | AIR FORCE @ NEVADA | 11/23-10:30PM | FOX SPORTS 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251261"
     Live: true
 }
@@ -33,7 +43,7 @@
     Title: "NCAAF 126 | VIRGINIA TECH @ DUKE | 11/23-08:00PM | ACCN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251262"
     Live: true
 }
@@ -43,7 +53,7 @@
     Title: "NCAAF 125 | LAMAR @ MCNEESE ST | 11/23-08:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251263"
     Live: true
 }
@@ -53,7 +63,7 @@
     Title: "NCAAF 124 | CINCINNATI @ KANSAS STATE | 11/23-08:00PM | ESPN2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251264"
     Live: true
 }
@@ -63,7 +73,7 @@
     Title: "NCAAF 123 | VANDERBILT @ LSU | 11/23-07:45PM | SECN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251265"
     Live: true
 }
@@ -73,7 +83,7 @@
     Title: "NCAAF 122 | SAM HOUSTON @ HAWAII | 09/06-11:59PM | SPECTRUM/MWN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251266"
     Live: true
 }
@@ -83,7 +93,7 @@
     Title: "NCAAF 121 | UC DAVIS @ WASHINGTON | 09/06-11:00PM | BTN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251267"
     Live: true
 }
@@ -93,7 +103,7 @@
     Title: "NCAAF 120 | SAN DIEGO STATE @ WASHINGTON STATE | 09/06-10:15PM | THE CW"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251268"
     Live: true
 }
@@ -103,7 +113,7 @@
     Title: "NCAAF 119 | STANFORD @ 10 BYU | 09/06-10:15PM | ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251269"
     Live: true
 }
@@ -113,7 +123,7 @@
     Title: "NCAAF 118 | WEBER STATE @ ARIZONA | 09/06-10:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251270"
     Live: true
 }
@@ -123,7 +133,7 @@
     Title: "NCAAF 117 | SOUTHERN UTAH @ SAN DIEGO | 09/06-09:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251271"
     Live: true
 }
@@ -133,7 +143,7 @@
     Title: "NCAAF 116 | TULSA @ NEW MEXICO STATE | 09/06-09:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251272"
     Live: true
 }
@@ -143,7 +153,7 @@
     Title: "NCAAF 115 | UT MARTIN @ UTEP | 09/06-09:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251273"
     Live: true
 }
@@ -153,7 +163,7 @@
     Title: "NCAAF 114 | UCLA @ UNLV | 09/06-08:00PM | CBSSN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251274"
     Live: true
 }
@@ -163,7 +173,7 @@
     Title: "NCAAF 113 | STEPHEN F. AUSTIN @ ABILENE CHRISTIAN | 09/06-08:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251275"
     Live: true
 }
@@ -173,7 +183,7 @@
     Title: "NCAAF 112 | CENTRAL WASHINGTON @ MONTANA | 09/06-08:00PM | SCRIPPS/ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251276"
     Live: true
 }
@@ -183,7 +193,7 @@
     Title: "NCAAF 111 | SOUTH DAKOTA STATE @ MONTANA STATE | 09/06-08:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251277"
     Live: true
 }
@@ -193,7 +203,7 @@
     Title: "NCAAF 110 | MCNEESE @ LOUISIANA | 09/06-08:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251278"
     Live: true
 }
@@ -203,7 +213,7 @@
     Title: "NCAAF 109 | ULM @ 21 ALABAMA | 09/06-07:45PM | SECN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251279"
     Live: true
 }
@@ -213,7 +223,7 @@
     Title: "NCAAF 108 | PORTLAND STATE AT HAWAII | 09/13-11:59PM | SPECTRUM/MWN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251280"
     Live: true
 }
@@ -223,7 +233,7 @@
     Title: "NCAAF 107 | BOSTON COLLEGE AT STANFORD | 09/13-10:30PM | ACCN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251281"
     Live: true
 }
@@ -233,7 +243,7 @@
     Title: "NCAAF 106 | MINNESOTA AT CALIFORNIA | 09/13-10:30PM | ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251282"
     Live: true
 }
@@ -243,7 +253,7 @@
     Title: "NCAAF 105 | TEXAS STATE AT 12 ARIZONA STATE | 09/13-10:30PM | TNT/MAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251283"
     Live: true
 }
@@ -253,7 +263,7 @@
     Title: "NCAAF 104 | SOUTHERN AT FRESNO STATE | 09/13-10:00PM | CBS47/MWN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251284"
     Live: true
 }
@@ -263,7 +273,7 @@
     Title: "NCAAF 103 | AIR FORCE AT UTAH STATE | 09/13-09:45PM | FS1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251285"
     Live: true
 }
@@ -273,7 +283,7 @@
     Title: "NCAAF 102 | MERCYHURST AT SACRAMENTO STATE | 09/13-09:00PM | KMAX31/ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251286"
     Live: true
 }
@@ -283,7 +293,7 @@
     Title: "NCAAF 101 | NORTHERN ARIZONA AT SOUTHERN UTAH | 09/13-08:30PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251287"
     Live: true
 }
@@ -293,7 +303,7 @@
     Title: "NCAAF 100 | AKRON AT UAB | 09/13-08:30PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251288"
     Live: true
 }
@@ -303,7 +313,7 @@
     Title: "NCAAF 099 | DUKE AT TULANE | 09/13-08:00PM | ESPN2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251289"
     Live: true
 }
@@ -313,7 +323,7 @@
     Title: "NCAAF 098 | ABILENE CHRISTIAN AT TCU | 09/13-08:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251290"
     Live: true
 }
@@ -323,7 +333,7 @@
     Title: "NCAAF 097 | LANGSTON AT UTRGV | 09/13-08:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251291"
     Live: true
 }
@@ -333,7 +343,7 @@
     Title: "NCAAF 096 | 25 UTAH AT WYOMING | 09/13-08:00PM | CBSSN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251292"
     Live: true
 }
@@ -343,7 +353,7 @@
     Title: "NCAAF 095 | WESTERN OREGON AT CAL POLY | 09/13-08:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251293"
     Live: true
 }
@@ -353,7 +363,7 @@
     Title: "NCAAF 094 | NAVY AT TULSA | 09/13-08:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251294"
     Live: true
 }
@@ -363,7 +373,7 @@
     Title: "NCAAF 093 | SUL ROSS STATE AT STEPHEN F. AUSTIN | 09/13-08:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251295"
     Live: true
 }
@@ -373,7 +383,7 @@
     Title: "NCAAF 092 | 19 TEXAS A&M AT 9 NOTRE DAME | 09/13-07:30PM | NBC/PEACOCK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251296"
     Live: true
 }
@@ -383,7 +393,7 @@
     Title: "NCAAF 091 | EASTERN MICHIGAN AT KENTUCKY | 09/13-07:30PM | ESPNU"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251297"
     Live: true
 }
@@ -393,7 +403,7 @@
     Title: "NCAAF 090 | EAST CAROLINA AT COASTAL CAROLINA | 09/13-07:30PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251298"
     Live: true
 }
@@ -403,7 +413,7 @@
     Title: "NCAAF 089 | UMASS AT IOWA | 09/13-07:30PM | BTN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251299"
     Live: true
 }
@@ -413,7 +423,7 @@
     Title: "NCAAF 088 | 13 FLORIDA AT 3 LSU | 09/13-07:30PM | ABC/ESPN3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251300"
     Live: true
 }
@@ -423,7 +433,7 @@
     Title: "NCAAF 087 | NEW MEXICO STATE AT LOUISIANA TECH | 09/13-07:30PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251301"
     Live: true
 }
@@ -433,7 +443,7 @@
     Title: "NCAAF 086 | MOREHEAD STATE AT AUSTIN PEAY | 09/13-07:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251302"
     Live: true
 }
@@ -443,7 +453,7 @@
     Title: "NCAAF 085 | THE CITADEL AT GARDNER-WEBB | 09/13-07:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251303"
     Live: true
 }
@@ -453,7 +463,7 @@
     Title: "NCAAF 084 | OHIO AT 1 OHIO STATE | 09/13-07:00PM | PEACOCK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251304"
     Live: true
 }
@@ -463,7 +473,7 @@
     Title: "NCAAF 083 | WEBER STATE AT MCNEESE | 09/13-07:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251305"
     Live: true
 }
@@ -473,7 +483,7 @@
     Title: "NCAAF 082 | SOUTHERN ILLINOIS AT UT MARTIN | 09/13-07:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251306"
     Live: true
 }
@@ -483,7 +493,7 @@
     Title: "NCAAF 081 | TARLETON STATE AT CENTRAL ARKANSAS | 09/13-07:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251307"
     Live: true
 }
@@ -493,7 +503,7 @@
     Title: "NCAAF 080 | HAMPTON AT NORTH CAROLINA A&T | 09/13-07:00PM | FLOSPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251308"
     Live: true
 }
@@ -503,7 +513,7 @@
     Title: "NCAAF 079 | JACKSONVILLE STATE AT GEORGIA SOUTHERN | 09/13-07:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251309"
     Live: true
 }
@@ -513,7 +523,7 @@
     Title: "NCAAF 078 | WESTERN MICHIGAN AT 11 ILLINOIS | 09/13-07:00PM | FS1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251310"
     Live: true
 }
@@ -523,7 +533,7 @@
     Title: "NCAAF 077 | PRAIRIE VIEW A&M AT RICE | 09/13-07:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251311"
     Live: true
 }
@@ -533,7 +543,7 @@
     Title: "NCAAF 076 | NEW HAVEN AT UALBANY | 09/13-07:00PM | FLOSPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251312"
     Live: true
 }
@@ -543,7 +553,7 @@
     Title: "NCAAF 075 | DRAKE AT SOUTH DAKOTA STATE | 09/13-07:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251313"
     Live: true
 }
@@ -553,7 +563,7 @@
     Title: "NCAAF 074 | OLD DOMINION AT VIRGINIA TECH | 09/13-07:00PM | ACCN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251314"
     Live: true
 }
@@ -563,7 +573,7 @@
     Title: "NCAAF 073 | MURRAY STATE AT GEORGIA STATE | 09/13-07:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251315"
     Live: true
 }
@@ -573,7 +583,7 @@
     Title: "NCAAF 072 | ERSKINE AT PRESBYTERIAN | 09/13-07:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251316"
     Live: true
 }
@@ -583,7 +593,7 @@
     Title: "NCAAF 071 | VALPARAISO AT WESTERN ILLINOIS | 09/13-07:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251317"
     Live: true
 }
@@ -593,7 +603,7 @@
     Title: "NCAAF 070 | APPALACHIAN STATE AT SOUTHERN MISS | 09/13-07:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251318"
     Live: true
 }
@@ -603,7 +613,7 @@
     Title: "NCAAF 069 | MVSU AT SOUTHEASTERN LA. | 09/13-07:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251319"
     Live: true
 }
@@ -613,7 +623,7 @@
     Title: "NCAAF 068 | NORTHEASTERN STATE AT NORTH ALABAMA | 09/13-07:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251320"
     Live: true
 }
@@ -623,7 +633,7 @@
     Title: "NCAAF 067 | VANDERBILT AT 10 SOUTH CAROLINA | 09/13-7:00-7:45PM | ESPN OR SECN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251321"
     Live: true
 }
@@ -633,7 +643,7 @@
     Title: "NCAAF 066 | ARKANSAS AT 20 OLE MISS | 09/13-7:00-7:45PM | ESPN OR SECN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251322"
     Live: true
 }
@@ -643,7 +653,7 @@
     Title: "NCAAF 065 | MONMOUTH AT CHARLOTTE | 09/13-06:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251323"
     Live: true
 }
@@ -653,7 +663,7 @@
     Title: "NCAAF 064 | FLORIDA ATLANTIC AT FIU | 09/13-06:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251324"
     Live: true
 }
@@ -663,7 +673,7 @@
     Title: "NCAAF 063 | ETSU AT WEST GEORGIA | 09/13-06:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251325"
     Live: true
 }
@@ -673,7 +683,7 @@
     Title: "NCAAF 062 | STONEHILL AT MAINE | 09/13-06:00PM | ABC7/FLOSPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251326"
     Live: true
 }
@@ -683,7 +693,7 @@
     Title: "NCAAF 061 | EASTERN KENTUCKY AT MARSHALL | 09/13-06:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251327"
     Live: true
 }
@@ -693,7 +703,7 @@
     Title: "NCAAF 060 | STETSON AT CHATTANOOGA | 09/13-06:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251328"
     Live: true
 }
@@ -703,7 +713,7 @@
     Title: "NCAAF 059 | WOFFORD AT MERCER | 09/13-06:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251329"
     Live: true
 }
@@ -713,7 +723,7 @@
     Title: "NCAAF 058 | MERRIMACK AT KENNESAW STATE | 09/13-06:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251330"
     Live: true
 }
@@ -723,7 +733,7 @@
     Title: "NCAAF 057 | FAYETTEVILLE STATE AT NC CENTRAL | 09/13-06:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251331"
     Live: true
 }
@@ -733,7 +743,7 @@
     Title: "NCAAF 056 | ALCORN STATE AT MISSISSIPPI STATE | 09/13-06:00PM | SECN+/ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251332"
     Live: true
 }
@@ -743,7 +753,7 @@
     Title: "NCAAF 055 | BENTLEY AT BRYANT | 09/13-06:00PM | FLOSPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251333"
     Live: true
 }
@@ -753,7 +763,7 @@
     Title: "NCAAF 054 | BETHUNE-COOKMAN AT SC STATE | 09/13-06:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251334"
     Live: true
 }
@@ -763,7 +773,7 @@
     Title: "NCAAF 053 | MILES COLLEGE AT ALABAMA STATE | 09/13-05:00PM | THEGRIO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251335"
     Live: true
 }
@@ -773,7 +783,7 @@
     Title: "NCAAF 052 | LIBERTY AT BOWLING GREEN | 09/13-05:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251336"
     Live: true
 }
@@ -783,7 +793,7 @@
     Title: "NCAAF 051 | EASTERN WASHINGTON AT NORTHERN IOWA | 09/13-05:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251337"
     Live: true
 }
@@ -793,7 +803,7 @@
     Title: "NCAAF 050 | MIDDLE TENNESSEE AT NEVADA | 09/13-05:00PM | NSN/MWN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251338"
     Live: true
 }
@@ -803,7 +813,7 @@
     Title: "NCAAF 049 | USF AT 5 MIAMI (FL) | 09/13-04:30PM | THE CW"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251339"
     Live: true
 }
@@ -813,7 +823,7 @@
     Title: "NCAAF 048 | ALABAMA A&M AT TENNESSEE STATE | 09/13-04:30PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251340"
     Live: true
 }
@@ -823,7 +833,7 @@
     Title: "NCAAF 047 | UTEP AT 7 TEXAS | 09/13-04:15PM | SECN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251341"
     Live: true
 }
@@ -833,7 +843,7 @@
     Title: "NCAAF 046 | 16 IOWA STATE AT ARKANSAS STATE | 09/13-04:00PM | ESPN2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251342"
     Live: true
 }
@@ -843,7 +853,7 @@
     Title: "NCAAF 045 | LINDENWOOD AT CHARLESTON SO. | 09/13-04:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251343"
     Live: true
 }
@@ -853,7 +863,7 @@
     Title: "NCAAF 044 | LOUISIANA AT MISSOURI | 09/13-04:00PM | SECN+/ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251344"
     Live: true
 }
@@ -863,7 +873,7 @@
     Title: "NCAAF 043 | UTAH TECH AT IDAHO | 09/13-04:00PM | SWX/ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251345"
     Live: true
 }
@@ -873,7 +883,7 @@
     Title: "NCAAF 042 | VILLANOVA AT 2 PENN STATE | 09/13-03:30PM | FS1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251346"
     Live: true
 }
@@ -883,7 +893,7 @@
     Title: "NCAAF 041 | FORDHAM AT STONY BROOK | 09/13-03:30PM | FLOSPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251347"
     Live: true
 }
@@ -893,7 +903,7 @@
     Title: "NCAAF 040 | RICHMOND AT NORTH CAROLINA | 09/13-03:30PM | ACCN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251348"
     Live: true
 }
@@ -903,7 +913,7 @@
     Title: "NCAAF 039 | VMI AT BUCKNELL | 09/13-03:30PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251349"
     Live: true
 }
@@ -913,7 +923,7 @@
     Title: "NCAAF 038 | WASHINGTON STATE AT NORTH TEXAS | 09/13-03:30PM | ESPNU"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251350"
     Live: true
 }
@@ -923,7 +933,7 @@
     Title: "NCAAF 037 | 17 SMU AT MISSOURI STATE | 09/13-03:30PM | CBSSN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251351"
     Live: true
 }
@@ -933,7 +943,7 @@
     Title: "NCAAF 036 | ZZZ-OFFLINE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251352"
     Live: true
 }
@@ -943,7 +953,7 @@
     Title: "NCAAF 035 | SOUTHEAST MISSOURI AT NORTH DAKOTA STATE | 09/13-03:30PM | ABC ND/ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251353"
     Live: true
 }
@@ -953,7 +963,7 @@
     Title: "NCAAF 034 | ZZZ-OFFLINE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251354"
     Live: true
 }
@@ -963,7 +973,7 @@
     Title: "NCAAF 033 | PITT AT WEST VIRGINIA | 09/13-03:30PM | ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251355"
     Live: true
 }
@@ -973,7 +983,7 @@
     Title: "NCAAF 032 | USC AT PURDUE | 09/13-03:30PM | CBS/PARAMOUNT+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251356"
     Live: true
 }
@@ -983,7 +993,7 @@
     Title: "NCAAF 031 | OREGON STATE AT 24 TEXAS TECH | 09/13-03:30PM | FOX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251357"
     Live: true
 }
@@ -993,7 +1003,7 @@
     Title: "NCAAF 030 | MORGAN STATE AT TOLEDO | 09/13-03:30PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251358"
     Live: true
 }
@@ -1003,7 +1013,7 @@
     Title: "NCAAF 029 | NORTHWESTERN STATE AT CINCINNATI | 09/13-03:30PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251359"
     Live: true
 }
@@ -1013,7 +1023,7 @@
     Title: "NCAAF 028 | 4 GEORGIA AT 22 TENNESSEE | 09/13-03:30PM | ABC/ESPN3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251360"
     Live: true
 }
@@ -1023,7 +1033,7 @@
     Title: "NCAAF 027 | YOUNGSTOWN STATE AT MICHIGAN STATE | 09/13-03:30PM | BTN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251361"
     Live: true
 }
@@ -1033,7 +1043,7 @@
     Title: "NCAAF 026 | FURMAN AT CAMPBELL | 09/13-03:30PM | FLOSPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251362"
     Live: true
 }
@@ -1043,7 +1053,7 @@
     Title: "NCAAF 025 | NORTH DAKOTA AT MONTANA | 09/13-03:00PM | SCRIPPS/ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251363"
     Live: true
 }
@@ -1053,7 +1063,7 @@
     Title: "NCAAF 024 | BOWIE STATE AT DELAWARE STATE | 09/13-03:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251364"
     Live: true
 }
@@ -1063,7 +1073,7 @@
     Title: "NCAAF 023 | SAN DIEGO AT MONTANA STATE | 09/13-03:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251365"
     Live: true
 }
@@ -1073,7 +1083,7 @@
     Title: "NCAAF 022 | UCONN AT DELAWARE | 09/13-03:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251366"
     Live: true
 }
@@ -1083,7 +1093,7 @@
     Title: "NCAAF 021 | ILLINOIS STATE AT EASTERN ILLINOIS | 09/13-03:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251367"
     Live: true
 }
@@ -1093,7 +1103,7 @@
     Title: "NCAAF 020 | ELON AT WESTERN CAROLINA | 09/13-02:30PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251368"
     Live: true
 }
@@ -1103,7 +1113,7 @@
     Title: "NCAAF 019 | NEW HAMPSHIRE AT BALL STATE | 09/13-02:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251369"
     Live: true
 }
@@ -1113,7 +1123,7 @@
     Title: "NCAAF 018 | ST. THOMAS AT NORTHERN MICHIGAN | 09/13-02:00PM | FLOSPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251370"
     Live: true
 }
@@ -1123,7 +1133,7 @@
     Title: "NCAAF 017 | RHODE ISLAND AT HOLY CROSS | 09/13-02:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251371"
     Live: true
 }
@@ -1133,7 +1143,7 @@
     Title: "NCAAF 016 | NORTHERN COLORADO AT SOUTH DAKOTA | 09/13-02:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251372"
     Live: true
 }
@@ -1143,7 +1153,7 @@
     Title: "NCAAF 015 | LAFAYETTE AT GEORGETOWN | 09/13-01:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251373"
     Live: true
 }
@@ -1153,7 +1163,7 @@
     Title: "NCAAF 014 | DAVIDSON AT TENNESSEE TECH | 09/13-01:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251374"
     Live: true
 }
@@ -1163,7 +1173,7 @@
     Title: "NJ) | 09/13-01:00PM | HBCU GO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251375"
     Live: true
 }
@@ -1173,7 +1183,7 @@
     Title: "NCAAF 012 | SOUTH ALABAMA AT AUBURN | 09/13-12:45PM | SECN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251376"
     Live: true
 }
@@ -1183,7 +1193,7 @@
     Title: "NCAAF 011 | LSU | 04/22-02:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251377"
     Live: true
 }
@@ -1193,7 +1203,7 @@
     Title: "NCAAF 010 | 18 OKLAHOMA AT TEMPLE | 09/13-12:00PM | ESPN2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251378"
     Live: true
 }
@@ -1203,7 +1213,7 @@
     Title: "NCAAF 009 | WILLIAM & MARY AT VIRGINIA | 09/13-12:00PM | ACCN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251379"
     Live: true
 }
@@ -1213,7 +1223,7 @@
     Title: "NCAAF 008 | 6 OREGON AT NORTHWESTERN | 09/13-12:00PM | FOX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251380"
     Live: true
 }
@@ -1223,7 +1233,7 @@
     Title: "NCAAF 007 | SAMFORD AT BAYLOR | 09/13-12:00PM | ESPN+"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251381"
     Live: true
 }
@@ -1233,7 +1243,7 @@
     Title: "NCAAF 006 | WISCONSIN AT 21 ALABAMA | 09/13-12:00PM | ABC OR ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251382"
     Live: true
 }
@@ -1243,7 +1253,7 @@
     Title: "NCAAF 005 | 8 CLEMSON AT GEORGIA TECH | 09/13-12:00PM | ABC OR ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251383"
     Live: true
 }
@@ -1253,7 +1263,7 @@
     Title: "NCAAF 004 | BUFFALO AT KENT STATE | 09/13-12:00PM | CBSSN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251384"
     Live: true
 }
@@ -1263,7 +1273,7 @@
     Title: "NCAAF 003 | CENTRAL MICHIGAN AT 15 MICHIGAN | 09/13-12:00PM | BTN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251385"
     Live: true
 }
@@ -1273,18 +1283,10 @@
     Title: "NCAAF 002 | HCU AT NEBRASKA | 09/13-12:00PM | FS1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "" 
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251386"
     Live: true
 }
 
-{
-    Artist: "Cord"
-    Title: "NCAAF 001 | MEMPHIS AT TROY | 09/13-12:00PM | ESPNU"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "" 
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]251387"
-    Live: true
-}
+
 
