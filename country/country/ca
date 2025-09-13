@@ -18,7 +18,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) CTV"
+    Title: "CTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
@@ -36,7 +36,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) CTV DRAMA"
+    Title: "CTV DRAMA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_drama.png"
@@ -54,7 +54,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) CTV LIFE"
+    Title: "CTV LIFE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_life.png"
@@ -63,7 +63,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) CTV SCI FI"
+    Title: "CTV SCI FI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_scifi.png"
@@ -1197,7 +1197,7 @@
 }
 {
     Artist: "web"
-    Title: "PRISE  (P)"
+    Title: "(OFF) PRISE  (P)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1350,7 +1350,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) CARTOON NETWORK"
+    Title: "CARTOON NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoon_network.png"
@@ -1602,7 +1602,7 @@
 }
 {
     Artist: "web"
-    Title: "HBO"
+    Title: "(OFF) HBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png"
@@ -1944,7 +1944,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) BBC WORLD NEWS"
+    Title: "BBC WORLD NEWS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_bbc_news.png"

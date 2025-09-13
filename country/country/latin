@@ -513,7 +513,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) CR: TELESUR"
+    Title: "CR: TELESUR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cr_telesur.png"
@@ -558,7 +558,7 @@
 }
 {
     Artist: "web"
-    Title: "VE: VPI TV"
+    Title: "(OFF) VE: VPI TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ve_vpi_tv.png"
@@ -603,7 +603,7 @@
 }
 {
     Artist: "Cord"
-    Title: "(OFF) UY: CANAL 10"
+    Title: "UY: CANAL 10"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uy_canal_10.png"
