@@ -144,10 +144,10 @@
 }
 {
     Artist: "MILTON"
-    Title: "SKY SPORTS PREMIERE"
+    Title: "SKY SPORTS PREMIER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sky_sports_premiere.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sky_sports_premier.png"
     Stream: "http[:[/][/]]181[.]78[.]106[.]127:9000[/]play[/]ca029[/]index[.]m3u8"
     Live: true
 }
