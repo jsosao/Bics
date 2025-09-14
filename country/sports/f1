@@ -1,19 +1,10 @@
 {
-    Artist: "sports"
-    Title: "(OFF) DAZN F1"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_dazn_f1.png"
-    Stream: "http[:[/][/]]tvlatino[.]club:2082[/]Huapaya69[/]nnGVKeUzrV2w[/]349660[.]ts"
-    Live: true
-}
-{
-    Artist: "sports"
+    Artist: "web"
     Title: "DAZN F1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_dazn_f1.png"
-    Stream: "https[:[/][/]]bigboss[.]bemtv[.]cn[/]STREAM[/]23021[/]chunks.m3u8"
+    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]78760[.]ts"
     Live: true
 }
 {
@@ -26,20 +17,20 @@
     Live: true
 }
 {
-    Artist: "Alverich"
-    Title: "(OFF) US: ESPN DEPORTES"
+    Artist: "milista"
+    Title: "US: ESPN DEPORTES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_deportes.png"
-    Stream: "http[:[/][/]]disfruta[.]net[/]live[/]balooshy[/]Dcw7jXk5T5[/]9db9023b-972f-4776-aecf-5386bae176db[.]m3u8"
+    Stream: "    Stream: "http[:[/][/]thevdm[.]xyz:25461[/]Vargasfam99[/]fBTVegQTCz[/]19888""
     Live: true
 }
 {
-    Artist: "Alverich"
-    Title: "(OFF) AR: FOX SPORTS"
+    Artist: "kv"
+    Title: "AR: FOX SPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_fox_sports.png"
-    Stream: "http[:[/][/]]181[.]13[.]173[.]86:8000[/]play[/]a07j[/]index[.]m3u8"
+    Stream: "http[:[/][/]]190[.]95[.]60[.]228:8500[/]play[/]a035"
     Live: true
 }
