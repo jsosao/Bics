@@ -427,7 +427,7 @@
     streamFormat: "hls|mts|ts|m3u8"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sportsnet_la.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]31636"
+    Stream: "http[:[/][/]]nocable[.]cc:8080[/]bn80NG[/]bn80NG[/]31636"
     Live: true
 }
 {
@@ -459,47 +459,47 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) US: BALLY_SPORTS_DETROIT"
+    Title: "US: BALLY_SPORTS_DETROIT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https[:[/][/]]fl6[.]moveonjoy[.]com[/]BALLY_SPORTS_DETROIT[/]index[.]m3u8"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]20930"
+    Live: true
+}
+{
+    Artist: "Cord"
+    Title: "US: BALLY_SPORTS_FLORIDA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]46794"
+    Live: true
+}
+{
+    Artist: "Cord"
+    Title: "US: BALLY_SPORTS_MIDWEST"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]66795"
     Live: true
 }
 {
     Artist: "web"
-    Title: "(OFF) US: BALLY_SPORTS_FLORIDA"
+    Title: "US: BALLY_SPORTS_ARIZONA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https[:[/][/]]fl6[.]moveonjoy[.]com[/]BALLY_SPORTS_FLORIDA[/]index[.]m3u8"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]66795"
     Live: true
 }
 {
-    Artist: "web"
-    Title: "(OFF) US: BALLY_SPORTS_MIDWEST"
+    Artist: "Cord"
+    Title: "US: BALLY_SPORTS SOUTHWEST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https[:[/][/]]fl6[.]moveonjoy[.]com[/]BALLY_SPORTS_MIDWEST[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "(OFF) US: BALLY_SPORTS_ARIZONA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https[:[/][/]]fl6[.]moveonjoy[.]com[/]BALLY_SPORTS_ARIZONA[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "(OFF) US: BALLY_SPORTS_NEW_ORLEANS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https[:[/][/]]fl6[.]moveonjoy[.]com[/]BALLY_SPORTS_NEW_ORLEANS[/]index[.]m3u8"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]21843"
     Live: true
 }
 {
@@ -512,12 +512,12 @@
     Live: true
 }
 {
-    Artist: "milista"
+    Artist: "Cord"
     Title: "NBC SPORTS BAY AREA SD (USA)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]319512"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]9900"
     Live: true
 }
 {
@@ -570,7 +570,7 @@
     Title: "NBC SPORTS WASHINGTON SD (USA)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
     Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]319518"
     Live: true
 }
