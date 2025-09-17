@@ -359,12 +359,12 @@
     Live: true
 }
 {
-    Artist: "web"
+    Artist: "Cord"
     Title: "(OFF) US: NBC SPORT NET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]NBC_SPORTS_NETWORK[/]index[.]m3u8"
+    Stream: "http[:[/][/]]cord-cutter.net:8080[/]bn80NG[/]909467[/]46725"
     Live: true
 }
 {
@@ -450,15 +450,6 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) US: NBC_SPORTS_BOSTON"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https[:[/][/]]fl4[.]moveonjoy[.]com[/]NBC_SPORTS_BOSTON[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
     Title: "US: BALLY_SPORTS_DETROIT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -503,12 +494,12 @@
     Live: true
 }
 {
-    Artist: "milista"
-    Title: "NBC SPORTS SD (USA)"
+    Artist: "Cord"
+    Title: "(OFF) US: NBC_SPORTS_BOSTON"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]319511"
+    Stream: "http[:[/][/]]cord-cutter.net:8080[/]bn80NG[/]909467[/]20939"
     Live: true
 }
 {
@@ -521,102 +512,84 @@
     Live: true
 }
 {
-    Artist: "milista"
-    Title: "NBC SPORTS BOSTON SD (USA)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]319513"
-    Live: true
-}
-{
-    Artist: "milista"
+    Artist: "Cord"
     Title: "NBC SPORTS CALIFORNIA SD (USA)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]319514"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]20940"
     Live: true
 }
 {
-    Artist: "milista"
+    Artist: "Cord"
     Title: "NBC SPORTS CHICAGO SD (USA)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]319515"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]20941"
     Live: true
 }
 {
-    Artist: "milista"
-    Title: "NBC SPORTS CHICAGO PLUS SD (USA)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]319516"
-    Live: true
-}
-{
-    Artist: "milista"
+    Artist: "Cord"
     Title: "NBC SPORTS PHILADELPHIA SD (USA)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]319517"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]20943"
     Live: true
 }
 {
-    Artist: "milista"
+    Artist: "Cord"
     Title: "NBC SPORTS WASHINGTON SD (USA)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
-    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]319518"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]20944"
     Live: true
 }
 {
-    Artist: "web"
-    Title: "(OFF) CA: TSN 1"
+    Artist: "Cord"
+    Title: "CA: TSN 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_1.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]TSN_1[/]index[.]m3u8"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]57292"
     Live: true
 }
 {
-    Artist: "web"
-    Title: "(OFF) CA: TSN 2"
+    Artist: "Cord"
+    Title: "CA: TSN 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_2.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]TSN_2[/]index[.]m3u8"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]47442"
     Live: true
 }
 {
-    Artist: "web"
-    Title: "(OFF) CA: TSN 3"
+    Artist: "Cord"
+    Title: "CA: TSN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_3.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]TSN_3[/]index[.]m3u8"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]47444"
     Live: true
 }
 {
-    Artist: "web"
-    Title: "(OFF) CA: TSN 4"
+    Artist: "Cord"
+    Title: "CA: TSN 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_4.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]TSN_4[/]index[.]m3u8"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]47446"
     Live: true
 }
 {
-    Artist: "web"
-    Title: "(OFF) CA: TSN 5"
+    Artist: "Cord"
+    Title: "CA: TSN 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_5.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]TSN_5[/]index[.]m3u8"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]16131"
     Live: true
 }
 {
