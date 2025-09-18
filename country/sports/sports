@@ -63,7 +63,7 @@
 }
 {
     Artist: "05_Pablo"
-    Title: "MX: TUDN"
+    Title: "(OFF) MX: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
@@ -360,7 +360,7 @@
 }
 {
     Artist: "Cord"
-    Title: "(OFF) US: NBC SPORT NET"
+    Title: "US: NBC SPORT NET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
@@ -495,7 +495,7 @@
 }
 {
     Artist: "Cord"
-    Title: "(OFF) US: NBC_SPORTS_BOSTON"
+    Title: "US: NBC_SPORTS_BOSTON"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
@@ -747,7 +747,7 @@
 }
 {
     Artist: "web"
-    Title: "BR: SPORT TV 4"
+    Title: "(OFF) BR: SPORT TV 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_sportv.png"
