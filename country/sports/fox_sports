@@ -35,174 +35,12 @@
     Live: true
 }
 {
-    Artist: "Alvaro"
-    Title: "MX: FOX SPORTS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports.png"
-    Stream: "http[:[/][/]]directo[.]ddns[.]me:33200[/]live[/]stkzapa[/]6392[/]3087.ts"
-    Live: true
-}
-{
-    Artist: "Alvaro"
-    Title: "MX: FOX SPORTS 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_2.png"
-    Stream: "http[:[/][/]]directo[.]ddns[.]me:33200[/]live[/]stkzapa[/]6392[/]3089.ts"
-    Live: true
-}
-{
-    Artist: "Alvaro"
-    Title: "MX: FOX SPORTS 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_2.png"
-    Stream: "http[:[/][/]]directo[.]ddns[.]me:33200[/]live[/]stkzapa[/]6392[/]3090.ts"
-    Live: true
-}
-{
-    Artist: "Alvaro"
-    Title: "MX: FOX SPORTS 3"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_3.png"
-    Stream: "http[:[/][/]]directo[.]ddns[.]me:33200[/]live[/]stkzapa[/]6392[/]3091.ts"
-    Live: true
-}
-{
-    Artist: "Alvaro"
-    Title: "MX: FOX SPORTS 3"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_3.png"
-    Stream: "http[:[/][/]]directo[.]ddns[.]me:33200[/]live[/]stkzapa[/]6392[/]3092.ts"
-    Live: true
-}
-{
-    Artist: "Alvaro"
-    Title: "FOX SPORTS PREMIUM (MX)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_premium.png"
-    Stream: "http[:[/][/]]directo[.]ddns[.]me:33200[/]live[/]stkzapa[/]6392[/]3082.ts"
-    Live: true
-}
-{
-    Artist: "milista"
-    Title: "FOX SPORTS HD (MX)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports.png"
-    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]302652"
-    Live: true
-}
-{
-    Artist: "milista"
-    Title: "FOX SPORTS 2 HD (MX)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_2.png"
-    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]302653"
-    Live: true
-}
-{
-    Artist: "milista"
-    Title: "FOX SPORTS 2 FHD (MX)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_2.png"
-    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]34624"
-    Live: true
-}
-{
-    Artist: "milista"
-    Title: "FOX SPORTS 3 HD (MX)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_3.png"
-    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]302698"
-    Live: true
-}
-{
-    Artist: "milista"
-    Title: "FOX SPORTS 3 FHD (MX)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_3.png"
-    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]34626"
-    Live: true
-}
-{
-    Artist: "milista"
-    Title: "FOX SPORTS PREMIUM (MX)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_premium.png"
-    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]304554"
-    Live: true
-}
-{
-    Artist: "milista"
-    Title: "FOX SPORTS 2 HD (BR)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_fox_sports_2.png"
-    Stream: "https[:[/][/]]hidra[.]live:443[/]eufTQNgNXv[/]ojxBLcjY[/]319225"
-    Live: true
-}
-{
-    Artist: "Mevo"
-    Title: "(OFF) US: FOX DEPORTES"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox_deportes_2.png"
-    Stream: "http[:[/][/]]latinapro[.]net:25461[/]CARLOSa61[/]rodriguez2CA[/]342[.]ts"
-    Live: true
-}
-{
-    Artist: "angel"
+    Artist: "Edma"
     Title: "US: FOX DEPORTES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox_deportes_2.png"
-    Stream: "http[:[/][/]]hidra[.]live:80[/]eufTQNgNXv[/]ojxBLcjY[/]319476"
-    Live: true
-}
-{
-    Artist: "angel"
-    Title: "US: FOX DEPORTES"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox_deportes_2.png"
-    Stream: "http[:[/][/]]hidra[.]live:80[/]eufTQNgNXv[/]ojxBLcjY[/]319477"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "US: FOX SPORTS TUBI"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox_deportes.png"
-    Stream: "https[:[/][/]]live-news-manifest[.]tubi[.]video[/]live-news-manifest[/]csm[/]extlive[/]tubiprd01,Fox-Sports-Espanol2[.]m3u8"
-    Live: true
-}
-{
-    Artist: "milista"
-    Title: "(OFF) MX: FOX SPORTS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports.png"
-    Stream: "http[:[/][/]]directo[.]ddns[.]me:2082[/]felipenarcelles[/]felipe7388[/]3088"
-    Live: true
-}
-{
-    Artist: "Alverich"
-    Title: "(OFF) MX: FOX SPORTS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports.png"
-    Stream: "http[:[/][/]]disfruta[.]net[/]live[/]balooshy[/]Dcw7jXk5T5[/]67bf848b-2f3c-4272-8860-fa5536f8cf43[.]m3u"
+    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]julinnn2[/]Camion01[/]7187"
     Live: true
 }
 {
@@ -215,48 +53,12 @@
     Live: true
 }
 {
-    Artist: "milista"
-    Title: "(OFF) MX: FOX SPORTS 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_2.png"
-    Stream: "http[:[/][/]]directo[.]ddns[.]me:2082[/]felipenarcelles[/]felipe7388[/]3090"
-    Live: true
-}
-{
-    Artist: "Alverich"
-    Title: "(OFF) MX: FOX SPORTS 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_2.png"
-    Stream: "http[:[/][/]]disfruta[.]net[/]live[/]balooshy[/]Dcw7jXk5T5[/]c0030764-11bf-4ba9-8254-e533606a5017[.]m3u"
-    Live: true
-}
-{
     Artist: "Chloe"
     Title: "MX: FOX SPORT 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_2.png"
     Stream: "http[:[/][/]]200[.]229[.]147[.]142:8000[/]play[/]a06b[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "milista"
-    Title: "(OFF) MX: FOX SPORTS 3"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_3.png"
-    Stream: "http[:[/][/]]directo[.]ddns[.]me:2082[/]felipenarcelles[/]felipe7388[/]3092"
-    Live: true
-}
-{
-    Artist: "Alverich"
-    Title: "(OFF) MX: FOX SPORTS 3"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_3.png"
-    Stream: "http[:[/][/]]disfruta[.]net[/]live[/]balooshy[/]Dcw7jXk5T5[/]253551b2-6ec5-475e-9b6b-7835863b03ed[.]m3u"
     Live: true
 }
 {
@@ -269,15 +71,6 @@
     Live: true
 }
 {
-    Artist: "angel"
-    Title: "MX: FOX SPORTS PREMIUM"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_premium.png"
-    Stream: "http[:[/][/]]hidra[.]live:80[/]eufTQNgNXv[/]ojxBLcjY[/]304554"
-    Live: true
-}
-{
     Artist: "neblina"
     Title: "MX: FOX SPORTS PREMIUM"
     streamFormat: "hls|mts"
@@ -286,76 +79,60 @@
     Stream: "https[:[/][/]]dnslivetv[.]online:443[/]7336[/]1234[/]591683[.]m3u8"
     Live: true
 }
+
+
 {
-    Artist: "Alverich"
+    Artist: "Edma"
     Title: "AR: FOX SPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_fox_sports.png"
-    Stream: "http[:[/][/]]home-playtv[.]com:80[/]RoltyFndz[/]GBQGK[/]158518"
+    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]julinnn2[/]Camion01[/]7780"
     Live: true
 }
 {
-    Artist: "Chloe"
-    Title: "(OFF) FOX SPORTS HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_fox_sports.png"
-    Stream: "http[:[/][/]]181[.]13[.]173[.]86:8000[/]play[/]a07j[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "Alverich"
+    Artist: "Edma"
     Title: "AR: FOX SPORTS 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_fox_sports_2.png"
-    Stream: "http[:[/][/]]home-playtv[.]com:8080[/]RoltyFndz[/]GBQGK[/]19652"
+    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]julinnn2[/]Camion01[/]7781"
     Live: true
 }
 {
-    Artist: "Chloe"
-    Title: "(OFF) FOX SPORT 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_fox_sports_2.png"
-    Stream: "http[:[/][/]]181[.]13[.]173[.]86:8000[/]play[/]a0ai[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "Alverich"
+    Artist: "Edma"
     Title: "AR: FOX SPORTS 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_fox_sports_3.png"
-    Stream: "http[:[/][/]]home-playtv[.]com:8080[/]RoltyFndz[/]GBQGK[/]19496"
+    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]julinnn2[/]Camion01[/]7782"
     Live: true
 }
 {
-    Artist: "Chloe"
-    Title: "(OFF) FOX SPORTS 3 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_fox_sports_3.png"
-    Stream: "http[:[/][/]]181[.]13[.]173[.]86:8000[/]play[/]a02t[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "(OFF) US: FOX SPORTS 1"
+    Artist: "Edma"
+    Title: "US: FOX SPORTS 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fs1.png"
-    Stream: "http[:[/][/]]fl2[.]moveonjoy[.]com[/]FOX_Sports_1[/]index[.]m3u8"
+    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]julinnn2[/]Camion01[/]7785"
     Live: true
 }
 {
-    Artist: "InsolenceWillow"
-    Title: "(OFF) US: FOX SPORTS 2"
+    Artist: "Edma"
+    Title: "US: FOX SPORTS 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fs2.png"
-    Stream: "http[:[/][/]]cdn1host[.]online:2999[/]kratorius[/]opLcbhlXaT[/]264"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fs1.png"
+    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]julinnn2[/]Camion01[/]7786"
+    Live: true
+}
+{
+    Artist: "Edma"
+    Title: "US: FOX SOCCER PLUS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox.png"
+    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]julinnn2[/]Camion01[/]7788"
     Live: true
 }
 {
@@ -413,51 +190,6 @@
     Live: true
 }
 {
-    Artist: "vk"
-    Title: "AR| FOX SPORTS 3 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_fox_sports_3.png"
-    Stream: "http[:[/][/]]38[.]180[.]133[.]31:8000[/]play[/]a0qo[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "los3"
-    Title: "CL| FOX SPORTS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_fox_sports.png"
-    Stream: "http[:[/][/]]200[.]113[.]4[.]75:7210[/]play[/]a00w[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "los3"
-    Title: "CL| FOX SPORTS 1"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_fox_sports.png"
-    Stream: "http[:[/][/]]200[.]113[.]4[.]75:7210[/]play[/]a00d[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "los3"
-    Title: "CL| FOX SPORTS 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_fox_sports_2.png"
-    Stream: "http[:[/][/]]200[.]113[.]4[.]75:7210[/]play[/]a016[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "los3"
-    Title: "CL| FOX SPORTS 3"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_fox_sports_3.png"
-    Stream: "http[:[/][/]]200[.]113[.]4[.]75:7210[/]play[/]a017[/]index[.]m3u8"
-    Live: true
-}
-{
     Artist: "Mevo"
     Title: "PREMIUM| MX: FOX SPORTS"
     streamFormat: "hls|mts"
@@ -473,23 +205,5 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_2.png"
     Stream: "http[:[/][/]]200[.]115[.]96[.]66:4000[/]play[/]a0h1[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "Mevo"
-    Title: "(OFF) PREMIUM| (OFF) FOX SPORTS 3 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_3.png"
-    Stream: "http[:[/][/]]cdn1host[.]online:2999[/]mariobackup[/]rLyzlSWd6l[/]100"
-    Live: true
-}
-{
-    Artist: "vk"
-    Title: "(OFF) PREMIUM| FOX SPORTS PREMIUM"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_premium.png"
-    Stream: "http[:[/][/]]45[.]5[.]117[.]57:8200[/]play[/]a096[/]index[.]m3u8"
     Live: true
 }
