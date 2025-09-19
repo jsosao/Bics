@@ -324,7 +324,7 @@
 }
 {
     Artist: "web"
-    Title: "TCM"
+    Title: "(OFF) TCM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tcm.png"
@@ -900,7 +900,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) FUSE"
+    Title: "FUSE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fuse.png"
@@ -1008,7 +1008,7 @@
 }
 {
     Artist: "web"
-    Title: "REVOLT"
+    Title: "(OFF) REVOLT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_revolt.png"
