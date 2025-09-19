@@ -1,4 +1,40 @@
 {
+    Artist: "Edma"
+    Title: "MX: FOX SPORTS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports.png"
+    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]julinnn2[/]Camion01[/]7248"
+    Live: true
+}
+{
+    Artist: "Edma"
+    Title: "MX: FOX SPORTS 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_2.png"
+    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]julinnn2[/]Camion01[/]7247"
+    Live: true
+}
+{
+    Artist: "Edma"
+    Title: "MX: FOX SPORTS 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_3.png"
+    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]julinnn2[/]Camion01[/]7176"
+    Live: true
+}
+{
+    Artist: "Edma"
+    Title: "MX: FOX SPORTS PREMIUM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_premium.png"
+    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]julinnn2[/]Camion01[/]7171"
+    Live: true
+}
+{
     Artist: "Alvaro"
     Title: "MX: FOX SPORTS"
     streamFormat: "hls|mts"
