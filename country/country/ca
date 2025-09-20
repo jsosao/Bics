@@ -27,7 +27,7 @@
 }
 {
     Artist: "web"
-    Title: "CTV"
+    Title: "(OFF) CTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
@@ -45,7 +45,7 @@
 }
 {
     Artist: "web"
-    Title: "CTV DRAMA"
+    Title: "(OFF) CTV DRAMA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_drama.png"
@@ -63,7 +63,7 @@
 }
 {
     Artist: "web"
-    Title: "CTV LIFE"
+    Title: "(OFF) CTV LIFE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_life.png"
@@ -72,7 +72,7 @@
 }
 {
     Artist: "web"
-    Title: "CTV SCI FI"
+    Title: "(OFF) CTV SCI FI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_scifi.png"
@@ -97,8 +97,6 @@
     Stream: "http[:[/][/]]fl3[.]moveonjoy[.]com[/]Discovery_Science[/]index[.]m3u8"
     Live: true
 }
-
-
 {
     Artist: "web"
     Title: "CRAVE 1"
@@ -1001,7 +999,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) CANAL D SD (P)"
+    Title: "CANAL D SD (P)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1901,7 +1899,7 @@
 }
 {
     Artist: "web"
-    Title: "CPAC"
+    Title: "(OFF) CPAC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
