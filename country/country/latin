@@ -18,7 +18,7 @@
 }
 {
     Artist: "vk"
-    Title: "(OFF) CL: TVN"
+    Title: "CL: TVN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cl_tvn.png"
@@ -261,7 +261,7 @@
 }
 {
     Artist: "web"
-    Title: "GT: CANAL 13"
+    Title: "(OFF) GT: CANAL 13"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_canal_13.png"
@@ -513,7 +513,7 @@
 }
 {
     Artist: "web"
-    Title: "CR: TELESUR"
+    Title: "(OFF) CR: TELESUR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cr_telesur.png"
@@ -612,7 +612,7 @@
 }
 {
     Artist: "Cord"
-    Title: "(OFF) UY: CANAL 12"
+    Title: "UY: CANAL 12"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uy_canal_12.png"
