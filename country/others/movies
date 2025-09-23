@@ -79,10 +79,6 @@
     Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]53965"
     Live: true
 }
-
-
-
-
 {
     Artist: "web"
     Title: "LOS 4 FANTASTICOS: PRIMEROS PASOS"
@@ -148,7 +144,7 @@
 }
 {
     Artist: "web"
-    Title: "F1"
+    Title: "(OFF) F1"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JePWGvgg1t4BOojyZEVQdOWjXO.jpg"
