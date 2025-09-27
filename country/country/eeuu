@@ -162,7 +162,7 @@
 }
 {
     Artist: "Cord"
-    Title: "(OFF) FOX KTTV"
+    Title: "FOX KTTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox.png"
@@ -324,7 +324,7 @@
 }
 {
     Artist: "web"
-    Title: "TCM"
+    Title: "(OFF) TCM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tcm.png"
@@ -1044,7 +1044,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) TRAVEL CHANNEL"
+    Title: "TRAVEL CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_travel_channel.png"
