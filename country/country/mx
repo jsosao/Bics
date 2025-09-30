@@ -54,11 +54,11 @@
 }
 {
     Artist: "milista"
-    Title: "(OFF) LAS ESTRELLAS"
+    Title: "LAS ESTRELLAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas.png"
-    Stream: "http[:[/][/]]playtv44[.]com:8080[/]981927688[/]123456[/]67700"
+    Stream: "http[:[/][/]]playtv44[.]com:8080[/]976515597[/]123456[/]67700"
     Live: true
 }
 {
@@ -107,12 +107,12 @@
     Live: true
 }
 {
-    Artist: "Cocina"
-    Title: "(OFF) CANAL 5"
+    Artist: "Play"
+    Title: "CANAL 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_5.png"
-    Stream: "http[:[/][/]]classic[.]wolddress[.]com:8080[/]737474ndbfvvd[/]73737bdbrbf73[/]315082"
+    Stream: "http[:[/][/]]playtv44[.]com:8080[/]976515597[/]123456[/]315681"
     Live: true
 }
 {
@@ -167,6 +167,15 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nu9ve.png"
     Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7245"
+    Live: true
+}
+{
+    Artist: "Play"
+    Title: "CANAL NU9VE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nu9ve.png"
+    Stream: "http[:[/][/]]playtv44[.]com:8080[/]976515597[/]123456[/]315699"
     Live: true
 }
 {
