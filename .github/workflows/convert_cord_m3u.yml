@@ -2,7 +2,7 @@ name: Cord M3U Converter v3
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Se ejecuta diariamente a medianoche
+    - cron: '0 1 * * *'  # Se ejecuta diariamente a medianoche
   workflow_dispatch:  # Permite ejecución manual
 
 jobs:
