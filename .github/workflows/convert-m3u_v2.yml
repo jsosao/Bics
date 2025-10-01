@@ -73,7 +73,7 @@ jobs:
         def should_skip_group(group_title):
             group_lower = group_title.lower()
             # Palabras clave que indican grupos a omitir
-            skip_keywords = ["radio", "serie", "movie"]
+            skip_keywords = ["radio", "serie", "movie","extra"]
             return any(keyword in group_lower for keyword in skip_keywords)
         
         # Función para escapar la URL
