@@ -20,6 +20,7 @@ jobs:
         
     - name: Download and convert M3U file
       run: |
+        cd $GITHUB_WORKSPACE
         python3 << 'EOF'
         import urllib.request
         import re
