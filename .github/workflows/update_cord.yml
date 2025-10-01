@@ -27,10 +27,24 @@ jobs:
       run: |
         python convert_m3u.py
         
+    - name: Verify file creation
+      run: |
+        if [ -f "Cord.txt" ]; then
+          echo "Cord.txt created successfully"
+          ls -lh Cord.txt
+        else
+          echo "Error: Cord.txt was not created"
+          exit 1
+        fi
+        
     - name: Commit and push changes
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add Cord.txt
-        git diff --quiet && git diff --staged --quiet || git commit -m "Update Cord.txt [automated]"
-        git push
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update Cord.txt [automated]"
+          git push
+        fi
