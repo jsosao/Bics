@@ -140,7 +140,7 @@ jobs:
         output_content = '\n'.join(output_lines)
         
         # Crear directorio si no existe y guardar el archivo
-        output_path = "../../file.txt"
+        output_path = "file.txt"
         os.makedirs(os.path.dirname(output_path) or '.', exist_ok=True)
         
         with open(output_path, 'w', encoding='utf-8') as f:
