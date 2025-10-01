@@ -139,9 +139,8 @@ jobs:
         
         output_content = '\n'.join(output_lines)
         
-        # Crear directorio si no existe y guardar el archivo
+        # Guardar el archivo en el directorio raíz
         output_path = "file.txt"
-        os.makedirs(os.path.dirname(output_path) or '.', exist_ok=True)
         
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(output_content)
@@ -154,6 +153,6 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add ../../file.txt || true
+        git add file.txt || true
         git diff --staged --quiet || git commit -m "Update file.txt - $(date +'%Y-%m-%d %H:%M:%S')"
         git push || true
