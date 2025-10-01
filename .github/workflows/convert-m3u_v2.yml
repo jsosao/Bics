@@ -36,18 +36,24 @@ jobs:
         # Función para determinar el país basado en el título
         def get_country(title):
             title_upper = title.upper()
-            if title.startswith("AU:"):
+            if title.startswith("AU"):
                 return "au"
-            elif title.startswith("UK:") or "BBC" in title_upper:
+            elif title.startswith("UK") or "BBC" in title_upper:
                 return "uk"
-            elif title.startswith("US:"):
+            elif title.startswith("US"):
                 return "us"
-            elif title.startswith("CA:"):
+            elif title.startswith("CA"):
                 return "ca"
-            elif title.startswith("ES:"):
+            elif title.startswith("ES"):
                 return "es"
-            elif title.startswith("MX:"):
+            elif title.startswith("MX"):
                 return "mx"
+            elif title.startswith("AR"):
+                return "ar"
+            elif title.startswith("BR"):
+                return "br"
+            elif title.startswith("FR"):
+                return "fr"
             else:
                 return "us"  # Default
         
