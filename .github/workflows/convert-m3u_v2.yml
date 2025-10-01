@@ -166,7 +166,7 @@ jobs:
         output_content = '\n'.join(output_lines)
         
         # Crear directorio y guardar el archivo
-        output_path = "cord.txt"
+        output_path = "/country/cord.txt"
         
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(output_content)
