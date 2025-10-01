@@ -48,6 +48,10 @@ jobs:
                 return "es"
             elif title.startswith("MX:"):
                 return "mx"
+            elif title.startswith("CO:"):
+                return "co"
+            elif title.startswith("AR:"):
+                return "ar"
             else:
                 return "us"  # Default
         
@@ -64,6 +68,8 @@ jobs:
                 return "Movies"
             elif "music" in group_lower:
                 return "Music"
+            elif "serie" in group_lower:
+                return "Series"
             else:
                 return "General"
         
