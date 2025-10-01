@@ -17,6 +17,33 @@
     Live: true
 }
 {
+    Artist: "Cord"
+    Title: "US: TBS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tbs.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]20867"
+    Live: true
+}
+{
+    Artist: "Cord"
+    Title: "US: FOX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]120750"
+    Live: true
+}
+{
+    Artist: "Cord"
+    Title: "US: FS1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox_sports_1.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]46792"
+    Live: true
+}
+{
     Artist: "web"
     Title: "US: MLB NETWORK"
     streamFormat: "hls|mts"
