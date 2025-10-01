@@ -135,7 +135,8 @@ def main():
         f.write(output_content)
     
     print(f"Archivo generado: {output_file}")
-    print(f"Total de entradas procesadas: {output_content.count('Artist: \"Cord\"')}")
+    entry_count = output_content.count('Artist: "Cord"')
+    print(f"Total de entradas procesadas: {entry_count}")
 
 if __name__ == "__main__":
     main()
