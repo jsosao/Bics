@@ -126,7 +126,7 @@ jobs:
                 return "Radio"
             elif "news" in group_lower:
                 return "News"
-            elif "movie" in group_lower or "film" in group_lower:
+            elif "movie" in group_lower or "film" in group_lower or "peliculas" in group_lower:
                 return "Movies"
             elif "series" in group_lower or "tv show" in group_lower:
                 return "Series"
@@ -135,12 +135,12 @@ jobs:
             else:
                 return "General"
         
-        # Función para verificar si el grupo debe ser omitido
-        def should_skip_group(group_title):
+        # Función para verificar si el grupo debe ser incluido
+        def should_include_group(group_title):
             group_lower = group_title.lower()
-            # Palabras clave que indican grupos a omitir
-            skip_keywords = ["anime","netlfix","aventura","western","navidad","estrenos","marciales","sincronizando","radio", "serie", "movie", "peliculas","narco","novelas","especiales","sagas","accion","comedia","infantiles","terro","drama","cristianas","romance"]
-            return any(keyword in group_lower for keyword in skip_keywords)
+            # Solo incluir grupos que contengan estas palabras clave
+            include_keywords = ["canales", "canales de peliculas"]
+            return any(keyword in group_lower for keyword in include_keywords)
         
         # Función para escapar la URL
         def escape_url(url):
@@ -153,6 +153,7 @@ jobs:
         # Parsear el archivo M3U
         lines = content.strip().split('\n')
         entries = []
+        skipped_count = 0
         
         i = 0
         while i < len(lines):
@@ -177,12 +178,14 @@ jobs:
                 if i < len(lines):
                     stream_url = lines[i].strip()
                     
-                    # Omitir grupos de Radio, Movies y Series
-                    if should_skip_group(group_title):
+                    # Solo incluir grupos que cumplan con los criterios
+                    if not should_include_group(group_title):
+                        print(f"Omitiendo: '{title}' | Grupo: '{group_title}' -> NO cumple criterios")
+                        skipped_count += 1
                         i += 1
                         continue
                     
-                    print(f"Procesando: '{title}'")
+                    print(f"Procesando: '{title}' | Grupo: '{group_title}'")
                     
                     # Buscar el logo más apropiado
                     best_logo = find_best_logo(title)
@@ -226,14 +229,17 @@ jobs:
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(output_content)
         
-        print(f"\nArchivo guardado exitosamente en {output_path}")
-        print(f"Total de entradas procesadas: {len(entries)}")
+        print(f"\n{'='*60}")
+        print(f"Archivo guardado exitosamente en {output_path}")
+        print(f"Total de entradas incluidas: {len(entries)}")
+        print(f"Total de entradas omitidas: {skipped_count}")
         
         # Estadísticas de logos
         logos_default = sum(1 for e in entries if e['Logo'] == default_logo)
         logos_found = len(entries) - logos_default
         print(f"Logos encontrados: {logos_found}")
         print(f"Logos default: {logos_default}")
+        print(f"{'='*60}")
         EOF
         
     - name: Commit and push changes
