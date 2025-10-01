@@ -138,6 +138,12 @@ jobs:
         # Función para verificar si el grupo debe ser incluido
         def should_include_group(group_title):
             group_lower = group_title.lower()
+
+            # Primero verificar si contiene palabras a excluir
+            exclude_keywords = ["canales-adultos", "adultos"]
+            if any(keyword in group_lower for keyword in exclude_keywords):
+                return False
+                
             # Solo incluir grupos que contengan estas palabras clave
             include_keywords = ["canales", "canales de peliculas"]
             return any(keyword in group_lower for keyword in include_keywords)
