@@ -72,7 +72,8 @@ jobs:
         # Función para verificar si el grupo debe ser omitido
         def should_skip_group(group_title):
             group_lower = group_title.lower()
-            skip_keywords = ["radio", "movie", "film", "series", "tv show"]
+            # Palabras clave que indican grupos a omitir
+            skip_keywords = ["radio", "serie", "movie"]
             return any(keyword in group_lower for keyword in skip_keywords)
         
         # Función para escapar la URL
@@ -110,10 +111,16 @@ jobs:
                 if i < len(lines):
                     stream_url = lines[i].strip()
                     
+                    # Debug: Imprimir grupos para verificar filtrado
+                    print(f"Procesando: '{title}' | Grupo: '{group_title}'")
+                    
                     # Omitir grupos de Radio, Movies y Series
                     if should_skip_group(group_title):
+                        print(f"  -> OMITIDO (contiene palabra clave)")
                         i += 1
                         continue
+                    
+                    print(f"  -> INCLUIDO")
                     
                     # Usar logo por defecto si está vacío
                     if not tvg_logo:
