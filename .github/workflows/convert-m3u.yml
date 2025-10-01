@@ -1,0 +1,159 @@
+name: M3U Converter
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Se ejecuta diariamente a medianoche
+  workflow_dispatch:  # Permite ejecución manual
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+        
+    - name: Download and convert M3U file
+      run: |
+        python3 << 'EOF'
+        import urllib.request
+        import re
+        import os
+
+        # URL del archivo M3U
+        url = "http://cord-cutter.net:8080/get.php?username=19174796&password=19174796&type=m3u_plus"
+        
+        # Descargar el archivo
+        print("Descargando archivo M3U...")
+        with urllib.request.urlopen(url) as response:
+            content = response.read().decode('utf-8')
+        
+        # Función para determinar el país basado en el título
+        def get_country(title):
+            title_upper = title.upper()
+            if title.startswith("AU:"):
+                return "au"
+            elif title.startswith("UK:") or "BBC" in title_upper:
+                return "uk"
+            elif title.startswith("US:"):
+                return "us"
+            elif title.startswith("CA:"):
+                return "ca"
+            elif title.startswith("ES:"):
+                return "es"
+            elif title.startswith("MX:"):
+                return "mx"
+            else:
+                return "us"  # Default
+        
+        # Función para determinar el tag basado en el group-title
+        def get_tag(group_title):
+            group_lower = group_title.lower()
+            if "sport" in group_lower:
+                return "Sports"
+            elif "radio" in group_lower:
+                return "Radio"
+            elif "news" in group_lower:
+                return "News"
+            elif "movie" in group_lower:
+                return "Movies"
+            elif "music" in group_lower:
+                return "Music"
+            else:
+                return "General"
+        
+        # Función para escapar la URL
+        def escape_url(url):
+            url = url.replace("http://", "http[:[/][/]]")
+            url = url.replace("https://", "https[:[/][/]]")
+            url = url.replace(".", "[.]")
+            url = url.replace("/", "[/]")
+            return url
+        
+        # Parsear el archivo M3U
+        lines = content.strip().split('\n')
+        entries = []
+        
+        i = 0
+        while i < len(lines):
+            line = lines[i].strip()
+            
+            if line.startswith('#EXTINF:'):
+                # Extraer información de la línea EXTINF
+                tvg_name_match = re.search(r'tvg-name="([^"]*)"', line)
+                tvg_logo_match = re.search(r'tvg-logo="([^"]*)"', line)
+                group_title_match = re.search(r'group-title="([^"]*)"', line)
+                
+                # El título está al final de la línea después de la última coma
+                title_match = re.search(r',(.*)$', line)
+                
+                tvg_name = tvg_name_match.group(1) if tvg_name_match else ""
+                tvg_logo = tvg_logo_match.group(1) if tvg_logo_match else ""
+                group_title = group_title_match.group(1) if group_title_match else ""
+                title = title_match.group(1).strip() if title_match else tvg_name
+                
+                # La siguiente línea debe ser la URL del stream
+                i += 1
+                if i < len(lines):
+                    stream_url = lines[i].strip()
+                    
+                    # Usar logo por defecto si está vacío
+                    if not tvg_logo:
+                        tvg_logo = "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+                    
+                    # Crear la entrada
+                    entry = {
+                        'Artist': 'Cord',
+                        'Title': title,
+                        'streamFormat': 'hls|mts',
+                        'SwitchingStrategy': 'full-adaptation',
+                        'Logo': tvg_logo,
+                        'Stream': escape_url(stream_url),
+                        'Live': True,
+                        'Country': get_country(title),
+                        'Tag': get_tag(group_title)
+                    }
+                    entries.append(entry)
+            
+            i += 1
+        
+        # Generar el archivo de salida
+        output_lines = []
+        for entry in entries:
+            output_lines.append('{')
+            output_lines.append(f'    Artist: "{entry["Artist"]}"')
+            output_lines.append(f'    Title: "{entry["Title"]}"')
+            output_lines.append(f'    streamFormat: "{entry["streamFormat"]}"')
+            output_lines.append(f'    SwitchingStrategy: "{entry["SwitchingStrategy"]}"')
+            output_lines.append(f'    Logo: "{entry["Logo"]}"')
+            output_lines.append(f'    Stream: "{entry["Stream"]}"')
+            output_lines.append(f'    Live: {str(entry["Live"]).lower()}')
+            output_lines.append(f'    Country: "{entry["Country"]}"')
+            output_lines.append(f'    Tag: "{entry["Tag"]}"')
+            output_lines.append('}')
+        
+        output_content = '\n'.join(output_lines)
+        
+        # Crear directorio si no existe y guardar el archivo
+        output_path = "../../file.txt"
+        os.makedirs(os.path.dirname(output_path) or '.', exist_ok=True)
+        
+        with open(output_path, 'w', encoding='utf-8') as f:
+            f.write(output_content)
+        
+        print(f"Archivo guardado exitosamente en {output_path}")
+        print(f"Total de entradas procesadas: {len(entries)}")
+        EOF
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add ../../file.txt || true
+        git diff --staged --quiet || git commit -m "Update file.txt - $(date +'%Y-%m-%d %H:%M:%S')"
+        git push || true
