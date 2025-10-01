@@ -129,12 +129,20 @@ def main():
     print("Procesando contenido...")
     output_content = parse_m3u(m3u_content, picons_base_url)
     
+    if not output_content:
+        print("Advertencia: No se generó contenido. Creando archivo vacío.")
+        output_content = "# No se encontraron entradas válidas"
+    
     # Guardar en Cord.txt
     output_file = "Cord.txt"
-    with open(output_file, 'w', encoding='utf-8') as f:
-        f.write(output_content)
+    try:
+        with open(output_file, 'w', encoding='utf-8') as f:
+            f.write(output_content)
+        print(f"Archivo generado exitosamente: {output_file}")
+    except Exception as e:
+        print(f"Error al escribir el archivo: {e}")
+        return
     
-    print(f"Archivo generado: {output_file}")
     entry_count = output_content.count('Artist: "Cord"')
     print(f"Total de entradas procesadas: {entry_count}")
 
