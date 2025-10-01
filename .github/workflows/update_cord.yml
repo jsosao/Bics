@@ -12,22 +12,13 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-          
-      - name: Install dependencies
-        run: |
-          pip install requests
           
       - name: Download and process M3U
         run: |
           python << 'EOF'
-          import requests
+          import urllib.request
+          import urllib.error
           import re
-          import os
           
           # URLs
           M3U_URL = "http://cord-cutter.net:8080/get.php?username=19174796&password=19174796&type=m3u_plus"
@@ -78,8 +69,9 @@ jobs:
               """Verifica si existe el picon en GitHub"""
               url = PICONS_BASE + filename
               try:
-                  response = requests.head(url, timeout=5)
-                  return response.status_code == 200
+                  req = urllib.request.Request(url, method='HEAD')
+                  with urllib.request.urlopen(req, timeout=5) as response:
+                      return response.status == 200
               except:
                   return False
           
@@ -108,9 +100,12 @@ jobs:
           
           # Descargar el archivo M3U
           print("Descargando archivo M3U...")
-          response = requests.get(M3U_URL, timeout=30)
-          response.raise_for_status()
-          m3u_content = response.text
+          try:
+              with urllib.request.urlopen(M3U_URL, timeout=30) as response:
+                  m3u_content = response.read().decode('utf-8')
+          except urllib.error.URLError as e:
+              print(f"Error al descargar: {e}")
+              exit(1)
           
           # Procesar el contenido
           print("Procesando entradas...")
