@@ -166,8 +166,7 @@ jobs:
         output_content = '\n'.join(output_lines)
         
         # Crear directorio y guardar el archivo
-        output_path = "country/others/cord.txt"
-        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        output_path = "cord.txt"
         
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(output_content)
