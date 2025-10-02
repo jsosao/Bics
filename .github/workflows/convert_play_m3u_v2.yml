@@ -1,7 +1,7 @@
 name: Play M3U Converter v4
 
 on:
-  schedule:
+#  schedule:
 #    - cron: '0 2 * * *'  # Se ejecuta diariamente a medianoche
   workflow_dispatch:  # Permite ejecución manual
 
