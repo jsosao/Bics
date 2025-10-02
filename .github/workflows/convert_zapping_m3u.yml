@@ -53,15 +53,41 @@ jobs:
         default_logo = "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
         
         # Función para limpiar el título de prefijos no deseados
+        #def clean_title(title):
+        #    # Eliminar prefijos específicos
+        #    prefixes_to_remove = ["CINE - ", "DEPORTES - ", "CINE -", "DEPORTES -","DOC-","NOV-","MUS-","INF-"]
+        #    for prefix in prefixes_to_remove:
+        #        if title.startswith(prefix):
+        #            title = title[len(prefix):].strip()
+        #            print(f"  Prefijo '{prefix}' eliminado del título")
+        #            break
+        #    return title
+
+
+        # Función para limpiar el título de prefijos no deseados
         def clean_title(title):
-            # Eliminar prefijos específicos
+            # Eliminar texto específico (puede estar en cualquier parte del título)
             prefixes_to_remove = ["CINE - ", "DEPORTES - ", "CINE -", "DEPORTES -","DOC-","NOV-","MUS-","INF-"]
-            for prefix in prefixes_to_remove:
-                if title.startswith(prefix):
-                    title = title[len(prefix):].strip()
-                    print(f"  Prefijo '{prefix}' eliminado del título")
-                    break
+            
+                for pattern in patterns_to_remove:
+                if pattern in title:
+                    title = title.replace(pattern, "").strip()
+                    print(f"  Patrón '{pattern}' eliminado del título")
+            
+            # Eliminar todo lo que esté dentro de paréntesis incluyendo los paréntesis
+            original_title = title
+            title = re.sub(r'\([^)]*\)', '', title)
+            if original_title != title:
+                print(f"  Contenido entre paréntesis eliminado")
+            
+            # Limpiar espacios múltiples que puedan quedar
+            title = re.sub(r'\s+', ' ', title).strip()
+            
             return title
+
+
+
+
         
         # Función para encontrar el logo más apropiado
         def find_best_logo(title):
