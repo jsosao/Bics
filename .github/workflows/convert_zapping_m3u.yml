@@ -68,10 +68,10 @@ jobs:
             # Eliminar texto específico (puede estar en cualquier parte del título)
             prefixes_to_remove = ["CINE - ", "DEPORTES - ", "CINE -", "DEPORTES -","DOC-","NOV-","MUS-","INF-"]
 
-            for pattern in patterns_to_remove:
-                if pattern in title:
-                    title = title.replace(pattern, "").strip()
-                    print(f"  Patrón '{pattern}' eliminado del título")
+            for prefix in prefixes_to_remove :
+                if prefix in title:
+                    title = title.replace(prefix, "").strip()
+                    print(f"  Patrón '{prefix}' eliminado del título")
             
             # Eliminar todo lo que esté dentro de paréntesis incluyendo los paréntesis
             original_title = title
