@@ -55,7 +55,7 @@ jobs:
         # Función para limpiar el título de prefijos no deseados
         def clean_title(title):
             # Eliminar prefijos específicos
-            prefixes_to_remove = ["CINE - ", "DEPORTES - ", "CINE -", "DEPORTES -","DOC-","NOV-","(1080)","(729)","(T)","(L)","(Z)"]
+            prefixes_to_remove = ["CINE - ", "DEPORTES - ", "CINE -", "DEPORTES -","DOC-","NOV-","MUS-","INF-"]
             for prefix in prefixes_to_remove:
                 if title.startswith(prefix):
                     title = title[len(prefix):].strip()
