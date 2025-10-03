@@ -196,10 +196,11 @@ jobs:
                 return False
 
             # Inlcuye todos los demás
-             return True
+            #return True
+            
             # Solo incluir grupos que contengan estas palabras clave
             #include_keywords = ["CHILE", "PPV", "PERÚ", "COLOMBIA", "FUTBÓL", "DEPORTES", "CINE", "CINEMA", "ENTRETENIMIENTO", "INFANTILES", "CULTURA", "24/7", "NOTICIAS", "UNIMAS", "ARGENTINA", "VENEZUELA", "ESPAÑA"]
-            #return any(keyword in group_lower for keyword in include_keywords)
+            return any(keyword in group_lower for keyword in include_keywords)
         
         # Función para escapar la URL
         def escape_url(url):
