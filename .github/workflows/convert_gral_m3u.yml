@@ -23,7 +23,6 @@ jobs:
         cd $GITHUB_WORKSPACE
         python3 << 'EOF'
         import urllib.request
-        import urllib.parse
         import re
         import os
         import json
@@ -53,47 +52,10 @@ jobs:
         # Logo por defecto
         default_logo = "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
 
-        def modify_title(title):
-            original_title = title
-            title_upper = title.upper()
-            
-            # Si contiene "USA" en cualquier parte del título, reemplazar por "US:" al inicio
-            if "USA" in title_upper:
-                # Eliminar todas las ocurrencias de USA
-                title = re.sub(r'USA', '', title, flags=re.IGNORECASE)
-                title = title.strip()
-                # Agregar US: al inicio
-                title = "US: " + title
-                print(f"  Título modificado: '{original_title}' -> '{title}'")
-            
-            # Si contiene "MEX" en cualquier parte del título, reemplazar por "MX:" al inicio
-            elif "MEX" in title_upper:
-                # Eliminar todas las ocurrencias de MEX
-                title = re.sub(r'MEX', '', title, flags=re.IGNORECASE)
-                title = title.strip()
-                # Agregar MX: al inicio
-                title = "MX: " + title
-                print(f"  Título modificado: '{original_title}' -> '{title}'")
-
-            # Si contiene "MEX" en cualquier parte del título, reemplazar por "MX:" al inicio
-            elif "ARG" in title_upper:
-                # Eliminar todas las ocurrencias de ARG
-                title = re.sub(r'ARG', '', title, flags=re.IGNORECASE)
-                title = title.strip()
-                # Agregar AR: al inicio
-                title = "AR: " + title
-                print(f"  Título modificado: '{original_title}' -> '{title}'")
-            
-            return title
-
         # Función para limpiar el título de prefijos no deseados
         def clean_title(title):
-
-            # Primero aplicar las modificaciones específicas para USA y MEX
-            title = modify_title(title)
-            
             # Eliminar texto específico (puede estar en cualquier parte del título)
-            prefixes_to_remove = ["HD"]
+            prefixes_to_remove = ["HD","ARG","MEX","USA"]
             for prefix in prefixes_to_remove:
                 if prefix in title:
                     title = title.replace(prefix, "").strip()
@@ -114,18 +76,12 @@ jobs:
             if not available_logos:
                 return default_logo
             
-            # Limpiar el título para búsqueda de logo
+            # Limpiar el título para búsqueda
             title_clean = title.lower()
-            # Eliminar contenido entre paréntesis primero
-            title_clean = re.sub(r'\([^)]*\)', '', title_clean)
-            # Remover palabras comunes que no afectan el logo
-            title_clean = re.sub(r'\b(1|hd|usa|fhd|4k|sd)\b', '', title_clean, flags=re.IGNORECASE)
             # Remover prefijos de país
             title_clean = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr)[\s:-]*', '', title_clean)
             # Remover solo algunos caracteres especiales, MANTENER &, +, y otros comunes en nombres de canales
             title_clean = re.sub(r'[^\w\s&+\-]', '', title_clean).strip()
-            # Limpiar espacios múltiples
-            title_clean = re.sub(r'\s+', ' ', title_clean).strip()
             # Reemplazar espacios por guiones bajos para coincidir con formato de logos
             title_search = title_clean.replace(' ', '_')
             
@@ -190,25 +146,23 @@ jobs:
         # Función para determinar el país basado en el título
         def get_country(title):
             title_upper = title.upper()
-            
-            # Verificar si el título contiene indicadores de país
-            if "AU" in title_upper or "AUSTRALIA" in title_upper:
+            if title.startswith("AU"):
                 return "au"
-            elif "UK" in title_upper or "BBC" in title_upper or "BRITAIN" in title_upper:
+            elif title.startswith("UK") or "BBC" in title_upper:
                 return "uk"
-            elif "US" in title_upper or "USA" in title_upper or "UNITED STATES" in title_upper:
+            elif title.startswith("US"):
                 return "us"
-            elif "CA" in title_upper or "CANADA" in title_upper or "CANADIAN" in title_upper:
+            elif title.startswith("CA"):
                 return "ca"
-            elif "ES" in title_upper or "SPAIN" in title_upper or "ESPAÑA" in title_upper or "ESPAÑOL" in title_upper:
+            elif title.startswith("ES"):
                 return "es"
-            elif "MX" in title_upper or "MEXICO" in title_upper or "MÉXICO" in title_upper:
+            elif title.startswith("MX"):
                 return "mx"
-            elif "AR" in title_upper or "ARGENTINA" in title_upper or "ARGENTINO" in title_upper:
+            elif title.startswith("AR"):
                 return "ar"
-            elif "BR" in title_upper or "BRAZIL" in title_upper or "BRASIL" in title_upper:
+            elif title.startswith("BR"):
                 return "br"
-            elif "FR" in title_upper or "FRANCE" in title_upper or "FRANÇAIS" in title_upper:
+            elif title.startswith("FR"):
                 return "fr"
             else:
                 return "us"  # Default
@@ -267,11 +221,8 @@ jobs:
                 tvg_logo = tvg_logo_match.group(1) if tvg_logo_match else ""
                 group_title = group_title_match.group(1) if group_title_match else ""
                 title = title_match.group(1).strip() if title_match else tvg_name
-                
-                # Guardar el título original para buscar el logo
-                original_title = title
-                
-                # Limpiar el título y agregar prefijo de país
+
+                # Limpiar el título de prefijos no deseados
                 title = clean_title(title)
                 
                 # La siguiente línea debe ser la URL del stream
@@ -286,12 +237,12 @@ jobs:
                     
                     print(f"Procesando: '{title}'")
                     
-                    # Buscar el logo más apropiado (usando el título original)
-                    best_logo = find_best_logo(original_title)
+                    # Buscar el logo más apropiado
+                    best_logo = find_best_logo(title)
                     
                     # Crear la entrada
                     entry = {
-                        'Artist': 'Cord',
+                        'Artist': 'Edmavi',
                         'Title': title,
                         'streamFormat': 'hls|mts',
                         'SwitchingStrategy': 'full-adaptation',
@@ -320,22 +271,51 @@ jobs:
             output_lines.append(f'    Tag: "{entry["Tag"]}"')
             output_lines.append('}')
         
-        output_content = '\n'.join(output_lines)
+        edmavi_content = '\n'.join(output_lines)
         
-        # Guardar el archivo sin extensión
-        output_path = "country/others/edmavi"
+        # Guardar el archivo edmavi (mantenemos este archivo por compatibilidad)
+        edmavi_path = "country/others/edmavi"
+        with open(edmavi_path, 'w', encoding='utf-8') as f:
+            f.write(edmavi_content)
+        print(f"\nArchivo edmavi guardado en {edmavi_path}")
         
-        with open(output_path, 'w', encoding='utf-8') as f:
-            f.write(output_content)
+        # Leer el contenido del archivo premium_v1
+        premium_v1_path = "country/country/premium_v1"
+        premium_v1_content = ""
         
-        print(f"\nArchivo guardado exitosamente en {output_path}")
-        print(f"Total de entradas procesadas: {len(entries)}")
+        if os.path.exists(premium_v1_path):
+            with open(premium_v1_path, 'r', encoding='utf-8') as f:
+                premium_v1_content = f.read()
+            print(f"Archivo premium_v1 leído desde {premium_v1_path}")
+        else:
+            print(f"ADVERTENCIA: Archivo premium_v1 no existe en {premium_v1_path}")
+        
+        # Concatenar premium_v1 + edmavi para crear premium
+        if premium_v1_content:
+            # Asegurarse de que hay un salto de línea entre los contenidos
+            if not premium_v1_content.endswith('\n'):
+                premium_v1_content += '\n'
+            combined_content = premium_v1_content + edmavi_content
+        else:
+            combined_content = edmavi_content
+        
+        # Guardar el archivo premium final
+        premium_path = "country/country/premium"
+        os.makedirs(os.path.dirname(premium_path), exist_ok=True)
+        with open(premium_path, 'w', encoding='utf-8') as f:
+            f.write(combined_content)
+        
+        print(f"\n{'='*60}")
+        print(f"Archivo premium creado en {premium_path}")
+        print(f"Contenido: premium_v1 + edmavi")
+        print(f"Total de entradas de edmavi procesadas: {len(entries)}")
         
         # Estadísticas de logos
         logos_default = sum(1 for e in entries if e['Logo'] == default_logo)
         logos_found = len(entries) - logos_default
         print(f"Logos encontrados: {logos_found}")
         print(f"Logos default: {logos_default}")
+        print(f"{'='*60}")
         EOF
         
     - name: Commit and push changes
@@ -343,5 +323,6 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add country/others/edmavi
-        git diff --staged --quiet || git commit -m "Update edmavi - $(date +'%Y-%m-%d %H:%M:%S')"
+        git add country/country/premium
+        git diff --staged --quiet || git commit -m "Update edmavi and premium - $(date +'%Y-%m-%d %H:%M:%S')"
         git push
