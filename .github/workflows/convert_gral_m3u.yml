@@ -144,7 +144,6 @@ jobs:
             return default_logo
         
         # Función para determinar el país basado en el título
-# Función para determinar el país basado en el título
         def get_country(title):
             title_upper = title.upper()
             
