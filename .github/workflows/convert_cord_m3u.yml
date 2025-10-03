@@ -42,7 +42,7 @@ jobs:
         try:
             with urllib.request.urlopen(github_api_url) as response:
                 picons_data = json.loads(response.read().decode('utf-8'))
-                available_logos = {item['name'].lower(): item['download_url'] 
+                available_logos = {item['name'].lower(): urllib.parse.unquote(item['download_url']) 
                                  for item in picons_data if item['type'] == 'file'}
             print(f"Se encontraron {len(available_logos)} logos disponibles")
         except Exception as e:
