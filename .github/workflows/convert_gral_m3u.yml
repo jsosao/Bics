@@ -23,6 +23,7 @@ jobs:
         cd $GITHUB_WORKSPACE
         python3 << 'EOF'
         import urllib.request
+        import urllib.parse
         import re
         import os
         import json
@@ -234,7 +235,7 @@ jobs:
             
             i += 1
         
-        # Generar el archivo de salida
+        # Generar el contenido de edmavi
         output_lines = []
         for entry in entries:
             output_lines.append('{')
@@ -249,22 +250,49 @@ jobs:
             output_lines.append(f'    Tag: "{entry["Tag"]}"')
             output_lines.append('}')
         
-        output_content = '\n'.join(output_lines)
+        edmavi_content = '\n'.join(output_lines)
         
-        # Guardar el archivo sin extensión
-        output_path = "country/others/edmavi"
+        # Guardar el archivo edmavi (mantenemos este archivo por compatibilidad)
+        edmavi_path = "country/others/edmavi"
+        with open(edmavi_path, 'w', encoding='utf-8') as f:
+            f.write(edmavi_content)
+        print(f"\nArchivo edmavi guardado en {edmavi_path}")
         
-        with open(output_path, 'w', encoding='utf-8') as f:
-            f.write(output_content)
+        # Leer el contenido actual del archivo premium
+        premium_path = "country/country/premium"
+        premium_content = ""
         
-        print(f"\nArchivo guardado exitosamente en {output_path}")
-        print(f"Total de entradas procesadas: {len(entries)}")
+        if os.path.exists(premium_path):
+            with open(premium_path, 'r', encoding='utf-8') as f:
+                premium_content = f.read()
+            print(f"Archivo premium existente leído desde {premium_path}")
+        else:
+            print(f"Archivo premium no existe, se creará uno nuevo en {premium_path}")
+        
+        # Agregar el contenido de edmavi al final del archivo premium
+        if premium_content:
+            # Asegurarse de que hay un salto de línea entre el contenido existente y el nuevo
+            if not premium_content.endswith('\n'):
+                premium_content += '\n'
+            combined_content = premium_content + edmavi_content
+        else:
+            combined_content = edmavi_content
+        
+        # Guardar el archivo premium actualizado
+        os.makedirs(os.path.dirname(premium_path), exist_ok=True)
+        with open(premium_path, 'w', encoding='utf-8') as f:
+            f.write(combined_content)
+        
+        print(f"\n{'='*60}")
+        print(f"Contenido de edmavi agregado al archivo premium en {premium_path}")
+        print(f"Total de entradas de edmavi procesadas: {len(entries)}")
         
         # Estadísticas de logos
         logos_default = sum(1 for e in entries if e['Logo'] == default_logo)
         logos_found = len(entries) - logos_default
         print(f"Logos encontrados: {logos_found}")
         print(f"Logos default: {logos_default}")
+        print(f"{'='*60}")
         EOF
         
     - name: Commit and push changes
@@ -272,5 +300,6 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add country/others/edmavi
-        git diff --staged --quiet || git commit -m "Update edmavi - $(date +'%Y-%m-%d %H:%M:%S')"
+        git add country/country/premium
+        git diff --staged --quiet || git commit -m "Update edmavi and premium - $(date +'%Y-%m-%d %H:%M:%S')"
         git push
