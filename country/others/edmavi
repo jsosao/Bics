@@ -33,7 +33,7 @@
 }
 {
     Artist: "Cord"
-    Title: "BITME HD (1080p)"
+    Title: "BITME"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -55,10 +55,10 @@
 }
 {
     Artist: "Cord"
-    Title: "CARTOON NETWORK HD (1080p)"
+    Title: "CARTOON NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoon_network.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]brenda38[/]brenda64[/]7234"
     Live: true
     Country: "ca"
@@ -77,10 +77,10 @@
 }
 {
     Artist: "Cord"
-    Title: "CARTOONITO HD (1080p)"
+    Title: "CARTOONITO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoonito.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]brenda38[/]brenda64[/]7246"
     Live: true
     Country: "ca"
@@ -99,7 +99,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY KIDS HD (1080p)"
+    Title: "DISCOVERY KIDS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_kids.png"
@@ -121,7 +121,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISNEY CHANNEL HD (1080p)"
+    Title: "DISNEY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_channel.png"
@@ -143,7 +143,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISNEY JR HD (1080p)"
+    Title: "DISNEY JR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_jr.png"
@@ -176,10 +176,10 @@
 }
 {
     Artist: "Cord"
-    Title: "NICK HD (1080p)"
+    Title: "NICK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nickelodeon.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]brenda38[/]brenda64[/]7255"
     Live: true
     Country: "us"
@@ -198,7 +198,7 @@
 }
 {
     Artist: "Cord"
-    Title: "NICK JR HD"
+    Title: "NICK JR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nick_jr.png"
@@ -264,7 +264,7 @@
 }
 {
     Artist: "Cord"
-    Title: "ANIMAL PLANET HD (1080p)"
+    Title: "ANIMAL PLANET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_animal_planet.png"
@@ -286,7 +286,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY CHANNEL HD (1080p)"
+    Title: "DISCOVERY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_channel.png"
@@ -297,7 +297,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY CHANNEL (ESP)"
+    Title: "DISCOVERY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_channel.png"
@@ -330,7 +330,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY HYH HD (1080p)"
+    Title: "DISCOVERY HYH"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -341,7 +341,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY INVESTIGATION HD (1080P)"
+    Title: "DISCOVERY INVESTIGATION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ion.png"
@@ -363,7 +363,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY THEATER HD"
+    Title: "DISCOVERY THEATER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_theater.png"
@@ -374,7 +374,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY TLC HD (1080p)"
+    Title: "DISCOVERY TLC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_tlc.png"
@@ -385,7 +385,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY TURBO HD (1080p)"
+    Title: "DISCOVERY TURBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_turbo.png"
@@ -396,7 +396,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY WORLD HD"
+    Title: "DISCOVERY WORLD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_world.png"
@@ -407,7 +407,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HGTV HD"
+    Title: "HGTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hgtv.png"
@@ -429,10 +429,10 @@
 }
 {
     Artist: "Cord"
-    Title: "HISTORY HD (1080p)"
+    Title: "HISTORY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_military_history.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]brenda38[/]brenda64[/]7225"
     Live: true
     Country: "us"
@@ -440,7 +440,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HISTORY 2 HD (1080p)"
+    Title: "HISTORY 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_2.png"
@@ -462,7 +462,7 @@
 }
 {
     Artist: "Cord"
-    Title: "NAT GEO HD (1080p)"
+    Title: "NAT GEO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo.png"
@@ -473,7 +473,7 @@
 }
 {
     Artist: "Cord"
-    Title: "NATIONAL GEOGRAPHIC (ESP)"
+    Title: "NATIONAL GEOGRAPHIC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ion.png"
@@ -484,7 +484,7 @@
 }
 {
     Artist: "Cord"
-    Title: "ANIMAL PLANET HD"
+    Title: "ANIMAL PLANET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_animal_planet.png"
@@ -495,7 +495,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY CHANNEL HD"
+    Title: "DISCOVERY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_channel.png"
@@ -506,7 +506,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY HYH HD"
+    Title: "DISCOVERY HYH"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -517,7 +517,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY INVESTIGATION HD"
+    Title: "DISCOVERY INVESTIGATION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ion.png"
@@ -539,7 +539,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY TLC HD"
+    Title: "DISCOVERY TLC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_tlc.png"
@@ -671,7 +671,7 @@
 }
 {
     Artist: "Cord"
-    Title: "ANIMAL PLANET (USA)"
+    Title: "ANIMAL PLANET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_animal_planet.png"
@@ -682,7 +682,7 @@
 }
 {
     Artist: "Cord"
-    Title: "NAT GEO (USA)"
+    Title: "NAT GEO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo.png"
@@ -704,7 +704,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DE PELICULA HD (1080p)"
+    Title: "DE PELICULA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -726,7 +726,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DE PELICULA PLUS HD (1080p)"
+    Title: "DE PELICULA PLUS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -748,7 +748,7 @@
 }
 {
     Artist: "Cord"
-    Title: "GOLDEN HD (1080P)"
+    Title: "GOLDEN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_golden.png"
@@ -770,7 +770,7 @@
 }
 {
     Artist: "Cord"
-    Title: "GOLDEN EDGE HD (1080P)"
+    Title: "GOLDEN EDGE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_golden_edge.png"
@@ -792,7 +792,7 @@
 }
 {
     Artist: "Cord"
-    Title: "GOLDEN PLUS HD (1080p)"
+    Title: "GOLDEN PLUS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_golden_plus.png"
@@ -825,7 +825,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HBO (NORTE)"
+    Title: "HBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png"
@@ -836,7 +836,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HBO (SUR)"
+    Title: "HBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png"
@@ -847,7 +847,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HBO (MEX)"
+    Title: "HBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png"
@@ -858,7 +858,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HBO (USA)"
+    Title: "HBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png"
@@ -869,7 +869,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HBO 2 (LAT)"
+    Title: "HBO 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_2.png"
@@ -880,7 +880,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HBO 2 (MEX)"
+    Title: "HBO 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_2.png"
@@ -891,7 +891,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HBO COMEDY USA (DUAL)"
+    Title: "HBO COMEDY USA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_comedy.png"
@@ -913,7 +913,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HBO FAMILY (MEX) HD"
+    Title: "HBO FAMILY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_family.png"
@@ -935,7 +935,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HBO MOVIES (DUAL)"
+    Title: "HBO MOVIES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png"
@@ -946,7 +946,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HBO MUNDI (MEX) HD"
+    Title: "HBO MUNDI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_mundi.png"
@@ -957,7 +957,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HBO PLUS (MEX) HD"
+    Title: "HBO PLUS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_plus.png"
@@ -968,7 +968,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HBO POP (MEX) HD"
+    Title: "HBO POP"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_pop.png"
@@ -979,7 +979,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HBO SIGNATURE (MEX) HD"
+    Title: "HBO SIGNATURE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_signature.png"
@@ -990,7 +990,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HBO XTREME (MEX) HD"
+    Title: "HBO XTREME"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_xtreme.png"
@@ -1001,7 +1001,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HBO (MEX) HD"
+    Title: "HBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png"
@@ -1012,7 +1012,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HBO 2 (MEX)"
+    Title: "HBO 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_2.png"
@@ -1023,7 +1023,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HBO FAMILY (MEX)"
+    Title: "HBO FAMILY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_family.png"
@@ -1045,7 +1045,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HBO PLUS (MEX)"
+    Title: "HBO PLUS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_plus.png"
@@ -1056,7 +1056,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HBO POP (MEX)"
+    Title: "HBO POP"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_pop.png"
@@ -1067,7 +1067,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HBO XTREME (MEX)"
+    Title: "HBO XTREME"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_xtreme.png"
@@ -1078,7 +1078,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HBO FAMILY (MEX)"
+    Title: "HBO FAMILY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_family.png"
@@ -1100,7 +1100,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HBO ZONE USA (DUAL)"
+    Title: "HBO ZONE USA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_zone.png"
@@ -1221,7 +1221,7 @@
 }
 {
     Artist: "Cord"
-    Title: "TNT SERIES HD (1080P)"
+    Title: "TNT SERIES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tnt_series.png"
@@ -1298,7 +1298,7 @@
 }
 {
     Artist: "Cord"
-    Title: "5 STARMAX (DUAL)"
+    Title: "5 STARMAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1309,7 +1309,7 @@
 }
 {
     Artist: "Cord"
-    Title: "ACTIONMAX (DUAL)"
+    Title: "ACTIONMAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ion.png"
@@ -1320,7 +1320,7 @@
 }
 {
     Artist: "Cord"
-    Title: "MAXLATINO (DUAL)"
+    Title: "MAXLATINO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1331,10 +1331,10 @@
 }
 {
     Artist: "Cord"
-    Title: "MOREMAX (dual)"
+    Title: "MOREMAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cinemax_moremax.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]julinnn2[/]Camion01[/]7591"
     Live: true
     Country: "us"
@@ -1342,7 +1342,7 @@
 }
 {
     Artist: "Cord"
-    Title: "MOVIEMAX (dual)"
+    Title: "MOVIEMAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1353,7 +1353,7 @@
 }
 {
     Artist: "Cord"
-    Title: "MGM (DUAL)"
+    Title: "MGM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1364,7 +1364,7 @@
 }
 {
     Artist: "Cord"
-    Title: "MGM DRIVE IN (DUAL)"
+    Title: "MGM DRIVE IN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1375,7 +1375,7 @@
 }
 {
     Artist: "Cord"
-    Title: "MGM HITS (DUAL)"
+    Title: "MGM HITS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1386,7 +1386,7 @@
 }
 {
     Artist: "Cord"
-    Title: "MGM MARQUEE (DUAL)"
+    Title: "MGM MARQUEE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1397,7 +1397,7 @@
 }
 {
     Artist: "Cord"
-    Title: "STARZ CINEMA (DUAL)"
+    Title: "STARZ CINEMA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cinema.png"
@@ -1408,7 +1408,7 @@
 }
 {
     Artist: "Cord"
-    Title: "STARZ ENCORE ACTION (DUAL)"
+    Title: "STARZ ENCORE ACTION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_starz_encore_action.png"
@@ -1430,7 +1430,7 @@
 }
 {
     Artist: "Cord"
-    Title: "ANIMAL PLANET HD"
+    Title: "ANIMAL PLANET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_animal_planet.png"
@@ -1463,7 +1463,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY CHANNEL HD"
+    Title: "DISCOVERY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_channel.png"
@@ -1474,7 +1474,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY CHANNEL HD (1080p)"
+    Title: "DISCOVERY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_channel.png"
@@ -1518,7 +1518,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY HYH HD"
+    Title: "DISCOVERY HYH"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1529,7 +1529,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY HYH HD (1080p)"
+    Title: "DISCOVERY HYH"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1551,7 +1551,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY INVESTIGATION HD"
+    Title: "DISCOVERY INVESTIGATION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ion.png"
@@ -1562,7 +1562,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY INVESTIGATION HD (1080P)"
+    Title: "DISCOVERY INVESTIGATION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ion.png"
@@ -1595,7 +1595,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY THEATER HD"
+    Title: "DISCOVERY THEATER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_theater.png"
@@ -1617,7 +1617,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY TLC HD"
+    Title: "DISCOVERY TLC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_tlc.png"
@@ -1628,7 +1628,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY TLC HD (1080p)"
+    Title: "DISCOVERY TLC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_tlc.png"
@@ -1650,7 +1650,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY TURBO HD (1080p)"
+    Title: "DISCOVERY TURBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_turbo.png"
@@ -1672,7 +1672,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISCOVERY WORLD HD"
+    Title: "DISCOVERY WORLD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_world.png"
@@ -1694,7 +1694,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HGTV HD"
+    Title: "HGTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hgtv.png"
@@ -1716,10 +1716,10 @@
 }
 {
     Artist: "Cord"
-    Title: "HISTORY HD (1080p)"
+    Title: "HISTORY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_military_history.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]julinnn2[/]Camion01[/]7225"
     Live: true
     Country: "us"
@@ -1738,7 +1738,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HISTORY 2 HD (1080p)"
+    Title: "HISTORY 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_2.png"
@@ -1760,7 +1760,7 @@
 }
 {
     Artist: "Cord"
-    Title: "NAT GEO HD (1080p)"
+    Title: "NAT GEO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo.png"
@@ -1771,7 +1771,7 @@
 }
 {
     Artist: "Cord"
-    Title: "HGTV (ENG)"
+    Title: "HGTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hgtv.png"
@@ -1815,7 +1815,7 @@
 }
 {
     Artist: "Cord"
-    Title: "COMEDY CENTRAL HD (1080p)"
+    Title: "COMEDY CENTRAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_comedy_central.png"
@@ -1826,7 +1826,7 @@
 }
 {
     Artist: "Cord"
-    Title: "DISTRITO COMEDIA HD (1080p)"
+    Title: "DISTRITO COMEDIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_distrito_comedia.png"
@@ -1859,7 +1859,7 @@
 }
 {
     Artist: "Cord"
-    Title: "E! ENTERTAINMENT HD"
+    Title: "E! ENTERTAINMENT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1881,7 +1881,7 @@
 }
 {
     Artist: "Cord"
-    Title: "EL GOURMET HD (1080p)"
+    Title: "EL GOURMET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_gourmet.png"
@@ -1914,7 +1914,7 @@
 }
 {
     Artist: "Cord"
-    Title: "LIFETIME HD (1080p)"
+    Title: "LIFETIME"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_lifetime.png"
@@ -1947,7 +1947,7 @@
 }
 {
     Artist: "Cord"
-    Title: "MAS CHIC HD"
+    Title: "MAS CHIC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_mas_chic.png"
@@ -1969,7 +1969,7 @@
 }
 {
     Artist: "Cord"
-    Title: "TLN NOVELAS HD (1080p)"
+    Title: "TLN NOVELAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las.png"
@@ -2046,7 +2046,7 @@
 }
 {
     Artist: "Cord"
-    Title: "ESPN 1 MEX HD (1080p)"
+    Title: "ESPN 1 MEX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2057,7 +2057,7 @@
 }
 {
     Artist: "Cord"
-    Title: "ESPN 2 MEX HD (1080p)"
+    Title: "ESPN 2 MEX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2079,7 +2079,7 @@
 }
 {
     Artist: "Cord"
-    Title: "ESPN 3 MEX HD (1080P)"
+    Title: "ESPN 3 MEX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2101,7 +2101,7 @@
 }
 {
     Artist: "Cord"
-    Title: "ESPN 4 MEX HD (1080p)"
+    Title: "ESPN 4 MEX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2178,7 +2178,7 @@
 }
 {
     Artist: "Cord"
-    Title: "FOX SPORTS 1 MEX HD (1080p)"
+    Title: "FOX SPORTS 1 MEX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_fox_sports.png"
@@ -2200,7 +2200,7 @@
 }
 {
     Artist: "Cord"
-    Title: "FOX SPORTS 2 MEX HD (1080p)"
+    Title: "FOX SPORTS 2 MEX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_fox_sports_2.png"
@@ -2222,7 +2222,7 @@
 }
 {
     Artist: "Cord"
-    Title: "FOX SPORTS 3 MEX HD"
+    Title: "FOX SPORTS 3 MEX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_fox_sports_3.png"
@@ -2244,7 +2244,7 @@
 }
 {
     Artist: "Cord"
-    Title: "FOX SPORTS PREMIUM HD"
+    Title: "FOX SPORTS PREMIUM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_premium.png"
@@ -2310,7 +2310,7 @@
 }
 {
     Artist: "Cord"
-    Title: "D SPORTS  COL"
+    Title: "D SPORTS COL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2354,7 +2354,7 @@
 }
 {
     Artist: "Cord"
-    Title: "D4ZN  2"
+    Title: "D4ZN 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2541,7 +2541,7 @@
 }
 {
     Artist: "Cord"
-    Title: "TUDN MEX (720p)"
+    Title: "TUDN MEX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
@@ -2552,7 +2552,7 @@
 }
 {
     Artist: "Cord"
-    Title: "TUDN MEX HD (1080p)"
+    Title: "TUDN MEX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
@@ -2618,7 +2618,7 @@
 }
 {
     Artist: "Cord"
-    Title: "ADRENALINA SPORT HD (1080P)"
+    Title: "ADRENALINA SPORT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_adrenalina.png"
@@ -2684,7 +2684,7 @@
 }
 {
     Artist: "Cord"
-    Title: "ONETORO HD"
+    Title: "ONETORO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2728,7 +2728,7 @@
 }
 {
     Artist: "Cord"
-    Title: "TVC DEPORTES HD (1080p)"
+    Title: "TVC DEPORTES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tvc_deportes.png"
