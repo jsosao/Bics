@@ -119,7 +119,7 @@ jobs:
             # Eliminar contenido entre paréntesis primero
             title_clean = re.sub(r'\([^)]*\)', '', title_clean)
             # Remover palabras comunes que no afectan el logo
-            title_clean = re.sub(r'\b(hd|usa|fhd|4k|sd)\b', '', title_clean, flags=re.IGNORECASE)
+            title_clean = re.sub(r'\b(1|hd|usa|fhd|4k|sd)\b', '', title_clean, flags=re.IGNORECASE)
             # Remover prefijos de país
             title_clean = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr)[\s:-]*', '', title_clean)
             # Remover solo algunos caracteres especiales, MANTENER &, +, y otros comunes en nombres de canales
