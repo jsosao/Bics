@@ -61,36 +61,67 @@ jobs:
             title_clean = title.lower()
             # Remover prefijos de país
             title_clean = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr)[\s:-]*', '', title_clean)
-            # Remover caracteres especiales y espacios extras
-            title_clean = re.sub(r'[^\w\s]', '', title_clean).strip()
+            # Remover solo algunos caracteres especiales, MANTENER &, +, y otros comunes en nombres de canales
+            title_clean = re.sub(r'[^\w\s&+\-]', '', title_clean).strip()
+            # Reemplazar espacios por guiones bajos para coincidir con formato de logos
+            title_search = title_clean.replace(' ', '_')
             
             # Búsqueda exacta (título completo)
             for logo_name in available_logos:
                 logo_base = logo_name.replace('.png', '').replace('.jpg', '').replace('.jpeg', '')
-                if title_clean == logo_base:
+                if title_search == logo_base:
                     print(f"  Logo encontrado (exacto): {logo_name}")
                     return available_logos[logo_name]
             
-            # Búsqueda por palabras clave principales
+            # Búsqueda sin prefijo de país en el logo
+            for logo_name in available_logos:
+                logo_base = logo_name.replace('.png', '').replace('.jpg', '').replace('.jpeg', '')
+                # Remover prefijo de país del logo también
+                logo_base_no_country = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr)_', '', logo_base)
+                if title_search == logo_base_no_country:
+                    print(f"  Logo encontrado (sin país): {logo_name}")
+                    return available_logos[logo_name]
+            
+            # Búsqueda con espacios en lugar de guiones bajos
+            for logo_name in available_logos:
+                logo_base = logo_name.replace('.png', '').replace('.jpg', '').replace('.jpeg', '')
+                logo_base_no_country = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr)_', '', logo_base)
+                if title_clean == logo_base_no_country.replace('_', ' '):
+                    print(f"  Logo encontrado (con espacios): {logo_name}")
+                    return available_logos[logo_name]
+            
+            # Búsqueda por longitud de coincidencia (más específica primero)
+            best_match = None
+            best_match_length = 0
+            
+            for logo_name in available_logos:
+                logo_base = logo_name.replace('.png', '').replace('.jpg', '').replace('.jpeg', '')
+                logo_base_no_country = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr)_', '', logo_base)
+                logo_normalized = logo_base_no_country.replace('_', ' ')
+                
+                # Si el título contiene el logo completo o viceversa
+                if title_clean in logo_normalized or logo_normalized in title_clean:
+                    match_length = len(logo_normalized)
+                    if match_length > best_match_length:
+                        best_match_length = match_length
+                        best_match = logo_name
+            
+            if best_match:
+                print(f"  Logo encontrado (mejor coincidencia): {best_match}")
+                return available_logos[best_match]
+            
+            # Búsqueda por palabras clave principales (solo si no hay mejor match)
             words = title_clean.split()
-            if words:
-                main_word = words[0]  # Primera palabra principal
+            if words and len(words) == 1:  # Solo una palabra
+                main_word = words[0]
                 for logo_name in available_logos:
                     logo_base = logo_name.replace('.png', '').replace('.jpg', '').replace('.jpeg', '')
-                    if main_word in logo_base or logo_base in main_word:
-                        print(f"  Logo encontrado (parcial): {logo_name}")
+                    logo_base_no_country = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr)_', '', logo_base)
+                    if main_word == logo_base_no_country or logo_base_no_country == main_word:
+                        print(f"  Logo encontrado (palabra única): {logo_name}")
                         return available_logos[logo_name]
             
-            # Búsqueda flexible (contiene alguna palabra)
-            for word in words:
-                if len(word) > 3:  # Solo palabras significativas
-                    for logo_name in available_logos:
-                        logo_base = logo_name.replace('.png', '').replace('.jpg', '').replace('.jpeg', '')
-                        if word in logo_base:
-                            print(f"  Logo encontrado (keyword): {logo_name}")
-                            return available_logos[logo_name]
-            
-            print(f"  Logo no encontrado, usando default")
+            print(f"  Logo no encontrado para '{title}', usando default")
             return default_logo
         
         # Función para determinar el país basado en el título
