@@ -271,7 +271,7 @@ jobs:
             output_lines.append(f'    Tag: "{entry["Tag"]}"')
             output_lines.append('}')
         
- edmavi_content = '\n'.join(output_lines)
+        edmavi_content = '\n'.join(output_lines)
         
         # Guardar el archivo edmavi (mantenemos este archivo por compatibilidad)
         edmavi_path = "country/others/edmavi"
