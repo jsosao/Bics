@@ -242,7 +242,7 @@ jobs:
                     
                     # Crear la entrada
                     entry = {
-                        'Artist': 'Cord',
+                        'Artist': 'Edmavi',
                         'Title': title,
                         'streamFormat': 'hls|mts',
                         'SwitchingStrategy': 'full-adaptation',
