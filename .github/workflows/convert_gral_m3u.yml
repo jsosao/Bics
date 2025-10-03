@@ -53,8 +53,36 @@ jobs:
         # Logo por defecto
         default_logo = "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
 
+        def modify_title(title):
+            original_title = title
+            title_upper = title.upper()
+            
+            # Si contiene "USA" en cualquier parte del título, reemplazar por "US:" al inicio
+            if "USA" in title_upper:
+                # Eliminar todas las ocurrencias de USA
+                title = re.sub(r'USA', '', title, flags=re.IGNORECASE)
+                title = title.strip()
+                # Agregar US: al inicio
+                title = "US: " + title
+                print(f"  Título modificado: '{original_title}' -> '{title}'")
+            
+            # Si contiene "MEX" en cualquier parte del título, reemplazar por "MX:" al inicio
+            elif "MEX" in title_upper:
+                # Eliminar todas las ocurrencias de MEX
+                title = re.sub(r'MEX', '', title, flags=re.IGNORECASE)
+                title = title.strip()
+                # Agregar MX: al inicio
+                title = "MX: " + title
+                print(f"  Título modificado: '{original_title}' -> '{title}'")
+            
+            return title
+
         # Función para limpiar el título de prefijos no deseados
         def clean_title(title):
+
+            # Primero aplicar las modificaciones específicas para USA y MEX
+            title = modify_title(title)
+            
             # Eliminar texto específico (puede estar en cualquier parte del título)
             prefixes_to_remove = ["HD"]
             for prefix in prefixes_to_remove:
@@ -235,7 +263,7 @@ jobs:
                 original_title = title
                 
                 # Limpiar el título y agregar prefijo de país
-                title = clean_and_prefix_title(title)
+                title = clean_title(title)
                 
                 # La siguiente línea debe ser la URL del stream
                 i += 1
