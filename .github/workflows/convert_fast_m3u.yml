@@ -191,13 +191,15 @@ jobs:
             group_lower = group_title.lower()
 
             # Primero verificar si contiene palabras a excluir
-            exclude_keywords = ["canales-adultos", "adultos"]
+            exclude_keywords = ["canales-adultos", "adultos", "VOD"]
             if any(keyword in group_lower for keyword in exclude_keywords):
                 return False
-                
+
+            # Inlcuye todos los demás
+             return True
             # Solo incluir grupos que contengan estas palabras clave
-            include_keywords = ["canales", "canales de peliculas"]
-            return any(keyword in group_lower for keyword in include_keywords)
+            #include_keywords = ["CHILE", "PPV", "PERÚ", "COLOMBIA", "FUTBÓL", "DEPORTES", "CINE", "CINEMA", "ENTRETENIMIENTO", "INFANTILES", "CULTURA", "24/7", "NOTICIAS", "UNIMAS", "ARGENTINA", "VENEZUELA", "ESPAÑA"]
+            #return any(keyword in group_lower for keyword in include_keywords)
         
         # Función para escapar la URL
         def escape_url(url):
@@ -252,7 +254,7 @@ jobs:
                     
                     # Crear la entrada
                     entry = {
-                        'Artist': 'Zapping',
+                        'Artist': 'Fasy',
                         'Title': title,
                         'streamFormat': 'hls|mts',
                         'SwitchingStrategy': 'full-adaptation',
