@@ -57,7 +57,7 @@ jobs:
         def clean_title(title):
             
             # Eliminar texto específico (puede estar en cualquier parte del título)
-            prefixes_to_remove = ["USA"]
+            prefixes_to_remove = ["USA","HD"]
             for prefix in prefixes_to_remove:
                 if prefix in title:
                     title = title.replace(prefix, "").strip()
