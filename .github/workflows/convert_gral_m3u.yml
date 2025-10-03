@@ -5,6 +5,7 @@ on:
     - cron: '50 6 * * 4,5'  # Se ejecuta diariamente a medianoche
   workflow_dispatch:  # Permite ejecución manual
 
+
 jobs:
   convert:
     runs-on: ubuntu-latest
@@ -52,7 +53,26 @@ jobs:
         
         # Logo por defecto
         default_logo = "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-        
+
+        # Función para limpiar el título de prefijos no deseados
+        def clean_title(title):
+            # Eliminar texto específico (puede estar en cualquier parte del título)
+            prefixes_to_remove = ["HD"]
+            for prefix in prefixes_to_remove:
+                if prefix in title:
+                    title = title.replace(prefix, "").strip()
+                    print(f"  Patrón '{prefix}' eliminado del título")
+            
+            # Eliminar todo lo que esté dentro de paréntesis incluyendo los paréntesis
+            original_title = title
+            title = re.sub(r'\([^)]*\)', '', title)
+            if original_title != title:
+                print(f"  Contenido entre paréntesis eliminado")
+            
+            # Limpiar espacios múltiples que puedan quedar
+            title = re.sub(r'\s+', ' ', title).strip()
+            return title
+                   
         # Función para encontrar el logo más apropiado
         def find_best_logo(title):
             if not available_logos:
@@ -158,7 +178,7 @@ jobs:
                 return "Radio"
             elif "news" in group_lower:
                 return "News"
-            elif "movie" in group_lower or "film" in group_lower:
+            elif "movie" in group_lower or "film" in group_lower or "peliculas" in group_lower:
                 return "Movies"
             elif "series" in group_lower or "tv show" in group_lower:
                 return "Series"
@@ -167,12 +187,18 @@ jobs:
             else:
                 return "General"
         
-        # Función para verificar si el grupo debe ser omitido
-        def should_skip_group(group_title):
+        # Función para verificar si el grupo debe ser incluido
+        def should_include_group(group_title):
             group_lower = group_title.lower()
-            # Palabras clave que indican grupos a omitir
-            skip_keywords = ["radio", "serie", "movie", "extra"]
-            return any(keyword in group_lower for keyword in skip_keywords)
+
+            # Primero verificar si contiene palabras a excluir
+            exclude_keywords = ["canales-adultos", "adultos"]
+            if any(keyword in group_lower for keyword in exclude_keywords):
+                return False
+                
+            # Solo incluir grupos que contengan estas palabras clave
+            include_keywords = ["canales", "canales de peliculas"]
+            return any(keyword in group_lower for keyword in include_keywords)
         
         # Función para escapar la URL
         def escape_url(url):
@@ -185,6 +211,7 @@ jobs:
         # Parsear el archivo M3U
         lines = content.strip().split('\n')
         entries = []
+        skipped_count = 0
         
         i = 0
         while i < len(lines):
@@ -204,24 +231,29 @@ jobs:
                 group_title = group_title_match.group(1) if group_title_match else ""
                 title = title_match.group(1).strip() if title_match else tvg_name
                 
+                # Limpiar el título de prefijos no deseados
+                title = clean_title(title)
+                
                 # La siguiente línea debe ser la URL del stream
                 i += 1
                 if i < len(lines):
                     stream_url = lines[i].strip()
                     
-                    # Omitir grupos de Radio, Movies y Series
-                    if should_skip_group(group_title):
+                    # Solo incluir grupos que cumplan con los criterios
+                    if not should_include_group(group_title):
+                        print(f"Omitiendo: '{title}' | Grupo: '{group_title}' -> NO cumple criterios")
+                        skipped_count += 1
                         i += 1
                         continue
                     
-                    print(f"Procesando: '{title}'")
+                    print(f"Procesando: '{title}' | Grupo: '{group_title}'")
                     
-                    # Buscar el logo más apropiado (usando el título original)
+                    # Buscar el logo más apropiado
                     best_logo = find_best_logo(title)
                     
-                    # Crear la entrada (manteniendo el título original)
+                    # Crear la entrada
                     entry = {
-                        'Artist': 'Edmavi',
+                        'Artist': 'Zapping',
                         'Title': title,
                         'streamFormat': 'hls|mts',
                         'SwitchingStrategy': 'full-adaptation',
@@ -235,7 +267,7 @@ jobs:
             
             i += 1
         
-        # Generar el contenido de edmavi
+        # Generar el archivo de salida
         output_lines = []
         for entry in entries:
             output_lines.append('{')
@@ -250,44 +282,18 @@ jobs:
             output_lines.append(f'    Tag: "{entry["Tag"]}"')
             output_lines.append('}')
         
-        edmavi_content = '\n'.join(output_lines)
+        output_content = '\n'.join(output_lines)
         
-        # Guardar el archivo edmavi (mantenemos este archivo por compatibilidad)
-        edmavi_path = "country/others/edmavi"
-        with open(edmavi_path, 'w', encoding='utf-8') as f:
-            f.write(edmavi_content)
-        print(f"\nArchivo edmavi guardado en {edmavi_path}")
+        # Guardar el archivo sin extensión
+        output_path = "country/others/edmavi"
         
-        # Leer el contenido del archivo premium_v1
-        premium_v1_path = "country/country/premium_v1"
-        premium_v1_content = ""
-        
-        if os.path.exists(premium_v1_path):
-            with open(premium_v1_path, 'r', encoding='utf-8') as f:
-                premium_v1_content = f.read()
-            print(f"Archivo premium_v1 leído desde {premium_v1_path}")
-        else:
-            print(f"ADVERTENCIA: Archivo premium_v1 no existe en {premium_v1_path}")
-        
-        # Concatenar premium_v1 + edmavi para crear premium
-        if premium_v1_content:
-            # Asegurarse de que hay un salto de línea entre los contenidos
-            if not premium_v1_content.endswith('\n'):
-                premium_v1_content += '\n'
-            combined_content = premium_v1_content + edmavi_content
-        else:
-            combined_content = edmavi_content
-        
-        # Guardar el archivo premium final
-        premium_path = "country/country/premium"
-        os.makedirs(os.path.dirname(premium_path), exist_ok=True)
-        with open(premium_path, 'w', encoding='utf-8') as f:
-            f.write(combined_content)
+        with open(output_path, 'w', encoding='utf-8') as f:
+            f.write(output_content)
         
         print(f"\n{'='*60}")
-        print(f"Archivo premium creado en {premium_path}")
-        print(f"Contenido: premium_v1 + edmavi")
-        print(f"Total de entradas de edmavi procesadas: {len(entries)}")
+        print(f"Archivo guardado exitosamente en {output_path}")
+        print(f"Total de entradas incluidas: {len(entries)}")
+        print(f"Total de entradas omitidas: {skipped_count}")
         
         # Estadísticas de logos
         logos_default = sum(1 for e in entries if e['Logo'] == default_logo)
@@ -302,6 +308,5 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add country/others/edmavi
-        git add country/country/premium
-        git diff --staged --quiet || git commit -m "Update edmavi and premium - $(date +'%Y-%m-%d %H:%M:%S')"
+        git diff --staged --quiet || git commit -m "Update edmavi - $(date +'%Y-%m-%d %H:%M:%S')"
         git push
