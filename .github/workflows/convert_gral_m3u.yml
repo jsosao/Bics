@@ -74,6 +74,15 @@ jobs:
                 # Agregar MX: al inicio
                 title = "MX: " + title
                 print(f"  Título modificado: '{original_title}' -> '{title}'")
+
+            # Si contiene "MEX" en cualquier parte del título, reemplazar por "MX:" al inicio
+            elif "ARG" in title_upper:
+                # Eliminar todas las ocurrencias de ARG
+                title = re.sub(r'ARG', '', title, flags=re.IGNORECASE)
+                title = title.strip()
+                # Agregar AR: al inicio
+                title = "AR: " + title
+                print(f"  Título modificado: '{original_title}' -> '{title}'")
             
             return title
 
