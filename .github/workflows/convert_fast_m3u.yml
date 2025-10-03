@@ -190,20 +190,15 @@ jobs:
         def should_include_group(group_title):
             group_lower = group_title.lower()
 
-            # Palabras clave que indican grupos a omitir
-            #skip_keywords = ["SERIES", "TELENOVELAS", "VOD", "PLUTO"]
-            #return any(keyword in group_lower for keyword in skip_keywords)
-
-             Primero verificar si contiene palabras a excluir
+           # Primero verificar si contiene palabras a excluir
             exclude_keywords = ["canales-adultos", "adultos", "SERIES", "TELENOVELAS", "VOD", "PLUTO"]
             if any(keyword in group_lower for keyword in exclude_keywords):
                 return False
-
+                
             # Solo incluir grupos que contengan estas palabras clave
             include_keywords = ["CHILE", "PPV", "PERÚ", "COLOMBIA", "FUTBÓL", "DEPORTES", "CINE", "CINEMA", "ENTRETENIMIENTO", "INFANTILES", "CULTURA", "24/7", "NOTICIAS", "UNIMAS", "ARGENTINA", "VENEZUELA", "ESPAÑA"]
-            #include_keywords = [""]  
             return any(keyword in group_lower for keyword in include_keywords)
-        
+      
         # Función para escapar la URL
         def escape_url(url):
             url = url.replace("http://", "http[:[/][/]]")
