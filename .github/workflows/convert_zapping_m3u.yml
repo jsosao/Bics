@@ -94,7 +94,7 @@ jobs:
             # Remover prefijos de país
             title_clean = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr)[\s:-]*', '', title_clean)
             # Remover caracteres especiales y espacios extras
-            title_clean = re.sub(r'[^\w\s]', '', title_clean).strip()
+            title_clean = re.sub(r'[^\s]', '', title_clean).strip()
             
             # Búsqueda exacta (título completo)
             for logo_name in available_logos:
