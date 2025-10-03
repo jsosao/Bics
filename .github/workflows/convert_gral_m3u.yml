@@ -114,27 +114,55 @@ jobs:
             if not available_logos:
                 return default_logo
             
-            # Limpiar el título para búsqueda de logo
+            # Limpiar el título para búsqueda
             title_clean = title.lower()
-            # Eliminar contenido entre paréntesis primero
-            title_clean = re.sub(r'\([^)]*\)', '', title_clean)
-            # Remover palabras comunes que no afectan el logo
-            title_clean = re.sub(r'\b(hd|usa|fhd|4k|sd)\b', '', title_clean, flags=re.IGNORECASE)
             # Remover prefijos de país
             title_clean = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr)[\s:-]*', '', title_clean)
             # Remover solo algunos caracteres especiales, MANTENER &, +, y otros comunes en nombres de canales
             title_clean = re.sub(r'[^\w\s&+\-]', '', title_clean).strip()
-            # Limpiar espacios múltiples
-            title_clean = re.sub(r'\s+', ' ', title_clean).strip()
-            # Reemplazar espacios por guiones bajos para coincidir con formato de logos
-            title_search = title_clean.replace(' ', '_')
             
-            # Búsqueda exacta (título completo)
+            # Extraer palabras clave principales (eliminar números y palabras comunes)
+            words = title_clean.split()
+            main_keywords = []
+            for word in words:
+                # Eliminar números solos y palabras muy comunes/cortas
+                if (not word.isdigit() and 
+                    len(word) > 2 and 
+                    word not in ['and', 'the', 'for', 'with', 'from', 'channel']):
+                    main_keywords.append(word)
+            
+            # Si no hay palabras clave principales, usar todas las palabras
+            if not main_keywords:
+                main_keywords = [w for w in words if len(w) > 1]
+            
+            print(f"  Palabras clave para búsqueda: {main_keywords}")
+            
+            # Búsqueda exacta (título completo sin espacios)
+            title_search = title_clean.replace(' ', '_')
             for logo_name in available_logos:
                 logo_base = logo_name.replace('.png', '').replace('.jpg', '').replace('.jpeg', '')
                 if title_search == logo_base:
                     print(f"  Logo encontrado (exacto): {logo_name}")
                     return available_logos[logo_name]
+            
+            # Búsqueda por palabra clave principal (más importante primero)
+            for keyword in main_keywords:
+                keyword_underscore = keyword.replace(' ', '_')
+                # Buscar logo que coincida exactamente con la palabra clave
+                for logo_name in available_logos:
+                    logo_base = logo_name.replace('.png', '').replace('.jpg', '').replace('.jpeg', '')
+                    # Remover prefijo de país del logo
+                    logo_base_no_country = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr)_', '', logo_base)
+                    
+                    # Coincidencia exacta con palabra clave
+                    if keyword_underscore == logo_base_no_country:
+                        print(f"  Logo encontrado (palabra clave exacta): {logo_name}")
+                        return available_logos[logo_name]
+                    
+                    # Coincidencia con logo que contiene la palabra clave
+                    if keyword_underscore in logo_base_no_country:
+                        print(f"  Logo encontrado (contiene palabra clave): {logo_name}")
+                        return available_logos[logo_name]
             
             # Búsqueda sin prefijo de país en el logo
             for logo_name in available_logos:
@@ -153,39 +181,59 @@ jobs:
                     print(f"  Logo encontrado (con espacios): {logo_name}")
                     return available_logos[logo_name]
             
-            # Búsqueda por longitud de coincidencia (más específica primero)
+            # Búsqueda por similitud (para casos como "ESPN 1" -> "espn")
             best_match = None
-            best_match_length = 0
+            best_match_score = 0
             
             for logo_name in available_logos:
                 logo_base = logo_name.replace('.png', '').replace('.jpg', '').replace('.jpeg', '')
                 logo_base_no_country = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr)_', '', logo_base)
                 logo_normalized = logo_base_no_country.replace('_', ' ')
                 
-                # Si el título contiene el logo completo o viceversa
-                if title_clean in logo_normalized or logo_normalized in title_clean:
-                    match_length = len(logo_normalized)
-                    if match_length > best_match_length:
-                        best_match_length = match_length
-                        best_match = logo_name
+                # Calcular puntaje de similitud
+                score = 0
+                
+                # Si el título contiene el logo completo
+                if logo_normalized in title_clean:
+                    score += len(logo_normalized) * 2
+                
+                # Si el logo contiene palabras clave del título
+                for keyword in main_keywords:
+                    if keyword in logo_normalized:
+                        score += len(keyword) * 3
+                
+                # Si el logo está contenido en el título
+                if logo_normalized in title_clean:
+                    score += len(logo_normalized) * 2
+                
+                # Si tienen palabras en común
+                title_words = set(title_clean.split())
+                logo_words = set(logo_normalized.split())
+                common_words = title_words.intersection(logo_words)
+                score += len(common_words) * 5
+                
+                if score > best_match_score:
+                    best_match_score = score
+                    best_match = logo_name
             
-            if best_match:
-                print(f"  Logo encontrado (mejor coincidencia): {best_match}")
+            # Solo considerar como match válido si el score es suficientemente alto
+            if best_match and best_match_score >= 5:
+                print(f"  Logo encontrado (mejor coincidencia - score {best_match_score}): {best_match}")
                 return available_logos[best_match]
             
-            # Búsqueda por palabras clave principales (solo si no hay mejor match)
-            words = title_clean.split()
-            if words and len(words) == 1:  # Solo una palabra
-                main_word = words[0]
+            # Búsqueda final: buscar cualquier logo que contenga la primera palabra clave
+            if main_keywords:
+                first_keyword = main_keywords[0]
                 for logo_name in available_logos:
                     logo_base = logo_name.replace('.png', '').replace('.jpg', '').replace('.jpeg', '')
                     logo_base_no_country = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr)_', '', logo_base)
-                    if main_word == logo_base_no_country or logo_base_no_country == main_word:
-                        print(f"  Logo encontrado (palabra única): {logo_name}")
+                    if first_keyword in logo_base_no_country:
+                        print(f"  Logo encontrado (primera palabra clave): {logo_name}")
                         return available_logos[logo_name]
             
             print(f"  Logo no encontrado para '{title}', usando default")
             return default_logo
+
         
         # Función para determinar el país basado en el título
         def get_country(title):
