@@ -5,7 +5,6 @@ on:
     - cron: '50 6 * * 4,5'  # Se ejecuta diariamente a medianoche
   workflow_dispatch:  # Permite ejecución manual
 
-
 jobs:
   convert:
     runs-on: ubuntu-latest
@@ -24,7 +23,6 @@ jobs:
         cd $GITHUB_WORKSPACE
         python3 << 'EOF'
         import urllib.request
-        import urllib.parse
         import re
         import os
         import json
@@ -53,26 +51,7 @@ jobs:
         
         # Logo por defecto
         default_logo = "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-
-        # Función para limpiar el título de prefijos no deseados
-        def clean_title(title):
-            # Eliminar texto específico (puede estar en cualquier parte del título)
-            prefixes_to_remove = ["HD"]
-            for prefix in prefixes_to_remove:
-                if prefix in title:
-                    title = title.replace(prefix, "").strip()
-                    print(f"  Patrón '{prefix}' eliminado del título")
-            
-            # Eliminar todo lo que esté dentro de paréntesis incluyendo los paréntesis
-            original_title = title
-            title = re.sub(r'\([^)]*\)', '', title)
-            if original_title != title:
-                print(f"  Contenido entre paréntesis eliminado")
-            
-            # Limpiar espacios múltiples que puedan quedar
-            title = re.sub(r'\s+', ' ', title).strip()
-            return title
-                   
+        
         # Función para encontrar el logo más apropiado
         def find_best_logo(title):
             if not available_logos:
@@ -178,7 +157,7 @@ jobs:
                 return "Radio"
             elif "news" in group_lower:
                 return "News"
-            elif "movie" in group_lower or "film" in group_lower or "peliculas" in group_lower:
+            elif "movie" in group_lower or "film" in group_lower:
                 return "Movies"
             elif "series" in group_lower or "tv show" in group_lower:
                 return "Series"
@@ -187,18 +166,12 @@ jobs:
             else:
                 return "General"
         
-        # Función para verificar si el grupo debe ser incluido
-        def should_include_group(group_title):
+        # Función para verificar si el grupo debe ser omitido
+        def should_skip_group(group_title):
             group_lower = group_title.lower()
-
-            # Primero verificar si contiene palabras a excluir
-            exclude_keywords = ["canales-adultos", "adultos"]
-            if any(keyword in group_lower for keyword in exclude_keywords):
-                return False
-                
-            # Solo incluir grupos que contengan estas palabras clave
-            include_keywords = ["canales", "canales de peliculas"]
-            return any(keyword in group_lower for keyword in include_keywords)
+            # Palabras clave que indican grupos a omitir
+            skip_keywords = ["radio", "serie", "movie", "extra"]
+            return any(keyword in group_lower for keyword in skip_keywords)
         
         # Función para escapar la URL
         def escape_url(url):
@@ -211,7 +184,6 @@ jobs:
         # Parsear el archivo M3U
         lines = content.strip().split('\n')
         entries = []
-        skipped_count = 0
         
         i = 0
         while i < len(lines):
@@ -231,29 +203,24 @@ jobs:
                 group_title = group_title_match.group(1) if group_title_match else ""
                 title = title_match.group(1).strip() if title_match else tvg_name
                 
-                # Limpiar el título de prefijos no deseados
-                title = clean_title(title)
-                
                 # La siguiente línea debe ser la URL del stream
                 i += 1
                 if i < len(lines):
                     stream_url = lines[i].strip()
                     
-                    # Solo incluir grupos que cumplan con los criterios
-                    if not should_include_group(group_title):
-                        print(f"Omitiendo: '{title}' | Grupo: '{group_title}' -> NO cumple criterios")
-                        skipped_count += 1
+                    # Omitir grupos de Radio, Movies y Series
+                    if should_skip_group(group_title):
                         i += 1
                         continue
                     
-                    print(f"Procesando: '{title}' | Grupo: '{group_title}'")
+                    print(f"Procesando: '{title}'")
                     
                     # Buscar el logo más apropiado
                     best_logo = find_best_logo(title)
                     
                     # Crear la entrada
                     entry = {
-                        'Artist': 'Zapping',
+                        'Artist': 'Cord',
                         'Title': title,
                         'streamFormat': 'hls|mts',
                         'SwitchingStrategy': 'full-adaptation',
@@ -290,17 +257,14 @@ jobs:
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(output_content)
         
-        print(f"\n{'='*60}")
-        print(f"Archivo guardado exitosamente en {output_path}")
-        print(f"Total de entradas incluidas: {len(entries)}")
-        print(f"Total de entradas omitidas: {skipped_count}")
+        print(f"\nArchivo guardado exitosamente en {output_path}")
+        print(f"Total de entradas procesadas: {len(entries)}")
         
         # Estadísticas de logos
         logos_default = sum(1 for e in entries if e['Logo'] == default_logo)
         logos_found = len(entries) - logos_default
         print(f"Logos encontrados: {logos_found}")
         print(f"Logos default: {logos_default}")
-        print(f"{'='*60}")
         EOF
         
     - name: Commit and push changes
@@ -310,3 +274,5 @@ jobs:
         git add country/others/edmavi
         git diff --staged --quiet || git commit -m "Update edmavi - $(date +'%Y-%m-%d %H:%M:%S')"
         git push
+
+
