@@ -185,19 +185,23 @@ jobs:
                 return "Music"
             else:
                 return "General"
-        
+
         # Función para verificar si el grupo debe ser incluido
         def should_include_group(group_title):
             group_lower = group_title.lower()
-
-           # Primero verificar si contiene palabras a excluir
-            exclude_keywords = ["canales-adultos", "adultos", "SERIES", "TELENOVELAS", "VOD", "PLUTO"]
+            
+            # Solo verificar si contiene palabras a excluir
+            exclude_keywords = ["canales-adultos", "adultos", "series", "telenovelas", "vod", "pluto"]
             if any(keyword in group_lower for keyword in exclude_keywords):
                 return False
-                
+            
+            # Incluir todo lo demás (wildcard)
+            return True
+        
+               
             # Solo incluir grupos que contengan estas palabras clave
-            include_keywords = ["CHILE", "PPV", "PERÚ", "COLOMBIA", "FUTBÓL", "DEPORTES", "CINE", "CINEMA", "ENTRETENIMIENTO", "INFANTILES", "CULTURA", "24/7", "NOTICIAS", "UNIMAS", "ARGENTINA", "VENEZUELA", "ESPAÑA"]
-            return any(keyword in group_lower for keyword in include_keywords)
+            #include_keywords = ["CHILE", "PPV", "PERÚ", "COLOMBIA", "BOLIVIA", "ECUADOR", "CANADÁ", "ESPAÑA", "BRASIL", "USA", "FUTBÓL", "DEPORTES", "CINE", "CINEMA", "ENTRETENIMIENTO", "INFANTILES", "CULTURA", "24/7", "NOTICIAS", "UNIMAS", "ARGENTINA", "VENEZUELA"]
+            #return any(keyword in group_lower for keyword in include_keywords)
       
         # Función para escapar la URL
         def escape_url(url):
@@ -252,7 +256,7 @@ jobs:
                     
                     # Crear la entrada
                     entry = {
-                        'Artist': 'Fasy',
+                        'Artist': 'Fast',
                         'Title': title,
                         'streamFormat': 'hls|mts',
                         'SwitchingStrategy': 'full-adaptation',
