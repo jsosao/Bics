@@ -61,7 +61,11 @@ jobs:
                 if prefix in title:
                     title = title.replace(prefix, "").strip()
                     print(f"  Patrón '{prefix}' eliminado del título")
-            
+
+            title = title.replace("•", ":").strip()
+            title = title.replace("»", "").strip()
+            title = title.replace("«", "").strip()
+
             # Eliminar todo lo que esté dentro de paréntesis incluyendo los paréntesis
             original_title = title
             title = re.sub(r'\([^)]*\)', '', title)
@@ -70,6 +74,7 @@ jobs:
             
             # Limpiar espacios múltiples que puedan quedar
             title = re.sub(r'\s+', ' ', title).strip()
+             
             return title
                    
         # Función para encontrar el logo más apropiado
@@ -147,23 +152,29 @@ jobs:
         # Función para determinar el país basado en el título
         def get_country(title):
             title_upper = title.upper()
-            if title.startswith("AU"):
-                return "au"
-            elif title.startswith("UK") or "BBC" in title_upper:
+            if title.startswith("CL:"):
+                return "cl"
+            elif title.startswith("UK:") or "BBC" in title_upper:
                 return "uk"
-            elif title.startswith("US"):
+            elif title.startswith("US:"):
                 return "us"
-            elif title.startswith("CA"):
+            elif title.startswith("CA:"):
                 return "ca"
-            elif title.startswith("ES"):
+            elif title.startswith("SP:"):
                 return "es"
-            elif title.startswith("MX"):
+            elif title.startswith("MX:"):
                 return "mx"
-            elif title.startswith("AR"):
+            elif title.startswith("AR:"):
                 return "ar"
-            elif title.startswith("BR"):
+            elif title.startswith("BR:"):
                 return "br"
-            elif title.startswith("FR"):
+            elif title.startswith("BO:"):
+                return "bo"
+            elif title.startswith("PE:"):
+                return "pe"
+            elif title.startswith("COL:"):
+                return "co"
+            elif title.startswith("FR:"):
                 return "fr"
             else:
                 return "us"  # Default
