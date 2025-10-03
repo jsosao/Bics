@@ -191,7 +191,7 @@ jobs:
             group_lower = group_title.lower()
             
             # Solo verificar si contiene palabras a excluir
-            exclude_keywords = ["canales-adultos", "adultos", "series", "telenovelas", "vod", "pluto"]
+            exclude_keywords = ["canales-adultos", "adultos", "series", "telenovelas", "vod", "pluto", "doramas","simpsons","radio","cgates"]
             if any(keyword in group_lower for keyword in exclude_keywords):
                 return False
             
