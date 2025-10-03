@@ -258,33 +258,35 @@ jobs:
             f.write(edmavi_content)
         print(f"\nArchivo edmavi guardado en {edmavi_path}")
         
-        # Leer el contenido actual del archivo premium
-        premium_path = "country/country/premium"
-        premium_content = ""
+        # Leer el contenido del archivo premium_v1
+        premium_v1_path = "country/country/premium_v1"
+        premium_v1_content = ""
         
-        if os.path.exists(premium_path):
-            with open(premium_path, 'r', encoding='utf-8') as f:
-                premium_content = f.read()
-            print(f"Archivo premium existente leído desde {premium_path}")
+        if os.path.exists(premium_v1_path):
+            with open(premium_v1_path, 'r', encoding='utf-8') as f:
+                premium_v1_content = f.read()
+            print(f"Archivo premium_v1 leído desde {premium_v1_path}")
         else:
-            print(f"Archivo premium no existe, se creará uno nuevo en {premium_path}")
+            print(f"ADVERTENCIA: Archivo premium_v1 no existe en {premium_v1_path}")
         
-        # Agregar el contenido de edmavi al final del archivo premium
-        if premium_content:
-            # Asegurarse de que hay un salto de línea entre el contenido existente y el nuevo
-            if not premium_content.endswith('\n'):
-                premium_content += '\n'
-            combined_content = premium_content + edmavi_content
+        # Concatenar premium_v1 + edmavi para crear premium
+        if premium_v1_content:
+            # Asegurarse de que hay un salto de línea entre los contenidos
+            if not premium_v1_content.endswith('\n'):
+                premium_v1_content += '\n'
+            combined_content = premium_v1_content + edmavi_content
         else:
             combined_content = edmavi_content
         
-        # Guardar el archivo premium actualizado
+        # Guardar el archivo premium final
+        premium_path = "country/country/premium"
         os.makedirs(os.path.dirname(premium_path), exist_ok=True)
         with open(premium_path, 'w', encoding='utf-8') as f:
             f.write(combined_content)
         
         print(f"\n{'='*60}")
-        print(f"Contenido de edmavi agregado al archivo premium en {premium_path}")
+        print(f"Archivo premium creado en {premium_path}")
+        print(f"Contenido: premium_v1 + edmavi")
         print(f"Total de entradas de edmavi procesadas: {len(entries)}")
         
         # Estadísticas de logos
