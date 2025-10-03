@@ -8,16 +8,16 @@ on:
 jobs:
   convert:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
-      
+
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.x'
-        
+
     - name: Download and convert M3U file
       run: |
         cd $GITHUB_WORKSPACE
@@ -55,7 +55,7 @@ jobs:
         # Función para limpiar el título de prefijos no deseados
         def clean_title(title):
             # Eliminar texto específico (puede estar en cualquier parte del título)
-            prefixes_to_remove = ["HD"]
+            prefixes_to_remove = ["HD","ARG","MEX"]
             for prefix in prefixes_to_remove:
                 if prefix in title:
                     title = title.replace(prefix, "").strip()
@@ -144,30 +144,30 @@ jobs:
             return default_logo
         
         # Función para determinar el país basado en el título
+
         def get_country(title):
             title_upper = title.upper()
-            
-            # Verificar si el título contiene indicadores de país
-            if "AU" in title_upper or "AUSTRALIA" in title_upper:
+            if title.startswith("AU"):
                 return "au"
-            elif "UK" in title_upper or "BBC" in title_upper or "BRITAIN" in title_upper:
+            elif title.startswith("UK") or "BBC" in title_upper:
                 return "uk"
-            elif "US" in title_upper or "USA" in title_upper or "UNITED STATES" in title_upper:
+            elif title.startswith("US"):
                 return "us"
-            elif "CA" in title_upper or "CANADA" in title_upper or "CANADIAN" in title_upper:
+            elif title.startswith("CA"):
                 return "ca"
-            elif "ES" in title_upper or "SPAIN" in title_upper or "ESPAÑA" in title_upper or "ESPAÑOL" in title_upper:
+            elif title.startswith("ES"):
                 return "es"
-            elif "MX" in title_upper or "MEXICO" in title_upper or "MÉXICO" in title_upper:
+            elif title.startswith("MX"):
                 return "mx"
-            elif "AR" in title_upper or "ARGENTINA" in title_upper or "ARG" in title_upper:
+            elif title.startswith("AR"):
                 return "ar"
-            elif "BR" in title_upper or "BRAZIL" in title_upper or "BRASIL" in title_upper:
+            elif title.startswith("BR"):
                 return "br"
-            elif "FR" in title_upper or "FRANCE" in title_upper or "FRANÇAIS" in title_upper:
+            elif title.startswith("FR"):
                 return "fr"
             else:
-                return "us"  # Default        
+                return "us"  # Default
+        
         # Función para determinar el tag basado en el group-title
         def get_tag(group_title):
             group_lower = group_title.lower()
@@ -185,14 +185,14 @@ jobs:
                 return "Music"
             else:
                 return "General"
-        
+
         # Función para verificar si el grupo debe ser omitido
         def should_skip_group(group_title):
             group_lower = group_title.lower()
             # Palabras clave que indican grupos a omitir
             skip_keywords = ["radio", "serie", "movie", "extra"]
             return any(keyword in group_lower for keyword in skip_keywords)
-        
+
         # Función para escapar la URL
         def escape_url(url):
             url = url.replace("http://", "http[:[/][/]]")
@@ -200,24 +200,24 @@ jobs:
             url = url.replace(".", "[.]")
             url = url.replace("/", "[/]")
             return url
-        
+
         # Parsear el archivo M3U
         lines = content.strip().split('\n')
         entries = []
-        
+
         i = 0
         while i < len(lines):
             line = lines[i].strip()
-            
+
             if line.startswith('#EXTINF:'):
                 # Extraer información de la línea EXTINF
                 tvg_name_match = re.search(r'tvg-name="([^"]*)"', line)
                 tvg_logo_match = re.search(r'tvg-logo="([^"]*)"', line)
                 group_title_match = re.search(r'group-title="([^"]*)"', line)
-                
+
                 # El título está al final de la línea después de la última coma
                 title_match = re.search(r',(.*)$', line)
-                
+
                 tvg_name = tvg_name_match.group(1) if tvg_name_match else ""
                 tvg_logo = tvg_logo_match.group(1) if tvg_logo_match else ""
                 group_title = group_title_match.group(1) if group_title_match else ""
@@ -225,17 +225,17 @@ jobs:
 
                 # Limpiar el título de prefijos no deseados
                 title = clean_title(title)
-                
+
                 # La siguiente línea debe ser la URL del stream
                 i += 1
                 if i < len(lines):
                     stream_url = lines[i].strip()
-                    
+
                     # Omitir grupos de Radio, Movies y Series
                     if should_skip_group(group_title):
                         i += 1
                         continue
-                    
+
                     print(f"Procesando: '{title}'")
                     
                     # Buscar el logo más apropiado
@@ -271,25 +271,25 @@ jobs:
             output_lines.append(f'    Country: "{entry["Country"]}"')
             output_lines.append(f'    Tag: "{entry["Tag"]}"')
             output_lines.append('}')
-        
+
         output_content = '\n'.join(output_lines)
-        
+
         # Guardar el archivo sin extensión
         output_path = "country/others/edmavi"
-        
+
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(output_content)
-        
+
         print(f"\nArchivo guardado exitosamente en {output_path}")
         print(f"Total de entradas procesadas: {len(entries)}")
-        
+
         # Estadísticas de logos
         logos_default = sum(1 for e in entries if e['Logo'] == default_logo)
         logos_found = len(entries) - logos_default
         print(f"Logos encontrados: {logos_found}")
         print(f"Logos default: {logos_default}")
         EOF
-        
+
     - name: Commit and push changes
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -297,5 +297,3 @@ jobs:
         git add country/others/edmavi
         git diff --staged --quiet || git commit -m "Update edmavi - $(date +'%Y-%m-%d %H:%M:%S')"
         git push
-
-
