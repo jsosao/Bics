@@ -1,5 +1,14 @@
 {
     Artist: "Cord"
+    Title: "US NHL NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl_network.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]20179"
+    Live: true
+}
+{
+    Artist: "Cord"
     Title: "(OFF) NHL 01"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
