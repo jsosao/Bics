@@ -1199,17 +1199,6 @@
 }
 {
     Artist: "Play"
-    Title: "13C - CHILE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cl_chilevision.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]74719"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Play"
     Title: "TVN CHILE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -6164,7 +6153,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_a_24.png"
-    Stream: "http[:[[/]][[/]]]vip-kings-cr-tv[.]vip:80[/]62616q7restreampm[/]W7w7wu277171h[/]1446101"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384214"
     Live: true
     Country: "us"
     Tag: "General"
