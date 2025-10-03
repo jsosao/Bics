@@ -144,29 +144,31 @@ jobs:
             return default_logo
         
         # Función para determinar el país basado en el título
+# Función para determinar el país basado en el título
         def get_country(title):
             title_upper = title.upper()
-            if title.startswith("AU"):
+            
+            # Verificar si el título contiene indicadores de país
+            if "AU" in title_upper or "AUSTRALIA" in title_upper:
                 return "au"
-            elif title.startswith("UK") or "BBC" in title_upper:
+            elif "UK" in title_upper or "BBC" in title_upper or "BRITAIN" in title_upper:
                 return "uk"
-            elif title.startswith("US"):
+            elif "US" in title_upper or "USA" in title_upper or "UNITED STATES" in title_upper:
                 return "us"
-            elif title.startswith("CA"):
+            elif "CA" in title_upper or "CANADA" in title_upper or "CANADIAN" in title_upper:
                 return "ca"
-            elif title.startswith("ES"):
+            elif "ES" in title_upper or "SPAIN" in title_upper or "ESPAÑA" in title_upper or "ESPAÑOL" in title_upper:
                 return "es"
-            elif title.startswith("MX"):
+            elif "MX" in title_upper or "MEXICO" in title_upper or "MÉXICO" in title_upper:
                 return "mx"
-            elif title.startswith("AR"):
+            elif "AR" in title_upper or "ARGENTINA" in title_upper or "ARG" in title_upper:
                 return "ar"
-            elif title.startswith("BR"):
+            elif "BR" in title_upper or "BRAZIL" in title_upper or "BRASIL" in title_upper:
                 return "br"
-            elif title.startswith("FR"):
+            elif "FR" in title_upper or "FRANCE" in title_upper or "FRANÇAIS" in title_upper:
                 return "fr"
             else:
-                return "us"  # Default
-        
+                return "us"  # Default        
         # Función para determinar el tag basado en el group-title
         def get_tag(group_title):
             group_lower = group_title.lower()
