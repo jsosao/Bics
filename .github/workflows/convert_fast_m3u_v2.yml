@@ -1,4 +1,4 @@
-name: Converter Fast a paises M3U
+name: Converter Fast M3U
 
 on:
   schedule:
@@ -150,41 +150,41 @@ jobs:
             print(f"  Logo no encontrado para '{title}', usando default")
             return default_logo
         
-        # Función para determinar el país y nombre de archivo basado en el título
-        def get_country_and_filename(title):
-            title_upper = title.upper()
+        # Función para determinar el país y nombre de archivo basado en el group-title
+        def get_country_and_filename(group_title):
+            group_upper = group_title.upper()
             
-            # Detectar país por prefijo o contenido
-            if title.startswith("MX:") or "MEXICO" in title_upper or "MÉXICO" in title_upper:
+            # Detectar país por el group-title
+            if "MEXICO" in group_upper or "MÉXICO" in group_upper or "MX" in group_upper:
                 return "mx", "mx"
-            elif title.startswith("AR:") or title.startswith("ARG:") or "ARGENTINA" in title_upper or "ARGENTINO" in title_upper:
+            elif "ARGENTINA" in group_upper or "ARGENTINO" in group_upper or "ARG" in group_upper:
                 return "ar", "ar"
-            elif title.startswith("SP:") or title.startswith("ES:") or title.startswith("ESP:") or "ESPAÑA" in title_upper or "ESPAÑOL" in title_upper:
+            elif "ESPAÑA" in group_upper or "ESPAÑOL" in group_upper or "SPAIN" in group_upper or "ESP" in group_upper:
                 return "es", "sp"
-            elif title.startswith("US:") or title.startswith("USA:") or "UNITED STATES" in title_upper:
+            elif "USA" in group_upper or "UNITED STATES" in group_upper or "US" in group_upper:
                 return "us", "usa"
-            elif title.startswith("CL:") or "CHILE" in title_upper or "CHILENO" in title_upper:
+            elif "CHILE" in group_upper or "CHILENO" in group_upper:
                 return "cl", "cl"
-            elif title.startswith("PE:") or "PERÚ" in title_upper or "PERU" in title_upper or "PERUANO" in title_upper:
+            elif "PERÚ" in group_upper or "PERU" in group_upper or "PERUANO" in group_upper:
                 return "pe", "pe"
-            elif title.startswith("COL:") or "COLOMBIA" in title_upper or "COLOMBIANO" in title_upper:
+            elif "COLOMBIA" in group_upper or "COLOMBIANO" in group_upper:
                 return "co", "co"
-            elif title.startswith("BO:") or "BOLIVIA" in title_upper or "BOLIVIANO" in title_upper:
+            elif "BOLIVIA" in group_upper or "BOLIVIANO" in group_upper:
                 return "bo", "bo"
-            elif title.startswith("EC:") or "ECUADOR" in title_upper or "ECUATORIANO" in title_upper:
+            elif "ECUADOR" in group_upper or "ECUATORIANO" in group_upper:
                 return "ec", "ec"
-            elif title.startswith("VE:") or "VENEZUELA" in title_upper or "VENEZOLANO" in title_upper:
+            elif "VENEZUELA" in group_upper or "VENEZOLANO" in group_upper:
                 return "ve", "ve"
-            elif title.startswith("BR:") or "BRAZIL" in title_upper or "BRASIL" in title_upper:
+            elif "BRAZIL" in group_upper or "BRASIL" in group_upper:
                 return "br", "br"
-            elif title.startswith("CA:") or "CANADA" in title_upper or "CANADIAN" in title_upper or "CANADÁ" in title_upper:
+            elif "CANADA" in group_upper or "CANADIAN" in group_upper or "CANADÁ" in group_upper:
                 return "ca", "ca"
-            elif title.startswith("UK:") or "BBC" in title_upper or "BRITAIN" in title_upper:
+            elif "UK" in group_upper or "BRITAIN" in group_upper or "UNITED KINGDOM" in group_upper:
                 return "uk", "uk"
-            elif title.startswith("FR:") or "FRANCE" in title_upper or "FRANÇAIS" in title_upper:
+            elif "FRANCE" in group_upper or "FRANÇAIS" in group_upper:
                 return "fr", "fr"
             else:
-                return "us", "other"  # Default para streams sin país identificable
+                return "us", "other"  # Default para grupos sin país identificable
         
         # Función para determinar el tag basado en el group-title
         def get_tag(group_title):
@@ -276,8 +276,8 @@ jobs:
                     # Buscar el logo más apropiado (usando el título original)
                     best_logo = find_best_logo(original_title)
                     
-                    # Determinar país y nombre de archivo
-                    country, filename = get_country_and_filename(title)
+                    # Determinar país y nombre de archivo basado en group-title
+                    country, filename = get_country_and_filename(group_title)
                     
                     # Crear la entrada
                     entry = {
