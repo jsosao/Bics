@@ -124,10 +124,6 @@ jobs:
             skip_keywords = ["canales-adultos", "adultos", "adult","vod", "series"]
             if any(keyword in group_lower for keyword in skip_keywords):
                 return False
-
-            # Solo incluir grupos que contengan estas palabras clave
-            include_keywords = ["canales", "peliculas", "deportes", "noticias", "eventos"]
-                return any(keyword in group_lower for keyword in include_keywords)
         
         def escape_url(url):
             """Escapa la URL para el formato de salida."""
