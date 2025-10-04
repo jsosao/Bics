@@ -70,7 +70,7 @@ jobs:
                 'br': ['BRAZIL', 'BRASIL', 'BR', 'VIP_BR'],
                 'ca': ['CANADA', 'CANADÁ', 'CA'],
                 'uk': ['UK', 'BRITAIN', 'UNITED KINGDOM'],
-                'sports':['DEPORTES LATINOS','DEP', 'FUTBÓL'],
+                'sports':['DEPORTES LATINOS','DEP'],
                 'world': ['CINE','LA_FHD','ESPAÑA', 'SPAIN', 'ESP', 'ES', 'SP','DK', 'DENMARK', 'DINAMARCA','FRANCE', 'FRANÇAIS', 'FR'],
             }
             
@@ -235,7 +235,7 @@ jobs:
                 return "br", "br"
             elif "CANADA" in group_upper or "CANADÁ" in group_upper:
                 return "ca", "ca"
-            elif "DEPORTES LATINOS" in group_upper or "FUTBÓL" in group_upper:
+            elif "DEPORTES" in group_upper or "FUTBÓL" in group_upper:
                 return "sports", "sports"
             else:
                 return "world", "world"  # Default para grupos sin país identificable
