@@ -120,8 +120,8 @@ jobs:
             """Verifica si el grupo debe ser omitido."""
             group_lower = group_title.lower()
 
-            print(f"✓ Procesando: '{group_lower} ||||||||)
-            
+            print(f"✓ Procesando: '{group_lower}' ||||||||")
+                        
             # Palabras clave que indican grupos a omitir
             skip_keywords = ["canales-adultos", "adultos", "adult", "vod", "series", "estrenos", "novelas-mexicanas", "24/7"]
             if any(keyword in group_lower for keyword in skip_keywords):
