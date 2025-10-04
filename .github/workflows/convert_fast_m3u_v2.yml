@@ -88,6 +88,7 @@ jobs:
             # Eliminar caracteres especiales: |, •, », «
             title_clean = title_clean.replace('|', '')
             title_clean = title_clean.replace('-', '')            
+            title_clean = title_clean.replace('*', '')                        
             title_clean = title_clean.replace('•', '')
             title_clean = title_clean.replace(':', '')            
             title_clean = title_clean.replace('»', '')
@@ -207,31 +208,31 @@ jobs:
             group_upper = group_title.upper()
             
             # Detectar país por el group-title
-            if "MEXICO" in group_upper or "MÉXICO" in group_upper or "MX" in group_upper:
+            if "MEXICO" in group_upper or "MÉXICO" in group_upper or or "MÉXICO II" in group_upper or "MX" in group_upper:
                 return "mx", "mx"
-            elif "ARGENTINA" in group_upper or "ARGENTINO" in group_upper or "ARG" in group_upper:
+            elif "ARGENTINA" in group_upper or "ARG" in group_upper:
                 return "ar", "ar"
-            elif "ESPAÑA" in group_upper or "ESPAÑOL" in group_upper or "SPAIN" in group_upper or "ESP" in group_upper:
+            elif "ESPAÑA" in group_upper or "SPAIN" in group_upper or "ESP" in group_upper:
                 return "es", "sp"
             elif "USA" in group_upper or "UNITED STATES" in group_upper or "US" in group_upper:
                 return "us", "usa"
-            elif "CHILE" in group_upper or "CHILENO" in group_upper:
+            elif "CHILE" in group_upper :
                 return "cl", "cl"
             elif "GUATEMALA" in group_upper or "GUATEMALA" in group_upper:
                 return "gt", "gt"                
-            elif "PERÚ" in group_upper or "PERU" in group_upper or "PERUANO" in group_upper:
+            elif "PERÚ" in group_upper or "PERU" in group_upper :
                 return "pe", "pe"
-            elif "COLOMBIA" in group_upper or "COLOMBIANO" in group_upper:
+            elif "COLOMBIA" in group_upper :
                 return "co", "co"
-            elif "BOLIVIA" in group_upper or "BOLIVIANO" in group_upper:
+            elif "BOLIVIA" in group_upper :
                 return "bo", "bo"
-            elif "ECUADOR" in group_upper or "ECUATORIANO" in group_upper:
+            elif "ECUADOR" in group_upper :
                 return "ec", "ec"
-            elif "VENEZUELA" in group_upper or "VENEZOLANO" in group_upper:
+            elif "VENEZUELA" in group_upper :
                 return "ve", "ve"
             elif "BRAZIL" in group_upper or "BRASIL" in group_upper:
                 return "br", "br"
-            elif "CANADA" in group_upper or "CANADIAN" in group_upper or "CANADÁ" in group_upper:
+            elif "CANADA" in group_upper or "CANADÁ" in group_upper:
                 return "ca", "ca"
             else:
                 return "world", "world"  # Default para grupos sin país identificable
