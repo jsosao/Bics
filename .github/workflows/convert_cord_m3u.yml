@@ -386,7 +386,7 @@ jobs:
                         'Title': title,
                         'streamFormat': 'hls|mts',
                         'SwitchingStrategy': 'full-adaptation',
-                        'Logo': best_logo,
+                        'Logo': tvg_logo,                        
                         'Stream': escape_url(stream_url),
                         'Live': True,
                         'Country': get_country(title),
