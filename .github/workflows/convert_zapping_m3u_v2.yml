@@ -1,0 +1,429 @@
+name: Converter Zapping M3U
+
+on:
+  schedule:
+    - cron: '30 6 * * 4,5'  # Se ejecuta los jueves y viernes a las 6:30 AM UTC
+  workflow_dispatch:  # Permite ejecución manual
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+        
+    - name: Download and convert M3U file
+      run: |
+        cd $GITHUB_WORKSPACE
+        python3 << 'EOF'
+        import urllib.request
+        import urllib.parse
+        import re
+        import os
+        import json
+        import unicodedata
+
+        # URL del archivo M3U
+        url = "http://tv.zapping.life:8080/get.php?username=mayleenfunez1&password=135535683598&type=m3u_plus"
+        
+        # Descargar el archivo
+        print("Descargando archivo M3U...")
+        with urllib.request.urlopen(url) as response:
+            content = response.read().decode('utf-8')
+        
+        # Obtener lista de logos disponibles en el repositorio
+        print("Obteniendo lista de logos disponibles...")
+        github_api_url = "https://api.github.com/repos/jsosao/Bics/contents/picons"
+        
+        try:
+            with urllib.request.urlopen(github_api_url) as response:
+                picons_data = json.loads(response.read().decode('utf-8'))
+                available_logos_raw = {item['name'].lower(): urllib.parse.unquote(item['download_url']) 
+                                      for item in picons_data if item['type'] == 'file' and item['name'].endswith('.png')}
+            print(f"Se encontraron {len(available_logos_raw)} logos disponibles")
+        except Exception as e:
+            print(f"Error al obtener logos: {e}")
+            available_logos_raw = {}
+        
+        # Logo por defecto
+        default_logo = "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+
+        # ============================================================
+        # FUNCIONES DE NORMALIZACIÓN Y MATCHING MEJORADAS
+        # ============================================================
+        
+        def normalize_text(text):
+            """
+            Normaliza el texto removiendo acentos, convirtiendo a minúsculas
+            y eliminando caracteres especiales pero preservando espacios y números.
+            """
+            # Remover acentos
+            nfkd_form = unicodedata.normalize('NFKD', text)
+            text = ''.join([c for c in nfkd_form if not unicodedata.combining(c)])
+            
+            # Convertir a minúsculas
+            text = text.lower()
+            
+            # Remover caracteres especiales pero mantener letras, números y espacios
+            text = re.sub(r'[^a-z0-9\s]', '', text)
+            
+            # Limpiar espacios múltiples
+            text = re.sub(r'\s+', ' ', text).strip()
+            
+            return text
+
+        def extract_channel_base_and_number(channel_name):
+            """
+            Extrae el nombre base del canal y el número si existe.
+            Retorna: (nombre_base, numero)
+            
+            Ejemplos:
+            - "ESPN 1 MEX" -> ("espn", "1")
+            - "ESPN 2 COL" -> ("espn", "2")
+            - "FOX SPORTS" -> ("fox sports", None)
+            - "Discovery Channel HD" -> ("discovery channel", None)
+            """
+            normalized = normalize_text(channel_name)
+            
+            # Lista de sufijos comunes a remover
+            country_suffixes = [
+                'mex', 'mexico', 'mx', 'col', 'colombia', 'arg', 'argentina',
+                'chi', 'chile', 'per', 'peru', 'usa', 'us', 'lat', 'latino',
+                'latinoamerica', 'hd', 'fhd', '4k', 'uhd', 'sd', 'premium',
+                'plus', 'sur', 'norte', 'este', 'oeste', 'internacional',
+                'int', 'nacional'
+            ]
+            
+            # Remover sufijos de país/calidad
+            for suffix in country_suffixes:
+                normalized = re.sub(rf'\b{suffix}\b', '', normalized)
+            
+            normalized = normalized.strip()
+            
+            # Buscar patrón: nombre + número (puede tener texto después)
+            # Ejemplos: "espn 1", "espn 2 hd", "fox sports 3"
+            match = re.search(r'^(.+?)\s+(\d+)(?:\s+.*)?$', normalized)
+            if match:
+                base_name = match.group(1).strip()
+                number = match.group(2)
+                return (base_name, number)
+            
+            # Si no hay número, retornar el nombre completo
+            return (normalized, None)
+
+        def build_logo_index(logos_dict):
+            """
+            Construye un índice optimizado de logos para búsqueda rápida.
+            Retorna un diccionario con diferentes formas de buscar cada logo.
+            """
+            logo_index = {}
+            
+            for logo_filename, logo_url in logos_dict.items():
+                if logo_filename == 'no_logo.png':
+                    continue
+                
+                # Obtener nombre base del archivo (sin .png)
+                file_base = logo_filename.replace('.png', '')
+                
+                # Normalizar reemplazando guiones bajos por espacios
+                normalized_base = normalize_text(file_base.replace('_', ' '))
+                
+                # Verificar si tiene número en el formato: nombre_numero
+                match = re.match(r'^(.+?)_(\d+)$', file_base)
+                if match:
+                    # Logo con número (ej: espn_2.png)
+                    base_name = normalize_text(match.group(1).replace('_', ' '))
+                    number = match.group(2)
+                    
+                    # Indexar como: "nombre_numero" -> logo_url
+                    key_with_number = f"{base_name}_{number}"
+                    logo_index[key_with_number] = logo_url
+                    print(f"  Indexado logo con número: {key_with_number} -> {logo_filename}")
+                else:
+                    # Logo sin número (ej: espn.png)
+                    # Indexar como: "nombre" -> logo_url
+                    logo_index[normalized_base] = logo_url
+                    print(f"  Indexado logo base: {normalized_base} -> {logo_filename}")
+            
+            return logo_index
+
+        def find_best_logo_match(channel_name, logo_index):
+            """
+            Encuentra el mejor logo para un canal usando una estrategia de matching mejorada.
+            
+            Estrategia (en orden de prioridad):
+            1. Match exacto con nombre base + número
+            2. Match exacto con nombre base (sin número)
+            3. Match parcial por palabras clave con scoring
+            4. Fallback a logo por defecto
+            """
+            base_name, number = extract_channel_base_and_number(channel_name)
+            
+            print(f"\n  Buscando logo para: '{channel_name}'")
+            print(f"    → Base: '{base_name}', Número: {number}")
+            
+            # Estrategia 1: Match exacto con número
+            if number:
+                key_with_number = f"{base_name}_{number}"
+                if key_with_number in logo_index:
+                    print(f"    ✓ Match exacto con número: {key_with_number}")
+                    return logo_index[key_with_number]
+            
+            # Estrategia 2: Match exacto sin número
+            if base_name in logo_index:
+                print(f"    ✓ Match exacto base: {base_name}")
+                return logo_index[base_name]
+            
+            # Estrategia 3: Match parcial con scoring
+            base_words = set(base_name.split())
+            best_match = None
+            max_score = 0
+            
+            for logo_key, logo_url in logo_index.items():
+                # Extraer nombre base del logo (sin número si lo tiene)
+                logo_base = re.sub(r'_\d+$', '', logo_key)
+                logo_words = set(logo_base.split())
+                
+                # Calcular palabras en común
+                common_words = base_words & logo_words
+                
+                if common_words:
+                    # Score basado en la proporción de palabras coincidentes
+                    score = len(common_words) / max(len(base_words), len(logo_words))
+                    
+                    # Bonus: si la primera palabra coincide (muy importante)
+                    if base_words and logo_words:
+                        first_word_channel = list(base_words)[0] if len(list(base_words)) > 0 else ""
+                        first_word_logo = list(logo_words)[0] if len(list(logo_words)) > 0 else ""
+                        if first_word_channel == first_word_logo:
+                            score += 0.5
+                    
+                    # Bonus: si todas las palabras del logo están en el canal
+                    if logo_words.issubset(base_words):
+                        score += 0.3
+                    
+                    if score > max_score:
+                        max_score = score
+                        best_match = (logo_key, logo_url)
+            
+            # Solo usar match parcial si el score es suficientemente alto (>=0.5)
+            if best_match and max_score >= 0.5:
+                print(f"    ✓ Match parcial: {best_match[0]} (score: {max_score:.2f})")
+                return best_match[1]
+            
+            # Estrategia 4: Logo por defecto
+            print(f"    ✗ No se encontró logo, usando default")
+            return default_logo
+
+        # ============================================================
+        # FUNCIONES AUXILIARES ORIGINALES
+        # ============================================================
+
+        def clean_title(title):
+            """Limpia el título de prefijos no deseados."""
+            # Eliminar prefijos específicos
+            prefixes_to_remove = ["CINE - ", "DEPORTES - ", "CINE -", "DEPORTES -", 
+                                 "DOC-", "NOV-", "MUS-", "INF-"]
+            
+            for prefix in prefixes_to_remove:
+                if prefix in title:
+                    title = title.replace(prefix, "").strip()
+            
+            # Eliminar todo lo que esté dentro de paréntesis
+            title = re.sub(r'\([^)]*\)', '', title)
+            
+            # Limpiar espacios múltiples
+            title = re.sub(r'\s+', ' ', title).strip()
+            
+            return title
+        
+        def get_country(title):
+            """Determina el país basado en el título."""
+            title_upper = title.upper()
+            if title.startswith("AU"):
+                return "au"
+            elif title.startswith("UK") or "BBC" in title_upper:
+                return "uk"
+            elif title.startswith("US"):
+                return "us"
+            elif title.startswith("CA"):
+                return "ca"
+            elif title.startswith("ES"):
+                return "es"
+            elif title.startswith("MX"):
+                return "mx"
+            elif title.startswith("AR"):
+                return "ar"
+            elif title.startswith("BR"):
+                return "br"
+            elif title.startswith("FR"):
+                return "fr"
+            else:
+                return "us"  # Default
+        
+        def get_tag(group_title):
+            """Determina el tag basado en el group-title."""
+            group_lower = group_title.lower()
+            if "sport" in group_lower or "deporte" in group_lower:
+                return "Sports"
+            elif "radio" in group_lower:
+                return "Radio"
+            elif "news" in group_lower or "noticias" in group_lower:
+                return "News"
+            elif "movie" in group_lower or "film" in group_lower or "peliculas" in group_lower or "cine" in group_lower:
+                return "Movies"
+            elif "series" in group_lower or "tv show" in group_lower:
+                return "Series"
+            elif "music" in group_lower or "musica" in group_lower:
+                return "Music"
+            elif "doc" in group_lower:
+                return "Documentary"
+            else:
+                return "General"
+        
+        def should_include_group(group_title):
+            """Verifica si el grupo debe ser incluido."""
+            group_lower = group_title.lower()
+
+            # Primero verificar si contiene palabras a excluir
+            exclude_keywords = ["canales-adultos", "adultos", "adult"]
+            if any(keyword in group_lower for keyword in exclude_keywords):
+                return False
+                
+            # Solo incluir grupos que contengan estas palabras clave
+            include_keywords = ["canales", "peliculas", "deportes", "noticias", "series"]
+            return any(keyword in group_lower for keyword in include_keywords)
+        
+        def escape_url(url):
+            """Escapa la URL para el formato de salida."""
+            url = url.replace("http://", "http[:[/][/]]")
+            url = url.replace("https://", "https[:[/][/]]")
+            url = url.replace(".", "[.]")
+            url = url.replace("/", "[/]")
+            return url
+
+        # ============================================================
+        # PROCESAMIENTO PRINCIPAL
+        # ============================================================
+        
+        # Construir índice de logos
+        print("\n" + "="*60)
+        print("CONSTRUYENDO ÍNDICE DE LOGOS")
+        print("="*60)
+        logo_index = build_logo_index(available_logos_raw)
+        print(f"\nÍndice construido con {len(logo_index)} entradas")
+        
+        # Parsear el archivo M3U
+        print("\n" + "="*60)
+        print("PROCESANDO CANALES")
+        print("="*60)
+        
+        lines = content.strip().split('\n')
+        entries = []
+        skipped_count = 0
+        
+        i = 0
+        while i < len(lines):
+            line = lines[i].strip()
+            
+            if line.startswith('#EXTINF:'):
+                # Extraer información de la línea EXTINF
+                tvg_name_match = re.search(r'tvg-name="([^"]*)"', line)
+                tvg_logo_match = re.search(r'tvg-logo="([^"]*)"', line)
+                group_title_match = re.search(r'group-title="([^"]*)"', line)
+                
+                # El título está al final de la línea después de la última coma
+                title_match = re.search(r',(.*)$', line)
+                
+                tvg_name = tvg_name_match.group(1) if tvg_name_match else ""
+                tvg_logo = tvg_logo_match.group(1) if tvg_logo_match else ""
+                group_title = group_title_match.group(1) if group_title_match else ""
+                title = title_match.group(1).strip() if title_match else tvg_name
+                
+                # Limpiar el título de prefijos no deseados
+                title = clean_title(title)
+                
+                # La siguiente línea debe ser la URL del stream
+                i += 1
+                if i < len(lines):
+                    stream_url = lines[i].strip()
+                    
+                    # Solo incluir grupos que cumplan con los criterios
+                    if not should_include_group(group_title):
+                        print(f"⊗ Omitiendo: '{title}' | Grupo: '{group_title}'")
+                        skipped_count += 1
+                        i += 1
+                        continue
+                    
+                    print(f"\n▶ Procesando: '{title}' | Grupo: '{group_title}'")
+                    
+                    # Buscar el logo más apropiado con el nuevo sistema
+                    best_logo = find_best_logo_match(title, logo_index)
+                    
+                    # Crear la entrada
+                    entry = {
+                        'Artist': 'Zapping',
+                        'Title': title,
+                        'streamFormat': 'hls|mts',
+                        'SwitchingStrategy': 'full-adaptation',
+                        'Logo': best_logo,
+                        'Stream': escape_url(stream_url),
+                        'Live': True,
+                        'Country': get_country(title),
+                        'Tag': get_tag(group_title)
+                    }
+                    entries.append(entry)
+            
+            i += 1
+        
+        # Generar el archivo de salida
+        output_lines = []
+        for entry in entries:
+            output_lines.append('{')
+            output_lines.append(f'    Artist: "{entry["Artist"]}"')
+            output_lines.append(f'    Title: "{entry["Title"]}"')
+            output_lines.append(f'    streamFormat: "{entry["streamFormat"]}"')
+            output_lines.append(f'    SwitchingStrategy: "{entry["SwitchingStrategy"]}"')
+            output_lines.append(f'    Logo: "{entry["Logo"]}"')
+            output_lines.append(f'    Stream: "{entry["Stream"]}"')
+            output_lines.append(f'    Live: {str(entry["Live"]).lower()}')
+            output_lines.append(f'    Country: "{entry["Country"]}"')
+            output_lines.append(f'    Tag: "{entry["Tag"]}"')
+            output_lines.append('}')
+        
+        output_content = '\n'.join(output_lines)
+        
+        # Guardar el archivo sin extensión
+        output_path = "country/others/zapping"
+        
+        with open(output_path, 'w', encoding='utf-8') as f:
+            f.write(output_content)
+        
+        # Estadísticas finales
+        logos_default = sum(1 for e in entries if e['Logo'] == default_logo)
+        logos_found = len(entries) - logos_default
+        
+        print("\n" + "="*60)
+        print("RESUMEN FINAL")
+        print("="*60)
+        print(f"Archivo guardado en: {output_path}")
+        print(f"Total de canales procesados: {len(entries)}")
+        print(f"Total de canales omitidos: {skipped_count}")
+        print(f"Logos encontrados: {logos_found} ({logos_found*100//len(entries) if entries else 0}%)")
+        print(f"Logos default: {logos_default} ({logos_default*100//len(entries) if entries else 0}%)")
+        print("="*60)
+        EOF
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add country/others/zapping
+        git diff --staged --quiet || git commit -m "Update zapping - $(date +'%Y-%m-%d %H:%M:%S')"
+        git push
