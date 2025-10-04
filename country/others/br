@@ -1,6 +1,6 @@
 {
     Artist: "Fast"
-    Title: "VIP_BR:GLOBO BRASILIA HD"
+    Title: "GLOBO BRASILIA HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_globo.png"
@@ -11,7 +11,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:A&E HD"
+    Title: "A&E HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_a&e.png"
@@ -22,7 +22,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:ANIMAL PLANET HD"
+    Title: "ANIMAL PLANET HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_animal_planet.png"
@@ -33,7 +33,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:AXN HD"
+    Title: "AXN HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_axn.png"
@@ -44,7 +44,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:BAND HD"
+    Title: "BAND HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -55,7 +55,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:BAND NEWS HD"
+    Title: "BAND NEWS HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -66,7 +66,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:BAND SPORTS HD"
+    Title: "BAND SPORTS HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -77,7 +77,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:BIS HD"
+    Title: "BIS HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -88,7 +88,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:CARTOONITO HD"
+    Title: "CARTOONITO HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoonito.png"
@@ -99,10 +99,10 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:CANAL HD"
+    Title: "CANAL HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_caracol_internacional.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]27139"
     Live: true
     Country: "br"
@@ -110,7 +110,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:CARTOON NETWORK HD"
+    Title: "CARTOON NETWORK HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoon_network.png"
@@ -121,7 +121,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:CINEMAX HD"
+    Title: "CINEMAX HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cinemax.png"
@@ -132,7 +132,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:COMEDY CENTRAL HD"
+    Title: "COMEDY CENTRAL HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_comedy_central.png"
@@ -143,10 +143,10 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:DISCOVERY CH. HD"
+    Title: "DISCOVERY CH. HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_rdi.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_channel.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]27145"
     Live: true
     Country: "br"
@@ -154,10 +154,10 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:DISCOVERY CIVILIZATION HD"
+    Title: "DISCOVERY CIVILIZATION HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_rdi.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ion.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]27146"
     Live: true
     Country: "br"
@@ -165,7 +165,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:DISCOVERY H&H HD"
+    Title: "DISCOVERY H&H HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_h&h.png"
@@ -176,7 +176,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:DISCOVERY ID HD"
+    Title: "DISCOVERY ID HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_id.png"
@@ -187,7 +187,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:DISCOVERY KIDS HD"
+    Title: "DISCOVERY KIDS HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_kids.png"
@@ -198,7 +198,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:DISCOVERY SCIENCE HD"
+    Title: "DISCOVERY SCIENCE HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_science.png"
@@ -209,10 +209,10 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:DISCOVERY THEATHER HD"
+    Title: "DISCOVERY THEATHER HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_rdi.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]27151"
     Live: true
     Country: "br"
@@ -220,7 +220,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:DISCOVERY TURBO HD"
+    Title: "DISCOVERY TURBO HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_turbo.png"
@@ -231,7 +231,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:DISCOVERY WORLD HD"
+    Title: "DISCOVERY WORLD HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_world.png"
@@ -242,7 +242,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:DISNEY CHANNEL HD"
+    Title: "DISNEY CHANNEL HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_channel.png"
@@ -253,10 +253,10 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:DISNEY JUNIOR HD"
+    Title: "DISNEY JUNIOR HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_rdi.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]27155"
     Live: true
     Country: "br"
@@ -264,10 +264,10 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:E! HD"
+    Title: "E! HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_caracol_internacional.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]27156"
     Live: true
     Country: "br"
@@ -275,7 +275,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:ESPN 2 HD"
+    Title: "ESPN 2 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_2.png"
@@ -286,10 +286,10 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:ESPN HD"
+    Title: "ESPN HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_deportes.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]27158"
     Live: true
     Country: "br"
@@ -297,10 +297,10 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:ESPN EXTRA HD"
+    Title: "ESPN EXTRA HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]27159"
     Live: true
     Country: "br"
@@ -308,10 +308,10 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:ESPN HD"
+    Title: "ESPN HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_deportes.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]27160"
     Live: true
     Country: "br"
@@ -319,7 +319,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:FISH TV HD"
+    Title: "FISH TV HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -330,7 +330,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:Star Channel HD"
+    Title: "Star Channel HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_star_channel.png"
@@ -341,7 +341,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:Star Life HD"
+    Title: "Star Life HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -352,7 +352,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:FOX PREMIUM 1 HD"
+    Title: "FOX PREMIUM 1 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox.png"
@@ -363,7 +363,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:FOX PREMIUM 2 HD"
+    Title: "FOX PREMIUM 2 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox.png"
@@ -374,7 +374,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:FOX SPORTS 2 HD"
+    Title: "FOX SPORTS 2 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_fox_sports_2.png"
@@ -385,7 +385,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:FOX SPORTS HD"
+    Title: "FOX SPORTS HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_fox_sports.png"
@@ -396,7 +396,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:FUTURA HD"
+    Title: "FUTURA HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -407,7 +407,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:FX HD"
+    Title: "FX HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fx.png"
@@ -418,7 +418,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:GLOBO NEWS HD"
+    Title: "GLOBO NEWS HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_globo_news.png"
@@ -429,7 +429,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:GLOBO RIO HD"
+    Title: "GLOBO RIO HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_globo.png"
@@ -440,7 +440,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:GLOBO SP HD"
+    Title: "GLOBO SP HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_globo.png"
@@ -451,7 +451,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:GLOOB HD"
+    Title: "GLOOB HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -462,7 +462,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:GNT HD"
+    Title: "GNT HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -473,7 +473,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:HBO 2 HD"
+    Title: "HBO 2 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_2.png"
@@ -484,7 +484,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:HBO FAMILY HD"
+    Title: "HBO FAMILY HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_family.png"
@@ -495,7 +495,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:HBO HD"
+    Title: "HBO HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png"
@@ -506,7 +506,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:HBO SIGNATURE HD"
+    Title: "HBO SIGNATURE HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_signature.png"
@@ -517,7 +517,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:HISTORY 2 HD"
+    Title: "HISTORY 2 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_2.png"
@@ -528,10 +528,10 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:HISTORY HD"
+    Title: "HISTORY HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_military_history.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]27180"
     Live: true
     Country: "br"
@@ -539,7 +539,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:LIFETIME HD"
+    Title: "LIFETIME HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_lifetime.png"
@@ -550,7 +550,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:MAIS GLOBOSAT HD"
+    Title: "MAIS GLOBOSAT HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_globo.png"
@@ -561,10 +561,10 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:MAX HD"
+    Title: "MAX HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cinemax_moremax.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]27183"
     Live: true
     Country: "br"
@@ -572,7 +572,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:MAX PRIME HD"
+    Title: "MAX PRIME HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -583,7 +583,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:MAX UP HD"
+    Title: "MAX UP HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -594,7 +594,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:MEGAPIX HD"
+    Title: "MEGAPIX HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -605,7 +605,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:MULTISHOW HD"
+    Title: "MULTISHOW HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -616,7 +616,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:NAT GEO KIDS HD"
+    Title: "NAT GEO KIDS HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo.png"
@@ -627,7 +627,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:NAT GEO WILD HD"
+    Title: "NAT GEO WILD HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo_wild.png"
@@ -638,7 +638,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:NATIONAL GEOGRAPHIC HD"
+    Title: "NATIONAL GEOGRAPHIC HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ion.png"
@@ -649,7 +649,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:NICK JR HD"
+    Title: "NICK JR HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nick_jr.png"
@@ -660,7 +660,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:NICKELODEON HD"
+    Title: "NICKELODEON HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nickelodeon.png"
@@ -671,7 +671,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:OFF HD"
+    Title: "OFF HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -682,10 +682,10 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:PARAMOUNT HD"
+    Title: "PARAMOUNT HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_paramount_network.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]27194"
     Live: true
     Country: "br"
@@ -693,7 +693,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:PREMIERE 8 HD"
+    Title: "PREMIERE 8 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_premiere.png"
@@ -704,7 +704,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:PRIME BOX HD"
+    Title: "PRIME BOX HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -715,7 +715,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:RECORD HD"
+    Title: "RECORD HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -726,7 +726,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:RECORD NEWS HD"
+    Title: "RECORD NEWS HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -737,7 +737,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:REDE VIDA HD"
+    Title: "REDE VIDA HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -748,10 +748,10 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:SONY HD"
+    Title: "SONY HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sony_movies.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]27200"
     Live: true
     Country: "br"
@@ -759,7 +759,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:SPACE HD"
+    Title: "SPACE HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_space.png"
@@ -770,7 +770,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:SPORTV 2 HD"
+    Title: "SPORTV 2 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_sportv_2.png"
@@ -781,7 +781,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:SPORTV 3 HD"
+    Title: "SPORTV 3 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_sportv_3.png"
@@ -792,7 +792,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:SPORTV HD"
+    Title: "SPORTV HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_sportv.png"
@@ -803,7 +803,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:STUDIO UNIVERSAL HD"
+    Title: "STUDIO UNIVERSAL HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal.png"
@@ -814,7 +814,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:SYFY HD"
+    Title: "SYFY HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_syfy.png"
@@ -825,7 +825,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:TBS HD"
+    Title: "TBS HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tbs.png"
@@ -836,7 +836,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:TELECINE ACTION HD"
+    Title: "TELECINE ACTION HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ion.png"
@@ -847,7 +847,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:TELECINE CULT HD"
+    Title: "TELECINE CULT HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -858,7 +858,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:TELECINE FUN HD"
+    Title: "TELECINE FUN HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -869,7 +869,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:TELECINE PIPOCA HD"
+    Title: "TELECINE PIPOCA HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -880,7 +880,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:TELECINE PREMIUM HD"
+    Title: "TELECINE PREMIUM HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -891,7 +891,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:TELECINE TOUCH HD"
+    Title: "TELECINE TOUCH HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -902,7 +902,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:TLC HD"
+    Title: "TLC HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tlc.png"
@@ -913,7 +913,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:TNT HD"
+    Title: "TNT HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tnt.png"
@@ -924,7 +924,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:TNT SERIES HD"
+    Title: "TNT SERIES HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tnt_series.png"
@@ -935,7 +935,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:TOONCAST HD"
+    Title: "TOONCAST HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tooncast.png"
@@ -946,10 +946,10 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:TV HD"
+    Title: "TV HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pe_tvpe_noticias_intl.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]27218"
     Live: true
     Country: "br"
@@ -957,7 +957,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:TV CÂMARA HD"
+    Title: "TV CÂMARA HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -968,7 +968,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:TV CULTURA HD"
+    Title: "TV CULTURA HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -979,7 +979,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:TV GAZETA HD"
+    Title: "TV GAZETA HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -990,7 +990,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:VIVA HD"
+    Title: "VIVA HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1001,10 +1001,10 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:WARNER HD"
+    Title: "WARNER HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_warner_tv.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]27223"
     Live: true
     Country: "br"
@@ -1012,7 +1012,7 @@
 }
 {
     Artist: "Fast"
-    Title: "VIP_BR:WOOHOO HD"
+    Title: "WOOHOO HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"

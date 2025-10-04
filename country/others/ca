@@ -759,10 +759,10 @@
 }
 {
     Artist: "Fast"
-    Title: "CTV Sci-Fi Channel"
+    Title: "CTV SciFi Channel"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_scifi.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]254735"
     Live: true
     Country: "ca"
