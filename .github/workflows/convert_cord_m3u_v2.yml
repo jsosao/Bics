@@ -311,7 +311,7 @@ jobs:
             """Verifica si el grupo debe ser omitido."""
             group_lower = group_title.lower()
             # Palabras clave que indican grupos a omitir
-            skip_keywords = ["radio", "serie", "movie", "extra", "peliculas", "adult","romance","horror","family","science fiction","comedy"]
+            skip_keywords = ["radio", "serie", "movie", "extra", "peliculas", "adult","romance","horror","family","science fiction","comedy","24/7"]
             return any(keyword in group_lower for keyword in skip_keywords)
         
         def escape_url(url):
