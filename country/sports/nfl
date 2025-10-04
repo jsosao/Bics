@@ -50,7 +50,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_thursday.png"
     Stream: "http[:[/][/]]cord-cutter.net:8080[/]bn80NG[/]909467[/]221666"
-
     Live: true
 }
 {
@@ -82,7 +81,7 @@
 }
 {
     Artist: "Cord"
-    Title: "NFL"
+    Title: "(OFF) NFL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket_2.png"
@@ -505,7 +504,7 @@
 }
 {
     Artist: "web"
-    Title: "GAME PASS 01"
+    Title: "(OFF) GAME PASS 01"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_gamepass.png"
@@ -514,7 +513,7 @@
 }
 {
     Artist: "web"
-    Title: "GAME PASS 02"
+    Title: "(OFF) GAME PASS 02"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_gamepass.png"
