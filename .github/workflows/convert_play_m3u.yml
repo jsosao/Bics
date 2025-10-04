@@ -1,4 +1,4 @@
-name: Play M3U Converter v4
+name: Converter Play M3U
 
 on:
   schedule:
@@ -120,17 +120,10 @@ jobs:
             """Verifica si el grupo debe ser omitido."""
             group_lower = group_title.lower()
 
-           ## Palabras clave que indican grupos a omitir
-           # skip_keywords = ["canales-adultos", "adultos", "adult", "vod", "series", "estrenos", "novelas", "24/7"]
-           # if any(keyword in group_lower for keyword in skip_keywords):
-           #     return any(keyword in group_lower for keyword in skip_keywords)
-
-           # include_keywords = ["canales", "canales de peliculas"]
-           #   return any(keyword in group_lower for keyword in include_keywords)
-
-            include_keywords = ["canales", "canales de peliculas"]
-            return not any(keyword in group_lower for keyword in include_keywords)
-                
+           # Palabras clave que indican grupos a omitir
+            skip_keywords = ["canales-adultos", "adultos", "adult", "vod", "series", "estrenos", "novelas", "24/7"]
+            if any(keyword in group_lower for keyword in skip_keywords):
+                return any(keyword in group_lower for keyword in skip_keywords)
         
         def escape_url(url):
             """Escapa la URL para el formato de salida."""
