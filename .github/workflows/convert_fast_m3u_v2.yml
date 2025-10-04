@@ -58,20 +58,20 @@ jobs:
             # Mapeo de códigos de país a palabras que deben eliminarse
             country_keywords = {
                 'mx': ['MEXICO', 'MEX', 'MX', 'LA_HD_MEX2', 'LA_SD_MEX', 'LA_SD_MEX2', 'LA_MEX'],
-                'ar': ['ARGENTINA', 'ARGENTINO', 'ARG', 'AR', 'ARG_HD:'],
+                'ar': ['ARGENTINA', 'ARG', 'AR', 'ARG_HD:'],
                 'gt': ['GUATEMALA', 'GT'],
                 'usa': ['USA', 'US', 'UNITED STATES','US_HD'],
-                'cl': ['CHILE', 'CHILENO', 'CL'],
-                'pe': ['PERÚ', 'PERU', 'PERUANO'],
-                'co': ['COLOMBIA', 'COLOMBIANO', 'COL', 'CO'],
-                'bo': ['BOLIVIA', 'BOLIVIANO', 'BO'],
-                'ec': ['ECUADOR', 'ECUATORIANO', 'EC'],
-                've': ['VENEZUELA', 'VENEZOLANO', 'VE'],
-                'br': ['BRAZIL', 'BRASIL', 'BRASILEIRO', 'BR', 'VIP_BR'],
-                'ca': ['CANADA', 'CANADIAN', 'CANADÁ', 'CA'],
+                'cl': ['CHILE', 'CL'],
+                'pe': ['PERÚ', 'PERU'],
+                'co': ['COLOMBIA', 'COL', 'CO'],
+                'bo': ['BOLIVIA', 'BO'],
+                'ec': ['ECUADOR', 'ECU', 'EC'],
+                've': ['VENEZUELA', 'VE'],
+                'br': ['BRAZIL', 'BRASIL', 'BR', 'VIP_BR'],
+                'ca': ['CANADA', 'CANADÁ', 'CA'],
                 'uk': ['UK', 'BRITAIN', 'UNITED KINGDOM'],
                 'sports':['DEPORTES LATINOS','DEP'],
-                'world': ['CINE','LA_FHD','ESPAÑA', 'ESPAÑOL', 'SPAIN', 'ESP', 'ES', 'SP','DK', 'DENMARK', 'DINAMARCA','FRANCE', 'FRANÇAIS', 'FR'],
+                'world': ['CINE','LA_FHD','ESPAÑA', 'SPAIN', 'ESP', 'ES', 'SP','DK', 'DENMARK', 'DINAMARCA','FRANCE', 'FRANÇAIS', 'FR'],
             }
             
             # Obtener las palabras clave para el país actual
