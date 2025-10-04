@@ -184,11 +184,11 @@ jobs:
                     if tvg_logo and tvg_logo.strip():
                         final_logo = tvg_logo
                         logos_with_value += 1
-                        print(f"✓ Procesando: '{title}' | Logo: {tvg_logo}")
+                        print(f"✓ Procesando: '{title}' | Logo: {group_title} | Logo: {tvg_logo}")
                     else:
                         final_logo = default_logo
                         logos_default += 1
-                        print(f"⚠ Procesando: '{title}' | Logo: no_logo.png (sin tvg-logo)")
+                        print(f"⚠ Procesando: '{title}' | Logo: {group_title} | Logo: {tvg_logo}")
                     
                     # Crear la entrada
                     entry = {
