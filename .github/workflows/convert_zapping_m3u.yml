@@ -89,7 +89,7 @@ jobs:
             # Limpiar el título para búsqueda
             title_clean = title.lower()
             # Remover prefijos de país
-            title_clean = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr)[\s:-]*', '', title_clean)
+            title_clean = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr|col|arg|mex)[\s:-]*', '', title_clean)
             # Remover solo algunos caracteres especiales, MANTENER &, +, y otros comunes en nombres de canales
             title_search = re.sub(r'[^\w\s&+\-]', '', title_clean).strip()
             ## Reemplazar espacios por guiones bajos para coincidir con formato de logos
@@ -106,7 +106,7 @@ jobs:
             for logo_name in available_logos:
                 logo_base = logo_name.replace('.png', '')
                 # Remover prefijo de país del logo también
-                logo_base_no_country = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr)_', '', logo_base)
+                logo_base_no_country = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr|col|arg|mex)_', '', logo_base)
                 if title_search == logo_base_no_country:
                     print(f"  Logo encontrado (sin país): {logo_name}")
                     return available_logos[logo_name]
@@ -117,7 +117,7 @@ jobs:
             
             for logo_name in available_logos:
                 logo_base = logo_name.replace('.png', '')
-                logo_base_no_country = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr)_', '', logo_base)
+                logo_base_no_country = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr|col|arg|mex)_', '', logo_base)
                 logo_normalized = logo_base_no_country.replace('_', ' ')
                 
                 # Si el título contiene el logo completo o viceversa
@@ -137,7 +137,7 @@ jobs:
                 main_word = words[0]
                 for logo_name in available_logos:
                     logo_base = logo_name.replace('.png', '')
-                    logo_base_no_country = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr)_', '', logo_base)
+                    logo_base_no_country = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr|col|arg|mex)_', '', logo_base)
                     if main_word == logo_base_no_country or logo_base_no_country == main_word:
                         print(f"  Logo encontrado (palabra única): {logo_name}")
                         return available_logos[logo_name]
