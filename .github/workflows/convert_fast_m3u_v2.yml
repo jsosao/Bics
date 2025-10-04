@@ -209,7 +209,9 @@ jobs:
             group_upper = group_title.upper()
             
             # Detectar país por el group-title
-            if "MEXICO" in group_upper or "MÉXICO" in group_upper or "MÉXICO II" in group_upper or "MX" in group_upper:
+            if "DEPORTES" in group_upper or "FUTBÓL" in group_upper or "FÚTBOL" in group_upper:
+                return "sports", "sports"            
+            elif  "MEXICO" in group_upper or "MÉXICO" in group_upper or "MÉXICO II" in group_upper or "MX" in group_upper:
                 return "mx", "mx"
             elif "ARGENTINA" in group_upper or "ARG" in group_upper:
                 return "ar", "ar"
@@ -235,8 +237,6 @@ jobs:
                 return "br", "br"
             elif "CANADA" in group_upper or "CANADÁ" in group_upper:
                 return "ca", "ca"
-            elif "DEPORTES" in group_upper or "FUTBÓL" in group_upper or "FÚTBOL" in group_upper:
-                return "sports", "sports"
             elif "ENTRETENIMIENTO" in group_upper:
                 return "enter", "enter"
             elif "INFANTILES" in group_upper:
