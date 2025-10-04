@@ -21,8 +21,6 @@ jobs:
     - name: Download and convert M3U file
       env:
         M3U_URL: ${{ secrets.CORD_M3U_URL }}
-        
-    - name: Download and convert M3U file
       run: |
         cd $GITHUB_WORKSPACE
         python3 << 'EOF'
