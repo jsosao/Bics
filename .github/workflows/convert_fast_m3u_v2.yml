@@ -57,7 +57,7 @@ jobs:
         def clean_title_for_country(title, country_code):
             # Mapeo de códigos de país a palabras que deben eliminarse
             country_keywords = {
-                'mx': ['MEXICO', 'MEX', 'MX', 'LA_HD_MEX','LA_HD_MEX2', ':', '-'],
+                'mx': ['MEXICO', 'MEX', 'MX', 'LA_MEX-', 'LA_SD_MEX-', 'LA_SD_MEX2', 'LA_HD_MEX2-', ':', '-'],
                 'ar': ['ARGENTINA', 'ARGENTINO', 'ARG', 'AR', 'ARG_HD:', '*', ':', '-'],
                 'gt': ['GUATEMALA', 'GT', '*', ':', '-'],
                 'usa': ['USA', 'US', 'UNITED STATES', '*', ':', '-'],
