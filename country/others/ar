@@ -11,7 +11,7 @@
 }
 {
     Artist: "Fast"
-    Title: "Argentina - 13 Max HD"
+    Title: "- 13 Max HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -22,7 +22,7 @@
 }
 {
     Artist: "Fast"
-    Title: "Argentina - A24 HD"
+    Title: "- A24 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -33,7 +33,7 @@
 }
 {
     Artist: "Fast"
-    Title: "Argentina - America FHD"
+    Title: "- America FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -44,7 +44,7 @@
 }
 {
     Artist: "Fast"
-    Title: "Argentina - America HD"
+    Title: "- America HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -55,7 +55,7 @@
 }
 {
     Artist: "Fast"
-    Title: "Argentina - Argentinisima SD"
+    Title: "- Argentinisima SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -66,7 +66,7 @@
 }
 {
     Artist: "Fast"
-    Title: "Argentina - C5N SD"
+    Title: "- C5N SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_c5n.png"
@@ -77,7 +77,7 @@
 }
 {
     Artist: "Fast"
-    Title: "Argentina - Canal 26 HD"
+    Title: "- Canal 26 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -88,7 +88,7 @@
 }
 {
     Artist: "Fast"
-    Title: "Argentina - CineAR HD"
+    Title: "- CineAR HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -99,7 +99,7 @@
 }
 {
     Artist: "Fast"
-    Title: "Argentina - Cronica TV SD"
+    Title: "- Cronica TV SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -110,7 +110,7 @@
 }
 {
     Artist: "Fast"
-    Title: "Argentina - El Nueve HD"
+    Title: "- El Nueve HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -121,7 +121,7 @@
 }
 {
     Artist: "Fast"
-    Title: "Argentina - El Trece HD"
+    Title: "- El Trece HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -132,7 +132,7 @@
 }
 {
     Artist: "Fast"
-    Title: "Argentina - El Trece SD"
+    Title: "- El Trece SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -143,7 +143,7 @@
 }
 {
     Artist: "Fast"
-    Title: "Argentina - TV Publica FHD"
+    Title: "- TV Publica FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -154,7 +154,7 @@
 }
 {
     Artist: "Fast"
-    Title: "Argentina - TV Publica HD"
+    Title: "- TV Publica HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -165,7 +165,7 @@
 }
 {
     Artist: "Fast"
-    Title: "Argentina - Fox Sports Premium HQ."
+    Title: "- Fox Sports Premium HQ."
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_premium.png"
@@ -176,7 +176,7 @@
 }
 {
     Artist: "Fast"
-    Title: "AR | TN"
+    Title: "TN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_tnt_sports_premium.png"
@@ -187,10 +187,10 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: TN HD"
+    Title: "TN HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_tnt_sports_premium.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]16397"
     Live: true
     Country: "ar"
@@ -198,10 +198,10 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: TN SD"
+    Title: "TN SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_tnt_sports_premium.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]16477"
     Live: true
     Country: "ar"
@@ -209,7 +209,7 @@
 }
 {
     Artist: "Fast"
-    Title: "Argentina - Telefe SD"
+    Title: "- Telefe SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_telefe.png"
@@ -220,7 +220,7 @@
 }
 {
     Artist: "Fast"
-    Title: "Argentina - Telefe HD"
+    Title: "- Telefe HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_telefe.png"
@@ -231,7 +231,7 @@
 }
 {
     Artist: "Fast"
-    Title: "Argentina|| TELEFE HD"
+    Title: "TELEFE HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_telefe.png"
@@ -242,7 +242,7 @@
 }
 {
     Artist: "Fast"
-    Title: "Argentina|| Telefe FHD *"
+    Title: "Telefe FHD *"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_telefe.png"
@@ -253,7 +253,7 @@
 }
 {
     Artist: "Fast"
-    Title: "Argentina|| Telefe"
+    Title: "Telefe"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_telefe.png"
@@ -264,7 +264,7 @@
 }
 {
     Artist: "Fast"
-    Title: "Argentina|| TELEFE :)"
+    Title: "TELEFE :)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_telefe.png"
@@ -286,7 +286,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: Telefe HD"
+    Title: "Telefe HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_telefe.png"
@@ -297,7 +297,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: Telefe HD"
+    Title: "Telefe HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_telefe.png"
@@ -308,7 +308,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG | AMÃ©RICA TV"
+    Title: "AMÃ©RICA TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -319,7 +319,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: America TV HD"
+    Title: "America TV HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_america_tv.png"
@@ -330,7 +330,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: America TV FHD"
+    Title: "America TV FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_america_tv.png"
@@ -341,7 +341,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG | 5RTV SANTA FE"
+    Title: "5RTV SANTA FE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -352,7 +352,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG | 5RTV SANTA FE"
+    Title: "5RTV SANTA FE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -363,7 +363,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG | 5TV CORRIENTES"
+    Title: "5TV CORRIENTES"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -374,7 +374,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG | 5TV"
+    Title: "5TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -385,10 +385,10 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG | CANAL 26 FHD"
+    Title: "CANAL 26 FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_ags_canal_26.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]61558"
     Live: true
     Country: "ar"
@@ -396,10 +396,10 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG | CANAL 26"
+    Title: "CANAL 26"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_ags_canal_26.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]61559"
     Live: true
     Country: "ar"
@@ -407,7 +407,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG | EL TRECE"
+    Title: "EL TRECE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -429,7 +429,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: Cronica TV SD"
+    Title: "Cronica TV SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -440,7 +440,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: Cronica TV HD"
+    Title: "Cronica TV HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -451,10 +451,10 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: TN HD"
+    Title: "TN HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_tnt_sports_premium.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]61564"
     Live: true
     Country: "ar"
@@ -462,10 +462,10 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: TN FHD"
+    Title: "TN FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_tnt_sports_premium.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]61565"
     Live: true
     Country: "ar"
@@ -473,7 +473,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: Television Publica HD"
+    Title: "Television Publica HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ion.png"
@@ -484,7 +484,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: Television Publica FHD"
+    Title: "Television Publica FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ion.png"
@@ -495,7 +495,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: El Nueve HD"
+    Title: "El Nueve HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -506,7 +506,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: El Nueve FHD"
+    Title: "El Nueve FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -517,7 +517,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: A24 HD"
+    Title: "A24 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -528,7 +528,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: A24 HD"
+    Title: "A24 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -539,7 +539,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: Canal 4 Jujuy"
+    Title: "Canal 4 Jujuy"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -550,7 +550,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: Canal 4 Posadas"
+    Title: "Canal 4 Posadas"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -561,7 +561,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: RTN Neuquen"
+    Title: "RTN Neuquen"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -572,10 +572,10 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: Telemax"
+    Title: "Telemax"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_son_telemax.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]61576"
     Live: true
     Country: "ar"
@@ -583,7 +583,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: Magazine SD"
+    Title: "Magazine SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -594,7 +594,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: Magazine HD"
+    Title: "Magazine HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -605,7 +605,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: Argentisima SD"
+    Title: "Argentisima SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -616,7 +616,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: Argentisima HD"
+    Title: "Argentisima HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -627,7 +627,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: Canal de la Ciudad SD"
+    Title: "Canal de la Ciudad SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -638,7 +638,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: Canal de la Ciudad HD"
+    Title: "Canal de la Ciudad HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -649,7 +649,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: Cronica TV SD"
+    Title: "Cronica TV SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -660,7 +660,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: Cronica TV HD"
+    Title: "Cronica TV HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -671,7 +671,7 @@
 }
 {
     Artist: "Fast"
-    Title: "ARG: EL TRECE DASH"
+    Title: "EL TRECE DASH"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -704,10 +704,10 @@
 }
 {
     Artist: "Fast"
-    Title: "ATV Argentina"
+    Title: "ATV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_antennatv.png"
     Stream: "https[:[[/]][[/]]]stream[.]arcast[.]com[.]ar[/]atbargentina[/]atbargentina[/]playlist[.]m3u8"
     Live: true
     Country: "ar"
@@ -1738,7 +1738,7 @@
 }
 {
     Artist: "Fast"
-    Title: "TV Maná Argentina [Not 24/7]"
+    Title: "TV Maná [Not 24/7]"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"

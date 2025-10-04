@@ -1,6 +1,6 @@
 {
     Artist: "Fast"
-    Title: "EWTN Canada [Not 24/7]"
+    Title: "EWTN [Not 24/7]"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_ewtn.png"
@@ -11,7 +11,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: NTV HD"
+    Title: "NTV HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nay_8ntv.png"
@@ -22,7 +22,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: AMC FHD"
+    Title: "AMC FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_amc_network.png"
@@ -33,7 +33,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: BEIN Sports HD"
+    Title: "BEIN Sports HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_bein_sports.png"
@@ -44,10 +44,10 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: Bravo TV FHD"
+    Title: "Bravo TV FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_bravo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]254670"
     Live: true
     Country: "ca"
@@ -55,7 +55,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: CBC NEWS Network HD"
+    Title: "CBC NEWS Network HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc_news.png"
@@ -66,7 +66,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: CBC Ottawa HD"
+    Title: "CBC Ottawa HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
@@ -77,7 +77,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: CBC Regina HD"
+    Title: "CBC Regina HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
@@ -88,7 +88,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: CTV 2 HD"
+    Title: "CTV 2 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_2.png"
@@ -99,7 +99,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: CTV 2 Vancouver HD"
+    Title: "CTV 2 Vancouver HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_2.png"
@@ -110,7 +110,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: CTV Kitchener HD"
+    Title: "CTV Kitchener HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
@@ -121,7 +121,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: CTV NEWS Newtork HD"
+    Title: "CTV NEWS Newtork HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_news.png"
@@ -132,7 +132,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: CTV Toronto | SD"
+    Title: "CTV Toronto SD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png"
@@ -143,7 +143,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: Discovery Science HD"
+    Title: "Discovery Science HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_science.png"
@@ -154,7 +154,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: Disney JR HD"
+    Title: "Disney JR HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_jr.png"
@@ -165,7 +165,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: E! FHD"
+    Title: "E! FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_caracol_internacional.png"
@@ -176,7 +176,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: E! HD"
+    Title: "E! HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_caracol_internacional.png"
@@ -187,7 +187,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: Family HD"
+    Title: "Family HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uk_sky_cinema_family.png"
@@ -198,7 +198,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: FX HD"
+    Title: "FX HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fx.png"
@@ -209,7 +209,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: GOLF Channel HD"
+    Title: "GOLF Channel HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_golf_channel.png"
@@ -220,7 +220,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: History HD"
+    Title: "History HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_military_history.png"
@@ -231,7 +231,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: Knowledge KIDS HD"
+    Title: "Knowledge KIDS HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -242,7 +242,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: LCN HD"
+    Title: "LCN HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -253,7 +253,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: Lifetime | HD"
+    Title: "Lifetime HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_lifetime.png"
@@ -264,7 +264,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: MUCH Music HD"
+    Title: "MUCH Music HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -275,7 +275,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: NBA TV HD"
+    Title: "NBA TV HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nba_tv.png"
@@ -286,7 +286,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: Nicktoons HD"
+    Title: "Nicktoons HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nicktoons.png"
@@ -297,7 +297,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: PBS KIDS HD"
+    Title: "PBS KIDS HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -308,7 +308,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: RDS 2 HD"
+    Title: "RDS 2 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -319,7 +319,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: RDS INFO HD"
+    Title: "RDS INFO HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -330,7 +330,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: Spike HD"
+    Title: "Spike HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -341,7 +341,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: Sportsnet ONE HD"
+    Title: "Sportsnet ONE HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -352,7 +352,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: Sportsnet Ontario HD"
+    Title: "Sportsnet Ontario HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -363,7 +363,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: Sportsnet WEST FHD"
+    Title: "Sportsnet WEST FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -374,7 +374,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: Super Ecran 2 HD"
+    Title: "Super Ecran 2 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -385,7 +385,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: Super Ecran 4 HD"
+    Title: "Super Ecran 4 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -396,7 +396,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: TLC HD"
+    Title: "TLC HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tlc.png"
@@ -407,7 +407,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: TSN 1 HD"
+    Title: "TSN 1 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_1.png"
@@ -418,7 +418,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: TSN 2 HD"
+    Title: "TSN 2 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_2.png"
@@ -429,7 +429,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: TV5 Quebec HD"
+    Title: "TV5 Quebec HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -440,7 +440,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: TVA Montreal HD"
+    Title: "TVA Montreal HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -451,7 +451,7 @@
 }
 {
     Artist: "Fast"
-    Title: "CA: HBO 1 HD"
+    Title: "HBO 1 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png"
@@ -517,10 +517,10 @@
 }
 {
     Artist: "Fast"
-    Title: "BBC Canada"
+    Title: "BBC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uk_bbc_one_scotland.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]254713"
     Live: true
     Country: "ca"
@@ -825,10 +825,10 @@
 }
 {
     Artist: "Fast"
-    Title: "E! Canada"
+    Title: "E!"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_caracol_internacional.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]254741"
     Live: true
     Country: "ca"
