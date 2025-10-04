@@ -224,7 +224,7 @@ jobs:
         output_content = '\n'.join(output_lines)
         
         # Guardar el archivo sin extensión
-        output_path = "country/others/cord"
+        output_path = "country/others/zapping"
         
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(output_content)
@@ -245,6 +245,6 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add country/others/cord
-        git diff --staged --quiet || git commit -m "Update cord - $(date +'%Y-%m-%d %H:%M:%S')"
+        git add country/others/zapping
+        git diff --staged --quiet || git commit -m "Update zapping - $(date +'%Y-%m-%d %H:%M:%S')"
         git push  
