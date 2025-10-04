@@ -53,44 +53,45 @@ jobs:
         # Logo por defecto
         default_logo = "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
 
-        ## Función para limpiar el título eliminando referencias al país y caracteres especiales
+        # Función para limpiar el título eliminando referencias al país y caracteres especiales
         def clean_title_for_country(title, country_code):
-        #    # Mapeo de códigos de país a palabras que deben eliminarse
-        #    country_keywords = {
-        #        'mx': ['MEXICO', 'MEX', 'MX', 'LA_MEX-', 'LA_SD_MEX-', 'LA_SD_MEX2', 'LA_HD_MEX2-', ':', '-'],
-        #        'ar': ['ARGENTINA', 'ARGENTINO', 'ARG', 'AR', 'ARG_HD:', '*', ':', '-'],
-        #        'gt': ['GUATEMALA', 'GT', '*', ':', '-'],
-        #        'usa': ['USA', 'US', 'UNITED STATES', '*', ':', '-'],
-        #        'cl': ['CHILE', 'CHILENO', 'CL', '*', ':', '-'],
-        #        'pe': ['PERÚ', 'PERU', 'PERUANO', '*', ':', '-'],
-        #        'co': ['COLOMBIA', 'COLOMBIANO', 'COL', 'CO', '*', ':', '-'],
-        #        'bo': ['BOLIVIA', 'BOLIVIANO', 'BO', '*', ':', '-'],
-        #        'ec': ['ECUADOR', 'ECUATORIANO', 'EC', '*', ':', '-'],
-        #        've': ['VENEZUELA', 'VENEZOLANO', 'VE', '*', ':', '-'],
-        #        'br': ['BRAZIL', 'BRASIL', 'BRASILEIRO', 'BR', 'VIP_BR', '*', ':', '-'],
-        #        'ca': ['CANADA', 'CANADIAN', 'CANADÁ', 'CA', '*', ':', '-'],
-        #        'uk': ['UK', 'BRITAIN', 'UNITED KINGDOM', '*', ':', '-'],
-        #        'world': ['ESPAÑA', 'ESPAÑOL', 'SPAIN', 'ESP', 'ES', 'SP','DK', 'DENMARK', 'DINAMARCA','FRANCE', 'FRANÇAIS', 'FR', '*', ':', '-'],
-        #    }
+            # Mapeo de códigos de país a palabras que deben eliminarse
+            country_keywords = {
+                'mx': ['MEXICO', 'MEX', 'MX', 'LA_MEX-', 'LA_SD_MEX-', 'LA_SD_MEX2', 'LA_HD_MEX2-'],
+                'ar': ['ARGENTINA', 'ARGENTINO', 'ARG', 'AR', 'ARG_HD:'],
+                'gt': ['GUATEMALA', 'GT'],
+                'usa': ['USA', 'US', 'UNITED STATES','US_HD'],
+                'cl': ['CHILE', 'CHILENO', 'CL'],
+                'pe': ['PERÚ', 'PERU', 'PERUANO'],
+                'co': ['COLOMBIA', 'COLOMBIANO', 'COL', 'CO'],
+                'bo': ['BOLIVIA', 'BOLIVIANO', 'BO'],
+                'ec': ['ECUADOR', 'ECUATORIANO', 'EC'],
+                've': ['VENEZUELA', 'VENEZOLANO', 'VE'],
+                'br': ['BRAZIL', 'BRASIL', 'BRASILEIRO', 'BR', 'VIP_BR'],
+                'ca': ['CANADA', 'CANADIAN', 'CANADÁ', 'CA'],
+                'uk': ['UK', 'BRITAIN', 'UNITED KINGDOM'],
+                'world': ['ESPAÑA', 'ESPAÑOL', 'SPAIN', 'ESP', 'ES', 'SP','DK', 'DENMARK', 'DINAMARCA','FRANCE', 'FRANÇAIS', 'FR'],
+            }
             
-        #    # Obtener las palabras clave para el país actual
-        #    keywords = country_keywords.get(country_code, [])
+            # Obtener las palabras clave para el país actual
+            keywords = country_keywords.get(country_code, [])
             
-        #    # Eliminar referencias al país
-        #    title_clean = title
-        #    for keyword in keywords:
-        #        # Usar regex para eliminar la palabra completa (con word boundaries)
-        #        title_clean = re.sub(r'\b' + re.escape(keyword) + r'\b', '', title_clean, flags=re.IGNORECASE)
+            # Eliminar referencias al país
+            title_clean = title
+            for keyword in keywords:
+                # Usar regex para eliminar la palabra completa (con word boundaries)
+                title_clean = re.sub(r'\b' + re.escape(keyword) + r'\b', '', title_clean, flags=re.IGNORECASE)
 
-            # Eliminar "LA_HD_MEX2" si está presente
-            title_clean = re.sub(r'\bLA_HD_MEX2\b', '', title_clean, flags=re.IGNORECASE)
+        #    # Eliminar "LA_HD_MEX2" si está presente
+        #    title_clean = re.sub(r'\bLA_HD_MEX2\b', '', title_clean, flags=re.IGNORECASE)
 
-            # Eliminar "LA_HD_MEX2" si está presente
-            title_clean = re.sub(r'\bUS_HD\b', '', title_clean, flags=re.IGNORECASE)
+        #    # Eliminar "LA_HD_MEX2" si está presente
+        #    title_clean = re.sub(r'\bUS_HD\b', '', title_clean, flags=re.IGNORECASE)
 
             # Eliminar caracteres especiales: |, •, », «
             title_clean = title_clean.replace('|', '')
             title_clean = title_clean.replace('•', '')
+            title_clean = title_clean.replace(':', '')            
             title_clean = title_clean.replace('»', '')
             title_clean = title_clean.replace('«', '')
             
