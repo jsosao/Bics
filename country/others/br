@@ -1,0 +1,88 @@
+{
+    Artist: "Fast"
+    Title: "VIP_BR:GLOBO BRASILIA HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_globo.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]27108"
+    Live: true
+    Country: "br"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "VIP_BR:CANAL BRASIL HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]27139"
+    Live: true
+    Country: "br"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "VIP_BR:ESPN BRASIL HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]27158"
+    Live: true
+    Country: "br"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "VIP_BR:PRIME BOX BRASIL HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]27196"
+    Live: true
+    Country: "br"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "VIP_BR:TV BRASIL HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]27218"
+    Live: true
+    Country: "br"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "Agro Brasil TV | BR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]server[.]flixtv[.]com[.]br[/]agrobrasiltv[/]agrobrasiltv[/]playlist[.]m3u8?PlaylistM3UCL"
+    Live: true
+    Country: "br"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "Rede Brasil de Televisao | BR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]5cf4a2c2512a2[.]streamlock[.]net:443[/]rbtv[/]rbtv[/]playlist[.]m3u8?PlaylistM3UCL"
+    Live: true
+    Country: "br"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "TV Maná Brasil | BR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]w1[.]manasat[.]com:443[/]tvmana-brasil[/]smil:tvmana-brasil[.]smil[/]playlist[.]m3u8?PlaylistM3UCL"
+    Live: true
+    Country: "br"
+    Tag: "General"
+}

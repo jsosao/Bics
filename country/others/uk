@@ -1,0 +1,286 @@
+{
+    Artist: "Fast"
+    Title: "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" group-title="→ USA ←",US: CBS San Diego HD VIP"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]24109"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "USA**:CT | NEW BRITAIN | NBC WVIT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]35091"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "LA_SD_MEX2:BBC World News"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]24790"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "LA_HD_MEX2:BBC World News"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]24896"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "MX || BBC World News"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]59638"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "MX || BBC World News SD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]59645"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "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" group-title="→ USA ←",US: Sportsnet East HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]248282"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "BBC World"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]254714"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "UK: FOX News Now DASH"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox_news.png"
+    Stream: "https[:[[/]][[/]]]fox-foxnewsnow-samsungus[.]amagi[.]tv[/]playlist[.]m3u8"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "UK: Now Sports 2 FHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]89[.]45[.]13[.]153:25461[/]play[/]live[.]php?mac=00:1A:79:1c:5d:9e&stream=1497552&extension=ts"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "[Allente DK] BBC NORDIC HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_rdi.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]257367"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "BBC Drama"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]fc1340aa56954f15a730a7c9ebee2771[.]mediatailor[.]us-east-1[.]amazonaws[.]com[/]v1[/]master[/]04fd913bb278d8775298c26fdca9d9841f37601f[/]RakutenTV-es_BBCDrama[/]playlist[.]m3u8?ads[.]amznbrmid=&ads[.]amznregion=&ads[.]amznslots=&ads[.]app_bundle=com[.]rakuten[.]tv&ads[.]app_store_url=rakuten[.]tv&ads[.]app_version=&ads[.]brand_name=&ads[.]content_classification=13&ads[.]device_lmt=1&ads[.]device_make=&ads[.]device_model=&ads[.]device_type=web&ads[.]device_year=&ads[.]env=prod&ads[.]gam_correlator=&ads[.]gdpr_consent=&ads[.]market=es&ads[.]os_language=&ads[.]player_height=&ads[.]player_width=&ads[.]pod_type=playerpage_midroll&ads[.]ppid=&ads[.]rtv_content_id=3877&ads[.]rtv_content_language=spa&ads[.]rtvid=271859&ads[.]streaming_id=83c97506-2162-4af4-8db0-745e5c77533c&ads[.]tivo_devcountry=&ads[.]tivo_devmakedate=&ads[.]tivo_mvpd=&ads[.]tivo_platform=&ads[.]tivo_usid=&ads[.]tivo_uxloc=&ads[.]user_type=visitor&ads[.]wurl_channel=988"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "[Canal+ PL ] BBC BRIT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]257866"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "[Canal+ PL ] BBC EARTH HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]257867"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "[Canal+ PL ] BBC FIRST HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]257868"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "[Canal+ PL ] BBC LIFESTYLE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]257869"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "BBC News"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/bbc_news.png"
+    Stream: "https[:[[/]][[/]]]d2vnbkvjbims7j[.]cloudfront[.]net[/]containerA[/]LTN[/]playlist[.]m3u8"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "BBC Drama"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]264228"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "BBC WORLD NEWS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]264229"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "Rakuten TV BBC Doctor Who France"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]264445"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "Rakuten TV BBC Drama"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]264446"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "[Cgates] BBC World News"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]264569"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "BBC News Asia Pacific"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/bbc_news.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]264740"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "BBC Arabic"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]264755"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "BBC Earth"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]260126"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
+{
+    Artist: "Fast"
+    Title: "PT : BBC ENTERTAINMENT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269480"
+    Live: true
+    Country: "uk"
+    Tag: "General"
+}
