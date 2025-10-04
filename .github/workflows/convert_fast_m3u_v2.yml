@@ -81,15 +81,19 @@ jobs:
             for keyword in keywords:
                 # Usar regex para eliminar la palabra completa (con word boundaries)
                 title_clean = re.sub(r'\b' + re.escape(keyword) + r'\b', '', title_clean, flags=re.IGNORECASE)
-            
+
+            # Eliminar "LA_HD_MEX2" si está presente
+            title_clean = re.sub(r'\bLA_HD_MEX2\b', '', title_clean, flags=re.IGNORECASE)
+
+            # Eliminar "LA_HD_MEX2" si está presente
+            title_clean = re.sub(r'\bUS_HD\b', '', title_clean, flags=re.IGNORECASE)
+
             # Eliminar caracteres especiales: |, •, », «
             title_clean = title_clean.replace('|', '')
             title_clean = title_clean.replace('•', '')
             title_clean = title_clean.replace('»', '')
             title_clean = title_clean.replace('«', '')
             
-            # Eliminar "LA_HD_MEX2" si está presente
-            title_clean = re.sub(r'\bLA_HD_MEX2\b', '', title_clean, flags=re.IGNORECASE)
             
             # Eliminar contenido entre paréntesis
             title_clean = re.sub(r'\([^)]*\)', '', title_clean)
