@@ -1,8 +1,8 @@
 name: Converter Fast M3U
 
 on:
-  #schedule:
-  #  - cron: '15 7 * * 4,5'  # Se ejecuta diariamente a medianoche
+  schedule:
+    - cron: '15 7 * * 4,5'  # Se ejecuta diariamente a medianoche
   workflow_dispatch:  # Permite ejecución manual
 
 jobs:
@@ -17,190 +17,109 @@ jobs:
       uses: actions/setup-python@v4
       with:
         python-version: '3.x'
-        
+
     - name: Download and convert M3U file
+      env:
+        M3U_URL: ${{ secrets.FAST_M3U_URL }}
       run: |
         cd $GITHUB_WORKSPACE
         python3 << 'EOF'
         import urllib.request
-        import urllib.parse
         import re
         import os
-        import json
 
-        # URL del archivo M3U
-        url = "http://fastream.xyz:8080/get.php?username=juan18&password=83e45w87w&type=m3u_plus"
+        # URL del archivo M3U desde variable de entorno (GitHub Secret)
+        url = os.environ.get('M3U_URL')
+        if not url:
+            print("❌ ERROR: No se encontró la variable M3U_URL")
+            print("Verifica que el secret FAST_M3U_URL esté configurado en GitHub")
+            exit(1)
+        
+        print(f"✓ URL cargada desde secret FAST_M3U_URL correctamente")
         
         # Descargar el archivo
-        print("Descargando archivo M3U...")
-        with urllib.request.urlopen(url) as response:
-            content = response.read().decode('utf-8')
-        
-        # Obtener lista de logos disponibles en el repositorio
-        print("Obteniendo lista de logos disponibles...")
-        github_api_url = "https://api.github.com/repos/jsosao/Bics/contents/picons"
-        
+        print("\nDescargando archivo M3U...")
         try:
-            with urllib.request.urlopen(github_api_url) as response:
-                picons_data = json.loads(response.read().decode('utf-8'))
-                available_logos = {item['name'].lower(): urllib.parse.unquote(item['download_url']) 
-                                 for item in picons_data if item['type'] == 'file'}
-            print(f"Se encontraron {len(available_logos)} logos disponibles")
+            with urllib.request.urlopen(url) as response:
+                content = response.read().decode('utf-8')
+            print("✓ Archivo M3U descargado exitosamente")
         except Exception as e:
-            print(f"Error al obtener logos: {e}")
-            available_logos = {}
+            print(f"❌ Error al descargar el archivo M3U: {e}")
+            exit(1)
         
         # Logo por defecto
         default_logo = "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
 
-        # Función para limpiar el título de prefijos no deseados
+        # ============================================================
+        # FUNCIONES AUXILIARES
+        # ============================================================
+        
         def clean_title(title):
-            # Eliminar texto específico (puede estar en cualquier parte del título)
-            prefixes_to_remove = ["FAST"]
+            """Limpia el título de prefijos no deseados."""
+            # Eliminar prefijos específicos
+            prefixes_to_remove = ["CINE - ", "DEPORTES - ", "CINE -", "DEPORTES -","DOC-", "NOV-", "MUS-", "INF-"]
             for prefix in prefixes_to_remove:
                 if prefix in title:
                     title = title.replace(prefix, "").strip()
-                    print(f"  Patrón '{prefix}' eliminado del título")
-
-            title = title.replace("•", ":").strip()
-            title = title.replace("»", "").strip()
-            title = title.replace("«", "").strip()
-
-            # Eliminar todo lo que esté dentro de paréntesis incluyendo los paréntesis
-            original_title = title
+            
+            # Eliminar todo lo que esté dentro de paréntesis
             title = re.sub(r'\([^)]*\)', '', title)
-            if original_title != title:
-                print(f"  Contenido entre paréntesis eliminado")
             
-            # Limpiar espacios múltiples que puedan quedar
+            # Limpiar espacios múltiples
             title = re.sub(r'\s+', ' ', title).strip()
-             
+            
             return title
-                   
-        # Función para encontrar el logo más apropiado
-        def find_best_logo(title):
-            if not available_logos:
-                return default_logo
-            
-            # Limpiar el título para búsqueda
-            title_clean = title.lower()
-            # Remover prefijos de país
-            title_clean = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr)[\s:-]*', '', title_clean)
-            # Remover solo algunos caracteres especiales, MANTENER &, +, y otros comunes en nombres de canales
-            title_clean = re.sub(r'[^\w\s&+\-]', '', title_clean).strip()
-            # Reemplazar espacios por guiones bajos para coincidir con formato de logos
-            title_search = title_clean.replace(' ', '_')
-            
-            # Búsqueda exacta (título completo)
-            for logo_name in available_logos:
-                logo_base = logo_name.replace('.png', '').replace('.jpg', '').replace('.jpeg', '')
-                if title_search == logo_base:
-                    print(f"  Logo encontrado (exacto): {logo_name}")
-                    return available_logos[logo_name]
-            
-            # Búsqueda sin prefijo de país en el logo
-            for logo_name in available_logos:
-                logo_base = logo_name.replace('.png', '').replace('.jpg', '').replace('.jpeg', '')
-                # Remover prefijo de país del logo también
-                logo_base_no_country = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr)_', '', logo_base)
-                if title_search == logo_base_no_country:
-                    print(f"  Logo encontrado (sin país): {logo_name}")
-                    return available_logos[logo_name]
-            
-            # Búsqueda con espacios en lugar de guiones bajos
-            for logo_name in available_logos:
-                logo_base = logo_name.replace('.png', '').replace('.jpg', '').replace('.jpeg', '')
-                logo_base_no_country = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr)_', '', logo_base)
-                if title_clean == logo_base_no_country.replace('_', ' '):
-                    print(f"  Logo encontrado (con espacios): {logo_name}")
-                    return available_logos[logo_name]
-            
-            # Búsqueda por longitud de coincidencia (más específica primero)
-            best_match = None
-            best_match_length = 0
-            
-            for logo_name in available_logos:
-                logo_base = logo_name.replace('.png', '').replace('.jpg', '').replace('.jpeg', '')
-                logo_base_no_country = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr)_', '', logo_base)
-                logo_normalized = logo_base_no_country.replace('_', ' ')
-                
-                # Si el título contiene el logo completo o viceversa
-                if title_clean in logo_normalized or logo_normalized in title_clean:
-                    match_length = len(logo_normalized)
-                    if match_length > best_match_length:
-                        best_match_length = match_length
-                        best_match = logo_name
-            
-            if best_match:
-                print(f"  Logo encontrado (mejor coincidencia): {best_match}")
-                return available_logos[best_match]
-            
-            # Búsqueda por palabras clave principales (solo si no hay mejor match)
-            words = title_clean.split()
-            if words and len(words) == 1:  # Solo una palabra
-                main_word = words[0]
-                for logo_name in available_logos:
-                    logo_base = logo_name.replace('.png', '').replace('.jpg', '').replace('.jpeg', '')
-                    logo_base_no_country = re.sub(r'^(au|uk|us|ca|es|mx|ar|br|fr)_', '', logo_base)
-                    if main_word == logo_base_no_country or logo_base_no_country == main_word:
-                        print(f"  Logo encontrado (palabra única): {logo_name}")
-                        return available_logos[logo_name]
-            
-            print(f"  Logo no encontrado para '{title}', usando default")
-            return default_logo
         
-        # Función para determinar el país basado en el título
         def get_country(title):
+            """Determina el país basado en el título."""
             title_upper = title.upper()
-            if title.startswith("CL:"):
-                return "cl"
-            elif title.startswith("UK:") or "BBC" in title_upper:
+            if title.startswith("AU") or "AUSTRALIA" in title_upper:
+                return "au"
+            elif title.startswith("UK") or "BBC" in title_upper or "BRITAIN" in title_upper:
                 return "uk"
-            elif title.startswith("US:"):
+            elif title.startswith("US") or "USA" in title_upper:
                 return "us"
-            elif title.startswith("CA:"):
+            elif title.startswith("CA") or "CANADA" in title_upper:
                 return "ca"
-            elif title.startswith("SP:"):
+            elif title.startswith("ES") or "SPAIN" in title_upper or "ESPAÑA" in title_upper:
                 return "es"
-            elif title.startswith("MX:"):
+            elif title.startswith("MX") or "MEXICO" in title_upper or "MÉXICO" in title_upper:
                 return "mx"
-            elif title.startswith("AR:"):
+            elif title.startswith("AR") or "ARGENTINA" in title_upper:
                 return "ar"
-            elif title.startswith("BR:"):
+            elif title.startswith("BR") or "BRASIL" in title_upper or "BRAZIL" in title_upper:
                 return "br"
-            elif title.startswith("BO:"):
-                return "bo"
-            elif title.startswith("PE:"):
-                return "pe"
-            elif title.startswith("COL:"):
-                return "co"
-            elif title.startswith("FR:"):
+            elif title.startswith("FR") or "FRANCE" in title_upper or "FRANCIA" in title_upper:
                 return "fr"
             else:
                 return "us"  # Default
         
-        # Función para determinar el tag basado en el group-title
         def get_tag(group_title):
+            """Determina el tag basado en el group-title."""
             group_lower = group_title.lower()
-            if "sport" in group_lower:
+            if "sport" in group_lower or "deporte" in group_lower:
                 return "Sports"
             elif "radio" in group_lower:
                 return "Radio"
-            elif "news" in group_lower:
+            elif "news" in group_lower or "noticias" in group_lower:
                 return "News"
-            elif "movie" in group_lower or "film" in group_lower or "peliculas" in group_lower:
+            elif "movie" in group_lower or "film" in group_lower or "peliculas" in group_lower or "cine" in group_lower:
                 return "Movies"
             elif "series" in group_lower or "tv show" in group_lower:
                 return "Series"
-            elif "music" in group_lower:
+            elif "music" in group_lower or "musica" in group_lower:
                 return "Music"
+            elif "doc" in group_lower:
+                return "Documentary"
+            elif "kids" in group_lower or "infantil" in group_lower:
+                return "Kids"
             else:
                 return "General"
-
-        # Función para verificar si el grupo debe ser incluido
-        def should_include_group(group_title):
+        
+        def should_skip_group(group_title):
+            """Verifica si el grupo debe ser omitido."""
             group_lower = group_title.lower()
-            
+
             # Solo verificar si contiene palabras a excluir
             exclude_keywords = ["canales-adultos", "adultos", "series", "telenovelas", "vod", "pluto", "doramas","simpsons","radio","cgates","24/7"]
             if any(keyword in group_lower for keyword in exclude_keywords):
@@ -209,23 +128,27 @@ jobs:
             # Incluir todo lo demás (wildcard)
             return True
         
-               
-            # Solo incluir grupos que contengan estas palabras clave
-            #include_keywords = ["CHILE", "PPV", "PERÚ", "COLOMBIA", "BOLIVIA", "ECUADOR", "CANADÁ", "ESPAÑA", "BRASIL", "USA", "FUTBÓL", "DEPORTES", "CINE", "CINEMA", "ENTRETENIMIENTO", "INFANTILES", "CULTURA", "24/7", "NOTICIAS", "UNIMAS", "ARGENTINA", "VENEZUELA"]
-            #return any(keyword in group_lower for keyword in include_keywords)
-      
-        # Función para escapar la URL
         def escape_url(url):
+            """Escapa la URL para el formato de salida."""
             url = url.replace("http://", "http[:[/][/]]")
             url = url.replace("https://", "https[:[/][/]]")
             url = url.replace(".", "[.]")
             url = url.replace("/", "[/]")
             return url
+
+        # ============================================================
+        # PROCESAMIENTO PRINCIPAL
+        # ============================================================
         
-        # Parsear el archivo M3U
+        print("\n" + "="*60)
+        print("PROCESANDO CANALES - FAST")
+        print("="*60)
+        
         lines = content.strip().split('\n')
         entries = []
         skipped_count = 0
+        logos_with_value = 0
+        logos_default = 0
         
         i = 0
         while i < len(lines):
@@ -244,7 +167,7 @@ jobs:
                 tvg_logo = tvg_logo_match.group(1) if tvg_logo_match else ""
                 group_title = group_title_match.group(1) if group_title_match else ""
                 title = title_match.group(1).strip() if title_match else tvg_name
-                
+
                 # Limpiar el título de prefijos no deseados
                 title = clean_title(title)
                 
@@ -253,17 +176,22 @@ jobs:
                 if i < len(lines):
                     stream_url = lines[i].strip()
                     
-                    # Solo incluir grupos que cumplan con los criterios
-                    if not should_include_group(group_title):
-                        print(f"Omitiendo: '{title}' | Grupo: '{group_title}' -> NO cumple criterios")
+                    # Omitir grupos especificados
+                    if should_skip_group(group_title):
+                        print(f"⊗ Omitiendo: '{title}' | Grupo: '{group_title}'")
                         skipped_count += 1
                         i += 1
                         continue
                     
-                    print(f"Procesando: '{title}' | Grupo: '{group_title}'")
-                    
-                    # Buscar el logo más apropiado
-                    best_logo = find_best_logo(title)
+                    # Determinar el logo a usar
+                    if tvg_logo and tvg_logo.strip():
+                        final_logo = tvg_logo
+                        logos_with_value += 1
+                        print(f"✓ Procesando: '{title}' | Grupo: '{group_title} | Logo: {tvg_logo}")
+                    else:
+                        final_logo = default_logo
+                        logos_default += 1
+                        print(f"⚠ Procesando: '{title}' | Grupo: '{group_title} | Logo: {tvg_logo}")
                     
                     # Crear la entrada
                     entry = {
@@ -271,7 +199,7 @@ jobs:
                         'Title': title,
                         'streamFormat': 'hls|mts',
                         'SwitchingStrategy': 'full-adaptation',
-                        'Logo': best_logo,
+                        'Logo': final_logo,
                         'Stream': escape_url(stream_url),
                         'Live': True,
                         'Country': get_country(title),
@@ -304,17 +232,16 @@ jobs:
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(output_content)
         
-        print(f"\n{'='*60}")
-        print(f"Archivo guardado exitosamente en {output_path}")
-        print(f"Total de entradas incluidas: {len(entries)}")
-        print(f"Total de entradas omitidas: {skipped_count}")
-        
-        # Estadísticas de logos
-        logos_default = sum(1 for e in entries if e['Logo'] == default_logo)
-        logos_found = len(entries) - logos_default
-        print(f"Logos encontrados: {logos_found}")
-        print(f"Logos default: {logos_default}")
-        print(f"{'='*60}")
+        # Estadísticas finales
+        print("\n" + "="*60)
+        print("RESUMEN FINAL - FAST")
+        print("="*60)
+        print(f"✓ Archivo guardado en: {output_path}")
+        print(f"✓ Total de canales procesados: {len(entries)}")
+        print(f"⊗ Total de canales omitidos: {skipped_count}")
+        print(f"✓ Logos del archivo original: {logos_with_value} ({logos_with_value*100//len(entries) if entries else 0}%)")
+        print(f"⚠ Logos default (no_logo.png): {logos_default} ({logos_default*100//len(entries) if entries else 0}%)")
+        print("="*60)
         EOF
         
     - name: Commit and push changes
@@ -323,4 +250,4 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add country/others/fast
         git diff --staged --quiet || git commit -m "Update fast - $(date +'%Y-%m-%d %H:%M:%S')"
-        git push
+        git push 
