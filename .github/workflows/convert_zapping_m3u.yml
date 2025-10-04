@@ -125,6 +125,7 @@ jobs:
             # Palabras clave que indican grupos a omitir
             skip_keywords = ["canales-adultos", "adultos", "adult", "vod", "series", "estrenos", "novelas-mexicanas", "24/7"]
             if any(keyword in group_lower for keyword in skip_keywords):
+                print(f"ENTREEEEEEEE")
                 return False
         
         def escape_url(url):
