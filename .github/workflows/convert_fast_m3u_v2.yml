@@ -57,7 +57,7 @@ jobs:
         def clean_title_for_country(title, country_code):
             # Mapeo de códigos de país a palabras que deben eliminarse
             country_keywords = {
-                'mx': ['MEXICO', 'MEX', 'MX', 'LA_MEX-', 'LA_SD_MEX-', 'LA_SD_MEX2', 'LA_HD_MEX2-'],
+                'mx': ['MEXICO', 'MEX', 'MX', 'LA_HD_MEX2', 'LA_SD_MEX', 'LA_MEX'],
                 'ar': ['ARGENTINA', 'ARGENTINO', 'ARG', 'AR', 'ARG_HD:'],
                 'gt': ['GUATEMALA', 'GT'],
                 'usa': ['USA', 'US', 'UNITED STATES','US_HD'],
@@ -85,11 +85,9 @@ jobs:
         #    # Eliminar "LA_HD_MEX2" si está presente
         #    title_clean = re.sub(r'\bLA_HD_MEX2\b', '', title_clean, flags=re.IGNORECASE)
 
-        #    # Eliminar "LA_HD_MEX2" si está presente
-        #    title_clean = re.sub(r'\bUS_HD\b', '', title_clean, flags=re.IGNORECASE)
-
             # Eliminar caracteres especiales: |, •, », «
             title_clean = title_clean.replace('|', '')
+            title_clean = title_clean.replace('-', '')            
             title_clean = title_clean.replace('•', '')
             title_clean = title_clean.replace(':', '')            
             title_clean = title_clean.replace('»', '')
