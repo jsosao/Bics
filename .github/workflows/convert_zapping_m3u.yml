@@ -121,7 +121,7 @@ jobs:
             group_lower = group_title.lower()
             
             # Palabras clave que indican grupos a omitir
-            skip_keywords = ["canales-adultos", "adultos", "adult","vod", "series","estrenos","novela","24/7"]
+            skip_keywords = ["canales-adultos", "adultos", "adult", "vod", "series", "estrenos", "novelas-mexicanas", "24/7"]
             if any(keyword in group_lower for keyword in skip_keywords):
                 return False
         
@@ -184,11 +184,11 @@ jobs:
                     if tvg_logo and tvg_logo.strip():
                         final_logo = tvg_logo
                         logos_with_value += 1
-                        print(f"✓ Procesando: '{title}' | Logo: {group_title} | Logo: {tvg_logo}")
+                        print(f"✓ Procesando: '{title}' | Grupo: '{group_title} | Logo: {tvg_logo}")
                     else:
                         final_logo = default_logo
                         logos_default += 1
-                        print(f"⚠ Procesando: '{title}' | Logo: {group_title} | Logo: {tvg_logo}")
+                        print(f"⚠ Procesando: '{title}' | Grupo: '{group_title} | Logo: {tvg_logo}")
                     
                     # Crear la entrada
                     entry = {
