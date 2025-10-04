@@ -8,12 +8,12 @@
     Live: true
 }
 {
-    Artist: "rb"
+    Artist: "gaz"
     Title: "AZTECA UNO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_uno.png"
-    Stream: "http[:[/][/]]user[.]tvcluboficial[.]com[/]live[/]m[/]m[/]4[.]m3u8"
+    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7232"
     Live: true
 }
 {
@@ -44,21 +44,21 @@
     Live: true
 }
 {
-    Artist: "rb"
+    Artist: "gaz"
     Title: "LAS ESTRELLAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas.png"
-    Stream: "http[:[/][/]]user[.]tvcluboficial[.]com[/]live[/]m[/]m[/]411[.]m3u8"
+    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7454"
     Live: true
 }
 {
     Artist: "milista"
-    Title: "(OFF) LAS ESTRELLAS"
+    Title: "LAS ESTRELLAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas.png"
-    Stream: "http[:[/][/]]playtv44[.]com:8080[/]981927688[/]123456[/]67700"
+    Stream: "http[:[/][/]]playtv44[.]com:8080[/]976515597[/]123456[/]67700"
     Live: true
 }
 {
@@ -71,12 +71,12 @@
     Live: true
 }
 {
-    Artist: "rb"
+    Artist: "gaz"
     Title: "IMAGEN TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_imagen_tv.png"
-    Stream: "http[:[/][/]]user[.]tvcluboficial[.]com[/]live[/]m[/]m[/]341[.]m3u8"
+    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7239"
     Live: true
 }
 {
@@ -89,6 +89,15 @@
     Live: true
 }
 {
+    Artist: "gaz"
+    Title: "IMAGEN MULTICAST"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_imagen_tv.png"
+    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7195"
+    Live: true
+}
+{
     Artist: "Neblina"
     Title: "(OFF) CANAL 5"
     streamFormat: "hls|mts"
@@ -98,21 +107,21 @@
     Live: true
 }
 {
-    Artist: "Cocina"
+    Artist: "Play"
     Title: "(OFF) CANAL 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_5.png"
-    Stream: "http[:[/][/]]classic[.]wolddress[.]com:8080[/]737474ndbfvvd[/]73737bdbrbf73[/]315082"
+    Stream: "http[:[/][/]]playtv44[.]com:8080[/]976515597[/]123456[/]315681"
     Live: true
 }
 {
-    Artist: "rb"
+    Artist: "gaz"
     Title: "CANAL 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_5.png"
-    Stream: "http[:[/][/]]user[.]tvcluboficial[.]com[/]live[/]m[/]m[/]14[.]m3u8"
+    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7241"
     Live: true
 }
 {
@@ -152,12 +161,21 @@
     Live: true
 }
 {
-    Artist: "neblina"
-    Title: "(OFF) CANAL NU9VE"
+    Artist: "gaz"
+    Title: "CANAL NU9VE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nu9ve.png"
-    Stream: "http[:[/][/]]play[.]tecnomolly[.]com:8080[/]sburgueno[/]52ZNSjqpQRSN[/]34158"
+    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7245"
+    Live: true
+}
+{
+    Artist: "Play"
+    Title: "CANAL NU9VE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nu9ve.png"
+    Stream: "http[:[/][/]]playtv44[.]com:8080[/]976515597[/]123456[/]315699"
     Live: true
 }
 {
@@ -189,7 +207,7 @@
 }
 {
     Artist: "web"
-    Title: "CANAL 22"
+    Title: "(OFF) CANAL 22"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_22.png"
@@ -198,7 +216,7 @@
 }
 {
     Artist: "web"
-    Title: "CANAL 22.2"
+    Title: "(OFF) CANAL 22.2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_22_2.png"
@@ -225,7 +243,7 @@
 }
 {
     Artist: "web"
-    Title: "TV UNAM"
+    Title: "(OFF) TV UNAM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tv_unam.png"
@@ -603,7 +621,7 @@
 }
 {
     Artist: "web"
-    Title: "QOO: SIPSE TVCUN"
+    Title: "(OFF) QOO: SIPSE TVCUN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_qoo_sipse.png"
@@ -630,7 +648,7 @@
 }
 {
     Artist: "web"
-    Title: "SLP: CANAL 9"
+    Title: "(OFF) SLP: CANAL 9"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_slp_canal_9.png"
@@ -720,7 +738,7 @@
 }
 {
     Artist: "web"
-    Title: "ZAC: CANAL 15"
+    Title: "(OFF) ZAC: CANAL 15"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_zac_canal_15.png"
