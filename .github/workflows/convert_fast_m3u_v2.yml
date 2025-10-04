@@ -57,19 +57,20 @@ jobs:
         def clean_title_for_country(title, country_code):
             # Mapeo de códigos de país a palabras que deben eliminarse
             country_keywords = {
-                'mx': ['MEXICO', 'MÉXICO', 'MEX', 'MX'],
-                'ar': ['ARGENTINA', 'ARGENTINO', 'ARG', 'AR'],
-                'usa': ['USA', 'US', 'UNITED STATES'],
-                'cl': ['CHILE', 'CHILENO', 'CL'],
-                'pe': ['PERÚ', 'PERU', 'PERUANO', 'PE'],
-                'co': ['COLOMBIA', 'COLOMBIANO', 'COL', 'CO'],
-                'bo': ['BOLIVIA', 'BOLIVIANO', 'BO'],
-                'ec': ['ECUADOR', 'ECUATORIANO', 'EC'],
-                've': ['VENEZUELA', 'VENEZOLANO', 'VE'],
-                'br': ['BRAZIL', 'BRASIL', 'BRASILEIRO', 'BR'],
-                'ca': ['CANADA', 'CANADIAN', 'CANADÁ', 'CA'],
-                'uk': ['UK', 'BRITAIN', 'UNITED KINGDOM'],
-                'world': ['ESPAÑA', 'ESPAÑOL', 'SPAIN', 'ESP', 'ES', 'SP','DK', 'DENMARK', 'DINAMARCA','FRANCE', 'FRANÇAIS', 'FR'],
+                'mx': ['MEXICO', 'MEX', 'MX', "-"],
+                'ar': ['ARGENTINA', 'ARGENTINO', 'ARG', 'AR', 'ARG_HD:', '*', ':', '-'],
+                'gt': ['GUATEMALA', 'GT', '*', ':', '-'],
+                'usa': ['USA', 'US', 'UNITED STATES', '*', ':', '-'],
+                'cl': ['CHILE', 'CHILENO', 'CL', '*', ':', '-'],
+                'pe': ['PERÚ', 'PERU', 'PERUANO', '*', ':', '-'],
+                'co': ['COLOMBIA', 'COLOMBIANO', 'COL', 'CO', '*', ':', '-'],
+                'bo': ['BOLIVIA', 'BOLIVIANO', 'BO', '*', ':', '-'],
+                'ec': ['ECUADOR', 'ECUATORIANO', 'EC', '*', ':', '-'],
+                've': ['VENEZUELA', 'VENEZOLANO', 'VE', '*', ':', '-'],
+                'br': ['BRAZIL', 'BRASIL', 'BRASILEIRO', 'BR', 'VIP_BR', '*', ':', '-'],
+                'ca': ['CANADA', 'CANADIAN', 'CANADÁ', 'CA', '*', ':', '-'],
+                'uk': ['UK', 'BRITAIN', 'UNITED KINGDOM', '*', ':', '-'],
+                'world': ['ESPAÑA', 'ESPAÑOL', 'SPAIN', 'ESP', 'ES', 'SP','DK', 'DENMARK', 'DINAMARCA','FRANCE', 'FRANÇAIS', 'FR', '*', ':', '-'],
             }
             
             # Obtener las palabras clave para el país actual
