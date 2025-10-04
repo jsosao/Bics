@@ -122,7 +122,7 @@ jobs:
 
             # Palabras clave que indican grupos a omitir
             skip_keywords = ["canales-adultos", "adultos", "adult","vod", "series"]
-            if any(keyword in group_lower for keyword in exclude_keywords):
+            if any(keyword in group_lower for keyword in skip_keywords):
                 return False
 
             # Solo incluir grupos que contengan estas palabras clave
