@@ -126,7 +126,8 @@ jobs:
            #     return any(keyword in group_lower for keyword in skip_keywords)
 
             include_keywords = ["canales", "canales de peliculas"]
-            return any(keyword in group_lower for keyword in include_keywords)
+              #return any(keyword in group_lower for keyword in include_keywords)
+              return false
                 
         
         def escape_url(url):
