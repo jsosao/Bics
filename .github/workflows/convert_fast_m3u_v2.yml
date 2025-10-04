@@ -253,11 +253,8 @@ jobs:
                 group_title = group_title_match.group(1) if group_title_match else ""
                 title = title_match.group(1).strip() if title_match else tvg_name
                 
-                # Guardar el título original para buscar el logo
+                # Guardar el título original para buscar el logo (antes de cualquier limpieza)
                 original_title = title
-                
-                # Limpiar el título de prefijos no deseados
-                title = clean_title(title)
                 
                 # La siguiente línea debe ser la URL del stream
                 i += 1
@@ -273,16 +270,19 @@ jobs:
                     
                     print(f"Procesando: '{title}' | Grupo: '{group_title}'")
                     
-                    # Buscar el logo más apropiado (usando el título original)
-                    best_logo = find_best_logo(original_title)
-                    
-                    # Determinar país y nombre de archivo basado en group-title
+                    # Determinar país y nombre de archivo basado en group-title primero
                     country, filename = get_country_and_filename(group_title)
+                    
+                    # Limpiar el título eliminando referencias al país
+                    title_clean = clean_title_for_country(title, filename)
+                    
+                    # Buscar el logo más apropiado (usando el título limpio)
+                    best_logo = find_best_logo(title_clean)
                     
                     # Crear la entrada
                     entry = {
                         'Artist': 'Fast',
-                        'Title': title,
+                        'Title': title_clean,
                         'streamFormat': 'hls|mts',
                         'SwitchingStrategy': 'full-adaptation',
                         'Logo': best_logo,
