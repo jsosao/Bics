@@ -213,6 +213,8 @@ jobs:
                 return "us", "usa"
             elif "CHILE" in group_upper or "CHILENO" in group_upper:
                 return "cl", "cl"
+            elif "GUATEMALA" in group_upper or "GUATEMALA" in group_upper:
+                return "gt", "gt"                
             elif "PERÚ" in group_upper or "PERU" in group_upper or "PERUANO" in group_upper:
                 return "pe", "pe"
             elif "COLOMBIA" in group_upper or "COLOMBIANO" in group_upper:
@@ -227,12 +229,8 @@ jobs:
                 return "br", "br"
             elif "CANADA" in group_upper or "CANADIAN" in group_upper or "CANADÁ" in group_upper:
                 return "ca", "ca"
-            elif "UK" in group_upper or "BRITAIN" in group_upper or "UNITED KINGDOM" in group_upper:
-                return "uk", "uk"
-            elif "FRANCE" in group_upper or "FRANÇAIS" in group_upper:
-                return "fr", "world"
             else:
-                return "us", "world"  # Default para grupos sin país identificable
+                return "world", "world"  # Default para grupos sin país identificable
         
         # Función para determinar el tag basado en el group-title
         def get_tag(group_title):
