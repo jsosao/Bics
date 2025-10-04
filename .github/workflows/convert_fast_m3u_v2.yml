@@ -88,8 +88,8 @@ jobs:
             title_clean = title_clean.replace('»', '')
             title_clean = title_clean.replace('«', '')
             
-            # Eliminar "FAST" si está presente
-            title_clean = re.sub(r'\bFAST\b', '', title_clean, flags=re.IGNORECASE)
+            # Eliminar "LA_HD_MEX2" si está presente
+            title_clean = re.sub(r'\bLA_HD_MEX2\b', '', title_clean, flags=re.IGNORECASE)
             
             # Eliminar contenido entre paréntesis
             title_clean = re.sub(r'\([^)]*\)', '', title_clean)
