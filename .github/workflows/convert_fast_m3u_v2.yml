@@ -237,6 +237,12 @@ jobs:
                 return "ca", "ca"
             elif "DEPORTES" in group_upper or "FUTBÓL" in group_upper or "FÚTBOL" in group_upper:
                 return "sports", "sports"
+            elif "ENTRETENIMIENTO" in group_upper:
+                return "enter", "enter"
+            elif "INFANTILES" in group_upper:
+                return "kids", "kids"
+            elif "CULTURA" in group_upper:
+                return "cult", "cult"
             else:
                 return "world", "world"  # Default para grupos sin país identificable
         
@@ -269,7 +275,7 @@ jobs:
             group_lower = group_title.lower()
             
             # Solo verificar si contiene palabras a excluir
-            exclude_keywords = ["canales-adultos", "adultos", "series", "telenovelas", "vod", "pluto"]
+            exclude_keywords = ["canales-adultos", "adultos", "→ series", "telenovelas", "vod", "pluto"]
             if any(keyword in group_lower for keyword in exclude_keywords):
                 return False
             
