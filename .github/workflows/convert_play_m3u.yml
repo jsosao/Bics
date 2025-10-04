@@ -1,8 +1,8 @@
 name: Converter Play M3U
 
 on:
-  schedule:
-    - cron: '15 6 * * 4,5'  # Se ejecuta diariamente a medianoche
+  #schedule:
+  #  - cron: '15 6 * * 4,5'  # Se ejecuta diariamente a medianoche
   workflow_dispatch:  # Permite ejecución manual
 
 jobs:
