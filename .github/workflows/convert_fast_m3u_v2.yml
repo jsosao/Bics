@@ -59,7 +59,6 @@ jobs:
             country_keywords = {
                 'mx': ['MEXICO', 'MÉXICO', 'MEX', 'MX'],
                 'ar': ['ARGENTINA', 'ARGENTINO', 'ARG', 'AR'],
-                'sp': ['ESPAÑA', 'ESPAÑOL', 'SPAIN', 'ESP', 'ES', 'SP'],
                 'usa': ['USA', 'US', 'UNITED STATES'],
                 'cl': ['CHILE', 'CHILENO', 'CL'],
                 'pe': ['PERÚ', 'PERU', 'PERUANO', 'PE'],
@@ -70,7 +69,7 @@ jobs:
                 'br': ['BRAZIL', 'BRASIL', 'BRASILEIRO', 'BR'],
                 'ca': ['CANADA', 'CANADIAN', 'CANADÁ', 'CA'],
                 'uk': ['UK', 'BRITAIN', 'UNITED KINGDOM'],
-                'fr': ['FRANCE', 'FRANÇAIS', 'FR']
+                'world': ['ESPAÑA', 'ESPAÑOL', 'SPAIN', 'ESP', 'ES', 'SP','DK', 'DENMARK', 'DINAMARCA','FRANCE', 'FRANÇAIS', 'FR'],
             }
             
             # Obtener las palabras clave para el país actual
@@ -82,10 +81,8 @@ jobs:
                 # Usar regex para eliminar la palabra completa (con word boundaries)
                 title_clean = re.sub(r'\b' + re.escape(keyword) + r'\b', '', title_clean, flags=re.IGNORECASE)
             
-            # Eliminar caracteres especiales: |, <<, >>, •, », «
+            # Eliminar caracteres especiales: |, •, », «
             title_clean = title_clean.replace('|', '')
-            title_clean = title_clean.replace('<<', '')
-            title_clean = title_clean.replace('>>', '')
             title_clean = title_clean.replace('•', '')
             title_clean = title_clean.replace('»', '')
             title_clean = title_clean.replace('«', '')
@@ -233,9 +230,9 @@ jobs:
             elif "UK" in group_upper or "BRITAIN" in group_upper or "UNITED KINGDOM" in group_upper:
                 return "uk", "uk"
             elif "FRANCE" in group_upper or "FRANÇAIS" in group_upper:
-                return "fr", "fr"
+                return "fr", "world"
             else:
-                return "us", "other"  # Default para grupos sin país identificable
+                return "us", "world"  # Default para grupos sin país identificable
         
         # Función para determinar el tag basado en el group-title
         def get_tag(group_title):
