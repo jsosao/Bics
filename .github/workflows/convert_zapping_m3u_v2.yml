@@ -29,8 +29,11 @@ jobs:
         import json
         import unicodedata
 
-        # URL del archivo M3U
-        url = "http://tv.zapping.life:8080/get.php?username=mayleenfunez1&password=135535683598&type=m3u_plus"
+        # URL del archivo M3U desde variable de entorno
+        url = os.environ.get('ZAPPING_M3U_URL')
+        if not url:
+            print("ERROR: No se encontró la variable M3U_URL")
+            exit(1)
         
         # Descargar el archivo
         print("Descargando archivo M3U...")
