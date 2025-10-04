@@ -208,7 +208,7 @@ jobs:
             group_upper = group_title.upper()
             
             # Detectar país por el group-title
-            if "MEXICO" in group_upper or "MÉXICO" in group_upper or or "MÉXICO II" in group_upper or "MX" in group_upper:
+            if "MEXICO" in group_upper or "MÉXICO" in group_upper or "MÉXICO II" in group_upper or "MX" in group_upper:
                 return "mx", "mx"
             elif "ARGENTINA" in group_upper or "ARG" in group_upper:
                 return "ar", "ar"
