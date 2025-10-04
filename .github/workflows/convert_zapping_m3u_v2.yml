@@ -19,6 +19,8 @@ jobs:
         python-version: '3.x'
         
     - name: Download and convert M3U file
+      env:
+        M3U_URL: ${{ secrets.ZAPPING_M3U_URL }}
       run: |
         cd $GITHUB_WORKSPACE
         python3 << 'EOF'
@@ -29,19 +31,27 @@ jobs:
         import json
         import unicodedata
 
-        # URL del archivo M3U desde variable de entorno
-        url = os.environ.get('ZAPPING_M3U_URL')
+        # URL del archivo M3U desde variable de entorno (GitHub Secret)
+        url = os.environ.get('M3U_URL')
         if not url:
-            print("ERROR: No se encontró la variable M3U_URL")
+            print("❌ ERROR: No se encontró la variable M3U_URL")
+            print("Verifica que el secret ZAPPING_M3U_URL esté configurado en GitHub")
             exit(1)
+        
+        print(f"✓ URL cargada desde secret correctamente")
         
         # Descargar el archivo
         print("Descargando archivo M3U...")
-        with urllib.request.urlopen(url) as response:
-            content = response.read().decode('utf-8')
+        try:
+            with urllib.request.urlopen(url) as response:
+                content = response.read().decode('utf-8')
+            print("✓ Archivo M3U descargado exitosamente")
+        except Exception as e:
+            print(f"❌ Error al descargar el archivo M3U: {e}")
+            exit(1)
         
         # Obtener lista de logos disponibles en el repositorio
-        print("Obteniendo lista de logos disponibles...")
+        print("\nObteniendo lista de logos disponibles...")
         github_api_url = "https://api.github.com/repos/jsosao/Bics/contents/picons"
         
         try:
@@ -49,9 +59,9 @@ jobs:
                 picons_data = json.loads(response.read().decode('utf-8'))
                 available_logos_raw = {item['name'].lower(): urllib.parse.unquote(item['download_url']) 
                                       for item in picons_data if item['type'] == 'file' and item['name'].endswith('.png')}
-            print(f"Se encontraron {len(available_logos_raw)} logos disponibles")
+            print(f"✓ Se encontraron {len(available_logos_raw)} logos disponibles")
         except Exception as e:
-            print(f"Error al obtener logos: {e}")
+            print(f"⚠ Error al obtener logos: {e}")
             available_logos_raw = {}
         
         # Logo por defecto
@@ -320,7 +330,7 @@ jobs:
         print("CONSTRUYENDO ÍNDICE DE LOGOS")
         print("="*60)
         logo_index = build_logo_index(available_logos_raw)
-        print(f"\nÍndice construido con {len(logo_index)} entradas")
+        print(f"\n✓ Índice construido con {len(logo_index)} entradas")
         
         # Parsear el archivo M3U
         print("\n" + "="*60)
@@ -415,11 +425,11 @@ jobs:
         print("\n" + "="*60)
         print("RESUMEN FINAL")
         print("="*60)
-        print(f"Archivo guardado en: {output_path}")
-        print(f"Total de canales procesados: {len(entries)}")
-        print(f"Total de canales omitidos: {skipped_count}")
-        print(f"Logos encontrados: {logos_found} ({logos_found*100//len(entries) if entries else 0}%)")
-        print(f"Logos default: {logos_default} ({logos_default*100//len(entries) if entries else 0}%)")
+        print(f"✓ Archivo guardado en: {output_path}")
+        print(f"✓ Total de canales procesados: {len(entries)}")
+        print(f"⊗ Total de canales omitidos: {skipped_count}")
+        print(f"✓ Logos encontrados: {logos_found} ({logos_found*100//len(entries) if entries else 0}%)")
+        print(f"⚠ Logos default: {logos_default} ({logos_default*100//len(entries) if entries else 0}%)")
         print("="*60)
         EOF
         
