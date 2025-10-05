@@ -245,4 +245,5 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add country/others/cord
-        git diff --staged --quiet || git commit -m "🤖🤖 [Bot] Update cord - $(date +'%Y-%m-%d %H:%M:%S')"        git push
+        git diff --staged --quiet || git commit -m "🤖🤖 [Bot] Update cord - $(date +'%Y-%m-%d %H:%M:%S')"        
+        git push
