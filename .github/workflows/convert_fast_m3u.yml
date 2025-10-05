@@ -2,7 +2,7 @@ name: Converter Fast M3U
 
 on:
   schedule:
-    - cron: '15 7 * * 4,5'  # Se ejecuta diariamente a medianoche
+    - cron: '15 7 * * *'  # Se ejecuta diariamente a medianoche
   workflow_dispatch:  # Permite ejecución manual
 
 jobs:
@@ -56,11 +56,11 @@ jobs:
         
         def clean_title(title):
             """Limpia el título de prefijos no deseados."""
-            # Eliminar prefijos específicos
-            prefixes_to_remove = ["CINE - ", "DEPORTES - ", "CINE -", "DEPORTES -","DOC-", "NOV-", "MUS-", "INF-"]
-            for prefix in prefixes_to_remove:
-                if prefix in title:
-                    title = title.replace(prefix, "").strip()
+            ## Eliminar prefijos específicos
+            #prefixes_to_remove = ["CINE - ", "DEPORTES - ", "CINE -", "DEPORTES -","DOC-", "NOV-", "MUS-", "INF-"]
+            #for prefix in prefixes_to_remove:
+            #    if prefix in title:
+            #        title = title.replace(prefix, "").strip()
             
             # Eliminar todo lo que esté dentro de paréntesis
             title = re.sub(r'\([^)]*\)', '', title)
