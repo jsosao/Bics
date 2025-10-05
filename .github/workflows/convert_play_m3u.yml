@@ -125,12 +125,12 @@ jobs:
            # if any(keyword in group_lower for keyword in skip_keywords):
            #     return any(keyword in group_lower for keyword in skip_keywords)
 
-           # include_keywords = ["canales", "canales de peliculas"]
-           #   return any(keyword in group_lower for keyword in include_keywords)
+            skip_keywords = ["24/7"]
+              return any(keyword in group_lower for keyword in include_keywords)
 
             include_keywords = ["canales", "canales de peliculas"]
-           # return not any(keyword in group_lower for keyword in include_keywords)
-            return not any(keyword in group_lower for keyword in include_keywords) and "24/7" in group_lower
+              return not any(keyword in group_lower for keyword in include_keywords)
+            
         
         def escape_url(url):
             """Escapa la URL para el formato de salida."""
