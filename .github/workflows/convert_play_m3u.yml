@@ -126,6 +126,7 @@ jobs:
            #     return any(keyword in group_lower for keyword in skip_keywords)
 
             skip_keywords = ["24/7"]
+            if any(keyword in group_lower for keyword in skip_keywords):
               return any(keyword in group_lower for keyword in skip_keywords)
 
             include_keywords = ["canales", "canales de peliculas"]
