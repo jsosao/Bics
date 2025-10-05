@@ -2,7 +2,7 @@ name: Converter Cord M3U
 
 on:
   schedule:
-    - cron: '0 6 * * 4,5'  # Se ejecuta los jueves y viernes a las 6:00 AM UTC
+    - cron: '0 6 * * *'  # Se ejecuta los jueves y viernes a las 6:00 AM UTC
   workflow_dispatch:  # Permite ejecución manual
 
 jobs:
@@ -56,11 +56,11 @@ jobs:
         
         def clean_title(title):
             """Limpia el título de prefijos no deseados."""
-            # Eliminar prefijos específicos
-            prefixes_to_remove = ["HD"]
-            for prefix in prefixes_to_remove:
-                if prefix in title:
-                    title = title.replace(prefix, "").strip()
+            ## Eliminar prefijos específicos
+            #prefixes_to_remove = ["HD"]
+            #for prefix in prefixes_to_remove:
+            #    if prefix in title:
+            #        title = title.replace(prefix, "").strip()
             
             # Eliminar todo lo que esté dentro de paréntesis
             title = re.sub(r'\([^)]*\)', '', title)
