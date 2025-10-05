@@ -1,4 +1,4 @@
-name: Converter Zapping M3U
+name: Converter Zap M3U
 
 on:
   schedule:
@@ -20,7 +20,7 @@ jobs:
 
     - name: Download and convert M3U file
       env:
-        M3U_URL: ${{ secrets.ZAPPING_M3U_URL }}
+        M3U_URL: ${{ secrets.ZAP_M3U_URL }}
       run: |
         cd $GITHUB_WORKSPACE
         python3 << 'EOF'
@@ -32,10 +32,10 @@ jobs:
         url = os.environ.get('M3U_URL')
         if not url:
             print("❌ ERROR: No se encontró la variable M3U_URL")
-            print("Verifica que el secret ZAPPING_M3U_URL esté configurado en GitHub")
+            print("Verifica que el secret ZAP_M3U_URL esté configurado en GitHub")
             exit(1)
         
-        print(f"✓ URL cargada desde secret ZAPPING_M3U_URL correctamente")
+        print(f"✓ URL cargada desde secret ZAP_M3U_URL correctamente")
         
         # Descargar el archivo
         print("\nDescargando archivo M3U...")
@@ -138,7 +138,7 @@ jobs:
         # ============================================================
         
         print("\n" + "="*60)
-        print("PROCESANDO CANALES - ZAPPING")
+        print("PROCESANDO CANALES - ZAP")
         print("="*60)
         
         lines = content.strip().split('\n')
@@ -224,14 +224,14 @@ jobs:
         output_content = '\n'.join(output_lines)
         
         # Guardar el archivo sin extensión
-        output_path = "country/others/zapping"
+        output_path = "country/others/zap"
         
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(output_content)
         
         # Estadísticas finales
         print("\n" + "="*60)
-        print("RESUMEN FINAL - ZAPPING")
+        print("RESUMEN FINAL - ZAP")
         print("="*60)
         print(f"✓ Archivo guardado en: {output_path}")
         print(f"✓ Total de canales procesados: {len(entries)}")
@@ -245,6 +245,6 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add country/others/zapping
-        git diff --staged --quiet || git commit -m "Update zapping - $(date +'%Y-%m-%d %H:%M:%S')"
+        git add country/others/zap
+        git diff --staged --quiet || git commit -m "Update zap - $(date +'%Y-%m-%d %H:%M:%S')"
         git push  
