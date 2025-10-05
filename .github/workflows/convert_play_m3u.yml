@@ -128,6 +128,10 @@ jobs:
            # include_keywords = ["canales", "canales de peliculas"]
            # return not any(keyword in group_lower for keyword in include_keywords)
 
+          # any(keyword in group_lower for keyword in include_keywords) → ¿Contiene alguna palabra a incluir?
+          # not any(ex in group_lower for ex in exclude_keywords) → ¿NO contiene ninguna palabra a excluir?
+          # Si AMBAS condiciones son True, retorna True (se incluye el grupo)
+
             include_keywords = ["canales", "canales de peliculas"]
             skip_keywords = ["24/7", "247"]
             return not (any(keyword in group_lower for keyword in include_keywords) and not any(ex in group_lower for ex in skip_keywords))            
