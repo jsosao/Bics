@@ -20,7 +20,7 @@ jobs:
 
     - name: Download and convert M3U file
       env:
-        M3U_URL: ${{ secrets.GRAL_M3U_URL }}
+        M3U_URL: ${{ secrets.EDMA_M3U_URL }}
       run: |
         cd $GITHUB_WORKSPACE
         python3 << 'EOF'
@@ -32,10 +32,10 @@ jobs:
         url = os.environ.get('M3U_URL')
         if not url:
             print("❌ ERROR: No se encontró la variable M3U_URL")
-            print("Verifica que el secret GRAL_M3U_URL esté configurado en GitHub")
+            print("Verifica que el secret EDMA_M3U_URL esté configurado en GitHub")
             exit(1)
         
-        print(f"✓ URL cargada desde secret GRAL_M3U_URL correctamente")
+        print(f"✓ URL cargada desde secret EDMA_M3U_URL correctamente")
         
         # Descargar el archivo
         print("\nDescargando archivo M3U...")
@@ -224,14 +224,14 @@ jobs:
         output_content = '\n'.join(output_lines)
         
         # Guardar el archivo sin extensión
-        output_path = "country/others/edmavi"
+        output_path = "country/others/edma"
         
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(output_content)
         
         # Estadísticas finales
         print("\n" + "="*60)
-        print("RESUMEN FINAL - GRAL")
+        print("RESUMEN FINAL - EDMA")
         print("="*60)
         print(f"✓ Archivo guardado en: {output_path}")
         print(f"✓ Total de canales procesados: {len(entries)}")
@@ -245,6 +245,6 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add country/others/edmavi
-        git diff --staged --quiet || git commit -m "Update edmavi - $(date +'%Y-%m-%d %H:%M:%S')"
+        git add country/others/edma
+        git diff --staged --quiet || git commit -m "Update edma - $(date +'%Y-%m-%d %H:%M:%S')"
         git push  
