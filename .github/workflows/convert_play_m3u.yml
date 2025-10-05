@@ -130,7 +130,7 @@ jobs:
 
             include_keywords = ["canales", "canales de peliculas"]
            # return not any(keyword in group_lower for keyword in include_keywords)
-            return not any(keyword in group_lower for keyword in include_keywords) and "24/7" not in group_lower
+            return not any(keyword in group_lower for keyword in include_keywords) and "24/7" in group_lower
         
         def escape_url(url):
             """Escapa la URL para el formato de salida."""
