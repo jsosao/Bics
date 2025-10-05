@@ -190,7 +190,7 @@ jobs:
                         skipped_count += 1
                         i += 1
                         continue
-                    
+                  
                     # Determinar el logo a usar
                     if tvg_logo and tvg_logo.strip():
                         final_logo = tvg_logo
@@ -257,7 +257,7 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add country/country/latin
-        git diff --staged --quiet || git commit -m "Update latin - $(date +'%Y-%m-%d %H:%M:%S')"
+        git diff --staged --quiet || git commit -m "[Bot] Update latin - $(date +'%Y-%m-%d %H:%M:%S')"
         git push  
 
 
