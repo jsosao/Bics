@@ -55,94 +55,6 @@
 }
 {
     Artist: "Play"
-    Title: "BABY TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/V6gNGYCg/BABY-TV.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]15576"
-    Live: true
-    Country: "us"
-    Tag: "Kids"
-}
-{
-    Artist: "Play"
-    Title: "DISNEY CHANNEL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/BvfXY7Xh/DISNEY-CHANNEL.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]15580"
-    Live: true
-    Country: "us"
-    Tag: "Kids"
-}
-{
-    Artist: "Play"
-    Title: "DISNEY JR"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/B6MbvqNy/DISNEY-JR.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]15581"
-    Live: true
-    Country: "us"
-    Tag: "Kids"
-}
-{
-    Artist: "Play"
-    Title: "TOONCAST"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/sXV1yBP7/TOONCAST.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]15582"
-    Live: true
-    Country: "us"
-    Tag: "Kids"
-}
-{
-    Artist: "Play"
-    Title: "NICKELODEON"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/2y5SgPdD/NICKELODEON.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]15583"
-    Live: true
-    Country: "us"
-    Tag: "Kids"
-}
-{
-    Artist: "Play"
-    Title: "TEEN NICK"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/1z04L0Fy/TEEN-KIDS.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]15584"
-    Live: true
-    Country: "us"
-    Tag: "Kids"
-}
-{
-    Artist: "Play"
-    Title: "NICK JR"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/4dsdQKmn/NICK-JR.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]15585"
-    Live: true
-    Country: "us"
-    Tag: "Kids"
-}
-{
-    Artist: "Play"
-    Title: "DISCOVERY KIDS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/ZK0BCyGL/DISCOVERY-KIDS.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]31565"
-    Live: true
-    Country: "us"
-    Tag: "Kids"
-}
-{
-    Artist: "Play"
     Title: "UNIVERSAL CRIME HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -839,7 +751,7 @@
     Title: "BR SPORTV 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_sportv_3.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]66374"
     Live: true
     Country: "br"
@@ -2830,7 +2742,7 @@
     Title: "BR: RECORD TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_america_tv.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]242113"
     Live: true
     Country: "br"
@@ -2841,7 +2753,7 @@
     Title: "BR MULTISHOW"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_globo.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]242114"
     Live: true
     Country: "br"
@@ -2852,7 +2764,7 @@
     Title: "BR BIS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_globo.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]242116"
     Live: true
     Country: "br"
@@ -2874,7 +2786,7 @@
     Title: "CARTOON NETWORK SD - Portugues"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoon_network.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]242120"
     Live: true
     Country: "ca"
@@ -4752,28 +4664,6 @@
 }
 {
     Artist: "Play"
-    Title: "CARTOON NETWORK"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/05VKkCBQ/CARTOON-NETWORK.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315884"
-    Live: true
-    Country: "ca"
-    Tag: "Kids"
-}
-{
-    Artist: "Play"
-    Title: "CARTOONITO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/YqV4gCkB/CARTOONITO.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315885"
-    Live: true
-    Country: "ca"
-    Tag: "Kids"
-}
-{
-    Artist: "Play"
     Title: "AR - AIRE SANTA FE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -5360,7 +5250,7 @@
     Title: "Extrema TV - PLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_america_tv.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327183"
     Live: true
     Country: "us"
@@ -5371,7 +5261,7 @@
     Title: "CDM Internacional - PLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_caracol_internacional.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327184"
     Live: true
     Country: "us"
@@ -5393,7 +5283,7 @@
     Title: "Cielo TV - PLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_america_tv.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327188"
     Live: true
     Country: "us"
@@ -5437,7 +5327,7 @@
     Title: "Tv CRET-PLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_america_tv.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327196"
     Live: true
     Country: "us"
@@ -5448,7 +5338,7 @@
     Title: "Tv Telebendicion-PLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_america_tv.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327198"
     Live: true
     Country: "us"
@@ -5459,7 +5349,7 @@
     Title: "Tv Salvacion-PLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_america_tv.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327199"
     Live: true
     Country: "us"
@@ -5687,17 +5577,6 @@
 }
 {
     Artist: "Play"
-    Title: "NICK CLASICO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Cl%C3%A1sico.png/revision/latest/scale-to-width-down/1200?cb=20240623002542&path-prefix=es"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]369835"
-    Live: true
-    Country: "us"
-    Tag: "Kids"
-}
-{
-    Artist: "Play"
     Title: "Infierno en la Cocina"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -5728,17 +5607,6 @@
     Live: true
     Country: "us"
     Tag: "Sports"
-}
-{
-    Artist: "Play"
-    Title: "Baby First TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000logos.net/wp-content/uploads/2022/09/BabyFirstTV-Logo.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]369839"
-    Live: true
-    Country: "us"
-    Tag: "Kids"
 }
 {
     Artist: "Play"
@@ -5783,17 +5651,6 @@
     Live: true
     Country: "us"
     Tag: "Sports"
-}
-{
-    Artist: "Play"
-    Title: "PLIM PLIM"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.seeklogo.com/logo-png/38/1/plim-plim-logo-png_seeklogo-382562.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]378739"
-    Live: true
-    Country: "us"
-    Tag: "Kids"
 }
 {
     Artist: "Play"
