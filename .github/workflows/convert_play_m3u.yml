@@ -286,9 +286,9 @@ jobs:
 
         print("\n" + "="*60)
         print("PROCESANDO CANALES - PLAY")
-        print("="*60)
-        
-	lines = content.strip().split('\n')
+        print("="*60)		
+		
+		lines = content.strip().split('\n')
         entries = []
         skipped_count = 0
         logos_original = 0
@@ -328,8 +328,8 @@ jobs:
                         i += 1
                         continue
                   
-	# Determinar el logo a usar
-                    if tvg_logo and tvg_logo.strip():
+				  # Determinar el logo a usar
+					 if tvg_logo and tvg_logo.strip():
                         final_logo = tvg_logo
                         logos_original += 1
                         print(f"✓ '{title}' | Logo: Original")
