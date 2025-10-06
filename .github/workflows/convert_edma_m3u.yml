@@ -94,7 +94,8 @@ jobs:
             name = re.sub(r'\([^)]*\)', '', name)
             # Reemplazar espacios por guión bajo para la comparación
             name = name.replace(' ', '_')
-                    print("NAME" '{name}')
+            print(f"NAME: {name}")
+                    
             
             return name
             # Limpiar espacios múltiples
