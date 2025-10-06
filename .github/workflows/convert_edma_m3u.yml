@@ -94,8 +94,8 @@ jobs:
             # Eliminar todo lo que esté dentro de paréntesis
             name = re.sub(r'\([^)]*\)', '', name)
             # Reemplazar espacios por guión bajo para la comparación
-            name = name.replace(' ', '_')
-            print(f"NAME: {name}")
+            #name = name.replace(' ', '_')
+            #print(f"NAME: {name}")
                     
             
             return name
