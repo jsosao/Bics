@@ -1,8 +1,8 @@
-name: Converter Edma M3U
+name: Converter Play M3U
 
 on:
   schedule:
-    - cron: '50 6 * * *'  # Se ejecuta diariamente a medianoche
+    - cron: '15 6 * * *'  # Se ejecuta diariamente a medianoche
   workflow_dispatch:  # Permite ejecución manual
 
 jobs:
@@ -20,7 +20,7 @@ jobs:
 
     - name: Download and convert M3U file
       env:
-        M3U_URL: ${{ secrets.EDMA_M3U_URL }}
+        M3U_URL: ${{ secrets.PLAY_M3U_URL }}
       run: |
         cd $GITHUB_WORKSPACE
         python3 << 'EOF'
@@ -30,14 +30,15 @@ jobs:
         import json
         import unicodedata
 
+
         # URL del archivo M3U desde variable de entorno (GitHub Secret)
         url = os.environ.get('M3U_URL')
         if not url:
             print("❌ ERROR: No se encontró la variable M3U_URL")
-            print("Verifica que el secret EDMA_M3U_URL esté configurado en GitHub")
+            print("Verifica que el secret PLAY_M3U_URL esté configurado en GitHub")
             exit(1)
         
-        print(f"✓ URL cargada desde secret EDMA_M3U_URL correctamente")
+        print(f"✓ URL cargada desde secret PLAY_M3U_URL correctamente")
         
         # Descargar el archivo
         print("\nDescargando archivo M3U...")
@@ -52,6 +53,7 @@ jobs:
         # Logo por defecto
         default_logo = "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
         picons_base_url = "https://raw.githubusercontent.com/jsosao/Bics/main/picons/"
+
 
         # ============================================================
         # FUNCIONES AUXILIARES
@@ -182,9 +184,15 @@ jobs:
                 return best_match['url']
             
             return None
-        
+
         def clean_title(title):
-            """Limpia el título de prefijos no deseados"""
+            """Limpia el título de prefijos no deseados."""
+            ## Eliminar prefijos específicos
+            #prefixes_to_remove = ["CINE - ", "DEPORTES - ", "CINE -", "DEPORTES -","DOC-", "NOV-", "MUS-", "INF-"]
+            #for prefix in prefixes_to_remove:
+            #    if prefix in title:
+            #        title = title.replace(prefix, "").strip()
+            
             # Eliminar todo lo que esté dentro de paréntesis
             title = re.sub(r'\([^)]*\)', '', title)
             
@@ -194,7 +202,7 @@ jobs:
             return title
         
         def get_country(title):
-            """Determina el país basado en el título"""
+            """Determina el país basado en el título."""
             title_upper = title.upper()
             if title.startswith("AU") or "AUSTRALIA" in title_upper:
                 return "au"
@@ -218,7 +226,7 @@ jobs:
                 return "us"  # Default
         
         def get_tag(group_title):
-            """Determina el tag basado en el group-title"""
+            """Determina el tag basado en el group-title."""
             group_lower = group_title.lower()
             if "sport" in group_lower or "deporte" in group_lower:
                 return "Sports"
@@ -240,13 +248,27 @@ jobs:
                 return "General"
         
         def should_skip_group(group_title):
-            """Verifica si el grupo debe ser omitido"""
+            """Verifica si el grupo debe ser omitido."""
             group_lower = group_title.lower()
-            skip_keywords = ["canales-adultos", "adultos", "adult", "radio", "infantil", "kids"]
-            return any(keyword in group_lower for keyword in skip_keywords)
+
+           ## Palabras clave que indican grupos a omitir
+           # skip_keywords = ["canales-adultos", "adultos", "adult", "vod", "infantiles", "series", "estrenos", "novelas", "24/7"]
+           # if any(keyword in group_lower for keyword in skip_keywords):
+           #     return any(keyword in group_lower for keyword in skip_keywords)
+
+           # include_keywords = ["canales", "canales de peliculas"]
+           # return not any(keyword in group_lower for keyword in include_keywords)
+
+          # any(keyword in group_lower for keyword in include_keywords) → ¿Contiene alguna palabra a incluir?
+          # not any(ex in group_lower for ex in exclude_keywords) → ¿NO contiene ninguna palabra a excluir?
+          # Si AMBAS condiciones son True, retorna True (se incluye el grupo)
+
+            include_keywords = ["canales", "canales de peliculas"]
+            skip_keywords = ["24/7", "247", "infantiles"]
+            return not (any(keyword in group_lower for keyword in include_keywords) and not any(ex in group_lower for ex in skip_keywords))            
         
         def escape_url(url):
-            """Escapa la URL para el formato de salida"""
+            """Escapa la URL para el formato de salida."""
             url = url.replace("http://", "http[:[/][/]]")
             url = url.replace("https://", "https[:[/][/]]")
             url = url.replace(".", "[.]")
@@ -261,12 +283,12 @@ jobs:
         print("OBTENIENDO LISTA DE PICONS DISPONIBLES")
         print("="*60)
         picons_list = get_picons_list()
-        
+
         print("\n" + "="*60)
-        print("PROCESANDO CANALES - EDMA")
+        print("PROCESANDO CANALES - PLAY")
         print("="*60)
         
-        lines = content.strip().split('\n')
+	lines = content.strip().split('\n')
         entries = []
         skipped_count = 0
         logos_original = 0
@@ -305,8 +327,8 @@ jobs:
                         skipped_count += 1
                         i += 1
                         continue
-                    
-                    # Determinar el logo a usar
+                  
+	                  # Determinar el logo a usar
                     if tvg_logo and tvg_logo.strip():
                         final_logo = tvg_logo
                         logos_original += 1
@@ -325,7 +347,7 @@ jobs:
                     
                     # Crear la entrada
                     entry = {
-                        'Artist': 'Edma',
+                        'Artist': 'Play',
                         'Title': title,
                         'streamFormat': 'hls|mts',
                         'SwitchingStrategy': 'full-adaptation',
@@ -357,14 +379,14 @@ jobs:
         output_content = '\n'.join(output_lines)
         
         # Guardar el archivo sin extensión
-        output_path = "country/others/edma"
+        output_path = "country/country/latin"
         
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(output_content)
         
         # Estadísticas finales
         print("\n" + "="*60)
-        print("RESUMEN FINAL - EDMA")
+        print("RESUMEN FINAL - PLAY")
         print("="*60)
         print(f"✓ Archivo guardado en: {output_path}")
         print(f"✓ Total de canales procesados: {len(entries)}")
@@ -381,6 +403,6 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add country/others/edma
-        git diff --staged --quiet || git commit -m "🤖🤖 [Bot] Update edma - $(date +'%Y-%m-%d %H:%M:%S')"        
-        git push
+        git add country/country/latin
+        git diff --staged --quiet || git commit -m "🤖🤖 [Bot] Update latin - $(date +'%Y-%m-%d %H:%M:%S')"
+        git push  
