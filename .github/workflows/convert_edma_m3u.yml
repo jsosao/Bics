@@ -74,10 +74,17 @@ jobs:
         
         def normalize_name(name):
             """Normaliza el nombre para comparación."""
-            # Eliminar palabras conocidas como HD, SD, FHD, UHD, 4K al inicio
-            name = re.sub(r'^(HD|SD|FHD|UHD|4K)[\s:\-]*', '', name, flags=re.IGNORECASE)
-            # Eliminar las mismas palabras al final
-            name = re.sub(r'[\s:\-]*(HD|SD|FHD|UHD|4K)
+            # Eliminar palabras conocidas como HD, SD, FHD, UHD, 4K en cualquier posición
+            name = re.sub(r'\b(HD|SD|FHD|UHD|4K)\b', '', name, flags=re.IGNORECASE)
+            # Limpiar espacios múltiples que puedan quedar
+            name = re.sub(r'\s+', ' ', name).strip()
+            # Convertir a minúsculas
+            name = name.lower()
+            # Eliminar caracteres especiales pero mantener espacios temporalmente
+            name = re.sub(r'[^a-z0-9\s]', '', name)
+            # Reemplazar espacios por guión bajo para la comparación
+            name = name.replace(' ', '_')
+            return name
         
         def find_matching_picon(title, picons_list):
             """Busca el picon más adecuado basándose en el título del stream."""
