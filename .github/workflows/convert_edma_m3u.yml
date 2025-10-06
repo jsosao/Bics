@@ -49,13 +49,107 @@ jobs:
         
         # Logo por defecto
         default_logo = "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+        picons_base_url = "https://raw.githubusercontent.com/jsosao/Bics/main/picons/"
 
         # ============================================================
         # FUNCIONES AUXILIARES
         # ============================================================
         
+        def get_picons_list():
+            """Obtiene la lista de picons disponibles en el repositorio."""
+            try:
+                api_url = "https://api.github.com/repos/jsosao/Bics/contents/picons"
+                req = urllib.request.Request(api_url)
+                req.add_header('User-Agent', 'Mozilla/5.0')
+                
+                with urllib.request.urlopen(req) as response:
+                    data = json.loads(response.read().decode('utf-8'))
+                    picons = [item['name'] for item in data if item['name'].endswith('.png')]
+                    print(f"✓ Se encontraron {len(picons)} picons disponibles")
+                    return picons
+            except Exception as e:
+                print(f"⚠ No se pudo obtener la lista de picons: {e}")
+                return []
+
+        def normalize_name(name):
+            """Normaliza el nombre para comparación."""
+
+            # Eliminar prefijos específicos
+            prefixes_to_remove = ["HD", "SD", "ARG", "MEX"]
+            for prefix in prefixes_to_remove:
+                if prefix in name:
+                    name = name.replace(prefix, "").strip()
+           
+            # Limpiar espacios múltiples que puedan quedar
+            name = re.sub(r'\s+', ' ', name).strip()
+            # Convertir a minúsculas
+            name = name.lower()
+            # Eliminar caracteres especiales pero mantener espacios temporalmente
+            #name = re.sub(r'[^a-z0-9\s]', '', name)
+            name = re.sub(r'[^\w\s&+\-]', '', name).strip()
+
+            # Eliminar todo lo que esté dentro de paréntesis
+            name = re.sub(r'\([^)]*\)', '', name)
+            # Reemplazar espacios por guión bajo para la comparación
+            name = name.replace(' ', '_')
+            return name
+            # Limpiar espacios múltiples
+            name = re.sub(r'\s+', ' ', name).strip()
+
+
+        def find_matching_picon(title, picons_list):
+            """Busca el picon más adecuado basándose en el título del stream."""
+            if not picons_list:
+                return None
+            
+            # Normalizar el título
+            normalized_title = normalize_name(title)
+            
+            # Buscar coincidencia exacta
+            for picon in picons_list:
+                picon_name = picon.replace('.png', '')
+                normalized_picon = normalize_name(picon_name)
+                
+                if normalized_picon == normalized_title:
+                    return picons_base_url + picon
+            
+            # Buscar coincidencia con números (ej: ESPN 2 -> espn_2.png)
+            # Extraer nombre base y número
+            match = re.match(r'^(.*?)\s*(\d+)$', title.strip())
+            if match:
+                base_name = normalize_name(match.group(1))
+                number = match.group(2)
+                
+                for picon in picons_list:
+                    picon_name = picon.replace('.png', '')
+                    # Buscar formato nombre_numero.png
+                    if normalize_name(picon_name.replace('_', '')) == base_name + number:
+                        return picons_base_url + picon
+                    # Buscar formato nombre_numero con guión bajo
+                    if picon_name.lower() == f"{base_name}_{number}":
+                        return picons_base_url + picon
+            
+            # Buscar coincidencia parcial (el título contiene el nombre del picon o viceversa)
+            best_match = None
+            best_match_length = 0
+            
+            for picon in picons_list:
+                picon_name = picon.replace('.png', '')
+                normalized_picon = normalize_name(picon_name)
+                
+                # Si el picon está contenido en el título o el título en el picon
+                if len(normalized_picon) >= 3:  # Mínimo 3 caracteres para evitar falsos positivos
+                    if normalized_picon in normalized_title or normalized_title in normalized_picon:
+                        # Preferir la coincidencia más larga
+                        match_length = min(len(normalized_picon), len(normalized_title))
+                        if match_length > best_match_length:
+                            best_match = picons_base_url + picon
+                            best_match_length = match_length
+            
+            return best_match
+      
         def clean_title(title):
-            """Limpia el título de prefijos no deseados."""
+
             ## Eliminar prefijos específicos
             #prefixes_to_remove = ["CINE - ", "DEPORTES - ", "CINE -", "DEPORTES -","DOC-", "NOV-", "MUS-", "INF-"]
             #for prefix in prefixes_to_remove:
@@ -69,6 +163,9 @@ jobs:
             title = re.sub(r'\s+', ' ', title).strip()
             
             return title
+
+
+
         
         def get_country(title):
             """Determina el país basado en el título."""
@@ -137,6 +234,11 @@ jobs:
         # ============================================================
         # PROCESAMIENTO PRINCIPAL
         # ============================================================
+
+        print("\n" + "="*60)
+        print("OBTENIENDO LISTA DE PICONS DISPONIBLES")
+        print("="*60)
+        picons_list = get_picons_list()
         
         print("\n" + "="*60)
         print("PROCESANDO CANALES - CORD")
