@@ -27,6 +27,7 @@ jobs:
         import urllib.request
         import re
         import os
+        import json        
 
         # URL del archivo M3U desde variable de entorno (GitHub Secret)
         url = os.environ.get('M3U_URL')
