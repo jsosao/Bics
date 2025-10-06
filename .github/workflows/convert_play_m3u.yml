@@ -27,6 +27,9 @@ jobs:
         import urllib.request
         import re
         import os
+        import json
+        import unicodedata
+
 
         # URL del archivo M3U desde variable de entorno (GitHub Secret)
         url = os.environ.get('M3U_URL')
@@ -49,11 +52,139 @@ jobs:
         
         # Logo por defecto
         default_logo = "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+        picons_base_url = "https://raw.githubusercontent.com/jsosao/Bics/main/picons/"
+
 
         # ============================================================
         # FUNCIONES AUXILIARES
         # ============================================================
         
+        def normalize_text(text):
+            """Normaliza el texto removiendo acentos, espacios y caracteres especiales"""
+            # Remover acentos
+            text = unicodedata.normalize('NFD', text)
+            text = ''.join(char for char in text if unicodedata.category(char) != 'Mn')
+            
+            # Eliminar prefijos comunes
+            prefixes_to_remove = ["HD", "SD", "FHD", "UHD", "4K", "ARG", "MEX"]
+            for prefix in prefixes_to_remove:
+                # Eliminar como palabra completa
+                text = re.sub(r'\b' + prefix + r'\b', '', text, flags=re.IGNORECASE)
+            
+            # Convertir a minúsculas y reemplazar espacios y caracteres especiales
+            text = re.sub(r'[^\w\s]', '', text.lower())
+            text = re.sub(r'\s+', '_', text.strip())
+            
+            return text
+        
+        def get_github_directory_contents(api_url):
+            """Obtiene el contenido de un directorio de GitHub usando la API"""
+            try:
+                req = urllib.request.Request(api_url)
+                req.add_header('User-Agent', 'Mozilla/5.0')
+                
+                with urllib.request.urlopen(req) as response:
+                    if response.status == 200:
+                        data = response.read().decode('utf-8')
+                        return json.loads(data)
+                    else:
+                        print(f"⚠ Error al acceder a {api_url}: {response.status}")
+                        return []
+            except Exception as e:
+                print(f"⚠ Error al obtener contenido: {e}")
+                return []
+        
+        def scan_directory_recursive(path=""):
+            """Escanea recursivamente todos los directorios para encontrar archivos PNG"""
+            api_url = f"https://api.github.com/repos/jsosao/Bics/contents/picons{path}"
+            contents = get_github_directory_contents(api_url)
+            
+            logos = []
+            
+            for item in contents:
+                if item['type'] == 'file' and item['name'].endswith('.png'):
+                    # Crear la URL completa del logo
+                    logo_url = picons_base_url + path.lstrip('/') + ('/' if path else '') + item['name']
+                    # Crear el nombre normalizado para búsqueda
+                    logo_name = item['name'].replace('.png', '')
+                    logos.append({
+                        'name': logo_name,
+                        'normalized_name': normalize_text(logo_name),
+                        'url': logo_url,
+                        'path': path
+                    })
+                elif item['type'] == 'dir':
+                    # Omitir la carpeta "country"
+                    if item['name'] not in ['country']:
+                        subfolder_path = path + '/' + item['name']
+                        logos.extend(scan_directory_recursive(subfolder_path))
+            
+            return logos
+        
+        def get_picons_list():
+            """Obtiene la lista completa de picons disponibles en el repositorio"""
+            try:
+                print("Escaneando repositorio de logos recursivamente...")
+                logos = scan_directory_recursive()
+                print(f"✓ Se encontraron {len(logos)} picons disponibles")
+                return logos
+            except Exception as e:
+                print(f"⚠ No se pudo obtener la lista de picons: {e}")
+                return []
+        
+        def find_best_logo_match(title, picons_list):
+            """Encuentra la mejor coincidencia de logo para un título dado"""
+            if not picons_list:
+                return None
+            
+            normalized_title = normalize_text(title)
+            
+            # Búsqueda exacta
+            for logo in picons_list:
+                if logo['normalized_name'] == normalized_title:
+                    print(f"  → Coincidencia exacta: {logo['name']}")
+                    return logo['url']
+            
+            # Búsqueda por coincidencia parcial con puntuación
+            best_match = None
+            max_score = 0
+            
+            for logo in picons_list:
+                # Calcular similitud por palabras
+                logo_words = set(logo['normalized_name'].split('_'))
+                title_words = set(normalized_title.split('_'))
+                
+                # Intersección de palabras
+                common_words = logo_words.intersection(title_words)
+                if len(common_words) > 0:
+                    # Puntuación basada en palabras comunes y longitud
+                    score = len(common_words) / max(len(logo_words), len(title_words))
+                    if score > max_score and score > 0.3:  # Umbral mínimo de similitud
+                        max_score = score
+                        best_match = logo
+            
+            # Si encontramos una buena coincidencia por palabras, retornarla
+            if best_match and max_score > 0.5:
+                print(f"  → Coincidencia por palabras ({int(max_score*100)}%): {best_match['name']}")
+                return best_match['url']
+            
+            # Búsqueda por contenido (substring)
+            if not best_match:
+                for logo in picons_list:
+                    if len(logo['normalized_name']) >= 3:
+                        if normalized_title in logo['normalized_name'] or logo['normalized_name'] in normalized_title:
+                            # Verificar que la longitud sea razonable
+                            if len(logo['normalized_name']) >= len(normalized_title) * 0.6:
+                                print(f"  → Coincidencia por substring: {logo['name']}")
+                                return logo['url']
+            
+            # Si encontramos alguna coincidencia débil, retornarla
+            if best_match:
+                print(f"  → Coincidencia parcial ({int(max_score*100)}%): {best_match['name']}")
+                return best_match['url']
+            
+            return None
+
         def clean_title(title):
             """Limpia el título de prefijos no deseados."""
             ## Eliminar prefijos específicos
@@ -133,7 +264,7 @@ jobs:
           # Si AMBAS condiciones son True, retorna True (se incluye el grupo)
 
             include_keywords = ["canales", "canales de peliculas"]
-            skip_keywords = ["24/7", "247"]
+            skip_keywords = ["24/7", "247", "infantiles"]
             return not (any(keyword in group_lower for keyword in include_keywords) and not any(ex in group_lower for ex in skip_keywords))            
         
         def escape_url(url):
@@ -147,15 +278,21 @@ jobs:
         # ============================================================
         # PROCESAMIENTO PRINCIPAL
         # ============================================================
-        
+
+        print("\n" + "="*60)
+        print("OBTENIENDO LISTA DE PICONS DISPONIBLES")
+        print("="*60)
+        picons_list = get_picons_list()
+
         print("\n" + "="*60)
         print("PROCESANDO CANALES - PLAY")
         print("="*60)
         
-        lines = content.strip().split('\n')
+	lines = content.strip().split('\n')
         entries = []
         skipped_count = 0
-        logos_with_value = 0
+        logos_original = 0
+        logos_found = 0
         logos_default = 0
         
         i = 0
@@ -191,15 +328,22 @@ jobs:
                         i += 1
                         continue
                   
-                    # Determinar el logo a usar
+	# Determinar el logo a usar
                     if tvg_logo and tvg_logo.strip():
                         final_logo = tvg_logo
-                        logos_with_value += 1
-                        print(f"✓ Procesando: '{title}' | Grupo: '{group_title} | Logo: {tvg_logo}")
+                        logos_original += 1
+                        print(f"✓ '{title}' | Logo: Original")
                     else:
-                        final_logo = default_logo
-                        logos_default += 1
-                        print(f"⚠ Procesando: '{title}' | Grupo: '{group_title} | Logo: {tvg_logo}")
+                        # Buscar picon correspondiente
+                        print(f"🔍 Buscando logo para: '{title}'")
+                        matched_picon = find_best_logo_match(title, picons_list)
+                        if matched_picon:
+                            final_logo = matched_picon
+                            logos_found += 1
+                        else:
+                            final_logo = default_logo
+                            logos_default += 1
+                            print(f"  → Sin coincidencia, usando no_logo.png")
                     
                     # Crear la entrada
                     entry = {
@@ -247,8 +391,11 @@ jobs:
         print(f"✓ Archivo guardado en: {output_path}")
         print(f"✓ Total de canales procesados: {len(entries)}")
         print(f"⊗ Total de canales omitidos: {skipped_count}")
-        print(f"✓ Logos del archivo original: {logos_with_value} ({logos_with_value*100//len(entries) if entries else 0}%)")
-        print(f"⚠ Logos default (no_logo.png): {logos_default} ({logos_default*100//len(entries) if entries else 0}%)")
+        print(f"\nDistribución de logos:")
+        print(f"  ✓ Logos originales del M3U: {logos_original} ({logos_original*100//len(entries) if entries else 0}%)")
+        print(f"  🔍 Picons encontrados automáticamente: {logos_found} ({logos_found*100//len(entries) if entries else 0}%)")
+        print(f"  ⚠ Logos default (no_logo.png): {logos_default} ({logos_default*100//len(entries) if entries else 0}%)")
+        print(f"\nTotal con logo específico: {logos_original + logos_found} ({(logos_original + logos_found)*100//len(entries) if entries else 0}%)")
         print("="*60)
         EOF
         
@@ -259,10 +406,3 @@ jobs:
         git add country/country/latin
         git diff --staged --quiet || git commit -m "🤖🤖 [Bot] Update latin - $(date +'%Y-%m-%d %H:%M:%S')"
         git push  
-
-
-
-
-
-
-
