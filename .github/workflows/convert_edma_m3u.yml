@@ -77,8 +77,12 @@ jobs:
             # Convertir a minúsculas
             name = name.lower()
 
-            # Remover prefijos conocidos
-            name = re.sub(r'^(HD)[\s:-]*', '', name)
+            # Normaliza el nombre para comparación
+            # Eliminar palabras conocidas como HD, SD, FHD, UHD, 4K al inicio
+            name = re.sub(r'^(HD|SD|FHD|UHD|4K)[\s:\-]*', '', name, flags=re.IGNORECASE)
+            # Eliminar las mismas palabras al final
+            name = re.sub(r'[\s:\-]*(HD|SD|FHD|UHD|4K)
+            
             # Remover solo algunos caracteres especiales, MANTENER &, +, y otros comunes en nombres de canales
             name = re.sub(r'[^\w\s&+\-]', '', name).strip()
 
