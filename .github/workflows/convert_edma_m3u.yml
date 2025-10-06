@@ -27,7 +27,6 @@ jobs:
         import urllib.request
         import re
         import os
-        import json
 
         # URL del archivo M3U desde variable de entorno (GitHub Secret)
         url = os.environ.get('M3U_URL')
@@ -50,95 +49,19 @@ jobs:
         
         # Logo por defecto
         default_logo = "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-        picons_base_url = "https://raw.githubusercontent.com/jsosao/Bics/main/picons/"
 
         # ============================================================
         # FUNCIONES AUXILIARES
         # ============================================================
         
-        def get_picons_list():
-            """Obtiene la lista de picons disponibles en el repositorio."""
-            try:
-                api_url = "https://api.github.com/repos/jsosao/Bics/contents/picons"
-                req = urllib.request.Request(api_url)
-                req.add_header('User-Agent', 'Mozilla/5.0')
-                
-                with urllib.request.urlopen(req) as response:
-                    data = json.loads(response.read().decode('utf-8'))
-                    picons = [item['name'] for item in data if item['name'].endswith('.png')]
-                    print(f"✓ Se encontraron {len(picons)} picons disponibles")
-                    return picons
-            except Exception as e:
-                print(f"⚠ No se pudo obtener la lista de picons: {e}")
-                return []
-        
-        def normalize_name(name):
-            """Normaliza el nombre para comparación."""
-            # Eliminar palabras conocidas como HD, SD, FHD, UHD, 4K en cualquier posición
-            name = re.sub(r'\b(HD|SD|FHD|UHD|4K)\b', '', name, flags=re.IGNORECASE)
-            # Limpiar espacios múltiples que puedan quedar
-            name = re.sub(r'\s+', ' ', name).strip()
-            # Convertir a minúsculas
-            name = name.lower()
-            # Eliminar caracteres especiales pero mantener espacios temporalmente
-            name = re.sub(r'[^a-z0-9\s]', '', name)
-            # Reemplazar espacios por guión bajo para la comparación
-            name = name.replace(' ', '_')
-            return name
-        
-        def find_matching_picon(title, picons_list):
-            """Busca el picon más adecuado basándose en el título del stream."""
-            if not picons_list:
-                return None
-            
-            # Normalizar el título
-            normalized_title = normalize_name(title)
-            
-            # Buscar coincidencia exacta
-            for picon in picons_list:
-                picon_name = picon.replace('.png', '')
-                normalized_picon = normalize_name(picon_name)
-                
-                if normalized_picon == normalized_title:
-                    return picons_base_url + picon
-            
-            # Buscar coincidencia con números (ej: ESPN 2 -> espn_2.png)
-            # Extraer nombre base y número
-            match = re.match(r'^(.*?)\s*(\d+)$', title.strip())
-            if match:
-                base_name = normalize_name(match.group(1))
-                number = match.group(2)
-                
-                for picon in picons_list:
-                    picon_name = picon.replace('.png', '')
-                    # Buscar formato nombre_numero.png
-                    if normalize_name(picon_name.replace('_', '')) == base_name + number:
-                        return picons_base_url + picon
-                    # Buscar formato nombre_numero con guión bajo
-                    if picon_name.lower() == f"{base_name}_{number}":
-                        return picons_base_url + picon
-            
-            # Buscar coincidencia parcial (el título contiene el nombre del picon o viceversa)
-            best_match = None
-            best_match_length = 0
-            
-            for picon in picons_list:
-                picon_name = picon.replace('.png', '')
-                normalized_picon = normalize_name(picon_name)
-                
-                # Si el picon está contenido en el título o el título en el picon
-                if len(normalized_picon) >= 3:  # Mínimo 3 caracteres para evitar falsos positivos
-                    if normalized_picon in normalized_title or normalized_title in normalized_picon:
-                        # Preferir la coincidencia más larga
-                        match_length = min(len(normalized_picon), len(normalized_title))
-                        if match_length > best_match_length:
-                            best_match = picons_base_url + picon
-                            best_match_length = match_length
-            
-            return best_match
-        
         def clean_title(title):
             """Limpia el título de prefijos no deseados."""
+            ## Eliminar prefijos específicos
+            #prefixes_to_remove = ["CINE - ", "DEPORTES - ", "CINE -", "DEPORTES -","DOC-", "NOV-", "MUS-", "INF-"]
+            #for prefix in prefixes_to_remove:
+            #    if prefix in title:
+            #        title = title.replace(prefix, "").strip()
+            
             # Eliminar todo lo que esté dentro de paréntesis
             title = re.sub(r'\([^)]*\)', '', title)
             
@@ -216,19 +139,13 @@ jobs:
         # ============================================================
         
         print("\n" + "="*60)
-        print("OBTENIENDO LISTA DE PICONS DISPONIBLES")
-        print("="*60)
-        picons_list = get_picons_list()
-        
-        print("\n" + "="*60)
-        print("PROCESANDO CANALES - EDMA")
+        print("PROCESANDO CANALES - CORD")
         print("="*60)
         
         lines = content.strip().split('\n')
         entries = []
         skipped_count = 0
-        logos_original = 0
-        logos_found = 0
+        logos_with_value = 0
         logos_default = 0
         
         i = 0
@@ -267,22 +184,12 @@ jobs:
                     # Determinar el logo a usar
                     if tvg_logo and tvg_logo.strip():
                         final_logo = tvg_logo
-                        logos_original += 1
-                        logo_source = "Original"
-                        print(f"✓ Procesando: '{title}' | Grupo: '{group_title}' | Logo: Original")
+                        logos_with_value += 1
+                        print(f"✓ Procesando: '{title}' | Grupo: '{group_title} | Logo: {tvg_logo}")
                     else:
-                        # Buscar picon correspondiente
-                        matched_picon = find_matching_picon(title, picons_list)
-                        if matched_picon:
-                            final_logo = matched_picon
-                            logos_found += 1
-                            logo_source = "Picon encontrado"
-                            print(f"🔍 Procesando: '{title}' | Grupo: '{group_title}' | Logo: {matched_picon.split('/')[-1]}")
-                        else:
-                            final_logo = default_logo
-                            logos_default += 1
-                            logo_source = "Default"
-                            print(f"⚠ Procesando: '{title}' | Grupo: '{group_title}' | Logo: no_logo.png")
+                        final_logo = default_logo
+                        logos_default += 1
+                        print(f"⚠ Procesando: '{title}' | Grupo: '{group_title} | Logo: {tvg_logo}")
                     
                     # Crear la entrada
                     entry = {
@@ -330,276 +237,8 @@ jobs:
         print(f"✓ Archivo guardado en: {output_path}")
         print(f"✓ Total de canales procesados: {len(entries)}")
         print(f"⊗ Total de canales omitidos: {skipped_count}")
-        print(f"\nDistribución de logos:")
-        print(f"  ✓ Logos originales del M3U: {logos_original} ({logos_original*100//len(entries) if entries else 0}%)")
-        print(f"  🔍 Picons encontrados automáticamente: {logos_found} ({logos_found*100//len(entries) if entries else 0}%)")
-        print(f"  ⚠ Logos default (no_logo.png): {logos_default} ({logos_default*100//len(entries) if entries else 0}%)")
-        print(f"\nTotal con logo específico: {logos_original + logos_found} ({(logos_original + logos_found)*100//len(entries) if entries else 0}%)")
-        print("="*60)
-        EOF
-        
-    - name: Commit and push changes
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add country/others/edma
-        git diff --staged --quiet || git commit -m "Update edma - $(date +%Y-%m-%d-%H:%M:%S)"        
-        git push, '', name, flags=re.IGNORECASE)
-            # Convertir a minúsculas
-            name = name.lower()
-            # Eliminar caracteres especiales y espacios
-            name = re.sub(r'[^a-z0-9]', '', name)
-            return name
-        
-        def find_matching_picon(title, picons_list):
-            """Busca el picon más adecuado basándose en el título del stream."""
-            if not picons_list:
-                return None
-            
-            # Normalizar el título
-            normalized_title = normalize_name(title)
-            
-            # Buscar coincidencia exacta
-            for picon in picons_list:
-                picon_name = picon.replace('.png', '')
-                normalized_picon = normalize_name(picon_name)
-                
-                if normalized_picon == normalized_title:
-                    return picons_base_url + picon
-            
-            # Buscar coincidencia con números (ej: ESPN 2 -> espn_2.png)
-            # Extraer nombre base y número
-            match = re.match(r'^(.*?)\s*(\d+)$', title.strip())
-            if match:
-                base_name = normalize_name(match.group(1))
-                number = match.group(2)
-                
-                for picon in picons_list:
-                    picon_name = picon.replace('.png', '')
-                    # Buscar formato nombre_numero.png
-                    if normalize_name(picon_name.replace('_', '')) == base_name + number:
-                        return picons_base_url + picon
-                    # Buscar formato nombre_numero con guión bajo
-                    if picon_name.lower() == f"{base_name}_{number}":
-                        return picons_base_url + picon
-            
-            # Buscar coincidencia parcial (el título contiene el nombre del picon o viceversa)
-            best_match = None
-            best_match_length = 0
-            
-            for picon in picons_list:
-                picon_name = picon.replace('.png', '')
-                normalized_picon = normalize_name(picon_name)
-                
-                # Si el picon está contenido en el título o el título en el picon
-                if len(normalized_picon) >= 3:  # Mínimo 3 caracteres para evitar falsos positivos
-                    if normalized_picon in normalized_title or normalized_title in normalized_picon:
-                        # Preferir la coincidencia más larga
-                        match_length = min(len(normalized_picon), len(normalized_title))
-                        if match_length > best_match_length:
-                            best_match = picons_base_url + picon
-                            best_match_length = match_length
-            
-            return best_match
-        
-        def clean_title(title):
-            """Limpia el título de prefijos no deseados."""
-            # Eliminar todo lo que esté dentro de paréntesis
-            title = re.sub(r'\([^)]*\)', '', title)
-            
-            # Limpiar espacios múltiples
-            title = re.sub(r'\s+', ' ', title).strip()
-            
-            return title
-        
-        def get_country(title):
-            """Determina el país basado en el título."""
-            title_upper = title.upper()
-            if title.startswith("AU") or "AUSTRALIA" in title_upper:
-                return "au"
-            elif title.startswith("UK") or "BBC" in title_upper or "BRITAIN" in title_upper:
-                return "uk"
-            elif title.startswith("US") or "USA" in title_upper:
-                return "us"
-            elif title.startswith("CA") or "CANADA" in title_upper:
-                return "ca"
-            elif title.startswith("ES") or "SPAIN" in title_upper or "ESPAÑA" in title_upper:
-                return "es"
-            elif title.startswith("MX") or "MEXICO" in title_upper or "MÉXICO" in title_upper:
-                return "mx"
-            elif title.startswith("AR") or "ARGENTINA" in title_upper:
-                return "ar"
-            elif title.startswith("BR") or "BRASIL" in title_upper or "BRAZIL" in title_upper:
-                return "br"
-            elif title.startswith("FR") or "FRANCE" in title_upper or "FRANCIA" in title_upper:
-                return "fr"
-            else:
-                return "us"  # Default
-        
-        def get_tag(group_title):
-            """Determina el tag basado en el group-title."""
-            group_lower = group_title.lower()
-            if "sport" in group_lower or "deporte" in group_lower:
-                return "Sports"
-            elif "radio" in group_lower:
-                return "Radio"
-            elif "news" in group_lower or "noticias" in group_lower:
-                return "News"
-            elif "movie" in group_lower or "film" in group_lower or "peliculas" in group_lower or "cine" in group_lower:
-                return "Movies"
-            elif "series" in group_lower or "tv show" in group_lower:
-                return "Series"
-            elif "music" in group_lower or "musica" in group_lower:
-                return "Music"
-            elif "doc" in group_lower:
-                return "Documentary"
-            elif "kids" in group_lower or "infantil" in group_lower:
-                return "Kids"
-            else:
-                return "General"
-        
-        def should_skip_group(group_title):
-            """Verifica si el grupo debe ser omitido."""
-            group_lower = group_title.lower()
-
-           # Palabras clave que indican grupos a omitir
-            skip_keywords = ["canales-adultos", "adultos", "adult", "radio", "infantil", "kids"]
-
-            if any(keyword in group_lower for keyword in skip_keywords):
-                return any(keyword in group_lower for keyword in skip_keywords)
-        
-        def escape_url(url):
-            """Escapa la URL para el formato de salida."""
-            url = url.replace("http://", "http[:[/][/]]")
-            url = url.replace("https://", "https[:[/][/]]")
-            url = url.replace(".", "[.]")
-            url = url.replace("/", "[/]")
-            return url
-
-        # ============================================================
-        # PROCESAMIENTO PRINCIPAL
-        # ============================================================
-        
-        print("\n" + "="*60)
-        print("OBTENIENDO LISTA DE PICONS DISPONIBLES")
-        print("="*60)
-        picons_list = get_picons_list()
-        
-        print("\n" + "="*60)
-        print("PROCESANDO CANALES - EDMA")
-        print("="*60)
-        
-        lines = content.strip().split('\n')
-        entries = []
-        skipped_count = 0
-        logos_original = 0
-        logos_found = 0
-        logos_default = 0
-        
-        i = 0
-        while i < len(lines):
-            line = lines[i].strip()
-            
-            if line.startswith('#EXTINF:'):
-                # Extraer información de la línea EXTINF
-                tvg_name_match = re.search(r'tvg-name="([^"]*)"', line)
-                tvg_logo_match = re.search(r'tvg-logo="([^"]*)"', line)
-                group_title_match = re.search(r'group-title="([^"]*)"', line)
-                
-                # El título está al final de la línea después de la última coma
-                title_match = re.search(r',(.*)$', line)
-                
-                tvg_name = tvg_name_match.group(1) if tvg_name_match else ""
-                tvg_logo = tvg_logo_match.group(1) if tvg_logo_match else ""
-                group_title = group_title_match.group(1) if group_title_match else ""
-                title = title_match.group(1).strip() if title_match else tvg_name
-
-                # Limpiar el título de prefijos no deseados
-                title = clean_title(title)
-                
-                # La siguiente línea debe ser la URL del stream
-                i += 1
-                if i < len(lines):
-                    stream_url = lines[i].strip()
-                    
-                    # Omitir grupos especificados
-                    if should_skip_group(group_title):
-                        print(f"⊗ Omitiendo: '{title}' | Grupo: '{group_title}'")
-                        skipped_count += 1
-                        i += 1
-                        continue
-                    
-                    # Determinar el logo a usar
-                    if tvg_logo and tvg_logo.strip():
-                        final_logo = tvg_logo
-                        logos_original += 1
-                        logo_source = "Original"
-                        print(f"✓ Procesando: '{title}' | Grupo: '{group_title}' | Logo: Original")
-                    else:
-                        # Buscar picon correspondiente
-                        matched_picon = find_matching_picon(title, picons_list)
-                        if matched_picon:
-                            final_logo = matched_picon
-                            logos_found += 1
-                            logo_source = "Picon encontrado"
-                            print(f"🔍 Procesando: '{title}' | Grupo: '{group_title}' | Logo: {matched_picon.split('/')[-1]}")
-                        else:
-                            final_logo = default_logo
-                            logos_default += 1
-                            logo_source = "Default"
-                            print(f"⚠ Procesando: '{title}' | Grupo: '{group_title}' | Logo: no_logo.png")
-                    
-                    # Crear la entrada
-                    entry = {
-                        'Artist': 'Edma',
-                        'Title': title,
-                        'streamFormat': 'hls|mts',
-                        'SwitchingStrategy': 'full-adaptation',
-                        'Logo': final_logo,
-                        'Stream': escape_url(stream_url),
-                        'Live': True,
-                        'Country': get_country(title),
-                        'Tag': get_tag(group_title)
-                    }
-                    entries.append(entry)
-            
-            i += 1
-        
-        # Generar el archivo de salida
-        output_lines = []
-        for entry in entries:
-            output_lines.append('{')
-            output_lines.append(f'    Artist: "{entry["Artist"]}"')
-            output_lines.append(f'    Title: "{entry["Title"]}"')
-            output_lines.append(f'    streamFormat: "{entry["streamFormat"]}"')
-            output_lines.append(f'    SwitchingStrategy: "{entry["SwitchingStrategy"]}"')
-            output_lines.append(f'    Logo: "{entry["Logo"]}"')
-            output_lines.append(f'    Stream: "{entry["Stream"]}"')
-            output_lines.append(f'    Live: {str(entry["Live"]).lower()}')
-            output_lines.append(f'    Country: "{entry["Country"]}"')
-            output_lines.append(f'    Tag: "{entry["Tag"]}"')
-            output_lines.append('}')
-        
-        output_content = '\n'.join(output_lines)
-        
-        # Guardar el archivo sin extensión
-        output_path = "country/others/edma"
-        
-        with open(output_path, 'w', encoding='utf-8') as f:
-            f.write(output_content)
-        
-        # Estadísticas finales
-        print("\n" + "="*60)
-        print("RESUMEN FINAL - EDMA")
-        print("="*60)
-        print(f"✓ Archivo guardado en: {output_path}")
-        print(f"✓ Total de canales procesados: {len(entries)}")
-        print(f"⊗ Total de canales omitidos: {skipped_count}")
-        print(f"\nDistribución de logos:")
-        print(f"  ✓ Logos originales del M3U: {logos_original} ({logos_original*100//len(entries) if entries else 0}%)")
-        print(f"  🔍 Picons encontrados automáticamente: {logos_found} ({logos_found*100//len(entries) if entries else 0}%)")
-        print(f"  ⚠ Logos default (no_logo.png): {logos_default} ({logos_default*100//len(entries) if entries else 0}%)")
-        print(f"\nTotal con logo específico: {logos_original + logos_found} ({(logos_original + logos_found)*100//len(entries) if entries else 0}%)")
+        print(f"✓ Logos del archivo original: {logos_with_value} ({logos_with_value*100//len(entries) if entries else 0}%)")
+        print(f"⚠ Logos default (no_logo.png): {logos_default} ({logos_default*100//len(entries) if entries else 0}%)")
         print("="*60)
         EOF
         
@@ -609,6 +248,4 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add country/others/edma
         git diff --staged --quiet || git commit -m "🤖🤖 [Bot] Update edma - $(date +'%Y-%m-%d %H:%M:%S')"        
-        git push        
-    
-    
+        git push 
