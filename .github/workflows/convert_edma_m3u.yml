@@ -76,8 +76,14 @@ jobs:
             """Normaliza el nombre para comparación."""
             # Convertir a minúsculas
             name = name.lower()
+
+            # Remover prefijos conocidos
+            name = re.sub(r'^(HD)[\s:-]*', '', name)
+            # Remover solo algunos caracteres especiales, MANTENER &, +, y otros comunes en nombres de canales
+            name = re.sub(r'[^\w\s&+\-]', '', name).strip()
+
             # Eliminar caracteres especiales y espacios
-            name = re.sub(r'[^a-z0-9]', '', name)
+           # name = re.sub(r'[^a-z0-9]', '', name)
             return name
         
         def find_matching_picon(title, picons_list):
