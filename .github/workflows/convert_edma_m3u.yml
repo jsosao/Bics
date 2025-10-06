@@ -286,12 +286,22 @@ jobs:
                     # Determinar el logo a usar
                     if tvg_logo and tvg_logo.strip():
                         final_logo = tvg_logo
-                        logos_with_value += 1
-                        print(f"✓ Procesando: '{title}' | Grupo: '{group_title} | Logo: {tvg_logo}")
+                        logos_original += 1
+                        logo_source = "Original"
+                        print(f"✓ Procesando: '{title}' | Grupo: '{group_title}' | Logo: Original")
                     else:
-                        final_logo = default_logo
-                        logos_default += 1
-                        print(f"⚠ Procesando: '{title}' | Grupo: '{group_title} | Logo: {tvg_logo}")
+                        # Buscar picon correspondiente
+                        matched_picon = find_matching_picon(title, picons_list)
+                        if matched_picon:
+                            final_logo = matched_picon
+                            logos_found += 1
+                            logo_source = "Picon encontrado"
+                            print(f"🔍 Procesando: '{title}' | Grupo: '{group_title}' | Logo: {matched_picon.split('/')[-1]}")
+                        else:
+                            final_logo = default_logo
+                            logos_default += 1
+                            logo_source = "Default"
+                            print(f"⚠ Procesando: '{title}' | Grupo: '{group_title}' | Logo: no_logo.png")
                     
                     # Crear la entrada
                     entry = {
