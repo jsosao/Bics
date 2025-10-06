@@ -283,12 +283,12 @@ jobs:
         print("OBTENIENDO LISTA DE PICONS DISPONIBLES")
         print("="*60)
         picons_list = get_picons_list()
-
+        
         print("\n" + "="*60)
         print("PROCESANDO CANALES - PLAY")
-        print("="*60)		
-		
-		lines = content.strip().split('\n')
+        print("="*60)
+        
+        lines = content.strip().split('\n')
         entries = []
         skipped_count = 0
         logos_original = 0
