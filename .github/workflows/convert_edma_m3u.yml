@@ -247,9 +247,9 @@ jobs:
         lines = content.strip().split('\n')
         entries = []
         skipped_count = 0
-        logos_with_value = 0
-        logos_default = 0
         logos_original = 0
+        logos_found = 0
+        logos_default = 0
         
         i = 0
         while i < len(lines):
