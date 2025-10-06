@@ -27,7 +27,8 @@ jobs:
         import urllib.request
         import re
         import os
-        import json        
+        import json
+        import unicodedata
 
         # URL del archivo M3U desde variable de entorno (GitHub Secret)
         url = os.environ.get('M3U_URL')
@@ -56,110 +57,134 @@ jobs:
         # FUNCIONES AUXILIARES
         # ============================================================
         
-        def get_picons_list():
-            """Obtiene la lista de picons disponibles en el repositorio."""
+        def normalize_text(text):
+            """Normaliza el texto removiendo acentos, espacios y caracteres especiales"""
+            # Remover acentos
+            text = unicodedata.normalize('NFD', text)
+            text = ''.join(char for char in text if unicodedata.category(char) != 'Mn')
+            
+            # Eliminar prefijos comunes
+            prefixes_to_remove = ["HD", "SD", "FHD", "UHD", "4K", "ARG", "MEX"]
+            for prefix in prefixes_to_remove:
+                # Eliminar como palabra completa
+                text = re.sub(r'\b' + prefix + r'\b', '', text, flags=re.IGNORECASE)
+            
+            # Convertir a minúsculas y reemplazar espacios y caracteres especiales
+            text = re.sub(r'[^\w\s]', '', text.lower())
+            text = re.sub(r'\s+', '_', text.strip())
+            
+            return text
+        
+        def get_github_directory_contents(api_url):
+            """Obtiene el contenido de un directorio de GitHub usando la API"""
             try:
-                api_url = "https://api.github.com/repos/jsosao/Bics/contents/picons"
                 req = urllib.request.Request(api_url)
                 req.add_header('User-Agent', 'Mozilla/5.0')
                 
                 with urllib.request.urlopen(req) as response:
-                    data = json.loads(response.read().decode('utf-8'))
-                    picons = [item['name'] for item in data if item['name'].endswith('.png')]
-                    print(f"✓ Se encontraron {len(picons)} picons disponibles")
-                    return picons
+                    if response.status == 200:
+                        data = response.read().decode('utf-8')
+                        return json.loads(data)
+                    else:
+                        print(f"⚠ Error al acceder a {api_url}: {response.status}")
+                        return []
+            except Exception as e:
+                print(f"⚠ Error al obtener contenido: {e}")
+                return []
+        
+        def scan_directory_recursive(path=""):
+            """Escanea recursivamente todos los directorios para encontrar archivos PNG"""
+            api_url = f"https://api.github.com/repos/jsosao/Bics/contents/picons{path}"
+            contents = get_github_directory_contents(api_url)
+            
+            logos = []
+            
+            for item in contents:
+                if item['type'] == 'file' and item['name'].endswith('.png'):
+                    # Crear la URL completa del logo
+                    logo_url = picons_base_url + path.lstrip('/') + ('/' if path else '') + item['name']
+                    # Crear el nombre normalizado para búsqueda
+                    logo_name = item['name'].replace('.png', '')
+                    logos.append({
+                        'name': logo_name,
+                        'normalized_name': normalize_text(logo_name),
+                        'url': logo_url,
+                        'path': path
+                    })
+                elif item['type'] == 'dir':
+                    # Omitir la carpeta "country"
+                    if item['name'] not in ['country']:
+                        subfolder_path = path + '/' + item['name']
+                        logos.extend(scan_directory_recursive(subfolder_path))
+            
+            return logos
+        
+        def get_picons_list():
+            """Obtiene la lista completa de picons disponibles en el repositorio"""
+            try:
+                print("Escaneando repositorio de logos recursivamente...")
+                logos = scan_directory_recursive()
+                print(f"✓ Se encontraron {len(logos)} picons disponibles")
+                return logos
             except Exception as e:
                 print(f"⚠ No se pudo obtener la lista de picons: {e}")
                 return []
-
-        def normalize_name(name):
-
-            """Normaliza el nombre para comparación."""
-
-            # Eliminar prefijos específicos
-            prefixes_to_remove = ["HD", "SD", "ARG", "MEX"]
-            for prefix in prefixes_to_remove:
-                if prefix in name:
-                    name = name.replace(prefix, "").strip()
-           
-            # Limpiar espacios múltiples que puedan quedar
-            name = re.sub(r'\s+', ' ', name).strip()
-            # Convertir a minúsculas
-            name = name.lower()
-            # Eliminar caracteres especiales pero mantener espacios temporalmente
-            #name = re.sub(r'[^a-z0-9\s]', '', name)
-            name = re.sub(r'[^\w\s&+\-]', '', name).strip()
-
-            # Eliminar todo lo que esté dentro de paréntesis
-            name = re.sub(r'\([^)]*\)', '', name)
-            # Reemplazar espacios por guión bajo para la comparación
-            #name = name.replace(' ', '_')
-            print(f"NAME: {name}")
-                    
-            
-            return name
-            # Limpiar espacios múltiples
-            name = re.sub(r'\s+', ' ', name).strip()
-
-        def find_matching_picon(title, picons_list):
-            """Busca el picon más adecuado basándose en el título del stream."""
+        
+        def find_best_logo_match(title, picons_list):
+            """Encuentra la mejor coincidencia de logo para un título dado"""
             if not picons_list:
                 return None
             
-            # Normalizar el título
-            normalized_title = normalize_name(title)
+            normalized_title = normalize_text(title)
             
-            # Buscar coincidencia exacta
-            for picon in picons_list:
-                picon_name = picon.replace('.png', '')
-                normalized_picon = normalize_name(picon_name)
-                
-                if normalized_picon == normalized_title:
-                    return picons_base_url + picon
+            # Búsqueda exacta
+            for logo in picons_list:
+                if logo['normalized_name'] == normalized_title:
+                    print(f"  → Coincidencia exacta: {logo['name']}")
+                    return logo['url']
             
-            # Buscar coincidencia con números (ej: ESPN 2 -> espn_2.png)
-            # Extraer nombre base y número
-            match = re.match(r'^(.*?)\s*(\d+)$', title.strip())
-            if match:
-                base_name = normalize_name(match.group(1))
-                number = match.group(2)
-                
-                for picon in picons_list:
-                    picon_name = picon.replace('.png', '')
-                    # Buscar formato nombre_numero.png
-                    if normalize_name(picon_name.replace('_', '')) == base_name + number:
-                        return picons_base_url + picon
-                    # Buscar formato nombre_numero con guión bajo
-                    if picon_name.lower() == f"{base_name}_{number}":
-                        return picons_base_url + picon
-            
-            # Buscar coincidencia parcial (el título contiene el nombre del picon o viceversa)
+            # Búsqueda por coincidencia parcial con puntuación
             best_match = None
-            best_match_length = 0
+            max_score = 0
             
-            for picon in picons_list:
-                picon_name = picon.replace('.png', '')
-                normalized_picon = normalize_name(picon_name)
+            for logo in picons_list:
+                # Calcular similitud por palabras
+                logo_words = set(logo['normalized_name'].split('_'))
+                title_words = set(normalized_title.split('_'))
                 
-                # Si el picon está contenido en el título o el título en el picon
-                if len(normalized_picon) >= 3:  # Mínimo 3 caracteres para evitar falsos positivos
-                    if normalized_picon in normalized_title or normalized_title in normalized_picon:
-                        # Preferir la coincidencia más larga
-                        match_length = min(len(normalized_picon), len(normalized_title))
-                        if match_length > best_match_length:
-                            best_match = picons_base_url + picon
-                            best_match_length = match_length
+                # Intersección de palabras
+                common_words = logo_words.intersection(title_words)
+                if len(common_words) > 0:
+                    # Puntuación basada en palabras comunes y longitud
+                    score = len(common_words) / max(len(logo_words), len(title_words))
+                    if score > max_score and score > 0.3:  # Umbral mínimo de similitud
+                        max_score = score
+                        best_match = logo
             
-            return best_match
-      
+            # Si encontramos una buena coincidencia por palabras, retornarla
+            if best_match and max_score > 0.5:
+                print(f"  → Coincidencia por palabras ({int(max_score*100)}%): {best_match['name']}")
+                return best_match['url']
+            
+            # Búsqueda por contenido (substring)
+            if not best_match:
+                for logo in picons_list:
+                    if len(logo['normalized_name']) >= 3:
+                        if normalized_title in logo['normalized_name'] or logo['normalized_name'] in normalized_title:
+                            # Verificar que la longitud sea razonable
+                            if len(logo['normalized_name']) >= len(normalized_title) * 0.6:
+                                print(f"  → Coincidencia por substring: {logo['name']}")
+                                return logo['url']
+            
+            # Si encontramos alguna coincidencia débil, retornarla
+            if best_match:
+                print(f"  → Coincidencia parcial ({int(max_score*100)}%): {best_match['name']}")
+                return best_match['url']
+            
+            return None
+        
         def clean_title(title):
-
-            ## Eliminar prefijos específicos
-            #prefixes_to_remove = ["CINE - ", "DEPORTES - ", "CINE -", "DEPORTES -","DOC-", "NOV-", "MUS-", "INF-"]
-            #for prefix in prefixes_to_remove:
-            #    if prefix in title:
-            #        title = title.replace(prefix, "").strip()
-            
+            """Limpia el título de prefijos no deseados"""
             # Eliminar todo lo que esté dentro de paréntesis
             title = re.sub(r'\([^)]*\)', '', title)
             
@@ -167,12 +192,9 @@ jobs:
             title = re.sub(r'\s+', ' ', title).strip()
             
             return title
-
-
-
         
         def get_country(title):
-            """Determina el país basado en el título."""
+            """Determina el país basado en el título"""
             title_upper = title.upper()
             if title.startswith("AU") or "AUSTRALIA" in title_upper:
                 return "au"
@@ -196,7 +218,7 @@ jobs:
                 return "us"  # Default
         
         def get_tag(group_title):
-            """Determina el tag basado en el group-title."""
+            """Determina el tag basado en el group-title"""
             group_lower = group_title.lower()
             if "sport" in group_lower or "deporte" in group_lower:
                 return "Sports"
@@ -218,17 +240,13 @@ jobs:
                 return "General"
         
         def should_skip_group(group_title):
-            """Verifica si el grupo debe ser omitido."""
+            """Verifica si el grupo debe ser omitido"""
             group_lower = group_title.lower()
-
-           # Palabras clave que indican grupos a omitir
             skip_keywords = ["canales-adultos", "adultos", "adult", "radio", "infantil", "kids"]
-
-            if any(keyword in group_lower for keyword in skip_keywords):
-                return any(keyword in group_lower for keyword in skip_keywords)
+            return any(keyword in group_lower for keyword in skip_keywords)
         
         def escape_url(url):
-            """Escapa la URL para el formato de salida."""
+            """Escapa la URL para el formato de salida"""
             url = url.replace("http://", "http[:[/][/]]")
             url = url.replace("https://", "https[:[/][/]]")
             url = url.replace(".", "[.]")
@@ -245,7 +263,7 @@ jobs:
         picons_list = get_picons_list()
         
         print("\n" + "="*60)
-        print("PROCESANDO CANALES - CORD")
+        print("PROCESANDO CANALES - EDMA")
         print("="*60)
         
         lines = content.strip().split('\n')
@@ -292,21 +310,18 @@ jobs:
                     if tvg_logo and tvg_logo.strip():
                         final_logo = tvg_logo
                         logos_original += 1
-                        logo_source = "Original"
-                        print(f"✓ Procesando: '{title}' | Grupo: '{group_title}' | Logo: Original")
+                        print(f"✓ '{title}' | Logo: Original")
                     else:
                         # Buscar picon correspondiente
-                        matched_picon = find_matching_picon(title, picons_list)
+                        print(f"🔍 Buscando logo para: '{title}'")
+                        matched_picon = find_best_logo_match(title, picons_list)
                         if matched_picon:
                             final_logo = matched_picon
                             logos_found += 1
-                            logo_source = "Picon encontrado"
-                            print(f"🔍 Procesando: '{title}' | Grupo: '{group_title}' | Logo: {matched_picon.split('/')[-1]}")
                         else:
                             final_logo = default_logo
                             logos_default += 1
-                            logo_source = "Default"
-                            print(f"⚠ Procesando: '{title}' | Grupo: '{group_title}' | Logo: no_logo.png")
+                            print(f"  → Sin coincidencia, usando no_logo.png")
                     
                     # Crear la entrada
                     entry = {
@@ -367,5 +382,5 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add country/others/edma
-        git diff --staged --quiet || git commit -m "🤖🤖 [Bot] Update edma - $(date +'%Y-%m-%d %H:%M:%S')"        
-        git push 
+        git diff --staged --quiet || git commit -m "Update edma"
+        git push
