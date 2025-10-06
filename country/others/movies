@@ -8,6 +8,39 @@
     Live: true
 }
 {
+    Artist: "Zapp"
+    Title: "Regreso al futuro (1985)(4K)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://image.tmdb.org/t/p/original/nohNJW0uUPchLs425Xif1q8cobo.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]movie[/]mayleenfunez1[/]135535683598[/]46297[.]mkv"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "Regreso al futuro: Parte II (1989)(4K)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://image.tmdb.org/t/p/original/3L9TXTM5GdBEEtLm0TA1S1G6fty.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]movie[/]mayleenfunez1[/]135535683598[/]46298[.]mkv"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "Regreso al futuro: Parte III (1990)(4K)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://image.tmdb.org/t/p/original/6IYc85BR3izkXXm5CZWwl6HV5Np.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]movie[/]mayleenfunez1[/]135535683598[/]46299[.]mkv"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
     Artist: "Host"
     Title: "MOVIETIME"
     streamFormat: "hls|mts"
