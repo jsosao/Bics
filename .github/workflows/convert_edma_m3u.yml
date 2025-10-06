@@ -249,6 +249,7 @@ jobs:
         skipped_count = 0
         logos_with_value = 0
         logos_default = 0
+        logos_original = 0
         
         i = 0
         while i < len(lines):
@@ -349,8 +350,11 @@ jobs:
         print(f"✓ Archivo guardado en: {output_path}")
         print(f"✓ Total de canales procesados: {len(entries)}")
         print(f"⊗ Total de canales omitidos: {skipped_count}")
-        print(f"✓ Logos del archivo original: {logos_with_value} ({logos_with_value*100//len(entries) if entries else 0}%)")
-        print(f"⚠ Logos default (no_logo.png): {logos_default} ({logos_default*100//len(entries) if entries else 0}%)")
+        print(f"\nDistribución de logos:")
+        print(f"  ✓ Logos originales del M3U: {logos_original} ({logos_original*100//len(entries) if entries else 0}%)")
+        print(f"  🔍 Picons encontrados automáticamente: {logos_found} ({logos_found*100//len(entries) if entries else 0}%)")
+        print(f"  ⚠ Logos default (no_logo.png): {logos_default} ({logos_default*100//len(entries) if entries else 0}%)")
+        print(f"\nTotal con logo específico: {logos_original + logos_found} ({(logos_original + logos_found)*100//len(entries) if entries else 0}%)")
         print("="*60)
         EOF
         
