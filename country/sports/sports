@@ -72,7 +72,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) MX: TUDN"
+    Title: "MX: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
@@ -81,7 +81,7 @@
 }
 {
     Artist: "Alverich"
-    Title: "(OFF) US: TUDN"
+    Title: "US: TUDN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png"
@@ -234,7 +234,7 @@
 }
 {
     Artist: "web"
-    Title: "MX: LAS"
+    Title: "(OFF) MX: LAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las.png"
@@ -243,7 +243,7 @@
 }
 {
     Artist: "web"
-    Title: "MX: BEISBOL LATINO TV"
+    Title: "(OFF) MX: BEISBOL LATINO TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_beisbol_latino.png"
@@ -486,7 +486,7 @@
 }
 {
     Artist: "Cord"
-    Title: "US: BALLY_SPORTS SOUTHWEST"
+    Title: "(OFF) US: BALLY_SPORTS SOUTHWEST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
@@ -513,7 +513,7 @@
 }
 {
     Artist: "Cord"
-    Title: "NBC SPORTS CALIFORNIA SD (USA)"
+    Title: "(OFF) NBC SPORTS CALIFORNIA SD (USA)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
@@ -522,7 +522,7 @@
 }
 {
     Artist: "Cord"
-    Title: "NBC SPORTS CHICAGO SD (USA)"
+    Title: "(OFF) NBC SPORTS CHICAGO SD (USA)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
@@ -747,7 +747,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) BR: SPORT TV 4"
+    Title: "BR: SPORT TV 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_sportv.png"
@@ -873,7 +873,7 @@
 }
 {
     Artist: "Cord"
-    Title: "WIN SPORTS+ HD"
+    Title: "(OFF) WIN SPORTS+ HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_win_sports_plus.png"
@@ -891,7 +891,7 @@
 }
 {
     Artist: "vk"
-    Title: "(OFF) TIGO SPORTS HD"
+    Title: "TIGO SPORTS HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_tigo_sports.png"
