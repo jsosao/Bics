@@ -242,7 +242,7 @@ jobs:
         def should_skip_group(group_title):
             """Verifica si el grupo debe ser omitido"""
             group_lower = group_title.lower()
-            skip_keywords = ["canales-adultos", "adultos", "adult", "radio", "infantil", "kids", "vod", "serie", "novela", "24/7"]
+            skip_keywords = ["canales-adultos", "adultos", "adult", "radio", "infantil", "kids", "vod", "serie", "novela", "estrenos", "24/7"]
             return any(keyword in group_lower for keyword in skip_keywords)
         
         def escape_url(url):
@@ -263,7 +263,7 @@ jobs:
         picons_list = get_picons_list()
         
         print("\n" + "="*60)
-        print("PROCESANDO CANALES - EDMA")
+        print("PROCESANDO CANALES - PROYECTO")
         print("="*60)
         
         lines = content.strip().split('\n')
@@ -325,7 +325,7 @@ jobs:
                     
                     # Crear la entrada
                     entry = {
-                        'Artist': 'Edma',
+                        'Artist': 'Proyecto',
                         'Title': title,
                         'streamFormat': 'hls|mts',
                         'SwitchingStrategy': 'full-adaptation',
