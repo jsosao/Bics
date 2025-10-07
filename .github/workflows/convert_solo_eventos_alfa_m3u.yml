@@ -246,16 +246,21 @@ jobs:
             else:
                 return "General"
         
-        def should_skip_group(group_title):
-            """Verifica si el grupo debe ser omitido"""
+        def should_include_channel(group_title, channel_title):
+            """Verifica si el canal debe ser incluido basado en grupo y título"""
             group_lower = group_title.lower()
-            #skip_keywords = ["canales-adultos", "adultos", "adult", "radio", "infantil", "kids", "vod", "serie", "novela", "estrenos", "24/7"]
-            #return any(keyword in group_lower for keyword in skip_keywords)
-
-            include_keywords = ["(eventos)"]
-            skip_keywords = ["canales-adultos", "adultos", "adult", "cartelera", "estrenos", "disney", "recien", "cine de oro", "marvel", "radio", "religiosos", "infantil", "kids", "vod", "serie", "novelas-", "24/7", "247", "musica", "cine", "cultura", "deportes", "canales", "entretenimiento", ".hbo", "noticias",]
-            return not (any(keyword in group_lower for keyword in include_keywords) and not any(ex in group_lower for ex in skip_keywords))            
-
+            title_lower = channel_title.lower()
+            
+            # Incluir si el grupo contiene "(eventos)"
+            if "(eventos)" in group_lower:
+                return True
+            
+            # Incluir si el título contiene "CIELO SPORT"
+            if "cielo sport" in title_lower:
+                return True
+            
+            # Si no cumple ninguna condición, no incluir
+            return False
         
         def escape_url(url):
             """Escapa la URL para el formato de salida"""
@@ -303,6 +308,9 @@ jobs:
                 group_title = group_title_match.group(1) if group_title_match else ""
                 title = title_match.group(1).strip() if title_match else tvg_name
 
+                # Guardar título original para verificación
+                original_title = title
+                
                 # Limpiar el título de prefijos no deseados
                 title = clean_title(title)
                 
@@ -311,8 +319,8 @@ jobs:
                 if i < len(lines):
                     stream_url = lines[i].strip()
                     
-                    # Omitir grupos especificados
-                    if should_skip_group(group_title):
+                    # Verificar si el canal debe ser incluido
+                    if not should_include_channel(group_title, original_title):
                         print(f"⊗ Omitiendo: '{title}' | Grupo: '{group_title}'")
                         skipped_count += 1
                         i += 1
@@ -322,10 +330,10 @@ jobs:
                     if tvg_logo and tvg_logo.strip():
                         final_logo = tvg_logo
                         logos_original += 1
-                        print(f"✓ '{title}' | Logo: Original")
+                        print(f"✓ '{title}' | Logo: Original | Grupo: '{group_title}'")
                     else:
                         # Buscar picon correspondiente
-                        print(f"🔍 Buscando logo para: '{title}'")
+                        print(f"🔍 Buscando logo para: '{title}' | Grupo: '{group_title}'")
                         matched_picon = find_best_logo_match(title, picons_list)
                         if matched_picon:
                             final_logo = matched_picon
