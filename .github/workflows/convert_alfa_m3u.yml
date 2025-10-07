@@ -253,7 +253,7 @@ jobs:
             #return any(keyword in group_lower for keyword in skip_keywords)
 
             include_keywords = ["cine", "cultura", "deportes", "canales", "entretenimiento", ".hbo", "noticias"]
-            skip_keywords = ["canales-adultos", "adultos", "adult", "cartelera", "estrenos", "disney", "recien", "radio", "religiosos", "infantil", "kids", "vod", "serie", "novelas-", "24/7", "247", "musica"]
+            skip_keywords = ["canales-adultos", "adultos", "adult", "cartelera", "estrenos", "disney", "recien", "cine de oro", "radio", "religiosos", "infantil", "kids", "vod", "serie", "novelas-", "24/7", "247", "musica"]
             return not (any(keyword in group_lower for keyword in include_keywords) and not any(ex in group_lower for ex in skip_keywords))            
 
         
