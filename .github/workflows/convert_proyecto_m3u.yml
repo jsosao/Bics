@@ -184,6 +184,13 @@ jobs:
             return None
         
         def clean_title(title):
+
+            # Eliminar prefijos comunes
+            prefixes_to_remove = ["CINE - ", "DEPORTES - ", "CINE -", "DEPORTES -","DOC-", "NOV-", "MUS-", "INF-"]
+            for prefix in prefixes_to_remove:
+                # Eliminar como palabra completa
+                title = re.sub(r'\b' + prefix + r'\b', '', title, flags=re.IGNORECASE)
+            
             """Limpia el título de prefijos no deseados"""
             # Eliminar todo lo que esté dentro de paréntesis
             title = re.sub(r'\([^)]*\)', '', title)
