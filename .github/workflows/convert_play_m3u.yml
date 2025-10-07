@@ -264,7 +264,7 @@ jobs:
           # Si AMBAS condiciones son True, retorna True (se incluye el grupo)
 
             include_keywords = ["canales", "canales de peliculas"]
-            skip_keywords = ["24/7", "247", "infantiles"]
+            skip_keywords = ["24/7", "247", "infantiles", "musica"]
             return not (any(keyword in group_lower for keyword in include_keywords) and not any(ex in group_lower for ex in skip_keywords))            
         
         def escape_url(url):
