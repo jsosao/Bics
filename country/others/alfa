@@ -4895,6 +4895,17 @@
 }
 {
     Artist: "Proyecto"
+    Title: "2201.FORMULA 1:"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/Btq1FOJ.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7748"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
     Title: "1103.TELEMUNDO PUERTO RICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -7056,6 +7067,17 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.imgur.com/exI1iAd.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]14938"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "2201.WWE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/Btq1FOJ.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]14940"
     Live: true
     Country: "us"
     Tag: "General"
