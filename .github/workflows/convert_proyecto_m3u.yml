@@ -242,7 +242,7 @@ jobs:
         def should_skip_group(group_title):
             """Verifica si el grupo debe ser omitido"""
             group_lower = group_title.lower()
-            skip_keywords = ["canales-adultos", "adultos", "adult", "radio", "infantil", "kids", "vod", "serie"]
+            skip_keywords = ["canales-adultos", "adultos", "adult", "radio", "infantil", "kids", "vod", "serie", "novela", "24/7"]
             return any(keyword in group_lower for keyword in skip_keywords)
         
         def escape_url(url):
