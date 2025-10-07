@@ -64,7 +64,7 @@ jobs:
             text = ''.join(char for char in text if unicodedata.category(char) != 'Mn')
             
             # Eliminar prefijos comunes
-            prefixes_to_remove = ["HD", "SD", "FHD", "UHD", "4K", "ARG", "MEX"]
+            prefixes_to_remove = ["CINE - ", "DEPORTES - ", "CINE -", "DEPORTES -","DOC-", "NOV-", "MUS-", "INF-"]
             for prefix in prefixes_to_remove:
                 # Eliminar como palabra completa
                 text = re.sub(r'\b' + prefix + r'\b', '', text, flags=re.IGNORECASE)
@@ -242,8 +242,13 @@ jobs:
         def should_skip_group(group_title):
             """Verifica si el grupo debe ser omitido"""
             group_lower = group_title.lower()
-            skip_keywords = ["canales-adultos", "adultos", "adult", "radio", "infantil", "kids", "vod", "serie", "novela", "estrenos", "24/7"]
-            return any(keyword in group_lower for keyword in skip_keywords)
+            #skip_keywords = ["canales-adultos", "adultos", "adult", "radio", "infantil", "kids", "vod", "serie", "novela", "estrenos", "24/7"]
+            #return any(keyword in group_lower for keyword in skip_keywords)
+
+            include_keywords = ["canales", "canales-novelas"]
+            skip_keywords = ["canales-adultos", "adultos", "adult", "radio", "infantil", "kids", "vod", "serie", "novela", "estrenos", "24/7", "247", "musica"]
+            return not (any(keyword in group_lower for keyword in include_keywords) and not any(ex in group_lower for ex in skip_keywords))            
+
         
         def escape_url(url):
             """Escapa la URL para el formato de salida"""
