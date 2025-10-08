@@ -4,133 +4,16 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl_network.png"
+    Stream: "http[:[/][/]]fl7[.]moveonjoy[.]com[/]NHL_NETWORK[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "Cord"
+    Title: "US NHL NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl_network.png"
     Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]20179"
-    Live: true
-}
-{
-    Artist: "Cord"
-    Title: "(OFF) NHL 01"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]252099"
-    Live: true
-}
-{
-    Artist: "Cord"
-    Title: "(OFF) NHL 02"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]252100"
-    Live: true
-}
-{
-    Artist: "Cord"
-    Title: "(OFF) NHL 03"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]252101"
-    Live: true
-}
-{
-    Artist: "Cord"
-    Title: "(OFF) NHL 04"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]252102"
-    Live: true
-}
-{
-    Artist: "Cord"
-    Title: "(OFF) NHL 05"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]252103"
-    Live: true
-}
-{
-    Artist: "Cord"
-    Title: "(OFF) NHL 06"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]252104"
-    Live: true
-}
-{
-    Artist: "Cord"
-    Title: "(OFF) NHL 07"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]252105"
-    Live: true
-}
-{
-    Artist: "Cord"
-    Title: "(OFF) NHL 08"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]252106"
-    Live: true
-}
-{
-    Artist: "Cord"
-    Title: "(OFF) NHL 09"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]252107"
-    Live: true
-}
-{
-    Artist: "Cord"
-    Title: "(OFF) NHL 10"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]252108"
-    Live: true
-}
-{
-    Artist: "Cord"
-    Title: "(OFF) NHL 11"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]252109"
-    Live: true
-}
-{
-    Artist: "Cord"
-    Title: "(OFF) NHL 10"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]252110"
-    Live: true
-}
-{
-    Artist: "Cord"
-    Title: "(OFF) NHL 11"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]252111"
-    Live: true
-}
-{
-    Artist: "Cord"
-    Title: "(OFF) NHL 12"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]252112"
     Live: true
 }
 {
@@ -139,7 +22,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]NHL_1[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl7[.]moveonjoy[.]com[/]NHL_1[/]index[.]m3u8"
     Live: true
 }
 {
@@ -148,7 +31,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]NHL_2[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl7[.]moveonjoy[.]com[/]NHL_2[/]index[.]m3u8"
     Live: true
 }
 {
@@ -157,7 +40,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]NHL_3[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl7[.]moveonjoy[.]com[/]NHL_3[/]index[.]m3u8"
     Live: true
 }
 {
@@ -166,7 +49,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]NHL_4[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl7[.]moveonjoy[.]com[/]NHL_4[/]index[.]m3u8"
     Live: true
 }
 {
@@ -175,7 +58,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]NHL_5[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl7[.]moveonjoy[.]com[/]NHL_5[/]index[.]m3u8"
     Live: true
 }
 {
@@ -184,7 +67,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]NHL_6[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl7[.]moveonjoy[.]com[/]NHL_6[/]index[.]m3u8"
     Live: true
 }
 {
@@ -193,7 +76,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]NHL_7[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl7[.]moveonjoy[.]com[/]NHL_7[/]index[.]m3u8"
     Live: true
 }
 {
@@ -202,7 +85,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]NHL_8[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl7[.]moveonjoy[.]com[/]NHL_8[/]index[.]m3u8"
     Live: true
 }
 {
@@ -211,7 +94,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]NHL_9[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl7[.]moveonjoy[.]com[/]NHL_9[/]index[.]m3u8"
     Live: true
 }
 {
@@ -220,7 +103,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]NHL_10[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl7[.]moveonjoy[.]com[/]NHL_10[/]index[.]m3u8"
     Live: true
 }
 {
@@ -229,7 +112,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]NHL_11[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl7[.]moveonjoy[.]com[/]NHL_11[/]index[.]m3u8"
     Live: true
 }
 {
@@ -238,7 +121,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]NHL_12[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl7[.]moveonjoy[.]com[/]NHL_12[/]index[.]m3u8"
     Live: true
 }
 {
@@ -247,7 +130,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]NHL_13[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl7[.]moveonjoy[.]com[/]NHL_13[/]index[.]m3u8"
     Live: true
 }
 {
@@ -256,7 +139,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]NHL_14[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl7[.]moveonjoy[.]com[/]NHL_14[/]index[.]m3u8"
     Live: true
 }
 {
@@ -265,6 +148,6 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nhl.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]NHL_15[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl7[.]moveonjoy[.]com[/]NHL_15[/]index[.]m3u8"
     Live: true
 }
