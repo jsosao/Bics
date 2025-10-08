@@ -2,7 +2,7 @@ name: Converter Solo Eventos Alfa M3U
 
 on:
   schedule:
-    - cron: '00 8 * * *'  # Se ejecuta diariamente a medianoche
+    - cron: '00 18 * * *'  # Se ejecuta diariamente a medianoche
   workflow_dispatch:  # Permite ejecución manual
 
 jobs:
