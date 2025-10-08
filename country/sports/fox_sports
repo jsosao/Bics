@@ -45,7 +45,7 @@
 }
 {
     Artist: "Chloe"
-    Title: "(OFF) MX: FOX SPORTS"
+    Title: "MX: FOX SPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports.png"
@@ -54,7 +54,7 @@
 }
 {
     Artist: "Chloe"
-    Title: "(OFF) MX: FOX SPORT 2"
+    Title: "MX: FOX SPORT 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_2.png"
@@ -124,7 +124,6 @@
     Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]julinnn2[/]Camion01[/]7785"
     Live: true
 }
-
 {
     Artist: "Edma"
     Title: "US: FOX SPORTS 1"
@@ -208,7 +207,7 @@
 }
 {
     Artist: "Mevo"
-    Title: "(OFF) PREMIUM| MX: FOX SPORTS"
+    Title: "PREMIUM| MX: FOX SPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports.png"
@@ -217,7 +216,7 @@
 }
 {
     Artist: "Mevo"
-    Title: "(OFF) PREMIUM| MX: FOX SPORTS 2"
+    Title: "PREMIUM| MX: FOX SPORTS 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_2.png"
