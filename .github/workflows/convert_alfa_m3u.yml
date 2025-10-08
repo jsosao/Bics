@@ -2,7 +2,7 @@ name: Converter Alfa M3U
 
 on:
   schedule:
-    - cron: '45 7 * * *'  # Se ejecuta diariamente a medianoche
+    - cron: '45 17 * * *'  # Se ejecuta diariamente a medianoche
   workflow_dispatch:  # Permite ejecución manual
 
 jobs:
