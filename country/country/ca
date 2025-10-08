@@ -99,20 +99,65 @@
 }
 {
     Artist: "web"
-    Title: "CRAVE 1"
+    Title: "(OFF) TSN 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]57309"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_1.png"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]TSN_1[/]index[.]m3u8"
     Live: true
 }
 {
     Artist: "web"
-    Title: "(OFF) CRAVE 2"
+    Title: "(OFF) TSN 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_2.png"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]TSN_2[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "(OFF) TSN 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_3.png"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]TSN_3[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "(OFF) TSN 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_4.png"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]TSN_4[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "(OFF) TSN 5"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_5.png"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]TSN_5[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CRAVE 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]57310"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]CRAVE_1[/]index[.]m3u8"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "CRAVE 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]CRAVE_2[/]index[.]m3u8"
     Live: true
 }
 {
@@ -121,7 +166,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]57322"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]CRAVE_3[/]index[.]m3u8"
     Live: true
 }
 {
@@ -130,106 +175,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]57311"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "TSN 1 (E)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_1.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]57292"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "TSN 1 (R)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_1.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]47440"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "TSN 2 (R)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_2.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]16129"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "TSN 2 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_2.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]47442"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "TSN 3 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_3.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]47444"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "TSN 3 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_3.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]10389"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "TSN 4"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_4.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]66783"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "TSN 4 (B)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_4.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]47446"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "TSN 4 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_4.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]16130"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "TSN 5"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_5.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]57295"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "TSN 5 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_5.png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]16131"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]CRAVE_4[/]index[.]m3u8"
     Live: true
 }
 {
@@ -2203,67 +2149,14 @@
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]57336"
     Live: true
 }
-{
-    Artist: "web"
-    Title: "(OFF) TSN 1"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_1.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]TSN_1[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "(OFF) TSN 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_2.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]TSN_2[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "(OFF) TSN 3"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_3.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]TSN_3[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "(OFF) TSN 4"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_4.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]TSN_4[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "(OFF) TSN 5"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_5.png"
-    Stream: "http[:[/][/]]fl5[.]moveonjoy[.]com[/]TSN_5[/]index[.]m3u8"
-    Live: true
-}
+
 {
     Artist: "web"
     Title: "CRAVE 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
-    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]CRAVE_1[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "CRAVE 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
-    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]CRAVE_2[/]index[.]m3u8"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]57309"
     Live: true
 }
 {
@@ -2272,7 +2165,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
-    Stream: "http[:[/][/]]fl3[.]moveonjoy[.]com[/]CRAVE_2[/]index[.]m3u8"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]57310"
     Live: true
 }
 {
@@ -2281,7 +2174,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
-    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]CRAVE_3[/]index[.]m3u8"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]57322"
     Live: true
 }
 {
@@ -2290,15 +2183,105 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
-    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]CRAVE_4[/]index[.]m3u8"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]57311"
     Live: true
 }
 {
     Artist: "web"
-    Title: "(OFF) CRAVE 4"
+    Title: "TSN 1 (E)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png"
-    Stream: "http[:[/][/]]fl6[.]moveonjoy[.]com[/]CRAVE_4[/]index[.]m3u8"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_1.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]57292"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TSN 1 (R)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_1.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]47440"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TSN 2 (R)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_2.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]16129"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TSN 2 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_2.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]47442"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TSN 3 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_3.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]47444"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TSN 3 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_3.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]10389"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TSN 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_4.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]66783"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TSN 4 (B)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_4.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]47446"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TSN 4 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_4.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]16130"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TSN 5"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_5.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]57295"
+    Live: true
+}
+{
+    Artist: "web"
+    Title: "TSN 5 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_5.png"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]16131"
     Live: true
 }
