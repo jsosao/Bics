@@ -59,7 +59,7 @@ jobs:
         import base64
         import os
         
-        def validate_stream_url(url, timeout=15):
+        def validate_stream_url(url, timeout=5):
             try:
                 url = url.replace('[', '').replace(']', '')
                 parsed_url = urlparse(url)
