@@ -2,7 +2,7 @@ name: Converter Proyecto M3U
 
 on:
   schedule:
-    - cron: '30 7 * * *'  # Se ejecuta diariamente a medianoche
+    - cron: '30 17 * * *'  # Se ejecuta diariamente a medianoche
   workflow_dispatch:  # Permite ejecución manual
 
 jobs:
