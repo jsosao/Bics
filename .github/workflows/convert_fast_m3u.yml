@@ -2,7 +2,7 @@ name: Converter Fast M3U
 
 on:
   schedule:
-    - cron: '15 7 * * *'  # Se ejecuta diariamente a medianoche
+    - cron: '15 17 * * *'  # Se ejecuta diariamente a medianoche
   workflow_dispatch:  # Permite ejecución manual
 
 jobs:
