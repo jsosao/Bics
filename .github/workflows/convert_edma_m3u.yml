@@ -2,7 +2,7 @@ name: Converter Edma M3U
 
 on:
   schedule:
-    - cron: '50 6 * * *'  # Se ejecuta diariamente a medianoche
+    - cron: '50 16 * * *'  # Se ejecuta diariamente a medianoche
   workflow_dispatch:  # Permite ejecución manual
 
 jobs:
