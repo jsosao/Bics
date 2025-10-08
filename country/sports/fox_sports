@@ -112,7 +112,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fs1.png"
-    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]julinnn2[/]Camion01[/]7785"
+    Stream: "https[:[/][/]]fl7[.]moveonjoy[.]com[/]FOX_Sports_1[/]index[.]m3u8"
     Live: true
 }
 {
@@ -121,6 +121,25 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fs1.png"
+    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]julinnn2[/]Camion01[/]7785"
+    Live: true
+}
+
+{
+    Artist: "Edma"
+    Title: "US: FOX SPORTS 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fs1.png"
+    Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]julinnn2[/]Camion01[/]7786"
+    Live: true
+}
+{
+    Artist: "Edma"
+    Title: "US: FOX SPORTS 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fs2.png"
     Stream: "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]julinnn2[/]Camion01[/]7786"
     Live: true
 }
