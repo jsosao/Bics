@@ -22,8 +22,8 @@ on:
         - 'false'
   
   # Ejecutar automáticamente cada día a las 11:00 AM UTC
-  #schedule:
-  #  - cron: '0 11 * * *'
+  schedule:
+    - cron: '0 11 * * *'
   
   # Ejecutar cuando se modifica algún archivo en el directorio others
   # push:
