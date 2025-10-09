@@ -1,0 +1,480 @@
+name: Unified M3U Converter
+
+on:
+  schedule:
+    # Se ejecuta a las 07:00, 08:00, 09:00 y 10:00 AM hora CDMX (13:00, 14:00, 15:00, 16:00 UTC)
+    - cron: '0 13 * * *'  # 07:00 AM CDMX
+    - cron: '0 14 * * *'  # 08:00 AM CDMX
+    - cron: '0 15 * * *'  # 09:00 AM CDMX
+    - cron: '0 16 * * *'  # 10:00 AM CDMX
+  workflow_dispatch:  # Permite ejecución manual
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Download and convert all M3U files
+      env:
+        ALFA_M3U_URL: ${{ secrets.ALFA_M3U_URL }}
+        CORD_M3U_URL: ${{ secrets.CORD_M3U_URL }}
+        EDMA_M3U_URL: ${{ secrets.EDMA_M3U_URL }}
+        FAST_M3U_URL: ${{ secrets.FAST_M3U_URL }}
+        PLAY_M3U_URL: ${{ secrets.PLAY_M3U_URL }}
+        PROYECTO_M3U_URL: ${{ secrets.PROYECTO_M3U_URL }}
+        ZAP_M3U_URL: ${{ secrets.ZAP_M3U_URL }}
+      run: |
+        cd $GITHUB_WORKSPACE
+        python3 << 'EOF'
+        import urllib.request
+        import re
+        import os
+        import json
+        import unicodedata
+
+        # ============================================================
+        # CONFIGURACIÓN DE CONVERSORES
+        # ============================================================
+        
+        CONVERTERS = {
+            'eventos': {
+                'env_var': 'ALFA_M3U_URL',
+                'artist': 'Alfa',
+                'output_path': 'country/sports/eventos',
+                'use_picons': True,
+                'filter_type': 'custom',  # eventos o cielo sport
+                'skip_keywords': [],
+                'include_keywords': []
+            },
+            'premium': {
+                'env_var': 'ALFA_M3U_URL',
+                'artist': 'Alfa',
+                'output_path': 'country/country/premium',
+                'use_picons': True,
+                'filter_type': 'include_exclude',
+                'skip_keywords': ["canales-adultos", "adultos", "adult", "cartelera", "estrenos", "disney", "recien", "cine de oro", "marvel", "radio", "religiosos", "infantil", "kids", "vod", "serie", "novelas-", "24/7", "247", "musica"],
+                'include_keywords': ["cine", "cultura", "deportes", "canales", "entretenimiento", ".hbo", "noticias", "(eventos)"]
+            },
+            'cord': {
+                'env_var': 'CORD_M3U_URL',
+                'artist': 'Cord',
+                'output_path': 'country/others/cord',
+                'use_picons': False,
+                'filter_type': 'skip_only',
+                'skip_keywords': ["radio", "serie", "movie", "extra", "peliculas", "adult", "romance", "horror", "family", "science fiction", "comedy", "channel"],
+                'include_keywords': []
+            },
+            'edma': {
+                'env_var': 'EDMA_M3U_URL',
+                'artist': 'Edma',
+                'output_path': 'country/others/edma',
+                'use_picons': True,
+                'filter_type': 'skip_only',
+                'skip_keywords': ["canales-adultos", "adultos", "adult", "radio", "infantil", "kids"],
+                'include_keywords': []
+            },
+            'fast': {
+                'env_var': 'FAST_M3U_URL',
+                'artist': 'Fast',
+                'output_path': 'country/others/fast',
+                'use_picons': False,
+                'filter_type': 'skip_only',
+                'skip_keywords': ["canales-adultos", "adultos", "series", "telenovelas", "vod", "pluto", "doramas", "simpsons", "radio", "cgates", "24/7", "geo chile", "música"],
+                'include_keywords': []
+            },
+            'latin': {
+                'env_var': 'PLAY_M3U_URL',
+                'artist': 'Play',
+                'output_path': 'country/country/latin',
+                'use_picons': True,
+                'filter_type': 'include_exclude',
+                'skip_keywords': ["24/7", "247", "infantiles", "musica"],
+                'include_keywords': ["canales", "canales de peliculas"]
+            },
+            'proy': {
+                'env_var': 'PROYECTO_M3U_URL',
+                'artist': 'Proyecto',
+                'output_path': 'country/others/proy',
+                'use_picons': True,
+                'filter_type': 'include_exclude',
+                'skip_keywords': ["canales-adultos", "adultos", "adult", "radio", "religiosos", "infantil", "kids", "vod", "serie", "novelas-", "estrenos", "24/7", "247", "musica"],
+                'include_keywords': ["canales-novelas", "canales", "cinema", "ecuador", "eventos"]
+            },
+            'zap': {
+                'env_var': 'ZAP_M3U_URL',
+                'artist': 'Zapp',
+                'output_path': 'country/others/zap',
+                'use_picons': False,
+                'filter_type': 'skip_only',
+                'skip_keywords': ["canales-adultos", "adultos", "adult", "porn", "canales-religiosos", "vod", "navidad", "series", "estrenos", "novelas", "24/7"],
+                'include_keywords': []
+            }
+        }
+
+        # ============================================================
+        # FUNCIONES AUXILIARES COMPARTIDAS
+        # ============================================================
+        
+        default_logo = "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+        picons_base_url = "https://raw.githubusercontent.com/jsosao/Bics/main/picons/"
+        picons_cache = None
+        
+        def normalize_text(text):
+            """Normaliza el texto removiendo acentos, espacios y caracteres especiales"""
+            text = unicodedata.normalize('NFD', text)
+            text = ''.join(char for char in text if unicodedata.category(char) != 'Mn')
+            
+            prefixes_to_remove = ["CINE - ", "DEPORTES - ", "CINE -", "DEPORTES -", "DOC-", "NOV-", "MUS-", "INF-", "HD", "SD", "FHD", "UHD", "4K", "ARG", "MEX", "VEN"]
+            for prefix in prefixes_to_remove:
+                text = re.sub(r'\b' + prefix + r'\b', '', text, flags=re.IGNORECASE)
+            
+            text = re.sub(r'[^\w\s]', '', text.lower())
+            text = re.sub(r'\s+', '_', text.strip())
+            return text
+        
+        def get_github_directory_contents(api_url):
+            """Obtiene el contenido de un directorio de GitHub usando la API"""
+            try:
+                req = urllib.request.Request(api_url)
+                req.add_header('User-Agent', 'Mozilla/5.0')
+                with urllib.request.urlopen(req) as response:
+                    if response.status == 200:
+                        return json.loads(response.read().decode('utf-8'))
+                    return []
+            except Exception as e:
+                print(f"⚠ Error al obtener contenido: {e}")
+                return []
+        
+        def scan_directory_recursive(path=""):
+            """Escanea recursivamente todos los directorios para encontrar archivos PNG"""
+            api_url = f"https://api.github.com/repos/jsosao/Bics/contents/picons{path}"
+            contents = get_github_directory_contents(api_url)
+            logos = []
+            
+            for item in contents:
+                if item['type'] == 'file' and item['name'].endswith('.png'):
+                    logo_url = picons_base_url + path.lstrip('/') + ('/' if path else '') + item['name']
+                    logo_name = item['name'].replace('.png', '')
+                    logos.append({
+                        'name': logo_name,
+                        'normalized_name': normalize_text(logo_name),
+                        'url': logo_url,
+                        'path': path
+                    })
+                elif item['type'] == 'dir' and item['name'] not in ['country']:
+                    subfolder_path = path + '/' + item['name']
+                    logos.extend(scan_directory_recursive(subfolder_path))
+            return logos
+        
+        def get_picons_list():
+            """Obtiene la lista completa de picons disponibles en el repositorio"""
+            global picons_cache
+            if picons_cache is not None:
+                return picons_cache
+            
+            try:
+                print("Escaneando repositorio de logos recursivamente...")
+                picons_cache = scan_directory_recursive()
+                print(f"✓ Se encontraron {len(picons_cache)} picons disponibles")
+                return picons_cache
+            except Exception as e:
+                print(f"⚠ No se pudo obtener la lista de picons: {e}")
+                return []
+        
+        def find_best_logo_match(title, picons_list):
+            """Encuentra la mejor coincidencia de logo para un título dado"""
+            if not picons_list:
+                return None
+            
+            normalized_title = normalize_text(title)
+            
+            # Búsqueda exacta
+            for logo in picons_list:
+                if logo['normalized_name'] == normalized_title:
+                    print(f"  → Coincidencia exacta: {logo['name']}")
+                    return logo['url']
+            
+            # Búsqueda por coincidencia parcial con puntuación
+            best_match = None
+            max_score = 0
+            
+            for logo in picons_list:
+                logo_words = set(logo['normalized_name'].split('_'))
+                title_words = set(normalized_title.split('_'))
+                common_words = logo_words.intersection(title_words)
+                
+                if len(common_words) > 0:
+                    score = len(common_words) / max(len(logo_words), len(title_words))
+                    if score > max_score and score > 0.3:
+                        max_score = score
+                        best_match = logo
+            
+            if best_match and max_score > 0.5:
+                print(f"  → Coincidencia por palabras ({int(max_score*100)}%): {best_match['name']}")
+                return best_match['url']
+            
+            # Búsqueda por contenido (substring)
+            if not best_match:
+                for logo in picons_list:
+                    if len(logo['normalized_name']) >= 3:
+                        if normalized_title in logo['normalized_name'] or logo['normalized_name'] in normalized_title:
+                            if len(logo['normalized_name']) >= len(normalized_title) * 0.6:
+                                print(f"  → Coincidencia por substring: {logo['name']}")
+                                return logo['url']
+            
+            if best_match:
+                print(f"  → Coincidencia parcial ({int(max_score*100)}%): {best_match['name']}")
+                return best_match['url']
+            
+            return None
+        
+        def clean_title(title):
+            """Limpia el título de prefijos no deseados"""
+            prefixes_to_remove = ["CINE - ", "DEPORTES - ", "CINE -", "DEPORTES -", "DOC-", "NOV-", "MUS-", "INF-"]
+            for prefix in prefixes_to_remove:
+                title = re.sub(r'\b' + prefix + r'\b', '', title, flags=re.IGNORECASE)
+            
+            title = re.sub(r'\([^)]*\)', '', title)
+            title = re.sub(r'\s+', ' ', title).strip()
+            return title
+        
+        def get_country(title):
+            """Determina el país basado en el título"""
+            title_upper = title.upper()
+            if title.startswith("AU") or "AUSTRALIA" in title_upper:
+                return "au"
+            elif title.startswith("UK") or "BBC" in title_upper or "BRITAIN" in title_upper:
+                return "uk"
+            elif title.startswith("US") or "USA" in title_upper:
+                return "us"
+            elif title.startswith("CA") or "CANADA" in title_upper:
+                return "ca"
+            elif title.startswith("ES") or "SPAIN" in title_upper or "ESPAÑA" in title_upper:
+                return "es"
+            elif title.startswith("MX") or "MEXICO" in title_upper or "MÉXICO" in title_upper:
+                return "mx"
+            elif title.startswith("AR") or "ARGENTINA" in title_upper:
+                return "ar"
+            elif title.startswith("BR") or "BRASIL" in title_upper or "BRAZIL" in title_upper:
+                return "br"
+            elif title.startswith("FR") or "FRANCE" in title_upper or "FRANCIA" in title_upper:
+                return "fr"
+            else:
+                return "us"
+        
+        def get_tag(group_title):
+            """Determina el tag basado en el group-title"""
+            group_lower = group_title.lower()
+            if "sport" in group_lower or "deporte" in group_lower:
+                return "Sports"
+            elif "radio" in group_lower:
+                return "Radio"
+            elif "news" in group_lower or "noticias" in group_lower:
+                return "News"
+            elif "movie" in group_lower or "film" in group_lower or "peliculas" in group_lower or "cine" in group_lower:
+                return "Movies"
+            elif "series" in group_lower or "tv show" in group_lower:
+                return "Series"
+            elif "music" in group_lower or "musica" in group_lower:
+                return "Music"
+            elif "doc" in group_lower:
+                return "Documentary"
+            elif "kids" in group_lower or "infantil" in group_lower:
+                return "Kids"
+            else:
+                return "General"
+        
+        def should_skip_channel(group_title, channel_title, config):
+            """Verifica si el canal debe ser omitido según la configuración"""
+            group_lower = group_title.lower()
+            title_lower = channel_title.lower()
+            
+            # Filtro especial para eventos
+            if config['filter_type'] == 'custom':
+                if "(eventos)" in group_lower or "cielo sport" in title_lower:
+                    return False
+                return True
+            
+            # Filtro con inclusión y exclusión
+            if config['filter_type'] == 'include_exclude':
+                has_include = any(keyword in group_lower for keyword in config['include_keywords'])
+                has_skip = any(keyword in group_lower for keyword in config['skip_keywords'])
+                return not (has_include and not has_skip)
+            
+            # Filtro solo de exclusión
+            if config['filter_type'] == 'skip_only':
+                return any(keyword in group_lower for keyword in config['skip_keywords'])
+            
+            return False
+        
+        def escape_url(url):
+            """Escapa la URL para el formato de salida"""
+            url = url.replace("http://", "http[:[/][/]]")
+            url = url.replace("https://", "https[:[/][/]]")
+            url = url.replace(".", "[.]")
+            url = url.replace("/", "[/]")
+            return url
+        
+        def process_m3u(config, converter_name):
+            """Procesa un archivo M3U según la configuración"""
+            url = os.environ.get(config['env_var'])
+            if not url:
+                print(f"⚠ Omitiendo {converter_name}: No se encontró {config['env_var']}")
+                return
+            
+            print(f"\n{'='*60}")
+            print(f"PROCESANDO: {converter_name.upper()} - {config['artist']}")
+            print(f"{'='*60}")
+            
+            # Descargar archivo
+            try:
+                with urllib.request.urlopen(url) as response:
+                    content = response.read().decode('utf-8')
+                print("✓ Archivo M3U descargado exitosamente")
+            except Exception as e:
+                print(f"❌ Error al descargar: {e}")
+                return
+            
+            # Obtener picons si es necesario
+            picons_list = []
+            if config['use_picons']:
+                picons_list = get_picons_list()
+            
+            # Procesar líneas
+            lines = content.strip().split('\n')
+            entries = []
+            skipped_count = 0
+            logos_original = 0
+            logos_found = 0
+            logos_default = 0
+            
+            i = 0
+            while i < len(lines):
+                line = lines[i].strip()
+                
+                if line.startswith('#EXTINF:'):
+                    tvg_name_match = re.search(r'tvg-name="([^"]*)"', line)
+                    tvg_logo_match = re.search(r'tvg-logo="([^"]*)"', line)
+                    group_title_match = re.search(r'group-title="([^"]*)"', line)
+                    title_match = re.search(r',(.*)$', line)
+                    
+                    tvg_name = tvg_name_match.group(1) if tvg_name_match else ""
+                    tvg_logo = tvg_logo_match.group(1) if tvg_logo_match else ""
+                    group_title = group_title_match.group(1) if group_title_match else ""
+                    title = title_match.group(1).strip() if title_match else tvg_name
+                    original_title = title
+                    title = clean_title(title)
+                    
+                    i += 1
+                    if i < len(lines):
+                        stream_url = lines[i].strip()
+                        
+                        if should_skip_channel(group_title, original_title, config):
+                            print(f"⊗ Omitiendo: '{title}' | Grupo: '{group_title}'")
+                            skipped_count += 1
+                            i += 1
+                            continue
+                        
+                        # Determinar logo
+                        if tvg_logo and tvg_logo.strip():
+                            final_logo = tvg_logo
+                            logos_original += 1
+                            print(f"✓ '{title}' | Logo: Original")
+                        elif config['use_picons']:
+                            print(f"🔍 Buscando logo para: '{title}'")
+                            matched_picon = find_best_logo_match(title, picons_list)
+                            if matched_picon:
+                                final_logo = matched_picon
+                                logos_found += 1
+                            else:
+                                final_logo = default_logo
+                                logos_default += 1
+                                print(f"  → Sin coincidencia, usando no_logo.png")
+                        else:
+                            final_logo = default_logo
+                            logos_default += 1
+                            print(f"⚠ '{title}' | Logo: default")
+                        
+                        entry = {
+                            'Artist': config['artist'],
+                            'Title': title,
+                            'streamFormat': 'hls|mts',
+                            'SwitchingStrategy': 'full-adaptation',
+                            'Logo': final_logo,
+                            'Stream': escape_url(stream_url),
+                            'Live': True,
+                            'Country': get_country(title),
+                            'Tag': get_tag(group_title)
+                        }
+                        entries.append(entry)
+                
+                i += 1
+            
+            # Generar archivo de salida
+            output_lines = []
+            for entry in entries:
+                output_lines.append('{')
+                output_lines.append(f'    Artist: "{entry["Artist"]}"')
+                output_lines.append(f'    Title: "{entry["Title"]}"')
+                output_lines.append(f'    streamFormat: "{entry["streamFormat"]}"')
+                output_lines.append(f'    SwitchingStrategy: "{entry["SwitchingStrategy"]}"')
+                output_lines.append(f'    Logo: "{entry["Logo"]}"')
+                output_lines.append(f'    Stream: "{entry["Stream"]}"')
+                output_lines.append(f'    Live: {str(entry["Live"]).lower()}')
+                output_lines.append(f'    Country: "{entry["Country"]}"')
+                output_lines.append(f'    Tag: "{entry["Tag"]}"')
+                output_lines.append('}')
+            
+            output_content = '\n'.join(output_lines)
+            
+            with open(config['output_path'], 'w', encoding='utf-8') as f:
+                f.write(output_content)
+            
+            # Estadísticas
+            print(f"\n{'='*60}")
+            print(f"RESUMEN - {converter_name.upper()}")
+            print(f"{'='*60}")
+            print(f"✓ Archivo guardado en: {config['output_path']}")
+            print(f"✓ Canales procesados: {len(entries)}")
+            print(f"⊗ Canales omitidos: {skipped_count}")
+            if config['use_picons']:
+                print(f"\nDistribución de logos:")
+                print(f"  ✓ Originales: {logos_original} ({logos_original*100//len(entries) if entries else 0}%)")
+                print(f"  🔍 Encontrados: {logos_found} ({logos_found*100//len(entries) if entries else 0}%)")
+                print(f"  ⚠ Default: {logos_default} ({logos_default*100//len(entries) if entries else 0}%)")
+            else:
+                print(f"✓ Logos originales: {logos_original}")
+                print(f"⚠ Logos default: {logos_default}")
+            print(f"{'='*60}\n")
+        
+        # ============================================================
+        # PROCESAMIENTO PRINCIPAL
+        # ============================================================
+        
+        print("\n" + "="*60)
+        print("INICIANDO CONVERSIÓN UNIFICADA DE M3U")
+        print("="*60)
+        
+        for converter_name, config in CONVERTERS.items():
+            process_m3u(config, converter_name)
+        
+        print("\n" + "="*60)
+        print("✓ CONVERSIÓN COMPLETADA")
+        print("="*60)
+        EOF
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add country/
+        git diff --staged --quiet || git commit -m "🤖 [Bot] Update all M3U files - $(date +'%Y-%m-%d %H:%M:%S')"
+        git push
