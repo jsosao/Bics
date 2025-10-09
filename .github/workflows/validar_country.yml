@@ -22,8 +22,8 @@ on:
         - 'false'
   
   # Ejecutar automáticamente cada día a las 09:00 AM UTC
-  #schedule:
-  #  - cron: '0 9 * * *'
+  schedule:
+    - cron: '0 9 * * *'
   
   # Ejecutar cuando se modifica algún archivo en el directorio country
   # push:
