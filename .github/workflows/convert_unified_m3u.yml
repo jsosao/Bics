@@ -1,12 +1,12 @@
 name: Unified M3U Converter
 
 on:
-  schedule:
-    # Se ejecuta a las 07:00, 08:00, 09:00 y 10:00 AM hora CDMX (13:00, 14:00, 15:00, 16:00 UTC)
-    - cron: '0 13 * * *'  # 07:00 AM CDMX
-    - cron: '0 14 * * *'  # 08:00 AM CDMX
-    - cron: '0 15 * * *'  # 09:00 AM CDMX
-    - cron: '0 16 * * *'  # 10:00 AM CDMX
+  #schedule:
+  #  # Se ejecuta a las 07:00, 08:00, 09:00 y 10:00 AM hora CDMX (13:00, 14:00, 15:00, 16:00 UTC)
+  #  - cron: '0 13 * * *'  # 07:00 AM CDMX
+  #  - cron: '0 14 * * *'  # 08:00 AM CDMX
+  #  - cron: '0 15 * * *'  # 09:00 AM CDMX
+  #  - cron: '0 16 * * *'  # 10:00 AM CDMX
   workflow_dispatch:  # Permite ejecución manual
 
 jobs:
