@@ -11,6 +11,17 @@
 }
 {
     Artist: "Edma"
+    Title: "Canal Uno"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://n9.cl/6aqby3"
+    Stream: "https[:[[/]][[/]]]mdstrm[.]com[/]live-stream-playlist[/]5a5e1c2568b1910913db5fe2[.]m3u8"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Edma"
     Title: "Capital TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -99,11 +110,44 @@
 }
 {
     Artist: "Edma"
-    Title: "RCN Colombia"
+    Title: "RCN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://n9.cl/46tra"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]90151"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Edma"
+    Title: "RCN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://n9.cl/46tra"
+    Stream: "http[:[[/]][[/]]]38[.]183[.]182[.]166:8000[/]play[/]a10i[/]index[.]m3u8"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Edma"
+    Title: "RCN Mas"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://n9.cl/ze3rc"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]93772"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Edma"
+    Title: "Red+"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://n9.cl/h0y4g7"
+    Stream: "https[:[[/]][[/]]]inforedvos[.]lcdn[.]claro[.]net[.]co[/]Content[/]HLS_HLS_DIR[/]Live[/]channel(REDMASHDWEB)[/]master[.]m3u8"
     Live: true
     Country: "us"
     Tag: "General"
@@ -154,11 +198,121 @@
 }
 {
     Artist: "Edma"
-    Title: "Win Sports +"
+    Title: "D-Sport Col"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://n9.cl/rahj8"
+    Stream: "http[:[[/]][[/]]]38[.]183[.]182[.]166:8000[/]play[/]a125[/]index[.]m3u8"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Edma"
+    Title: "D-Sport Col"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://n9.cl/rahj8"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]704623"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Edma"
+    Title: "D-Sport + Col"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://n9.cl/chww3t"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]708151"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Edma"
+    Title: "Win Sports"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://n9.cl/mkuad"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]708146"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Edma"
+    Title: "Win Sports"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://n9.cl/mkuad"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]771474"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Edma"
+    Title: "Win +"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://n9.cl/1cppd"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]93494"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Edma"
+    Title: "Win +"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://n9.cl/1cppd"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]771477"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Edma"
+    Title: "Win +"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://n9.cl/1cppd"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]771476"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Edma"
+    Title: "Win +"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://n9.cl/1cppd"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]771473"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Edma"
+    Title: "Win +"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://n9.cl/1cppd"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]708147"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Edma"
+    Title: "Cali TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://n9.cl/fdri1"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]93759"
     Live: true
     Country: "us"
     Tag: "General"
