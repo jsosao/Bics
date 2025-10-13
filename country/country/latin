@@ -858,17 +858,6 @@
 }
 {
     Artist: "Play"
-    Title: "CANAL 12 EL NUESTRO - COLOMBIA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://globalone80.org/wp-content/uploads/2021/05/Colombia-Bandera.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]72773"
-    Live: true
-    Country: "ca"
-    Tag: "General"
-}
-{
-    Artist: "Play"
     Title: "FULL URBANO - COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -3564,17 +3553,6 @@
 }
 {
     Artist: "Play"
-    Title: "TV PERU NOTICIAS - PERU"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315559"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Play"
     Title: "FOX SPORTS 1 PERU"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -6234,4 +6212,15 @@
     Live: true
     Country: "us"
     Tag: "Sports"
+}
+{
+    Artist: "Play"
+    Title: "VENUS MEDIA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i0.wp.com/logoroga.com/wp-content/uploads/2012/04/venus.png?fit=500%2C375&ssl=1"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]388231"
+    Live: true
+    Country: "us"
+    Tag: "General"
 }
