@@ -5511,18 +5511,18 @@
 }
 {
     Artist: "Proyecto"
-    Title: "PPV 1 - Colombia Vs. Mexico"
+    Title: "PPV 1 -"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/0jbbYF3T/PPV1.png"
     Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]150442"
     Live: true
-    Country: "mx"
+    Country: "us"
     Tag: "General"
 }
 {
     Artist: "Proyecto"
-    Title: "PPV 2 - UFC 1"
+    Title: "PPV 2 -"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/0jbbYF3T/PPV1.png"
@@ -5555,88 +5555,506 @@
 }
 {
     Artist: "Proyecto"
-    Title: "Amistoso 10:00 Montenegro vs Liechtenstein"
+    Title: "Amistoso 8:00 Irán vs Chile"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://png.pngtree.com/png-vector/20220722/ourmid/pngtree-fifa-logo-png-image_6034648.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151912"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151982"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Proyecto"
-    Title: "Argentina 15:30 Platense vs Deportivo Riestra"
+    Title: "Amistoso 10:00 Noruega vs Nueva Zelanda"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151913"
+    Logo: "https://png.pngtree.com/png-vector/20220722/ourmid/pngtree-fifa-logo-png-image_6034648.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151983"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "Amistoso 11:00 Albania vs Jordania"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://png.pngtree.com/png-vector/20220722/ourmid/pngtree-fifa-logo-png-image_6034648.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151984"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "Amistoso 18:00 Puerto Rico vs Argentina"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://png.pngtree.com/png-vector/20220722/ourmid/pngtree-fifa-logo-png-image_6034648.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151985"
     Live: true
     Country: "ar"
     Tag: "General"
 }
 {
     Artist: "Proyecto"
-    Title: "Colombia 16:15 Once Caldas vs Medellín"
+    Title: "Amistoso 18:00 Canadá vs Colombia"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://png.pngtree.com/png-vector/20220722/ourmid/pngtree-fifa-logo-png-image_6034648.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151986"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "Amistoso 19:00 EE. UU. vs Australia"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://png.pngtree.com/png-vector/20220722/ourmid/pngtree-fifa-logo-png-image_6034648.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151987"
+    Live: true
+    Country: "au"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "Amistoso 20:30 México vs Ecuador"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://png.pngtree.com/png-vector/20220722/ourmid/pngtree-fifa-logo-png-image_6034648.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151988"
+    Live: true
+    Country: "mx"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "Amistoso 20:30 México vs Ecuador OPC2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://png.pngtree.com/png-vector/20220722/ourmid/pngtree-fifa-logo-png-image_6034648.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151989"
+    Live: true
+    Country: "mx"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "Copa de Campeonas CONCACAF W 19:00 LD Alajuelense vs Chorrillo"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/d/da/CONCACAF_Champions_Cup.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151990"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "Colombia 18:30 Atlético Nacional vs Deportivo Cali"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151914"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151991"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Proyecto"
-    Title: "Colombia 18:30 Fortaleza CEIF vs Boyacá Chicó"
+    Title: "USL Super League 17:00 DC Power vs Sporting JAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151915"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/USL_Super_League_logo.png/1200px-USL_Super_League_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151992"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Proyecto"
-    Title: "Perú 12:00 UTC Cajamarca vs Cienciano"
+    Title: "Costa Rica 20:00 Municipal Liberia vs Puntarenas"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.pinimg.com/222x/47/45/76/4745769af544f2771531c6751a48eb98.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151916"
+    Logo: "https://www.thesportsdb.com/images/media/league/badge/97r4et1716292122.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151993"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Proyecto"
-    Title: "Perú 14:15 Juan Pablo II College vs Deportivo Garcilaso"
+    Title: "NCAA Men's Soccer 16:00 Army West Point vs Columbia"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.pinimg.com/222x/47/45/76/4745769af544f2771531c6751a48eb98.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151917"
+    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151994"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Proyecto"
-    Title: "LaLiga SmartBank 12:30 Córdoba vs Cultural Leonesa"
+    Title: "NCAA Men's Soccer 16:00 Ohio St. vs Michigan"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/512px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151918"
+    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151995"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Proyecto"
-    Title: "FA Cup 12:30 Worthing vs Forest Green Rovers"
+    Title: "NCAA Men's Soccer 16:00 Boston U. vs Northeastern"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/fr/7/75/FA-CUP-2020-logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151919"
+    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151996"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "NCAA Men's Soccer 16:00 La Salle vs Arcadia"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151997"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "NCAA Men's Soccer 16:00 Winthrop vs Col. of Charleston"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151998"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "NCAA Men's Soccer v16:00 Lehigh vs Saint Joseph's"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]151999"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "NCAA Men's Soccer 17:00 Mercer vs Ga. Southern"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152000"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "NCAA Men's Soccer 17:00 Marshall vs Oakland"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152001"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "NCAA Men's Soccer 17:00 West Virginia vs American"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152002"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "NCAA Men's Soccer 17:00 Penn vs William & Mary"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152003"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "NCAA Men's Soccer 17:00 James Madison vs Princeton"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152004"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "NCAA Men's Soccer 17:00 Cornell vs Colgate"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152005"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "NCAA Men's Soccer 17:00 Presbyterian vs Queens University of Charlotte"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152006"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "NCAA Men's Soccer 17:00 Brown vs Bryant"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152007"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "NCAA Men's Soccer 17:00 Kentucky vs Indiana"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152008"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "NCAA Football 17:00 Liberty Flames vs New Mexico State"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152009"
+    Live: true
+    Country: "mx"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "NCAA Football 17:30 South Alabama vs Arkansas State"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152010"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "NCAA Football 18:00 Western Kentucky vs Florida Internation"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152011"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "Euroliga 11:00 Maccabi Tel Aviv vs Barcelona"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.gamingintelligence.com/es/wp-content/uploads/sites/4/2019/07/euroliga.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152027"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "Euroliga 11:45 Fenerbache vs Dubai"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.gamingintelligence.com/es/wp-content/uploads/sites/4/2019/07/euroliga.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152028"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "14/10 • 05:30 Japon vs Brasil • 01"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/dEBZGcE.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152037"
+    Live: true
+    Country: "br"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "14/10 • 06:00 Corea del sur vs Paraguay • 02"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/dEBZGcE.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152038"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "14/10 • 10:00 Iran vs Tanzania • 03"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/dEBZGcE.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152039"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "14/10 • 11:00 Noruega vs Nueva Zelanda • 04"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/dEBZGcE.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152040"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "14/10 • 12:00 Rusia vs Bolivia • 05"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/dEBZGcE.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152041"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "14/10 • 19:00 Colombia vs Canada • 06"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/dEBZGcE.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152042"
+    Live: true
+    Country: "ca"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "14/10 • 19:00 Colombia vs Canada • 07"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/dEBZGcE.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152043"
+    Live: true
+    Country: "ca"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "14/10 • 19:00 Puerto Rico vs Argentina • 08"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/dEBZGcE.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152044"
+    Live: true
+    Country: "ar"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "14/10 • 19:00 Puerto Rico vs Argentina • 09"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/dEBZGcE.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152045"
+    Live: true
+    Country: "ar"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "14/10 • 20:00 Estados Unidos vs Australia • 10"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/dEBZGcE.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152046"
+    Live: true
+    Country: "au"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "14/10 • 21:30 Mexico vs Ecuador • 11"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/dEBZGcE.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152047"
+    Live: true
+    Country: "mx"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "14/10 • 21:30 Mexico vs Ecuador • 12"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/dEBZGcE.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152048"
+    Live: true
+    Country: "mx"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "14/10 13:45 • Letonia vs Inglaterra • 09"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152049"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Proyecto"
+    Title: "14/10 13:45 • Irlanda vs Armenia • 10"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]152050"
     Live: true
     Country: "us"
     Tag: "General"
