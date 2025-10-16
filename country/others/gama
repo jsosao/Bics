@@ -66,28 +66,6 @@
 }
 {
     Artist: "Gama"
-    Title: "ⱽᴵᴾ | TNT Sports 1 ᵁᴷ |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://tvepg.eu/img/united_kingdom/logo/tnt_sports_1.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]704025"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | TNT Sports 3 ᵁᴷ |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://tvepg.eu/img/united_kingdom/logo/tnt_sports_3.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]704024"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
     Title: "ⱽᴵᴾ | T.U.D.N | U.S.A |"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -418,55 +396,11 @@
 }
 {
     Artist: "Gama"
-    Title: "ⱽᴵᴾ | D-irect.v S-p⚽rt.s ᴾᴱᴿᵁ | EXCLUSIVO ᵁᴴᴰ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99654"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | D-irect.v S-p⚽rt.s 2 ᴾᴱᴿᵁ | EXCLUSIVO ᵁᴴᴰ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99656"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | D-irect.v S-p⚽rt.s + ᴾᴱᴿᵁ | EXCLUSIVO ᵁᴴᴰ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99657"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
     Title: "ⱽᴵᴾ | ⒺⓈⓅⓃ ⓵ ᴾᴱᴿᵁ | EXCLUSIVO ᵁᴴᴰ"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://hls.cx:8000/images/d2a59c024f78852f1cd2ccf6be68825f.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]699140"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | ⒺⓈⓅⓃ ᴾᴱᴿᵁ | EXCLUSIVO ᵁᴴᴰ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://hls.cx:8000/images/d2a59c024f78852f1cd2ccf6be68825f.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99658"
     Live: true
     Country: "us"
     Tag: "General"
@@ -484,22 +418,11 @@
 }
 {
     Artist: "Gama"
-    Title: "ⱽᴵᴾ | ⒺⓈⓅⓃ 2 ᴾᴱᴿᵁ | EXCLUSIVO ᵁᴴᴰ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99659"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | ⒺⓈⓅⓃ 3 ᴾᴱᴿᵁ | EXCLUSIVO ᵁᴴᴰ"
+    Title: "ⱽᴵᴾ | ⒺⓈⓅⓃ ③ ᴾᴱᴿᵁ | EXCLUSIVO ᵁᴴᴰ"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://wmub.tv/wp-content/uploads/sites/50/2021/06/ESPN-3-logo-transparent.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99660"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]704024"
     Live: true
     Country: "us"
     Tag: "General"
@@ -544,28 +467,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://rojadirecta.com.pe/img/logo-canal/espn7.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99664"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | ⒺⓈⓅⓃ Argentina | EXCLUSIVO ᵁᴴᴰ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://r2.thesportsdb.com/images/media/channel/logo/qzobqn1660760939.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99753"
-    Live: true
-    Country: "ar"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | ⒺⓈⓅⓃ Premium | EXCLUSIVO ᵁᴴᴰ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large.555726526_es(1).png.5e7a55f4088a439da2417ba70dcb6d25.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]288894"
     Live: true
     Country: "us"
     Tag: "General"
@@ -660,17 +561,6 @@
 }
 {
     Artist: "Gama"
-    Title: "ⱽᴵᴾ | ᴳ⚽ᴸ ᴰᴱᴾᴼᴿᵀᴱᔆ | ᴾᴱᴿᵁ | EXCLUSIVO ᵁᴴᴰ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/1200px-Gol_Per%C3%BA_2019.svg.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]394713"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
     Title: "ⱽᴵᴾ | L-➀¹ ᴾᴱᴿᵁ | EXCLUSIVO ᵁᴴᴰ"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -682,44 +572,11 @@
 }
 {
     Artist: "Gama"
-    Title: "ⱽᴵᴾ | L-➀¹ M.A.X ᴾᴱᴿᵁ | EXCLUSIVO ᵁᴴᴰ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/120px-L1-LOGO.svg.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]685999"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | M⚽vistar ᴰᴱᴾᴼᴿᵀᴱᔆ | ᴾᴱᴿᵁ | EXCLUSIVO ᵁᴴᴰ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99678"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
     Title: "ⱽᴵᴾ | Tennis Channel |ᵁᔆᴬ | EXCLUSIVO | ᵁᴴᴰ"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Tennis_Channel.svg/1200px-Logo_Tennis_Channel.svg.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]380768"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | ᵀᴺᵀ Dep⚽rtes Premium ᑦᴴ | EXCLUSIVO ᵁᴴᴰ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://static.wikia.nocookie.net/logopedia/images/0/0a/Logogenericocampeonatonacionalcl.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]695129"
+    Stream: "https[:[[/]][[/]]]tennischannel-int-samsunguk[.]amagi[.]tv[/]playlist[.]m3u8"
     Live: true
     Country: "us"
     Tag: "General"
@@ -803,21 +660,10 @@
 }
 {
     Artist: "Gama"
-    Title: "ⱽᴵᴾ | E.C.D.F ᴰᴱᴾᴼᴿᵀᴱᔆ | EXCLUSIVO ᵁᴴᴰ"
+    Title: "PER: M.ovista.r Deportes UHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://galocisnerosblog.com/wp-content/uploads/2022/10/El-canal-del-futbol-ecuador.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]683144"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "PER: 36 TV Huacho UHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/07/22/1733586879564/2b4f9bc10ae6_640_360.png"
+    Logo: "https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]320399"
     Live: true
     Country: "us"
@@ -852,28 +698,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99524"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "PER: America TV UHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]380766"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "PER: America TV UHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]236602"
     Live: true
     Country: "us"
     Tag: "General"
@@ -940,17 +764,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://brandlogo.org/wp-content/uploads/2025/01/ATV-Peru-Logo-2025.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99644"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "PER: ATV | UHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://brandlogo.org/wp-content/uploads/2025/01/ATV-Peru-Logo-2025.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99643"
     Live: true
     Country: "us"
     Tag: "General"
@@ -1210,33 +1023,11 @@
 }
 {
     Artist: "Gama"
-    Title: "PER: G.⚽.L Peru | 1280 | UHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://hls.cx:8000/images/9268a3382a56262794c6607a2691cd90.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99668"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
     Title: "PER: G.⚽.L Peru UHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://hls.cx:8000/images/75a443874431c86bc0a47527f3d8f658.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]215077"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "PER: G.⚽.L Peru | 1920 | UHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://hls.cx:8000/images/9268a3382a56262794c6607a2691cd90.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99667"
     Live: true
     Country: "us"
     Tag: "General"
@@ -1336,17 +1127,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Latina-TV-en-vivo-Online-2.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99674"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "PER: Latina UHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Latina-TV-en-vivo-Online-2.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99673"
     Live: true
     Country: "us"
     Tag: "General"
@@ -2101,72 +1881,6 @@
 }
 {
     Artist: "Gama"
-    Title: "CUL || Discovery Familia |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Discovery_Familia_logo_%283%29.svg/640px-Discovery_Familia_logo_%283%29.svg.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]701223"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CUL || Discovery H&H |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://static.wikia.nocookie.net/dreamlogos/images/3/3b/Discovery_H%26H_2015.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]252112"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CUL || DW America |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/3u3FH38thdS5nsS95LbVCb/e2c5479d0ec141dfe449dc077aa178cc/102_DeutscheWelle.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]104069"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CUL || E! |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/69MfbckeqVcTR9ukJsfQdj/4a6608389006f3d944fb5536ea1c2762/81_EEntertainment.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]394721"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CUL || History Channel En Español |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/a/ac/History_en_Espa%C3%B1ol_2022.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]376296"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CUL || History 2 | UHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]95173"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
     Title: "EC: Ecuador Television | UHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -2288,17 +2002,6 @@
 }
 {
     Artist: "Gama"
-    Title: "NT I The Weather Channel CA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://img.icons8.com/cool/512/the-weather-channel.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]686001"
-    Live: true
-    Country: "us"
-    Tag: "News"
-}
-{
-    Artist: "Gama"
     Title: "ⱽᴵᴾ | Be.IN Sp⚽rts ᵁᔆᴬ |"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -2332,385 +2035,22 @@
 }
 {
     Artist: "Gama"
-    Title: "ⱽᴵᴾ | Cinecanal | UHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.claro.com.pe/assets/havas/landing-canalesdigitales/icon_cinecanal_sd.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]94116"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | Kanal D Drama"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://static.wikia.nocookie.net/logopedia/images/3/39/Kanal_D_proto.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]253219"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | Paramount Channel America | UHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/76LedPqmnaFTMC5WzIuHaj/985f557cf7d4b35aeb5340a5978d2e98/70_ParamountChannel.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]94125"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | Sony Channel |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/2RhKM1kfYsNIRg8oytryn0/3c6e486fda382334fc290e8e914bbbac/55_Sony.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]223499"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | Star Channel |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://static.wikia.nocookie.net/logopedia/images/8/88/StarChannelHDLA.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]282694"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | AMC | UHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/rbHuH1zjZ5kt0WupDBqWO/d6a34cf574515559d2754d4d8a4d961e/65_AMC.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]94113"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | AXN | UHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]94115"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | A&E |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/2WywBmAu4XrHLK8Env2Yys/84a7f4f36e45ba0cff53ae674ede27f8/52_A_E.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]94112"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | Cinemax |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://digitaltvsv.com:80/images/wSh5qLkI1pPvDM_7UEOl3Ljyn41gfkSoTmRZRnZOvibffoDFgMjB7ydnCB2rMgpa.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]698959"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | Golden Edge |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/3/32/Golden_Edge_Logo.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]103947"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | Golden |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/847px-Logo_Golden_TV.svg.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]103948"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | FX |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://static.wikia.nocookie.net/logopedia/images/9/94/Fxhd.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]701224"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | Sony Movies |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/6gZEmi0TXR619cJwiZWU6X/289f49dec06842c6ad443e189172ae4f/304_SONY_MOVIES_cine-series.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]381690"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | Studio Universal | UHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/3Q4Kcrs1ArtiZ3dA4QCCFW/7872da4c0f5bcc4bd5ca0f95041d7f1d/59_StudioUniversal.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]49798"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | Universal ➕ Channel |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/3xbmRhqiIzmq92SsYm9qdb/4746ff2397a15eca1cea47c50eebffd4/57_Universal.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]264534"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | Universal ➕ Cinema |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.945333694_UniversalCinema-Oscuro.png.e63c480dba6854e26515abfbd89a7462.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]237081"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | Universal ➕ Comedy |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.1606587218_UniversalComedy-Oscuro.png.725bf2f5f0a1d11b05619feb4f3cf793.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]237082"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | Universal ➕ Crime |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.139088045_UniversalCrime-Oscuro.png.e65dc4d48dd85ff7276cc4d0caff986d.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]681266"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | Universal ➕ Premier |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.836711264_UniversalPremiere-Oscuro.png.ed806acf00aafe73ba9f67f14b2d8a35.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]237080"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | Universal ➕ Reality |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://miarea.vip:8080/images/208d5accbbbb691c2c9d3ee4102fe457.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]703810"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "CUL || Animal Planet |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/2VZSYkkMoux2WhaqexQF9U/8bcaa85e77c536532b15dd6e18879cc0/86_AnimalPlanet.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]247691"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CUL || Discovery Channel | UHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/2jxD6xBgfDYuGl4ObVKjCA/713c91824c8b6ead6a48a9faff844441/87_Discovery.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]247692"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CUL || Discovery Investigation | UHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.claro.com.pe/assets/havas/landing-canalesdigitales/icon_iddiscovery_sd.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]247694"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CUL || Discovery Science |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/2Epkdd93g9ercbqDzKQFoe/36c820d026574873c07232d83a9e9cd1/89_DiscoveryScience.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]247696"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CUL || Discovery Theater |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/eg0Qo0QB4c3KAVMz6lZIU/4b374c4a0dc4ae278db863e404364285/91_DiscoveryTheater.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]95220"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CUL || Discovery Turbo |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://static.wikia.nocookie.net/dreamlogos/images/c/c9/Discovery_Turbo_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]247697"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CUL || Discovery World |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/1Np2cHnQxvzXiPeMMxuJpn/0d128c7aad11e845b0af560b64207aba/90_DiscoveryWorld.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]376458"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CUL || Gourmet |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/1YidEkapW8T04qZBXENP7N/e8ae3d22eaa313daf1df602b2295860a/79_ElGourmetNEW.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]269854"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CUL || HGTV |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/6XQjTLV1YxXlHhne0eIg6T/7cdfa6b28114f0c346bf0ba3be684c5b/88_HogarTV.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]390619"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CUL || History Channel | UHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/32n20IZvi60FVhckqjnhrT/16696255515e884f71a729171f33895c/95_History.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]95174"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CUL || Lifetime |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]704023"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CUL || Nat Geo | UHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/4rMHDLiFoR4TXAfeAlXiF1/5bfcfe97838024d7e4d556e0eec8e997/93_NatGeo.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]95175"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CUL || TLC |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/3MQOt9I55Djj4QJ6S8CHll/35993083e010f6578912712b754f94a9/Canal_-_DiscoveryTLC.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]247701"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CUL || Food Network |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/3sswkG0BLaUI5CuxxdNiQg/0c362f7462bf1fa5c58ea8b9763cc7e3/85_FoodNetwork.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]602821"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
     Title: "⚪:| W.W.E | Evento | EN VIVO UHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://hls.cx:8000/images/pbOu9pV3PR7rAUn0QSMOrNEcC2k1PffcnOKk5-IuEn5Xuh6wlAyNWtKfMo2jTU8V.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]283253"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | D-irect.v S-p⚽rt.s ᴾᴱᴿᵁ ᵁᴴᴰ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]704025"
     Live: true
     Country: "us"
     Tag: "General"
@@ -2783,7 +2123,7 @@
 }
 {
     Artist: "Gama"
-    Title: "⚪:| 3 | [8:30 PM] | EXCLUSIVO ᵁᴴᴰ"
+    Title: "ⱽᴵᴾ | FI_FA + | EXCLUSIVO ᵁᴴᴰ"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.livesoccertv.com/tt/images/competitions/22-copa-sudamericana.png"
@@ -2794,7 +2134,7 @@
 }
 {
     Artist: "Gama"
-    Title: "⚪:| 4 | [8:30 PM] | EXCLUSIVO ᵁᴴᴰ"
+    Title: "ⱽᴵᴾ | FI_FA + Esp | EXCLUSIVO ᵁᴴᴰ"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.livesoccertv.com/tt/images/competitions/22-copa-sudamericana.png"
@@ -2997,6 +2337,666 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/N6xqxMN/ppv-icon-pay-per-view-vector-processed.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]718942"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | Studio Universal | UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/3Q4Kcrs1ArtiZ3dA4QCCFW/7872da4c0f5bcc4bd5ca0f95041d7f1d/59_StudioUniversal.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]49798"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | H-B-Ⓞ ②"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/69ZCAfInUfsT4Q4HKNqenB/e663327079caa7727a6c92f421375c47/Premium_08_HBO2.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]87425"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | A&E |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/2WywBmAu4XrHLK8Env2Yys/84a7f4f36e45ba0cff53ae674ede27f8/52_A_E.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]94112"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | AMC | UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/rbHuH1zjZ5kt0WupDBqWO/d6a34cf574515559d2754d4d8a4d961e/65_AMC.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]94113"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | AXN | UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]94115"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | Cinecanal | UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.claro.com.pe/assets/havas/landing-canalesdigitales/icon_cinecanal_sd.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]94116"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | Paramount Channel America | UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/76LedPqmnaFTMC5WzIuHaj/985f557cf7d4b35aeb5340a5978d2e98/70_ParamountChannel.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]94125"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | Space America |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://stalkertvlatinoplay.com/LOGOS/CINE/SPACE.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]94127"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | TCM |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/4g2vJw5NXP7oDqfSP3jwLg/48fe2c3b9582624afcb12e4f1b082f09/48_TCM.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]94128"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | TNT Latin America |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/1Xi29R82K8IWwZlBPRdGMz/209d344e76cd15a2ad8031892f9715b5/49_TNTHD.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]94130"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | TNT Series America |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/7ELLroSkVJCu1mlad72bNT/0d38b46c9d952bce0ddbc02b46119d40/50_TNTSeries.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]94131"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | Warner TV |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/6BmfCAHPAMiBzoa8PGzRIC/9941693b3a972c25282d1a5552f2a7b8/56_Warner.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]94132"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | Golden Edge |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/3/32/Golden_Edge_Logo.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]103947"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | Golden |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/847px-Logo_Golden_TV.svg.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]103948"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | H-B-Ⓞ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/7icW4eGEsDwYW0SGbEizl0/11e491f83fef667f6b5242efe73ce4c5/Premium_04_HBO.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]172580"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | H-B-Ⓞ ⒻⒶⓂⒾⓁⓎ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/5bKzSwd0Mu1shRgqL7xwWD/80c78ad02cdc722d2035cbe4395fb5f8/Premium_03_HBOFamily.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]172581"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | TRU TV |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]222011"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | Sony Channel |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/2RhKM1kfYsNIRg8oytryn0/3c6e486fda382334fc290e8e914bbbac/55_Sony.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]223499"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | Universal ➕ Premier |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.836711264_UniversalPremiere-Oscuro.png.ed806acf00aafe73ba9f67f14b2d8a35.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]237080"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | Universal ➕ Cinema |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.945333694_UniversalCinema-Oscuro.png.e63c480dba6854e26515abfbd89a7462.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]237081"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | Universal ➕ Comedy |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.1606587218_UniversalComedy-Oscuro.png.725bf2f5f0a1d11b05619feb4f3cf793.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]237082"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | H-B-Ⓞ ⓈⒾⒼⓃⒶⓉⓊⓇⒺ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/77tiTKhe5p80XL5mgv2GX4/17c2b387b7a33cb13dbd5abbec8fe5ba/Premium_07_HBOSignature.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]237114"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | H-B-Ⓞ ⓅⓄⓅ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/3OamYggD5kfGpnHPj6LcN6/c06f94dbe8efe062bd7d85825acb283e/Premium_10_HBOPOP.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]237115"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | Kanal D Drama"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://static.wikia.nocookie.net/logopedia/images/3/39/Kanal_D_proto.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]253219"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | Universal ➕ Channel |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/3xbmRhqiIzmq92SsYm9qdb/4746ff2397a15eca1cea47c50eebffd4/57_Universal.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]264534"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | H-B-Ⓞ ⓂⓊⓃⒹⒾ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/26mE7OYl09nkFyQcGMv4mo/4190f92a6b036b9c6f710a6849490376/Premium_05_HBOMundi.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]280932"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | H-B-Ⓞ ➕"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/6ebb9rED2Ut2MWogfEMWq2/ac8d80f6fd0c403474144aee4723510b/Premium_06_HBOPlus.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]281094"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | Star Channel |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://static.wikia.nocookie.net/logopedia/images/8/88/StarChannelHDLA.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]282694"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | SYFY |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SCI-FI.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]380797"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | Sony Movies |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/6gZEmi0TXR619cJwiZWU6X/289f49dec06842c6ad443e189172ae4f/304_SONY_MOVIES_cine-series.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]381690"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | Bloom TV |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://static.vecteezy.com/system/resources/thumbnails/041/271/848/small/ai-generated-wooden-retro-tv-old-style-television-isolate-screen-empty-transparent-background-png.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]670402"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | Universal ➕ Crime |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.139088045_UniversalCrime-Oscuro.png.e65dc4d48dd85ff7276cc4d0caff986d.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]681266"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | Cinemax |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://digitaltvsv.com:80/images/wSh5qLkI1pPvDM_7UEOl3Ljyn41gfkSoTmRZRnZOvibffoDFgMjB7ydnCB2rMgpa.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]698959"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | FX |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://static.wikia.nocookie.net/logopedia/images/9/94/Fxhd.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]701224"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | Golden Plus |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.nicepng.com/png/full/434-4344309_golden-plus-golden-plus-logo-png.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]701225"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | Universal ➕ Reality |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://miarea.vip:8080/images/208d5accbbbb691c2c9d3ee4102fe457.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]703810"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | DHE |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/HW3jhRLm/dhe.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]711455"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | H-B-Ⓞ XREAM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE12j0VxSwINEK7XjgopLVZM53fEOlpetX2mn-ZM1Cgbqv.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]711510"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | De Pelicula"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://icomplay.net:80/images/1fLe3cZ7HZPfoGrIbC68PZAhLKiBEP1wyHNjTi9Ym_ZTT4p3j83ldGT3_mfweS2nh5hR3iiPa46420vA2TtpEQ.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]713151"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | CINELATINO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://stalkertvlatinoplay.com/LOGOS/CINE/CINELATINO.jpeg"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]736495"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | ⒺⓈⓅⓃ ᴾᴱᴿᵁ | EXCLUSIVO ᵁᴴᴰ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://hls.cx:8000/images/d2a59c024f78852f1cd2ccf6be68825f.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99658"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | ⒺⓈⓅⓃ 2 ᴾᴱᴿᵁ | EXCLUSIVO ᵁᴴᴰ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99659"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | ⒺⓈⓅⓃ 3 ᴾᴱᴿᵁ | EXCLUSIVO ᵁᴴᴰ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://wmub.tv/wp-content/uploads/sites/50/2021/06/ESPN-3-logo-transparent.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99660"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | ᴳ⚽ᴸ ᴰᴱᴾᴼᴿᵀᴱᔆ | ᴾᴱᴿᵁ | EXCLUSIVO ᵁᴴᴰ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/1200px-Gol_Per%C3%BA_2019.svg.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]394713"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "PER: G.⚽.L Peru | 1280 | UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://hls.cx:8000/images/9268a3382a56262794c6607a2691cd90.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99668"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "PER: G.⚽.L Peru | 1920 | UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://hls.cx:8000/images/9268a3382a56262794c6607a2691cd90.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99667"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | M⚽vistar ᴰᴱᴾᴼᴿᵀᴱᔆ | ᴾᴱᴿᵁ | EXCLUSIVO ᵁᴴᴰ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99678"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | D-irect.v S-p⚽rt.s ᴾᴱᴿᵁ | EXCLUSIVO ᵁᴴᴰ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99654"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | D-irect.v S-p⚽rt.s + ᴾᴱᴿᵁ | EXCLUSIVO ᵁᴴᴰ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99657"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | D-irect.v S-p⚽rt.s 2 ᴾᴱᴿᵁ | EXCLUSIVO ᵁᴴᴰ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99656"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | E.C.D.F ᴰᴱᴾᴼᴿᵀᴱᔆ | EXCLUSIVO ᵁᴴᴰ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://galocisnerosblog.com/wp-content/uploads/2022/10/El-canal-del-futbol-ecuador.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]683144"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | ⒺⓈⓅⓃ Argentina | EXCLUSIVO ᵁᴴᴰ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://r2.thesportsdb.com/images/media/channel/logo/qzobqn1660760939.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99753"
+    Live: true
+    Country: "ar"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | ⒺⓈⓅⓃ Premium | EXCLUSIVO ᵁᴴᴰ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large.555726526_es(1).png.5e7a55f4088a439da2417ba70dcb6d25.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]288894"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | L-➀¹ M.A.X ᴾᴱᴿᵁ | EXCLUSIVO ᵁᴴᴰ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/120px-L1-LOGO.svg.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]685999"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "ⱽᴵᴾ | ᵀᴺᵀ Dep⚽rtes Premium ᑦᴴ | EXCLUSIVO ᵁᴴᴰ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://static.wikia.nocookie.net/logopedia/images/0/0a/Logogenericocampeonatonacionalcl.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]695129"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "PER: Latina UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Latina-TV-en-vivo-Online-2.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99673"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "PER: America TV UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]380766"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "PER: America TV UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]236602"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "PER: ATV | UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://brandlogo.org/wp-content/uploads/2025/01/ATV-Peru-Logo-2025.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99643"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "PER: Karibena TV 1920 | UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://peru.mom-gmr.org/typo3temp/_processed_/b/6/csm_2029-205_import_3aa2852a65.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]686001"
     Live: true
     Country: "us"
     Tag: "General"
@@ -3927,22 +3927,11 @@
 }
 {
     Artist: "Gama"
-    Title: "EVENTO PPV E.S.P.N 1 11:00 P.a.í.s.e.s B.a.j.o.s vs F.i.n.l.a.n.d.i.a"
+    Title: "EVENTO PPV E.S.P.N 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/C5CFNxQ/PPVEVENTOS-processed.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]204751"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CUL || NAT GEO WILD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGW.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]95176"
     Live: true
     Country: "us"
     Tag: "General"
@@ -5291,7 +5280,7 @@
 }
 {
     Artist: "Gama"
-    Title: "EVENTO PPV 7"
+    Title: "EVENTO PPV 7 19:00 P.u.e.r.t.o R.i.c.o vs A.r.g.e.n.t.i.n.a"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/C5CFNxQ/PPVEVENTOS-processed.png"
@@ -5390,7 +5379,7 @@
 }
 {
     Artist: "Gama"
-    Title: "EVENTO PPV 8"
+    Title: "EVENTO PPV 8 19:00 C.a.n.a.d.á. vs C.o.l.o.m.b.i..a"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/C5CFNxQ/PPVEVENTOS-processed.png"
@@ -5406,17 +5395,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://maranatha-tv.com:443/images/ZjgLjnYkRxRVHGaNnLx58sdM7E6HxizEV8q0Soi0unUt4z6WMsmqbCVH9eu_dE8-vTWRsSpl6U-yGSpVPsWes0-zK_fa86k5E9cEgI4GfjiF-FW7liEGF22tVtW8IedNDES4MscuklwpxpPd2GfVZQ.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]675804"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CUL || Nat Geo Mundo"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://c3.klipartz.com/pngpicture/20/323/sticker-png-tv-channel-icons-pack-nat-geo-mundo-color-thumbnail.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]675838"
     Live: true
     Country: "us"
     Tag: "General"
@@ -5907,17 +5885,6 @@
 }
 {
     Artist: "Gama"
-    Title: "CUL || HOLA TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://dplatino.net:8080/images/efaaed36ee34701cb6800f849a57edb1.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]702292"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
     Title: "Sevilla FC TV [Not 24/7]"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -6234,17 +6201,6 @@
     Live: true
     Country: "us"
     Tag: "Kids"
-}
-{
-    Artist: "Gama"
-    Title: "Natgeo Mundo"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://sc.dish.com/shared/images/station-logos/NGMDO.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]704096"
-    Live: true
-    Country: "us"
-    Tag: "General"
 }
 {
     Artist: "Gama"
@@ -6600,182 +6556,6 @@
 }
 {
     Artist: "Gama"
-    Title: "ⱽᴵᴾ | H-B-Ⓞ ⓅⓄⓅ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/3OamYggD5kfGpnHPj6LcN6/c06f94dbe8efe062bd7d85825acb283e/Premium_10_HBOPOP.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]237115"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | H-B-Ⓞ ②"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/69ZCAfInUfsT4Q4HKNqenB/e663327079caa7727a6c92f421375c47/Premium_08_HBO2.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]87425"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | Space America |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://stalkertvlatinoplay.com/LOGOS/CINE/SPACE.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]94127"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | TCM |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/4g2vJw5NXP7oDqfSP3jwLg/48fe2c3b9582624afcb12e4f1b082f09/48_TCM.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]94128"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | TNT Latin America |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/1Xi29R82K8IWwZlBPRdGMz/209d344e76cd15a2ad8031892f9715b5/49_TNTHD.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]94130"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | TNT Series America |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/7ELLroSkVJCu1mlad72bNT/0d38b46c9d952bce0ddbc02b46119d40/50_TNTSeries.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]94131"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | Warner TV |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/6BmfCAHPAMiBzoa8PGzRIC/9941693b3a972c25282d1a5552f2a7b8/56_Warner.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]94132"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | H-B-Ⓞ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/7icW4eGEsDwYW0SGbEizl0/11e491f83fef667f6b5242efe73ce4c5/Premium_04_HBO.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]172580"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | H-B-Ⓞ ⒻⒶⓂⒾⓁⓎ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/5bKzSwd0Mu1shRgqL7xwWD/80c78ad02cdc722d2035cbe4395fb5f8/Premium_03_HBOFamily.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]172581"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | TRU TV |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]222011"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | H-B-Ⓞ ⓈⒾⒼⓃⒶⓉⓊⓇⒺ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/77tiTKhe5p80XL5mgv2GX4/17c2b387b7a33cb13dbd5abbec8fe5ba/Premium_07_HBOSignature.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]237114"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | H-B-Ⓞ ⓂⓊⓃⒹⒾ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/26mE7OYl09nkFyQcGMv4mo/4190f92a6b036b9c6f710a6849490376/Premium_05_HBOMundi.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]280932"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | H-B-Ⓞ ➕"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.ctfassets.net/ugxciox4nyye/6ebb9rED2Ut2MWogfEMWq2/ac8d80f6fd0c403474144aee4723510b/Premium_06_HBOPlus.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]281094"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | SYFY |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SCI-FI.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]380797"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | Bloom TV |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://static.vecteezy.com/system/resources/thumbnails/041/271/848/small/ai-generated-wooden-retro-tv-old-style-television-isolate-screen-empty-transparent-background-png.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]670402"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | Golden Plus |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.nicepng.com/png/full/434-4344309_golden-plus-golden-plus-logo-png.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]701225"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
     Title: "HON | TVC UHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -6809,28 +6589,6 @@
 }
 {
     Artist: "Gama"
-    Title: "ⱽᴵᴾ | DHE |"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/HW3jhRLm/dhe.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]711455"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | H-B-Ⓞ XREAM"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE12j0VxSwINEK7XjgopLVZM53fEOlpetX2mn-ZM1Cgbqv.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]711510"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
     Title: "EL SALVADOR SD | CANAL 6 | UHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -6861,17 +6619,6 @@
     Live: true
     Country: "us"
     Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "ⱽᴵᴾ | De Pelicula"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://icomplay.net:80/images/1fLe3cZ7HZPfoGrIbC68PZAhLKiBEP1wyHNjTi9Ym_ZTT4p3j83ldGT3_mfweS2nh5hR3iiPa46420vA2TtpEQ.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]713151"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
 }
 {
     Artist: "Gama"
@@ -7513,7 +7260,7 @@
 }
 {
     Artist: "Gama"
-    Title: "EVENTO PPV 10 u.f.c"
+    Title: "EVENTO PPV 10 21:30 M.é.x.i.c.o. vs Ec.u.a.d.o.r."
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/C5CFNxQ/PPVEVENTOS-processed.png"
@@ -7590,17 +7337,6 @@
 }
 {
     Artist: "Gama"
-    Title: "ⱽᴵᴾ | CINELATINO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://stalkertvlatinoplay.com/LOGOS/CINE/CINELATINO.jpeg"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]736495"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Gama"
     Title: "Mex I AZTECA UNO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -7667,7 +7403,7 @@
 }
 {
     Artist: "Gama"
-    Title: "EVENTO PPV E.S.P.N 2"
+    Title: "EVENTO PPV 2 E.S.P.N.2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/C5CFNxQ/PPVEVENTOS-processed.png"
@@ -7771,6 +7507,270 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]374391"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || History 2 | UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]95173"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || History Channel | UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/32n20IZvi60FVhckqjnhrT/16696255515e884f71a729171f33895c/95_History.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]95174"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || Nat Geo | UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/4rMHDLiFoR4TXAfeAlXiF1/5bfcfe97838024d7e4d556e0eec8e997/93_NatGeo.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]95175"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || NAT GEO WILD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGW.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]95176"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || Discovery Theater |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/eg0Qo0QB4c3KAVMz6lZIU/4b374c4a0dc4ae278db863e404364285/91_DiscoveryTheater.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]95220"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || DW America |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/3u3FH38thdS5nsS95LbVCb/e2c5479d0ec141dfe449dc077aa178cc/102_DeutscheWelle.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]104069"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || Animal Planet |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/2VZSYkkMoux2WhaqexQF9U/8bcaa85e77c536532b15dd6e18879cc0/86_AnimalPlanet.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]247691"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || Discovery Channel | UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/2jxD6xBgfDYuGl4ObVKjCA/713c91824c8b6ead6a48a9faff844441/87_Discovery.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]247692"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || Discovery Investigation | UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.claro.com.pe/assets/havas/landing-canalesdigitales/icon_iddiscovery_sd.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]247694"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || Discovery Science |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/2Epkdd93g9ercbqDzKQFoe/36c820d026574873c07232d83a9e9cd1/89_DiscoveryScience.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]247696"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || Discovery Turbo |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://static.wikia.nocookie.net/dreamlogos/images/c/c9/Discovery_Turbo_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]247697"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || TLC |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/3MQOt9I55Djj4QJ6S8CHll/35993083e010f6578912712b754f94a9/Canal_-_DiscoveryTLC.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]247701"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || Discovery H&H |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://static.wikia.nocookie.net/dreamlogos/images/3/3b/Discovery_H%26H_2015.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]252112"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || Gourmet |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/1YidEkapW8T04qZBXENP7N/e8ae3d22eaa313daf1df602b2295860a/79_ElGourmetNEW.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]269854"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || History Channel En Español |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/a/ac/History_en_Espa%C3%B1ol_2022.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]376296"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || Discovery World |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/1Np2cHnQxvzXiPeMMxuJpn/0d128c7aad11e845b0af560b64207aba/90_DiscoveryWorld.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]376458"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || HGTV |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/6XQjTLV1YxXlHhne0eIg6T/7cdfa6b28114f0c346bf0ba3be684c5b/88_HogarTV.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]390619"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || E! |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/69MfbckeqVcTR9ukJsfQdj/4a6608389006f3d944fb5536ea1c2762/81_EEntertainment.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]394721"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || Food Network |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.ctfassets.net/ugxciox4nyye/3sswkG0BLaUI5CuxxdNiQg/0c362f7462bf1fa5c58ea8b9763cc7e3/85_FoodNetwork.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]602821"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || Nat Geo Mundo"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://c3.klipartz.com/pngpicture/20/323/sticker-png-tv-channel-icons-pack-nat-geo-mundo-color-thumbnail.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]675838"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || Discovery Familia |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Discovery_Familia_logo_%283%29.svg/640px-Discovery_Familia_logo_%283%29.svg.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]701223"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || HOLA TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://dplatino.net:8080/images/efaaed36ee34701cb6800f849a57edb1.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]702292"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CUL || Lifetime |"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]704023"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "Natgeo Mundo"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://sc.dish.com/shared/images/station-logos/NGMDO.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]704096"
     Live: true
     Country: "us"
     Tag: "General"
