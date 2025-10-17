@@ -2321,17 +2321,6 @@
 }
 {
     Artist: "Gama"
-    Title: "ⱽᴵᴾ:| 13 | USA vs Ecuador ¹²⁸⁰ [8:30 PM] | EXCLUSIVO ◉ ♦️ ᵁᴴᴰ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.ibb.co/N6xqxMN/ppv-icon-pay-per-view-vector-processed.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]718942"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
     Title: "ⱽᴵᴾ | Studio Universal | UHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -3360,6 +3349,17 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99733"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CHI| TV Senado | UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://static.wikia.nocookie.net/logopedia/images/a/aa/TV_Senado_%282013%29.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]718942"
     Live: true
     Country: "us"
     Tag: "General"
