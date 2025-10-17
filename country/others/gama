@@ -33,7 +33,7 @@
 }
 {
     Artist: "Gama"
-    Title: "ⱽᴵᴾ | R.e.a.l M.a.d.r.i.d Te.l.e.v.i.s.i.o.n |"
+    Title: "ⱽᴵᴾ | R.e.a.l M.a.d.r.i.d TV |"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://directostv.teleame.com/wp-content/uploads/2016/05/Real-Madrid-TV-en-DIRECTO-Online-y-en-vivo.png"
@@ -1408,17 +1408,6 @@
 }
 {
     Artist: "Gama"
-    Title: "PER: RPP TV | 1920 | UHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://static.semrush.com/power-pages/media/favicons/rpp-pe-favicon-f6d4fc0c.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]127031"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
     Title: "PER: TV Peru | UHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -2126,7 +2115,7 @@
     Title: "ⱽᴵᴾ | FI_FA + | EXCLUSIVO ᵁᴴᴰ"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://cdn.livesoccertv.com/tt/images/competitions/22-copa-sudamericana.png"
+    Logo: "https://batista70.s3.eu-central-1.amazonaws.com/38991f882f4a8a746131c9a738a135fc/FIFA-Logo-colour.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]704051"
     Live: true
     Country: "us"
@@ -2137,7 +2126,7 @@
     Title: "ⱽᴵᴾ | FI_FA + Esp | EXCLUSIVO ᵁᴴᴰ"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://cdn.livesoccertv.com/tt/images/competitions/22-copa-sudamericana.png"
+    Logo: "https://batista70.s3.eu-central-1.amazonaws.com/38991f882f4a8a746131c9a738a135fc/FIFA-Logo-colour.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]704049"
     Live: true
     Country: "us"
@@ -2997,6 +2986,17 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://peru.mom-gmr.org/typo3temp/_processed_/b/6/csm_2029-205_import_3aa2852a65.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]686001"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "PER: RPP TV | 1920 | UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://static.semrush.com/power-pages/media/favicons/rpp-pe-favicon-f6d4fc0c.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]127031"
     Live: true
     Country: "us"
     Tag: "General"
@@ -5280,7 +5280,7 @@
 }
 {
     Artist: "Gama"
-    Title: "EVENTO PPV 7 19:00 P.u.e.r.t.o R.i.c.o vs A.r.g.e.n.t.i.n.a"
+    Title: "EVENTO PPV 7"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/C5CFNxQ/PPVEVENTOS-processed.png"
@@ -5379,7 +5379,7 @@
 }
 {
     Artist: "Gama"
-    Title: "EVENTO PPV 8 19:00 C.a.n.a.d.á. vs C.o.l.o.m.b.i..a"
+    Title: "EVENTO PPV 8"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/C5CFNxQ/PPVEVENTOS-processed.png"
@@ -7260,7 +7260,7 @@
 }
 {
     Artist: "Gama"
-    Title: "EVENTO PPV 10 21:30 M.é.x.i.c.o. vs Ec.u.a.d.o.r."
+    Title: "EVENTO PPV 10"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/C5CFNxQ/PPVEVENTOS-processed.png"
