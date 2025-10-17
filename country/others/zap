@@ -5104,24 +5104,24 @@
 }
 {
     Artist: "Zapp"
-    Title: "PPV 1 - Colombia Vs. Argentina Sub-20"
+    Title: "PPV 1 -"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/0jbbYF3T/PPV1.png"
     Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]150442"
     Live: true
-    Country: "ar"
+    Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "PPV 2 - Ecuador Vs. Mexico"
+    Title: "PPV 2 -"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/0jbbYF3T/PPV1.png"
     Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]150443"
     Live: true
-    Country: "mx"
+    Country: "us"
     Tag: "General"
 }
 {
@@ -5152,7 +5152,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.rev.bs/wp-content/uploads/2021/09/REDZONE-LOGO-1-1024x478.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152127"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152304"
     Live: true
     Country: "us"
     Tag: "Sports"
@@ -5163,865 +5163,1019 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.rev.bs/wp-content/uploads/2021/09/REDZONE-LOGO-1-1024x478.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152128"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152305"
     Live: true
     Country: "us"
     Tag: "Sports"
 }
 {
     Artist: "Zapp"
-    Title: "Expansión MX 21:00 Tampico Madero vs Mineros de Zacatecas"
+    Title: "Six Kings Slam"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://thesaudiboom.com/wp-content/uploads/2024/10/2-6-Kings-Slam-is-Bringing-Tennis-Legends-to-Riyadh-in-October-1024x576.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152306"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "Liga MX 19:00 Puebla vs Tijuana"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152307"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "Liga MX¨21:00 Tigres UANL vs Necaxa"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152308"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "Liga MX 21:00 Atlético San Luis vs Atlas"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152309"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "Expansión MX 19:00 Tepatitlán vs Cancún"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/8/83/Liga_de_expansi%C3%B3n_MX.logopng.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152129"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152310"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "Liga MX Fem 19:00 Atlas vs América"
+    Title: "Expansión MX 19:00 Correcaminos UAT vs Dorados"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/8/83/Liga_de_expansi%C3%B3n_MX.logopng.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152311"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "Expansión MX 20:00 Leones Negros UdeG vs Alebrijes de Oaxaca"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/8/83/Liga_de_expansi%C3%B3n_MX.logopng.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152312"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "Liga MX Fem 17:00 Querétaro vs Cruz Azul"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.clubamerica.com.mx/wp-content/uploads/2021/04/liga-mx-femenil.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152130"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152313"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "Mundial Sub-20 14:00 Marruecos Sub-20 vs Francia Sub-20"
+    Title: "Liga MX Fem 17:00 Necaxa vs Toluca"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.seeklogo.com/logo-png/61/1/fifa-u-20-world-cup-chile-2025-logo-png_seeklogo-612638.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152131"
-    Live: true
-    Country: "fr"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "Mundial Sub-20 17:00 Argentina Sub-20 vs Colombia Sub-20"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.seeklogo.com/logo-png/61/1/fifa-u-20-world-cup-chile-2025-logo-png_seeklogo-612638.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152132"
-    Live: true
-    Country: "ar"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "Women's Champions League 10:45 Vålerenga Kvinner vs Wolfsbur g"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/UEFA_Women%27s_Champions_League_logo_%282021%29.svg/995px-UEFA_Women%27s_Champions_League_logo_%282021%29.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152133"
+    Logo: "https://www.clubamerica.com.mx/wp-content/uploads/2021/04/liga-mx-femenil.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152314"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "Women's Champions League 10:45 Olympique Lyonnais vs St. Pölten"
+    Title: "Liga MX Fem 19:00 Santos Laguna vs Mazatlán"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/UEFA_Women%27s_Champions_League_logo_%282021%29.svg/995px-UEFA_Women%27s_Champions_League_logo_%282021%29.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152134"
+    Logo: "https://www.clubamerica.com.mx/wp-content/uploads/2021/04/liga-mx-femenil.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152315"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "Women's Champions League 13:00 Roma vs Barcelona"
+    Title: "Mundial Fem Sub-17 13:00 Marruecos Sub-17 vs Brasil Sub-17"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/UEFA_Women%27s_Champions_League_logo_%282021%29.svg/995px-UEFA_Women%27s_Champions_League_logo_%282021%29.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152135"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "Women's Champions League 13:00 OH Leuven vs Twente"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/UEFA_Women%27s_Champions_League_logo_%282021%29.svg/995px-UEFA_Women%27s_Champions_League_logo_%282021%29.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152136"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "Women's Champions League 13:00 Chelsea FC vs Paris"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/UEFA_Women%27s_Champions_League_logo_%282021%29.svg/995px-UEFA_Women%27s_Champions_League_logo_%282021%29.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152137"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "Campeonas CONCACAF W 16:15 Washington Spirit vs Monterrey"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/d/da/CONCACAF_Champions_Cup.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152138"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "Campeonas CONCACAF W 18:15 Orlando Pride vs Pachuca"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/d/da/CONCACAF_Champions_Cup.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152139"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "Brasileirão 16:00 Palmeiras vs RB Bragantino"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2020/03/Campeonato-Brasileiro-S%C3%A9rie-A-logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152140"
+    Logo: "https://momentodeportivord.com/wp-content/uploads/2024/05/logo-copa-mundial-femenina-sub-17-fifa-republica-dominicana-focus-0-0-896-504.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152316"
     Live: true
     Country: "br"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "Brasileirão 16:30 Botafogo vs Flamengo"
+    Title: "LaLiga 13:00 Real Oviedo vs Espanyol"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2020/03/Campeonato-Brasileiro-S%C3%A9rie-A-logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152141"
-    Live: true
-    Country: "br"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "Brasileirão 17:00 Mirassol vs Internacional"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2020/03/Campeonato-Brasileiro-S%C3%A9rie-A-logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152142"
-    Live: true
-    Country: "br"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "Brasileirão 17:00 Sport Recife vs Ceará"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2020/03/Campeonato-Brasileiro-S%C3%A9rie-A-logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152143"
-    Live: true
-    Country: "br"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "Brasileirão 18:30 Atlético Mineiro vs Cruzeiro"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2020/03/Campeonato-Brasileiro-S%C3%A9rie-A-logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152144"
-    Live: true
-    Country: "br"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "Brasileirão 18:30 Santos vs Corinthians"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2020/03/Campeonato-Brasileiro-S%C3%A9rie-A-logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152145"
-    Live: true
-    Country: "br"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "Brasileirão 18:30 Fortaleza vs Vasco da Gama"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2020/03/Campeonato-Brasileiro-S%C3%A9rie-A-logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152146"
-    Live: true
-    Country: "br"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "Colombia 17:20 Deportivo Pereira vs Millonarios"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152147"
+    Logo: "https://assets.laliga.com/assets/logos/LALIGA_EA_SPORTS_RGB_h_color/LALIGA_EA_SPORTS_RGB_h_color.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152317"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "Guatemala 20:00 Marquense vs Antigua GFC"
+    Title: "Bundesliga 12:30 Union Berlin vs Borussia M'gladbach"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://ligagt.org/ft/wp-content/uploads/2023/01/LIGA-GUATE-LOGOfinal-01-e1674594169324.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152148"
+    Logo: "https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152318"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "USL Championship 20:00 Orange County SC vs San Antonio"
+    Title: "Ligue 1 12:45 PSG vs Strasbourg"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://cdn1.sportngin.com/attachments/photo/5465-114093106/Chmp-Logo-Abb-Light-400x400_large.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152149"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/409px-Ligue1_Uber_Eats_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152319"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "Copa Uruguay 18:00 Defensor Sporting vs Peñarol"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/2/27/COPA_AUFURUGUAY.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152150"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "Argentina Torneo de Res 12:00 Estudiantes Res. vs Boca Juniors Res."
+    Title: "Argentina 16:00 Racing Club vs Aldosivi"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152151"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152320"
     Live: true
     Country: "ar"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "Northern Super League 15:30 Halifax Tides vs Ottawa Rapid"
+    Title: "Argentina 18:15 Lanús vs Godoy Cruz"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://assets.nsl.ca/nsl-prod/league/NSL-Banner-1.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152152"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152321"
+    Live: true
+    Country: "ar"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "Argentina 18:15 Argentinos Juniors vs Newell's Old Boys"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152322"
+    Live: true
+    Country: "ar"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "Championship 13:00 Middlesbrough vs Ipswich Town"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152323"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "Costa Rica 16:30 Sporting San José vs Pérez Zeledón"
+    Title: "LaLiga SmartBank 12:30 FC Andorra vs Granada"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.thesportsdb.com/images/media/league/badge/97r4et1716292122.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152153"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/512px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152324"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "Costa Rica 19:30 San Carlos vs Deportivo Saprissa"
+    Title: "MLS,NFL,MLB,NHL)",USL League One 17:00 Charlotte Independence vs Chattanooga Red Wolves"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.thesportsdb.com/images/media/league/badge/97r4et1716292122.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152154"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/USL_League_One_vert_dark_logo.svg/1200px-USL_League_One_vert_dark_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152325"
+    Live: true
+    Country: "us"
+    Tag: "Sports"
+}
+{
+    Artist: "Zapp"
+    Title: "MLS,NFL,MLB,NHL)",USL League One 20:30 Alta vs Richmond Kickers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/USL_League_One_vert_dark_logo.svg/1200px-USL_League_One_vert_dark_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152326"
+    Live: true
+    Country: "us"
+    Tag: "Sports"
+}
+{
+    Artist: "Zapp"
+    Title: "Uruguay 17:00 Boston River vs Danubio"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZMhrbB2fnxlNQnMLa-CNayvWFEOIW5iOfsQ&s_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152327"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "Costa Rica 20:00 Cartaginés vs Guadalupe"
+    Title: "Chile 15:00 Audax Italiano vs Unión La Calera"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.thesportsdb.com/images/media/league/badge/97r4et1716292122.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152155"
+    Logo: "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/86.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152328"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Men's Soccer 11:00 Iona vs Siena"
+    Title: "Chile 17:30 Deportes Iquique vs O'Higgins"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152156"
+    Logo: "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/86.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152329"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Men's Soccer 13:00 Quinnipiac vs Manhattan"
+    Title: "Colombia 17:00 Medellín vs Fortaleza CEIF"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152157"
+    Logo: "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152330"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Men's Soccer 14:00 Niagara vs Mount St. Mary's"
+    Title: "19:10 Unión Magdalena vs Envigado"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152158"
+    Logo: "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152331"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Men's Soccer 16:00 Saint Mary's vs Santa Clara"
+    Title: "Ecuador 17:00 Orense vs Independiente del Valle"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152159"
+    Logo: "https://www.zerozero.pt/img/logos/competicoes/274_imgbank_d1_20250313153049.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152332"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Men's Soccer 16:00 Sacramento St. vs Cal Poly"
+    Title: "Ecuador 19:15 LDU Quito vs Barcelona"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152160"
+    Logo: "https://www.zerozero.pt/img/logos/competicoes/274_imgbank_d1_20250313153049.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152333"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Men's Soccer 17:00 Davidson vs Jwu Charlotte"
+    Title: "2. Bundesliga 10:30 Fortuna Düsseldorf vs Eintracht Braunschweig"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152161"
+    Logo: "https://upload.wikimedia.org/wikipedia/vi/c/cc/2._Bundesliga_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152334"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Men's Soccer 17:00 Rhode Island vs Central Conn. St."
+    Title: "2. Bundesliga 10:30 Hannover 96 vs Schalke 04"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152162"
+    Logo: "https://upload.wikimedia.org/wikipedia/vi/c/cc/2._Bundesliga_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152335"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Men's Soccer 17:00 Dayton vs Baldwin Wallace"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152163"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Men's Soccer 17:00 Marist vs Sacred Heart"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152164"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Men's Soccer 17:00 Fairfield vs Merrimack"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152165"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Men's Soccer 19:00 Seattle U vs Gonzaga"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152166"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Men's Soccer 20:00 Cal St. Fullerton vs UC Riverside"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152167"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Men's Soccer 20:00 San Diego vs LMU"
+    Title: "NCAA Men's Soccer 13:00 Villanova vs Creighton"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152168"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152336"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Men's Soccer 20:00 Oregon St. vs Portland"
+    Title: "NCAA Men's Soccer 16:00 Charlotte vs Fla. Atlantic"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152169"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152337"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Men's Soccer 20:00 Pacific vs San Francisco"
+    Title: "NCAA Men's Soccer 16:30 Xavier vs Butler"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152170"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152338"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Men's Soccer 20:00 CSU Bakersfield vs UC Davis"
+    Title: "NCAA Men's Soccer 16:30 Albany vs UMBC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152171"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152339"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Women's Soccer 11:00 American vs Navy"
+    Title: "NCAA Men's Soccer 16:30 Michigan vs UCLA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152172"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152340"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Women's Soccer 12:00 Merrimack vs Niagara"
+    Title: "NCAA Men's Soccer 16:56 Seton Hall vs Akron"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152173"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152341"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Women's Soccer 13:00 Manhattan vs Marist"
+    Title: "NCAA Men's Soccer 17:00 South Fla. vs Missouri St."
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152174"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152342"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Women's Soccer 13:00 Charleston So. vs Charleston So."
+    Title: "NCAA Men's Soccer 17:00 Ga. Southern vs Coastal Carolina"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152175"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152343"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Women's Soccer 13:00 Villanova vs Marquette"
+    Title: "NCAA Women's Soccer 17:00 James Madison vs South Alabama"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152176"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152344"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Women's Soccer 16:00 Longwood vs Winthrop"
+    Title: "NCAA Women's Soccer 19:00 Northern Colo. vs Idaho St."
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152177"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152345"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Women's Soccer 16:00 Sacred Heart vs Iona"
+    Title: "NCAA Women's Soccer 20:00 Northern Ariz. vs Weber St."
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152178"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152346"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Women's Soccer 16:00 Army West Point vs Bucknell"
+    Title: "NCAA Women's Soccer 20:00 San Diego vs Pepperdine"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152179"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152347"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Women's Soccer 16:00 UNC Asheville vs Gardner-Webb"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152180"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Women's Soccer 16:00 Boston U. vs Holy Cross"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152181"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Women's Soccer 16:00 Lehigh vs Colgate"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152182"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Women's Soccer 16:00 Seton Hall vs DePaul"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152183"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Women's Soccer 16:00 Loyola Maryland vs Lafayette"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152184"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Women's Soccer 16:00 Rider vs Fairfield"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152185"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Women's Soccer 17:00 Radford vs High Point"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152186"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Women's Soccer 17:00 Butler vs UConn"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152187"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Women's Soccer 17:00 Georgetown vs Providence"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152188"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Women's Soccer 17:00 Presbyterian vs USC Upstate"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152189"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Women's Soccer 17:00 South Carolina St. vs USC Beaufort"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152190"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Football 17:00 Jacksonville State vs Delaware Fightin"
+    Title: "NCAA Football 17:00 Miami vs Louisville"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152191"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152348"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Football 17:00 Sam Houston State vs UTEP"
+    Title: "NCAA Football 19:00 Utah State vs San Jose State"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152192"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152349"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "MLS,NFL,MLB,NHL)",MLB 1 | Blue Jays VS Mariners | 10/15/2025 18:08:00"
+    Title: "MLS,NFL,MLB,NHL)",MLB 1 | Blue Jays VS Mariners | 10/17/2025 16:08:00"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://82.165.213.129/mlbv3/images/mariners.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152193"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152350"
     Live: true
     Country: "us"
     Tag: "Sports"
 }
 {
     Artist: "Zapp"
-    Title: "MLS,NFL,MLB,NHL)",NBA 17:00 Charlotte Hornets vs Memphis Grizzlies"
+    Title: "MLS,NFL,MLB,NHL)",MLB 2 | Brewers VS Dodgers | 10/17/2025 18:38:00"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://82.165.213.129/mlbv3/images/dodgers.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152351"
+    Live: true
+    Country: "us"
+    Tag: "Sports"
+}
+{
+    Artist: "Zapp"
+    Title: "MLS,NFL,MLB,NHL)",NBA 17:00 Philadelphia 76ers vs Minnesota Timberwolves"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152194"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152352"
     Live: true
     Country: "us"
     Tag: "Sports"
 }
 {
     Artist: "Zapp"
-    Title: "MLS,NFL,MLB,NHL)",NBA 17:30 Boston Celtics vs Toronto Raptors"
+    Title: "MLS,NFL,MLB,NHL)",NBA 17:00 Toronto Raptors vs Brooklyn Nets"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152195"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152353"
     Live: true
     Country: "us"
     Tag: "Sports"
 }
 {
     Artist: "Zapp"
-    Title: "MLS,NFL,MLB,NHL)",NBA 20:00 Sacramento Kings vs Los Angeles Clippers"
+    Title: "MLS,NFL,MLB,NHL)",NBA 17:30 New York Knicks vs Charlotte Hornets"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152196"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152354"
     Live: true
     Country: "us"
     Tag: "Sports"
 }
 {
     Artist: "Zapp"
-    Title: "MLS,NFL,MLB,NHL)",NBA 20:30 Los Angeles Lakers vs Dallas Mavericks"
+    Title: "MLS,NFL,MLB,NHL)",NBA 18:00 Miami Heat vs Memphis Grizzlies"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152197"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152355"
     Live: true
     Country: "us"
     Tag: "Sports"
 }
 {
     Artist: "Zapp"
-    Title: "MLS,NFL,MLB,NHL)",NHL 17:00 Buffalo Sabres vs Ottawa Senators"
+    Title: "MLS,NFL,MLB,NHL)",NBA 18:00 Oklahoma City Thunder vs Denver Nuggets"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152356"
+    Live: true
+    Country: "us"
+    Tag: "Sports"
+}
+{
+    Artist: "Zapp"
+    Title: "MLS,NFL,MLB,NHL)",NBA 18:00 San Antonio Spurs vs Indiana Pacers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152357"
+    Live: true
+    Country: "us"
+    Tag: "Sports"
+}
+{
+    Artist: "Zapp"
+    Title: "MLS,NFL,MLB,NHL)",NBA 20:00 Golden State Warriors vs Los Angeles Clippers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152358"
+    Live: true
+    Country: "us"
+    Tag: "Sports"
+}
+{
+    Artist: "Zapp"
+    Title: "MLS,NFL,MLB,NHL)",NBA 20:30 Los Angeles Lakers vs Sacramento Kings"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152359"
+    Live: true
+    Country: "us"
+    Tag: "Sports"
+}
+{
+    Artist: "Zapp"
+    Title: "MLS,NFL,MLB,NHL)",NHL 17:00 Detroit Red Wings vs Tampa Bay Lightning"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152198"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152360"
     Live: true
     Country: "us"
     Tag: "Sports"
 }
 {
     Artist: "Zapp"
-    Title: "MLS,NFL,MLB,NHL)",NHL 17:00 Detroit Red Wings vs Florida Panthers"
+    Title: "MLS,NFL,MLB,NHL)",NHL 17:00 Washington Capitals vs Minnesota Wild"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152199"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152361"
     Live: true
     Country: "us"
     Tag: "Sports"
 }
 {
     Artist: "Zapp"
-    Title: "MLS,NFL,MLB,NHL)",NHL 19:30 St Louis Blues vs Chicago Blackhawks"
+    Title: "MLS,NFL,MLB,NHL)",NHL 18:30 Chicago Blackhawks vs Vancouver Canucks"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152200"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152362"
     Live: true
     Country: "us"
     Tag: "Sports"
 }
 {
     Artist: "Zapp"
-    Title: "MLS,NFL,MLB,NHL)",NHL 19:30 Utah Mammoth vs Calgary Flames"
+    Title: "MLS,NFL,MLB,NHL)",NHL 19:00 Utah Mammoth vs San Jose Sharks"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152201"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152363"
     Live: true
     Country: "us"
     Tag: "Sports"
 }
 {
     Artist: "Zapp"
-    Title: "LMP_01 | 20:00 Hrs | Jaguares de Nayarit vs Venados de Mazatlan"
+    Title: "CFL Footbal 18:00 Winnipeg Blue Bombers vs Saskatchewan Roughriders"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://serpentineros.com/wp-content/uploads/2015/08/LMP-sfondo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152202"
+    Logo: "https://1000logos.net/wp-content/uploads/2019/02/Canadian-Football-League-Logo-2002.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152364"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "LMP_02 | 20:30 Hrs | Algodoneros de Guasave vs Tomateros de Culiacan"
+    Title: "CFL Footbal 20:30 BC Lions vs Edmonton Elks"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://serpentineros.com/wp-content/uploads/2015/08/LMP-sfondo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152203"
+    Logo: "https://1000logos.net/wp-content/uploads/2019/02/Canadian-Football-League-Logo-2002.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152365"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "LMP_03 | 20:30 Hrs | Naranjeros de Hermosillo vs Tucson"
+    Title: "F1 |11:30 United States GP Pra ctice 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://serpentineros.com/wp-content/uploads/2015/08/LMP-sfondo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152204"
+    Logo: "https://e7.pngegg.com/pngimages/749/255/png-clipart-formula-1-logo-abu-dhabi-grand-prix-2018-fia-formula-one-world-championship-european-grand-prix-logo-auto-racing-formula-1-miscellaneous-text-thumbnail.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152366"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "LMP_04 | 21:15 Hrs | Cañeros de Los Mochis vs Yaquis de Obregon"
+    Title: "F1 |15:30 United States GP Sprint Qualifying"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://serpentineros.com/wp-content/uploads/2015/08/LMP-sfondo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152205"
+    Logo: "https://e7.pngegg.com/pngimages/749/255/png-clipart-formula-1-logo-abu-dhabi-grand-prix-2018-fia-formula-one-world-championship-european-grand-prix-logo-auto-racing-formula-1-miscellaneous-text-thumbnail.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152367"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Zapp"
-    Title: "LMP_05 | 21:30 Hrs | Aguilas de Mexicali vs Charros de Jalisco"
+    Title: "14:00 NASCAR Craftsman Truck Series"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Craftsman_Truck_Series_Logo.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152368"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "17:45 MotoGP Qualifying"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/1200px-Moto_Gp_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152369"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "BOX | 12:00 Conway vs. Liddard"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.matchroomboxing.com/app/uploads/2025/07/Website-6.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152370"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "MLS,NFL,MLB,NHL)",LMP_01 | 19:30 Hrs | Charros de Jalisco vs Algodoneros de Guasave"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://serpentineros.com/wp-content/uploads/2015/08/LMP-sfondo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152206"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152371"
+    Live: true
+    Country: "us"
+    Tag: "Sports"
+}
+{
+    Artist: "Zapp"
+    Title: "MLS,NFL,MLB,NHL)",LMP_02 | 20:05 Hrs | Tomateros de Culiacan vs Aguilas de Mexicali"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://serpentineros.com/wp-content/uploads/2015/08/LMP-sfondo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152372"
+    Live: true
+    Country: "us"
+    Tag: "Sports"
+}
+{
+    Artist: "Zapp"
+    Title: "MLS,NFL,MLB,NHL)",LMP_03 | 20:10 Hrs | Yaquis de Obregon vs Venados de Mazatlan"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://serpentineros.com/wp-content/uploads/2015/08/LMP-sfondo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152373"
+    Live: true
+    Country: "us"
+    Tag: "Sports"
+}
+{
+    Artist: "Zapp"
+    Title: "MLS,NFL,MLB,NHL)",LMP_04 | 20:30 Hrs | Cañeros de Los Mochis vs Jaguares de Nayarit"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://serpentineros.com/wp-content/uploads/2015/08/LMP-sfondo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152374"
+    Live: true
+    Country: "us"
+    Tag: "Sports"
+}
+{
+    Artist: "Zapp"
+    Title: "MLS,NFL,MLB,NHL)",LMP_05 | 20:30 Hrs | Tucson vs Naranjeros de Hermosillo"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://serpentineros.com/wp-content/uploads/2015/08/LMP-sfondo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152375"
+    Live: true
+    Country: "us"
+    Tag: "Sports"
+}
+{
+    Artist: "Zapp"
+    Title: "11:30 F1 GP de USA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/dPBxzPj.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152383"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "12:30 1. FC Union Berlin vs Borussia M'gladbach"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/X62e9qL.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152384"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "12:30 Chaves vs Benfica"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/jOyVrr8.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152385"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "12:30 FC Andorra vs Granada"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/g7qX5oN.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152386"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "12:45 Paris Saint-Germain vs RC Strasbourg"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/dV3D26E.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152387"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "13:00 Real Oviedo vs Espanyol"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/0VDZ93U.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152388"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "13:00 Middlesbrough vs Ipswich Town"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/xJysLVC.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152389"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "15:00 Audax Italiano vs Unión La Calera"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/scxr96Q.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152390"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "15:30 F1 GP de USA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/dPBxzPj.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152391"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "16:00 Racing Club vs Aldosivi"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/MukTXpS.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152392"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "16:08 Toronto Blue Jays vs Seattle Mariners"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/IzQhHP7.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152393"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "17:30 Deportes Iquique vs O'Higgins"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/scxr96Q.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152394"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "18:15 Argentinos Juniors vs Newell's Old Boys"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/MukTXpS.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152395"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "18:15 CA Lanús vs Godoy Cruz"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/MukTXpS.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152396"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "18:38 Milwaukee Brewers vs Los Angeles Dodgers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/IzQhHP7.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152397"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "19:00 Club Puebla vs Club Tijuana"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/G5O5Eny.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152398"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "21:00 Atlético San Luis vs Atlas FC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/G5O5Eny.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152399"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "21:00 Tigres UANL vs Club Necaxa op1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/G5O5Eny.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152400"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "21:00 Tigres UANL vs Club Necaxa op2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/G5O5Eny.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152401"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "EC | 04 • LIGA PR0"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.ole.com.ar/images/2024/09/29/l5a7Qzngk_1290x760__1.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152402"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "EC | 05 • LIGA PR0"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.ole.com.ar/images/2024/09/29/l5a7Qzngk_1290x760__1.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152403"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Zapp"
+    Title: "EC | 01 • LIGA PR0"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.ole.com.ar/images/2024/09/29/l5a7Qzngk_1290x760__1.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]152404"
     Live: true
     Country: "us"
     Tag: "General"
