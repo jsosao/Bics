@@ -209,275 +209,484 @@
 }
 {
     Artist: "Alfa"
-    Title: "Liga MX Femenil 18:00 Pumas UNAM vs Juárez"
+    Title: "Liga MX 19:00 Puebla vs Tijuana"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21079"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "Liga MX¨21:00 Tigres UANL vs Necaxa"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21080"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "Liga MX 21:00 Atlético San Luis vs Atlas"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21081"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "Expansión MX 19:00 Tepatitlán vs Cancún"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/8/83/Liga_de_expansi%C3%B3n_MX.logopng.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21082"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "Expansión MX 19:00 Correcaminos UAT vs Dorados"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/8/83/Liga_de_expansi%C3%B3n_MX.logopng.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21083"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "Expansión MX 20:00 Leones Negros UdeG vs Alebrijes de Oaxaca"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/8/83/Liga_de_expansi%C3%B3n_MX.logopng.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21084"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "Liga MX Fem 17:00 Querétaro vs Cruz Azul"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.clubamerica.com.mx/wp-content/uploads/2021/04/liga-mx-femenil.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21051"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21085"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Alfa"
-    Title: "Women's Champions League 10:45 Atletico Madrid vs Manchester United"
+    Title: "Liga MX Fem 17:00 Necaxa vs Toluca"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/UEFA_Women%27s_Champions_League_logo_%282021%29.svg/995px-UEFA_Women%27s_Champions_League_logo_%282021%29.svg.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21052"
+    Logo: "https://www.clubamerica.com.mx/wp-content/uploads/2021/04/liga-mx-femenil.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21086"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Alfa"
-    Title: "Women's Champions League 13:00 SL Benfica vs Arsenal"
+    Title: "Liga MX Fem 19:00 Santos Laguna vs Mazatlán"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/UEFA_Women%27s_Champions_League_logo_%282021%29.svg/995px-UEFA_Women%27s_Champions_League_logo_%282021%29.svg.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21053"
+    Logo: "https://www.clubamerica.com.mx/wp-content/uploads/2021/04/liga-mx-femenil.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21087"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Alfa"
-    Title: "Women's Champions League 13:00 Bayern vs Juventus"
+    Title: "Mundial Fem Sub-17 13:00 Marruecos Sub-17 vs Brasil Sub-17"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/UEFA_Women%27s_Champions_League_logo_%282021%29.svg/995px-UEFA_Women%27s_Champions_League_logo_%282021%29.svg.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21054"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Women's Champions League 13:00 PSG vs Real Madrid"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/UEFA_Women%27s_Champions_League_logo_%282021%29.svg/995px-UEFA_Women%27s_Champions_League_logo_%282021%29.svg.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21055"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Campeonas CONCACAF W 20:00 Vancouver Rise vs Alianza"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/d/da/CONCACAF_Champions_Cup.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21056"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Brasileirão 16:00 Grêmio vs São Paulo"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2020/03/Campeonato-Brasileiro-S%C3%A9rie-A-logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21057"
+    Logo: "https://momentodeportivord.com/wp-content/uploads/2024/05/logo-copa-mundial-femenina-sub-17-fifa-republica-dominicana-focus-0-0-896-504.jpg"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21088"
     Live: true
     Country: "br"
     Tag: "General"
 }
 {
     Artist: "Alfa"
-    Title: "League One 13:00 Huddersfield Town vs Bolton Wanderers"
+    Title: "LaLiga 13:00 Real Oviedo vs Espanyol"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://c0.klipartz.com/pngpicture/385/872/gratis-png-2017-18-efl-campeonato-2018-19-efl-campeonato-liga-de-futbol-inglesa-efl-cup-premier-league-premier-league-thumbnail.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21058"
+    Logo: "https://assets.laliga.com/assets/logos/LALIGA_EA_SPORTS_RGB_h_color/LALIGA_EA_SPORTS_RGB_h_color.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21089"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Alfa"
-    Title: "Perú 19:00 Alianza Lima vs Sport Boys"
+    Title: "Bundesliga 12:30 Union Berlin vs Borussia M'gladbach"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.pinimg.com/222x/47/45/76/4745769af544f2771531c6751a48eb98.jpg"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21059"
+    Logo: "https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21090"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Alfa"
-    Title: "Copa Uruguay 18:00 Racing vs Plaza Colonia"
+    Title: "Ligue 1 12:45 PSG vs Strasbourg"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/2/27/COPA_AUFURUGUAY.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21060"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/409px-Ligue1_Uber_Eats_logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21091"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Alfa"
-    Title: "Argentina Torneo de Res 12:00 Godoy Cruz Res. vs San Martín San Juan Res."
+    Title: "Argentina 16:00 Racing Club vs Aldosivi"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21061"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21092"
     Live: true
     Country: "ar"
     Tag: "General"
 }
 {
     Artist: "Alfa"
-    Title: "Argentina Torneo de Res 15:30 Central Córdoba SdE Res. vs Racing Club Res."
+    Title: "Argentina 18:15 Lanús vs Godoy Cruz"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21062"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21093"
     Live: true
     Country: "ar"
     Tag: "General"
 }
 {
     Artist: "Alfa"
-    Title: "Northern Super League 19:00 Calgary Wild vs Vancouver Rise"
+    Title: "Argentina 18:15 Argentinos Juniors vs Newell's Old Boys"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://assets.nsl.ca/nsl-prod/league/NSL-Banner-1.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21063"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21094"
+    Live: true
+    Country: "ar"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "Championship 13:00 Middlesbrough vs Ipswich Town"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21095"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Alfa"
-    Title: "Costa Rica 20:00 Herediano vs Alajuelense"
+    Title: "LaLiga SmartBank 12:30 FC Andorra vs Granada"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.thesportsdb.com/images/media/league/badge/97r4et1716292122.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21064"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/512px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21096"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Alfa"
-    Title: "LMP 20:00 Charros de Jalisco vs Aguilas de Mexicali"
+    Title: "USL League One 17:00 Charlotte Independence vs Chattanooga Red Wolves"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21065"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/USL_League_One_vert_dark_logo.svg/1200px-USL_League_One_vert_dark_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21097"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Alfa"
-    Title: "LMP 20:30 Tucson vs Naranjeros de Hermosillo"
+    Title: "USL League One 20:30 Alta vs Richmond Kickers"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21066"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/USL_League_One_vert_dark_logo.svg/1200px-USL_League_One_vert_dark_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21098"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Alfa"
-    Title: "LMP 20:30 Yaquis de Obregon vs Cañeros de Los Mochis"
+    Title: "Uruguay 17:00 Boston River vs Danubio"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21067"
+    Logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZMhrbB2fnxlNQnMLa-CNayvWFEOIW5iOfsQ&s_logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21099"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Alfa"
-    Title: "LMP 21:00 Venados de Mazatlan vs Jaguares de Nayarit"
+    Title: "Chile 15:00 Audax Italiano vs Unión La Calera"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21068"
+    Logo: "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/86.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21100"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Alfa"
-    Title: "LMP 21:05 Tomateros de Culiacan vs Algodoneros de Guasave"
+    Title: "Chile 17:30 Deportes Iquique vs O'Higgins"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21069"
+    Logo: "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/86.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21101"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Alfa"
-    Title: "NBA 17:00 Detroit Pistons vs Washington Wizards"
+    Title: "Colombia 17:00 Medellín vs Fortaleza CEIF"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21070"
+    Logo: "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21102"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Alfa"
-    Title: "NBA 17:00 Orlando Magic vs New Orleans Pelicans"
+    Title: "19:10 Unión Magdalena vs Envigado"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21071"
+    Logo: "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21103"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Alfa"
-    Title: "NBA 17:30 Atlanta Hawks vs Houston Rockets"
+    Title: "Ecuador 17:00 Orense vs Independiente del Valle"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21072"
+    Logo: "https://www.zerozero.pt/img/logos/competicoes/274_imgbank_d1_20250313153049.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21104"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Alfa"
-    Title: "NBA 18:00 Chicago Bulls vs Minnesota Timberwolves"
+    Title: "Ecuador 19:15 LDU Quito vs Barcelona"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21073"
+    Logo: "https://www.zerozero.pt/img/logos/competicoes/274_imgbank_d1_20250313153049.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21105"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Alfa"
-    Title: "NBA 19:00 Utah Jazz vs Portland Trail Blazers"
+    Title: "2. Bundesliga 10:30 Fortuna Düsseldorf vs Eintracht Braunschweig"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21074"
+    Logo: "https://upload.wikimedia.org/wikipedia/vi/c/cc/2._Bundesliga_logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21106"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Alfa"
-    Title: "MLB 1 | Brewers VS Dodgers | 10/16/2025 16:08:00"
+    Title: "2. Bundesliga 10:30 Hannover 96 vs Schalke 04"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/vi/c/cc/2._Bundesliga_logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21107"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "MLB 1 | Blue Jays VS Mariners | 10/17/2025 16:08:00"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://82.165.213.129/mlbv3/images/mariners.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21108"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "MLB 2 | Brewers VS Dodgers | 10/17/2025 18:38:00"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://82.165.213.129/mlbv3/images/dodgers.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21075"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21109"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "NBA 17:00 Philadelphia 76ers vs Minnesota Timberwolves"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21110"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "NBA 17:00 Toronto Raptors vs Brooklyn Nets"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21111"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "NBA 17:30 New York Knicks vs Charlotte Hornets"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21112"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "NBA 18:00 Miami Heat vs Memphis Grizzlies"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21113"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "NBA 18:00 Oklahoma City Thunder vs Denver Nuggets"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21114"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "NBA 18:00 San Antonio Spurs vs Indiana Pacers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21115"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "NBA 20:00 Golden State Warriors vs Los Angeles Clippers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21116"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "NBA 20:30 Los Angeles Lakers vs Sacramento Kings"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21117"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP_01 | 19:30 Hrs | Charros de Jalisco vs Algodoneros de Guasave"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://serpentineros.com/wp-content/uploads/2015/08/LMP-sfondo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21118"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP_02 | 20:05 Hrs | Tomateros de Culiacan vs Aguilas de Mexicali"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://serpentineros.com/wp-content/uploads/2015/08/LMP-sfondo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21119"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP_03 | 20:10 Hrs | Yaquis de Obregon vs Venados de Mazatlan"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://serpentineros.com/wp-content/uploads/2015/08/LMP-sfondo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21120"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP_04 | 20:30 Hrs | Cañeros de Los Mochis vs Jaguares de Nayarit"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://serpentineros.com/wp-content/uploads/2015/08/LMP-sfondo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21121"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP_05 | 20:30 Hrs | Tucson vs Naranjeros de Hermosillo"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://serpentineros.com/wp-content/uploads/2015/08/LMP-sfondo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21122"
     Live: true
     Country: "us"
     Tag: "General"
