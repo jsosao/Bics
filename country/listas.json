@@ -162,16 +162,6 @@
     },
 
     {
-      "longDescription": "BEIN SPORTS",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/bein_sports.png",
-      "releaseDate": "2020-01-15",
-      "id": "BEIN SPORTS",
-      "shortDescription": "BEIN SPORTS",
-      "title": "BEIN SPORTS",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/bein"      
-    },
-
-    {
       "longDescription": "DISNEY+, APPLE TV, HBO MAX, AMAZON PRIME",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/apps.png",
       "releaseDate": "2020-01-15",
@@ -179,16 +169,6 @@
       "shortDescription": "DISNEY+, APPLE TV, HBO MAX, AMAZON PRIME",
       "title": "APPS",
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/others/apps"      
-    },
-
-    {
-      "longDescription": "Liga Mexicana",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/ligamx.png",
-      "releaseDate": "2020-01-15",
-      "id": "Liga Mexicana",
-      "shortDescription": "Liga Mexicana",
-      "title": "Liga Mexicana",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/ligamx"      
     },
 
     {
@@ -210,57 +190,38 @@
       "title": "MLB Pass",
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/mlb"      
     },
-  
-    {
-      "longDescription": "Liga Premier",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/premier.png",
-      "releaseDate": "2020-01-15",
-      "id": "Liga Premier",
-      "shortDescription": "Liga Premier",
-      "title": "Liga Premier",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/premier"      
-    },
 
     {
-      "longDescription": "Liga Española",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/la_liga.png",
+      "longDescription": "NBA - Basketball",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/nba.png",
       "releaseDate": "2020-01-15",
-      "id": "Liga Española",
-      "shortDescription": "Liga Española",
-      "title": "Liga Española",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/liga"      
-    },
-
-    {
-      "longDescription": "Liga Italiana",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/serie_a.png",
-      "releaseDate": "2020-01-15",
-      "id": "Liga Italiana",
-      "shortDescription": "Liga Italiana",
-      "title": "Liga Italiana",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/seriea"      
-    },
-
-    {
-      "longDescription": "Liga Alemana",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/bundesliga.png",
-      "releaseDate": "2020-01-15",
-      "id": "Liga Alemana",
-      "shortDescription": "Liga Alemana",
-      "title": "Liga Alemana",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/bundesliga"      
+      "id": "NBA",
+      "shortDescription": "NBA",
+      "title": "NBA Pass",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/nba"      
     },
   
     {
-      "longDescription": "Liga Francesa",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/ligue_1.png",
+      "longDescription": "NHL Pass",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/nhl.png",
       "releaseDate": "2020-01-15",
-      "id": "Liga Francesa",
-      "shortDescription": "Liga Francesa",
-      "title": "Liga Francesa",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/ligue"      
+      "id": "NHL",
+      "shortDescription": "NHL",
+      "title": "NHL Pass",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/nhl"      
     },
-  
+
+    {
+    "longDescription": "LMB - Liga Mexicana de Beisbol",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/lmb.png",
+      "releaseDate": "2020-01-15",
+      "id": "LMB",
+      "shortDescription": "LMB",
+      "title": "LMB Pass",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/lmb"      
+    },
+
+ 
     {
       "longDescription": "24x7",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/24_7.png",
@@ -301,35 +262,6 @@
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/country/us"      
     },
 
-    {
-      "longDescription": "NBA - Basketball",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/nba.png",
-      "releaseDate": "2020-01-15",
-      "id": "NBA",
-      "shortDescription": "NBA",
-      "title": "NBA Pass",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/nba"      
-    },
-  
-    {
-      "longDescription": "NHL Pass",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/nhl.png",
-      "releaseDate": "2020-01-15",
-      "id": "NHL",
-      "shortDescription": "NHL",
-      "title": "NHL Pass",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/nhl"      
-    },
-
-    {
-    "longDescription": "LMB - Liga Mexicana de Beisbol",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/lmb.png",
-      "releaseDate": "2020-01-15",
-      "id": "LMB",
-      "shortDescription": "LMB",
-      "title": "LMB Pass",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/lmb"      
-    },
     {
     "longDescription": "Alfa",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/cutter.png",
