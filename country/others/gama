@@ -3696,6 +3696,17 @@
 }
 {
     Artist: "Gama"
+    Title: "CR | Canal 4 | EXCLUSIVO | UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Repretel_4_logo.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]384482"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
     Title: "CR | CAMARAS MEGATV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -3729,7 +3740,7 @@
 }
 {
     Artist: "Gama"
-    Title: "CR | CANAL 2 HD"
+    Title: "CR | Canal 2 | EXCLUSIVO | UHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/271242862_10158944592373195_383267161447141605_n.png?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=j7NhJnmzHjIQ7kNvgGcrWtk&_nc_oc=AdifyjUlBX1PcTY3ggAKA1awq_i1fsaEMvAn9oRkK_dpDC_4GSd-gGldi9VpfX39_IuVReViFzSFqseMFBsxXVNI&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=At1zMhN7-ZtqNYywqSSobcZ&oh=00_AYCnM215KGwK-M6fhwo5MyUPGY5Q_N2RQdh3liMCzYmsdA&oe=67B29C55"
@@ -5054,17 +5065,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/800px-Canal6CR.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]384481"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CR | CANAL 4 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Repretel_4_logo.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]384482"
     Live: true
     Country: "us"
     Tag: "General"
