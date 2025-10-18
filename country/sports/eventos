@@ -58,7 +58,7 @@
     Title: "2201.WWE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/Btq1FOJ.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_wwe_network.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]14940"
     Live: true
     Country: "us"
@@ -264,7 +264,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "Liga MX 17:00 Juárez vs Pachuca"
+    Title: "01.Liga MX 17:00 Juárez vs Pachuca"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_liga_mx.png"
@@ -275,7 +275,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "Liga MX 17:00 Santos Laguna vs León"
+    Title: "01.Liga MX 17:00 Santos Laguna vs León"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_liga_mx.png"
@@ -286,7 +286,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "Liga MX 17:00 Toluca vs Querétaro"
+    Title: "01.Liga MX 17:00 Toluca vs Querétaro"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_liga_mx.png"
@@ -297,7 +297,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "Liga MX 19:00 Monterrey vs Pumas UNAM"
+    Title: "01.Liga MX 19:00 Monterrey vs Pumas UNAM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_liga_mx.png"
@@ -308,7 +308,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "Liga MX 19:07 Guadalajara vs Mazatlán"
+    Title: "01.Liga MX 19:07 Guadalajara vs Mazatlán"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_liga_mx.png"
@@ -319,7 +319,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "Liga MX 21:05 Cruz Azul vs América"
+    Title: "01.Liga MX 21:05 Cruz Azul vs América"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_liga_mx.png"
@@ -363,77 +363,11 @@
 }
 {
     Artist: "Alfa"
-    Title: "Liga MX Fem 17:00 Tigres UANL vs Atlético San Luis"
+    Title: "01.Liga MX Fem 17:00 Tigres UANL vs Atlético San Luis"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_liga_mx.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_liga_femenil_mx.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21132"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Mundial Sub-20 13:00 Colombia Sub-20 vs Francia Sub-20"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_dimayor.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21133"
-    Live: true
-    Country: "fr"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Mundial Fem Sub-17 7:00 China PR Sub-17 vs Noruega Sub-17"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://momentodeportivord.com/wp-content/uploads/2024/05/logo-copa-mundial-femenina-sub-17-fifa-republica-dominicana-focus-0-0-896-504.jpg"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21134"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Mundial Fem Sub-17 7:00 Italia Sub-17 vs Costa Rica Sub-17"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://momentodeportivord.com/wp-content/uploads/2024/05/logo-copa-mundial-femenina-sub-17-fifa-republica-dominicana-focus-0-0-896-504.jpg"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21135"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Mundial Fem Sub-17 13:00 Camerún Sub-17 vs Países Bajos Sub-17"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://momentodeportivord.com/wp-content/uploads/2024/05/logo-copa-mundial-femenina-sub-17-fifa-republica-dominicana-focus-0-0-896-504.jpg"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21136"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Mundial Fem Sub-17 13:00 Corea del Norte Sub-17 vs México Sub-17"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://momentodeportivord.com/wp-content/uploads/2024/05/logo-copa-mundial-femenina-sub-17-fifa-republica-dominicana-focus-0-0-896-504.jpg"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21137"
-    Live: true
-    Country: "mx"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Mundial Fem Sub-17 13:00 Estados Unidos Sub-17 vs Ecuador Sub-17"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ec_liga_pro.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21138"
     Live: true
     Country: "us"
     Tag: "General"
@@ -451,219 +385,10 @@
 }
 {
     Artist: "Alfa"
-    Title: "Supercopa CAF 11:00 Pyramids FC vs RSB Berkane"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/en/d/dc/CAF_Supercup_official_logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21140"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Premier League 5:30 Nottingham Forest vs Chelsea"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uk_premier_league.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21141"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Premier League 8:00 Crystal Palace vs AFC Bournemouth"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uk_premier_league.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21142"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Premier League 8:00 Sunderland vs Wolverhampton Wanderers"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uk_premier_league.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21143"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Premier League 8:00 Manchester City vs Everton"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uk_premier_league.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21144"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Premier League 8:00 Brighton & Hove Albion vs Newcastle United"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uk_premier_league.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21145"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Premier League 8:00 Burnley vs Leeds United"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uk_premier_league.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21146"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Premier League 10:30 Fulham vs Arsenal"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uk_premier_league.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21147"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "LaLiga 10:30 Villarreal vs Real Betis"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_la_liga.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21150"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "LaLiga 13:00 Atlético Madrid vs Osasuna"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_la_liga.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21151"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Serie A 7:00 Lecce vs Sassuolo"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/it_serie_a.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21152"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Serie A 7:00 Pisa vs Hellas Verona"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/it_serie_a.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21153"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Serie A 10:00 Torino vs Napoli"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/it_serie_a.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21154"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Serie A 12:45 Roma vs Internazionale"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/it_serie_a.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21155"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Bundesliga 10:30 Bayern München vs Borussia Dortmund"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/de_bundesliga.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21161"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Ligue 1 9:00 Nice vs Olympique Lyonnais"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/fr_ligue_1.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21162"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Ligue 1 11:00 Angers SCO vs Monaco"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/fr_ligue_1.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21163"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Ligue 1 13:05 Olympique Marseille vs Le Havre"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/fr_ligue_1.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21164"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Argentina 12:45 Independiente Rivadavia vs Banfield"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21165"
-    Live: true
-    Country: "ar"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
     Title: "Argentina 15:00 Boca Juniors vs Belgrano"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_primera_nacional.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21166"
     Live: true
     Country: "ar"
@@ -674,7 +399,7 @@
     Title: "Argentina 19:15 Talleres Córdoba vs River Plate"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_primera_nacional.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21167"
     Live: true
     Country: "ar"
@@ -693,121 +418,11 @@
 }
 {
     Artist: "Alfa"
-    Title: "Championship 12:45 Leicester City vs Portsmouth"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21176"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
     Title: "Guatemala 17:00 Aurora vs Achuapa"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://ligagt.org/ft/wp-content/uploads/2023/01/LIGA-GUATE-LOGOfinal-01-e1674594169324.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/gt_primera_division.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21177"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Eredivisie 10:45 Utrecht vs Volendam"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/nl_eredivise.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21178"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Eredivisie 10:45 PSV vs Go Ahead Eagles"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/nl_eredivise.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21179"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Eredivisie 13:00 Ajax vs AZ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/nl_eredivise.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21180"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "LaLiga SmartBank 8:15 Ceuta vs Mirandés"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_la_liga_smartbank.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21181"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "LaLiga SmartBank 10:30 Real Zaragoza vs Cultural Leonesa"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_la_liga_smartbank.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21182"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "LaLiga SmartBank 13:00 Real Sociedad II vs Huesca"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sp_la_liga_smartbank.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21183"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Turquía 8:00 Rizespor vs Trabzonspor"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/2160px-S%C3%BCper_Lig_logo.svg_logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21184"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Turquía 8:00 Beşiktaş vs Gençlerbirliği"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/2160px-S%C3%BCper_Lig_logo.svg_logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21185"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Turquía 11:00 İstanbul Başakşehir vs Galatasaray"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/2160px-S%C3%BCper_Lig_logo.svg_logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21186"
     Live: true
     Country: "us"
     Tag: "General"
@@ -990,33 +605,11 @@
 }
 {
     Artist: "Alfa"
-    Title: "Uruguay 12:30 Torque vs Cerro"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZMhrbB2fnxlNQnMLa-CNayvWFEOIW5iOfsQ&s_logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21203"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
     Title: "Uruguay 15:30 Nacional vs Miramar Misiones"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZMhrbB2fnxlNQnMLa-CNayvWFEOIW5iOfsQ&s_logo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/uy_primera_division.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21204"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Chile 12:00 La Serena vs Ñublense"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cl_liga_futbol.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21205"
     Live: true
     Country: "us"
     Tag: "General"
@@ -1028,17 +621,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cl_liga_futbol.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21206"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Colombia 13:00 Deportivo Pasto vs Atlético Nacional"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_dimayor.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21207"
     Live: true
     Country: "us"
     Tag: "General"
@@ -1081,7 +663,7 @@
     Title: "Costa Rica 17:00 Puntarenas vs Cartaginés"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.thesportsdb.com/images/media/league/badge/97r4et1716292122.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cr_promerica.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21211"
     Live: true
     Country: "us"
@@ -1092,19 +674,8 @@
     Title: "Costa Rica 19:00 Pérez Zeledón vs San Carlos"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.thesportsdb.com/images/media/league/badge/97r4et1716292122.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/cr_promerica.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21212"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Ecuador 17:00 Delfin vs Macará"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ec_liga_pro.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21214"
     Live: true
     Country: "us"
     Tag: "General"
@@ -1114,19 +685,8 @@
     Title: "El Salvador 14:45 Zacatecoluca vs FAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/9/99/Logo-Primera-Division-de-El_Salvador.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/sv_primera_division.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21215"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "2. Bundesliga 12:30 Bochum vs Hertha BSC"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/de_bundesliga.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21216"
     Live: true
     Country: "us"
     Tag: "General"
@@ -1136,7 +696,7 @@
     Title: "Honduras 15:00 Policía Nacional vs Marathón"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.thesportsdb.com/images/media/league/badge/94pogz1646830106.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/hn_primera_division.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21217"
     Live: true
     Country: "us"
@@ -1147,7 +707,7 @@
     Title: "Honduras 17:15 UPNFM vs Platense"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.thesportsdb.com/images/media/league/badge/94pogz1646830106.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/hn_primera_division.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21218"
     Live: true
     Country: "us"
@@ -1158,21 +718,10 @@
     Title: "Honduras 19:30 Real España vs Choloma"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.thesportsdb.com/images/media/league/badge/94pogz1646830106.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/hn_primera_division.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21219"
     Live: true
     Country: "es"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Copa de Portugal 11:00 Celoricense vs Porto"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/fr/4/4e/Ta%C3%A7a_de_Portugal_logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21220"
-    Live: true
-    Country: "us"
     Tag: "General"
 }
 {
@@ -1182,17 +731,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/fr/4/4e/Ta%C3%A7a_de_Portugal_logo.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21221"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Liga Saudi 12:00 Al Nassr vs Al Fateh"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21223"
     Live: true
     Country: "us"
     Tag: "General"
@@ -1270,28 +808,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/en/2/2a/Logo_Americas_Kings_League.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21230"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "F1 | 11:00 GP Estados Unidos Carrera Sprint"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_f1.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21231"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "ATP | 09:30 Raphael Collignon vs. Felix Auger-Aliassime"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/it/e/ed/ATP_tour_logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21232"
     Live: true
     Country: "us"
     Tag: "General"
