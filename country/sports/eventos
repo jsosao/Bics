@@ -286,61 +286,6 @@
 }
 {
     Artist: "Alfa"
-    Title: "LMP_01 | 19:30 Hrs | Charros de Jalisco vs Algodoneros de Guasave"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://serpentineros.com/wp-content/uploads/2015/08/LMP-sfondo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21118"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "LMP_02 | 20:05 Hrs | Tomateros de Culiacan vs Aguilas de Mexicali"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://serpentineros.com/wp-content/uploads/2015/08/LMP-sfondo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21119"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "LMP_03 | 20:10 Hrs | Yaquis de Obregon vs Venados de Mazatlan"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://serpentineros.com/wp-content/uploads/2015/08/LMP-sfondo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21120"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "LMP_04 | 20:30 Hrs | Cañeros de Los Mochis vs Jaguares de Nayarit"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://serpentineros.com/wp-content/uploads/2015/08/LMP-sfondo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21121"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "LMP_05 | 20:30 Hrs | Tucson vs Naranjeros de Hermosillo"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://serpentineros.com/wp-content/uploads/2015/08/LMP-sfondo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21122"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
     Title: "Liga MX 17:00 Juárez vs Pachuca"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -1457,6 +1402,149 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/USL_Super_League_logo.png/1200px-USL_Super_League_logo.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21224"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP Charros de Jalisco vs Algodoneros de Guasave"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21225"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP 19:00 Cañeros de Los Mochis vs Jaguares de Nayarit"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21226"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP 19:00 Tucson vs Naranjeros de Hermosillo"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21227"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP 19:05 Tomateros de Culiacan vs Aguilas de Mexicali"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21228"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP 19:10 Yaquis de Obregon vs Venados de Mazatlan"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21229"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "Kings League Americas 15:00 Los Chamos vs. Aniquiladores"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/en/2/2a/Logo_Americas_Kings_League.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21230"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "F1 | 11:00 GP Estados Unidos Carrera Sprint"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://e7.pngegg.com/pngimages/749/255/png-clipart-formula-1-logo-abu-dhabi-grand-prix-2018-fia-formula-one-world-championship-european-grand-prix-logo-auto-racing-formula-1-miscellaneous-text-thumbnail.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21231"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "ATP | 09:30 Raphael Collignon vs. Felix Auger-Aliassime"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/it/e/ed/ATP_tour_logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21232"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "ATP | 10:00 Denis Shapovalov vs. Casper Ruud"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/it/e/ed/ATP_tour_logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21233"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "UFC FIGHT NIGHT DE RIDDER VS ALLEN PRELIMS 14:00"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.ytimg.com/vi/x2-LfKlbXjY/maxresdefault.jpg"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21234"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "UFC FIGHT NIGHT DE RIDDER VS ALLEN PRELIMS 14:00 ESP"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.ytimg.com/vi/x2-LfKlbXjY/maxresdefault.jpg"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21235"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "UFC FIGHT NIGHT DE RIDDER VS ALLEN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.ytimg.com/vi/x2-LfKlbXjY/maxresdefault.jpg"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21236"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "BOX 22:00 Miguel Román vs Mauricio Lara"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://e7.pngegg.com/pngimages/992/38/png-clipart-boxing-logo-boxing-logo-martial-arts-combat-boxing-propaganda-sign-game-text.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21237"
     Live: true
     Country: "us"
     Tag: "General"
