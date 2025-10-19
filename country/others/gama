@@ -2211,7 +2211,7 @@
 }
 {
     Artist: "Gama"
-    Title: "ⱽᴵᴾ:| 3 | Brighton & Hove Albion vs Newcastle United ¹⁹²⁰ [10:00 AM] | EXCLUSIVO ᵁᴴᴰ"
+    Title: "ⱽᴵᴾ:| 3 | UFC- EXCLUSIVO ᵁᴴᴰ"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://images.sr.roku.com/idType/roku-trc/context/trc/id/5be38dd56568aaf3722da719a6f79d19/rokuFeed/assets/f7cca40fc80c5c1fb17b5ed591946a6f.png"
@@ -3476,17 +3476,6 @@
 }
 {
     Artist: "Gama"
-    Title: "CR | T.I.G.O SPORT HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2245.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]682581"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
     Title: "1809-1810: mientras llega el día"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -3696,6 +3685,50 @@
 }
 {
     Artist: "Gama"
+    Title: "CR | 88 STEREO HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.radio.net/images/broadcasts/14/98/2323/4/c300.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99784"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CR | ANTENA 6 CR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/358432373_594092399538460_7039317974496974479_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=1y517sxfYTsQ7kNvgE6M1PV&_nc_oc=AdiUef8sZ7QGs4e7F1Mnt9cvFMQCp05LEhYv-zX18Z_OPS3FljTt53Y3Pkc2d_arszXWQytH5sEoozLezXcdo4Du&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&_nc_gid=A88U2A-0PgsD1agIhNuPNsg&oh=00_AYAyFLPftruUn62DxjJILZQZka60tJHjtzCrU3kXxqkyHA&oe=67B2D03F"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]237341"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CR | CANAL 1 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fc9cd5a60c4b1cd652370ced5e1a6f0abb45e120d70def63b7b6792eed9939857.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]95179"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CR | Canal 2 | EXCLUSIVO | UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/271242862_10158944592373195_383267161447141605_n.png?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=j7NhJnmzHjIQ7kNvgGcrWtk&_nc_oc=AdifyjUlBX1PcTY3ggAKA1awq_i1fsaEMvAn9oRkK_dpDC_4GSd-gGldi9VpfX39_IuVReViFzSFqseMFBsxXVNI&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=At1zMhN7-ZtqNYywqSSobcZ&oh=00_AYCnM215KGwK-M6fhwo5MyUPGY5Q_N2RQdh3liMCzYmsdA&oe=67B29C55"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]681234"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
     Title: "CR | Canal 4 | EXCLUSIVO | UHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -3707,11 +3740,44 @@
 }
 {
     Artist: "Gama"
-    Title: "CR | CAMARAS MEGATV"
+    Title: "CR | Canal 6 | EXCLUSIVO | UHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://m.media-amazon.com/images/I/81xlfx2jbEL.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]568422"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/800px-Canal6CR.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]384481"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CR | COLOSAL RADIO TV HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://co.radio.net/images/broadcasts/3d/ce/16337/c300.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]434622"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CR | COTO BRUS TV HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://image.roku.com/developer_channels/prod/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]565717"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CR | Teletica 7 | EXCLUSIVO UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://hls.cx:8000/images/8705db63b6dbdf14efe38a01114684eb.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]384485"
     Live: true
     Country: "us"
     Tag: "General"
@@ -3729,6 +3795,50 @@
 }
 {
     Artist: "Gama"
+    Title: "CR | FUTV | EXCLUSIVO | UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/NfxfK2yJ/20251017-201701.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]704013"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CR | TD+ | EXCLUSIVO UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://icomplay.net:80/images/gS8r0NdehRHd2E9l02GNY9dlCHj5uOBXkF4qyMTP7Xp82cNw3ihIUtkjfgCJy8OujftkikNvXqTa6ceHfnBJxg.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]704014"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CR | TD+ 2 | EXCLUSIVO UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://icomplay.net:80/images/gS8r0NdehRHd2E9l02GNYzhi5l4q3Nw4f3ooyTOXppU-S6awalLeSZo1At2ROXMRe8Qnhx7yOAr4rjt6_ZSdyA.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]704015"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CR | TV SUR CANAL 14"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/OpHYYZA.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]448008"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
     Title: "CR | RETROX TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -3740,11 +3850,143 @@
 }
 {
     Artist: "Gama"
-    Title: "CR | Canal 2 | EXCLUSIVO | UHD"
+    Title: "CR | CAMARAS MEGATV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/271242862_10158944592373195_383267161447141605_n.png?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=j7NhJnmzHjIQ7kNvgGcrWtk&_nc_oc=AdifyjUlBX1PcTY3ggAKA1awq_i1fsaEMvAn9oRkK_dpDC_4GSd-gGldi9VpfX39_IuVReViFzSFqseMFBsxXVNI&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=At1zMhN7-ZtqNYywqSSobcZ&oh=00_AYCnM215KGwK-M6fhwo5MyUPGY5Q_N2RQdh3liMCzYmsdA&oe=67B29C55"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]681234"
+    Logo: "https://m.media-amazon.com/images/I/81xlfx2jbEL.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]568422"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "h_320,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20canal%20nuevo.png" group-title="⚪ | COSTA RICA",CR | TELE UNO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://static.wixstatic.com/media/04c6ac_24ea33fa6d5e4bb8ae4d9b2808e9eac5~mv2_d_1662_1536_s_2.png/v1/fill/w_345,h_320,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20canal%20nuevo.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]422032"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CR | Tigo Sports | EXCLUSIVO | UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2245.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]682581"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CR | TELESUR HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/464906203_8584658308254188_1049709498804519423_n.png?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=-zTKvoMSezwQ7kNvgFOoBST&_nc_oc=AdgWB-xzn5wjWzDFwu80SDc60KhKbKHOovIKgZWnpwq4DWoEgJke1Vwi6xFdMcFMBgkaJ5B_JqKWpuGn08HaJYmo&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=A0LwiHiDN9jRtEXrlvT36NT&oh=00_AYA1AEsmo59oGX9uFgqM3-bAaEtXi42fMFXsmYvne6Hx_Q&oe=67B2B4D6"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]238178"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CR | GARABITO TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/345651260_1269514610322727_799842245241522254_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=xdRcNQQEiMgQ7kNvgEJ9dHZ&_nc_oc=Adie_aC4lq3oEYkPpnjkulALnkPcvlUfgE6WzzKZ5knmVS8ndQPP9JO-jWUz4NARHup45w6A3W3sODPb_OcDbPFi&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=AJf8eg1gA8HEpKbm6ieShWx&oh=00_AYAUm4ZsQxSNaMOZ7YNZzY5s11isO0Xk6yDvKU8TXeDVCg&oe=67B2D05A"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]282644"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CR | CANAL 13 SINART"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_08/large.Logo-nuevo-canal-13.png.4f0f51204b9954ce2233eda37a9b0eb9.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]286852"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CR | URBANO TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://image.roku.com/developer_channels/prod/4cc8abe7402fed46c7ea31ea57e78bb76c5d3d8ebe5ab92d3b2e749a4b0803c6.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]292602"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CR | Canal 11 | EXCLUSIVO | UHD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://hls.cx:8000/images/dd9f9a608d1b50b8debb3e74af458b14.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]384613"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CR | MULTIMEDIOS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://static.wikia.nocookie.net/logopedia/images/8/87/Canal_8_Costa_Rica.svg/revision/latest/scale-to-width-down/250?cb=20210312052039"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]95184"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CR | COLOSAL TV HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxpOWzHvtZR955niChsvFLB2x9A_cMyaqXZBypVf4IJ8t0TJH7oBvSAcb9sPY-OHqCyZ0&usqp=CAU"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]95188"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CR | SAN JOSE TV HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/290621120_8120890071262273_4949791298509337873_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=25SBDnPavSEQ7kNvgFyX_jp&_nc_oc=AdiEnsYFUHyXH9gHyU-WTckx0KrvNXGC6sIavLVFI3B_ckVHBbUBFbKeHKwKd4pNOyVoei8bZuUy-7_cAbgNF4cn&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=A14J7zEdgKfyu7gcHMqIIDX&oh=00_AYDUzqBMsG0j5ecu6tMTiCI4OL6Wu0IXHQ0LwBYo95I9qg&oe=67B2C5CF"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99785"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CR | VOICE OVER TV HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRPser6GSodW_yqpR_koLgqGybXV71n0zLJZDXG_musm1mAl4nfWIbVc8ygCrN42X41DI&usqp=CAU"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]222328"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CR | TV ZURQUI HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/XvktUBB.jpeg"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]601614"
     Live: true
     Country: "us"
     Tag: "General"
@@ -3938,7 +4180,7 @@
 }
 {
     Artist: "Gama"
-    Title: "EVENTO PPV E.S.P.N 1"
+    Title: "EVENTO PPV E.S.P.N 1 U.F.C"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/C5CFNxQ/PPVEVENTOS-processed.png"
@@ -4174,72 +4416,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.epg.best/py/TigoSports.py.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]280809"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CR | CANAL 1 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fc9cd5a60c4b1cd652370ced5e1a6f0abb45e120d70def63b7b6792eed9939857.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]95179"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CR | MULTIMEDIOS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://static.wikia.nocookie.net/logopedia/images/8/87/Canal_8_Costa_Rica.svg/revision/latest/scale-to-width-down/250?cb=20210312052039"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]95184"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CR | COLOSAL TV HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxpOWzHvtZR955niChsvFLB2x9A_cMyaqXZBypVf4IJ8t0TJH7oBvSAcb9sPY-OHqCyZ0&usqp=CAU"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]95188"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CR | 88 STEREO HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.radio.net/images/broadcasts/14/98/2323/4/c300.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99784"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CR | SAN JOSE TV HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/290621120_8120890071262273_4949791298509337873_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=25SBDnPavSEQ7kNvgFyX_jp&_nc_oc=AdiEnsYFUHyXH9gHyU-WTckx0KrvNXGC6sIavLVFI3B_ckVHBbUBFbKeHKwKd4pNOyVoei8bZuUy-7_cAbgNF4cn&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=A14J7zEdgKfyu7gcHMqIIDX&oh=00_AYDUzqBMsG0j5ecu6tMTiCI4OL6Wu0IXHQ0LwBYo95I9qg&oe=67B2C5CF"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99785"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CR | VOICE OVER TV HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRPser6GSodW_yqpR_koLgqGybXV71n0zLJZDXG_musm1mAl4nfWIbVc8ygCrN42X41DI&usqp=CAU"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]222328"
     Live: true
     Country: "us"
     Tag: "General"
@@ -4482,61 +4658,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "s:1:/images/735833c895871ce0a33ce8277efd7cea.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]264474"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CR | ANTENA 6 CR"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/358432373_594092399538460_7039317974496974479_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=1y517sxfYTsQ7kNvgE6M1PV&_nc_oc=AdiUef8sZ7QGs4e7F1Mnt9cvFMQCp05LEhYv-zX18Z_OPS3FljTt53Y3Pkc2d_arszXWQytH5sEoozLezXcdo4Du&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&_nc_gid=A88U2A-0PgsD1agIhNuPNsg&oh=00_AYAyFLPftruUn62DxjJILZQZka60tJHjtzCrU3kXxqkyHA&oe=67B2D03F"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]237341"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CR | TELESUR HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/464906203_8584658308254188_1049709498804519423_n.png?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=-zTKvoMSezwQ7kNvgFOoBST&_nc_oc=AdgWB-xzn5wjWzDFwu80SDc60KhKbKHOovIKgZWnpwq4DWoEgJke1Vwi6xFdMcFMBgkaJ5B_JqKWpuGn08HaJYmo&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=A0LwiHiDN9jRtEXrlvT36NT&oh=00_AYA1AEsmo59oGX9uFgqM3-bAaEtXi42fMFXsmYvne6Hx_Q&oe=67B2B4D6"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]238178"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CR | GARABITO TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/345651260_1269514610322727_799842245241522254_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=xdRcNQQEiMgQ7kNvgEJ9dHZ&_nc_oc=Adie_aC4lq3oEYkPpnjkulALnkPcvlUfgE6WzzKZ5knmVS8ndQPP9JO-jWUz4NARHup45w6A3W3sODPb_OcDbPFi&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=AJf8eg1gA8HEpKbm6ieShWx&oh=00_AYAUm4ZsQxSNaMOZ7YNZzY5s11isO0Xk6yDvKU8TXeDVCg&oe=67B2D05A"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]282644"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CR | CANAL 13 SINART"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_08/large.Logo-nuevo-canal-13.png.4f0f51204b9954ce2233eda37a9b0eb9.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]286852"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CR | URBANO TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://image.roku.com/developer_channels/prod/4cc8abe7402fed46c7ea31ea57e78bb76c5d3d8ebe5ab92d3b2e749a4b0803c6.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]292602"
     Live: true
     Country: "us"
     Tag: "General"
@@ -5060,39 +5181,6 @@
 }
 {
     Artist: "Gama"
-    Title: "CR | CANAL 6 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/800px-Canal6CR.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]384481"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CR | TELETICA CANAL 7 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/nzjL843Z/Canal7.jpg"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]384485"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CR | CANAL 11 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]384613"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
     Title: "CB: Cubavision Internacional | UHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -5148,44 +5236,11 @@
 }
 {
     Artist: "Gama"
-    Title: "h_320,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20canal%20nuevo.png" group-title="⚪ | COSTA RICA",CR | TELE UNO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://static.wixstatic.com/media/04c6ac_24ea33fa6d5e4bb8ae4d9b2808e9eac5~mv2_d_1662_1536_s_2.png/v1/fill/w_345,h_320,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20canal%20nuevo.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]422032"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CR | COLOSAL RADIO TV HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://co.radio.net/images/broadcasts/3d/ce/16337/c300.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]434622"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
     Title: "ECººTVCOLOR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://w7.pngwing.com/pngs/940/672/png-transparent-television-set-tv-material-television-png-material-rectangle.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]448006"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CR | TV SUR CANAL 14"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/OpHYYZA.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]448008"
     Live: true
     Country: "us"
     Tag: "General"
@@ -6044,39 +6099,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "http://miarea.vip:8080/images/ccf6d22fc26285238508588ca5bd8f8e.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]703677"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CR | FUTV HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/NfxfK2yJ/20251017-201701.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]704013"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CR | TD+ FHD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://icomplay.net:80/images/gS8r0NdehRHd2E9l02GNY9dlCHj5uOBXkF4qyMTP7Xp82cNw3ihIUtkjfgCJy8OujftkikNvXqTa6ceHfnBJxg.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]704014"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
-    Title: "CR | TD+2 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://icomplay.net:80/images/gS8r0NdehRHd2E9l02GNYzhi5l4q3Nw4f3ooyTOXppU-S6awalLeSZo1At2ROXMRe8Qnhx7yOAr4rjt6_ZSdyA.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]704015"
     Live: true
     Country: "us"
     Tag: "General"
@@ -7474,6 +7496,28 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/ydWP3M07/telemundo.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]814043"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "FOX-UFC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]814563"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "FOX-OPCION2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]814564"
     Live: true
     Country: "us"
     Tag: "General"
