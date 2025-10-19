@@ -3,7 +3,7 @@
     Title: "ABC 7"
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_abc_canal_7.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_abc.png"
     Stream: "http[:[/][/]]fl51[.]moveonjoy[.]com[/]ABC_EAST[/]index[.]m3u8"
     Live: true
 }
@@ -12,7 +12,7 @@
     Title: "ABC KABC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_abc_kabc.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_abc.png"
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]120857"
     Live: true
 }
@@ -21,7 +21,7 @@
     Title: "CBS ESTE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cbs_2.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cbs.png"
     Stream: "http[:[/][/]]fl51[.]moveonjoy[.]com[/]CBSEAST[/]index[.]m3u8"
     Live: true
 }
@@ -30,7 +30,7 @@
     Title: "CBS KCBS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cbs_kcbs.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cbs.png"
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]120654"
     Live: true
 }
@@ -39,7 +39,7 @@
     Title: "NBC EAST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_4.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc.png"
     Stream: "http[:[/][/]]fl51[.]moveonjoy[.]com[/]NBC_EAST[/]index[.]m3u8"
     Live: true
 }
@@ -48,7 +48,7 @@
     Title: "NBC KNBC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_knbc.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc.png"
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]120656"
     Live: true
 }
@@ -57,13 +57,13 @@
     Title: "FOX EAST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox_5.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox.png"
     Stream: "http[:[/][/]]fl51[.]moveonjoy[.]com[/]FOX_EAST[/]index[.]m3u8"
     Live: true
 }
 {
     Artist: "Cord"
-    Title: "(OFF) FOX KTTV"
+    Title: "FOX KTTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox.png"
@@ -153,15 +153,6 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) ION PLUS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ion_plus.png"
-    Stream: "https[:[/][/]]apollo[.]production-public[.]tubi[.]io[/]live[/]ac-ion-plus[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
     Title: "LIFETIME"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -176,15 +167,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_lmn.png"
     Stream: "http[:[/][/]]fl51[.]moveonjoy[.]com[/]LIFETIME_MOVIE_NETWORK[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "PARAMOUNT NETWORK"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_paramount_network.png"
-    Stream: "http[:[/][/]]fl51[.]moveonjoy[.]com[/]PARAMOUNT_NETWORK[/]index[.]m3u8"
     Live: true
 }
 {
@@ -225,7 +207,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) TCM"
+    Title: "TCM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tcm.png"
@@ -297,7 +279,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) CINEMAX MOREMAX"
+    Title: "CINEMAX MOREMAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cinemax_moremax.png"
@@ -306,7 +288,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) OUTER MAX"
+    Title: "OUTER MAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_outermax.png"
@@ -477,7 +459,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) STARZ ENCORE"
+    Title: "STARZ ENCORE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_starz_encore.png"
@@ -531,7 +513,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) CURIOSITY STREAM"
+    Title: "CURIOSITY STREAM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_curiosity_stream.png"
@@ -648,7 +630,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) AMC NETWORK"
+    Title: "AMC NETWORK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_amc_network.png"
@@ -729,7 +711,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) COMEDY CENTRAL"
+    Title: "COMEDY CENTRAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_comedy_central.png"
@@ -756,7 +738,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) COURT TV"
+    Title: "COURT TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_court_tv.png"
@@ -927,7 +909,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) THE WEATHER CHANNEL"
+    Title: "THE WEATHER CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_weather_channel.png"
@@ -954,7 +936,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) TV LAND"
+    Title: "TV LAND"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tvland.png"
@@ -999,7 +981,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) PPV 1"
+    Title: "PPV 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1008,7 +990,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) PPV 2"
+    Title: "PPV 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1017,7 +999,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) PPV 3"
+    Title: "PPV 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1026,7 +1008,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) PPV 4"
+    Title: "PPV 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1035,7 +1017,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) PPV 5"
+    Title: "PPV 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -1044,7 +1026,7 @@
 }
 {
     Artist: "web"
-    Title: "(OFF) PPV 6"
+    Title: "PPV 6"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
