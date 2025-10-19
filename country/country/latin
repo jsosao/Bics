@@ -2566,7 +2566,7 @@
     Title: "BR MULTISHOW"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_globo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_brasileirao.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]242114"
     Live: true
     Country: "br"
@@ -2577,7 +2577,7 @@
     Title: "BR BIS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_globo.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_brasileirao.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]242116"
     Live: true
     Country: "br"
@@ -5274,6 +5274,17 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "http://127.0.0.1/"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314378"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Play"
+    Title: "CLAN TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://127.0.0.1/"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314330"
     Live: true
     Country: "us"
     Tag: "General"
