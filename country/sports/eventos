@@ -44,17 +44,6 @@
 }
 {
     Artist: "Alfa"
-    Title: "2201.WWE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_wwe_network.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]14940"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
     Title: "00.Liga MX |"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -192,61 +181,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://lumiere-a.akamaihd.net/v1/images/captura_de_pantalla_2025-09-26_a_la_s_3_c0a1ac9b.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]20941"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "LMP Charros de Jalisco vs Algodoneros de Guasave"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_beisbol_lmp.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21225"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "LMP 19:00 Cañeros de Los Mochis vs Jaguares de Nayarit"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_beisbol_lmp.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21226"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "LMP 19:00 Tucson vs Naranjeros de Hermosillo"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_beisbol_lmp.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21227"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "LMP 19:05 Tomateros de Culiacan vs Aguilas de Mexicali"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_beisbol_lmp.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21228"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "LMP 19:10 Yaquis de Obregon vs Venados de Mazatlan"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_beisbol_lmp.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21229"
     Live: true
     Country: "us"
     Tag: "General"
@@ -806,7 +740,7 @@
     Title: "El Salvador 15:00 Cacahuatique vs Platense"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/9/99/Logo-Primera-Division-de-El_Salvador.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/sv_primera_division.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21317"
     Live: true
     Country: "us"
@@ -1039,6 +973,17 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://denversportsradio.com/wp-content/uploads/2023/07/Football-Players-who-Played-for-Chargers-and-Colts.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21338"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "298/-/preview/2048x2048/" group-title="PPV ",2201.FORMULA 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_f1.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21341"
     Live: true
     Country: "us"
     Tag: "General"
