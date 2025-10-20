@@ -3476,6 +3476,28 @@
 }
 {
     Artist: "Gama"
+    Title: "CR  OPA "
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]814566"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
+    Title: "CR  Tigo Sports "
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]814567"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Gama"
     Title: "18091810 mientras llega el dia"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -3751,17 +3773,6 @@
 }
 {
     Artist: "Gama"
-    Title: "CR  COLOSAL RADIO TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://co.radio.net/images/broadcasts/3d/ce/16337/c300.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]434622"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Gama"
     Title: "CR  COTO BRUS TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -3982,10 +3993,10 @@
 }
 {
     Artist: "Gama"
-    Title: "CR  TV ZURQUI"
+    Title: "CR  VM LATINO "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/XvktUBB.jpeg"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]601614"
     Live: true
     Country: "us"
