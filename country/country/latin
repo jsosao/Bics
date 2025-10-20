@@ -1,6 +1,6 @@
 {
     Artist: "Play"
-    Title: "cine_latino"
+    Title: "CINE LATINO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/JhjbjVdc/CINE-LATINO.png"
@@ -11,7 +11,7 @@
 }
 {
     Artist: "Play"
-    Title: "hbo_mundi"
+    Title: "HBO MUNDI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/vB5ZzHQZ/HBO-MUNDI.png"
@@ -22,7 +22,7 @@
 }
 {
     Artist: "Play"
-    Title: "universal"
+    Title: "UNIVERSAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/G2n28RzF/UNIVERSAL.png"
@@ -33,7 +33,7 @@
 }
 {
     Artist: "Play"
-    Title: "fx_ts"
+    Title: "FX  ts"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/W1mHrLGG/FX-International-logo-svg.png"
@@ -44,7 +44,7 @@
 }
 {
     Artist: "Play"
-    Title: "amc"
+    Title: "AMC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/WbkKNJtf/amc.png"
@@ -55,7 +55,7 @@
 }
 {
     Artist: "Play"
-    Title: "universal_crime"
+    Title: "UNIVERSAL CRIME"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/rmGp5HYv/UNIVERSAL-CRIME.png"
@@ -66,7 +66,7 @@
 }
 {
     Artist: "Play"
-    Title: "hbo_xtreme"
+    Title: "HBO XTREME"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/yQQk3Vk/XTREME.png"
@@ -77,7 +77,7 @@
 }
 {
     Artist: "Play"
-    Title: "py_canal_13"
+    Title: "PY  CANAL 13"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/XN1H5rqG/trece.png"
@@ -88,18 +88,18 @@
 }
 {
     Artist: "Play"
-    Title: "ar_america_tv"
+    Title: "AR  AMERICA TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/htpRJg5R/america.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]51580"
     Live: true
-    Country: "us"
+    Country: "ar"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "c5n_argentina"
+    Title: "C5N   ARGENTINA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/4320ed421c8efca775f6c6c0be21ad92.png"
@@ -110,7 +110,7 @@
 }
 {
     Artist: "Play"
-    Title: "canal_21"
+    Title: "Canal 21"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/627a15c5a4e565eb9da5a76dddb74a91.png"
@@ -121,7 +121,7 @@
 }
 {
     Artist: "Play"
-    Title: "ciudad_magazine"
+    Title: "Ciudad Magazine"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/39b8ec0ec82b024fd43cd9c81d7e8077.jpg"
@@ -132,18 +132,18 @@
 }
 {
     Artist: "Play"
-    Title: "ar_el_nueve"
+    Title: "AR EL NUEVE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/NFJVQh77/ELNUEVE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]51590"
     Live: true
-    Country: "us"
+    Country: "ar"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "ln"
+    Title: "LN "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/1bd5ba760035100ac06cf6917f03725c.jpg"
@@ -154,7 +154,7 @@
 }
 {
     Artist: "Play"
-    Title: "telemax"
+    Title: "Telemax"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/3ded6ed68c458c674490672fe20dfc47.png"
@@ -165,7 +165,7 @@
 }
 {
     Artist: "Play"
-    Title: "tv_publica"
+    Title: "TV Publica"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/34e51dfe8c34c46fcdaaf70ed4f2bd26.png"
@@ -176,7 +176,7 @@
 }
 {
     Artist: "Play"
-    Title: "tru_tv"
+    Title: "Tru TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/jSQrJgqY/TRU-TV.png"
@@ -187,7 +187,7 @@
 }
 {
     Artist: "Play"
-    Title: "tln_novelas"
+    Title: "TLN Novelas"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/SN94mQws/TL-NOVELAS.png"
@@ -198,7 +198,7 @@
 }
 {
     Artist: "Play"
-    Title: "galavision"
+    Title: "GALAVISION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/9fL5LDqx/GALAVISION.png"
@@ -209,7 +209,7 @@
 }
 {
     Artist: "Play"
-    Title: "el_gourmet"
+    Title: "EL GOURMET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/W3LwZn5g/EL-GOURMET.png"
@@ -220,7 +220,7 @@
 }
 {
     Artist: "Play"
-    Title: "lifetime"
+    Title: "Lifetime"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/dttmGDjH/LIFETIME.png"
@@ -231,7 +231,7 @@
 }
 {
     Artist: "Play"
-    Title: "food_network"
+    Title: "Food Network"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/0NJCr309/FOOD-NETWORK.png"
@@ -242,7 +242,7 @@
 }
 {
     Artist: "Play"
-    Title: "pasiones"
+    Title: "Pasiones"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/rwD1Ybb5/PASIONES.png"
@@ -253,7 +253,7 @@
 }
 {
     Artist: "Play"
-    Title: "telemundo_internacional"
+    Title: "Telemundo Internacional"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/FR40zKKx/TELEMUNDO.png"
@@ -264,7 +264,7 @@
 }
 {
     Artist: "Play"
-    Title: "national_geographic"
+    Title: "NATIONAL GEOGRAPHIC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/d0K8WQ9x/nat-geo.png"
@@ -275,7 +275,7 @@
 }
 {
     Artist: "Play"
-    Title: "history_2"
+    Title: "HISTORY 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/vTm7WPv8/history-2.png"
@@ -286,7 +286,7 @@
 }
 {
     Artist: "Play"
-    Title: "discovery_science"
+    Title: "DISCOVERY SCIENCE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/43yQH4X7/tlc.png"
@@ -297,7 +297,7 @@
 }
 {
     Artist: "Play"
-    Title: "discovery_theater"
+    Title: "DISCOVERY THEATER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/BZhBq0qj/discovery-theater.png"
@@ -308,7 +308,7 @@
 }
 {
     Artist: "Play"
-    Title: "discover_tlc"
+    Title: "DISCOVER TLC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/FHSygk0S/tlc.png"
@@ -319,7 +319,7 @@
 }
 {
     Artist: "Play"
-    Title: "history"
+    Title: "HISTORY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/28MdZ7Lm/history.png"
@@ -330,7 +330,7 @@
 }
 {
     Artist: "Play"
-    Title: "discovery_hh"
+    Title: "DISCOVERY HH"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/nh01L9ff/tlc-2.png"
@@ -341,7 +341,7 @@
 }
 {
     Artist: "Play"
-    Title: "investigation_discovery"
+    Title: "INVESTIGATION DISCOVERY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/wx252s3y/investigation.png"
@@ -352,7 +352,7 @@
 }
 {
     Artist: "Play"
-    Title: "animal_planet"
+    Title: "ANIMAL PLANET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/Rhb7GcP7/animal-planet.png"
@@ -363,7 +363,7 @@
 }
 {
     Artist: "Play"
-    Title: "discovery_channel"
+    Title: "DISCOVERY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/jdLQ2F5Z/discovery-chanel.png"
@@ -374,18 +374,18 @@
 }
 {
     Artist: "Play"
-    Title: "espn_premium_ar"
+    Title: "ESPN PREMIUM AR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/K8BMFDtH/7.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]52718"
     Live: true
-    Country: "us"
+    Country: "es"
     Tag: "Sports"
 }
 {
     Artist: "Play"
-    Title: "fox_sports_3_chile"
+    Title: "FOX SPORTS 3 CHILE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/23pSXg98/12.png"
@@ -396,40 +396,40 @@
 }
 {
     Artist: "Play"
-    Title: "espn_2_mx"
+    Title: "ESPN 2 MX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/Px3LK3kP/2.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]52744"
     Live: true
-    Country: "us"
+    Country: "es"
     Tag: "Sports"
 }
 {
     Artist: "Play"
-    Title: "espn_2_ar"
+    Title: "ESPN 2 AR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/Px3LK3kP/2.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]52748"
     Live: true
-    Country: "us"
+    Country: "es"
     Tag: "Sports"
 }
 {
     Artist: "Play"
-    Title: "espn_1_mx"
+    Title: "ESPN 1 MX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/1X88dG9M/8.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]52749"
     Live: true
-    Country: "us"
+    Country: "es"
     Tag: "Sports"
 }
 {
     Artist: "Play"
-    Title: "bein_sports"
+    Title: "BEIN SPORTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/PJYk16MY/BEIN-SPORTS.png"
@@ -440,18 +440,18 @@
 }
 {
     Artist: "Play"
-    Title: "espn_brasil"
+    Title: "ESPN BRASIL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/R0mn0JRV/1.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]52773"
     Live: true
-    Country: "br"
+    Country: "es"
     Tag: "Sports"
 }
 {
     Artist: "Play"
-    Title: "fox_sports_1_mx"
+    Title: "FOX SPORTS 1 MX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/VNzdwQfJ/10.png"
@@ -462,7 +462,7 @@
 }
 {
     Artist: "Play"
-    Title: "fox_sports_3_sur"
+    Title: "FOX SPORTS 3 SUR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/23pSXg98/12.png"
@@ -473,7 +473,7 @@
 }
 {
     Artist: "Play"
-    Title: "fox_sports_2"
+    Title: "FOX SPORTS 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/cHbHfvQ3/11.png"
@@ -484,7 +484,7 @@
 }
 {
     Artist: "Play"
-    Title: "fox_sports_1_argentina"
+    Title: "FOX SPORTS 1 ARGENTINA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/VNzdwQfJ/10.png"
@@ -495,7 +495,7 @@
 }
 {
     Artist: "Play"
-    Title: "fox_sports_premium"
+    Title: "FOX SPORTS PREMIUM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/XYSr2Btc/9.png"
@@ -506,7 +506,7 @@
 }
 {
     Artist: "Play"
-    Title: "el_trece"
+    Title: "El Trece"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/0b7dbfba7e0c7234a677ffed43c122d5.jpg"
@@ -517,7 +517,7 @@
 }
 {
     Artist: "Play"
-    Title: "peru_ovacion"
+    Title: " Peru Ovacion"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -528,7 +528,7 @@
 }
 {
     Artist: "Play"
-    Title: "peru_canal_n"
+    Title: " Peru Canal N"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -539,7 +539,7 @@
 }
 {
     Artist: "Play"
-    Title: "peru_willax_peru"
+    Title: " Peru WILLAX Peru"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -550,7 +550,7 @@
 }
 {
     Artist: "Play"
-    Title: "tv_peru_peru"
+    Title: "TV PERU  PERU"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -561,7 +561,7 @@
 }
 {
     Artist: "Play"
-    Title: "peru_tv_cosmos"
+    Title: " Peru TV Cosmos"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -572,7 +572,7 @@
 }
 {
     Artist: "Play"
-    Title: "peru_canal_ipe"
+    Title: "Peru Canal IPE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -583,7 +583,7 @@
 }
 {
     Artist: "Play"
-    Title: "sbt_playmovie"
+    Title: "SBT  PLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/82a9f12879b236b8189c505cfb7624f1.jpg"
@@ -594,7 +594,7 @@
 }
 {
     Artist: "Play"
-    Title: "hbo_family_portuges"
+    Title: "HBO FAMILY   Portuges"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/2937e39ac3bf20e05cca28243242bbfd.jpg"
@@ -605,29 +605,29 @@
 }
 {
     Artist: "Play"
-    Title: "br_sportv_1"
+    Title: "BR SPORTV 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/350f4ca80b31b3a589ef92bb5b268cd7.jpg"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]66372"
     Live: true
-    Country: "us"
+    Country: "br"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "br_sportv_3"
+    Title: "BR SPORTV 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_sportv_3.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]66374"
     Live: true
-    Country: "us"
+    Country: "br"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "canal_9_multivision"
+    Title: "Canal 9 Multivision"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/8da71e4609856af99b36c1ba02b50c5c.png"
@@ -638,7 +638,7 @@
 }
 {
     Artist: "Play"
-    Title: "telemundo_puerto_rico"
+    Title: "TELEMUNDO PUERTO RICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/FR40zKKx/TELEMUNDO.png"
@@ -649,7 +649,7 @@
 }
 {
     Artist: "Play"
-    Title: "las_estrellas_mx"
+    Title: "LAS ESTRELLAS MX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/pTfYJFS7/LAS-ESTRELLAS.png"
@@ -660,18 +660,18 @@
 }
 {
     Artist: "Play"
-    Title: "br_globo_news"
+    Title: "BR Globo News"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/5da8de5bb8ebb4abd2fa51c6e40f8149.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]67703"
     Live: true
-    Country: "us"
+    Country: "br"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "win_sports"
+    Title: "Win Sports "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/37693cfc748049e45d87b8c7d8b9aacd.png"
@@ -682,29 +682,29 @@
 }
 {
     Artist: "Play"
-    Title: "caracol_internacional_colombia"
+    Title: "CARACOL INTERNACIONAL  COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/d3d9446802a44259755d38e6d163e820.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]72747"
     Live: true
-    Country: "us"
+    Country: "ca"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "caracol_colombia"
+    Title: "CARACOL  COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/de433ed4480536c8426731d9bfb97f8c.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]72750"
     Live: true
-    Country: "us"
+    Country: "ca"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "co_senal_colombia"
+    Title: "CO Senal Colombia"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/d4003560f477e5dd40c7d912b31aff49.png"
@@ -715,7 +715,7 @@
 }
 {
     Artist: "Play"
-    Title: "co_canal_capital"
+    Title: "CO Canal Capital"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/7cca6bee6cc0d587bf5bd993f389cf72.png"
@@ -726,7 +726,7 @@
 }
 {
     Artist: "Play"
-    Title: "cnc_colombia"
+    Title: "CNC  COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/23b0488b4a4354adc3c95068b9d3ac8b.png"
@@ -737,7 +737,7 @@
 }
 {
     Artist: "Play"
-    Title: "co_canal_uno_1_colombia"
+    Title: "CO Canal uno 1 Colombia"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/02b766291bd3f0210896e378de868ac5.png"
@@ -748,7 +748,7 @@
 }
 {
     Artist: "Play"
-    Title: "co_ntn24"
+    Title: "CO NTN24 "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/d62ebbd9634b792d6143e9a4c204458e.png"
@@ -759,7 +759,7 @@
 }
 {
     Artist: "Play"
-    Title: "co_telecafe"
+    Title: "CO Telecafe"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/cf003fe543cece6b30a22b44a2afabdb.png"
@@ -770,7 +770,7 @@
 }
 {
     Artist: "Play"
-    Title: "telecaribe_colombia"
+    Title: "TELECARIBE  COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/aa3ce476c75e4d5324b9f0a8d6627562.png"
@@ -781,7 +781,7 @@
 }
 {
     Artist: "Play"
-    Title: "co_teleantioquia"
+    Title: "CO TeleAntioquia"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/57024e78b0a4ef54a4261a3596fb12f9.png"
@@ -792,7 +792,7 @@
 }
 {
     Artist: "Play"
-    Title: "telemedillin"
+    Title: "TELEMEDILLIN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/3c59dc048e8850243be8079a5c74d079.png"
@@ -803,7 +803,7 @@
 }
 {
     Artist: "Play"
-    Title: "tv_agro_colombia"
+    Title: "TV AGRO  COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/51e0d94ce9fee127924b9eee75600739.png"
@@ -814,18 +814,18 @@
 }
 {
     Artist: "Play"
-    Title: "cali_tv_colombia"
+    Title: "CALI TV  COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/b080294d1f64d430b439d2459515547e.jpg"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]72765"
     Live: true
-    Country: "us"
+    Country: "ca"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "amordiscos_tv_colombia"
+    Title: "AMORDISCOS TV  COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png"
@@ -836,7 +836,7 @@
 }
 {
     Artist: "Play"
-    Title: "cosmovision_colombia"
+    Title: "COSMOVISION  COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.coosmovision.com/wp-content/uploads/2022/05/logo-coosmovision.svg"
@@ -847,7 +847,7 @@
 }
 {
     Artist: "Play"
-    Title: "tv_gracia_colombia"
+    Title: "Tv GRACIA  COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rfqFa700A2w1OYzpEg1YYB6f3jsHe4BLZb9xAiuIX23-agNnPetlhlE_xqRA1-KHE5Q&usqp=CAU"
@@ -858,7 +858,7 @@
 }
 {
     Artist: "Play"
-    Title: "full_urbano_colombia"
+    Title: "FULL URBANO  COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/636336deffa5b283db4067200c700241.png"
@@ -869,7 +869,7 @@
 }
 {
     Artist: "Play"
-    Title: "mundo_colombia"
+    Title: "MUNDO  COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/d9ff87ec489258d1bb917f46ed120bd6.png"
@@ -880,7 +880,7 @@
 }
 {
     Artist: "Play"
-    Title: "telefamilia_colombia"
+    Title: "TELEFAMILIA  COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/93c2badb0ef152b5e53b4384ed2a864e.png"
@@ -891,7 +891,7 @@
 }
 {
     Artist: "Play"
-    Title: "tele_pasto_colombia"
+    Title: "TELE PASTO  COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/5d5d8dcff5e56a35ce1a13e26708a344.jpg"
@@ -902,7 +902,7 @@
 }
 {
     Artist: "Play"
-    Title: "tv_penol_colombia"
+    Title: "TV PENOL  COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/852410b39271e806e255469b7e4d541b.png"
@@ -913,7 +913,7 @@
 }
 {
     Artist: "Play"
-    Title: "noticiero_90_minutos_colombia"
+    Title: "NOTICIERO 90 MINUTOS  COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/c6e9ff2f151d97a2cce32b9df7a5d0df.png"
@@ -924,7 +924,7 @@
 }
 {
     Artist: "Play"
-    Title: "cinemega_colombia"
+    Title: "CINEMEGA  COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://190.2.148.5:25461/images/a4d917818ab42771f33fd1d9d5270b0b.png"
@@ -935,7 +935,7 @@
 }
 {
     Artist: "Play"
-    Title: "tvn_chile"
+    Title: "TVN CHILE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"
@@ -946,7 +946,7 @@
 }
 {
     Artist: "Play"
-    Title: "etc_tv_chile"
+    Title: "ETC TV  CHILE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"
@@ -957,7 +957,7 @@
 }
 {
     Artist: "Play"
-    Title: "la_red_chile"
+    Title: "LA RED  CHILE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"
@@ -968,7 +968,7 @@
 }
 {
     Artist: "Play"
-    Title: "rec_tv_chile"
+    Title: "REC TV  CHILE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"
@@ -979,18 +979,18 @@
 }
 {
     Artist: "Play"
-    Title: "canal_9_regional_chile"
+    Title: "CANAL 9 REGIONAL  CHILE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]74750"
     Live: true
-    Country: "us"
+    Country: "ca"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "tvu_concepcion_chile"
+    Title: "TVU CONCEPCION  CHILE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"
@@ -1001,7 +1001,7 @@
 }
 {
     Artist: "Play"
-    Title: "hbo_family"
+    Title: "HBO FAMILY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/34ZnF8s/FAMILY.png"
@@ -1012,7 +1012,7 @@
 }
 {
     Artist: "Play"
-    Title: "hbo"
+    Title: "HBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/GMcRNWY/HBO.png"
@@ -1023,7 +1023,7 @@
 }
 {
     Artist: "Play"
-    Title: "cinecanal"
+    Title: "CINECANAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/nzWRZHxJ/CINECANAL.png"
@@ -1034,7 +1034,7 @@
 }
 {
     Artist: "Play"
-    Title: "universal_comedy"
+    Title: "UNIVERSAL COMEDY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/yxV8jTMW/UNIVERSAL-COMEDY.png"
@@ -1045,7 +1045,7 @@
 }
 {
     Artist: "Play"
-    Title: "universal_premier"
+    Title: "UNIVERSAL PREMIER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/Gtqh5yRK/UNIVERSAL-Premier.png"
@@ -1056,7 +1056,7 @@
 }
 {
     Artist: "Play"
-    Title: "warner"
+    Title: "WARNER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/gSrJS1d/1200px-Warner-Channel-svg.png"
@@ -1067,7 +1067,7 @@
 }
 {
     Artist: "Play"
-    Title: "tnt"
+    Title: "TNT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/dkDhX7n/TNT.png"
@@ -1078,7 +1078,7 @@
 }
 {
     Artist: "Play"
-    Title: "tcm"
+    Title: "TCM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/ydrckRX/TCM.png"
@@ -1089,7 +1089,7 @@
 }
 {
     Artist: "Play"
-    Title: "star_channel"
+    Title: "STAR CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/ZRTJjpjs/Copia-de-Copia-de-Copia-de-Copia-de-E-COMMERCE-PRODUCTOS-ELECTRONICOS-2.png"
@@ -1100,29 +1100,29 @@
 }
 {
     Artist: "Play"
-    Title: "ar_telefe"
+    Title: "AR  TELEFE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/HnQfTCyK/telefe.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]116943"
     Live: true
-    Country: "us"
+    Country: "ar"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "espn_1_ar"
+    Title: "ESPN 1 AR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/R0mn0JRV/1.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]67586"
     Live: true
-    Country: "us"
+    Country: "es"
     Tag: "Sports"
 }
 {
     Artist: "Play"
-    Title: "dazn_3"
+    Title: "DAZN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/NjqmBLV0/DAZN.png"
@@ -1133,7 +1133,7 @@
 }
 {
     Artist: "Play"
-    Title: "dazn_2"
+    Title: "DAZN 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/NjqmBLV0/DAZN.png"
@@ -1144,7 +1144,7 @@
 }
 {
     Artist: "Play"
-    Title: "dazn_1"
+    Title: "DAZN 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/NjqmBLV0/DAZN.png"
@@ -1155,7 +1155,7 @@
 }
 {
     Artist: "Play"
-    Title: "bo_atb_cba"
+    Title: "BO ATB CBA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS7kfLIOqERTVuL5t9NSlAgIP4Vb9ovFFC9xE8oc75mbx04U7p5MbWhR_iMJ-SCA7klVQ&usqp=CAU"
@@ -1166,7 +1166,7 @@
 }
 {
     Artist: "Play"
-    Title: "bo_bolivia_tv"
+    Title: "BO Bolivia TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://pbs.twimg.com/media/DHzB6rxWAAAM3jT?format=jpg&name=large"
@@ -1177,7 +1177,7 @@
 }
 {
     Artist: "Play"
-    Title: "bo_cadena_a"
+    Title: "BO Cadena A"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://kaoztv.com:80/images/0JjsK5WXwCF8tWgCoDdGnXvVQp0epJvqQnKH9NUhig6QbhAnERXfQMQT7cy8Of0uyURU0aclQtEkzSitC3qcKmICb0J2uJtNKnS-jFcUwpHsHLYiGQkAt0cK1LQyFYJN.png"
@@ -1188,7 +1188,7 @@
 }
 {
     Artist: "Play"
-    Title: "bo_gigavision"
+    Title: "BO Gigavision"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS99lgiRLQNS9ckW4AAcY9NiCyOAdIjWIC6-iTsjV7Yst0MlXKWdeI3Ee_Jz4_IqTJdqH4&usqp=CAU"
@@ -1199,7 +1199,7 @@
 }
 {
     Artist: "Play"
-    Title: "bo_rec_online"
+    Title: "BO Rec online"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://play-lh.googleusercontent.com/8opA7PbnILtW23QyDSFA9gDKDwanGSpNMc1p1V5umYXX4becUOAyyfR2CtWBdfCgla4X"
@@ -1210,7 +1210,7 @@
 }
 {
     Artist: "Play"
-    Title: "bo_tv_latina_canal_42"
+    Title: "BO TV Latina canal 42"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://play-lh.googleusercontent.com/nHu6eTf30jhhe585-zmys5spn-OyDBA6-GXQHG4HEhvT7J89evsK-jVL3I8Tb5-Lsw"
@@ -1221,7 +1221,7 @@
 }
 {
     Artist: "Play"
-    Title: "bo_tv_u"
+    Title: "BO TV U"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://play-lh.googleusercontent.com/nHu6eTf30jhhe585-zmys5spn-OyDBA6-GXQHG4HEhvT7J89evsK-jVL3I8Tb5-Lsw"
@@ -1232,7 +1232,7 @@
 }
 {
     Artist: "Play"
-    Title: "bo_unitel"
+    Title: "BO Unitel"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://kaoztv.com:80/images/KBpBPAlj-y_jJ1BVGtjBwcTUZX7YVKq2yjhacIj3TIf67tae19fJQTJ7WZxdjttjH8O6AOXFXonnr3Ii9BhZACo8b_Vn5Harq77pQxuXkG68oJDsZBeeEyo2DcX75VIImUZTg1AJxzDwTCVPbUtHQA.jpg"
@@ -1243,7 +1243,7 @@
 }
 {
     Artist: "Play"
-    Title: "bo_atb_bolivia"
+    Title: "BO ATB Bolivia"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/ATB-en-vivo-Online.png?fit=1920%2C1080&ssl=1"
@@ -1254,7 +1254,7 @@
 }
 {
     Artist: "Play"
-    Title: "bo_bolivision"
+    Title: "BO Bolivision"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.wikia.nocookie.net/logopedia/images/2/2c/BOLIVISION.png/revision/latest/scale-to-width-down/200?cb=20201014030009&path-prefix=es"
@@ -1265,7 +1265,7 @@
 }
 {
     Artist: "Play"
-    Title: "bo_red_uno"
+    Title: "BO Red uno"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://kaoztv.com:80/images/ITvAmQ8tdy5VeIDFASD8slwaJgfxh2mnAxNY0u5xy8e3ng36eVM4gmq3i2__b45bbONtOxDzoHzv3oyvUYnJDw.jpg"
@@ -1276,7 +1276,7 @@
 }
 {
     Artist: "Play"
-    Title: "bo_rtp_bolivia"
+    Title: "BO RTP Bolivia"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://play-lh.googleusercontent.com/Mk6wqM_HjUmAMSbNNtDo-sU-J4mZxx-5uNCgenmr8vJQHhowuAz4g17x0on8gG9rv2tB"
@@ -1287,7 +1287,7 @@
 }
 {
     Artist: "Play"
-    Title: "tvu_bolivia"
+    Title: "TVU  BOLIVIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn3.iconfinder.com/data/icons/flags-circle/100/Bolivia-1024.png"
@@ -1298,7 +1298,7 @@
 }
 {
     Artist: "Play"
-    Title: "canal_26"
+    Title: "Canal 26"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/befb4c0b791b6eb7c94d7caac029745f.png"
@@ -1309,7 +1309,7 @@
 }
 {
     Artist: "Play"
-    Title: "studio_universal_hd1"
+    Title: "STUDIO UNIVERSAL HD1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/SVCpKvf/Studio-Universal.png"
@@ -1320,7 +1320,7 @@
 }
 {
     Artist: "Play"
-    Title: "itv_chile"
+    Title: "ITV  CHILE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"
@@ -1331,7 +1331,7 @@
 }
 {
     Artist: "Play"
-    Title: "tv8_chile"
+    Title: "TV8  CHILE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"
@@ -1342,18 +1342,18 @@
 }
 {
     Artist: "Play"
-    Title: "canal_11_aysen_chile"
+    Title: "CANAL 11 AYSEN  CHILE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]214664"
     Live: true
-    Country: "us"
+    Country: "ca"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "genial_tv_chile"
+    Title: "GENIAL TV  CHILE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"
@@ -1364,7 +1364,7 @@
 }
 {
     Artist: "Play"
-    Title: "tvr_chile"
+    Title: "TVR CHILE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"
@@ -1375,7 +1375,7 @@
 }
 {
     Artist: "Play"
-    Title: "13_prime_chile"
+    Title: "13 PRIME  CHILE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"
@@ -1386,7 +1386,7 @@
 }
 {
     Artist: "Play"
-    Title: "uchile_tv_chile"
+    Title: "UCHILE TV  CHILE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"
@@ -1397,7 +1397,7 @@
 }
 {
     Artist: "Play"
-    Title: "tv_pop_chile"
+    Title: "TV POP  CHILE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"
@@ -1408,7 +1408,7 @@
 }
 {
     Artist: "Play"
-    Title: "girovisual_chile"
+    Title: "GIROVISUAL  CHILE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"
@@ -1419,18 +1419,18 @@
 }
 {
     Artist: "Play"
-    Title: "campoabierto_chile"
+    Title: "CAMPOABIERTO  CHILE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]214675"
     Live: true
-    Country: "us"
+    Country: "ca"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "paramount_channel"
+    Title: "Paramount Channel"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/GFVryK1/Copia-de-Copia-de-Copia-de-Copia-de-E-COMMERCE-PRODUCTOS-ELECTRONICOS-2-1.png"
@@ -1441,18 +1441,18 @@
 }
 {
     Artist: "Play"
-    Title: "br_sportv_2"
+    Title: "BR SPORTV 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://roomtv.xyz:8080/images/647d5bf51ff47c4e91e4138504b2f852.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]216134"
     Live: true
-    Country: "us"
+    Country: "br"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "cnn_brasil"
+    Title: "CNN BRASIL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/c4ca4238a0b923820dcc509a6f75849b.png"
@@ -1463,18 +1463,18 @@
 }
 {
     Artist: "Play"
-    Title: "br_combate"
+    Title: "BR COMBATE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://roomtv.xyz:8080/images/647d5bf51ff47c4e91e4138504b2f852.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]216140"
     Live: true
-    Country: "us"
+    Country: "br"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "cnn_rusia"
+    Title: "CNN RUSIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/c4ca4238a0b923820dcc509a6f75849b.png"
@@ -1485,7 +1485,7 @@
 }
 {
     Artist: "Play"
-    Title: "rcn_novelas"
+    Title: "RCN NOVELAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/0Nmp9S9Q/RCN-NOVELAS.png"
@@ -1496,7 +1496,7 @@
 }
 {
     Artist: "Play"
-    Title: "cnn_noticias_salvador"
+    Title: "CNN NOTICIAS SALVADOR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/c4ca4238a0b923820dcc509a6f75849b.png"
@@ -1507,7 +1507,7 @@
 }
 {
     Artist: "Play"
-    Title: "cnn_usa"
+    Title: "CNN USA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/c4ca4238a0b923820dcc509a6f75849b.png"
@@ -1518,7 +1518,7 @@
 }
 {
     Artist: "Play"
-    Title: "cnn_latino"
+    Title: "CNN LATINO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/c4ca4238a0b923820dcc509a6f75849b.png"
@@ -1529,7 +1529,7 @@
 }
 {
     Artist: "Play"
-    Title: "cnn_turkia"
+    Title: "CNN  TURKIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/c4ca4238a0b923820dcc509a6f75849b.png"
@@ -1540,7 +1540,7 @@
 }
 {
     Artist: "Play"
-    Title: "hbo_2"
+    Title: "HBO 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/99W1t8h/HBO-2.png"
@@ -1551,7 +1551,7 @@
 }
 {
     Artist: "Play"
-    Title: "axn"
+    Title: "AXN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/2MGbGN0/axn.png"
@@ -1562,7 +1562,7 @@
 }
 {
     Artist: "Play"
-    Title: "hbo_plus"
+    Title: "HBO PLUS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/cr56D6L/PLUS.png"
@@ -1573,7 +1573,7 @@
 }
 {
     Artist: "Play"
-    Title: "de_pelicula_classic"
+    Title: "De Pelicula Classic"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/12py1Vx/De-Pel-cula-Cl-sico.png"
@@ -1584,7 +1584,7 @@
 }
 {
     Artist: "Play"
-    Title: "cinemax"
+    Title: "CINEMAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/GmN9RGyS/Cinemax.png"
@@ -1595,7 +1595,7 @@
 }
 {
     Artist: "Play"
-    Title: "space"
+    Title: "SPACE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/ryBTNTr3/Space-Logo-svg.png"
@@ -1606,7 +1606,7 @@
 }
 {
     Artist: "Play"
-    Title: "sony"
+    Title: "SONY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/gzV8SF9/sony-channel.png"
@@ -1617,7 +1617,7 @@
 }
 {
     Artist: "Play"
-    Title: "puerto_ric_mega_tv_puerto_rico"
+    Title: "Puerto Ric  MEGA TV   Puerto Rico"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/0f426bab586e7e995eb5c1986f370edc.png"
@@ -1628,7 +1628,7 @@
 }
 {
     Artist: "Play"
-    Title: "puerto_ric_tiva_tv"
+    Title: "Puerto Ric   TIVA TV "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/797786ea5161ea4972c89345d0ffae1e.png"
@@ -1639,7 +1639,7 @@
 }
 {
     Artist: "Play"
-    Title: "puerto_ric_wapa_amercia"
+    Title: "Puerto Ric  WAPA AMERCIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/4ee0d1c3b8e2d3aab86aeee6404b5f6f.png"
@@ -1650,7 +1650,7 @@
 }
 {
     Artist: "Play"
-    Title: "puerto_ric_wipr_canal_6"
+    Title: "Puerto Ric  WIPR Canal 6"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/a24b37142e083b297e7fa40385806f9c.png"
@@ -1661,7 +1661,7 @@
 }
 {
     Artist: "Play"
-    Title: "puerto_ric_teleonce"
+    Title: "Puerto Ric  Teleonce  "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/2de4bfe3e0b0c3eb19a5e3d919fcab8e.png"
@@ -1672,7 +1672,7 @@
 }
 {
     Artist: "Play"
-    Title: "puerto_ric_cmd_internacional_reli"
+    Title: "Puerto Ric  CMD INTERNACIONAL  reli"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/6f5c5a02310cd197e9111ecd368e5fed.jpg"
@@ -1683,7 +1683,7 @@
 }
 {
     Artist: "Play"
-    Title: "puerto_ric_megacine_puerto_rico"
+    Title: "Puerto Ric   MEGACINE PUERTO RICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/01bca96b6ced4b4d1510250f28fecc99.jpg"
@@ -1694,7 +1694,7 @@
 }
 {
     Artist: "Play"
-    Title: "puerto_ric_puerto_kids"
+    Title: "Puerto Ric   PUERTO KIDS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/81518bebd772033e38107121767aa376.jpg"
@@ -1705,7 +1705,7 @@
 }
 {
     Artist: "Play"
-    Title: "puerto_ric_wapa_1"
+    Title: "Puerto Ric   WAPA 1 "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/2c6e5dbfcf4700583df1988740c2d35d.jpg"
@@ -1716,7 +1716,7 @@
 }
 {
     Artist: "Play"
-    Title: "e_entertainment"
+    Title: "E Entertainment"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/f88682e6a0c375880761eccdf5a33335.jpg"
@@ -1727,7 +1727,7 @@
 }
 {
     Artist: "Play"
-    Title: "puerto_ric_punto_2"
+    Title: "Puerto Ric  PUNTO 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/5569d379da86c9142bcfb4b1252553a5.jpg"
@@ -1738,7 +1738,7 @@
 }
 {
     Artist: "Play"
-    Title: "puerto_ric_conectate_tv_revi"
+    Title: "Puerto Ric  Conectate TV  revi"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://graph.facebook.com/conectatetvpr/picture?width=320&height=320"
@@ -1749,7 +1749,7 @@
 }
 {
     Artist: "Play"
-    Title: "puerto_ric_enlacetv_religioso"
+    Title: "Puerto Ric  EnlaceTV   Religioso "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://graph.facebook.com/enlacetv/picture?width=320&height=320"
@@ -1760,7 +1760,7 @@
 }
 {
     Artist: "Play"
-    Title: "puerto_ric_ewtn_el_canal_catolico_religion"
+    Title: "Puerto Ric  EWTN el Canal Catolico  Religion"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/74b784dae90b966a111dc4e6a01675ae.png"
@@ -1771,7 +1771,7 @@
 }
 {
     Artist: "Play"
-    Title: "puerto_ric_hiperconectados_television"
+    Title: "Puerto Ric   Hiperconectados Television"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://graph.facebook.com/hiperconectadostv/picture?width=320&height=320"
@@ -1782,7 +1782,7 @@
 }
 {
     Artist: "Play"
-    Title: "puerto_ric_mas_tv"
+    Title: "Puerto Ric  Mas TV  "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/966ff773b05000c3f99569ecc0a5e1ff.png"
@@ -1793,7 +1793,7 @@
 }
 {
     Artist: "Play"
-    Title: "puerto_ric_tele_islas_canal_7"
+    Title: "Puerto Ric  Tele Islas Canal 7"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/5dcbcaec28dbdf56ffc60efc3c3ecb4d.png"
@@ -1804,7 +1804,7 @@
 }
 {
     Artist: "Play"
-    Title: "mlb_nascar"
+    Title: "MLB NASCAR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/x1ptDXjD/NASCAR.png"
@@ -1815,18 +1815,18 @@
 }
 {
     Artist: "Play"
-    Title: "canal_9_barbe_guatemala"
+    Title: "CANAL 9 BARBE   GUATEMALA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218861"
     Live: true
-    Country: "us"
+    Country: "ca"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "retro_tv_guatemala"
+    Title: "RETRO TV  GUATEMALA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -1837,7 +1837,7 @@
 }
 {
     Artist: "Play"
-    Title: "guatemala_guatevision"
+    Title: "GUATEMALA  Guatevision   "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -1848,18 +1848,18 @@
 }
 {
     Artist: "Play"
-    Title: "canal_11_teleonce_guatemala"
+    Title: "CANAL 11  TELEONCE  GUATEMALA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218865"
     Live: true
-    Country: "us"
+    Country: "ca"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "guatemala_televisiete"
+    Title: "GUATEMALA   TELEVISIETE   "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -1870,18 +1870,18 @@
 }
 {
     Artist: "Play"
-    Title: "canal_3_guatemala"
+    Title: "CANAL 3   GUATEMALA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218867"
     Live: true
-    Country: "us"
+    Country: "ca"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "guatemala_antigua"
+    Title: "GUATEMALA  ANTIGUA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -1892,7 +1892,7 @@
 }
 {
     Artist: "Play"
-    Title: "guatemala_azteca_guatemala"
+    Title: "GUATEMALA  AZTECA GUATEMALA "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -1903,7 +1903,7 @@
 }
 {
     Artist: "Play"
-    Title: "guatemala_canal_7_guia"
+    Title: "GUATEMALA  CANAL 7 GUIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -1914,18 +1914,18 @@
 }
 {
     Artist: "Play"
-    Title: "canal_13_guatemala"
+    Title: "CANAL 13  GUATEMALA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218871"
     Live: true
-    Country: "us"
+    Country: "ca"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "guatemala_tn23_noticias"
+    Title: "GUATEMALA  TN23  Noticias"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -1936,7 +1936,7 @@
 }
 {
     Artist: "Play"
-    Title: "guatevision_2mb"
+    Title: "Guatevision  2Mb"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -1947,7 +1947,7 @@
 }
 {
     Artist: "Play"
-    Title: "guatemala_claro_sports_gt"
+    Title: "GUATEMALA  CLARO  SPORTS GT "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -1958,7 +1958,7 @@
 }
 {
     Artist: "Play"
-    Title: "guatv_guatemala"
+    Title: "GUATV  GUATEMALA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -1969,7 +1969,7 @@
 }
 {
     Artist: "Play"
-    Title: "sastv_guatemala"
+    Title: "SASTV  GUATEMALA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -1980,7 +1980,7 @@
 }
 {
     Artist: "Play"
-    Title: "guatemala_unica_tv"
+    Title: "GUATEMALA  Unica Tv "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -1991,7 +1991,7 @@
 }
 {
     Artist: "Play"
-    Title: "nim_tv_solola_guatemala_guatemala"
+    Title: "Nim TV Solola Guatemala  GUATEMALA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -2002,18 +2002,18 @@
 }
 {
     Artist: "Play"
-    Title: "canal_13_esquipulas_chiquimula_guatemala"
+    Title: "CANAL 13 ESQUIPULAS CHIQUIMULA  GUATEMALA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218880"
     Live: true
-    Country: "us"
+    Country: "ca"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "guatemala_telecosta"
+    Title: "GUATEMALA  TELECOSTA "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -2024,7 +2024,7 @@
 }
 {
     Artist: "Play"
-    Title: "guatemala_carinosa_tv_quesada"
+    Title: "GUATEMALA  Carinosa Tv Quesada "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -2035,7 +2035,7 @@
 }
 {
     Artist: "Play"
-    Title: "cuba_cubamax"
+    Title: "CUBA CUBAMAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/5fd89ab8efe0ae20e8b5b0e82a5c019a.png"
@@ -2046,7 +2046,7 @@
 }
 {
     Artist: "Play"
-    Title: "cuba_telemarti"
+    Title: "CUBA TELEMARTI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/68f00bce20aa2d152bb7dd17cc5a3786.png"
@@ -2057,7 +2057,7 @@
 }
 {
     Artist: "Play"
-    Title: "cuba_cubavision_internacional_cvi"
+    Title: "CUBA Cubavision Internacional CVI "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/5c75e264f853f05495374f802c822b4a.png"
@@ -2068,7 +2068,7 @@
 }
 {
     Artist: "Play"
-    Title: "cuba_multivision_mv"
+    Title: "CUBA MULTIVISION MV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/5e917bb0173e4e8464081d0d4ed7ea20.png"
@@ -2079,7 +2079,7 @@
 }
 {
     Artist: "Play"
-    Title: "cuba_infantil"
+    Title: "CUBA  INFANTIL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/adbfe1a2860f89454fab6dafdc42c1f8.png"
@@ -2090,7 +2090,7 @@
 }
 {
     Artist: "Play"
-    Title: "cuba_educativo_1_ictr"
+    Title: "CUBA EDUCATIVO 1 ICTR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/6b23eac64c5e9eddadaab70fb1798d46.png"
@@ -2101,7 +2101,7 @@
 }
 {
     Artist: "Play"
-    Title: "cuba_megatv_pr"
+    Title: "CUBA MEGATV pr"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/4172acfe53dc8293910e098e7b9865e8.png"
@@ -2112,7 +2112,7 @@
 }
 {
     Artist: "Play"
-    Title: "cuba_claro_sports_gt"
+    Title: "CUBA CLARO SPORTS GT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/8a3571f94e9df1da69984352eabbcbf2.png"
@@ -2123,7 +2123,7 @@
 }
 {
     Artist: "Play"
-    Title: "cuba_telemarti"
+    Title: "CUBA TELEMARTI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/68f00bce20aa2d152bb7dd17cc5a3786.png"
@@ -2134,7 +2134,7 @@
 }
 {
     Artist: "Play"
-    Title: "cuba_tele_rebelde"
+    Title: "CUBA Tele Rebelde"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/7618b8b705541062218c96d8f6563dd6.png"
@@ -2145,7 +2145,7 @@
 }
 {
     Artist: "Play"
-    Title: "cuba_cubavision_internacional_cvi"
+    Title: "CUBA Cubavision Internacional CVI "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/5c75e264f853f05495374f802c822b4a.png"
@@ -2156,7 +2156,7 @@
 }
 {
     Artist: "Play"
-    Title: "cuba_multivision_mv"
+    Title: "CUBA MULTIVISION MV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/5e917bb0173e4e8464081d0d4ed7ea20.png"
@@ -2167,7 +2167,7 @@
 }
 {
     Artist: "Play"
-    Title: "nicaragua_canal_8"
+    Title: "NICARAGUA  CANAL 8"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://127.0.0.1/"
@@ -2178,7 +2178,7 @@
 }
 {
     Artist: "Play"
-    Title: "nicaragua_canal_2"
+    Title: "NICARAGUA  Canal 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://127.0.0.1/"
@@ -2189,7 +2189,7 @@
 }
 {
     Artist: "Play"
-    Title: "nicaragua_canal_10"
+    Title: "NICARAGUA  Canal 10"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://127.0.0.1/"
@@ -2200,7 +2200,7 @@
 }
 {
     Artist: "Play"
-    Title: "nicaragua_canal_9"
+    Title: "NICARAGUA   CANAL 9"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://127.0.0.1/"
@@ -2211,40 +2211,40 @@
 }
 {
     Artist: "Play"
-    Title: "espn_2_colombia"
+    Title: "ESPN 2 COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/Px3LK3kP/2.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218970"
     Live: true
-    Country: "us"
+    Country: "es"
     Tag: "Sports"
 }
 {
     Artist: "Play"
-    Title: "espn_3"
+    Title: "ESPN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/vBHgrRkJ/3.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218971"
     Live: true
-    Country: "us"
+    Country: "es"
     Tag: "Sports"
 }
 {
     Artist: "Play"
-    Title: "espn_1_col_ts"
+    Title: "ESPN 1 COL TS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/R0mn0JRV/1.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218972"
     Live: true
-    Country: "us"
+    Country: "es"
     Tag: "Sports"
 }
 {
     Artist: "Play"
-    Title: "fox_sports_2_colombia"
+    Title: "FOX SPORTS 2 COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/cHbHfvQ3/11.png"
@@ -2255,7 +2255,7 @@
 }
 {
     Artist: "Play"
-    Title: "fox_sports_3_colombia"
+    Title: "FOX SPORTS 3 COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/23pSXg98/12.png"
@@ -2266,7 +2266,7 @@
 }
 {
     Artist: "Play"
-    Title: "discovery_turbo"
+    Title: "DISCOVERY TURBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/YSfQTcnq/turbo.png"
@@ -2277,51 +2277,51 @@
 }
 {
     Artist: "Play"
-    Title: "espn_1_ar"
+    Title: "ESPN 1 AR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/R0mn0JRV/1.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218999"
     Live: true
-    Country: "us"
+    Country: "es"
     Tag: "Sports"
 }
 {
     Artist: "Play"
-    Title: "espn_2_ar"
+    Title: "ESPN 2 AR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/Px3LK3kP/2.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]219005"
     Live: true
-    Country: "us"
+    Country: "es"
     Tag: "Sports"
 }
 {
     Artist: "Play"
-    Title: "espn_2_norte"
+    Title: "ESPN 2 NORTE "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/Px3LK3kP/2.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]219011"
     Live: true
-    Country: "us"
+    Country: "es"
     Tag: "Sports"
 }
 {
     Artist: "Play"
-    Title: "espn_1_mx"
+    Title: "ESPN 1 MX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/R0mn0JRV/1.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]219012"
     Live: true
-    Country: "us"
+    Country: "es"
     Tag: "Sports"
 }
 {
     Artist: "Play"
-    Title: "venevision"
+    Title: "  Venevision"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png"
@@ -2332,7 +2332,7 @@
 }
 {
     Artist: "Play"
-    Title: "globovision"
+    Title: "  Globovision"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png"
@@ -2343,18 +2343,18 @@
 }
 {
     Artist: "Play"
-    Title: "catatumbo_tv_venezuela"
+    Title: "CATATUMBO TV  VENEZUELA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://pbs.twimg.com/profile_images/685552789745963008/iCuCWWJY_400x400.jpg"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]219020"
     Live: true
-    Country: "us"
+    Country: "ca"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "telearagua"
+    Title: "  Telearagua    "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://lh3.googleusercontent.com/-EU-nUtiQqs4/XxuEMjQ5PYI/AAAAAAAA3TQ/pSYeFGaagSEqIx-VKMWUhzLipnXzD3qiQCK8BGAsYHg/s0/2020-07-24.png"
@@ -2365,7 +2365,7 @@
 }
 {
     Artist: "Play"
-    Title: "vale_tv"
+    Title: "  Vale TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_de_VALE_TV.png"
@@ -2376,7 +2376,7 @@
 }
 {
     Artist: "Play"
-    Title: "meridiano_tv"
+    Title: "  Meridiano TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.imgur.com/cHBXTRZ.png"
@@ -2387,7 +2387,7 @@
 }
 {
     Artist: "Play"
-    Title: "ve_plus_tv"
+    Title: "  Ve Plus TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Venevision_Plus_Logo_2016.png"
@@ -2398,7 +2398,7 @@
 }
 {
     Artist: "Play"
-    Title: "telesur"
+    Title: "   Telesur"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1.bp.blogspot.com/-V6VZz0bxIyo/Xm5XsrahTDI/AAAAAAAABbc/lFiMo51Z7FkqF5mr4SmzbPAmlke1LaEZgCLcBGAsYHQ/s200/3.png"
@@ -2409,7 +2409,7 @@
 }
 {
     Artist: "Play"
-    Title: "tvo_nubeh"
+    Title: "  TVO Nubeh"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.mitvstatic.com/channels/sv_23-tv-oriente_m.png"
@@ -2420,7 +2420,7 @@
 }
 {
     Artist: "Play"
-    Title: "tves_venezuela"
+    Title: "TVES  VENEZUELA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.tves.gob.ve/web/wp-content/uploads/2023/11/LOGO-PNG.png"
@@ -2431,7 +2431,7 @@
 }
 {
     Artist: "Play"
-    Title: "el_venezolano_evtv"
+    Title: "  El Venezolano EVTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.lapatilla.com/wp-content/uploads/2015/05/EVTVES.jpg"
@@ -2442,7 +2442,7 @@
 }
 {
     Artist: "Play"
-    Title: "vtv_venezolana_de_television"
+    Title: "  VTV Venezolana de Television"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://immaa.xyz/VENvenezolanavtv.png"
@@ -2453,7 +2453,7 @@
 }
 {
     Artist: "Play"
-    Title: "canal_i_panavision"
+    Title: "  Canal I Panavision "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://127.0.0.1/"
@@ -2464,7 +2464,7 @@
 }
 {
     Artist: "Play"
-    Title: "h_1330al_cd508f7_ee49b4c37d2e4e6b88331cbae4db512amv2png_grouptitlecanales_de_venezuela_tv_venezuela"
+    Title: "h_1330al_cd508f7_ee49b4c37d2e4e6b88331cbae4db512amv2 png grouptitleCANALES DE VENEZUELA   TV Venezuela"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.wixstatic.com/media/d508f7_ee49b4c37d2e4e6b88331cbae4db512a~mv2.png/v1/fit/w_2500,h_1330,al_c/d508f7_ee49b4c37d2e4e6b88331cbae4db512a~mv2.png"
@@ -2475,7 +2475,7 @@
 }
 {
     Artist: "Play"
-    Title: "radio_caracas"
+    Title: "Radio Caracas"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.mytuner.mobi/media/tvos_radios/CNXKXBBkCp.png"
@@ -2486,7 +2486,7 @@
 }
 {
     Artist: "Play"
-    Title: "promar"
+    Title: "  Promar"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://promar.tv/wp-content/uploads/2016/09/promar-logo.png"
@@ -2497,18 +2497,18 @@
 }
 {
     Artist: "Play"
-    Title: "br_premiere_club"
+    Title: "BR PREMIERE CLUB"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Premiere_logo_2013.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]242100"
     Live: true
-    Country: "us"
+    Country: "br"
     Tag: "Sports"
 }
 {
     Artist: "Play"
-    Title: "rede_gospel_brazil_playmovie"
+    Title: "REDE GOSPEL  BRAZIL PLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/324a14b01b57a5ae90e3161488ff9c01.png"
@@ -2519,7 +2519,7 @@
 }
 {
     Artist: "Play"
-    Title: "globo_eptv_sul_minas"
+    Title: "GLOBO EPTV SUL MINAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png"
@@ -2530,18 +2530,18 @@
 }
 {
     Artist: "Play"
-    Title: "br_tnt_novelas_portugues"
+    Title: "BR TNT NOVELAS  Portugues"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.imgur.com/QQMSOxn.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]242111"
     Live: true
-    Country: "us"
+    Country: "br"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "hbo_portugues"
+    Title: "HBO   Portugues"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/4dc6bcc0ee04476c61b8efeb1030298f.png"
@@ -2552,73 +2552,73 @@
 }
 {
     Artist: "Play"
-    Title: "br_record_tv"
+    Title: "BR RECORD TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_america_tv.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]242113"
     Live: true
-    Country: "us"
+    Country: "br"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "br_multishow"
+    Title: "BR MULTISHOW"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_brasileirao.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]242114"
     Live: true
-    Country: "us"
+    Country: "br"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "br_bis"
+    Title: "BR BIS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/br_brasileirao.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]242116"
     Live: true
-    Country: "us"
+    Country: "br"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "br_globo_rio_de_janeiro_rj"
+    Title: "BR Globo Rio de Janeiro RJ"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://immaa.xyz/netppall.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]242118"
     Live: true
-    Country: "us"
+    Country: "br"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "cartoon_network_portugues"
+    Title: "CARTOON NETWORK   Portugues"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoon_network.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]242120"
     Live: true
-    Country: "us"
+    Country: "ca"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "br_globo_rbs"
+    Title: "BR Globo RBS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://immaa.xyz/netppall.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]242121"
     Live: true
-    Country: "us"
+    Country: "br"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "hbo_2_portugues"
+    Title: "HBO 2  Portugues"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://playtv44.com:8080/images/f81735bf623d2829d20dd0fc48928f63.png"
@@ -2629,18 +2629,18 @@
 }
 {
     Artist: "Play"
-    Title: "br_globo_tv"
+    Title: "BR Globo TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.imgur.com/3EVKsUU.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]242125"
     Live: true
-    Country: "us"
+    Country: "br"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "gloobinho_brazil"
+    Title: "GLOOBINHO  BRAZIL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://th.bing.com/th/id/R.6cf6e75967c0c50e611a6667ee9b956a?rik=x6QnFetHJqXPvw&pid=ImgRaw&r=0"
@@ -2651,18 +2651,18 @@
 }
 {
     Artist: "Play"
-    Title: "br_globo_tv_santa_cruz"
+    Title: "BR Globo TV Santa Cruz"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://immaa.xyz/netppall.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]242131"
     Live: true
-    Country: "us"
+    Country: "br"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "dazn_combate"
+    Title: "DAZN COMBATE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/NjqmBLV0/DAZN.png"
@@ -2673,7 +2673,7 @@
 }
 {
     Artist: "Play"
-    Title: "gamavision"
+    Title: "GAMAVISION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://127.0.0.1/"
@@ -2684,7 +2684,7 @@
 }
 {
     Artist: "Play"
-    Title: "tc_television"
+    Title: "TC TELEVISION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
@@ -2695,7 +2695,7 @@
 }
 {
     Artist: "Play"
-    Title: "oromar_tv_ecuador"
+    Title: "OROMAR TV  ECUADOR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
@@ -2706,7 +2706,7 @@
 }
 {
     Artist: "Play"
-    Title: "el_canal_del_futbol"
+    Title: "EL CANAL DEL FUTBOL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
@@ -2717,7 +2717,7 @@
 }
 {
     Artist: "Play"
-    Title: "ecuavisa_quito_ecuador"
+    Title: "ECUAVISA QUITO  ECUADOR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
@@ -2728,7 +2728,7 @@
 }
 {
     Artist: "Play"
-    Title: "ecuador_tv"
+    Title: "ECUADOR TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
@@ -2739,18 +2739,18 @@
 }
 {
     Artist: "Play"
-    Title: "canela_tv_ecuador"
+    Title: "CANELA TV  ECUADOR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314229"
     Live: true
-    Country: "us"
+    Country: "ca"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "ecuavisa_internacional"
+    Title: "ECUAVISA INTERNACIONAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
@@ -2761,7 +2761,7 @@
 }
 {
     Artist: "Play"
-    Title: "rts"
+    Title: "RTS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
@@ -2772,7 +2772,7 @@
 }
 {
     Artist: "Play"
-    Title: "tvc"
+    Title: "TVC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
@@ -2783,7 +2783,7 @@
 }
 {
     Artist: "Play"
-    Title: "gamavision"
+    Title: "GAMAVISION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
@@ -2794,7 +2794,7 @@
 }
 {
     Artist: "Play"
-    Title: "tc_television"
+    Title: "TC TELEVISION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
@@ -2805,7 +2805,7 @@
 }
 {
     Artist: "Play"
-    Title: "teleamazonas_quito"
+    Title: "TELEAMAZONAS QUITO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
@@ -2816,7 +2816,7 @@
 }
 {
     Artist: "Play"
-    Title: "cos_fc"
+    Title: "COS FC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://127.0.0.1/"
@@ -2827,7 +2827,7 @@
 }
 {
     Artist: "Play"
-    Title: "eco_tv"
+    Title: "ECO TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://127.0.0.1/"
@@ -2838,7 +2838,7 @@
 }
 {
     Artist: "Play"
-    Title: "nex_canal_21"
+    Title: "NEX CANAL 21"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://127.0.0.1/"
@@ -2849,7 +2849,7 @@
 }
 {
     Artist: "Play"
-    Title: "tv_max"
+    Title: "TV MAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://127.0.0.1/"
@@ -2860,7 +2860,7 @@
 }
 {
     Artist: "Play"
-    Title: "ser_tv"
+    Title: "SER TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://127.0.0.1/"
@@ -2871,7 +2871,7 @@
 }
 {
     Artist: "Play"
-    Title: "tvn"
+    Title: "TVN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://127.0.0.1/"
@@ -2882,7 +2882,7 @@
 }
 {
     Artist: "Play"
-    Title: "ivborw0kggoaaaansuheugaaaswaaacocamaaabt9sm9aaaamvbmvexigzfigdxhacfhacxhacrgab3hdjdhacngacdgabzifjthcs7hacpgabngabb0vclpzhlreox87o7fr64op2xsv409f3ztlsgyzoxgv98vtmrvjvlpyrrxyqrh75njij3wnqblpvhrdyh52dztijlnughkmef0trzqa3jlou7xpkz2ymzukjnrdolnvmbfaadmtf0b9pnxaaavtkleqvr4no1dczuisqwpycckhaf9wvcchdspu0kkfo22x57z3emb9n3oevprgylj6s1sodf44yuxxnjhhrdeeofnibq2kzho2spou7jp43lzrwd6dlkifxryrxzfve3vcqdbir5yazpv27qpdszniyjovjbugpv25knlxkxm2xx7gpluatr7w4t2jx9w1aajawputrz1wqewgmmdagkzhvefpd3s7kfrnkyqf1qenrx1nawqaxfe2tszmh31rxeiybzr95ju7ncidgomkxz4wtdehw5fpbdwagtme72qndsthlvwrdg3unvw1j6kmipcmybckqyxthoef18ivomwgmvdhbd5nvdlfg6gfokhsvt4p4ekhf1ydhgxg322uwsisfvwd7tecphd0f9zaudeyxrl76qjnhswsyc8axrum5iewszzukxmsspa9kxffxzyf5erbk66jtq26xrhqlg8uaq4kx55nvoy5rivmgmhreajo3dbghxrnpye70d2ejqej3pe8wb6abwpykj3uc38fh8c2fzvblemcvm93zzv4fc9crjenxvblkarfceq6qdsu1udryqu090x3tc3lndahvcxff9oxloy7by82zn30smuvkri51079fbmbj0nc7uyp4vpykb9mbktcm6lqame7ux9gikvhrrhkf96c0ifohbw1x13vgccfuq2p49uximm7ad2sfyhr0wpgrm2qmxdetdw4s1ghe8bq6j1dttqng3jm4mrpydhuc5folfgeka12yp1w254sta780yvn3qnfwdsi5gadnay7tlm6lgxpglpzcjjvskfhma9cfvhprvmtydkhpmir7i3ov2ssezrv5kop1amok90l44nmjrohnnlzymkz4ptdpmpylcwmgdcmfbrlliiour7sakculeogwrf7kl2wgco1iw7fxgz8xszatabm8nsubgjc4ivaw3kng85a0bkwmxdtookehqoqy4wsjqvmwdjxx4ox2i33s1kjjmmkaupmkwjptlwtn6y8zr2l6xjwdfel8ihqi6d65sqntwkx56tiwoc8s9kxhnxugxp5iyex7agse2aq88jobemvhwvkmjprfznnxmoa5bfifa7gpqmqoxxcytdtk62chwowou6bt875js4uvfpcbf4nyosuyaieylbb04kb3yxfyf7afzxkn6verva9zh17zrry7jb342ow9bpsun8cbjzzv0cm83ljbqho2s1i3w2bq5miigtsdixtkzxs6fogs2e6behcpalsqxs1k0z3wqdrjqyiyqumfpszbsowiq1hkfrhayxhwdwylk6w28jlkjfido1i6agmp5kscfxz39tqvhlxdcj10s9qb0zbcnwri0ihz9f9vmuyucrf43m23ec67vgu3cqta4uskhb2lqmnhvx6abn6wmwf9fbeshqqcw7hgejxlnlay5sd1b2r2bz519pgpy5zrcqmv0mad8oet5twk0tj55yw4vtysnuai1sjtodkvpzttlkmyid2krimsjegqlkznbn7requpqsigr1tytw18dcopabsvjamjxgowyfauzbkencw4hmq2qouyymvehx7gm7ayio6fbrp9nsxvlqnlxdhgepzegsjmcqiipfxvs6wkhmxtkzchdhkzigqui4n5dgvslqkdq6lqxmkeeakxzzq5zcleokqswel0w78c6dkkurs0bhcni0eb8kdyfawkrkfpvckqvvjrc8vm3npkodeahcp5raprvmfqktg09xhl09ta6m6k95erh9rftwl82r94ffgnkweb5jb1yodpvfarsdqe0cpqmdlenqv7jnwnitxlxr45zlypzf1dpltaxvcuohamwhbas1tlysyypncim2usbodytnt3muhcldqafbrycwbkhlw2wjy8xfeihnu6nscdfjxwslkixbbuttazrufihygxibr5ccxtdddx19y0hbntn1yyqaflvo6cfvyfftoorjsl9mscoeyutncwgjlydth9bwyvvtzgbmbi31wvdk9jzrvcgbmargsvizgbhtpkzgymkzhzmwnd8pzlj3sjafhn6lhjjaeubi1yss6srsxkkqspor7ndlbd3uzglab3hir0s3pswh9mnihkdbfche8fdjtqdirbvjnfmajgaupzmyofimolsfhzwayqsazgppri2tpl3jzqm5jbfsddbxtosyoanfvczifefoni82wra2fqlimtgm4cv09lxxxd4fmclwueaw18sbrak7byjueqxicslsttfsce8jzjj0wmwqintn8eqka0phhft4vcwx7rwvn0o0yojo4hf3vtfvitmmfm8vutdqcnuot8ejyxummetwhtzf900ltajpsx0io7awxkfacf8errptxtf8pdekzlzpxgeaxct0mdsdio83avwm5mfb0pqcx8djl743trbdngvyi9nupgemd0jsyjz2kuvqzqdmwbnwsudmsqs3qhvm5va2wyuom00c0qxpcdjbsdqz6hmkkzw3rzqzqzeknppjbodkyk3cf2tqkjrmm6cukcwuzprmacivxao9q24373lp0shtqnpg3knxzgh1t6lio2cofdqsailytzvuenwphjcwiwy2h6qojre6bpcrln4vbc6hpafx2uwt43jz7uzgix0wt2qu94qhcfxxajpljfvwfyilkkzmvjfpfrl9mt6sb65hdking3akf4zpyanohq2egytlx1ehtrcg9agm9q6cxfjprfpxmuq56lqou5txpu1yvlyjqb6x0adogrwxxv4msi9grtx1rdo5a7xvwiuoiotzqm9pbwp0xrrwwmlntqbkr0v7cntap5pvribclgx8vhib1vb2iadyiknmwxcyh9gu6lnbhrxpyfmxv5bo6cjdlxdcygjgqrtduphvbahytrdywhebhnypc8hhxrewex7mdncged0ybczpvmjuexzcrtmiczxsrft47yxl5odqdxnjxch4y2mhjxzkpf17y7n3zmmghzyhmxthj4li4uelmhe7qgawn9wcr1ncvyl60vyudtdjktwetdinzuathvpivtgnnsogknpoebtwdz1fxsx8nebqlm8oejajirhhxyze1j0wdb8dlvvjvfhtpebsivqlc0os8b3kk42mjitllrdvw9c662bxkwgvjdb3mqtwma4fldq69fqdd6ldajfuwznzlcljzyfjw5qq7quudwndrgviy0fsn6yckz1qlfik6q58rb9zxydc87y0lc3n3h2vlkw7oz3crlifyoslcaqn9d5ahvnxev3gog5mqxu7d6zhchzmfabje9pps1at7rkdfyuhne1pph2hd8kr5ujjtjubouopjftun3ybcxck1q6asi8vd16gapr9u3axribs7qcyqtqj2blazchnm9trjqi2s92b4ei9kupbi74aq7o9go28ewzhcy3tgt1waddpoprejkxkfz6nyyudfnfiwuh40wxe8pi5o0wl2ht3d8sgqnaobr28914smphrxgf2wlpgnik6majavpzp98y38eabhpejedeann3pp2wcugy83v7evl3jifxjn9ou8whlip2osy9kgxwvqm9s7ailarferrk1b19upbjvxmtcelgfodjzhxow0lxkjvsxqurnusievcsc0avijf9qqxfdpwqim8peorozkgorquf6njqag4qqg5dbgeeiiknjt9oyjtoo0nporivrad4r9erz5oiompyoxjebekx8nrqxqvlwkzcuvbxxho58qfylyjo9ofxabxcqk5hgzxmnclbi6eywol9qhkbelzkisuvubxlu8vhqpnlhp5pfa1fltvtdxkml6k6xfd6tgwl0qx9rt5htgely1vmfgkozapgnnynobjofo38cd8fliypf5hqygb6ogjbfxbmymwzzkmdmamxogovv59h76ela25lm24iepfb0wzaotugyw2ax5m8lxa3vloheowtkkzhnszo1adxzwrknhfye13lsdney39mqtsvua7lcjwttb2xjl6h6z9esbeo7p9jyacqrp7u2vcz16y01vteajkobhtxblqr9y4jnyqwntrqeseclcr5v2j6te9jfwgc06llvuxnw2pao8ylyjkcbavzbdb3jqxlzezspfjupz2dixsd1udzua0iztnq98lxoj8afrfytqpahgh1dq7gwbqdokujuzaep9nkql3iga9ndlro7y6jg3tuhztmllbtpx38qaoxdsqr97kbvsfuoe1j2llkvslbqbtivs8etx9zo1squgrrnqlxgvaalfmztbkznbqdnq2vnohqp0homfqagyjanokgsklgywuepoodkgl1avwzzbpdevguhiwev2bqfi7eaoqspxqvo2j4kpd0ibhfaeqwrv7ivv3zrzpedfeft3hks4ez7cqh8bztg1vjg72odwkmxjb2p6ovml8wlrnzihurdcurqe6kk69qgcz4spy9vkxnudo6olk6ylmaxgl3grnlylw0yw4iqt7ihukx7osz96gosefbctsdhj7ycxnbdfie5swnx65rj52esu14etygeum10l1lbk9lwz0q9xvlgptqfh2rsvbz4r1r0sklhwinspjamehy357mqkjzb6fl9hv4wkj2zojefvu0w0dp4tjfzbmjj5cb5gosbcbxp9jxkgd79xvgm6jeuow5z6o1oarlnknp47kpuujtgvjikvdmxwdrmonueo9phe7utt0du9z9duoo8cyzrg9qdowsbjpgrtik3i0zth2hcsoub9qeubbzeulqdohknd4usekr2omtrma4ul1vipcyxrxvk2xtnknqlkpaou6bcc8fewppxwl5rawpzehpsevtgryrthtwcac2jimtpaxuxqn82hun70xmifl5sjdcwcfghmyzimqmbx9rsiaiau1ziatbkbuwoylgnjzvn6kfzd2r9mtylvyesc48xoztixw0apui4ywp8s1buvohfhlz3vovxkaieg0jzmap2zmwclwrlfxcetjfdczbwjazcaevndysf6vxxssgpidpfbu3s2jhigob9wrphcpzanocapktouusdanshjgrslaae6mridvebp1pezhca6uliq4tmmtt3x6qd7dh3nvcckdgv81tz59vevsxbyoecj18a7k6zsfkbmw0xgrviftkbmxc2xv2fok5gifc9q5tslkhb2kqurp5frltxtdziijqnub1qip1y5sw8r2qkyxu1n13l6lqpxcdackshemipi8zvh76bx0tg3owy8rvmwoaclose71i0xwd7rfuffxzukpnujo9bka9melawznnfvt8vu9vsomo1chq4hb1c4x7iasgwqizxztielfvk4irzzge5x4icq90fdtrcgtnij9ovyw7q6qomj2komchyqtyp2fe4hr1iwijn8heyl2qz4zpiio6qfgzqkszbud1lhvghbmalnursrfeu0llrnyiepdnb0klcx1qry78cngabdv1wr4tyoyhwfqld7onjvywkn0qp9qhpwu2fmkwsypjhyjajx6viiyw4f21r3nrkmfhemqkneldh1q7wfmk0lrpskfrmlqnkb6trw1pvw3z0bt7iy7sz63hlm7vnhrsh0hvrvhqtynhdtdkhbxjkfbvd7te4a0ul0erc7ntwbifb7podfwhv10id3ybd9b8nnataohefnc7c4jd5upebm4xpr4r95t0zenyveg6bwe3qtelomu7pugfdnjvu3godkrfnb3hp040g9lc16bqywmfw9w56vc8nkshwvbfdeylndy0lnf7ig25s5iupyt9bod5o57xbsv5trtqk2kms3n3nfdlnkm7kgixql716cneycmubtoydusjxhdlnemrpwi93sia2e5aqojdmhzgdpxbnem7nqnkoxxcusggs1qpjwadwmx5mm0mzq6gozll4dx081sx6cjkzztagqbym8v49ufuypgsyhno9zsjjovtvsch6i7nqelvx2eh9kq7h78kdyphybxnusvnhwmcuv1vup0dxtb3ial4snmpy1af7zf9d644eell7zwwgsvvpdck2g3z8dsponfeixcuvot0p8m1mux5mn0m93nsyywzxg5bkpvvtklcdp4ddgsljvfmylwvlx70auqzdtn5kdxpprmxezhrjf1kxevcleu4xqo5g3ganf33uqxvbow5hu3vdxux9gdi7ss4k6hjfi1l1ooydmskjb5mssvwith2rhd5kh3chd2lausrifu4wutepezsvh2ymdpvc2j2v5d4bnt9gdja6i4ylfeenzkvbpqdftzau6ldu9zcu7ygyv12yyvnqmebrjwmvy4r8xv3wpvvu0txu6m4q0amvubzu0pccusxogs8gr23i2wcd8ogkpxwlurangfd6vxdnepx3ccranuhev3sdesck23wuqridimwio96xa4cpegnaf1tgvecwupgy3yzss3wlk3bkhn1vtp8o5geg4c2arv93u9wja0xgztljw2gpzrpv6acu6n39hzqdu43utp0hbou1jtnk99w8fdaccale7wskl9rkbtxcbfw0u12tmpqpldkuxzw8quy12feikqfhokp0uhrpinc5mt0ny2qbr7seoklnrjpnkini2tltsofoncwberqj29ugmhyvaeorgxjdl1elbfx4j9gs5mom3jzlsw2zz3saetezyecuu6nwdfbrnzdnmoi5e5zupgkdj5r17jtzwueqraoflkwrr0pytmhgylbsm029j6henu4krp3kilepyyk0yuewgtinbypqgdjqaf9ntvacvhxx6jzdxuevyjapovf5tjdrltv2greolujrb6nbdyamb9egikr3r076fm4ji5sfnarm8wxs1unh5wubd50oo6sbun8w1lneual3zus6ed6ufhys5wj0fkcb3u7pxzaygs5rtnjzmvvly91hyjbgkiztp4blyxolhqt5fbwwe3kwxikpnwirmbivvsdsuljxnk34f7tcnzkvbpusotgfubkluo03aecesjq0iperxqzmwrxcshajvu6p5jbywoguq7la6c3pbmpcpc1nxpffjjyd818xkzxx5zsmwqkvyrhr3w6gqtp5dp6rcaj9tiowmianbru2yh9hq8j8xjjfjd3hf1544yuxxnjhhrf1gpjrhjqj0ccaaaaasuvork5cyii_grouptitlecanales_de_panamarpc"
+    Title: "iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAmVBMVEXiGzfiGDXhACfhACXhACrgAB3hDjDhACngACDgABziFjThCS7hACPgABngABb0vcLpZHLreoX87O7fr64OP2xsv409f3ztLsgYzoXGv98vTmRVjvlpyrrXyqrH75njIj3wnqblPVHrdYH52dztiJLnUGHkMEf0trzqa3jlOU7xpKz2yMzukJnrdoLnVmbfAADmTF0b9PnxAAAVtklEQVR4nO1dCZuiSqWpYCCKhAF9wVccHdsPu0kKFO22x57z3emB9n3OeVpRGYlJ6s1SodF44YUXXnjhhRdeeOFnIBq2kzhO2sPou7JP43lZrwd6dLKIfXRYrxZfve3vcQdbIR5yazPV27QPdsZnIyjovJbugPV25knlXKXm2XX7GpLuatr7W4T2Jx9w1aaJAwpUTrz1WqewgMmDaGkZhvefPd3S7kfRNkyQF1qenrX1naWqaxFe2tsZmh31rXeiYbZr95Ju7nciDgOmkxz4WtdEHw5FPBdWaGtmE72QNdSThLVWRDG3uNvw1J6KMIPCMYbCKQyXthoeF18IVoMwgMVDHbD5NvdLfg6gfoKhsvt4P4ekhF1YDhGXg322uWSisFvwd7tecPhD0f9zauDEYXrl76qjnHSWsYc8AXRuM5iewSzZukxmSsPA9KxfFxZyf5erbK66jTQ26xRHQLG8Uaq4kX55Nvoy5rIVmGMhrEajO3DBGHXrNPye70d2EjQEJ3Pe8WB6ABWpykJ3UC38fh8c2FZvblEMcvm93zzv4FC9crjEnxvBlKaRfCEQ6Qdsu1uDRYQU090x3tC3lNDAHvcxff9OXLoY7By82zN30smUVkrI51079fbMbJ0nc7UyP4Vpykb9mBKtcm6LQAmE7ux9gikvHRrHkF96c0IFOHBw1X13VGcCfUq2p49UxImM7ad2sfYHR0wpgrm2qmXDEtdw4S1GHe8Bq6J1DTtqnG3JM4mrPYdHUc5fOLfgEkA12yp1W254STA780YVn3QNfWDSi5gAdnaY7TLm6lgXPglpzCJJVsKfHma9cFVHPRvMTYdkhPmir7I3OV2SsezrV5KOP1AMoK90l44nmJrohNnlzYmKz4PTdPMpYLCwMgDcmFbRLlIIOur7SaKCuLeOgwRf7kL2wgCo1iW7fXGz8XSzaTabm8nsuBgJC4ivaW3kNg85A0BKWMXDTOoKeHqoqy4WsJQVmwdJxx4Ox2I33S1KjJmmKaUpmkwJpTlWTN6y8zR2L6xJWdFEl8ihQi6D65SqNtwKX56tIWoC8S9KXHNXugXp5Iyex7AgSE2aQ88JobEMvhwVKMjPRfzNnXMoa5BFIFa7GPQMQOXxCYtdTk62chwOWoU6BT875jS4uvFpCBf4NYoSuyAiEylbB04kb3yxfyF7AFZXKn6vERvA9ZH17zRrY7jb342OW9bPsuN8cbjzZV0cM83LJbQHo2S1i3w2bq5MiIGtSdIxtKzxs6fogs2e6BEHcpaLsQXs1K0Z3WqDrJQyIYqUMfpsZbsOWIQ1hkfRHAyXhwdwYLK6W28JLkJfIDO1I6AgMp5kSCFxZ39TQvHlxdCj10s9QB0zBcNwrI0IHz9F9VmuYuCrf43m23eC67VGu3CqTA4USkhb2LqmnHVx6abn6wmwF9fbEsHQqCW7hGEJXLnlay5sD1b2r2bz519PGpy5ZRcqmV0mAd8oeT5twK0tj55YW4vTySnuaI1sjTODKvpZtTLKMyId2kRIMSJEgQLKzNbn7REQuPqsiGR1tytW18dcOpabSVjAMjXGOWYFauzBkenCW4hmQ2QOuYYMVEhX7gm7AyIO6FBRP9nsXvLQNlXDHGePZegsjmcQIIpfxVs6wKHMxTKZCHDhKzigqUI4N5DgVSLQKDq6LqXMKeEaKxZZq5ZcLEOKQswel0W78C6DkkuRs0BhcNI0eB8kdyfawkRkFPvCkqVvjRC8vm3NPkodEAhcp5RaprVmFQKTg09Xhl09tA6M6k95ErH9RFtWL82R94FFgNkWeB5jB1YOdpvFARsDqe0CPQMdlEnqV7jNWnitXLxr45ZlyPZF1dpLtAxvCuoHamWhbAs1tLysYYpncim2usBODytnT3muHclDQAfBRycWBKHlW2wJy8XfEihNu6nsCDFjxwSLKixBBuTtazruFihYGxibr5cCXTDDDX19Y0hBNtN1YYqaFLVo6cFVYfFtOOrJsL9msCoeyUTNCwGJLydTh9bwYvVTzGBMBi31WVDk9jzrVCgBmArgSVIzGBHtpKZgYmKZHZmWnd8pzLJ3sjAfhN6lhJjAEubi1YSS6srSxKKqSPOr7nDlbd3uZgLab3hIr0s3psWh9MNIhKdbFChe8fDJtqDIRbvJNFmAjgaUpZMYoFiMOlsFhZWaYqsAZgPpRI2tpl3jzqm5JbFsddBxTosyOANfVCzIFEfOnI82Wra2fQliMtGM4cV09lxxXD4FMClwUeaW18sbRAK7byJUEqxiCslSTtfsCe8JzjJ0WMwQiNTn8Eqka0phhFt4Vcwx7RWVN0O0YOjo4Hf3VtfVitMMfM8vutDqCNUOT8ejyxuMmETwHtzf900LtaJpsX0Io7aWXkFaCf8ErrptXtF8PdeKZlZpXgEAxcT0mdsDIo83AvWm5mfB0PqCX8dJL743trBdngVYi9NUpGEMD0JSyJZ2KuVQZQdMwbNwsudmSQs3QHVm5Va2wyUOm00c0qXPCdjbSdQz6hmkkzW3RzqZQzEknPPjBoDKYK3CF2TqKJrmm6CukCWuZprMacIvXAo9Q24373Lp0SHTqNPG3KnXZgH1T6LIO2CofDQsaIlyTzVUENWpHJCwiWy2h6qOJRe6bpcrlN4VBC6HpaFx2uwt43jZ7UzGix0wT2qU94qhCFXXAJPljFVwfyilKKZMVJfPFrL9Mt6SB65hdKING3aKF4zpyanOHq2eGyTlX1EHtRcG9Agm9q6cxfJprFpxMUq56LQOU5TxPu1YVlyJqb6x0aDogRwXxV4MsI9GrtX1RdO5a7xvwIUoiOtZQm9pbwP0XRrWWMlnTQbKR0V7CnTAP5pVriBCLGx8VHiB1VB2IADyiKnmwXCyH9gu6lNBHRxpyfMxV5bo6CJdlxDcYGjgQrtDUphVBahytrdYwHeBhNYPc8hhxReWEX7MDnCgeD0yBcZPvmJUExzCRtMiCzxSRFt47YXl5odQDxnJXcH4y2mHJXzkpF17Y7n3zmmghzyhmXtHJ4lI4UELMHe7qgAwN9WCr1NCvYL60vyUDtdjKtweTDInzUaTHVpivTgnNSoGkNpoebTwDz1fXSX8NeBqLm8OeJaJiRhhXyze1J0wDb8dLvvJVfhtpebsiVQlc0oS8B3kK42mJitLLRDVw9C662bXKWgVjdB3MQtwma4fldq69Fqdd6lDAJFUWzNZLcljzyfJW5qq7quudWNDrGVIy0fSN6YcKz1QLfIk6q58RB9zxYDC87y0lc3n3H2vLkw7oZ3CRlIFyosLCAqN9d5aHVnXev3GOG5mqXu7d6zhcHZmfaBJe9PPs1at7RkdFyUhnE1pPh2hD8kr5uJJtjuBOUoPjfTUn3YbCxCk1Q6ASi8Vd16GApr9u3AXrIBs7qcYQTQJ2blAzcHNm9tRJqi2s92b4EI9kUpbi74Aq7o9gO28ewZhCy3tgt1wAdDpoPrejKXkFZ6NYyudfnfIWUH40wXE8Pi5o0wl2HT3d8sGqnaOBr28914smpHRxgF2wlPGnIK6majaVpzp98y38EaBhPeJEDEaNn3PP2wcUGy83v7evL3jIfxJn9oU8whLiP2osY9KgxwVqm9S7AiLaRFErrk1B19uPbJVxMtcelGfoDJzhXow0lxkJvSxqURNUsieVcsc0AVIJF9qqXFdpWqIm8peoRozKgOrQuf6NjQAG4qQG5DbGEeiIKNjt9oYJTOO0nPOrIvrAD4R9ERz5oiOMpYOxjeBeKx8nRqxqVLwKzCuvbXXHO58qFyLYJo9OFxabXCqK5HGzXmNCLbi6Eywol9qhkBElZKisUVubXLu8VHQpnLhP5pFA1FltVtDxKML6K6xFd6Tgwl0Qx9rt5HtgeLY1vmFgkOzApGNNynObJoFo38cD8FLIYPf5hqYGB6OGjBfXBmymWZZKMdMamXogoVV59h76elA25lm24Iepfb0WzaOTugyW2aX5m8lXA3vloheowTKkzhnSzO1ADxzwRkNHFyE13LSdnEY39mqtsVUa7LCjWTTB2Xjl6h6z9ESbEO7P9jyacQRp7u2Vcz16y01VTEAJkobhtXbLQR9Y4jnyqwntRQESeClcr5V2j6Te9JFWGC06LlvuXnw2PaO8yLyjkcbavZbDb3jqXLzEzSpFJupz2dIxsD1uDZUa0IZtnq98LXOJ8afRfytqpAhgH1dq7gWbQdokujuzaEP9nkQl3IGa9NDLRo7y6Jg3tUhzTmlLBTpx38QaoxdsQR97KbvsfuoE1J2LLKvSlBQBTIvS8EtX9Zo1sQuGrRNQlxGVaALFMztbkzNbqdNQ2vnohqP0hOmfqagYjanOKgSKlgYWUEPOOdKgl1aVWZZBPDeVGuHiwEV2BQFI7eaOqSpxQVO2j4KpD0iBHFaeqwRv7IVV3zRZPEdFEFt3Hks4EZ7cqh8BztG1VJG72oDwkMxjb2p6OvML8wlRNZiHurDcurQe6kK69qgcz4Spy9VkXNudo6olK6ylMaxGL3GRNLYLW0YW4iqt7IhukX7OsZ96GosEFBCTsdHJ7YcXNbDfie5SwNx65Rj52EsU14eTygEUM10L1Lbk9lWZ0q9xvlGPtqfh2RsVBz4R1r0sklHWInSpJaMeHy357MqKJZB6fL9HV4WKJ2zOjEfVU0w0dp4tjfzbmJj5cB5GoSBcbxP9jXkGd79xVGM6jeuOW5Z6o1oaRlnKNp47KpuUjtgVjIKvdmXWDrmonUeo9phE7utt0Du9z9duOo8cYZrg9QDOwsbJpgRTIK3I0ZTH2hcSOUB9qeuBBZEuLQDOHkNd4usekR2OmTrma4UL1vIPcYXRXvk2XTNkNQLKPaoU6BCC8FeWPPxwL5rAwpzehpsevTGRYrtHtWcAc2jimTPaxuxQN82hUn70XmIFL5sjDcWcFGhMyziMqmBx9rSiaIaU1ziAtbKBuWOYlGnjzvN6KFZD2R9mTyLVYesC48xoZtiXW0APuI4yWP8S1bUVoHfHLZ3vovXKAieg0JzMAp2zMwcLWRLfxCetJFdCZBWjAzCaeVndysf6VxxssGpIDPFbU3s2JhiGob9WRPHCpZANoCAPKToUusdAnsHjgRSlAaE6mRidvebP1PezhCA6Uliq4tmmtT3X6QD7DH3nVcCKdGv81Tz59VEVsXBYOECJ18a7K6zsfKBMW0XGRvIfTkbMXc2xV2fok5GiFC9Q5TSlKhb2kqURP5FrLTxtDziiJQnUB1QIp1Y5SW8R2Qkyxu1n13l6LQPXCDAcksHEmIpi8zVh76bx0tg3Owy8rVmWOAcloSE71I0Xwd7RFufFXzukPnujO9bkA9MElawznNFVt8vU9vSoMO1Chq4hB1c4X7IASGWqIzxZtielfVK4irZzgE5x4ICq90fdTRCgtNiJ9ovyw7q6QOMj2kOmChYqTyp2Fe4hR1IWiJN8HEyl2qz4ZPiio6qFGZQkSzBud1lhVghBMaLNUrsrfEU0llRNyiEpDnb0klCx1qry78CngABdV1Wr4TYoyhWfqld7OnJVyWKn0qp9qhpWu2fmKWSYpjHyjajx6VIIyw4f21R3NrKMfHemqknElDH1q7wfmk0LRpSkFrMlQNkB6Trw1PVw3Z0bt7iY7SZ63HLm7vNHrSH0hVrVHqTyNhDTDKHbxJkfBVd7TE4a0uL0erc7ntWbiFB7poDfwHv10Id3ybd9b8NNaTAOheFnc7C4Jd5UPebM4Xpr4r95t0zenYveG6bWE3QTelOMu7pUgfDnjVu3GOdKRfNB3hp040g9lc16BQyWMFW9w56VC8nKShWvBfdeyLNdy0lNf7iG25s5iUpYT9boD5o57xBsv5tRTqK2kmS3N3Nfdlnkm7KGixql716CnEYCMUbtOyDuSJXHDLNEmrPwI93SIa2E5aqOJdMHzgdpXbneM7nQnkOXxcUSGGs1QpjWaDwMx5mM0mzQ6gOZll4dx081sX6cJKZzTAGQbYm8v49ufUYpgSYhnO9zSjjovTVsCH6I7nqELvx2eh9KQ7H78kdYPhYbxNuSVNhwmCuv1Vup0dXtb3IaL4sNmPy1Af7zf9D644eELL7zwwgsvvPDCk2g3Z8dsPOnFEIxCUvoT0p8M1mUX5mn0m93nSYYwZXG5BKPvvtklCDP4ddGSlJVfMYLwVlx70AuQZDtn5KdXPprmXezHRJF1kXevCLeU4xqO5G3gaNf33uQXvBOW5hU3VDXuX9GDi7SS4k6HJfi1L1ooYdmSkjB5mSsvwith2RhD5kH3chd2lAUsrIFu4wutepeZSVh2YMDpvc2J2V5d4BNT9gdja6i4yLFeenZKVbpqDftZaU6lDu9zCu7YgYV12yYVnqmeBRJWMVy4r8xV3WpVvU0TXu6m4q0amVubzU0PcCusxogS8Gr23I2wcD8OgKPXwluraNgFd6VXdNePx3cCrAnuhEV3SdEsck23wuqRidImwiO96Xa4cpeGNAf1TgveCWuPgy3yzSS3wlK3BKHN1VTP8O5GeG4C2arv93U9wJa0XGZtLjW2GpZRPv6aCU6N39hzqDU43utP0hboU1JTnk99W8FdacCALe7WSKL9RkBTXcBFW0u12tmpqPldKUxZW8Quy12feiKqfHOKP0UhrPiNc5mT0ny2qBr7sEOklnrJpNkiNI2tltsofoNCWBErQj29uGmhYvAeorgxJDl1ElbFx4j9GS5mOM3jZlsW2ZZ3saEtEzyECUu6NwdfBrNZDnmoi5E5ZupgkdJ5r17JTzWuEqrAOFLKWRr0pYTMHgYlbSM029j6HEnU4kRP3kIlEpYYK0yuewgTinbYPQGdjQaf9nTVACVhxX6JZDXueVYJapOvf5tJDrltv2grEOLuJRb6NBDYamb9egiKR3r076fm4JI5SFNaRM8WXs1UNh5WuBd50OO6SbUn8w1LNeuAl3ZuS6ed6uFhYS5Wj0fkcb3U7PXzAYGs5rTNjZMvVLY91hYjbGKizTP4BLyxOlHqt5fBWWE3KwxiKPnwirMbivvSDsuLJXnK34f7TCnZkVBPusOtGfuBkLUO03aeCesJQ0ipeRxQzmwRxcSHajVu6p5jbYwOGuq7La6C3pbmpCPC1nXPffjJYd818xKZxx5zSmWQkvYrHR3w6GQTp5dP6RCaJ9tIowmIaNbru2yH9Hq8J8xjJfJd3HF1544YUXXnjhhRf1gpjRhJqJ0ccAAAAASUVORK5CYII grouptitleCANALES DE PANAMARPC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "data:image/png;base64,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"
@@ -2893,7 +2893,7 @@
 }
 {
     Artist: "Play"
-    Title: "nba_tv"
+    Title: "NBA TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/3JsLD8yy/NBA.png"
@@ -2904,7 +2904,7 @@
 }
 {
     Artist: "Play"
-    Title: "bta_venezuela"
+    Title: "BTA  VENEZUELA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://btatv.tv/wp-content/uploads/2022/09/logobta.png"
@@ -2915,7 +2915,7 @@
 }
 {
     Artist: "Play"
-    Title: "vepaco_tv_venezuela"
+    Title: "VEPACO TV  VENEZUELA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://vepaco.tv/wp-content/uploads/2022/09/logovepacotv_mediano.png"
@@ -2926,7 +2926,7 @@
 }
 {
     Artist: "Play"
-    Title: "uruguay_canal_10"
+    Title: "URUGUAY  CANAL 10"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2016/07/17/18/51/uruguay-1524500_1280.png"
@@ -2937,7 +2937,7 @@
 }
 {
     Artist: "Play"
-    Title: "uruguay_canal_4"
+    Title: "URUGUAY  CANAL 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2016/07/17/18/51/uruguay-1524500_1280.png"
@@ -2948,7 +2948,7 @@
 }
 {
     Artist: "Play"
-    Title: "uruguay_canal_5"
+    Title: "URUGUAY  CANAL 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2016/07/17/18/51/uruguay-1524500_1280.png"
@@ -2959,7 +2959,7 @@
 }
 {
     Artist: "Play"
-    Title: "uruguay_tele"
+    Title: "URUGUAY  TELE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2016/07/17/18/51/uruguay-1524500_1280.png"
@@ -2970,7 +2970,7 @@
 }
 {
     Artist: "Play"
-    Title: "uruguay_vtv"
+    Title: "URUGUAY  VTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2016/07/17/18/51/uruguay-1524500_1280.png"
@@ -2981,7 +2981,7 @@
 }
 {
     Artist: "Play"
-    Title: "uruguay_vtv"
+    Title: "URUGUAY  VTV "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2016/07/17/18/51/uruguay-1524500_1280.png"
@@ -2992,7 +2992,7 @@
 }
 {
     Artist: "Play"
-    Title: "uruguay_canal_7"
+    Title: "URUGUAY  CANAL 7"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2016/07/17/18/51/uruguay-1524500_1280.png"
@@ -3003,7 +3003,7 @@
 }
 {
     Artist: "Play"
-    Title: "uruguay_canal_9_telerocha"
+    Title: "URUGUAY  CANAL 9 TELEROCHA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2016/07/17/18/51/uruguay-1524500_1280.png"
@@ -3014,7 +3014,7 @@
 }
 {
     Artist: "Play"
-    Title: "uruguay_las_piedras"
+    Title: "URUGUAY  LAS PIEDRAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2016/07/17/18/51/uruguay-1524500_1280.png"
@@ -3025,7 +3025,7 @@
 }
 {
     Artist: "Play"
-    Title: "uruguay_vera"
+    Title: "URUGUAY  VERA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2016/07/17/18/51/uruguay-1524500_1280.png"
@@ -3036,7 +3036,7 @@
 }
 {
     Artist: "Play"
-    Title: "enlace_colombia"
+    Title: "ENLACE  COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://enlacetelevision.com/wp-content/uploads/2023/11/LOGONAV.png"
@@ -3047,18 +3047,18 @@
 }
 {
     Artist: "Play"
-    Title: "canal_institucional_colombia"
+    Title: "CANAL INSTITUCIONAL  COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.canalinstitucional.tv/themes/custom/bootstrap_sass/images/logo.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315516"
     Live: true
-    Country: "us"
+    Country: "ca"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "nuevo_mundo_tv_guatemala"
+    Title: "NUEVO MUNDO TV  GUATEMALA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -3069,18 +3069,18 @@
 }
 {
     Artist: "Play"
-    Title: "canal_8_santa_rosa_guatemala"
+    Title: "CANAL 8 SANTA ROSA  GUATEMALA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315518"
     Live: true
-    Country: "us"
+    Country: "ca"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "totovision_guatemala"
+    Title: "TOTOVISION  GUATEMALA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -3091,40 +3091,40 @@
 }
 {
     Artist: "Play"
-    Title: "canal_9_solola_guatemala"
+    Title: "CANAL 9 SOLOLA  GUATEMALA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315521"
     Live: true
-    Country: "us"
+    Country: "ca"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "canal_100_chinique_quiche_guatemala"
+    Title: "CANAL 100 CHINIQUE QUICHE  GUATEMALA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315523"
     Live: true
-    Country: "us"
+    Country: "ca"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "canal_9_tv_san_marcos_guatemala"
+    Title: "CANAL 9 TV SAN MARCOS  GUATEMALA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315525"
     Live: true
-    Country: "us"
+    Country: "ca"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "rhema_tv_guatemala"
+    Title: "RHEMA TV  GUATEMALA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -3135,7 +3135,7 @@
 }
 {
     Artist: "Play"
-    Title: "amigos_tv_chiquimula_guatemala"
+    Title: "AMIGOS TV CHIQUIMULA  GUATEMALA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -3146,18 +3146,18 @@
 }
 {
     Artist: "Play"
-    Title: "franchs_tv_guatemala"
+    Title: "FRANCHS TV  GUATEMALA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/112/non_2x/guatemala-3d-rounded-flag-with-transparent-background-free-png.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315530"
     Live: true
-    Country: "us"
+    Country: "fr"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "nicaragua_nicaragua"
+    Title: "NICARAGUA  NICARAGUA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://banderas.top/wp-content/uploads/2020/07/1971-actualidad.png"
@@ -3168,7 +3168,7 @@
 }
 {
     Artist: "Play"
-    Title: "telerama_ecuador"
+    Title: "TELERAMA  ECUADOR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
@@ -3179,7 +3179,7 @@
 }
 {
     Artist: "Play"
-    Title: "ecotel_tv_ecuador"
+    Title: "ECOTEL TV  ECUADOR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
@@ -3190,7 +3190,7 @@
 }
 {
     Artist: "Play"
-    Title: "top_latino_tv_ecuador"
+    Title: "TOP LATINO TV  ECUADOR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
@@ -3201,7 +3201,7 @@
 }
 {
     Artist: "Play"
-    Title: "unisiontv_ecuador"
+    Title: "UNISIONTV  ECUADOR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
@@ -3212,7 +3212,7 @@
 }
 {
     Artist: "Play"
-    Title: "rtu_ecuador"
+    Title: "RTU  ECUADOR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
@@ -3223,7 +3223,7 @@
 }
 {
     Artist: "Play"
-    Title: "peru_atv"
+    Title: " Peru  ATV   "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -3234,7 +3234,7 @@
 }
 {
     Artist: "Play"
-    Title: "peru_atv_sur"
+    Title: " Peru  ATV  sur  "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -3245,7 +3245,7 @@
 }
 {
     Artist: "Play"
-    Title: "peru_global_rbc"
+    Title: " Peru  GLOBAL RBC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -3256,7 +3256,7 @@
 }
 {
     Artist: "Play"
-    Title: "peru_panamericana"
+    Title: " Peru  Panamericana  "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -3267,7 +3267,7 @@
 }
 {
     Artist: "Play"
-    Title: "peru_best_cable_music"
+    Title: " Peru   BEST CABLE  MUSIC  "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -3278,7 +3278,7 @@
 }
 {
     Artist: "Play"
-    Title: "peru_cultura_24_tv"
+    Title: " Peru  CULTURA 24 TV "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -3289,7 +3289,7 @@
 }
 {
     Artist: "Play"
-    Title: "peru_ovacion_tv"
+    Title: " Peru  OVACION TV  "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -3300,7 +3300,7 @@
 }
 {
     Artist: "Play"
-    Title: "bh_tv_peru"
+    Title: "BH TV  PERU"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -3311,7 +3311,7 @@
 }
 {
     Artist: "Play"
-    Title: "peru_telesur"
+    Title: " Peru  TELESUR  "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -3322,7 +3322,7 @@
 }
 {
     Artist: "Play"
-    Title: "peru_atv"
+    Title: " Peru  ATV  "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -3333,7 +3333,7 @@
 }
 {
     Artist: "Play"
-    Title: "peru_antares_tv"
+    Title: " Peru  Antares TV  "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -3344,7 +3344,7 @@
 }
 {
     Artist: "Play"
-    Title: "peru_frecuencia_latina_op_1"
+    Title: " Peru  Frecuencia LATINA OP 1 "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -3355,7 +3355,7 @@
 }
 {
     Artist: "Play"
-    Title: "peru_autentica"
+    Title: " Peru  Autentica "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -3366,7 +3366,7 @@
 }
 {
     Artist: "Play"
-    Title: "fox_sports_1_peru"
+    Title: "FOX SPORTS 1 PERU"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/VNzdwQfJ/10.png"
@@ -3377,7 +3377,7 @@
 }
 {
     Artist: "Play"
-    Title: "fox_sports_2_mx"
+    Title: "FOX SPORTS 2 MX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/cHbHfvQ3/11.png"
@@ -3388,7 +3388,7 @@
 }
 {
     Artist: "Play"
-    Title: "peru_rpp"
+    Title: " Peru  RPP"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -3399,7 +3399,7 @@
 }
 {
     Artist: "Play"
-    Title: "peru_exitosa"
+    Title: " Peru  Exitosa "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -3410,7 +3410,7 @@
 }
 {
     Artist: "Play"
-    Title: "peru_nativa_tv"
+    Title: " Peru  Nativa TV  "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -3421,7 +3421,7 @@
 }
 {
     Artist: "Play"
-    Title: "vtv_plus"
+    Title: "VTV PLUS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png"
@@ -3432,7 +3432,7 @@
 }
 {
     Artist: "Play"
-    Title: "peru_america_tv"
+    Title: " Peru  AMERICA TV   "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/previews/015/272/122/non_2x/peru-3d-rounded-flag-with-transparent-background-free-png.png"
@@ -3443,7 +3443,7 @@
 }
 {
     Artist: "Play"
-    Title: "atn_colombia"
+    Title: "ATN  COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://globalone80.org/wp-content/uploads/2021/05/Colombia-Bandera.png"
@@ -3454,7 +3454,7 @@
 }
 {
     Artist: "Play"
-    Title: "afizzionados_deportes_sports_mexico"
+    Title: "Afizzionados Deportes Sports  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3465,7 +3465,7 @@
 }
 {
     Artist: "Play"
-    Title: "televisa_puebla_mexico"
+    Title: "Televisa Puebla   MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3476,7 +3476,7 @@
 }
 {
     Artist: "Play"
-    Title: "az_click_azteca_mexico"
+    Title: "Az Click   Azteca  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3487,7 +3487,7 @@
 }
 {
     Artist: "Play"
-    Title: "az_corazon_mexico"
+    Title: "AZ Corazon  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3498,7 +3498,7 @@
 }
 {
     Artist: "Play"
-    Title: "az_mundo_azteca_mexico"
+    Title: "AZ Mundo   Azteca  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3509,7 +3509,7 @@
 }
 {
     Artist: "Play"
-    Title: "azteca_7_mexico"
+    Title: "Azteca 7  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3520,7 +3520,7 @@
 }
 {
     Artist: "Play"
-    Title: "azteca_uno_mexico"
+    Title: "Azteca Uno  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3531,7 +3531,7 @@
 }
 {
     Artist: "Play"
-    Title: "canal_11_once_mexico"
+    Title: "Canal 11 Once  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3542,7 +3542,7 @@
 }
 {
     Artist: "Play"
-    Title: "canal_5_mexico"
+    Title: "Canal 5  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3553,7 +3553,7 @@
 }
 {
     Artist: "Play"
-    Title: "distrito_comedia_mexico"
+    Title: "Distrito Comedia  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3564,7 +3564,7 @@
 }
 {
     Artist: "Play"
-    Title: "fuel_tv_moto_mexico"
+    Title: "Fuel TV Moto  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3575,7 +3575,7 @@
 }
 {
     Artist: "Play"
-    Title: "gala_tv_mexico"
+    Title: "GALA TV  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3586,7 +3586,7 @@
 }
 {
     Artist: "Play"
-    Title: "garage_tv_mexico"
+    Title: "Garage TV  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3597,7 +3597,7 @@
 }
 {
     Artist: "Play"
-    Title: "teleformula_mexico"
+    Title: "Teleformula   MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3608,7 +3608,7 @@
 }
 {
     Artist: "Play"
-    Title: "milenio_tv_mexico"
+    Title: "Milenio TV  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3619,7 +3619,7 @@
 }
 {
     Artist: "Play"
-    Title: "starz_encore_black_mexico"
+    Title: "Starz Encore Black  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3630,7 +3630,7 @@
 }
 {
     Artist: "Play"
-    Title: "sundance_tv_mexico"
+    Title: "Sundance TV  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3641,7 +3641,7 @@
 }
 {
     Artist: "Play"
-    Title: "el_heraldo_mexico"
+    Title: "EL HERALDO  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3652,7 +3652,7 @@
 }
 {
     Artist: "Play"
-    Title: "telemax_tlm_mexico"
+    Title: "Telemax TLM  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3663,7 +3663,7 @@
 }
 {
     Artist: "Play"
-    Title: "unicable_mexico"
+    Title: "Unicable  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3674,18 +3674,18 @@
 }
 {
     Artist: "Play"
-    Title: "canal_once_mexico"
+    Title: "CANAL ONCE  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315729"
     Live: true
-    Country: "mx"
+    Country: "ca"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "televimex_mexico"
+    Title: "Televimex  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3696,7 +3696,7 @@
 }
 {
     Artist: "Play"
-    Title: "justicia_tv_mexico"
+    Title: "Justicia Tv  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3707,7 +3707,7 @@
 }
 {
     Artist: "Play"
-    Title: "rcg_2_mexico"
+    Title: "RCG 2  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3718,7 +3718,7 @@
 }
 {
     Artist: "Play"
-    Title: "pacifico_tvp_mexico"
+    Title: "PACIFICO  TVP  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3729,7 +3729,7 @@
 }
 {
     Artist: "Play"
-    Title: "unam_mexico_sky"
+    Title: "UNAM  MEXICO SKY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3740,7 +3740,7 @@
 }
 {
     Artist: "Play"
-    Title: "tv_mar_la_paz_mexico"
+    Title: "TV Mar La Paz  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3751,7 +3751,7 @@
 }
 {
     Artist: "Play"
-    Title: "telesistema_mexico"
+    Title: "TELESISTEMA  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3762,7 +3762,7 @@
 }
 {
     Artist: "Play"
-    Title: "piguino_tv_chile"
+    Title: "PIGUINO TV  CHILE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://assets.stickpng.com/images/580b585b2edbce24c47b27f1.png"
@@ -3773,7 +3773,7 @@
 }
 {
     Artist: "Play"
-    Title: "tve_rio_grande_do_sul_brazil_playmovie"
+    Title: "TVE RIO GRANDE DO SUL  BRAZIL  PLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -3784,7 +3784,7 @@
 }
 {
     Artist: "Play"
-    Title: "tn_argentina"
+    Title: "TN  ARGENTINA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/xjMrvL4R/tn.png"
@@ -3795,7 +3795,7 @@
 }
 {
     Artist: "Play"
-    Title: "agro_brasil_tv_playmovie"
+    Title: "AGRO BRASIL TV  PLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -3806,18 +3806,18 @@
 }
 {
     Artist: "Play"
-    Title: "ar_aire_santa_fe"
+    Title: "AR  AIRE SANTA FE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/FzwK16h3/AIRE-SANTA-FE-ARGENTINA.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315886"
     Live: true
-    Country: "us"
+    Country: "ar"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "adn_40_mexico"
+    Title: "ADN 40  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3828,7 +3828,7 @@
 }
 {
     Artist: "Play"
-    Title: "amx_noticias_mexico"
+    Title: "AMX NOTICIAS  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3839,7 +3839,7 @@
 }
 {
     Artist: "Play"
-    Title: "alcance_tv_mexico"
+    Title: "ALCANCE TV  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3850,7 +3850,7 @@
 }
 {
     Artist: "Play"
-    Title: "golden_plus"
+    Title: "GOLDEN PLUS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/Dwf57KQ4/GOLDEN_PLUS.png"
@@ -3861,7 +3861,7 @@
 }
 {
     Artist: "Play"
-    Title: "golden_premier"
+    Title: "GOLDEN PREMIER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/LsnTZBbH/GOLDEN_PREMIER.png"
@@ -3872,7 +3872,7 @@
 }
 {
     Artist: "Play"
-    Title: "canal_13_bajio_mexico"
+    Title: "Canal 13 Bajio  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3883,7 +3883,7 @@
 }
 {
     Artist: "Play"
-    Title: "canal_13_campeche_mexico"
+    Title: "Canal 13 Campeche  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3894,7 +3894,7 @@
 }
 {
     Artist: "Play"
-    Title: "canal_13_chiapas_mexico"
+    Title: "Canal 13 Chiapas  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3905,7 +3905,7 @@
 }
 {
     Artist: "Play"
-    Title: "canal_13_michoacan_mexico"
+    Title: "Canal 13 Michoacan  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3916,7 +3916,7 @@
 }
 {
     Artist: "Play"
-    Title: "canal_13_oaxaca_mexico"
+    Title: "Canal 13 Oaxaca  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3927,7 +3927,7 @@
 }
 {
     Artist: "Play"
-    Title: "canal_13_puebla_mexico"
+    Title: "Canal 13 Puebla  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3938,7 +3938,7 @@
 }
 {
     Artist: "Play"
-    Title: "canal_13_tabasco_mexico"
+    Title: "Canal 13 Tabasco  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3949,7 +3949,7 @@
 }
 {
     Artist: "Play"
-    Title: "canal_26_mexico"
+    Title: "Canal 26  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3960,7 +3960,7 @@
 }
 {
     Artist: "Play"
-    Title: "canal_44_mexico"
+    Title: "Canal 44  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3971,7 +3971,7 @@
 }
 {
     Artist: "Play"
-    Title: "canal_del_congreso_453_mexico"
+    Title: "Canal del Congreso 45 3  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3982,7 +3982,7 @@
 }
 {
     Artist: "Play"
-    Title: "canal_ocho_tv_mexico"
+    Title: "Canal Ocho TV  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -3993,7 +3993,7 @@
 }
 {
     Artist: "Play"
-    Title: "conecta_tv_mexico"
+    Title: "Conecta TV  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4004,7 +4004,7 @@
 }
 {
     Artist: "Play"
-    Title: "cortv_mexico"
+    Title: "CorTV  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4015,7 +4015,7 @@
 }
 {
     Artist: "Play"
-    Title: "expresa_tv_mexico"
+    Title: "Expresa TV  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4026,7 +4026,7 @@
 }
 {
     Artist: "Play"
-    Title: "ilce_canal_15_summa_saberes_mexico"
+    Title: "ILCE Canal 15 Summa Saberes  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4037,7 +4037,7 @@
 }
 {
     Artist: "Play"
-    Title: "imryt_mexico"
+    Title: "IMRyT  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4048,7 +4048,7 @@
 }
 {
     Artist: "Play"
-    Title: "jalisco_tv_mexico"
+    Title: "Jalisco TV  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4059,7 +4059,7 @@
 }
 {
     Artist: "Play"
-    Title: "justicia_tv_mexico"
+    Title: "Justicia TV  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4070,7 +4070,7 @@
 }
 {
     Artist: "Play"
-    Title: "lobo_tv_mexico"
+    Title: "Lobo TV  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4081,7 +4081,7 @@
 }
 {
     Artist: "Play"
-    Title: "mexiquense_tv_mexico"
+    Title: "Mexiquense TV  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4092,7 +4092,7 @@
 }
 {
     Artist: "Play"
-    Title: "monte_maria_mexico"
+    Title: "Monte Maria  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4103,7 +4103,7 @@
 }
 {
     Artist: "Play"
-    Title: "noticias_canal_10_mexico"
+    Title: "Noticias Canal 10  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4114,7 +4114,7 @@
 }
 {
     Artist: "Play"
-    Title: "nrt_mexico_mexico"
+    Title: "NRT Mexico  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4125,7 +4125,7 @@
 }
 {
     Artist: "Play"
-    Title: "nueve_tv_mexico"
+    Title: "Nueve TV  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4136,7 +4136,7 @@
 }
 {
     Artist: "Play"
-    Title: "rcg_tv_mexico"
+    Title: "RCG TV  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4147,7 +4147,7 @@
 }
 {
     Artist: "Play"
-    Title: "sintesis_tv_mexico"
+    Title: "Sintesis TV  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4158,7 +4158,7 @@
 }
 {
     Artist: "Play"
-    Title: "sqcs_canal_4_mexico"
+    Title: "SQCS Canal 4  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4169,7 +4169,7 @@
 }
 {
     Artist: "Play"
-    Title: "super_channel_12_mexico"
+    Title: "Super Channel 12  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4180,7 +4180,7 @@
 }
 {
     Artist: "Play"
-    Title: "telemar_campeche_mexico"
+    Title: "Telemar Campeche  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4191,7 +4191,7 @@
 }
 {
     Artist: "Play"
-    Title: "trc_tv_mexico"
+    Title: "TRC TV  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4202,7 +4202,7 @@
 }
 {
     Artist: "Play"
-    Title: "turistik_tv_mexico"
+    Title: "Turistik TV  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4213,7 +4213,7 @@
 }
 {
     Artist: "Play"
-    Title: "tv_buap_mexico"
+    Title: "TV BUAP  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4224,7 +4224,7 @@
 }
 {
     Artist: "Play"
-    Title: "tv_cuatro_41_mexico"
+    Title: "TV Cuatro 4 1  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4235,7 +4235,7 @@
 }
 {
     Artist: "Play"
-    Title: "tv_guanajuato_mexico"
+    Title: "TV Guanajuato  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4246,7 +4246,7 @@
 }
 {
     Artist: "Play"
-    Title: "tv_independencia_mexico"
+    Title: "TV Independencia  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4257,7 +4257,7 @@
 }
 {
     Artist: "Play"
-    Title: "tv_lobo_mexico"
+    Title: "TV Lobo  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4268,7 +4268,7 @@
 }
 {
     Artist: "Play"
-    Title: "tv_mar_la_paz_mexico"
+    Title: "TV Mar La Paz  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4279,7 +4279,7 @@
 }
 {
     Artist: "Play"
-    Title: "tv_mar_los_cabos_mexico"
+    Title: "TV Mar Los Cabos  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4290,7 +4290,7 @@
 }
 {
     Artist: "Play"
-    Title: "tv_mar_puerto_vallarta_mexico"
+    Title: "TV Mar Puerto Vallarta  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4301,7 +4301,7 @@
 }
 {
     Artist: "Play"
-    Title: "tvmas_mexico"
+    Title: "TVMas  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4312,7 +4312,7 @@
 }
 {
     Artist: "Play"
-    Title: "tvp_mexico"
+    Title: "TVP  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4323,7 +4323,7 @@
 }
 {
     Artist: "Play"
-    Title: "tvp_los_mochis_mexico"
+    Title: "TVP Los Mochis  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4334,7 +4334,7 @@
 }
 {
     Artist: "Play"
-    Title: "tvt_mexico"
+    Title: "TVT  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4345,7 +4345,7 @@
 }
 {
     Artist: "Play"
-    Title: "tv_ujat_mexico"
+    Title: "TV UJAT  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4356,7 +4356,7 @@
 }
 {
     Artist: "Play"
-    Title: "ultra_tv_puebla_mexico"
+    Title: "Ultra TV Puebla  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4367,7 +4367,7 @@
 }
 {
     Artist: "Play"
-    Title: "umtv_mexico"
+    Title: "UMTV  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4378,7 +4378,7 @@
 }
 {
     Artist: "Play"
-    Title: "vb_media_tv_mexico"
+    Title: "VB Media TV  MEXICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png"
@@ -4389,10 +4389,10 @@
 }
 {
     Artist: "Play"
-    Title: "extrema_tv_playmovie"
+    Title: "Extrema TV  PLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_america_tv.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327183"
     Live: true
     Country: "us"
@@ -4400,10 +4400,10 @@
 }
 {
     Artist: "Play"
-    Title: "cdm_internacional_playmovie"
+    Title: "CDM Internacional  PLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/co_caracol_internacional.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327184"
     Live: true
     Country: "us"
@@ -4411,7 +4411,7 @@
 }
 {
     Artist: "Play"
-    Title: "movie_fe_playmovie"
+    Title: "Movie Fe  PLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -4422,10 +4422,10 @@
 }
 {
     Artist: "Play"
-    Title: "cielo_tv_playmovie"
+    Title: "Cielo TV  PLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_america_tv.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327188"
     Live: true
     Country: "us"
@@ -4433,7 +4433,7 @@
 }
 {
     Artist: "Play"
-    Title: "asomavision_playmovie"
+    Title: "Asomavision  PLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -4444,7 +4444,7 @@
 }
 {
     Artist: "Play"
-    Title: "spirit_television"
+    Title: "Spirit Television"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -4455,7 +4455,7 @@
 }
 {
     Artist: "Play"
-    Title: "jbn_tvplaymovie"
+    Title: "JBN TVPLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -4466,10 +4466,10 @@
 }
 {
     Artist: "Play"
-    Title: "tv_cretplaymovie"
+    Title: "Tv CRETPLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_america_tv.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327196"
     Live: true
     Country: "us"
@@ -4477,10 +4477,10 @@
 }
 {
     Artist: "Play"
-    Title: "tv_telebendicionplaymovie"
+    Title: "Tv TelebendicionPLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_america_tv.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327198"
     Live: true
     Country: "us"
@@ -4488,10 +4488,10 @@
 }
 {
     Artist: "Play"
-    Title: "tv_salvacionplaymovie"
+    Title: "Tv SalvacionPLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_america_tv.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327199"
     Live: true
     Country: "us"
@@ -4499,7 +4499,7 @@
 }
 {
     Artist: "Play"
-    Title: "solidariaplaymovie"
+    Title: "SolidariaPLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -4510,7 +4510,7 @@
 }
 {
     Artist: "Play"
-    Title: "cci_channelplaymovie"
+    Title: "CCI CHANNELPLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -4521,7 +4521,7 @@
 }
 {
     Artist: "Play"
-    Title: "luz_nacienteplaymovie"
+    Title: "Luz NacientePLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -4532,7 +4532,7 @@
 }
 {
     Artist: "Play"
-    Title: "hosanna_visionplaymovie"
+    Title: "Hosanna VisionPLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -4543,7 +4543,7 @@
 }
 {
     Artist: "Play"
-    Title: "hbo_pop"
+    Title: "HBO POP"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/tJ5RKSn0/HBO-POP.png"
@@ -4554,7 +4554,7 @@
 }
 {
     Artist: "Play"
-    Title: "la_1"
+    Title: "LA 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/BbCBZvcg/LA-1.png"
@@ -4565,7 +4565,7 @@
 }
 {
     Artist: "Play"
-    Title: "comedy_central"
+    Title: "COMEDY CENTRAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/NFQ8J0q0/COMEDY-CENTRAL.png"
@@ -4576,7 +4576,7 @@
 }
 {
     Artist: "Play"
-    Title: "telemundo_novelas"
+    Title: "Telemundo  NOVELAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/FR40zKKx/TELEMUNDO.png"
@@ -4587,7 +4587,7 @@
 }
 {
     Artist: "Play"
-    Title: "tnt_novelas"
+    Title: "TNT NOVELAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/WpgBMhSP/tnt-novelas.png"
@@ -4598,51 +4598,51 @@
 }
 {
     Artist: "Play"
-    Title: "espn_5"
+    Title: "ESPN 5 "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]369623"
     Live: true
-    Country: "us"
+    Country: "es"
     Tag: "Sports"
 }
 {
     Artist: "Play"
-    Title: "espn_7"
+    Title: "ESPN 7 "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]369624"
     Live: true
-    Country: "us"
+    Country: "es"
     Tag: "Sports"
 }
 {
     Artist: "Play"
-    Title: "espn_3"
+    Title: "ESPN 3 "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]369621"
     Live: true
-    Country: "us"
+    Country: "es"
     Tag: "Sports"
 }
 {
     Artist: "Play"
-    Title: "espn_6"
+    Title: "ESPN 6 "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]369619"
     Live: true
-    Country: "us"
+    Country: "es"
     Tag: "Sports"
 }
 {
     Artist: "Play"
-    Title: "ufc"
+    Title: "UFC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png"
@@ -4653,7 +4653,7 @@
 }
 {
     Artist: "Play"
-    Title: "ae"
+    Title: "AE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s"
@@ -4664,7 +4664,7 @@
 }
 {
     Artist: "Play"
-    Title: "universal_cinema"
+    Title: "Universal Cinema"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png"
@@ -4675,7 +4675,7 @@
 }
 {
     Artist: "Play"
-    Title: "mtv_espanol"
+    Title: "MTV ESPANOL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://allvectorlogo.com/img/2016/07/mtv-music-television-espanol-logo.png"
@@ -4686,7 +4686,7 @@
 }
 {
     Artist: "Play"
-    Title: "dazn_formula_1"
+    Title: "DAZN  FORMULA 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/K8MkWF8y/FORMULA-1.png"
@@ -4697,7 +4697,7 @@
 }
 {
     Artist: "Play"
-    Title: "multipremier"
+    Title: "MULTIPREMIER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png"
@@ -4708,7 +4708,7 @@
 }
 {
     Artist: "Play"
-    Title: "discovery_world"
+    Title: "Discovery World"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://w7.pngwing.com/pngs/920/176/png-transparent-discovery-world-discovery-hd-discovery-channel-logo-hd-logo-television-text-logo.png"
@@ -4719,7 +4719,7 @@
 }
 {
     Artist: "Play"
-    Title: "infierno_en_la_cocina"
+    Title: "Infierno en la Cocina"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://e7.pngegg.com/pngimages/984/463/png-clipart-gordon-ramsay-hell-s-kitchen-u-s-season-12-chef-hell-s-kitchen-u-s-season-15-hell-miscellaneous-television.png"
@@ -4730,7 +4730,7 @@
 }
 {
     Artist: "Play"
-    Title: "ecdf"
+    Title: "ECDF"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://pbs.twimg.com/media/F_gVIkvW8AAxsI-.png"
@@ -4741,7 +4741,7 @@
 }
 {
     Artist: "Play"
-    Title: "gol_tv"
+    Title: "GOL TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png"
@@ -4752,7 +4752,7 @@
 }
 {
     Artist: "Play"
-    Title: "claro_sports"
+    Title: "Claro Sports"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png"
@@ -4763,7 +4763,7 @@
 }
 {
     Artist: "Play"
-    Title: "nat_geo_wild"
+    Title: "NAT GEO WILD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png"
@@ -4774,7 +4774,7 @@
 }
 {
     Artist: "Play"
-    Title: "kanal_d_drama"
+    Title: "KANAL D DRAMA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://kanalddrama.com/assets/img/logotop.png"
@@ -4785,7 +4785,7 @@
 }
 {
     Artist: "Play"
-    Title: "tennis_channel"
+    Title: "Tennis Channel"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ATennis_Channel_logo.svg&psig=AOvVaw04EEB1Yxs0LGE1brD1fMrT&ust=1747495928419000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLD1o-GnqI0DFQAAAAAdAAAAABAE"
@@ -4796,7 +4796,7 @@
 }
 {
     Artist: "Play"
-    Title: "mls_1"
+    Title: "MLS 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1000marcas.net/wp-content/uploads/2020/03/Major-League-Soccer-Logo-2000.png"
@@ -4807,7 +4807,7 @@
 }
 {
     Artist: "Play"
-    Title: "tyc_sports"
+    Title: "TYC Sports"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/TYFVHtGB/TYC.png"
@@ -4818,29 +4818,29 @@
 }
 {
     Artist: "Play"
-    Title: "espn_3_mx"
+    Title: "ESPN 3 MX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/vBHgrRkJ/3.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]382708"
     Live: true
-    Country: "us"
+    Country: "es"
     Tag: "Sports"
 }
 {
     Artist: "Play"
-    Title: "espn_3"
+    Title: "ESPN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/vBHgrRkJ/3.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]382709"
     Live: true
-    Country: "us"
+    Country: "es"
     Tag: "Sports"
 }
 {
     Artist: "Play"
-    Title: "2_snt"
+    Title: "2 SNT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/Pxt3WZ1Z/snt.png"
@@ -4851,7 +4851,7 @@
 }
 {
     Artist: "Play"
-    Title: "1_py_snt"
+    Title: "1 PY  SNT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/Pxt3WZ1Z/snt.png"
@@ -4862,7 +4862,7 @@
 }
 {
     Artist: "Play"
-    Title: "1_telefuturo"
+    Title: "1 TELEFUTURO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/hvY2R56b/telefuturo.png"
@@ -4873,7 +4873,7 @@
 }
 {
     Artist: "Play"
-    Title: "2_py_telefuturo"
+    Title: "2  PY  TELEFUTURO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/hvY2R56b/telefuturo.png"
@@ -4884,7 +4884,7 @@
 }
 {
     Artist: "Play"
-    Title: "3_py_la_tele"
+    Title: "3 PY  LA TELE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/7ZGphgNZ/la-tele.png"
@@ -4895,7 +4895,7 @@
 }
 {
     Artist: "Play"
-    Title: "2_py_la_tele"
+    Title: "2 PY  LA TELE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/7ZGphgNZ/la-tele.png"
@@ -4906,7 +4906,7 @@
 }
 {
     Artist: "Play"
-    Title: "3_py_la_tele"
+    Title: "3 PY  LA TELE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/7ZGphgNZ/la-tele.png"
@@ -4917,7 +4917,7 @@
 }
 {
     Artist: "Play"
-    Title: "2_py_sur_tv"
+    Title: "2 PY  SUR TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/V6D7D6Fh/sur-tv.png"
@@ -4928,7 +4928,7 @@
 }
 {
     Artist: "Play"
-    Title: "1_py_sur_tv"
+    Title: "1 PY  SUR TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/V6D7D6Fh/sur-tv.png"
@@ -4939,7 +4939,7 @@
 }
 {
     Artist: "Play"
-    Title: "1_py_paravision"
+    Title: "1 PY  PARAVISION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/wjmGg96t/paravision.png"
@@ -4950,7 +4950,7 @@
 }
 {
     Artist: "Play"
-    Title: "2_py_paravision"
+    Title: "2 PY  PARAVISION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/wjmGg96t/paravision.png"
@@ -4961,7 +4961,7 @@
 }
 {
     Artist: "Play"
-    Title: "2_py_c9n"
+    Title: "2 PY  C9N"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/WpSRHp3T/c9n.png"
@@ -4972,7 +4972,7 @@
 }
 {
     Artist: "Play"
-    Title: "1py_c9n"
+    Title: "1PY  C9N"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/WpSRHp3T/c9n.png"
@@ -4983,7 +4983,7 @@
 }
 {
     Artist: "Play"
-    Title: "2_noticias_paraguay"
+    Title: "2 NOTICIAS PARAGUAY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/KmmYbSN/NPY.png"
@@ -4994,7 +4994,7 @@
 }
 {
     Artist: "Play"
-    Title: "1_noticias_paraguay"
+    Title: "1 NOTICIAS PARAGUAY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/KmmYbSN/NPY.png"
@@ -5005,7 +5005,7 @@
 }
 {
     Artist: "Play"
-    Title: "1_gen"
+    Title: "1 GEN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/02HT9tD4/gen.png"
@@ -5016,7 +5016,7 @@
 }
 {
     Artist: "Play"
-    Title: "2_gen"
+    Title: "2  GEN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/02HT9tD4/gen.png"
@@ -5027,7 +5027,7 @@
 }
 {
     Artist: "Play"
-    Title: "1_abc_py"
+    Title: "1 ABC PY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/yWc2vDP/ABC-COLOR.png"
@@ -5038,7 +5038,7 @@
 }
 {
     Artist: "Play"
-    Title: "2_abc_py"
+    Title: "2  ABC PY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.ibb.co/yWc2vDP/ABC-COLOR.png"
@@ -5049,7 +5049,7 @@
 }
 {
     Artist: "Play"
-    Title: "farra_play"
+    Title: "FARRA PLAY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/75/d1/f5/75d1f5c5-ff25-277b-2e8c-97af7911a18d/mzl.rdsodagk.jpg/1200x630wa.png"
@@ -5060,7 +5060,7 @@
 }
 {
     Artist: "Play"
-    Title: "motorsur_py"
+    Title: "MOTORSUR PY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/8z2x6jyB/motor-sur-paraguay.png"
@@ -5071,7 +5071,7 @@
 }
 {
     Artist: "Play"
-    Title: "py_eventos_py_1"
+    Title: " PY  EVENTOS PY 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/503rTpfn/eventos-py-1.png"
@@ -5082,7 +5082,7 @@
 }
 {
     Artist: "Play"
-    Title: "py_eventos_py_2"
+    Title: " PY  EVENTOS PY 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/MG1NbqNk/eventos-py-2.png"
@@ -5093,7 +5093,7 @@
 }
 {
     Artist: "Play"
-    Title: "py_eventos_py_3"
+    Title: " PY  EVENTOS PY 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/Y9kVdTBv/eventos-py-3.png"
@@ -5104,18 +5104,18 @@
 }
 {
     Artist: "Play"
-    Title: "py_eventos_py_4"
+    Title: " PY  EVENTOS PY 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/Y9kVdTBv/eventos-py-3.png"
-    Stream: "http[:[[/]][[/]]]vip-kings-cr-tv[.]vip:80[/]62616q7restreampm[/]W7w7wu277171h[/]1380284"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384236"
     Live: true
     Country: "us"
     Tag: "General"
 }
 {
     Artist: "Play"
-    Title: "ufc_tv"
+    Title: "UFC TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png"
@@ -5126,7 +5126,7 @@
 }
 {
     Artist: "Play"
-    Title: "unicanal"
+    Title: "UNICANAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://camo.githubusercontent.com/c5cc90f622ffd4a9553eb7ba18f33c79136abe679405fe069c71b25d420a0edc/68747470733a2f2f692e696d6775722e636f6d2f62726c657075582e706e67"
@@ -5137,7 +5137,7 @@
 }
 {
     Artist: "Play"
-    Title: "ch_espn_4"
+    Title: "CH ESPN 4 "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png"
@@ -5148,7 +5148,7 @@
 }
 {
     Artist: "Play"
-    Title: "sky_rally_tv_o_f1"
+    Title: "SKY  RALLY TV O F1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://image.discovery.indazn.com/ca/v2/ca/image?id=1jgxn918y5huozgvulyre79ou_image-header_pRow_1716204577000&quality=70"
@@ -5159,7 +5159,7 @@
 }
 {
     Artist: "Play"
-    Title: "televen"
+    Title: "TELEVEN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -5170,7 +5170,7 @@
 }
 {
     Artist: "Play"
-    Title: "claro_sports_2"
+    Title: "Claro Sports 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest?cb=20180803141855"
@@ -5181,7 +5181,7 @@
 }
 {
     Artist: "Play"
-    Title: "ufc_fight_pass"
+    Title: "UFC FIGHT PASS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png"
@@ -5192,7 +5192,7 @@
 }
 {
     Artist: "Play"
-    Title: "eventos_disney"
+    Title: "EVENTOS DISNEY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://images.seeklogo.com/logo-png/48/1/star-logo-png_seeklogo-480002.png"
@@ -5203,7 +5203,7 @@
 }
 {
     Artist: "Play"
-    Title: "eventos_disney"
+    Title: "EVENTOS DISNEY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://images.seeklogo.com/logo-png/48/2/star-logo-png_seeklogo-480002.png"
@@ -5214,7 +5214,7 @@
 }
 {
     Artist: "Play"
-    Title: "eventos_disney"
+    Title: "EVENTOS DISNEY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://images.seeklogo.com/logo-png/48/1/star-logo-png_seeklogo-480002.png"
@@ -5225,7 +5225,7 @@
 }
 {
     Artist: "Play"
-    Title: "eventos_disney"
+    Title: "EVENTOS DISNEY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://immaa.xyz/siiinloggg.png"
@@ -5236,7 +5236,7 @@
 }
 {
     Artist: "Play"
-    Title: "eventos_disney"
+    Title: "EVENTOS DISNEY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://images.seeklogo.com/logo-png/48/1/star-logo-png_seeklogo-480002.png"
@@ -5247,10 +5247,10 @@
 }
 {
     Artist: "Play"
-    Title: "eventos_disney"
+    Title: "EVENTOS DISNEY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_channel.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]388227"
     Live: true
     Country: "us"
@@ -5258,7 +5258,7 @@
 }
 {
     Artist: "Play"
-    Title: "telecinco"
+    Title: "TELECINCO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://127.0.0.1/"
@@ -5269,7 +5269,7 @@
 }
 {
     Artist: "Play"
-    Title: "m_series_xtra"
+    Title: "M SERIES XTRA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://127.0.0.1/"
@@ -5280,7 +5280,7 @@
 }
 {
     Artist: "Play"
-    Title: "clan_tv"
+    Title: "CLAN TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://127.0.0.1/"
