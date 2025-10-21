@@ -308,17 +308,6 @@
 }
 {
     Artist: "Alfa"
-    Title: "AFC Champions League 1215 Al Hilal vs Al Sadd"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/afc_champions.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21385"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
     Title: "Argentina 1615 Union Santa Fe vs Defensa y Justicia"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -326,28 +315,6 @@
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21386"
     Live: true
     Country: "ar"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Championship 1245 Hull City vs Leicester City"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_championship_epl.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21388"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "Championship 1245 Derby County vs Norwich City"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_championship_epl.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21389"
-    Live: true
-    Country: "us"
     Tag: "General"
 }
 {
