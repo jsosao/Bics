@@ -7260,7 +7260,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "Liga MX 1900 Necaxa vs Cruz Azul"
+    Title: "00 Liga MX 1900 Necaxa vs Cruz Azul"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png"
@@ -7271,7 +7271,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "Liga MX 1900 America vs Puebla"
+    Title: "00 Liga MX 1900 America vs Puebla"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png"
@@ -7282,7 +7282,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "Liga MX 2100 Mazatlan vs Santos Laguna"
+    Title: "00 Liga MX 2100 Mazatlan vs Santos Laguna"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png"
@@ -7293,7 +7293,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "Liga MX 2105 Monterrey vs Juarez"
+    Title: "00 Liga MX 2105 Monterrey vs Juarez"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png"
@@ -7337,7 +7337,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "UCL 1300 Union SaintGilloise vs Internazionale"
+    Title: "01 UCL 1300 Union SaintGilloise vs Internazionale"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.citypng.com/public/uploads/preview/hd-uefa-champions-league-ball-white-logo-transparent-png-701751712242497cok6mn78lr.png"
@@ -7348,7 +7348,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "UCL 1300 PSV vs Napoli"
+    Title: "01 UCL 1300 PSV vs Napoli"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.citypng.com/public/uploads/preview/hd-uefa-champions-league-ball-white-logo-transparent-png-701751712242497cok6mn78lr.png"
@@ -7359,7 +7359,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "UCL 1300 Bayer Leverkusen vs PSG"
+    Title: "01 UCL 1300 Bayer Leverkusen vs PSG"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.citypng.com/public/uploads/preview/hd-uefa-champions-league-ball-white-logo-transparent-png-701751712242497cok6mn78lr.png"
@@ -7370,7 +7370,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "UCL 1300 København vs Borussia Dortmund"
+    Title: "01 UCL 1300 København vs Borussia Dortmund"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.citypng.com/public/uploads/preview/hd-uefa-champions-league-ball-white-logo-transparent-png-701751712242497cok6mn78lr.png"
@@ -7381,7 +7381,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "UCL 1300 Villarreal vs Manchester City"
+    Title: "01 UCL 1300 Villarreal vs Manchester City"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.citypng.com/public/uploads/preview/hd-uefa-champions-league-ball-white-logo-transparent-png-701751712242497cok6mn78lr.png"
@@ -7392,7 +7392,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "UCL 1300 Newcastle United vs Benfica"
+    Title: "01 UCL 1300 Newcastle United vs Benfica"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.citypng.com/public/uploads/preview/hd-uefa-champions-league-ball-white-logo-transparent-png-701751712242497cok6mn78lr.png"
@@ -7496,6 +7496,61 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21395"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP 2000 Venados de Mazatlan vs Caneros de Los Mochis"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21396"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP 2030 Aguilas de Mexicali vs Charros de Jalisco"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21397"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP 2030 Algodoneros de Guasave vs Tucson"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21398"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP 2030 Jaguares de Nayarit vs Tomateros de Culiacan"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21399"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP 2030 Naranjeros de Hermosillo vs Yaquis de Obregon"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21400"
     Live: true
     Country: "us"
     Tag: "General"
