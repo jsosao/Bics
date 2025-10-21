@@ -220,28 +220,6 @@
 }
 {
     Artist: "Alfa"
-    Title: "01 UCL 1045 Barcelona vs Olympiakos Piraeus"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uefa_champions.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21375"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
-    Title: "01 UCL 1045 Kairat vs Paphos"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uefa_champions.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21376"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Alfa"
     Title: "01 UCL 1300 Arsenal vs Atletico Madrid"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
