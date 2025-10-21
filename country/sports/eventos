@@ -176,7 +176,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "Liga MX 1900 Necaxa vs Cruz Azul"
+    Title: "00 Liga MX 1900 Necaxa vs Cruz Azul"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_liga_mx.png"
@@ -187,7 +187,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "Liga MX 1900 America vs Puebla"
+    Title: "00 Liga MX 1900 America vs Puebla"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_liga_mx.png"
@@ -198,7 +198,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "Liga MX 2100 Mazatlan vs Santos Laguna"
+    Title: "00 Liga MX 2100 Mazatlan vs Santos Laguna"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_liga_mx.png"
@@ -209,7 +209,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "Liga MX 2105 Monterrey vs Juarez"
+    Title: "00 Liga MX 2105 Monterrey vs Juarez"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_liga_mx.png"
@@ -253,7 +253,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "UCL 1300 Union SaintGilloise vs Internazionale"
+    Title: "01 UCL 1300 Union SaintGilloise vs Internazionale"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uefa_champions.png"
@@ -264,7 +264,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "UCL 1300 PSV vs Napoli"
+    Title: "01 UCL 1300 PSV vs Napoli"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uefa_champions.png"
@@ -297,7 +297,7 @@
 }
 {
     Artist: "Alfa"
-    Title: "UCL 1300 Villarreal vs Manchester City"
+    Title: "01 UCL 1300 Villarreal vs Manchester City"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uefa_champions.png"
@@ -322,7 +322,7 @@
     Title: "Sudamericana 1830 Independiente del Valle vs Atletico Mineiro"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://logodownload.org/wp-content/uploads/2018/10/copa-sulamericana-logo-2.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/conmebol_sudamericana.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21384"
     Live: true
     Country: "us"
@@ -355,7 +355,7 @@
     Title: "Championship 1245 Hull City vs Leicester City"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_championship_epl.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21388"
     Live: true
     Country: "us"
@@ -366,7 +366,7 @@
     Title: "Championship 1245 Derby County vs Norwich City"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_championship_epl.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21389"
     Live: true
     Country: "us"
@@ -377,7 +377,7 @@
     Title: "Championship 1300 Bristol City vs Southampton"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_championship_epl.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21390"
     Live: true
     Country: "us"
@@ -412,6 +412,61 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21395"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP 2000 Venados de Mazatlan vs Caneros de Los Mochis"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_beisbol_lmp.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21396"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP 2030 Aguilas de Mexicali vs Charros de Jalisco"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_beisbol_lmp.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21397"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP 2030 Algodoneros de Guasave vs Tucson"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_beisbol_lmp.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21398"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP 2030 Jaguares de Nayarit vs Tomateros de Culiacan"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_beisbol_lmp.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21399"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP 2030 Naranjeros de Hermosillo vs Yaquis de Obregon"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_beisbol_lmp.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]21400"
     Live: true
     Country: "us"
     Tag: "General"
