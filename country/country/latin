@@ -4763,39 +4763,6 @@
 }
 {
     Artist: "Play"
-    Title: " PY  EVENTOS PY 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/MG1NbqNk/eventos-py-2.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384234"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Play"
-    Title: " PY  EVENTOS PY 3"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/Y9kVdTBv/eventos-py-3.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384235"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Play"
-    Title: " PY  EVENTOS PY 4"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/Y9kVdTBv/eventos-py-3.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384236"
-    Live: true
-    Country: "us"
-    Tag: "General"
-}
-{
-    Artist: "Play"
     Title: "UFC TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -4966,6 +4933,237 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "http://127.0.0.1/"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314330"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Play"
+    Title: " PY  EVENTOS PY 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/Y9kVdTBv/eventos-py-3.png"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384236"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Play"
+    Title: " PY  EVENTOS PY 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/Y9kVdTBv/eventos-py-3.png"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384235"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Play"
+    Title: " PY  EVENTOS PY 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/MG1NbqNk/eventos-py-2.png"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384234"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Play"
+    Title: "CANAL 23"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://mas23tv.com/wp-content/uploads/2020/02/logomas23.png"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314395"
+    Live: true
+    Country: "ca"
+    Tag: "General"
+}
+{
+    Artist: "Play"
+    Title: "HOLLYWOOD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://127.0.0.1/"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314373"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Play"
+    Title: "ANDALUCIA TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://127.0.0.1/"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314321"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Play"
+    Title: "CAZA Y PESCA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://127.0.0.1/"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314329"
+    Live: true
+    Country: "ca"
+    Tag: "General"
+}
+{
+    Artist: "Play"
+    Title: "24 HS Internacional"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://e7.pngegg.com/pngimages/601/849/png-clipart-24-horas-rtve-television-channel-canal-nostalgia-24-h-television-text.png"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314327"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Play"
+    Title: "NAT GEO  PLAYMOVIE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315872"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Play"
+    Title: "ANIMAL PLANET  PLAYMOVIE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315874"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Play"
+    Title: "ABC PY 41498"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://w7.pngwing.com/pngs/698/880/png-transparent-computer-icons-vendor-delivery-miscellaneous-blue-data-thumbnail.png"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]377794"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Play"
+    Title: "telefuturo provee"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]336783"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Play"
+    Title: "SNT PROVEE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]336784"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Play"
+    Title: "CNN PERU"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://playtv44.com:8080/images/c4ca4238a0b923820dcc509a6f75849b.png"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]217036"
+    Live: true
+    Country: "us"
+    Tag: "News"
+}
+{
+    Artist: "Play"
+    Title: "VENUS MEDIA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i0.wp.com/logoroga.com/wp-content/uploads/2012/04/venus.png?fit=500%2C375&ssl=1"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]388231"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Play"
+    Title: "EUROSPORT 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://127.0.0.1/"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314383"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Play"
+    Title: "TVE INTERNACIONAL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://127.0.0.1/"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314338"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Play"
+    Title: "MEGA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://127.0.0.1/"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314365"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Play"
+    Title: "FOX LIFE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://127.0.0.1/"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314372"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Play"
+    Title: "EUROSPORT 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://127.0.0.1/"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314384"
+    Live: true
+    Country: "us"
+    Tag: "General"
+}
+{
+    Artist: "Play"
+    Title: "LA 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/RVXLjN0C/LA-2.png"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314356"
     Live: true
     Country: "us"
     Tag: "General"
