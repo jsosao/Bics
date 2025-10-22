@@ -190,7 +190,17 @@
       "title": "NHL Pass",
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/nhl"      
     },
- 
+
+    {
+      "longDescription": "NBA - Basketball",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/nba.png",
+      "releaseDate": "2020-01-15",
+      "id": "NBA",
+      "shortDescription": "NBA",
+      "title": "NBA Pass",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/nba"      
+    },
+    
     {
       "longDescription": "24x7",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/24_7.png",
@@ -288,14 +298,14 @@
     },    
 
     {
-      "longDescription": "NBA - Basketball",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/nba.png",
+    "longDescription": "Zona",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/cutter.png",
       "releaseDate": "2020-01-15",
-      "id": "NBA",
-      "shortDescription": "NBA",
-      "title": "NBA Pass",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/nba"      
-    },
+      "id": "Zona",
+      "shortDescription": "Zona",
+      "title": "Zona",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/others/zona"      
+    },    
 
     {
     "longDescription": "LMB - Liga Mexicana de Beisbol",
