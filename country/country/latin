@@ -1,9 +1,20 @@
 {
     Artist: "Play"
+    Title: "De Pelicula Classic"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218795"
+    Live: true
+    Country: "us"
+    Tag: "Movies"
+}
+{
+    Artist: "Play"
     Title: "CINE LATINO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/JhjbjVdc/CINE-LATINO.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]12338"
     Live: true
     Country: "us"
@@ -14,7 +25,7 @@
     Title: "HBO MUNDI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/vB5ZzHQZ/HBO-MUNDI.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]12340"
     Live: true
     Country: "us"
@@ -25,7 +36,7 @@
     Title: "UNIVERSAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/G2n28RzF/UNIVERSAL.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]12347"
     Live: true
     Country: "us"
@@ -36,7 +47,7 @@
     Title: "FX  ts"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/W1mHrLGG/FX-International-logo-svg.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]12352"
     Live: true
     Country: "us"
@@ -47,7 +58,7 @@
     Title: "AMC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/WbkKNJtf/amc.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]12355"
     Live: true
     Country: "us"
@@ -58,7 +69,7 @@
     Title: "UNIVERSAL CRIME"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/rmGp5HYv/UNIVERSAL-CRIME.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]39370"
     Live: true
     Country: "us"
@@ -69,7 +80,7 @@
     Title: "HBO XTREME"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.ibb.co/yQQk3Vk/XTREME.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]39371"
     Live: true
     Country: "us"
@@ -1004,7 +1015,7 @@
     Title: "HBO FAMILY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.ibb.co/34ZnF8s/FAMILY.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]78377"
     Live: true
     Country: "us"
@@ -1015,7 +1026,7 @@
     Title: "HBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.ibb.co/GMcRNWY/HBO.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]78379"
     Live: true
     Country: "us"
@@ -1026,7 +1037,7 @@
     Title: "CINECANAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/nzWRZHxJ/CINECANAL.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]78381"
     Live: true
     Country: "us"
@@ -1037,7 +1048,7 @@
     Title: "UNIVERSAL COMEDY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/yxV8jTMW/UNIVERSAL-COMEDY.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]78383"
     Live: true
     Country: "us"
@@ -1048,7 +1059,7 @@
     Title: "UNIVERSAL PREMIER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/Gtqh5yRK/UNIVERSAL-Premier.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]78385"
     Live: true
     Country: "us"
@@ -1059,7 +1070,7 @@
     Title: "WARNER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.ibb.co/gSrJS1d/1200px-Warner-Channel-svg.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]78396"
     Live: true
     Country: "us"
@@ -1070,7 +1081,7 @@
     Title: "TNT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.ibb.co/dkDhX7n/TNT.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]78398"
     Live: true
     Country: "us"
@@ -1081,7 +1092,7 @@
     Title: "TCM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.ibb.co/ydrckRX/TCM.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]78399"
     Live: true
     Country: "us"
@@ -1092,7 +1103,7 @@
     Title: "STAR CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/ZRTJjpjs/Copia-de-Copia-de-Copia-de-Copia-de-E-COMMERCE-PRODUCTOS-ELECTRONICOS-2.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]83449"
     Live: true
     Country: "us"
@@ -1312,7 +1323,7 @@
     Title: "STUDIO UNIVERSAL HD1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.ibb.co/SVCpKvf/Studio-Universal.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]210939"
     Live: true
     Country: "us"
@@ -1433,7 +1444,7 @@
     Title: "Paramount Channel"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.ibb.co/GFVryK1/Copia-de-Copia-de-Copia-de-Copia-de-E-COMMERCE-PRODUCTOS-ELECTRONICOS-2-1.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]215673"
     Live: true
     Country: "us"
@@ -1543,7 +1554,7 @@
     Title: "HBO 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.ibb.co/99W1t8h/HBO-2.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218784"
     Live: true
     Country: "us"
@@ -1554,7 +1565,7 @@
     Title: "AXN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.ibb.co/2MGbGN0/axn.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218787"
     Live: true
     Country: "us"
@@ -1565,19 +1576,8 @@
     Title: "HBO PLUS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.ibb.co/cr56D6L/PLUS.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218791"
-    Live: true
-    Country: "us"
-    Tag: "Movies"
-}
-{
-    Artist: "Play"
-    Title: "De Pelicula Classic"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.ibb.co/12py1Vx/De-Pel-cula-Cl-sico.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218795"
     Live: true
     Country: "us"
     Tag: "Movies"
@@ -1587,7 +1587,7 @@
     Title: "CINEMAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/GmN9RGyS/Cinemax.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218796"
     Live: true
     Country: "us"
@@ -1598,7 +1598,7 @@
     Title: "SPACE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/ryBTNTr3/Space-Logo-svg.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218802"
     Live: true
     Country: "us"
@@ -1609,7 +1609,7 @@
     Title: "SONY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.ibb.co/gzV8SF9/sony-channel.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218804"
     Live: true
     Country: "us"
@@ -3534,7 +3534,7 @@
     Title: "GOLDEN PLUS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/Dwf57KQ4/GOLDEN_PLUS.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315893"
     Live: true
     Country: "us"
@@ -3545,7 +3545,7 @@
     Title: "GOLDEN PREMIER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/LsnTZBbH/GOLDEN_PREMIER.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315894"
     Live: true
     Country: "us"
@@ -4227,7 +4227,7 @@
     Title: "HBO POP"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/tJ5RKSn0/HBO-POP.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]338771"
     Live: true
     Country: "us"
@@ -4348,7 +4348,7 @@
     Title: "Universal Cinema"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png"
+    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]369751"
     Live: true
     Country: "us"
