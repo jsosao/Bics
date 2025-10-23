@@ -935,39 +935,6 @@
 }
 {
     Artist: "Zona"
-    Title: "Eventos Varios 6 Ciclismo"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/kW2397C.png"
-    Stream: "https[:[[/]][[/]]]213[.]111[.]152[.]253:443[/]play[/]aICicWKARzaIYzzAPXwR1mU7NZv5erlROEiUnUbNd1FbHzo3vDR1zzuk-b9h-cMx[/]ts"
-    Live: true
-    Country: "us"
-    Tag: "⭐ | eventos ppv del dia"
-}
-{
-    Artist: "Zona"
-    Title: "1600 Universidad de Chile vs CA Lanus op1"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/cl_liga_futbol.png"
-    Stream: "https[:[[/]][[/]]]213[.]111[.]152[.]253:443[/]play[/]aICicWKARzaIYzzAPXwR1mU7NZv5erlROEiUnUbNd1HsABJEgvunWJag-xvkOPQx[/]ts"
-    Live: true
-    Country: "us"
-    Tag: "⭐ | eventos ppv del dia"
-}
-{
-    Artist: "Zona"
-    Title: "1600 Universidad de Chile vs CA Lanus op2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/cl_liga_futbol.png"
-    Stream: "https[:[[/]][[/]]]213[.]111[.]152[.]253:443[/]play[/]aICicWKARzaIYzzAPXwR1mU7NZv5erlROEiUnUbNd1GG8U_rCZ0lo1qebH8pw_0g[/]ts"
-    Live: true
-    Country: "us"
-    Tag: "⭐ | eventos ppv del dia"
-}
-{
-    Artist: "Zona"
     Title: "1730 Oklahoma City Thunder vs Indiana Pacers"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -1012,28 +979,6 @@
 }
 {
     Artist: "Zona"
-    Title: "1830 LDU vs Palmeiras op1"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/PEWvFD2.png"
-    Stream: "https[:[[/]][[/]]]213[.]111[.]152[.]253:443[/]play[/]aICicWKARzaIYzzAPXwR1mU7NZv5erlROEiUnUbNd1HlLGqoTPIxOfqGAVeZ_2zO[/]ts"
-    Live: true
-    Country: "us"
-    Tag: "⭐ | eventos ppv del dia"
-}
-{
-    Artist: "Zona"
-    Title: "1830 LDU vs Palmeiras op2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/PEWvFD2.png"
-    Stream: "https[:[[/]][[/]]]213[.]111[.]152[.]253:443[/]play[/]aICicWKARzaIYzzAPXwR1mU7NZv5erlROEiUnUbNd1HjWRgB7DbcAzgNAtBbbkNM[/]ts"
-    Live: true
-    Country: "us"
-    Tag: "⭐ | eventos ppv del dia"
-}
-{
-    Artist: "Zona"
     Title: "1900 Club Sporting Cristal vs Universitario de Deportes"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -1064,4 +1009,26 @@
     Live: true
     Country: "us"
     Tag: "⭐ | eventos ppv del dia"
+}
+{
+    Artist: "Zona"
+    Title: "LIBERTADORES 01  1930 LDU QUITO vs Palmeiras  2310"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/conmebol_libertadores.png"
+    Stream: "https[:[[/]][[/]]]213[.]111[.]152[.]253:443[/]play[/]aICicWKARzaIYzzAPXwR1mU7NZv5erlROEiUnUbNd1HZKeHLBW_1oLfzRCvFxKn5[/]ts"
+    Live: true
+    Country: "us"
+    Tag: "⭐️ | eventos conmebol"
+}
+{
+    Artist: "Zona"
+    Title: "LIBERTADORES 02  1930 LDU QUITO vs Palmeiras 2310"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/conmebol_libertadores.png"
+    Stream: "https[:[[/]][[/]]]213[.]111[.]152[.]253:443[/]play[/]aICicWKARzaIYzzAPXwR1mU7NZv5erlROEiUnUbNd1EgvdsYYBlEAR6j_3MtQvV-[/]ts"
+    Live: true
+    Country: "us"
+    Tag: "⭐️ | eventos conmebol"
 }
