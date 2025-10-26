@@ -264,17 +264,6 @@
 }
 {
     Artist: "Proyecto"
-    Title: "Nickelodeon"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://static.wikia.nocookie.net/logopedia/images/e/ee/Nickelodeon_1993.svg/revision/latest?cb=20210820185041&path-prefix=es"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]9880"
-    Live: true
-    Country: "us"
-    Tag: "canales-infantiles"
-}
-{
-    Artist: "Proyecto"
     Title: "Nicktoon"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
