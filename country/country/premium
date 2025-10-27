@@ -4631,7 +4631,7 @@
 }
 {
     Artist: "Proyecto"
-    Title: "PPV 1  Real Madrid Vs  Barcelona"
+    Title: "PPV 1 "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/0jbbYF3T/PPV1.png"
@@ -4642,7 +4642,7 @@
 }
 {
     Artist: "Proyecto"
-    Title: "PPV 2  Real Madrid Vs  Barcelona"
+    Title: "PPV 2 "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/0jbbYF3T/PPV1.png"
@@ -4653,7 +4653,7 @@
 }
 {
     Artist: "Proyecto"
-    Title: "PPV 3  Real Madrid Vs  Barcelona"
+    Title: "PPV 3 "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/0jbbYF3T/PPV1.png"
@@ -4664,7 +4664,7 @@
 }
 {
     Artist: "Proyecto"
-    Title: "PPV 4  Real Madrid Vs  Barcelona"
+    Title: "PPV 4 "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/0jbbYF3T/PPV1.png"
@@ -4727,6 +4727,149 @@
     Live: true
     Country: "us"
     Tag: "ecuador"
+}
+{
+    Artist: "Proyecto"
+    Title: "LaLigaES  1400 Hrs  Real Betis vs Atletico Madrid"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/sp_la_liga.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]153999"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Proyecto"
+    Title: " 1300 Hrs  Barracas Central vs Boca Juniors"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ar_primera_nacional.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]154000"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Proyecto"
+    Title: "League One 1400 Port Vale vs Stockport County"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://c0.klipartz.com/pngpicture/385/872/gratis-png-2017-18-efl-campeonato-2018-19-efl-campeonato-liga-de-futbol-inglesa-efl-cup-premier-league-premier-league-thumbnail.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]154001"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Proyecto"
+    Title: "Turquia 1100 Gaziantep FK vs Fenerbahce"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/2160px-S%C3%BCper_Lig_logo.svg_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]154002"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Proyecto"
+    Title: "CL  1500 Hrs  ColoColo vs Deportes Limache"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/cl_liga_futbol.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]154005"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Proyecto"
+    Title: "Colombia 1845 Deportivo Pasto vs Deportivo Pereira"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/co_dimayor.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]154006"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Proyecto"
+    Title: "ATP  1200 Rolex Paris Masters"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://b.fssta.com/uploads/application/leagues/logos/ATP.vresize.350.350.medium.0.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]154028"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Proyecto"
+    Title: "WTA  2100 Jiangxi Open  Court 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://miro.medium.com/v2/resize:fit:1400/1*vtXoq0YJQNMmSOg0TBFPfg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]154029"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Proyecto"
+    Title: "WTA  2100 Jiangxi Open  Centre Court"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://miro.medium.com/v2/resize:fit:1400/1*vtXoq0YJQNMmSOg0TBFPfg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]154030"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Proyecto"
+    Title: "1300 Barracas Central vs Boca Juniors"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/MukTXpS.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]154031"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Proyecto"
+    Title: "1400 Real Betis vs Atletico Madrid op1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/0VDZ93U.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]154032"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Proyecto"
+    Title: "1400 Real Betis vs Atletico Madrid op2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/0VDZ93U.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]154033"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Proyecto"
+    Title: "1415 Moreirense vs FC Porto"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/UxJfOWm.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]154034"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
