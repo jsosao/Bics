@@ -623,7 +623,7 @@
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]66372"
     Live: true
     Country: "br"
-    Tag: "canales de brasil"
+    Tag: "canales de deportes"
 }
 {
     Artist: "Play"
@@ -4968,17 +4968,6 @@
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314329"
     Live: true
     Country: "ca"
-    Tag: "canales de españa"
-}
-{
-    Artist: "Play"
-    Title: "24 HS Internacional"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://e7.pngegg.com/pngimages/601/849/png-clipart-24-horas-rtve-television-channel-canal-nostalgia-24-h-television-text.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314327"
-    Live: true
-    Country: "us"
     Tag: "canales de españa"
 }
 {
