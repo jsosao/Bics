@@ -1859,7 +1859,7 @@
 }
 {
     Artist: "Gama"
-    Title: " 1  LDU Quito vs Palmeiras 830 PM  EXCLUSIVO ᵁᴴᴰ"
+    Title: " 1  Racing Club vs Flamengo 830 PM  EXCLUSIVO ᵁᴴᴰ"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/CL9tRQYT/Commebol-Libertadores.png"
@@ -1870,7 +1870,7 @@
 }
 {
     Artist: "Gama"
-    Title: " 2  LDU Quito vs Palmeiras 830 PM  EXCLUSIVO ᵁᴴᴰ"
+    Title: " 2  Racing Club vs Flamengo 830 PM  EXCLUSIVO ᵁᴴᴰ"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/CL9tRQYT/Commebol-Libertadores.png"
@@ -1991,10 +1991,10 @@
 }
 {
     Artist: "Gama"
-    Title: "ⱽᴵᴾ 0  Al Nassr vs Al Ittihad ¹⁹²⁰ 200 PM  EXCLUSIVO ᵁᴴᴰ"
+    Title: "ⱽᴵᴾ 0  Wolverhampton Wanderers vs Chelsea ¹⁹²⁰ 345 PM  EXCLUSIVO ᵁᴴᴰ"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/KY0h3Y4K/Logo-UCL.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/pt_primera_division.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]264555"
     Live: true
     Country: "us"
@@ -6956,7 +6956,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "s:1:/images/384cda8779e10433117fe41ed792eb55.png"
-    Stream: "https[:[[/]][[/]]]cbcrclinear-tor[.]akamaized[.]net[/]hls[/]live[/]2042760[/]CBCRCLINEAR_TOR_6[/]master5[.]m3u8"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]271209"
     Live: true
     Country: "ca"
     Tag: "⚪ | canada"
@@ -9229,18 +9229,7 @@
 }
 {
     Artist: "Gama"
-    Title: "Mx Afizzionados"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/P5MYBKbM/afizzionados.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]720998"
-    Live: true
-    Country: "us"
-    Tag: "⭐ mexico ⭐"
-}
-{
-    Artist: "Gama"
-    Title: "UR  TV CIUDAD  OP01"
+    Title: "UR  TV CIUDAD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL-CxriqUuNC_JAqcs_cRunfBPfmfwBe0-cw&s"
@@ -9284,7 +9273,7 @@
 }
 {
     Artist: "Gama"
-    Title: "VTV OPCION 1"
+    Title: "VTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://lista.lamtv.site:80/images/8c6dce10e25d279faf27bc42af1e86cf.png"
@@ -9361,17 +9350,6 @@
 }
 {
     Artist: "Gama"
-    Title: "CANAL 12  OP01"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://lista.lamtv.site:80/images/ebd04b72f4e328f6c869e6525405e4ac.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]722471"
-    Live: true
-    Country: "ca"
-    Tag: "⚪ | uruguay"
-}
-{
-    Artist: "Gama"
     Title: "CANAL 10  OP02"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -9383,7 +9361,7 @@
 }
 {
     Artist: "Gama"
-    Title: "AV OPCION 1"
+    Title: "AV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://lista.lamtv.site:80/images/0b80141d04d7aeff764bcd609d819a3b.png"
@@ -12071,7 +12049,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "s:1:/images/ecec9680c0cec48e4988b38eda944465.png"
-    Stream: "http[:[[/]][[/]]]visionalista[.]digital:8080[/]alexandercafr[/]564657544---54[/]119"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]271218"
     Live: true
     Country: "ca"
     Tag: "⚪ | canada"
@@ -12107,6 +12085,28 @@
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]271221"
     Live: true
     Country: "ca"
+    Tag: "⚪ | canada"
+}
+{
+    Artist: "Gama"
+    Title: "NOOVO CINEMA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/P5MYBKbM/afizzionados.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]720998"
+    Live: true
+    Country: "us"
+    Tag: "⚪ | canada"
+}
+{
+    Artist: "Gama"
+    Title: "NOOVO COMEDIES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]722471"
+    Live: true
+    Country: "us"
     Tag: "⚪ | canada"
 }
 {
