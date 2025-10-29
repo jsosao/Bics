@@ -2123,17 +2123,6 @@
 }
 {
     Artist: "Gama"
-    Title: "ⱽᴵᴾ 12  Montreal vs Edmonton Oilers ¹²⁸⁰ 900 PM  EXCLUSIVO ᵁᴴᴰ   ᵁᴴᴰ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/DzwNWJ0X/PPV.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]376261"
-    Live: true
-    Country: "us"
-    Tag: "⭐ wrestling superstars ⭐"
-}
-{
-    Artist: "Gama"
     Title: "  W W E  Event  LIVE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -11924,11 +11913,22 @@
 }
 {
     Artist: "Gama"
-    Title: "CAN  CANAL D FR"
+    Title: "CAN  CANAL D"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "s:1:/images/e2d969ff963b71c8b10964cf18f0cf00.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]281690"
+    Live: true
+    Country: "ca"
+    Tag: "⚪ | canada"
+}
+{
+    Artist: "Gama"
+    Title: "CAN  CANAL VIE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]376261"
     Live: true
     Country: "ca"
     Tag: "⚪ | canada"
@@ -11946,44 +11946,33 @@
 }
 {
     Artist: "Gama"
-    Title: "CAN  TVA FR"
+    Title: "CAN  CP24"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "s:1:/images/ecec9680c0cec48e4988b38eda944465.png"
-    Stream: "http[:[[/]][[/]]]visionalista[.]digital:8080[/]alexandercafr[/]564657544---54[/]119"
+    Logo: "s:1:/images/e6ba5d53863b9ad93c5f6bae0b6b9864.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]279880"
     Live: true
     Country: "ca"
     Tag: "⚪ | canada"
 }
 {
     Artist: "Gama"
-    Title: "CAN  TVA SPORTS FR"
+    Title: "CAN  CITY TV NEWS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "s:1:/images/ecec9680c0cec48e4988b38eda944465.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]271219"
+    Logo: "s:1:/images/30141a3b492e0da3902d2f13bd414069.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]281116"
     Live: true
     Country: "ca"
     Tag: "⚪ | canada"
 }
 {
     Artist: "Gama"
-    Title: "CAN  TVA SPORTS 2 FR"
+    Title: "CAN  CITY TV TORONTO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "s:1:/images/ecec9680c0cec48e4988b38eda944465.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]271220"
-    Live: true
-    Country: "ca"
-    Tag: "⚪ | canada"
-}
-{
-    Artist: "Gama"
-    Title: "CAN  TELE QUEBEC FR"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "s:1:/images/114873846683c6abf580f2395c05f97c.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]271221"
+    Logo: "s:1:/images/7fcb4ac1a6e20e46716a9bdc6fb8664d.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]271214"
     Live: true
     Country: "ca"
     Tag: "⚪ | canada"
@@ -11995,17 +11984,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "s:1:/images/c91d21d21f1d270674780f881d722583.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]278026"
-    Live: true
-    Country: "ca"
-    Tag: "⚪ | canada"
-}
-{
-    Artist: "Gama"
-    Title: "CAN  CP24"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "s:1:/images/e6ba5d53863b9ad93c5f6bae0b6b9864.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]279880"
     Live: true
     Country: "ca"
     Tag: "⚪ | canada"
@@ -12089,22 +12067,44 @@
 }
 {
     Artist: "Gama"
-    Title: "CAN  CITY TV NEWS"
+    Title: "CAN  TVA FR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "s:1:/images/30141a3b492e0da3902d2f13bd414069.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]281116"
+    Logo: "s:1:/images/ecec9680c0cec48e4988b38eda944465.png"
+    Stream: "http[:[[/]][[/]]]visionalista[.]digital:8080[/]alexandercafr[/]564657544---54[/]119"
     Live: true
     Country: "ca"
     Tag: "⚪ | canada"
 }
 {
     Artist: "Gama"
-    Title: "CAN  CITY TV TORONTO"
+    Title: "CAN  TVA SPORTS FR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "s:1:/images/7fcb4ac1a6e20e46716a9bdc6fb8664d.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]271214"
+    Logo: "s:1:/images/ecec9680c0cec48e4988b38eda944465.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]271219"
+    Live: true
+    Country: "ca"
+    Tag: "⚪ | canada"
+}
+{
+    Artist: "Gama"
+    Title: "CAN  TVA SPORTS 2 FR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "s:1:/images/ecec9680c0cec48e4988b38eda944465.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]271220"
+    Live: true
+    Country: "ca"
+    Tag: "⚪ | canada"
+}
+{
+    Artist: "Gama"
+    Title: "CAN  TELE QUEBEC FR"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "s:1:/images/114873846683c6abf580f2395c05f97c.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]271221"
     Live: true
     Country: "ca"
     Tag: "⚪ | canada"
