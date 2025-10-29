@@ -1287,28 +1287,6 @@
 }
 {
     Artist: "Gama"
-    Title: "PER Viva TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.ibb.co/JQccrsk/vivatv.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]207045"
-    Live: true
-    Country: "us"
-    Tag: "⭐ peru ⭐"
-}
-{
-    Artist: "Gama"
-    Title: "PER Viva TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.ibb.co/JQccrsk/vivatv.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99517"
-    Live: true
-    Country: "us"
-    Tag: "⭐ peru ⭐"
-}
-{
-    Artist: "Gama"
     Title: "PER Willax TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -1834,17 +1812,6 @@
     Live: true
     Country: "us"
     Tag: "⭐ eventos del dia ⭐"
-}
-{
-    Artist: "Gama"
-    Title: "EC DTV  ᴱᑦᵁᴬᴰᴼᴿ  EXCLUSIVO ᵁᴴᴰ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/Kvs5YDj7/DSports.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]815296"
-    Live: true
-    Country: "us"
-    Tag: "⭐ ecuador ~ vip ⭐"
 }
 {
     Artist: "Gama"
@@ -2923,6 +2890,39 @@
     Live: true
     Country: "us"
     Tag: "⭐ deportes ⓥⓘⓟ ⭐"
+}
+{
+    Artist: "Gama"
+    Title: "EC DTV  ᴱᑦᵁᴬᴰᴼᴿ  EXCLUSIVO ᵁᴴᴰ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/Kvs5YDj7/DSports.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]815296"
+    Live: true
+    Country: "us"
+    Tag: "⭐ ecuador ~ vip ⭐"
+}
+{
+    Artist: "Gama"
+    Title: "PER Viva TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.ibb.co/JQccrsk/vivatv.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]99517"
+    Live: true
+    Country: "us"
+    Tag: "⭐ peru ⭐"
+}
+{
+    Artist: "Gama"
+    Title: "PER Viva TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.ibb.co/JQccrsk/vivatv.png"
+    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]207045"
+    Live: true
+    Country: "us"
+    Tag: "⭐ peru ⭐"
 }
 {
     Artist: "Gama"
