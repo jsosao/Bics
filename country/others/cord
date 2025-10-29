@@ -14608,17 +14608,6 @@
 }
 {
     Artist: "Cord"
-    Title: "US NHL Network"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]20179"
-    Live: true
-    Country: "us"
-    Tag: "nhl"
-}
-{
-    Artist: "Cord"
     Title: "MLB 02 Los Angeles Dodgers  Toronto Blue Jays  Away Stream  800 PM ET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -16005,320 +15994,265 @@
 }
 {
     Artist: "Cord"
-    Title: "NBA 01 Cleveland Cavaliers  Detroit Pistons  Home Stream  10272025 700 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253607"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "USA Real NBA 01 Cleveland Cavaliers vs Detroit Pistons  0700 PM"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253608"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "NBA 02 Cleveland Cavaliers  Detroit Pistons  Away Stream  10272025 700 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253609"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "USA Real NBA 02 Orlando Magic vs Philadelphia 76ers  0700 PM"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253610"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "NBA 03 Atlanta Hawks  Chicago Bulls  Away Stream  10272025 800 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253611"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "USA Real NBA 03 Atlanta Hawks vs Chicago Bulls  0800 PM"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253612"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "NBA 04 Atlanta Hawks  Chicago Bulls  Home Stream  10272025 800 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253613"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "USA Real NBA 04 Brooklyn Nets vs Houston Rockets  0800 PM"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253614"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "NBA 05 Brooklyn Nets  Houston Rockets  Away Stream  10272025 800 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253615"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "USA Real NBA 05 Boston Celtics vs New Orleans Pelicans  0800 PM"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253616"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "NBA 06 Brooklyn Nets  Houston Rockets  Home Stream  10272025 800 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253617"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "USA Real NBA 06 Toronto Raptors vs San Antonio Spurs  0800 PM"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253618"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "NBA 07 Boston Celtics  New Orleans Pelicans  Away Stream  10272025 800 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253619"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "USA Real NBA 07 Oklahoma City Thunder vs Dallas Mavericks  0830 PM"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253620"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "NBA 08 Boston Celtics  New Orleans Pelicans  Home Stream  10272025 800 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253621"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "USA Real NBA 08 Phoenix Suns vs Utah Jazz  0900 PM"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253622"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "NBA 09 Toronto Raptors  San Antonio Spurs  Away Stream  10272025 800 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253623"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "USA Real NBA 09 Denver Nuggets vs Minnesota Timberwolves  0930 PM"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253624"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "NBA 10 Toronto Raptors  San Antonio Spurs  Home Stream  10272025 800 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253625"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "USA Real NBA 10 Memphis Grizzlies vs Golden State Warriors  1000 PM"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253626"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "NBA 11 Oklahoma City Thunder  Dallas Mavericks  Home Stream  10272025 830 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253627"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "USA Real NBA 11 Portland Trail Blazers vs Los Angeles Lakers  1030 PM"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253628"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "NBA 12 Oklahoma City Thunder  Dallas Mavericks  Away Stream  10272025 830 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253629"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "NBA 13 Phoenix Suns  Utah Jazz  Home Stream  10272025 900 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253630"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "NBA 14 Phoenix Suns  Utah Jazz  Away Stream  10272025 900 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253631"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "USA Real NHL 01 STL VS PIT   700 pm"
+    Title: "US NHL Network"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253632"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253636"
     Live: true
     Country: "us"
     Tag: "nhl"
 }
 {
     Artist: "Cord"
-    Title: "USA Real NHL 02 BOS VS OTT   730 pm"
+    Title: "USA Real NHL 01 PIT VS PHI   600 pm"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253633"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253637"
     Live: true
     Country: "us"
     Tag: "nhl"
 }
 {
     Artist: "Cord"
-    Title: "USA Real NHL 03 BOS VS OTT   730 pm"
+    Title: "USA Real NHL 02 PIT VS PHI   600 pm"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253634"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253638"
     Live: true
     Country: "us"
     Tag: "nhl"
 }
 {
     Artist: "Cord"
-    Title: "USA Real NHL 04 BOS VS OTT   730 pm"
+    Title: "USA Real NHL 03 NYI VS BOS   715 pm"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253635"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253639"
     Live: true
     Country: "us"
     Tag: "nhl"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 04 NJD VS COL   900 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253640"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 05 UTA VS EDM   930 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253641"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 06 NYR VS VAN   1000 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253642"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 07 NYR VS VAN   1000 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253643"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 08 MTL VS SEA   1030 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253644"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 09 Calgary Flames vs Toronto Maple Leafs  0600 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253645"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 10 Vegas Golden Knights vs Carolina Hurricanes  0630 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253646"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 11 Columbus Blue Jackets vs Buffalo Sabres  0645 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253647"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 12 Anaheim Ducks vs Florida Panthers  0700 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253648"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 13 Tampa Bay Lightningvs Nashville Predators  0745 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253649"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 14 Winnipeg Jets vs Minnesota Wild  0800 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253650"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 15 Detroit Red Wings vs St  Louis Blues  0815 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253651"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 16 Washington Capitals vs Dallas Stars  0830 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253652"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 17 Ottawa Senators vs Chicago Blackhawks  0845 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253653"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 18 Los Angeles Kings vs San Jose Sharks  1100 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253654"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NBA 01 Philadelphia 76ers vs Washington Wizards  0700 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253655"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NBA 02 Charlotte Hornets vs Miami Heat  0730 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253656"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NBA 03 New York Knicks vs Milwaukee Bucks  0800 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253657"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NBA 04 Sacramento Kings vs Oklahoma City Thunder  0800 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253658"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NBA 05 LA Clippers vs Golden State Warriors  1100 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253659"
+    Live: true
+    Country: "us"
+    Tag: "nba"
 }
