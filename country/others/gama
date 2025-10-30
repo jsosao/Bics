@@ -9273,18 +9273,7 @@
 }
 {
     Artist: "Gama"
-    Title: "VTV PLUS OPCION 1"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://lista.lamtv.site:80/images/8eab12677e3fd403fb35f42ed27731ff.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]722466"
-    Live: true
-    Country: "us"
-    Tag: "⚪ | uruguay"
-}
-{
-    Artist: "Gama"
-    Title: "VTV PLUS OPCION 2"
+    Title: "VTV PLUS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://lista.lamtv.site:80/images/8eab12677e3fd403fb35f42ed27731ff.png"
@@ -9295,22 +9284,11 @@
 }
 {
     Artist: "Gama"
-    Title: "CANAL 4  OP01"
+    Title: "CANAL 4 "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://lista.lamtv.site:80/images/0d3ed24ef6f881af48292de6d08a4e09.png"
     Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]722468"
-    Live: true
-    Country: "ca"
-    Tag: "⚪ | uruguay"
-}
-{
-    Artist: "Gama"
-    Title: "CANAL 4  OP02"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://lista.lamtv.site:80/images/0d3ed24ef6f881af48292de6d08a4e09.png"
-    Stream: "http[:[[/]][[/]]]gama-mx[.]com:8085[/]EDGAR2022[/]EDGAR060722[/]722469"
     Live: true
     Country: "ca"
     Tag: "⚪ | uruguay"
@@ -9328,7 +9306,7 @@
 }
 {
     Artist: "Gama"
-    Title: "CANAL 10  OP02"
+    Title: "CANAL 10 "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://lista.lamtv.site:80/images/ebd04b72f4e328f6c869e6525405e4ac.png"
