@@ -3,7 +3,7 @@
     Title: "De Pelicula Classic"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218795"
     Live: true
     Country: "us"
@@ -11,10 +11,21 @@
 }
 {
     Artist: "Play"
+    Title: "CNN PERU"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/pXD43QZP/CNN.png"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]217036"
+    Live: true
+    Country: "us"
+    Tag: "canales de noticias"
+}
+{
+    Artist: "Play"
     Title: "CINE LATINO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]12338"
     Live: true
     Country: "us"
@@ -25,7 +36,7 @@
     Title: "HBO MUNDI"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]12340"
     Live: true
     Country: "us"
@@ -36,7 +47,7 @@
     Title: "UNIVERSAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]12347"
     Live: true
     Country: "us"
@@ -47,7 +58,7 @@
     Title: "FX  ts"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]12352"
     Live: true
     Country: "us"
@@ -58,7 +69,7 @@
     Title: "AMC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]12355"
     Live: true
     Country: "us"
@@ -69,7 +80,7 @@
     Title: "UNIVERSAL CRIME"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]39370"
     Live: true
     Country: "us"
@@ -80,7 +91,7 @@
     Title: "HBO XTREME"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]39371"
     Live: true
     Country: "us"
@@ -91,7 +102,7 @@
     Title: "PY  CANAL 13"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/XN1H5rqG/trece.png"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]41493"
     Live: true
     Country: "us"
@@ -190,7 +201,7 @@
     Title: "Tru TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/jSQrJgqY/TRU-TV.png"
+    Logo: "https://i.postimg.cc/h4QJBvNB/ENTRENTENIMIENT.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]52603"
     Live: true
     Country: "us"
@@ -201,7 +212,7 @@
     Title: "TLN Novelas"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/SN94mQws/TL-NOVELAS.png"
+    Logo: "https://i.postimg.cc/h4QJBvNB/ENTRENTENIMIENT.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]52604"
     Live: true
     Country: "us"
@@ -212,7 +223,7 @@
     Title: "GALAVISION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/9fL5LDqx/GALAVISION.png"
+    Logo: "https://i.postimg.cc/h4QJBvNB/ENTRENTENIMIENT.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]52607"
     Live: true
     Country: "us"
@@ -223,7 +234,7 @@
     Title: "EL GOURMET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/W3LwZn5g/EL-GOURMET.png"
+    Logo: "https://i.postimg.cc/h4QJBvNB/ENTRENTENIMIENT.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]52608"
     Live: true
     Country: "us"
@@ -234,7 +245,7 @@
     Title: "Lifetime"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/dttmGDjH/LIFETIME.png"
+    Logo: "https://i.postimg.cc/h4QJBvNB/ENTRENTENIMIENT.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]52609"
     Live: true
     Country: "us"
@@ -245,7 +256,7 @@
     Title: "Food Network"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/0NJCr309/FOOD-NETWORK.png"
+    Logo: "https://i.postimg.cc/h4QJBvNB/ENTRENTENIMIENT.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]52611"
     Live: true
     Country: "us"
@@ -256,7 +267,7 @@
     Title: "Pasiones"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/rwD1Ybb5/PASIONES.png"
+    Logo: "https://i.postimg.cc/h4QJBvNB/ENTRENTENIMIENT.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]52616"
     Live: true
     Country: "us"
@@ -267,7 +278,7 @@
     Title: "Telemundo Internacional"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/FR40zKKx/TELEMUNDO.png"
+    Logo: "https://i.postimg.cc/h4QJBvNB/ENTRENTENIMIENT.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]52621"
     Live: true
     Country: "us"
@@ -289,7 +300,7 @@
     Title: "HISTORY 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/vTm7WPv8/history-2.png"
+    Logo: "https://i.postimg.cc/Jzhds3Rv/animal-planet.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]52662"
     Live: true
     Country: "us"
@@ -300,7 +311,7 @@
     Title: "DISCOVERY SCIENCE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/43yQH4X7/tlc.png"
+    Logo: "https://i.postimg.cc/Jzhds3Rv/animal-planet.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]52663"
     Live: true
     Country: "us"
@@ -311,7 +322,7 @@
     Title: "DISCOVERY THEATER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/BZhBq0qj/discovery-theater.png"
+    Logo: "https://i.postimg.cc/Jzhds3Rv/animal-planet.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]52666"
     Live: true
     Country: "us"
@@ -322,7 +333,7 @@
     Title: "DISCOVER TLC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/FHSygk0S/tlc.png"
+    Logo: "https://i.postimg.cc/Jzhds3Rv/animal-planet.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]52667"
     Live: true
     Country: "us"
@@ -333,7 +344,7 @@
     Title: "HISTORY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/28MdZ7Lm/history.png"
+    Logo: "https://i.postimg.cc/Jzhds3Rv/animal-planet.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]52668"
     Live: true
     Country: "us"
@@ -355,7 +366,7 @@
     Title: "INVESTIGATION DISCOVERY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/wx252s3y/investigation.png"
+    Logo: "https://i.postimg.cc/Jzhds3Rv/animal-planet.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]52674"
     Live: true
     Country: "us"
@@ -366,7 +377,7 @@
     Title: "ANIMAL PLANET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/Rhb7GcP7/animal-planet.png"
+    Logo: "https://i.postimg.cc/Jzhds3Rv/animal-planet.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]52676"
     Live: true
     Country: "us"
@@ -377,7 +388,7 @@
     Title: "DISCOVERY CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/jdLQ2F5Z/discovery-chanel.png"
+    Logo: "https://i.postimg.cc/Jzhds3Rv/animal-planet.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]52677"
     Live: true
     Country: "us"
@@ -652,7 +663,7 @@
     Title: "TELEMUNDO PUERTO RICO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/FR40zKKx/TELEMUNDO.png"
+    Logo: "https://i.postimg.cc/h4QJBvNB/ENTRENTENIMIENT.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]67697"
     Live: true
     Country: "us"
@@ -663,7 +674,7 @@
     Title: "LAS ESTRELLAS MX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/pTfYJFS7/LAS-ESTRELLAS.png"
+    Logo: "https://i.postimg.cc/h4QJBvNB/ENTRENTENIMIENT.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]67700"
     Live: true
     Country: "us"
@@ -858,17 +869,6 @@
 }
 {
     Artist: "Play"
-    Title: "Tv GRACIA  COLOMBIA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/co_dimayor.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]72772"
-    Live: true
-    Country: "us"
-    Tag: "canales evangelios"
-}
-{
-    Artist: "Play"
     Title: "FULL URBANO  COLOMBIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -1015,7 +1015,7 @@
     Title: "HBO FAMILY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]78377"
     Live: true
     Country: "us"
@@ -1026,7 +1026,7 @@
     Title: "HBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]78379"
     Live: true
     Country: "us"
@@ -1037,7 +1037,7 @@
     Title: "CINECANAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]78381"
     Live: true
     Country: "us"
@@ -1048,7 +1048,7 @@
     Title: "UNIVERSAL COMEDY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]78383"
     Live: true
     Country: "us"
@@ -1059,7 +1059,7 @@
     Title: "UNIVERSAL PREMIER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]78385"
     Live: true
     Country: "us"
@@ -1070,7 +1070,7 @@
     Title: "WARNER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]78396"
     Live: true
     Country: "us"
@@ -1081,7 +1081,7 @@
     Title: "TNT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]78398"
     Live: true
     Country: "us"
@@ -1092,7 +1092,7 @@
     Title: "TCM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]78399"
     Live: true
     Country: "us"
@@ -1103,7 +1103,7 @@
     Title: "STAR CHANNEL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]83449"
     Live: true
     Country: "us"
@@ -1323,7 +1323,7 @@
     Title: "STUDIO UNIVERSAL HD1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]210939"
     Live: true
     Country: "us"
@@ -1444,7 +1444,7 @@
     Title: "Paramount Channel"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]215673"
     Live: true
     Country: "us"
@@ -1466,7 +1466,7 @@
     Title: "CNN BRASIL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "http://playtv44.com:8080/images/c4ca4238a0b923820dcc509a6f75849b.png"
+    Logo: "https://i.postimg.cc/pXD43QZP/CNN.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]216137"
     Live: true
     Country: "br"
@@ -1488,7 +1488,7 @@
     Title: "CNN RUSIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "http://playtv44.com:8080/images/c4ca4238a0b923820dcc509a6f75849b.png"
+    Logo: "https://i.postimg.cc/pXD43QZP/CNN.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]217037"
     Live: true
     Country: "us"
@@ -1499,7 +1499,7 @@
     Title: "RCN NOVELAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/0Nmp9S9Q/RCN-NOVELAS.png"
+    Logo: "https://i.postimg.cc/h4QJBvNB/ENTRENTENIMIENT.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]217039"
     Live: true
     Country: "us"
@@ -1510,7 +1510,7 @@
     Title: "CNN NOTICIAS SALVADOR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "http://playtv44.com:8080/images/c4ca4238a0b923820dcc509a6f75849b.png"
+    Logo: "https://i.postimg.cc/pXD43QZP/CNN.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]217046"
     Live: true
     Country: "us"
@@ -1521,7 +1521,7 @@
     Title: "CNN USA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "http://playtv44.com:8080/images/c4ca4238a0b923820dcc509a6f75849b.png"
+    Logo: "https://i.postimg.cc/pXD43QZP/CNN.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]217047"
     Live: true
     Country: "us"
@@ -1532,19 +1532,8 @@
     Title: "CNN LATINO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "http://playtv44.com:8080/images/c4ca4238a0b923820dcc509a6f75849b.png"
+    Logo: "https://i.postimg.cc/pXD43QZP/CNN.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]217051"
-    Live: true
-    Country: "us"
-    Tag: "canales de noticias"
-}
-{
-    Artist: "Play"
-    Title: "CNN  TURKIA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://playtv44.com:8080/images/c4ca4238a0b923820dcc509a6f75849b.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]217054"
     Live: true
     Country: "us"
     Tag: "canales de noticias"
@@ -1554,7 +1543,7 @@
     Title: "HBO 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218784"
     Live: true
     Country: "us"
@@ -1565,7 +1554,7 @@
     Title: "AXN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218787"
     Live: true
     Country: "us"
@@ -1576,7 +1565,7 @@
     Title: "HBO PLUS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218791"
     Live: true
     Country: "us"
@@ -1587,7 +1576,7 @@
     Title: "CINEMAX"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218796"
     Live: true
     Country: "us"
@@ -1598,7 +1587,7 @@
     Title: "SPACE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218802"
     Live: true
     Country: "us"
@@ -1609,7 +1598,7 @@
     Title: "SONY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218804"
     Live: true
     Country: "us"
@@ -1713,17 +1702,6 @@
     Live: true
     Country: "us"
     Tag: "canales de puerto rico"
-}
-{
-    Artist: "Play"
-    Title: "E! Entertainment"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://playtv44.com:8080/images/f88682e6a0c375880761eccdf5a33335.jpg"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218832"
-    Live: true
-    Country: "us"
-    Tag: "canales de entretenimieto"
 }
 {
     Artist: "Play"
@@ -2049,7 +2027,7 @@
     Title: "DISCOVERY TURBO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/YSfQTcnq/turbo.png"
+    Logo: "https://i.postimg.cc/Jzhds3Rv/animal-planet.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]218988"
     Live: true
     Country: "us"
@@ -2291,7 +2269,7 @@
     Title: "REDE GOSPEL  BRAZIL PLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "http://playtv44.com:8080/images/324a14b01b57a5ae90e3161488ff9c01.png"
+    Logo: "https://i.postimg.cc/wBZ3ndqy/cristianos.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]242102"
     Live: true
     Country: "br"
@@ -2453,25 +2431,14 @@
 }
 {
     Artist: "Play"
-    Title: "GAMAVISION"
+    Title: "GAMAVISION  ECUADOR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "http://127.0.0.1/"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ec_liga_pro.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314220"
     Live: true
     Country: "us"
-    Tag: "canales de ecuador"
-}
-{
-    Artist: "Play"
-    Title: "TC TELEVISION"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314221"
-    Live: true
-    Country: "us"
-    Tag: "canales de ecuador"
+    Tag: "canales de otros paises"
 }
 {
     Artist: "Play"
@@ -2482,18 +2449,7 @@
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314223"
     Live: true
     Country: "us"
-    Tag: "canales de ecuador"
-}
-{
-    Artist: "Play"
-    Title: "EL CANAL DEL FUTBOL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314225"
-    Live: true
-    Country: "us"
-    Tag: "canales de ecuador"
+    Tag: "canales de otros paises"
 }
 {
     Artist: "Play"
@@ -2504,95 +2460,84 @@
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314227"
     Live: true
     Country: "us"
-    Tag: "canales de ecuador"
+    Tag: "canales de otros paises"
 }
 {
     Artist: "Play"
-    Title: "ECUADOR TV"
+    Title: "ECUADOR TV  ECUADOR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ec_liga_pro.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314228"
     Live: true
     Country: "us"
-    Tag: "canales de ecuador"
+    Tag: "canales de otros paises"
 }
 {
     Artist: "Play"
-    Title: "CANELA TV  ECUADOR"
+    Title: "ECUAVISA INTERNACIONAL  ECUADOR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ec_liga_pro.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314229"
-    Live: true
-    Country: "ca"
-    Tag: "canales de ecuador"
-}
-{
-    Artist: "Play"
-    Title: "ECUAVISA INTERNACIONAL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314230"
     Live: true
     Country: "us"
-    Tag: "canales de ecuador"
+    Tag: "canales de otros paises"
 }
 {
     Artist: "Play"
-    Title: "RTS"
+    Title: "RTS  ECUADOR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ec_liga_pro.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314231"
     Live: true
     Country: "us"
-    Tag: "canales de ecuador"
+    Tag: "canales de otros paises"
 }
 {
     Artist: "Play"
-    Title: "TVC"
+    Title: "TVC ECUADOR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ec_liga_pro.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314232"
     Live: true
     Country: "us"
-    Tag: "canales de ecuador"
+    Tag: "canales de otros paises"
 }
 {
     Artist: "Play"
-    Title: "GAMAVISION"
+    Title: "GAMAVISION  ECUADOR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ec_liga_pro.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314235"
     Live: true
     Country: "us"
-    Tag: "canales de ecuador"
+    Tag: "canales de otros paises"
 }
 {
     Artist: "Play"
-    Title: "TC TELEVISION"
+    Title: "TC TELEVISION  ECUADOR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ec_liga_pro.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314236"
     Live: true
     Country: "us"
-    Tag: "canales de ecuador"
+    Tag: "canales de otros paises"
 }
 {
     Artist: "Play"
-    Title: "TELEAMAZONAS QUITO"
+    Title: "TELEAMAZONAS QUITO  ECUADOR"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://cdn.pixabay.com/photo/2019/04/01/23/56/ecuador-4096689_960_720.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ec_liga_pro.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]314237"
     Live: true
     Country: "us"
-    Tag: "canales de ecuador"
+    Tag: "canales de otros paises"
 }
 {
     Artist: "Play"
@@ -2856,51 +2801,7 @@
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315532"
     Live: true
     Country: "us"
-    Tag: "canales de ecuador"
-}
-{
-    Artist: "Play"
-    Title: "ECOTEL TV  ECUADOR"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ec_liga_pro.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315533"
-    Live: true
-    Country: "us"
-    Tag: "canales de ecuador"
-}
-{
-    Artist: "Play"
-    Title: "TOP LATINO TV  ECUADOR"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ec_liga_pro.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315534"
-    Live: true
-    Country: "us"
-    Tag: "canales de ecuador"
-}
-{
-    Artist: "Play"
-    Title: "UNISIONTV  ECUADOR"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ec_liga_pro.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315535"
-    Live: true
-    Country: "us"
-    Tag: "canales de ecuador"
-}
-{
-    Artist: "Play"
-    Title: "RTU  ECUADOR"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ec_liga_pro.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315536"
-    Live: true
-    Country: "us"
-    Tag: "canales de ecuador"
+    Tag: "canales de otros paises"
 }
 {
     Artist: "Play"
@@ -3534,7 +3435,7 @@
     Title: "GOLDEN PLUS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315893"
     Live: true
     Country: "us"
@@ -3545,7 +3446,7 @@
     Title: "GOLDEN PREMIER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315894"
     Live: true
     Country: "us"
@@ -4073,30 +3974,8 @@
     Title: "Extrema TV  PLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://i.postimg.cc/wBZ3ndqy/cristianos.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327183"
-    Live: true
-    Country: "us"
-    Tag: "canales evangelios"
-}
-{
-    Artist: "Play"
-    Title: "CDM Internacional  PLAYMOVIE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327184"
-    Live: true
-    Country: "us"
-    Tag: "canales evangelios"
-}
-{
-    Artist: "Play"
-    Title: "Movie Fe  PLAYMOVIE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327187"
     Live: true
     Country: "us"
     Tag: "canales evangelios"
@@ -4106,19 +3985,8 @@
     Title: "Cielo TV  PLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://i.postimg.cc/wBZ3ndqy/cristianos.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327188"
-    Live: true
-    Country: "us"
-    Tag: "canales evangelios"
-}
-{
-    Artist: "Play"
-    Title: "Asomavision  PLAYMOVIE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327189"
     Live: true
     Country: "us"
     Tag: "canales evangelios"
@@ -4128,7 +3996,7 @@
     Title: "Spirit Television"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://i.postimg.cc/wBZ3ndqy/cristianos.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327190"
     Live: true
     Country: "us"
@@ -4139,7 +4007,7 @@
     Title: "JBN TVPLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://i.postimg.cc/wBZ3ndqy/cristianos.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327195"
     Live: true
     Country: "us"
@@ -4150,19 +4018,8 @@
     Title: "Tv CRETPLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://i.postimg.cc/wBZ3ndqy/cristianos.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327196"
-    Live: true
-    Country: "us"
-    Tag: "canales evangelios"
-}
-{
-    Artist: "Play"
-    Title: "Tv TelebendicionPLAYMOVIE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327198"
     Live: true
     Country: "us"
     Tag: "canales evangelios"
@@ -4172,7 +4029,7 @@
     Title: "Tv SalvacionPLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://i.postimg.cc/wBZ3ndqy/cristianos.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327199"
     Live: true
     Country: "us"
@@ -4183,19 +4040,8 @@
     Title: "SolidariaPLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://i.postimg.cc/wBZ3ndqy/cristianos.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327201"
-    Live: true
-    Country: "us"
-    Tag: "canales evangelios"
-}
-{
-    Artist: "Play"
-    Title: "CCI CHANNELPLAYMOVIE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327204"
     Live: true
     Country: "us"
     Tag: "canales evangelios"
@@ -4205,7 +4051,7 @@
     Title: "Luz NacientePLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://i.postimg.cc/wBZ3ndqy/cristianos.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327205"
     Live: true
     Country: "us"
@@ -4216,7 +4062,7 @@
     Title: "Hosanna VisionPLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Logo: "https://i.postimg.cc/wBZ3ndqy/cristianos.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]327207"
     Live: true
     Country: "us"
@@ -4227,7 +4073,7 @@
     Title: "HBO POP"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]338771"
     Live: true
     Country: "us"
@@ -4249,7 +4095,7 @@
     Title: "COMEDY CENTRAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/NFQ8J0q0/COMEDY-CENTRAL.png"
+    Logo: "https://i.postimg.cc/h4QJBvNB/ENTRENTENIMIENT.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]52685"
     Live: true
     Country: "us"
@@ -4260,7 +4106,7 @@
     Title: "Telemundo  NOVELAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/FR40zKKx/TELEMUNDO.png"
+    Logo: "https://i.postimg.cc/h4QJBvNB/ENTRENTENIMIENT.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]67701"
     Live: true
     Country: "us"
@@ -4271,7 +4117,7 @@
     Title: "TNT NOVELAS"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/WpgBMhSP/tnt-novelas.png"
+    Logo: "https://i.postimg.cc/h4QJBvNB/ENTRENTENIMIENT.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]360082"
     Live: true
     Country: "us"
@@ -4337,7 +4183,7 @@
     Title: "A&E"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s"
+    Logo: "https://i.postimg.cc/Jzhds3Rv/animal-planet.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]369750"
     Live: true
     Country: "us"
@@ -4348,7 +4194,7 @@
     Title: "Universal Cinema"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7LqBY7z7/1761140877.png"
+    Logo: "https://i.postimg.cc/cLp4xB3K/CINE.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]369751"
     Live: true
     Country: "us"
@@ -4359,7 +4205,7 @@
     Title: "MTV ESPANOL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://allvectorlogo.com/img/2016/07/mtv-music-television-espanol-logo.png"
+    Logo: "https://i.postimg.cc/h4QJBvNB/ENTRENTENIMIENT.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]369753"
     Live: true
     Country: "us"
@@ -4381,7 +4227,7 @@
     Title: "MULTIPREMIER"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png"
+    Logo: "https://i.postimg.cc/h4QJBvNB/ENTRENTENIMIENT.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]369799"
     Live: true
     Country: "us"
@@ -4392,7 +4238,7 @@
     Title: "Discovery World"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://w7.pngwing.com/pngs/920/176/png-transparent-discovery-world-discovery-hd-discovery-channel-logo-hd-logo-television-text-logo.png"
+    Logo: "https://i.postimg.cc/Jzhds3Rv/animal-planet.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]369834"
     Live: true
     Country: "us"
@@ -4403,7 +4249,7 @@
     Title: "Infierno en la Cocina"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://e7.pngegg.com/pngimages/984/463/png-clipart-gordon-ramsay-hell-s-kitchen-u-s-season-12-chef-hell-s-kitchen-u-s-season-15-hell-miscellaneous-television.png"
+    Logo: "https://i.postimg.cc/h4QJBvNB/ENTRENTENIMIENT.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]369836"
     Live: true
     Country: "us"
@@ -4447,7 +4293,7 @@
     Title: "NAT GEO WILD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png"
+    Logo: "https://i.postimg.cc/Jzhds3Rv/animal-planet.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]370136"
     Live: true
     Country: "us"
@@ -4458,7 +4304,7 @@
     Title: "KANAL D DRAMA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://kanalddrama.com/assets/img/logotop.png"
+    Logo: "https://i.postimg.cc/h4QJBvNB/ENTRENTENIMIENT.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]370139"
     Live: true
     Country: "us"
@@ -4524,7 +4370,7 @@
     Title: "2 SNT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/Pxt3WZ1Z/snt.png"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384212"
     Live: true
     Country: "us"
@@ -4535,7 +4381,7 @@
     Title: "1 PY  SNT"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/Pxt3WZ1Z/snt.png"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384213"
     Live: true
     Country: "us"
@@ -4546,7 +4392,7 @@
     Title: "1 TELEFUTURO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/hvY2R56b/telefuturo.png"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384215"
     Live: true
     Country: "us"
@@ -4557,7 +4403,7 @@
     Title: "2  PY  TELEFUTURO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/hvY2R56b/telefuturo.png"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384214"
     Live: true
     Country: "us"
@@ -4568,7 +4414,7 @@
     Title: "3 PY  LA TELE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7ZGphgNZ/la-tele.png"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384216"
     Live: true
     Country: "us"
@@ -4579,7 +4425,7 @@
     Title: "2 PY  LA TELE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7ZGphgNZ/la-tele.png"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384217"
     Live: true
     Country: "us"
@@ -4590,7 +4436,7 @@
     Title: "3 PY  LA TELE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/7ZGphgNZ/la-tele.png"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384218"
     Live: true
     Country: "us"
@@ -4601,7 +4447,7 @@
     Title: "2 PY  SUR TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/V6D7D6Fh/sur-tv.png"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384219"
     Live: true
     Country: "us"
@@ -4612,7 +4458,7 @@
     Title: "1 PY  SUR TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/V6D7D6Fh/sur-tv.png"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384220"
     Live: true
     Country: "us"
@@ -4623,7 +4469,7 @@
     Title: "1 PY  PARAVISION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/wjmGg96t/paravision.png"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384222"
     Live: true
     Country: "us"
@@ -4634,7 +4480,7 @@
     Title: "2 PY  PARAVISION"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/wjmGg96t/paravision.png"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384221"
     Live: true
     Country: "us"
@@ -4645,7 +4491,7 @@
     Title: "2 PY  C9N"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/WpSRHp3T/c9n.png"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384223"
     Live: true
     Country: "us"
@@ -4656,7 +4502,7 @@
     Title: "1PY  C9N"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/WpSRHp3T/c9n.png"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384224"
     Live: true
     Country: "us"
@@ -4667,7 +4513,7 @@
     Title: "2 NOTICIAS PARAGUAY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.ibb.co/KmmYbSN/NPY.png"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384225"
     Live: true
     Country: "us"
@@ -4678,7 +4524,7 @@
     Title: "1 NOTICIAS PARAGUAY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.ibb.co/KmmYbSN/NPY.png"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384226"
     Live: true
     Country: "us"
@@ -4689,7 +4535,7 @@
     Title: "1 GEN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/02HT9tD4/gen.png"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384227"
     Live: true
     Country: "us"
@@ -4700,7 +4546,7 @@
     Title: "2  GEN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/02HT9tD4/gen.png"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384228"
     Live: true
     Country: "us"
@@ -4711,7 +4557,7 @@
     Title: "1 ABC PY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.ibb.co/yWc2vDP/ABC-COLOR.png"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384229"
     Live: true
     Country: "us"
@@ -4722,7 +4568,7 @@
     Title: "2  ABC PY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.ibb.co/yWc2vDP/ABC-COLOR.png"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384230"
     Live: true
     Country: "us"
@@ -4733,7 +4579,7 @@
     Title: "FARRA PLAY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/75/d1/f5/75d1f5c5-ff25-277b-2e8c-97af7911a18d/mzl.rdsodagk.jpg/1200x630wa.png"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384231"
     Live: true
     Country: "us"
@@ -4744,7 +4590,7 @@
     Title: "MOTORSUR PY"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/8z2x6jyB/motor-sur-paraguay.png"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384232"
     Live: true
     Country: "us"
@@ -4766,7 +4612,7 @@
     Title: "UNICANAL"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://camo.githubusercontent.com/c5cc90f622ffd4a9553eb7ba18f33c79136abe679405fe069c71b25d420a0edc/68747470733a2f2f692e696d6775722e636f6d2f62726c657075582e706e67"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]384771"
     Live: true
     Country: "us"
@@ -4972,33 +4818,11 @@
 }
 {
     Artist: "Play"
-    Title: "NAT GEO  PLAYMOVIE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315872"
-    Live: true
-    Country: "us"
-    Tag: "canales para playmovie"
-}
-{
-    Artist: "Play"
     Title: "ANIMAL PLANET  PLAYMOVIE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]315874"
-    Live: true
-    Country: "us"
-    Tag: "canales para playmovie"
-}
-{
-    Artist: "Play"
-    Title: "ABC PY 41498"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://w7.pngwing.com/pngs/698/880/png-transparent-computer-icons-vendor-delivery-miscellaneous-blue-data-thumbnail.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]377794"
     Live: true
     Country: "us"
     Tag: "canales para playmovie"
@@ -5016,32 +4840,10 @@
 }
 {
     Artist: "Play"
-    Title: "SNT PROVEE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]336784"
-    Live: true
-    Country: "us"
-    Tag: "canales para playmovie"
-}
-{
-    Artist: "Play"
-    Title: "CNN PERU"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://playtv44.com:8080/images/c4ca4238a0b923820dcc509a6f75849b.png"
-    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]217036"
-    Live: true
-    Country: "us"
-    Tag: "canales de noticias"
-}
-{
-    Artist: "Play"
     Title: "VENUS MEDIA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://i0.wp.com/logoroga.com/wp-content/uploads/2012/04/venus.png?fit=500%2C375&ssl=1"
+    Logo: "https://png.pngtree.com/png-vector/20240111/ourmid/pngtree-paraguay-round-flag-glossy-glass-effect-vector-transparent-background-png-image_11432534.png"
     Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]388231"
     Live: true
     Country: "us"
