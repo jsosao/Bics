@@ -13,7 +13,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_abc.png"
-    Stream: "https[:[/][/]]fl51[.]moveonjoy[.]com[/]ABC_EAST[/]index.m3u8"
+    Stream: "https[:[/][/]]fl30[.]moveonjoy[.]com[/]ABC_EAST[/]index.m3u8"
     Live: true
 }
 {
@@ -22,7 +22,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tbs.png"
-    Stream: "https[:[/][/]]fl51[.]moveonjoy[.]com[/]TBS[/]index.m3u8"
+    Stream: "https[:[/][/]]fl30[.]moveonjoy[.]com[/]TBS[/]index.m3u8"
     Live: true
 }
 {
@@ -31,7 +31,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fs1.png"
-    Stream: "https[:[/][/]]fl51[.]moveonjoy[.]com[/]FOX_Sports_1[/]index.m3u8"
+    Stream: "https[:[/][/]]fl30[.]moveonjoy[.]com[/]FOX_Sports_1[/]index.m3u8"
     Live: true
 }
 {
@@ -49,7 +49,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mlb_network.png"
-    Stream: "http[:[/][/]]fl51[.]moveonjoy[.]com[/]MLB_NETWORK[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]MLB_NETWORK[/]index[.]m3u8"
     Live: true
 }
 {
