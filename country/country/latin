@@ -4915,3 +4915,36 @@
     Country: "us"
     Tag: "canales de españa"
 }
+{
+    Artist: "Play"
+    Title: "CANAL A24  ARGENTINA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ar_primera_nacional.png"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]389667"
+    Live: true
+    Country: "ca"
+    Tag: "canales de argentina"
+}
+{
+    Artist: "Play"
+    Title: "CRONICA  ARGENTINA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ar_primera_nacional.png"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]389668"
+    Live: true
+    Country: "ar"
+    Tag: "canales de argentina"
+}
+{
+    Artist: "Play"
+    Title: "DEPORTV   ARGENTINA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ar_primera_nacional.png"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]389669"
+    Live: true
+    Country: "ar"
+    Tag: "canales de deportes"
+}
