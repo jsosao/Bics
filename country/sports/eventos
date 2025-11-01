@@ -432,7 +432,7 @@
     Title: "EPL  0900 Hrs  Fulham vs Wolverhampton Wanderers"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_efl_football_league.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_premier_league.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22014"
     Live: true
     Country: "us"
@@ -443,7 +443,7 @@
     Title: "EPL  0900 Hrs  Crystal Palace vs Brentford"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_efl_football_league.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_premier_league.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22015"
     Live: true
     Country: "us"
@@ -454,7 +454,7 @@
     Title: "EPL  0900 Hrs  Brighton & Hove Albion vs Leeds United"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_efl_football_league.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_premier_league.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22016"
     Live: true
     Country: "us"
@@ -465,7 +465,7 @@
     Title: "EPL  0900 Hrs  Nottingham Forest vs Manchester United"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_efl_football_league.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_premier_league.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22017"
     Live: true
     Country: "us"
@@ -476,7 +476,7 @@
     Title: "EPL  0900 Hrs  Burnley vs Arsenal"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_efl_football_league.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_premier_league.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22018"
     Live: true
     Country: "us"
@@ -487,7 +487,7 @@
     Title: "EPL  1430 Hrs  Tottenham Hotspur vs Chelsea"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_efl_football_league.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_premier_league.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22019"
     Live: true
     Country: "us"
@@ -498,7 +498,7 @@
     Title: "EPL  1400 Hrs  Liverpool vs Aston Villa"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_efl_football_league.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_premier_league.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22020"
     Live: true
     Country: "us"
@@ -544,39 +544,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/sp_la_liga.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22024"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "German 2 Bundesliga  0555 Hrs  1 FC Nurnberg vs Eintracht Braunschweig"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/de_bundesliga.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22025"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "German 2 Bundesliga  0555 Hrs  Hertha BSC vs SG Dynamo Dresden"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/de_bundesliga.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22026"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "German 2 Bundesliga  0555 Hrs  Karlsruher SC vs FC Schalke 04"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/de_bundesliga.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22027"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
@@ -1188,44 +1155,11 @@
 }
 {
     Artist: "Alfa"
-    Title: "FA Cup 600 Chelmsford City vs Braintree Town"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/fr/7/75/FA-CUP-2020-logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22083"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
     Title: "FA Cup 1130 Brackley Town vs Notts County"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/fr/7/75/FA-CUP-2020-logo.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22084"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "Womens Super League 600 Manchester City vs West Ham United"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2314.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22085"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "Womens Super League 600 Chelsea FC vs London City Lionesses"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2314.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22086"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
