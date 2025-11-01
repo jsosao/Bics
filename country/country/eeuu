@@ -62,6 +62,15 @@
     Live: true
 }
 {
+    Artist: "web"
+    Title: "FOX WEST PALM BEACH"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox.png"
+    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]FL_West_Palm_Beach_FOX[/]index[.]m3u8"
+    Live: true
+}
+{
     Artist: "Cord"
     Title: "FOX KTTV"
     streamFormat: "hls|mts"
