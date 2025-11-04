@@ -1,5 +1,49 @@
 {
     Artist: "Zapp"
+    Title: "PPV 1  Liverpool Vs  Real Madrid"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]155416"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Zapp"
+    Title: "PPV 2  PSG Vs  Bayern"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]155417"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Zapp"
+    Title: "PPV 3  Juventus Vs  Sporting Lisboa"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]155418"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Zapp"
+    Title: "PPV 4  Atletico Madrid Vs  USG"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]155419"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Zapp"
     Title: "CINEMA PPVCinema 04"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
