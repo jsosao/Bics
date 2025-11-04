@@ -482,3 +482,2104 @@
     Country: "us"
     Tag: "nfl (eventos)"
 }
+{
+    Artist: "Pass"
+    Title: "A&E US Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]AEEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "ABC  Los Angeles"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mlb_los_angeles_angels.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]abc-kabc-los-angeles-ca[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "NY grouptitleLiveABC  New York NY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]WABCDT1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "ACC Network"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_acc_network.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ACCNetwork[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Altitude Sports Denver"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_america_sports.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]altitude-sports-denver[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "AMC Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_amc_network.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]AMCEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "American Heroes Channel"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_catholic_channel.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]AmericanHeroesChannel[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Animal Planet US East"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_animal_planet.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]AnimalPlanetEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "BBC America East"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_bbc_america.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]BBCAmericaEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "BBC News North America"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_bbc_america.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]BBCWorldNewsNorthAmerica[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "BET Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]BETEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "BET Her"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]BETHerEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Big Ten Network"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_big_ten_network.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]BTN[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Bloomberg TV USA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_bloomberg.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]BloombergTV[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Boomerang"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_boomerang.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]Boomerang[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Bravo USA Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]BravoEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "CSPAN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cspan.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]CSPAN[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "CSPAN 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cspan.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]CSPAN2[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Cartoon Network USA Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoon_network.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]CartoonNetworkEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "CBS  Los Angeles"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mlb_los_angeles_angels.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]cbs-kcbs-los-angeles-ca[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "NY grouptitleLiveCBS  New York NY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]WCBSDT1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "CBS Sports Network USA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cbs_spports_network.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]CBSSportsNetworkUSA[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Chicago Sports Network"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fubo_sports_network.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]chicago-sports-network[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Cinemax Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cinemax.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]CinemaxEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "CMT US Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cmt.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]CMTEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "CNBC USA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cnbc.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]CNBC[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "CNN US"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cnn.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]CNN[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Comedy Central  Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_comedy_central.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ComedyCentralEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Crime & Investigation Network USA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_acc_network.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]CrimePlusInvestigation[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "CW  San Diego"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cw.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]cw-kfmbtv2-san-diego-ca[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "CW  District of Columbia"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]cw-wdcw-district-of-columbia[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Destination America"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_destination_america.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]DestinationAmerica[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Discovery Channel  Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_channel.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]DiscoveryChannelEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Discovery Family Channel"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_channel.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]DiscoveryFamily[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Discovery Life Channel"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_channel.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]DiscoveryLife[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Disney Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_channel.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]DisneyChannelEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Disney Junior USA East"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_disney_plus.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]DisneyJuniorEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Disney XD USA Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_xd.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]DisneyXDEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "E! Entertainment USA Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_e!.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]EEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_espn_1.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPN[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "ESPN Deportes"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_deportes.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]espn-deportes[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "ESPN News"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_news.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPNews[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "ESPN U"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_u.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPNU[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "ESPN2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPN2[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fanduel Sports Indiana"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uel_champions.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]fanduel-sports-indiana[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fanduel Sports Network Detroit"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uel_champions.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]fanduel-sports-network-detroit-hd[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fanduel Sports Network Florida"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uel_champions.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]fanduel-sports-network-florida[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fanduel Sports Network Great Lakes"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uel_champions.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]fanduel-sports-network-great-lakes[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fanduel Sports Network North"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uel_champions.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]fanduel-sports-network-north[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fanduel Sports Network Ohio Cleveland"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uel_champions.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]fanduel-sports-network-ohio-cleveland[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fanduel Sports Network Oklahoma"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uel_champions.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]fanduel-sports-network-oklahoma[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fanduel Sports Network San Diego"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uel_champions.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]fanduel-sports-network-san-diego[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fanduel Sports Network Socal"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uel_champions.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]fanduel-sports-network-socal[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fanduel Sports Network South Carolinas"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uel_champions.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]fanduel-sports-network-south-carolinas[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fanduel Sports Network South Tennessee"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uel_champions.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]fanduel-sports-network-south-tennessee-usa[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fanduel Sports Network West"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uel_champions.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]fanduel-sports-network-west[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fanduel Sports Network Wisconsin"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uel_champions.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]fanduel-sports-network-wisconsin[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fanduel Sports Southeast Georgia"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uel_champions.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]fanduel-sports-southeast-georgia[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fanduel Sports Southeast North Carolina"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uel_champions.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]fanduel-sports-southeast-north-carolina[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fanduel Sports Southeast South Carolina"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uel_champions.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]fanduel-sports-southeast-south-carolina[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fanduel Sports Southeast Tennessee Nashville"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uel_champions.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]fanduel-sports-southeast-tennessee-nashville[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fanduel Sports Sun"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uel_champions.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]fanduel-sports-sun[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fanduel Sports Tennessee East"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uel_champions.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]fanduel-sports-tennessee-east[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Food Network USA Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_food_network.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]FoodNetworkEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "FOX  Los Angeles"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mlb_los_angeles_angels.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]fox-kttv-los-angeles-ca[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "NY grouptitleLiveFOX  New York NY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]WNYWDT1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fox Business"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]FoxBusiness[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fox News"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox_news.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]FoxNewsChannel[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fox Sports 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_fox_sports.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]FoxSports1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Fox Sports 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_fox_sports_2.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]FoxSports2[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Freeform East Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]FreeformEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "FUSE TV Eastern feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]FuseEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "FX Movie Channel"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_catholic_channel.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]FXMovieChannel[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "FX Networks East Coast"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]FXEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "FXX USA Eastern"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fxx.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]FXXEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "FYI USA Eastern"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fyi.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]FYIEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Game Show Network East"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]game-show-network-east[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Golf Channel USA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_golf_channel.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]GolfChannel[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Hallmark Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hallmark_channel.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]HallmarkChannelEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Hallmark Family"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hallmark_family.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]HallmarkDrama[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Hallmark Mystery Eastern"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hallmark_channel.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]HallmarkMoviesMysteriesEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "HBO Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_mundi.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]HBOEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "HBO 2 Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_2.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]HBO2East[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "HBO Comedy  East"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_comedy.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]HBOComedyEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "HBO Family Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_family.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]HBOFamilyEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "HBO Signature  Eastern"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_signature.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]HBOSignatureEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "HBO Zone  East"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_zone.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]HBOZoneEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "HGTV USA Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hgtv.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]HGTVEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "History Channel US Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_channel.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]HistoryEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "HLN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hln.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]HLN[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Independent Film Channel US"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cooking_channel.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]IFCEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Investigation Discovery USA Eastern"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_channel.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]InvestigationDiscoveryEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "ION Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ion.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]IONTVEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Lifetime Movies East"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_lifetime.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]LifetimeMoviesEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Lifetime Network US Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_acc_network.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]LifetimeEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "LOGO East"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]LogoEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Marquee Sports Network"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fubo_sports_network.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]marquee-sports-network[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "MeTV Toons  New Jersey"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]metv-toons[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "MeTV Wjlp New Jerseynew York"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]metv-wjlp-new-jerseynew-york[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Midatlantic Sports Network"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fubo_sports_network.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]midatlantic-sports-network[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "MLB Network"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mlb.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]MLBNetwork[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Monumental Sports Network"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fubo_sports_network.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]monumental-sports-network[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "MoreMax Eastern"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cinemax_moremax.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]MoreMaxEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Motor Trend"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]Motortrend[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "MovieMax  East"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]MovieMaxEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "MSG Madison Square Gardens"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]msg-madison-square-gardens[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "MSG Plus"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_msg.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]msg-plus[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "MSNBC USA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_abc.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]MSNBC[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "MTV 2 East"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mtv_2.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]mtv-2-east[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "MTV USA Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mtv.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]MTVEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "National Geographic US Eastern"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NationalGeographicEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "National Geographic Wild"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_wild.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NationalGeographicWildEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "NBA TV USA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBATV[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "NBC  Los Angeles"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mlb_los_angeles_angels.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]nbc-knbc-los-angeles-ca[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "NY grouptitleLiveNBC  New York NY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]WNBCDT1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "NBC Sports Bay Area"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]nbc-sports-bay-area[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "NBC Sports Boston"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]nbc-sports-boston[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "NBC Sports California"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]nbc-sports-california[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "NBC Sports Philadelphia"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc_sports_network.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]nbc-sports-philadelphia[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "New England Sports Network"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fubo_sports_network.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]new-england-sports-network[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "NewsMax TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_america_tv.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NewsmaxTV[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "NFL Network"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_network.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NFLNetwork[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "NFL RedZone"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_redzone.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NFLRedZone[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "NHL Network USA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHLNetwork[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Nick Jr  East"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nick_jr.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NickJrEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Nickelodeon USA East Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NickelodeonEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Nicktoons East"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nicktoons.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NicktoonsEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Oprah Winfrey Network USA Eastern"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_acc_network.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]OWNEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Outdoor Channel US"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cooking_channel.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]OutdoorChannel[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Oxygen Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_oxygen.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]OxygenEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "NY grouptitleLivePBS  New York NY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]WNET[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "ReelzChannel"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]Reelz[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Science"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_science.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]Science[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "SEC Network"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoon_network.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]SECN[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Showtime Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_showtime.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ShowtimeEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Showtime 2 Eastern"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_showtime_2.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]Showtime2East[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "SNY Sportsnet New York Comcast"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]sny-sportsnet-new-york-comcast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Space City Home Network"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]space-city-home-network[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Spectrum SportsNet LA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sportsnet_la.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]spectrum-sportsnet-la[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Spectrum Sportsnet Lakers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sportsnet_la.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]spectrum-sportsnet[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Sportsnet"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sportsnet_la.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]sportsnet-east[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Sportsnet 360"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sportsnet_la.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]sportsnet-360[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Sportsnet One"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_one_soccer.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]sportsnet-one[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Sportsnet Ontario"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sportsnet_la.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]sportsnet-ontario[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Sportsnet Pacific"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sportsnet_la.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]sportsnet-pacific[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Sportsnet Pittsburgh"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sportsnet_la.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]sportsnet-pittsburgh[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Sportsnet West"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sportsnet_la.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]sportsnet-west[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Starz Eastern"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_starz.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]StarzEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "SundanceTV USA East"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_abc.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]SundanceTVEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Syfy Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_syfy.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]SyfyEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "TBS East"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tbs.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]TBSEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "TeenNick Eastern"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_teennick.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]TeenNickEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Telemundo Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]TelemundoEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "The Cooking Channel"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cooking_channel.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]CookingChannel[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "The Tennis Channel"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tennis_channel.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]TennisChannel[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "The Weather Channel"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_weather_channel.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]TheWeatherChannel[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "TLC USA Eastern"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tlc.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]TLCEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "TMC  Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]TheMovieChannelEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "TNT Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_tnt_sports.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]TNTEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Travel US East"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_travel_channel.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]TravelChannelEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "truTV USA Eastern"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_trutv.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]truTVEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "TSN1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]tsn1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "TSN2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]tsn2[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "TSN3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]tsn3[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "TSN4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]tsn4[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "TSN5"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]tsn5[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Turner Classic Movies USA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mtv_classic.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]TCMEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "TV Land Eastern"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_america_tv.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]tv-land-eastern[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "TV One"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_america_tv.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]TVOne[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Universal Kids"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_d_kids.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]UniversalKidsEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Univision Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_univision.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]UnivisionEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "USA Network East Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_acc_network.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]USANetworkEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "VH1 Eastern Feed"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_vh1.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]VH1East[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "VICE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_viceland.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]VICETV[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "WE  Eastern"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_we_tv.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]WeTVEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "WPIX New York"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]WPIX[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Yes Network"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_yes_network.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]yes-network[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "live"
+}
+{
+    Artist: "Pass"
+    Title: "Milwaukee Bucks  Indiana Pacers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA16[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "Pass"
+    Title: "Minnesota Timberwolves  Brooklyn Nets"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA21[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "Pass"
+    Title: "Pittsburgh Penguins  Toronto Maple Leafs"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL10[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "Utah Jazz  Boston Celtics"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA05[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "Pass"
+    Title: "Washington Wizards  New York Knicks"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA20[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "Pass"
+    Title: "Dallas Mavericks  Houston Rockets"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA25[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "Pass"
+    Title: "Detroit Pistons  Memphis Grizzlies"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA01[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "Pass"
+    Title: "Arizona Cardinals  Dallas Cowboys"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPN[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nfl"
+}
+{
+    Artist: "Pass"
+    Title: "Edmonton Oilers  St Louis Blues"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL15[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "Vancouver Canucks  Nashville Predators"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL31[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "Sacramento Kings  Denver Nuggets"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA26[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "Pass"
+    Title: "Chicago Blackhawks  Seattle Kraken"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL05[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "Los Angeles Lakers  Portland Trail Blazers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA12[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "Pass"
+    Title: "Miami Heat  Los Angeles Clippers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA10[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
