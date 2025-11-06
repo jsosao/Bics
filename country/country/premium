@@ -7238,34 +7238,573 @@
 }
 {
     Artist: "Alfa"
-    Title: "NBA 08  Nov52025 800PM  Miami Heat at Denver Nuggets"
+    Title: "Liga MX Fem 1830  Juarez vs Tigres UANL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.seeklogo.com/logo-png/31/2/ligamx-femenil-logo-png_seeklogo-313609.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22337"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Liga MX Fem 1915 Monterrey vs America"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.seeklogo.com/logo-png/31/2/ligamx-femenil-logo-png_seeklogo-313609.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22338"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Liga MX Fem 2100 Guadalajara vs Toluca"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.seeklogo.com/logo-png/31/2/ligamx-femenil-logo-png_seeklogo-313609.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22339"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UEL 1145 Midtjylland vs Celtic"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22340"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UEL 1145 Malmo FF vs Panathinaikos"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22341"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UEL 1145 Basel vs FCSB"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22342"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UEL 1145 Crvena Zvezda vs Lille"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22343"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UEL 1145 Dinamo Zagreb vs Celta de Vigo"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22344"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UEL 1145 Utrecht vs Porto"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22345"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UEL 1145 Nice vs Freiburg"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22346"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UEL 1145 Sturm Graz vs Nottingham Forest"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22347"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UEL 1145 Salzburg vs Go Ahead Eagles"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22348"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UEL 1400 Rangers vs Roma"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22349"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UEL 1400 Viktoria Plzen vs Fenerbahce"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22350"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UEL 1400 Bologna vs Brann"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22351"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UEL 1400 Sporting Braga vs Genk"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22352"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UEL 1400 Real Betis vs Olympique Lyonnais"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22353"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UEL 1400 Stuttgart vs Feyenoord"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22354"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UEL 1400 Aston Villa vs Maccabi Tel Aviv"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22355"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UEL 1400 Ferencvaros vs Ludogorets"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22356"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UCL 1145 Sparta Praha vs Rakow Czestochowa"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22357"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UCL 1145 KuPS vs Slovan Bratislava"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22358"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UCL 1145 Mainz 05 vs Fiorentina"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22359"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UCL 1145 Samsunspor vs Hamrun Spartans"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22360"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UCL 1145 AEK Larnaca vs Aberdeen"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22361"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UCL 1145 Celje vs Legia Warszawa"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22362"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UCL 1145 Noah vs Sigma Olomouc"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22363"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UCL 1145 Shakhtar Donetsk vs Breidablik"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22364"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UCL 1145 AEK Athens vs Shamrock Rovers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22365"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UCL 1400 Lausanne Sport vs Omonia Nicosia"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22366"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UCL 1400 Skendija 79 vs Jagiellonia Białystok"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22367"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UCL 1400 Dynamo Kyiv vs Zrinjski"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22368"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UCL 1400 Hacken vs Strasbourg"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22369"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UCL 1400 Shelbourne vs Drita"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22370"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UCL 1400 Crystal Palace vs AZ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22371"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UCL 1400 Rayo Vallecano vs Lech Poznan"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22372"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UCL 1400 Rapid Wien vs CSU Craiova"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design-2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22373"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Brasileirao 1630 Fluminense vs Mirassol"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1000marcas.net/wp-content/uploads/2020/03/Campeonato-Brasileiro-S%C3%A9rie-A-logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22374"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Brasileirao 1700 Ceara vs Fortaleza"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1000marcas.net/wp-content/uploads/2020/03/Campeonato-Brasileiro-S%C3%A9rie-A-logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22375"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Brasileirao 1830 Palmeiras vs Santos"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1000marcas.net/wp-content/uploads/2020/03/Campeonato-Brasileiro-S%C3%A9rie-A-logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22376"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "League One 1400 Reading vs Stevenage"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://c0.klipartz.com/pngpicture/385/872/gratis-png-2017-18-efl-campeonato-2018-19-efl-campeonato-liga-de-futbol-inglesa-efl-cup-premier-league-premier-league-thumbnail.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22377"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Guatemala 1700 Guastatoya vs Mixco"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://ligagt.org/ft/wp-content/uploads/2023/01/LIGA-GUATE-LOGOfinal-01-e1674594169324.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22378"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Colombia 1710 Boyaca Chico vs America de Cali"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22379"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Copa de la Reina 1400 Real Oviedo vs Sevilla"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Copa_de_la_Reina_2021.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22380"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP 2000 Venados de Mazatlan vs Aguilas de Mexicali"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22381"
+    Live: true
+    Country: "us"
+    Tag: "lmb y lmp (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP 2010 Yaquis de Obregon vs Charros de Jalsico"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22382"
+    Live: true
+    Country: "us"
+    Tag: "lmb y lmp (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP 2030 Caneros de Los Mochis vs Tomateros de Culiacan"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22383"
+    Live: true
+    Country: "us"
+    Tag: "lmb y lmp (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP 2030 Jaguares de Nayarit vs Tucson"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22384"
+    Live: true
+    Country: "us"
+    Tag: "lmb y lmp (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "LMP 2030 Naranjeros de Hermosillo vs Algodoneros de Guasave"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22385"
+    Live: true
+    Country: "us"
+    Tag: "lmb y lmp (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "NBA 2000 Phoenix Suns vs Los Angeles Clippers"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22313"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22386"
     Live: true
     Country: "us"
     Tag: "nba (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "NBA 10  Nov52025 900PM  Oklahoma City Thunder at Portland Trail Blazers"
+    Title: "NFL 1915 Denver Broncos vs Las Vegas Raiders ESP"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22315"
+    Logo: "https://abcnoticias.mx/u/fotografias/m/2025/11/5/f960x540-323235_397310_5050.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22387"
     Live: true
     Country: "us"
-    Tag: "nba (eventos)"
+    Tag: "nfl (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "NBA 11  Nov52025 900PM  Golden State Warriors at Sacramento Kings"
+    Title: "NFL 1915 Denver Broncos vs Las Vegas Raiders"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22316"
+    Logo: "https://abcnoticias.mx/u/fotografias/m/2025/11/5/f960x540-323235_397310_5050.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22388"
     Live: true
     Country: "us"
-    Tag: "nba (eventos)"
+    Tag: "nfl (eventos)"
 }
