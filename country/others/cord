@@ -14454,7 +14454,7 @@
 }
 {
     Artist: "Cord"
-    Title: "NFL 01 Chicago Bears at Cincinnati Bengals 1pm"
+    Title: "NFL 01 Las Vegas Raiders at Denver Broncos 815pm"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -14465,7 +14465,7 @@
 }
 {
     Artist: "Cord"
-    Title: "NFL 02 Arizona Cardinals  vs  Dallas Cowboys  0815 PM"
+    Title: "NFL 02 Las Vegas Raiders vs Denver Broncos  0815 PM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -15001,4 +15001,37 @@
     Live: true
     Country: "us"
     Tag: "nba"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 08 St  Louis Blues vs Buffalo Sabres  0700 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253960"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 09 Anaheim Ducks vs Dallas Stars  0800 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253961"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 10 Florida Panthers vs Los Angeles Kings  1000 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]253962"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
 }
