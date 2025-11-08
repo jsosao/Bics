@@ -1,5 +1,19 @@
 {
     Artist: "Cord"
+    Title: "Riff Raff"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://media.themoviedb.org/t/p/original/xPSur71bxvFVdQ6RdKv0yaVKT2n.jpg"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]movie[/]19174796[/]19174796[/]235257[.]mkv"
+    Live: true
+}
+
+
+
+
+
+{
+    Artist: "Cord"
     Title: "The Starling Girl"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
