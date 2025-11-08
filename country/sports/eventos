@@ -165,601 +165,1096 @@
 }
 {
     Artist: "Alfa"
-    Title: "Liga MX 1900 Juarez vs Queretaro"
+    Title: "Liga MX 1700 Tigres UANL vs Atletico San Luis"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_liga_mx.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22389"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22431"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "Liga MX 2100 Tijuana vs Atlas"
+    Title: "Liga MX 1707 Guadalajara vs Monterrey"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_liga_mx.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22390"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22432"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "Liga MX 2100 Mazatlan vs Necaxa"
+    Title: "Liga MX 1900 Leon vs Puebla"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_liga_mx.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22391"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22433"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "LaLigaEs  1355 Hrs  Elche CF vs Real Sociedad"
+    Title: "Liga MX 1900 Toluca vs America"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_liga_mx.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22434"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Liga MX 2105 Cruz Azul vs Pumas UNAM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_liga_mx.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22435"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Expansion MX 1900 Cancun vs Leones Negros UdeG"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_expansion_mx.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22436"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Expansion MX 2100 Atletico Morelia vs CDS Tampico Madero"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_expansion_mx.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22437"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Liga MX Fem 2100 Pachuca vs Cruz Azul"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_liga_femenil_mx.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22438"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Premier League 630 Tottenham Hotspur vs Manchester United"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_premier_league.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22439"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Premier League 900 Everton vs Fulham"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_premier_league.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22440"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Premier League 900 West Ham United vs Burnley"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_premier_league.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22441"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Premier League 1130 Sunderland vs Arsenal"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_premier_league.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22442"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Premier League 1400 Chelsea vs Wolverhampton Wanderers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_premier_league.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22443"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "LaLiga 700 Girona vs Deportivo Alaves"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/sp_la_liga.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22392"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22444"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "Serie A  1345 Hrs  Pisa vs Cremonese"
+    Title: "LaLiga 915 Sevilla vs Osasuna"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/sp_la_liga.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22445"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "LaLiga 1130 Atletico Madrid vs Levante"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/sp_la_liga.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22446"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "LaLiga 1400 Espanyol vs Villarreal"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/sp_la_liga.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22447"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Serie A 800 Como vs Cagliari"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/it_serie_a.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22393"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22448"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "Bundesliga  Fri 07 1320 Hrs  SV Werder Bremen vs VfL Wolfsburg"
+    Title: "Serie A 800 Lecce vs Hellas Verona"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/it_serie_a.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22449"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Serie A 1100 Juventus vs Torino"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/it_serie_a.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22450"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Serie A 1345 Parma vs Milan"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/it_serie_a.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22451"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Bundesliga 830 Union Berlin vs Bayern Munchen"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/de_bundesliga.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22394"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22452"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "Ligue 1 1345 Paris vs Rennes"
+    Title: "Bundesliga 830 Hoffenheim vs RB Leipzig"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/de_bundesliga.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22453"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Bundesliga 830 Bayer Leverkusen vs Heidenheim"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/de_bundesliga.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22454"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Bundesliga 830 Hamburger SV vs Borussia Dortmund"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/de_bundesliga.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22455"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Bundesliga 1130 Borussia Mgladbach vs Koln"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/de_bundesliga.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22456"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Ligue 1 1000 Olympique Marseille vs Brest"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/fr_ligue_1.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22395"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22457"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "Portugal 1415 Estoril vs Arouca"
+    Title: "Ligue 1 1200 Le Havre vs Nantes"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/fr_ligue_1.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22458"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Ligue 1 1405 Monaco vs Lens"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/fr_ligue_1.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22459"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Portugal 930 Alverca vs Rio Ave"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/pt_primera_division.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22396"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22460"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "Championship 1400 Watford vs Bristol City"
+    Title: "Portugal 1430 Santa Clara vs Sporting CP"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/pt_primera_division.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22461"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Argentina 1400 Racing Club vs Defensa y Justicia"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ar_primera_nacional.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22462"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Argentina 1615 Huracan vs Newells Old Boys"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ar_primera_nacional.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22463"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Argentina 1615 Talleres Cordoba vs Platense"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ar_primera_nacional.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22464"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Argentina 1830 Union Santa Fe vs Barracas Central"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ar_primera_nacional.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22465"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Argentina 1830 San Martin San Juan vs Lanus"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ar_primera_nacional.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22466"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Brasileirao 1300 Sport Recife vs Atletico Mineiro"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/br_brasileirao.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22467"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Brasileirao 1500 Vasco da Gama vs Juventude"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/br_brasileirao.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22468"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Brasileirao 1530 Internacional vs Bahia"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/br_brasileirao.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22469"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Brasileirao 1800 Sao Paulo vs RB Bragantino"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/br_brasileirao.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22470"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Championship 630 Millwall vs Preston North End"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_championship_epl.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22397"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22471"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "Eredivisie  1255 Hrs  FC Twente vs Telstar"
+    Title: "Championship 630 Blackburn Rovers vs Derby County"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/nl_eredivise.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22398"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_championship_epl.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22472"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "Peru 1200 Cusco vs Sport Boys"
+    Title: "Championship 900 Middlesbrough vs Birmingham City"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_championship_epl.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22473"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Championship 900 Wrexham vs Charlton Athletic"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_championship_epl.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22474"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Championship 900 Stoke City vs Coventry City"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_championship_epl.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22475"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Championship 900 Norwich City vs Leicester City"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_championship_epl.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22476"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Guatemala 1900 Malacateco vs Aurora"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/gt_primera_division.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22477"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Peru 1200 Ayacucho vs Comerciantes Unidos"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/pe_primera_division.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22399"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22478"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "Peru 1415 Sporting Cristal vs Cienciano"
+    Title: "Peru 1415 Juan Pablo II College vs Atletico Grau"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/pe_primera_division.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22400"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22479"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "Peru 2000 Universitario vs Deportivo Garcilaso"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/pe_primera_division.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22401"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "Liga Saudi 1130 Al Najma vs Al Hilal"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/sa_primera_division.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22402"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "LaLiga SmartBank 1330 Mirandes vs Sporting Gijon"
+    Title: "LaLiga SmartBank 700 Real Sociedad II vs Leganes"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/sp_la_liga_smartbank.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22403"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22480"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "MLS 1800 Charlotte vs New York City"
+    Title: "LaLiga SmartBank 1130 Deportivo La Coruna vs Cultural Leonesa"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/sp_la_liga_smartbank.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22481"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "LaLiga SmartBank 1400 Malaga vs Cordoba"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/sp_la_liga_smartbank.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22482"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Turquia 800 Trabzonspor vs Alanyaspor"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/2160px-S%C3%BCper_Lig_logo.svg_logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22483"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Turquia 1100 Antalyaspor vs Besiktas"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/2160px-S%C3%BCper_Lig_logo.svg_logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22484"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "MLS 1500 Minnesota United vs Seattle Sounders FC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mls.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22404"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22485"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "Uruguay 1330 Miramar Misiones vs Racing"
+    Title: "MLS 1700 Cincinnati vs Columbus Crew"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mls.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22486"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "MLS 1900 Inter Miami vs Nashville SC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mls.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22487"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "USL Super League 1400 Brooklyn vs DC Power"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/USL_Super_League_logo.png/1200px-USL_Super_League_logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22488"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "USL Super League 1600 Dallas Trinity vs Sporting JAX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/USL_Super_League_logo.png/1200px-USL_Super_League_logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22489"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Uruguay 1330 Danubio vs Plaza Colonia"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uy_primera_division.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22405"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22490"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "Uruguay 1630 Cerro Largo vs Liverpool"
+    Title: "Uruguay 1600 Wanderers vs River Plate"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uy_primera_division.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22406"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22491"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "Chile 1700 Union La Calera vs Deportes Iquique"
+    Title: "Australia 2200 Sydney FC vs Macarthur"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1000logos.net/wp-content/uploads/2019/01/A-League-Logo-2017.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22492"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Chile 930 La Serena vs Universidad Catolica"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/cl_liga_futbol.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22407"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22493"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "Colombia 1430 Envigado vs Millonarios"
+    Title: "Chile 1200 Union Espanola vs ColoColo"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/cl_liga_futbol.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22494"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Chile 1430 Palestino vs Coquimbo Unido"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/cl_liga_futbol.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22495"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Chile 1730 OHiggins vs Nublense"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/cl_liga_futbol.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22496"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Colombia 1510 Fortaleza CEIF vs Junior"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/co_dimayor.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22408"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22497"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "Colombia 1710 Deportivo Pereira vs Medellin"
+    Title: "Colombia 1720 Atletico Nacional vs Rionegro Aguilas"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/co_dimayor.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22409"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22498"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "Colombia 1920 Deportes Tolima vs Llaneros"
+    Title: "Colombia 1930 Atletico Bucaramanga vs La Equidad"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/co_dimayor.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22410"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22499"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "Ecuador 1800 Deportivo Cuenca vs Macara"
+    Title: "Ecuador 1800 LDU Quito vs Libertad"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ec_liga_pro.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22411"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22500"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "Bundesliga 1130 Greuther Furth vs Preußen Munster"
+    Title: "Womens Super League 550 Man United vs Aston Villa"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2314.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22501"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Womens Super League 600 Arsenal vs Chelsea FC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2314.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22502"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Bundesliga 1330 Kaiserslautern vs Hertha BSC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/de_bundesliga.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22412"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22503"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "Bundesliga 1130 Dynamo Dresden vs Nurnberg"
+    Title: "Honduras 1715 Olancho vs UPNFM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/de_bundesliga.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22413"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/hn_primera_division.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22504"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "Polonia 1100 Radomiak Radom vs Cracovia Krakow"
+    Title: "Honduras 1930 Victoria vs Real Espana"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/pl_primera_division.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22414"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/hn_primera_division.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22505"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "NBA 01  Nov72025 600PM  Boston Celtics at Orlando Magic"
+    Title: "Liga Saudi 750 NEOM vs Al Nassr"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/sa_primera_division.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22506"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Liga Saudi 1130 Al Ittihad vs AlAhli"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/sa_primera_division.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22507"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "Escocia 1145 St  Mirren vs Hibernian"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/45.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22508"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "NBA 1800 Washington Wizards vs Dallas Mavericks"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22415"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22509"
     Live: true
     Country: "us"
     Tag: "nba (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "NBA 02  Nov72025 600PM  Cleveland Cavaliers at Washington Wizards"
+    Title: "NBA 1830 Philadelphia 76ers vs Toronto Raptors"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22416"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22510"
     Live: true
     Country: "us"
     Tag: "nba (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "NBA 03  Nov72025 630PM  Toronto Raptors at Atlanta Hawks"
+    Title: "NBA 1900 Atlanta Hawks vs Los Angeles Lakers"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22417"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22511"
     Live: true
     Country: "us"
     Tag: "nba (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "NBA 04  Nov72025 630PM  Detroit Pistons at Brooklyn Nets"
+    Title: "NBA 1900 Cleveland Cavaliers vs Chicago Bulls"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22418"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22512"
     Live: true
     Country: "us"
     Tag: "nba (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "NBA 05  Nov72025 630PM  Houston Rockets at San Antonio Spurs"
+    Title: "NBA 1900 Miami Heat vs Portland Trail Blazers"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22419"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22513"
     Live: true
     Country: "us"
     Tag: "nba (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "NBA 06  Nov72025 700PM  Charlotte Hornets at Miami Heat"
+    Title: "NBA 1900 San Antonio Spurs vs New Orleans Pelicans"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22420"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22514"
     Live: true
     Country: "us"
     Tag: "nba (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "NBA 07  Nov72025 700PM  Dallas Mavericks at Memphis Grizzlies"
+    Title: "NBA 2000 Denver Nuggets vs Indiana Pacers"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22421"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22515"
     Live: true
     Country: "us"
     Tag: "nba (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "NBA 08  Nov72025 700PM  Chicago Bulls at Milwaukee Bucks"
+    Title: "NBA 2130 Los Angeles Clippers vs Phoenix Suns"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22422"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22516"
     Live: true
     Country: "us"
     Tag: "nba (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "NBA 09  Nov72025 700PM  Utah Jazz at Minnesota Timberwolves"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22423"
-    Live: true
-    Country: "us"
-    Tag: "nba (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "NBA 10  Nov72025 900PM  Golden State Warriors at Denver Nuggets"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22424"
-    Live: true
-    Country: "us"
-    Tag: "nba (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "NBA 11  Nov72025 900PM  Oklahoma City Thunder at Sacramento Kings"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22425"
-    Live: true
-    Country: "us"
-    Tag: "nba (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "LMP 1930 Charros de Jalisco vs Caneros de Los Mochis"
+    Title: "LMP 1800 Charros de Jalisco vs Caneros de Los Mochis"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_beisbol_lmp.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22426"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22517"
     Live: true
     Country: "us"
     Tag: "lmb y lmp (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "LMP 2030 Algodoneros de Guasave vs Yaquis de Obregon"
+    Title: "LMP 1900 Algodoneros de Guasave vs Yaquis de Obregon"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_beisbol_lmp.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22427"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22518"
     Live: true
     Country: "us"
     Tag: "lmb y lmp (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "LMP 2030 Jaguares de Nayarit vs Venados de Mazatlan"
+    Title: "LMP 1900 Jaguares de Nayarit vs Venados de Mazatlan"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_beisbol_lmp.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22428"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22519"
     Live: true
     Country: "us"
     Tag: "lmb y lmp (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "LMP 2130 Aguilas de Mexicali vs Naranjeros de Hermosillo"
+    Title: "LMP 1905 Tucson vs Tomateros de Culiacan"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_beisbol_lmp.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22429"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22520"
     Live: true
     Country: "us"
     Tag: "lmb y lmp (eventos)"
 }
 {
     Artist: "Alfa"
-    Title: "LMP 2005 Tucson vs Tomateros de Culiacan"
+    Title: "LMP 2000 Aguilas de Mexicali vs Naranjeros de Hermosillo"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_beisbol_lmp.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22430"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22521"
     Live: true
     Country: "us"
     Tag: "lmb y lmp (eventos)"
 }
 {
-    Artist: "Pass"
-    Title: "New York Rangers  Detroit Red Wings"
+    Artist: "Alfa"
+    Title: "F1  0800 Sao Paulo Grand Prix  Sprint"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHLNetwork[/]sd"
+    Logo: "https://e7.pngegg.com/pngimages/749/255/png-clipart-formula-1-logo-abu-dhabi-grand-prix-2018-fia-formula-one-world-championship-european-grand-prix-logo-auto-racing-formula-1-miscellaneous-text-thumbnail.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22522"
     Live: true
     Country: "us"
-    Tag: "nhl"
+    Tag: "ppv (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "F1  1200 Sao Paulo Grand Prix  Qualifying"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://e7.pngegg.com/pngimages/749/255/png-clipart-formula-1-logo-abu-dhabi-grand-prix-2018-fia-formula-one-world-championship-european-grand-prix-logo-auto-racing-formula-1-miscellaneous-text-thumbnail.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22523"
+    Live: true
+    Country: "us"
+    Tag: "ppv (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "BOX  1600 Ortiz Jr  vs  Lubin Prelims"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://assets.estadiodeportes.mx/__export/1762280135439/sites/estadiodeportes/img/2025/11/04/ortiz_vs_lubin_-1-.png_1339199057.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22524"
+    Live: true
+    Country: "us"
+    Tag: "ppv (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "BOX  1900 Ortiz Jr  vs  Lubin"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://assets.estadiodeportes.mx/__export/1762280135439/sites/estadiodeportes/img/2025/11/04/ortiz_vs_lubin_-1-.png_1339199057.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22525"
+    Live: true
+    Country: "us"
+    Tag: "ppv (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "RWS  0600 Khunsueknoi vs  Maytee"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.pinimg.com/474x/3d/87/10/3d8710b332712ac9c0344344d2ed168e.jpg"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22526"
+    Live: true
+    Country: "us"
+    Tag: "ppv (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UFC Fight Night Bonfim vs Brown 1500"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ufc_fight_pass.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22527"
+    Live: true
+    Country: "us"
+    Tag: "ppv (eventos)"
+}
+{
+    Artist: "Alfa"
+    Title: "UFC Fight Night Bonfim vs Brown 1500 ESP"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ufc_fight_pass.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22528"
+    Live: true
+    Country: "us"
+    Tag: "ppv (eventos)"
 }
 {
     Artist: "Pass"
-    Title: "Minnesota Wild  New York Islanders"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL11[/]sd"
-    Live: true
-    Country: "us"
-    Tag: "nhl"
-}
-{
-    Artist: "Pass"
-    Title: "Cleveland Cavaliers  Washington Wizards"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA19[/]sd"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Pass"
-    Title: "Boston Celtics  Orlando Magic"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA14[/]sd"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Pass"
-    Title: "Toronto Raptors  Atlanta Hawks"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA06[/]sd"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Pass"
-    Title: "Detroit Pistons  Brooklyn Nets"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA01[/]sd"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Pass"
-    Title: "Houston Rockets  San Antonio Spurs"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA25[/]sd"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Pass"
-    Title: "Houston Cougars  UCF Knights"
+    Title: "James Madison Dukes  Marshall Thundering Herd"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]FoxSports1[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPN2[/]sd"
     Live: true
     Country: "us"
     Tag: "ncaaf"
 }
 {
     Artist: "Pass"
-    Title: "Charlotte Hornets  Miami Heat"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA13[/]sd"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Pass"
-    Title: "Chicago Bulls  Milwaukee Bucks"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA04[/]sd"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Pass"
-    Title: "Dallas Mavericks  Memphis Grizzlies"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA15[/]sd"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Pass"
-    Title: "Utah Jazz  Minnesota Timberwolves"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA05[/]sd"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Pass"
-    Title: "Northwestern Wildcats  USC Trojans"
+    Title: "Indiana Hoosiers  Penn State Nittany Lions"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -770,7 +1265,7 @@
 }
 {
     Artist: "Pass"
-    Title: "Tulane Green Wave  Memphis Tigers"
+    Title: "Georgia Bulldogs  Mississippi State Bulldogs"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -781,44 +1276,660 @@
 }
 {
     Artist: "Pass"
-    Title: "Chicago Blackhawks  Calgary Flames"
+    Title: "Colorado Buffaloes  West Virginia Mountaineers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]TNTEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "SMU Mustangs  Boston College Eagles"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ACCNetwork[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Southern Mississippi Golden Eagles  Arkansas State Red Wolves"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPNU[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "BYU Cougars  Texas Tech Red Raiders"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]WABCDT1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Temple Owls  Army Black Knights"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]CBSSportsNetworkUSA[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Pittsburgh Penguins  New Jersey Devils"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL05[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL10[/]sd"
     Live: true
     Country: "us"
     Tag: "nhl"
 }
 {
     Artist: "Pass"
-    Title: "Winnipeg Jets  San Jose Sharks"
+    Title: "Citadel Bulldogs  Ole Miss Rebels"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF02[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Ohio State Buckeyes  Purdue Boilermakers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]BTN[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Missouri State Bears  Liberty Flames"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF03[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Bowling Green Falcons  Eastern Michigan Eagles"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF01[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Ottawa Senators  Philadelphia Flyers"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL01[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL21[/]sd"
     Live: true
     Country: "us"
     Tag: "nhl"
 }
 {
     Artist: "Pass"
-    Title: "Oklahoma City Thunder  Sacramento Kings"
+    Title: "UAB Blazers  Rice Owls"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF04[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Maryland Terrapins  Rutgers Scarlet Knights"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]FoxSports1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Louisiana Tech Bulldogs  Delaware Blue Hens"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF06[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Charlotte 49ers  East Carolina Pirates"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF05[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Tulsa Golden Hurricane  Florida Atlantic Owls"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF07[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Florida International Panthers  Middle Tennessee Blue Raiders"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF08[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Jacksonville State Gamecocks  UTEP Miners"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF09[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Kansas Jayhawks  Arizona Wildcats"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPN2[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Duke Blue Devils  UConn Huskies"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]CBSSportsNetworkUSA[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Oregon Ducks  Iowa Hawkeyes"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]WCBSDT1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Iowa State Cyclones  TCU Horned Frogs"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]WNYWDT1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Syracuse Orange  Miami Hurricanes"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ACCNetwork[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Texas A&M Aggies  Missouri Tigers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]WABCDT1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Dallas Stars  Nashville Predators"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA22[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL27[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "Georgia State Panthers  Coastal Carolina Chanticleers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF10[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Kennesaw State Owls  New Mexico State Aggies"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF11[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Auburn Tigers  Vanderbilt Commodores"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]SECN[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Washington Huskies  Wisconsin Badgers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]BTN[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Stanford Cardinal  North Carolina Tar Heels"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]WPIX[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Texas State Bobcats  Louisiana Ragin Cajuns"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF12[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Air Force Falcons  San Jose State Spartans"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]FoxSports1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "California Golden Bears  Louisville Cardinals"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPN2[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Florida State Seminoles  Clemson Tigers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ACCNetwork[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Wake Forest Demon Deacons  Virginia Cavaliers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPN[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Dallas Mavericks  Washington Wizards"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA20[/]sd"
     Live: true
     Country: "us"
     Tag: "nba"
 }
 {
     Artist: "Pass"
-    Title: "Golden State Warriors  Denver Nuggets"
+    Title: "Boston Bruins  Toronto Maple Leafs"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL03[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "Buffalo Sabres  Carolina Hurricanes"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL17[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "Utah Mammoth  Montreal Canadiens"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL25[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "New York Islanders  New York Rangers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL09[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "Seattle Kraken  St Louis Blues"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL16[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "Washington Capitals  Tampa Bay Lightning"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL30[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "Florida Gators  Kentucky Wildcats"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]SECN[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "LSU Tigers  Alabama Crimson Tide"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPNU[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Navy Midshipmen  Notre Dame Fighting Irish"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]WNBCDT1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Nevada Wolf Pack  Utah State Aggies"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]CBSSportsNetworkUSA[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Toronto Raptors  Philadelphia 76ers"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA11[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA06[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "Pass"
+    Title: "Los Angeles Lakers  Atlanta Hawks"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBATV[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "Pass"
+    Title: "New Orleans Pelicans  San Antonio Spurs"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA27[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "Pass"
+    Title: "Chicago Bulls  Cleveland Cavaliers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA04[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "Pass"
+    Title: "Portland Trail Blazers  Miami Heat"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA17[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "Pass"
+    Title: "Nebraska Cornhuskers  UCLA Bruins"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]WNYWDT1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Indiana Pacers  Denver Nuggets"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA23[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "Pass"
+    Title: "UNLV Rebels  Colorado State Rams"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]FoxSports1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Sam Houston State Bearkats  Oregon State Beavers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]WPIX[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Florida Panthers  San Jose Sharks"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL07[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "Anaheim Ducks  Vegas Golden Knights"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL24[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "Colorado Avalanche  Edmonton Oilers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL13[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "Columbus Blue Jackets  Vancouver Canucks"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL20[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "Phoenix Suns  Los Angeles Clippers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPN[/]sd"
     Live: true
     Country: "us"
     Tag: "nba"
