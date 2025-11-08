@@ -1012,28 +1012,6 @@
 }
 {
     Artist: "Alfa"
-    Title: "MAS CHIC"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/RSBq3k8.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7130"
-    Live: true
-    Country: "us"
-    Tag: ".cultura"
-}
-{
-    Artist: "Alfa"
-    Title: "MAS CHIC HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/RSBq3k8.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]8407"
-    Live: true
-    Country: "us"
-    Tag: ".cultura"
-}
-{
-    Artist: "Alfa"
     Title: "NAT GEO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -7326,39 +7304,6 @@
 }
 {
     Artist: "Alfa"
-    Title: "Premier League 630 Tottenham Hotspur vs Manchester United"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2020/03/Premier-League-Logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22439"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "Premier League 900 Everton vs Fulham"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2020/03/Premier-League-Logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22440"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "Premier League 900 West Ham United vs Burnley"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2020/03/Premier-League-Logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22441"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
     Title: "Premier League 1130 Sunderland vs Arsenal"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -7375,28 +7320,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1000marcas.net/wp-content/uploads/2020/03/Premier-League-Logo.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22443"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "LaLiga 700 Girona vs Deportivo Alaves"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://assets.laliga.com/assets/logos/LALIGA_EA_SPORTS_RGB_h_color/LALIGA_EA_SPORTS_RGB_h_color.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22444"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "LaLiga 915 Sevilla vs Osasuna"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://assets.laliga.com/assets/logos/LALIGA_EA_SPORTS_RGB_h_color/LALIGA_EA_SPORTS_RGB_h_color.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22445"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
@@ -7425,28 +7348,6 @@
 }
 {
     Artist: "Alfa"
-    Title: "Serie A 800 Como vs Cagliari"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.fifplay.com/img/public/serie-a-logo-transparent.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22448"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "Serie A 800 Lecce vs Hellas Verona"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.fifplay.com/img/public/serie-a-logo-transparent.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22449"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
     Title: "Serie A 1100 Juventus vs Torino"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -7463,50 +7364,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.fifplay.com/img/public/serie-a-logo-transparent.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22451"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "Bundesliga 830 Union Berlin vs Bayern Munchen"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22452"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "Bundesliga 830 Hoffenheim vs RB Leipzig"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22453"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "Bundesliga 830 Bayer Leverkusen vs Heidenheim"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22454"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "Bundesliga 830 Hamburger SV vs Borussia Dortmund"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22455"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
@@ -7678,72 +7535,6 @@
 }
 {
     Artist: "Alfa"
-    Title: "Championship 630 Millwall vs Preston North End"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22471"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "Championship 630 Blackburn Rovers vs Derby County"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22472"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "Championship 900 Middlesbrough vs Birmingham City"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22473"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "Championship 900 Wrexham vs Charlton Athletic"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22474"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "Championship 900 Stoke City vs Coventry City"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22475"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "Championship 900 Norwich City vs Leicester City"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22476"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
     Title: "Guatemala 1900 Malacateco vs Aurora"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -7804,17 +7595,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/512px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22482"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "Turquia 800 Trabzonspor vs Alanyaspor"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/2160px-S%C3%BCper_Lig_logo.svg_logo.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22483"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
@@ -8008,28 +7788,6 @@
 }
 {
     Artist: "Alfa"
-    Title: "Womens Super League 550 Man United vs Aston Villa"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2314.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22501"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "Womens Super League 600 Arsenal vs Chelsea FC"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2314.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22502"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
     Title: "Bundesliga 1330 Kaiserslautern vs Hertha BSC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -8057,17 +7815,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.thesportsdb.com/images/media/league/badge/94pogz1646830106.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22505"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "Liga Saudi 750 NEOM vs Al Nassr"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22506"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
@@ -8239,17 +7986,6 @@
 }
 {
     Artist: "Alfa"
-    Title: "F1  0800 Sao Paulo Grand Prix  Sprint"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://e7.pngegg.com/pngimages/749/255/png-clipart-formula-1-logo-abu-dhabi-grand-prix-2018-fia-formula-one-world-championship-european-grand-prix-logo-auto-racing-formula-1-miscellaneous-text-thumbnail.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22522"
-    Live: true
-    Country: "us"
-    Tag: "ppv (eventos)"
-}
-{
-    Artist: "Alfa"
     Title: "F1  1200 Sao Paulo Grand Prix  Qualifying"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -8277,17 +8013,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://assets.estadiodeportes.mx/__export/1762280135439/sites/estadiodeportes/img/2025/11/04/ortiz_vs_lubin_-1-.png_1339199057.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22525"
-    Live: true
-    Country: "us"
-    Tag: "ppv (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "RWS  0600 Khunsueknoi vs  Maytee"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.pinimg.com/474x/3d/87/10/3d8710b332712ac9c0344344d2ed168e.jpg"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22526"
     Live: true
     Country: "us"
     Tag: "ppv (eventos)"
