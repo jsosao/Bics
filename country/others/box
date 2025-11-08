@@ -6961,3 +6961,25 @@
     Country: "us"
     Tag: "azerbaijan"
 }
+{
+    Artist: "Box"
+    Title: "ANEWZ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]boxviptv[.]com:25461[/]Emin0282[/]elsen0552787979[/]1721"
+    Live: true
+    Country: "us"
+    Tag: "azerbaijan"
+}
+{
+    Artist: "Box"
+    Title: "test"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]boxviptv[.]com:25461[/]Emin0282[/]elsen0552787979[/]1722"
+    Live: true
+    Country: "us"
+    Tag: "azerbaijan"
+}
