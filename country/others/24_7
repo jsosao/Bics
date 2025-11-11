@@ -144,6 +144,24 @@
 }
 {
     Artist: "walter"
+    Title: "HAWAII 5.0 (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_serie_hawaii_5_0.png"
+    Stream: "http[:[/][/]]tv[.]zapping[.]life:8080[/]NonoMuneca4[/]5cH27dUxgt[/]94929"
+    Live: true
+}
+{
+    Artist: "walter"
+    Title: "HOMELAND (E)"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_serie_homeland.png"
+    Stream: "http[:[/][/]]tv[.]zapping[.]life:8080[/]NonoMuneca4[/]5cH27dUxgt[/]94930"
+    Live: true
+}
+{
+    Artist: "walter"
     Title: "BATMAN (1966)"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -725,24 +743,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[/][/]]tv[.]zapping[.]life:8080[/]NonoMuneca4[/]5cH27dUxgt[/]95641"
-    Live: true
-}
-{
-    Artist: "walter"
-    Title: "HAWAII 5.0 (E)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[/][/]]tv[.]zapping[.]life:8080[/]NonoMuneca4[/]5cH27dUxgt[/]94929"
-    Live: true
-}
-{
-    Artist: "walter"
-    Title: "HOMELAND (E)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[/][/]]tv[.]zapping[.]life:8080[/]NonoMuneca4[/]5cH27dUxgt[/]94930"
     Live: true
 }
 {
