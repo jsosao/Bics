@@ -93,7 +93,7 @@
     Title: "ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_espn_1.png"
     Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a091[/]index[.]m3u8"
     Live: true
 }
@@ -102,7 +102,7 @@
     Title: "ESPN 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_2.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_espn_2.png"
     Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a092[/]index[.]m3u8"
     Live: true
 }
@@ -111,7 +111,7 @@
     Title: "ESPN 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_3.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_espn_3.png"
     Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0c3[/]index[.]m3u8"
     Live: true
 }
@@ -120,7 +120,7 @@
     Title: "ESPN EXTRA"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_espn_4.png"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_espn_4.png"
     Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0kf[/]index[.]m3u8"
     Live: true
 }
