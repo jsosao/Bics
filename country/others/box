@@ -6972,3 +6972,25 @@
     Country: "us"
     Tag: "azerbaijan"
 }
+{
+    Artist: "Box"
+    Title: "Q SPORT LEAGUE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]boxviptv[.]com:25461[/]Emin0282[/]elsen0552787979[/]1724"
+    Live: true
+    Country: "us"
+    Tag: "sport"
+}
+{
+    Artist: "Box"
+    Title: "Q FOOTBALL"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]boxviptv[.]com:25461[/]Emin0282[/]elsen0552787979[/]1725"
+    Live: true
+    Country: "us"
+    Tag: "sport"
+}
