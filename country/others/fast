@@ -44132,17 +44132,6 @@
 }
 {
     Artist: "Fast"
-    Title: "Spongebob DASH"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.dlpng.com/static/png/6916208_preview.png"
-    Stream: "http[:[[/]][[/]]]stitcher-ipv4[.]pluto[.]tv[/]v1[/]stitch[/]embed[/]hls[/]channel[/]5d00e8adaab96b5635b2a005[/]master[.]m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
-    Live: true
-    Country: "us"
-    Tag: "usa kids & family"
-}
-{
-    Artist: "Fast"
     Title: "USA: Baby Shark Tv FHD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
