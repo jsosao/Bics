@@ -8008,6 +8008,28 @@
 }
 {
     Artist: "Fast"
+    Title: "ARG: TN HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://cl.images.search.yahoo.com/search/images;_ylt=AwrFQ6uzhphkNX0zo_xjfgx.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=canal+TN&fr2=piv-web&type=E210CL885G0&fr=mcafee#id=9&iurl=https%3A%2F%2Fwww.ipuntotv.com%2FIMAGES%2FTN%2520logo%2520nuevo.png&action=click"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]16397"
+    Live: true
+    Country: "us"
+    Tag: "→ argentina ←"
+}
+{
+    Artist: "Fast"
+    Title: "ARG: TN SD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://cl.images.search.yahoo.com/search/images;_ylt=AwrFQ6uzhphkNX0zo_xjfgx.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=canal+TN&fr2=piv-web&type=E210CL885G0&fr=mcafee#id=9&iurl=https%3A%2F%2Fwww.ipuntotv.com%2FIMAGES%2FTN%2520logo%2520nuevo.png&action=click"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]16477"
+    Live: true
+    Country: "us"
+    Tag: "→ argentina ←"
+}
+{
+    Artist: "Fast"
     Title: "Catatumbo TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -38533,6 +38555,17 @@
 }
 {
     Artist: "Fast"
+    Title: "ENT Teletica"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://cl.images.search.yahoo.com/search/images;_ylt=Awrir4tEY0FmsUQszWdjfgx.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=teletica&fr2=piv-web&type=E210CL885G0&fr=mcafee#id=0&iurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fa%2Fa1%2FTeletica_Logo.png&action=click"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]239420"
+    Live: true
+    Country: "us"
+    Tag: "→ entretenimiento ←"
+}
+{
+    Artist: "Fast"
     Title: "ENT Futv"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -44066,6 +44099,17 @@
 }
 {
     Artist: "Fast"
+    Title: "IND: WION HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://th.bing.com/th/id/R.57c365dc6dc1bc4ea04e75b6120ec499?rik=0dHq5Z40sglVaQ&riu=http%3a%2f%2fcasbaa.com%2fwordpress%2fwp-content%2fuploads%2f2016%2f12%2fWION-logo.jpg&ehk=UBvGimZYVpudkv6qTMEMXZ9EnmZwkTaEAsaUOdNhVQ8%3d&risl=&pid=ImgRaw&r=0"
+    Stream: "https[:[[/]][[/]]]d7x8z4yuq42qn[.]cloudfront[.]net[/]index_1[.]m3u8"
+    Live: true
+    Country: "us"
+    Tag: "india"
+}
+{
+    Artist: "Fast"
     Title: "MYS: Parlimen Dewan Rakyat DASH"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -48394,6 +48438,17 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]258832"
+    Live: true
+    Country: "us"
+    Tag: "→ españa deportes ←"
+}
+{
+    Artist: "Fast"
+    Title: "Tuning Dash"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://stitcher.pluto.tv/stitch/hls/channel/6076c74daa05ac0007d0eb07/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]258833"
     Live: true
     Country: "us"
     Tag: "→ españa deportes ←"
@@ -62634,11 +62689,44 @@
 }
 {
     Artist: "Fast"
+    Title: "PT :FOX MOVIES FHD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayeAwmC4BKeseA1gjoHhiBzbrWPY9jY7vAfeLVjmVJQI4xdYrvNy8MXJDg6WbJFya4c4qRKcM9OOAXv81lA59BZNMsk8d3J63qUz61UPaAySIG7b3fkhAgBOuu-OM26vvAU2bgTunFitQP8mmnDBYt1Q.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269236"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT :E! ENTERTAINMENT HD HEVC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269237"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT :CMTV HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ay9W-umONOFZXxGWixxbiq0FpUrROCBc0ZtRRoDOB6AAa4iRzC8rYMCKb1y1ZCz2hJ3VShaS8_RsmKHcKK_8i9v0hHozOQUNtcvx_3a95dYF-uIg_b-Vdmp8AMrobOK_1L2aGGXIq0stP8-H6v1LEDNw.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269238"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT : ZAP VIVA ᶠᴴᴰ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhTECzdGwv1MyBXdavRChf4l6-uE4HsDhVEDr07tkmjGp4NqKglgeTxl8p9Efh1x7r8R3ULWjGCleBAEGlcSzfDf13lxNwRvNtaYOVNkzaxvlDgyWKga8MQD2dTLxmWv22_zktUHP-OVvKRcjaiuTSXiRlyvZkkDoR3oaAbS9br-A.jpg"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269239"
     Live: true
     Country: "us"
     Tag: "portugal"
@@ -62788,6 +62876,17 @@
 }
 {
     Artist: "Fast"
+    Title: "PT : TVI HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayyCrc_AUYxm1zYH2TpaoxUZTR3tTC8dxIFM9EAB42r-NsXlMBQbfrXruBr0xSn1by3XWqCWwDT8Chc1db9rEhmd2E3VHmvl8SGl1IvrOrdfZNPpyz77XzWeK-kQ86eK45fN0lXoZsdWV5uX6hlYDwVA.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269253"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT : TVI HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -62881,6 +62980,17 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jDDe-8CAjg4ztyojYyTYxz0.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269262"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT : TVCINE TOP HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayzVOwF6-sZdyZdJVZ_EyXXzKG1L6IHT3rb1FflxNL6G1eS54zKqcneSjodKyYmEeb1BNU-71UVei_-NNEhkf_1JfIKKnHIWFZXP_WXfYg-ghR2qFD0Sb9BQB5J3juyvoDFHkHIENsqyyxS-1xZS4_hw.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269263"
     Live: true
     Country: "us"
     Tag: "portugal"
@@ -63096,11 +63206,33 @@
 }
 {
     Artist: "Fast"
+    Title: "PT : TRACE URBAN ᶠᴴᴰ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhTECzdGwv1MyBXdavRChf4l6-uE4HsDhVEDr07tkmjGp4NqKglgeTxl8p9Efh1x7o2IFOE3qUsNjKYd6zxjCFZT9Q8YziRKD4rp2AO2iwGoyI49hq_OHg-NUBm0ovs5fO8nmXym15vQB2d30YhotxZ8fWz4cfQcKC73xszt6R17w.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269283"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT : TRACE URBAN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jAwNKJaxipKccBtwnmt-0k_RUv9-y6nA68CEjne8v2O-A.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269284"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT : TRACE TOCA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhTECzdGwv1MyBXdavRChf4l6-uE4HsDhVEDr07tkmjGp4NqKglgeTxl8p9Efh1x7rz6_4YjICNN6WiomBtyTO3NJTwtQr4I6clVw2jZrCDGzQXAcXIfquom8EeC8i6MnMJJsVGNuNPxtt8G1RVhfSnSzYwcV2DZB2oQSaEb-uVlg.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269285"
     Live: true
     Country: "us"
     Tag: "portugal"
@@ -63167,6 +63299,17 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269291"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT : SYFY HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayyCrc_AUYxm1zYH2TpaoxUZTR3tTC8dxIFM9EAB42r-O6u0lLxcFf2rlqJqYQvh1btMtzHe6u-JB_aR5inLnhNdHYHUHXGMxqbZB3M1qR-eeZ-orpQ8SrTU_oR_90rVOXG2-fHoNJRNfnRyFGe1q6xA.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269292"
     Live: true
     Country: "us"
     Tag: "portugal"
@@ -63277,6 +63420,17 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269302"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT : SIC NOTICIAS HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayAVtnwZpkaKx-KhpUcvFPEGn9fQv8aB0F_FFxABUJsdSFG6ArNnI-u1F4mUhMccUg6fVrR1ZB74kyfQDhRWfxliONj0tyy0-jTgCeWetMC_HzVRrRC61iom7NqbyoHfyPw76YnBSNyqrE-JadDoL5KQ.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269303"
     Live: true
     Country: "us"
     Tag: "portugal"
@@ -63580,6 +63734,17 @@
 }
 {
     Artist: "Fast"
+    Title: "PT : RTP 2 HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ay9W-umONOFZXxGWixxbiq0FpUrROCBc0ZtRRoDOB6AAagEv68PnrokJkpkTPRopj_iC_BYRODh5kJqSdx8MpzmPojYKtkfd9eHw4BRVB-spUOgWu4jktn_Xx-RV4hwx6u9I2H7RH1-XUKoeeNGIyl2g.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269331"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT : RTP 2 HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -63613,6 +63778,28 @@
 }
 {
     Artist: "Fast"
+    Title: "PT : RTP 1 ᶠᴴᴰ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhu9MLoWqbOxDZXDYWb9V6QHj50lZqyAPDjqJZjlyQgkj41j7PTWP2tdl0T8j7Pv2WGFmgIApSgBkU55ccFCGu2N-e25f4_4sRddycTrgu3uNq2DFSbIrX8wwPx8qtltw7-UQuWgKg0jHxDKtH4KdZaREkBBOCGEoOYP0nlphsx2gQ2imdYHFD3c3h6iR4Q3Aw.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269335"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT : RTP 1 HD"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhu9MLoWqbOxDZXDYWb9V6QHj50lZqyAPDjqJZjlyQgkj41j7PTWP2tdl0T8j7Pv2WGFmgIApSgBkU55ccFCGu2N-e25f4_4sRddycTrgu3uNq2DFSbIrX8wwPx8qtltw7-UQuWgKg0jHxDKtH4KdZaREkBBOCGEoOYP0nlphsx2gQ2imdYHFD3c3h6iR4Q3Aw.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269336"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT : RTP 1 FULHD HEVC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -63629,6 +63816,28 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269338"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT : RTP 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhu9MLoWqbOxDZXDYWb9V6QHj50lZqyAPDjqJZjlyQgkj41j7PTWP2tdl0T8j7Pv2WGFmgIApSgBkU55ccFCGu2N-e25f4_4sRddycTrgu3uNq2DFSbIrX8wwPx8qtltw7-UQuWgKg0jHxDKtH4KdZaREkBBOCGEoOYP0nlphsx2gQ2imdYHFD3c3h6iR4Q3Aw.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269339"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT : RECORD NEWS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhTECzdGwv1MyBXdavRChf4l6-uE4HsDhVEDr07tkmjGp4NqKglgeTxl8p9Efh1x7qATWOQeB5sqxiuz-Bv63cyhS9qHK1k8XbNZn0WzJmfr5iHNJVDe3hbQp0A8dSV_CiLujlCq_jZ6t9ycm95XAeoccvR5Mwgw1HESkMRzmQQlw.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269340"
     Live: true
     Country: "us"
     Tag: "portugal"
@@ -63778,6 +63987,17 @@
 }
 {
     Artist: "Fast"
+    Title: "PT : NOS STUDIO HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayeAwmC4BKeseA1gjoHhiBzbrWPY9jY7vAfeLVjmVJQI5cxd9KxbOzYZKqYWPBtBOLLt8H6qTVAeSktG30wQhrQTRFDCtY0zNY1IkxccyqG70x9H45ebgYKHk1TWPFNixXRg0qJhnjxScEjuTvuoR6dg.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269354"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT : NICKELODEON"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -63899,6 +64119,17 @@
 }
 {
     Artist: "Fast"
+    Title: "PT : MTV 00s"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhTECzdGwv1MyBXdavRChf4l6-uE4HsDhVEDr07tkmjGp4NqKglgeTxl8p9Efh1x7qfMAAIwV8UZODokG76N6SZhbLdix2cP6t4Kv9CSrREuX3mj07GzCy4j3_jRhDV_2_hj-yNz5lZdGBWm32QL40Bq6sNeQTJ1BO2TiK8UkhZQw.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269366"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT : MEZZO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -63926,6 +64157,17 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jAtIE4RFB2KmsuKZQVNSYDp.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269369"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT : Lolly Kids"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhTECzdGwv1MyBXdavRChf4l6-uE4HsDhVEDr07tkmjGp4NqKglgeTxl8p9Efh1x7rDZjDsTsVdRpPVIKIBdqt18XB6maolBaapp9W0qZWYzK-LkTeDNxG5bg-mBkNECFbFX3ya-gG5t3onwHZiQU7Pj2YkGjOf58b0vhAoeKc6qA.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269370"
     Live: true
     Country: "us"
     Tag: "portugal"
@@ -64119,6 +64361,17 @@
 }
 {
     Artist: "Fast"
+    Title: "PT : GLOBO ᶠᴴᴰ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/n4lzzwUv4pIAcP23-t9cRIILRosNwJ4I6DOnfkVJsiFpiSRIPuJ0lqweuhdUajpFPDro90fR4iVVZTbUoUXJb2Aod3O09qDcTzMboo3odAvplYMNXn0WTTJ0uTGR5_tNj6Or5Vf_ioie_cbvH2cGHe5yw7pMTA6vQDnmBpIYdWqzPuFclVDWSBFvThqbl2TuI_veoIKTAW470dUTl3lfQw.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269388"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT : GLOBO NOW ᶠᴴᴰ"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -64146,6 +64399,28 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269391"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT : GLOBO HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3aycotZ67yn2dAxn5k812AJiriEqLJ2egMtR3MLPkqhK8pfgARyvwefaPSwq6rYDFBqsR5B1CYImnWM-ZIdQIA8XjdabUc5u_fO0NEKsgsClU9UDVv6bNlmAHx5tDCa46Nn6tqwk0ON8tsn3uRqTn3MAA.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269392"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT : GLOBO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhTECzdGwv1MyBXdavRChf4l6-uE4HsDhVEDr07tkmjGp4NqKglgeTxl8p9Efh1x7qY_RM1AUl5UvBVCrKx94PQyGHMepoRYLBOt8z1v2zkLiLr0LIV-oCXOq_f1ryPOAGWeNuyr_wRSXwCix7k2HyQDi-Cj1muU2tvKTtqQzeCzw.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269393"
     Live: true
     Country: "us"
     Tag: "portugal"
@@ -64295,6 +64570,17 @@
 }
 {
     Artist: "Fast"
+    Title: "PT : FOX LIFE HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3aypqrvi7Be7WAHaaQTqAHzhnzt5E3JMHfBmwCo7WW26eIoRQJ_qJTRarxX91pmfKNuWJwcsXtfRqhDQvs2i3f7hBueTpmXp5fe8-b5xg7piM8Gt6xQ4RAxfu-SsGM4-j1WWWKwl5enTXYqfp6RDixQhA.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269407"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT : FOX LIFE HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -64322,6 +64608,17 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jB0HYHY4oL4Fik3H8buExC8.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269410"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT : FOX HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayR8QWfmFtwxOIitD2M0mtsvhT1BIPiiw3z1k-RBHfuxWgHeHQTkACbSOR6XqvsisFTLm-60dibI1qjAjjr9HRLISv399bzlp8kfgrah_0gF2fi29GNO2uYxzUOvotvreoB0dv1qOTk2Llr665yaG4XA.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269411"
     Live: true
     Country: "us"
     Tag: "portugal"
@@ -64746,6 +65043,17 @@
 }
 {
     Artist: "Fast"
+    Title: "PT : CINEMUNDO HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayeAwmC4BKeseA1gjoHhiBzbrWPY9jY7vAfeLVjmVJQI6L0cX6dUcLe4BRnfamdpqVSwcFaL9hQg4-T_ysogqy0XdARGFRicpL5wCyW-rf0V0smWWPmwj58FPEUtv0TOb64fk5PhTFlJFlZB4zxTaLOQ.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269450"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT : CINEMUNDO FHD 265"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -64812,6 +65120,17 @@
 }
 {
     Artist: "Fast"
+    Title: "PT : CANCAO NOVA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKiiexcgrZB6Ot2lEp6IhPKGPaXfdMKt0l8zmC87mjaMxv0mNvd9aYlZogXz1SF6--V0aXL1Wmy6fttDw6zTTURZ4EVNxftsHDB91YNdf3bb5_t-XHbnMu_b7a5g7tqrg6qAHphma8qCCjGET9kXDA77Z4d-Y3vGe0YjSvybjOdO-A.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269457"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT : CANAL Q"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -64867,6 +65186,28 @@
 }
 {
     Artist: "Fast"
+    Title: "PT : CANAL 11ᶠᴴᴰ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhTECzdGwv1MyBXdavRChf4l6-uE4HsDhVEDr07tkmjGp4NqKglgeTxl8p9Efh1x7qYY-1-huIX7wjf7otic34JGlp5PDMSaVX8TE5KRWRuw16DLb8mpSIHbs-5sq41nFXq0vwN-FXxvyN-QEMnarwYICNR7Q03sCcEsVElNi5DmA.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269463"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT : CANAL 11 ᶠᴴᴰ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhTECzdGwv1MyBXdavRChf4l6-uE4HsDhVEDr07tkmjGp4NqKglgeTxl8p9Efh1x7qYY-1-huIX7wjf7otic34JGlp5PDMSaVX8TE5KRWRuw16DLb8mpSIHbs-5sq41nFXq0vwN-FXxvyN-QEMnarwYICNR7Q03sCcEsVElNi5DmA.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269464"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT : CANAL 11 LOW"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -64878,11 +65219,33 @@
 }
 {
     Artist: "Fast"
+    Title: "PT : CANAL 11 HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayeXT-umFY8HAnlDX6_AAyQymTjcZXdo2kdRQLBLy-lAcUm0UDmZne5CYUVnyw13xrD8P2MR90-mQOe8zIPoVmppKSmU7OnFkedy7ZuU1YrClMvJ9MiQnWRtT96zCtlQch0HvaXmj1AydvW1vYXb2_Tw.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269466"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT : CANAL 11 FHD 265"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269467"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT : Campo pequeno"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKi-iZmW5dDW-blNn_OB5Zp3aCzmJZra0duEQbNn-53Jn6m6yTN1ZzStftfHXfjR8hl_eR9moIaTla3rhTkyiVPElIRXCBlZMogEQurN6Au8qpnMAEhTNRgpA4MM9XthEDSZIV37QPyTSToULNrv3oDU.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269468"
     Live: true
     Country: "us"
     Tag: "portugal"
@@ -65076,6 +65439,17 @@
 }
 {
     Artist: "Fast"
+    Title: "PT : AXN WHITE HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayzVOwF6-sZdyZdJVZ_EyXXzKG1L6IHT3rb1FflxNL6G0JTFeMs3B7wWt4wZt7DL6m5jMLf9DuZs8Fh4FrvV_oS_pYv61L6o2dO2Q9DLtbyGX7vTWIHOq64jKsKaMDFIAj0S0h72tgqbY4rYQTgwY-Lw.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269486"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT : AXN WHITE HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -65186,6 +65560,17 @@
 }
 {
     Artist: "Fast"
+    Title: "PT : AXN HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayzVOwF6-sZdyZdJVZ_EyXXzKG1L6IHT3rb1FflxNL6G1-MSccJeaIANLBASvlZPJGVfU1wEtCgQQ32Cx4q4IcEAYh9HYk0OkjSTtiw4IuW7SF72Akj-5mceo6BpdFWeurBU_Uj2v5VTlhsnQ5-fpXXA.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269497"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT : AXN HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -65246,6 +65631,17 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269503"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT : AMC HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayAVtnwZpkaKx-KhpUcvFPEGn9fQv8aB0F_FFxABUJsdQwTQ4hCxZNvpanubDVtDlxXeoDRqKvq225MWnG3_f4zFi0KsfpT5yql9v5RXpoZtyipTVHmGauGjqlcGDk2arsm-oL8DvmDIu5XOyihmPRxg.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269504"
     Live: true
     Country: "us"
     Tag: "portugal"
@@ -65340,6 +65736,17 @@
 }
 {
     Artist: "Fast"
+    Title: "PT : A BOLA HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3aypqrvi7Be7WAHaaQTqAHzhnzt5E3JMHfBmwCo7WW26eJU4R_GTkpnJviKY7Qsp21LzUzwfp0S09hGhHjTI8NPORJeu41KTkWZI-k8PUcjA6PZZ_QbCv11CcgkEnWn6YuyVtn-g3fAK2Z3ZrQGDZc80A.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269513"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT : 24 KITCHENᶠᴴᴰ"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -65356,6 +65763,17 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269515"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT : 24 KITCHEN HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayzVOwF6-sZdyZdJVZ_EyXXzKG1L6IHT3rb1FflxNL6G3pnVH7zBNswe_D6BiwoTye_HMgLJsRBJcOqkfysoudbUVqpq2rD-LEN03aJZuPTjJmJeyRqM6THl_6bwQunS8zbS6ej8-77maRHHIEQs5-cw.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269516"
     Live: true
     Country: "us"
     Tag: "portugal"
@@ -65417,11 +65835,44 @@
 }
 {
     Artist: "Fast"
+    Title: "PT :  TVCINE EMOTION HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayH7KZ1LJi_5v4h9vyc1LCok7mx2BoyXorhrpWrS3Ho6wjkAyTiYK0ro7u67wkHOWMjuUmj-JQ--h_pCNj0Er5YlcG_NHzO4EmLvFdyDO9Inga0T4_r6ILoNNnvtvmA_2FcQRLjs7-feHLuw-8ylKP5w.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269522"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT :  TVCINE EDITION HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayeXT-umFY8HAnlDX6_AAyQymTjcZXdo2kdRQLBLy-lAcsbbJjigaWa618djCjFeTsLJ8UMXC9WXCe3cuiTy5J0jVSsuMIUCLN7e0mk6Y4L0sSohDKoYBUW5cX-1ZswLFKP5-qD07Vo-NC9_FnnYpghw.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269523"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT :  TVCINE EDITION FULHD HEVC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269524"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT :  TVCINE ACTION HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3aypqrvi7Be7WAHaaQTqAHzhnzt5E3JMHfBmwCo7WW26eLVgu2TTKRvFm1sUB2pMfPaxXSzcpHRNVFaaeYSPgrEzP8bjq-61V6_s2y5v82QAyjDl86FiWOnp7wu18FheedR51Nz2vZo3ZWOsr5g_ekM4g.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269525"
     Live: true
     Country: "us"
     Tag: "portugal"
@@ -65439,6 +65890,28 @@
 }
 {
     Artist: "Fast"
+    Title: "PT :  SIC RADICAL FHD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ay2UKiiGIWE6BRp4zxFH4m7KZAMXsCxhuIex3_y4rGuPz2lCyTBAR3Ur7-28mDC2e5aMeg7Iv8M3nD57_fXMuulqgzNurZ8QCrEnC-PvEvF4JGGcz4xSmkvSRjqs-AdXua5wuGk4IxOJiH8o4m8Gno1w.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269527"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT :  SIC MULHER HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayH7KZ1LJi_5v4h9vyc1LCok7mx2BoyXorhrpWrS3Ho6wHxtwBeWT0POZeu6IMDgR-Nbwn1AmGkJTuk56OGmWbkO5uNrvoCgNR6_TyqZwGfaFTVGrgEvFdm7YW6PvSJJ7XzPpJTUwcp5kzcG6QC5h-oQ.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269528"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT :  SIC K HD HEVC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -65450,11 +65923,44 @@
 }
 {
     Artist: "Fast"
+    Title: "PT :  SIC HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayeXT-umFY8HAnlDX6_AAyQymTjcZXdo2kdRQLBLy-lAdmMbDNf8XYYMyIy349rawDearMIvHq_8Cs4NZGr_6i-bvK0B0_QIKZ-dOH43pOhYYBM2ydIdyZCgm-fKAOzZ0vePm1U12Ag2qLerGH5tguzA.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269530"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT :  SIC CARAS HD HEVC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269531"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT :  RTP 3 HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayAVtnwZpkaKx-KhpUcvFPEGn9fQv8aB0F_FFxABUJsdRi6nxSXZJUbF_Cwhm1MyVOlNl1ZuZBYZT-L65NIywpuFMrR-kX4DUTFS0mvIIqWbWrAJPNS1ssNlAyOn2ByFFmUYOfRuKq1mKUu5P0ZuJcMQ.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269532"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT :  RTP 1 HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayeAwmC4BKeseA1gjoHhiBzbrWPY9jY7vAfeLVjmVJQI4Kuvz15MGkW47Jn01861pb6xQP1fSYs4iZgdMks8EdhPTYJyaETKSKxWfoVR-N0Ys8QQYjEqzs4R0VNOnZP7kmuis0fxf6USbuMWpfWx2PAQ.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269533"
     Live: true
     Country: "us"
     Tag: "portugal"
@@ -65527,6 +66033,17 @@
 }
 {
     Artist: "Fast"
+    Title: "PT :  HOLLYWOOD HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayeH6KIWmJ5enJckn6jA42TZRvhRdDsppG4CO8rRmEPXbWzxk_IYhze3bA6cAPqQDwao5hmBy1oZmSnvLuQ7uJcDQ7tG9NdPcyh_miJhS2r7LRZlNnpBbkTydZFvsk9ZpHuDCr7amZh7GoDu8RUxIf8A.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269540"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT :  HOLLYWOOD FULHD HEVC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -65560,6 +66077,17 @@
 }
 {
     Artist: "Fast"
+    Title: "PT :  FOX CRIME HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3aycotZ67yn2dAxn5k812AJiriEqLJ2egMtR3MLPkqhK8oNQJRP3FpsODN-BhDdDmhG0JXRrNnjJm78mrNbWx1wiQha6CdmQVjbtLiGH0zlB9tNlDP9niaQ228I8W6kjKLc31HvCleqkxlbBWcNehLZTw.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269544"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT :  FOX CRIME FULHD HEVC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -65582,11 +66110,33 @@
 }
 {
     Artist: "Fast"
+    Title: "PT :  CNN PORTUGALᴴᴰ HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ay2UKiiGIWE6BRp4zxFH4m7KZAMXsCxhuIex3_y4rGuPxXhvqy4olZql_05vsQ6RZT5Ui095LXzM6L2UrB5Xxf6MNjn3kBzGlR3rPQB7z7gWU_2jhiEsFnYxl7aOi0V9pzkOFi-k1uL8DL-evbNvvWYA.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269547"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT :  CASA E COZINHA HD HEVC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269548"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT :  AXN MOVIES HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ay2mTSJvJpcSD23539K81MWsix6pdtDA6UDqYSIXayTZtJ2BpfkWuz7Gtrgn6IYe0EP5OLTMUBiXUJyj8pr9fmlXOwdhOHkxWVA4sTZK2zj-KiltKdBp28qdEExrKggPMba4MGcZXZe594V3OOs2mSfQ.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269549"
     Live: true
     Country: "us"
     Tag: "portugal"
@@ -65609,6 +66159,17 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269551"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT : BENFICA TV HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ay9W-umONOFZXxGWixxbiq0FpUrROCBc0ZtRRoDOB6AAaosB59NFdTjg8QT8Tk8EHkuqVM8gy1XFS9NRQIfBa8nSJ7pFlDp-O7Q_gMeSEV-KqDwNoZ4wn94Jf0DBB_4aKZgyF5tZX0gfdPEhT613xB0Q.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269552"
     Live: true
     Country: "us"
     Tag: "portugal"
@@ -65818,6 +66379,17 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269571"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT : SPORT TV 5 HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ay2UKiiGIWE6BRp4zxFH4m7KZAMXsCxhuIex3_y4rGuPzJYFqduJQy1IynrIi8m1qb0c8LynIk06AH7YJzX16r5EDkqFXYMtfHBQe9lxJP6QcQLmlHCdPNt8tocqztiHWbPZ4IKCYdX5HjTs0F5vPk0g.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269572"
     Live: true
     Country: "us"
     Tag: "portugal"
@@ -66132,6 +66704,17 @@
 }
 {
     Artist: "Fast"
+    Title: "PT : SPORT TV 1 HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ay2mTSJvJpcSD23539K81MWsix6pdtDA6UDqYSIXayTZvqXAC_KE1m64eXTcq1xUaPDWbkIsvDc-vfv9ocbtPnar1rlfN3ZIaBYqf2P4tNtTBJ4uEtCsa9cDW4-0jrd9UNyQ_LXYkXs1VQndW3R66p-Q.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269601"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT : SPORT TV 1 FULHD HEVC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -66429,6 +67012,17 @@
 }
 {
     Artist: "Fast"
+    Title: "PT : ELEVEN SPORTS 3 HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3aypqrvi7Be7WAHaaQTqAHzhnzt5E3JMHfBmwCo7WW26eIiNd6fFPnIG7hdAu7wuW-tUqNM4GmPVqn0HWnugvI1_0RDZqnIcqzY-ram-vyNw9uhXcx7f-n8YjQjCcAEDC8Roj008qK6GFA4tv07H6-Iow.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269629"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT : ELEVEN SPORTS 3 720P"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -66473,6 +67067,17 @@
 }
 {
     Artist: "Fast"
+    Title: "PT : ELEVEN SPORTS 2 HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayR8QWfmFtwxOIitD2M0mtsvhT1BIPiiw3z1k-RBHfuxUQ2KFZIX3k0tmVNXjsv-JrMFxSRGermd6c1RidXtRYK-GFkwPEvbw80_4o8oLZrBWg3o-wTlaZQOw45sDOPAwexFZxB-fstYogPN_RhiF8_Q.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269634"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
     Title: "PT : ELEVEN SPORTS 2 FULHD HEVC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -66511,6 +67116,17 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269638"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT : ELEVEN SPORTS 1 HD HEVEC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayzVOwF6-sZdyZdJVZ_EyXXzKG1L6IHT3rb1FflxNL6G2nuDA0NcQKNyajbY6nRNplCrPXnU_ObQmoDDO2rtiJLHV2RpC0SqARL7CQIfnXTHW5jOQrkCDRRiWNp9SP0-pxt05QuoAsuUT1klGhvGlvtw.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269639"
     Live: true
     Country: "us"
     Tag: "portugal"
@@ -66588,6 +67204,39 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269646"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT :  SPORT TV 3 HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ay2UKiiGIWE6BRp4zxFH4m7KZAMXsCxhuIex3_y4rGuPwoIxfHwzqHmb0TOhAy_Y_5l0HW8Ai-bwqedM66RzV4FuHfrP04C-Jeq3yoW0ZHUHVtOi7YGiQGq2__0v4tVqrmNFy4D53iuHah2p0knSA8Qg.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269647"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT :  SPORT TV 2 HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayeH6KIWmJ5enJckn6jA42TZRvhRdDsppG4CO8rRmEPXaKfjgRp116eMYKGzeMffr-hhUkEdA7F4r3zc_nEb2F23StqKvhhcdpZOZVT7oh1tWpMm4FENY24wh8k4rXKemhvtXzJ_klhxRDgBLZjLw_1Q.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269648"
+    Live: true
+    Country: "us"
+    Tag: "portugal"
+}
+{
+    Artist: "Fast"
+    Title: "PT :  SPORT TV  HD HEVC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayAVtnwZpkaKx-KhpUcvFPEGn9fQv8aB0F_FFxABUJsdTUmOWnFw0a9OkoobytpMhddIiDJj0kxQ7Q9h6KZZJ0bCfsKuywy7h7c330EzK-U0fA7bBHFHCseDi-BUZWyngZK7DsWRTI4nFoXw_Tidav5w.png"
+    Stream: "http[:[[/]][[/]]]fastream[.]xyz:8080[/]juan18[/]83e45w87w[/]269649"
     Live: true
     Country: "us"
     Tag: "portugal"
