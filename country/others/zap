@@ -1,6 +1,6 @@
 {
     Artist: "Zapp"
-    Title: "PPV 1  Amistoso 18:30 Canada vs Ecuador"
+    Title: "PPV 1 "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -11,7 +11,7 @@
 }
 {
     Artist: "Zapp"
-    Title: "PPV 2  Amistoso 18:30 Canada vs Ecuador"
+    Title: "PPV 2 "
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -4290,806 +4290,883 @@
 }
 {
     Artist: "Zapp"
-    Title: "MLSNFLMLBNHLSunday NFL Red Zone"
+    Title: "Sunday NFL Red Zone"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.rev.bs/wp-content/uploads/2021/09/REDZONE-LOGO-1-1024x478.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156790"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156991"
     Live: true
     Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
+    Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "MLSNFLMLBNHLSunday NFL Red Zone"
+    Title: "Sunday NFL Red Zone"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.rev.bs/wp-content/uploads/2021/09/REDZONE-LOGO-1-1024x478.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156791"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "Expansion MX 19:15 Atletico Morelia vs Cancun"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/8/83/Liga_de_expansi%C3%B3n_MX.logopng.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156792"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156992"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "Expansion MX 20:30 Leones Negros UdeG vs Tampico Madero"
+    Title: "Clasif Mundial 11:00 Finlandia vs Malta"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/8/83/Liga_de_expansi%C3%B3n_MX.logopng.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156793"
+    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156993"
+    Live: true
+    Country: "us"
+    Tag: "eliminatorias 2026"
+}
+{
+    Artist: "Zapp"
+    Title: "Clasif Mundial 13:45 Eslovaquia vs Irlanda del Norte"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156994"
+    Live: true
+    Country: "us"
+    Tag: "eliminatorias 2026"
+}
+{
+    Artist: "Zapp"
+    Title: "Clasif Mundial 13:45 Gibraltar vs Montenegro"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156995"
+    Live: true
+    Country: "us"
+    Tag: "eliminatorias 2026"
+}
+{
+    Artist: "Zapp"
+    Title: "Clasif Mundial 13:45 Luxemburgo vs Alemania"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156996"
+    Live: true
+    Country: "us"
+    Tag: "eliminatorias 2026"
+}
+{
+    Artist: "Zapp"
+    Title: "Clasif Mundial 13:45 Polonia vs Paises Bajos"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156997"
+    Live: true
+    Country: "us"
+    Tag: "eliminatorias 2026"
+}
+{
+    Artist: "Zapp"
+    Title: "Clasif Mundial 13:45 Croacia vs Islas Feroe"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156998"
+    Live: true
+    Country: "us"
+    Tag: "eliminatorias 2026"
+}
+{
+    Artist: "Zapp"
+    Title: "Mundial Sub17 6:30 Zambia Sub17 vs Mali Sub17"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/field/image/mundial-sub-17-logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156999"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "Liga MX Fem 18:00 Cruz Azul vs Tigres UANL"
+    Title: "Mundial Sub17 6:30 Portugal Sub17 vs Belgica Sub17"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.seeklogo.com/logo-png/31/2/ligamx-femenil-logo-png_seeklogo-313609.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156794"
+    Logo: "https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/field/image/mundial-sub-17-logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157000"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "Liga MX Fem 20:07 Guadalajara vs America"
+    Title: "Mundial Sub17 7:00 Suiza Sub17 vs Egipto Sub17"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.seeklogo.com/logo-png/31/2/ligamx-femenil-logo-png_seeklogo-313609.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156795"
+    Logo: "https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/field/image/mundial-sub-17-logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157001"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "Clasif Mundial 10:00 Emiratos Arabes Unidos vs Iraq"
+    Title: "Mundial Sub17 7:30 Francia Sub17 vs Colombia Sub17"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156796"
+    Logo: "https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/field/image/mundial-sub-17-logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157002"
     Live: true
     Country: "us"
-    Tag: "eliminatorias 2026"
+    Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "Clasif Mundial 10:00 Nigeria vs Gabon"
+    Title: "Mundial Sub17 8:45 Argentina Sub17 vs Mexico Sub17"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156797"
+    Logo: "https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/field/image/mundial-sub-17-logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157003"
     Live: true
     Country: "us"
-    Tag: "eliminatorias 2026"
+    Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "Clasif Mundial 11:00 Armenia vs Hungria"
+    Title: "Mundial Sub17 9:15 Republic of Ireland Sub17 vs Canada Sub17"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156798"
+    Logo: "https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/field/image/mundial-sub-17-logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157004"
     Live: true
     Country: "us"
-    Tag: "eliminatorias 2026"
+    Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "Clasif Mundial 11:00 Noruega vs Estonia"
+    Title: "Mundial Sub17 9:45 Brasil Sub17 vs Paraguay Sub17"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156799"
+    Logo: "https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/field/image/mundial-sub-17-logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157005"
     Live: true
     Country: "us"
-    Tag: "eliminatorias 2026"
+    Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "Clasif Mundial 11:00 Azerbaiyan vs Islandia"
+    Title: "Mundial Sub17 9:45 Estados Unidos Sub17 vs Marruecos Sub17"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156800"
+    Logo: "https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/field/image/mundial-sub-17-logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157006"
     Live: true
     Country: "us"
-    Tag: "eliminatorias 2026"
+    Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "Clasif Mundial 13:00 Camerun vs RD del Congo"
+    Title: "Clasif Eurocopa Sub21 13:45 Espana Sub21 vs San Marino Sub21"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156801"
+    Logo: "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/pngs/13.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157007"
     Live: true
     Country: "us"
-    Tag: "eliminatorias 2026"
+    Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "Clasif Mundial 13:45 Moldavia vs Italia"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156802"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "Clasif Mundial 13:45 Francia vs Ucrania"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156803"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "Clasif Mundial 13:45 Inglaterra vs Serbia"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156804"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "Clasif Mundial 13:45 Andorra vs Albania"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156805"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "Clasif Mundial 13:45 Republica de Irlanda vs Portugal"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156806"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "Clasif Mundial 16:00 Surinam vs El Salvador"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156807"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "Clasif Mundial 18:00 Trinidad y Tobago vs Jamaica"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156808"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "Clasif Mundial 18:00 Bermudas vs Curazao"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156809"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "Clasif Mundial 20:00 Haiti vs Costa Rica"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156810"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "Clasif Mundial 20:00 Guatemala vs Panama"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156811"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "Clasif Mundial 20:00 Nicaragua vs Honduras"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/18/16843852531648.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156812"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "Amistoso 11:00 Iran vs Islas de Cabo Verde"
+    Title: "Amistoso Sub20 08:00 Alemania vs Rumania"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://png.pngtree.com/png-vector/20220722/ourmid/pngtree-fifa-logo-png-image_6034648.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156813"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157008"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "Amistoso 11:00 Macedonia del Norte vs Letonia"
+    Title: "Amistoso 10:00 Angola vs Argentina"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://png.pngtree.com/png-vector/20220722/ourmid/pngtree-fifa-logo-png-image_6034648.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156814"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157009"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "Amistoso 11:00 Republica Checa vs San Marino"
+    Title: "Amistoso 11:00 Uzbekistan vs Egipto"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://png.pngtree.com/png-vector/20220722/ourmid/pngtree-fifa-logo-png-image_6034648.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156815"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157010"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "Amistoso 11:00 Lituania vs Israel"
+    Title: "Amistoso 20:30 Venezuela vs Australia"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://png.pngtree.com/png-vector/20220722/ourmid/pngtree-fifa-logo-png-image_6034648.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156816"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157011"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "Amistoso 18:30 Canada vs Ecuador"
+    Title: "Argentina 17:00 Lanus vs Atletico Tucuman"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://png.pngtree.com/png-vector/20220722/ourmid/pngtree-fifa-logo-png-image_6034648.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156817"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157012"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "Colombia 18:00 ULTIMA FECHA"
+    Title: "LaLiga SmartBank 13:30 Real Valladolid vs Las Palmas"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156818"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/512px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157013"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Mens Soccer 12:00 Iona vs Siena"
+    Title: "Australia Women 21:45 Sydney FC vs Perth Glory"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156819"
+    Logo: "https://1000logos.net/wp-content/uploads/2019/01/A-League-Logo-2017.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157014"
     Live: true
     Country: "us"
-    Tag: "evento ncaa (solo eventos)"
+    Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Mens Soccer 17:00 Fairfield vs Sacred Heart"
+    Title: "Panama 15:00 Universitario vs Herrera"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156820"
+    Logo: "https://upload.wikimedia.org/wikipedia/en/b/b2/Liga_Paname%C3%B1a_de_F%C3%BAtbol_%282018%29.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157015"
     Live: true
     Country: "us"
-    Tag: "evento ncaa (solo eventos)"
+    Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Womens Basketball 10:00 Morehead State vs Ohio"
+    Title: "Argentine Copa Potrero  06:15 Cancha 4"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156821"
+    Logo: "https://admin.cp.timbo.futbol/uploads/rosters/1762697070JoA53.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157016"
     Live: true
     Country: "us"
-    Tag: "evento ncaa (solo eventos)"
+    Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Womens Basketball 11:00 New Hampshire vs Green Bay"
+    Title: "Argentine Copa Potrero  06:15 Cancha 6"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156822"
+    Logo: "https://admin.cp.timbo.futbol/uploads/rosters/1762697070JoA53.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157017"
     Live: true
     Country: "us"
-    Tag: "evento ncaa (solo eventos)"
+    Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Womens Basketball 12:00 IU Southeast vs Miami"
+    Title: "Argentine Copa Potrero  06:30 Cancha 3"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156823"
+    Logo: "https://admin.cp.timbo.futbol/uploads/rosters/1762697070JoA53.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157018"
     Live: true
     Country: "us"
-    Tag: "evento ncaa (solo eventos)"
+    Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Womens Basketball 16:00 South Dakota vs Kansas State"
+    Title: "Argentine Copa Potrero  06:30 Cancha 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156824"
+    Logo: "https://admin.cp.timbo.futbol/uploads/rosters/1762697070JoA53.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157019"
     Live: true
     Country: "us"
-    Tag: "evento ncaa (solo eventos)"
+    Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Womens Basketball 17:00 Siena vs Army"
+    Title: "Argentine Copa Potrero  10:30 Canchas 1 y 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156825"
+    Logo: "https://admin.cp.timbo.futbol/uploads/rosters/1762697070JoA53.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157020"
     Live: true
     Country: "us"
-    Tag: "evento ncaa (solo eventos)"
+    Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "NCAA Mens Basketball 17:30 Bryan vs UNC Asheville"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156826"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Mens Basketball 18:00 Vorhees College vs Western Carolina"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156827"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Mens Basketball 18:30 Loyola Chicago vs Wichita State"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156828"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Mens Basketball 19:00 Benedictine vs Northern Illinois"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156829"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Basketball 19:30 Saint Peters vs Lafayette"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156830"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Basketball 20:00 Colorado State vs Gonzaga"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156831"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Basketball 23:00 Saint Martins vs Hawaii"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156832"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Volleyball 11:05 Weber State vs Northern Arizona"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156833"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Volleyball 17:00 Western Michigan vs Ohio"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156834"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Volleyball 18:00 UNC Greensboro vs East Tennessee State"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156835"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Volleyball 18:30 UT Rio Grande Valley vs Northwestern State"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156836"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Volleyball 19:00 25 Iowa State vs Houston"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156837"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Volleyball 19:30 UT Arlington vs Southern Utah"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156838"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Volleyball 20:00 San Diego vs Oregon State"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156839"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Volleyball 20:00 16 TCU vs 22 Colorado"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156840"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Volleyball 20:00 Arizona vs 8 Arizona State"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156841"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Volleyball 21:00 UC Riverside vs Long Beach State"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156842"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Football 18:30 Old Dominion vs Troy"
+    Title: "NCAA Football 18:30 Louisville vs Clemson"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156843"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157021"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNBA 01  Nov132025 6:00PM  Toronto Raptors at Cleveland Cavaliers"
+    Title: "NCAA Womens Basketball 10:00 La Salle vs Temple"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157022"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Womens Basketball 11:00 North Florida vs South Alabama"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157023"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Womens Basketball 12:30 Yale vs St Johns"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157024"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Mens Basketball 17:00 Washington College vs Navy"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157025"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Womens Basketball 18:30 Bowling Green vs Marquette"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157026"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Womens Basketball 19:00 Pepperdine vs Utah Valley"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157027"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Mens Basketball 19:00 Milwaukee vs 11 Texas Tech"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157028"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Mens Basketball 19:15 Hampton vs Brown"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157029"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Mens Basketball 20:00 Cal Poly vs Montana"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157030"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Mens Basketball 21:00 Troy vs Loyola Marymount"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157031"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Mens Basketball 21:30 Western Illinois vs California Baptist"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157032"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Mens Basketball 22:00 Washington vs Washington State"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157033"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Mens Basketball 23:00 Manhattan vs Hawaii"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157034"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Womens Volleyball 12:00 Sacred Heart vs Iona"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157035"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Womens Volleyball 15:00 Green Bay vs Robert Morris"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157036"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Womens Volleyball 16:00 Morehead State vs Eastern Illinois"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157037"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Womens Volleyball 17:00 Duquesne vs George Washington"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157038"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Womens Volleyball 17:30 Eastern Michigan vs Miami"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157039"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Womens Volleyball 18:00 Tennessee Tech vs Little Rock"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157040"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Womens Volleyball 18:00 12 Creighton vs St Johns"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157041"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Womens Volleyball 18:30 Mercer vs Samford"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157042"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Womens Volleyball 19:00 Florida International vs UTEP"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157043"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Womens Volleyball 20:00 23 BYU vs Utah"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157044"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Womens Volleyball 20:30 Cal State Fullerton vs Cal State Bakersfield"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157045"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Womens Volleyball 21:00 Hawaii vs UC Santa Barbara"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157046"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Womens Field Hockey 13:30 Iowa vs Duke"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157047"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Womens Hockey 14:00 4 Cornell vs 14 Colgate"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157048"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Mens Hockey 18:00 20 Dartmouth vs St Lawrence"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157049"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Mens Hockey 18:00 Vermont vs 10 Maine"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157050"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Mens Hockey 18:00 11 Northeastern vs 13 UConn"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157051"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Mens Hockey 18:00 Brown vs 19 Cornell"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157052"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Mens Hockey 18:00 Merrimack vs 15 Providence"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157053"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Mens Hockey 18:00 13 Massachusetts vs 16 Boston College"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157054"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "NCAA Mens Hockey 18:30 Yale vs Colgate"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157055"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Zapp"
+    Title: "MLSNFLMLBNHLNBA 01  Nov142025 6:00PM  Miami Heat at New York Knicks"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156844"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157056"
     Live: true
     Country: "us"
     Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
 }
 {
     Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNBA 02  Nov132025 8:00PM  Indiana Pacers at Phoenix Suns"
+    Title: "MLSNFLMLBNHLNBA 02  Nov142025 6:00PM  Brooklyn Nets at Orlando Magic"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156845"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157057"
     Live: true
     Country: "us"
     Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
 }
 {
     Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNBA 03  Nov132025 8:00PM  Atlanta Hawks at Utah Jazz"
+    Title: "MLSNFLMLBNHLNBA 03  Nov142025 6:30PM  Philadelphia 76ers at Detroit Pistons"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156846"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157058"
     Live: true
     Country: "us"
     Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
 }
 {
     Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNBA G League 10:00 Capitanes de Ciudad de Mexico vs  Osceola Magic"
+    Title: "MLSNFLMLBNHLNBA 04  Nov142025 7:00PM  Portland Trail Blazers at Houston Rockets"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fleagues%2F500%2Fnba_gleague.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156847"
+    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157059"
     Live: true
     Country: "us"
     Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
 }
 {
     Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNBA G League 18:00 Greensboro Swarm vs Delaware Blue Coats"
+    Title: "MLSNFLMLBNHLNBA 05  Nov142025 7:00PM  Charlotte Hornets at Milwaukee Bucks"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fleagues%2F500%2Fnba_gleague.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156848"
+    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157060"
     Live: true
     Country: "us"
     Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
 }
 {
     Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNBA G League 18:00 Iowa Wolves vs Grand Rapids Gold"
+    Title: "MLSNFLMLBNHLNBA 06  Nov142025 7:00PM  Sacramento Kings at Minnesota Timberwolves"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fleagues%2F500%2Fnba_gleague.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156849"
+    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157061"
     Live: true
     Country: "us"
     Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
 }
 {
     Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNBA G League 19:00 Memphis Hustle vs Oklahoma City Blue"
+    Title: "MLSNFLMLBNHLNBA 07  Nov142025 7:00PM  Los Angeles Lakers at New Orleans Pelicans"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fleagues%2F500%2Fnba_gleague.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156850"
+    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157062"
     Live: true
     Country: "us"
     Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
 }
 {
     Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNFL 19:15 New England Patriots vs New York Jets ESP"
+    Title: "MLSNFLMLBNHLNBA 08  Nov142025 7:30PM  LA Clippers at Dallas Mavericks"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://whdh.com/wp-content/uploads/sites/3/2021/11/Patriots_Jets.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156851"
+    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157063"
     Live: true
     Country: "us"
     Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
 }
 {
     Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNFL 19:15 New England Patriots vs New York Jets"
+    Title: "MLSNFLMLBNHLNBA 09  Nov142025 8:30PM  Golden State Warriors at San Antonio Spurs"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://whdh.com/wp-content/uploads/sites/3/2021/11/Patriots_Jets.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156852"
+    Logo: "https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157064"
     Live: true
     Country: "us"
     Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
 }
 {
     Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNHL 18:00 Detroit Red Wings vs Anaheim Ducks"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156853"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNHL 18:00 Florida Pantehrs vs Washington Capitals"
+    Title: "MLSNFLMLBNHLNHL 13:00 Nashville Predators vs Pittsburgh Penguins"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156854"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157065"
     Live: true
     Country: "us"
     Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
 }
 {
     Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNHL 18:00 Montreal Canadiens vs Dallas Stars"
+    Title: "MLSNFLMLBNHLNHL 18:00 Carolina Hurricanes vs Vancouver Canucks"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156855"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157066"
     Live: true
     Country: "us"
     Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
 }
 {
     Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNHL 18:00 Ottawa Senators vs Boston Bruins"
+    Title: "MLSNFLMLBNHLNHL 19:00 St Louis Blues vs Philadelphia Flyers"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156856"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157067"
     Live: true
     Country: "us"
     Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
 }
 {
     Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNHL 18:00 Toronto Maple Leafs vs Los Angeles Kings"
+    Title: "MLSNFLMLBNHLNHL 20:00 Utah Mammoth vs New York Islanders"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156857"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157068"
     Live: true
     Country: "us"
     Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
 }
 {
     Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNHL 18:30 Columbus Blue Jackets vs Edmonton Oilers"
+    Title: "MotoGP  03:30 Motul Grand Prix of the Valencian Community  Free Practice 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156858"
+    Logo: "https://w7.pngwing.com/pngs/336/574/png-transparent-2018-motogp-season-motogp-2-moto2-circuit-ricardo-tormo-moto-gp-angle-text-racing-thumbnail.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157069"
     Live: true
     Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
+    Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNHL 20:00 Calgary Flames vs San Jose Sharks"
+    Title: "MotoGP  08:00 Motul Grand Prix of the Valencian Community  Practice"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156859"
+    Logo: "https://w7.pngwing.com/pngs/336/574/png-transparent-2018-motogp-season-motogp-2-moto2-circuit-ricardo-tormo-moto-gp-angle-text-racing-thumbnail.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157070"
     Live: true
     Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNHL 20:00 Colorado Avalache vs Buffalo Sabres"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156860"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNHL 21:00 Seattle Kraken vs Winnipeg Jets"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156861"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNHL 21:00 Vegas Golden Knights vs New York Islanders"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156862"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
+    Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
@@ -5097,18 +5174,29 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156863"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157071"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "ATP  07:00 Taylor Fritz  vs  Alex de Minaur"
+    Title: "ATP  07:00 Jannik Sinner  vs  Ben Shelton"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156864"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157072"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Zapp"
+    Title: "ATP  10:30 Uruguay Open"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157073"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
@@ -5119,40 +5207,18 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156865"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157074"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "ATP  11:00 Uruguay Open"
+    Title: "ATP  13:30 Alexander Zverev  vs  Felix AugerAliassime"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156866"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "ATP  13:30 Carlos Alcaraz  vs  Lorenzo Musetti"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156867"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "BOX  17:30 Steve Butler vs  Stephane Fondjo"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://schedule.fightmag.com/wp-content/uploads/2025/09/steven-butler-vs-stephane-fondjo-696x392.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156868"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157075"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
@@ -5163,7 +5229,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://d1f00kj7ad54bu.cloudfront.net/Pictures/2000xAny/1/4/4/14144_premierpadel2_680106.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156869"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157076"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
@@ -5174,7 +5240,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://d1f00kj7ad54bu.cloudfront.net/Pictures/2000xAny/1/4/4/14144_premierpadel2_680106.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156870"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157077"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
@@ -5185,1305 +5251,337 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://d1f00kj7ad54bu.cloudfront.net/Pictures/2000xAny/1/4/4/14144_premierpadel2_680106.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156871"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157078"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "U S  Curling Trials: Dropkin vs  Casper 12:00"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://curlrochester.org/images/com_eventbooking/us_olympic_trials.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156872"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "U S  Curling Trials: Strouse vs  Johnson 12:00"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://curlrochester.org/images/com_eventbooking/us_olympic_trials.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156873"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "U S  Curling Trials: Peterson vs  Cousins 12:00"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://curlrochester.org/images/com_eventbooking/us_olympic_trials.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156874"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "U S  Curling Trials: Shuster vs  Hebert 12:00"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://curlrochester.org/images/com_eventbooking/us_olympic_trials.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156875"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "U S  Curling Trials: Peterson vs  Strouse 19:00"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://curlrochester.org/images/com_eventbooking/us_olympic_trials.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156876"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "U S  Curling Trials: Dropkin vs  Shuster 19:00"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://curlrochester.org/images/com_eventbooking/us_olympic_trials.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156877"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "U S  Curling Trials: Hebert vs  Casper 19:00"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://curlrochester.org/images/com_eventbooking/us_olympic_trials.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156878"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "U S  Curling Trials: Johnson vs  Cousins 19:00"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://curlrochester.org/images/com_eventbooking/us_olympic_trials.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156879"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLLMP  13 nov  20:00 Venados de Mazatlan vs Tucson"
+    Title: "MLSNFLMLBNHLLMP  14 nov  19:30 Charros de Jalisco vs Tucson"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156880"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157079"
     Live: true
     Country: "us"
     Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
 }
 {
     Artist: "Zapp"
-    Title: "MLSNFLMLBNHLLMP  13 nov  20:05 Tomateros de Culiacan vs Charros de Jalisco"
+    Title: "MLSNFLMLBNHLLMP  14 nov  20:00 Venados de Mazatlan vs Naranjeros de Hermosillo"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156881"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157080"
     Live: true
     Country: "us"
     Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
 }
 {
     Artist: "Zapp"
-    Title: "MLSNFLMLBNHLLMP  13 nov  20:10 Yaquis de Obregon vs Aguilas de Mexicali"
+    Title: "MLSNFLMLBNHLLMP  14 nov  20:30 Algodoneros de Guasave vs Tomateros de Culiacan"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156882"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157081"
     Live: true
     Country: "us"
     Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
 }
 {
     Artist: "Zapp"
-    Title: "MLSNFLMLBNHLLMP  13 nov  20:30 Caneros de Los Mochis vs Algodoneros de Guasave"
+    Title: "MLSNFLMLBNHLLMP  14 nov  21:00 Jaguares de Nayarit vs Yaquis de Obregon"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156883"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157082"
     Live: true
     Country: "us"
     Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
 }
 {
     Artist: "Zapp"
-    Title: "MLSNFLMLBNHLLMP  13 nov  20:30 Naranjeros de Hermosillo vs Jaguares de Nayarit"
+    Title: "MLSNFLMLBNHLLMP  14 nov  21:30 Aguilas de Mexicali vs Caneros de Los Mochis"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156884"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157083"
     Live: true
     Country: "us"
     Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
 }
 {
     Artist: "Zapp"
-    Title: "12:00  Noruega vs Estonia  01"
+    Title: ":15 New York Jets vs New England Patriots op2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156885"
+    Logo: "https://i.imgur.com/rsSVCBR.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157084"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Zapp"
+    Title: ":30 Real Valladolid vs Las Palmas"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/g7qX5oN.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157085"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Zapp"
+    Title: ":00 CA Lanus vs Atletico Tucuman"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/MukTXpS.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157086"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Zapp"
+    Title: "MLSNFLMLBNHL18:00 Miami Heat vs New York Knicks"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/BZFABCj.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157087"
+    Live: true
+    Country: "us"
+    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
+}
+{
+    Artist: "Zapp"
+    Title: "MLSNFLMLBNHL18:00 Brooklyn Nets vs Orlando Magic"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/BZFABCj.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157088"
+    Live: true
+    Country: "us"
+    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
+}
+{
+    Artist: "Zapp"
+    Title: "MLSNFLMLBNHL18:30 Philadelphia 76ers vs Detroit Pistons"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/BZFABCj.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157089"
+    Live: true
+    Country: "us"
+    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
+}
+{
+    Artist: "Zapp"
+    Title: "MLSNFLMLBNHL19:00 Portland Trail Blazers vs Houston Rockets"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/BZFABCj.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157090"
+    Live: true
+    Country: "us"
+    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
+}
+{
+    Artist: "Zapp"
+    Title: "MLSNFLMLBNHL19:00 Charlotte Hornets vs Milwaukee Bucks"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/BZFABCj.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157091"
+    Live: true
+    Country: "us"
+    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
+}
+{
+    Artist: "Zapp"
+    Title: "MLSNFLMLBNHL19:00 Sacramento Kings vs Minnesota Timberwolves"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/BZFABCj.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157092"
+    Live: true
+    Country: "us"
+    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
+}
+{
+    Artist: "Zapp"
+    Title: "MLSNFLMLBNHL19:00 Los Angeles Lakers vs New Orleans Pelicans"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/BZFABCj.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157093"
+    Live: true
+    Country: "us"
+    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
+}
+{
+    Artist: "Zapp"
+    Title: "MLSNFLMLBNHL19:30 Los Angeles Clippers vs Dallas Mavericks"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/BZFABCj.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157094"
+    Live: true
+    Country: "us"
+    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
+}
+{
+    Artist: "Zapp"
+    Title: "MLSNFLMLBNHL20:30 Golden State Warriors vs San Antonio Spurs"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/BZFABCj.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157095"
+    Live: true
+    Country: "us"
+    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
+}
+{
+    Artist: "Zapp"
+    Title: ":00 Corea del Sur vs Bolivia"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/dEBZGcE.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157096"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Zapp"
+    Title: ":00 Angola vs Argentina"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/dEBZGcE.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157097"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Zapp"
+    Title: ":00 Uzbekistan vs Egipto"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/dEBZGcE.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157098"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Zapp"
+    Title: ":30 Venezuela vs Australia"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/dEBZGcE.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157099"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Zapp"
+    Title: ":00 Finland vs Malta"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/oFYhqsm.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157100"
     Live: true
     Country: "us"
     Tag: "eliminatorias 2026"
 }
 {
     Artist: "Zapp"
-    Title: "12:00  Armenia vs Hungria  02  "
+    Title: ":45 Luxembourg vs Germany"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156886"
+    Logo: "https://i.imgur.com/oFYhqsm.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157101"
     Live: true
     Country: "us"
     Tag: "eliminatorias 2026"
 }
 {
     Artist: "Zapp"
-    Title: "12:00  Azerbaiyan vs Islandia  03  "
+    Title: ":45 Slovakia vs Northern Ireland"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156887"
+    Logo: "https://i.imgur.com/oFYhqsm.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157102"
     Live: true
     Country: "us"
     Tag: "eliminatorias 2026"
 }
 {
     Artist: "Zapp"
-    Title: "14:45  Irlanda vs Portugal  04  "
+    Title: ":45 Poland vs Netherlands"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156888"
+    Logo: "https://i.imgur.com/oFYhqsm.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157103"
     Live: true
     Country: "us"
     Tag: "eliminatorias 2026"
 }
 {
     Artist: "Zapp"
-    Title: "14:45  Irlanda vs Portugal  05  "
+    Title: ":45 Croatia vs Faroe Islands"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156889"
+    Logo: "https://i.imgur.com/oFYhqsm.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157104"
     Live: true
     Country: "us"
     Tag: "eliminatorias 2026"
 }
 {
     Artist: "Zapp"
-    Title: "14:45  Francia vs Ucrania  06  "
+    Title: "EC  05  LIGA PR0"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156890"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "14:45  Francia vs Ucrania  07  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156891"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "14:45  Inglaterra vs Serbia  08  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156892"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "14:45  Moldavia vs Italia  09  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156893"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "14:45  Andorra vs Albania  10  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156894"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "Expansion MX 19:15 Atletico Morelia vs Cancun  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7f1DuGeFIhr-wuYM-bw6f7UP6neD3tSyflv_zlhW2-VXmVrQKd-S5ReLhp1JgoB8trYF1-bv2LJewB4eqQV7o4L.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156895"
+    Logo: "https://www.ole.com.ar/images/2024/09/29/l5a7Qzngk_1290x760__1.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157105"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "Expansion MX 20:30 Leones Negros UdeG vs Tampico Madero  "
+    Title: "EC  01  LIGA PR0"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7f1DuGeFIhr-wuYM-bw6f7UP6neD3tSyflv_zlhW2-VXmVrQKd-S5ReLhp1JgoB8trYF1-bv2LJewB4eqQV7o4L.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156896"
+    Logo: "https://www.ole.com.ar/images/2024/09/29/l5a7Qzngk_1290x760__1.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157106"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "Liga MX Fem 18:00 Cruz Azul vs Tigres UANL  "
+    Title: "EC  02  LIGA PR0"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/VbY1iz6hcYRYJs-Cg0XrJa8cu5lNhsNxLcdZrYi6AFzD5FOxGrOC2QVs1IMOLpQbHxDwrXL44y0-izJUif_T9_Eu4x8zQdCL83KigIFkz5mXTs3HBRHiOybUYEtW3nNN.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156897"
+    Logo: "https://www.ole.com.ar/images/2024/09/29/l5a7Qzngk_1290x760__1.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157107"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Zapp"
-    Title: "Liga MX Fem 20:07 Guadalajara vs America  "
+    Title: "EC  03  LIGA PR0"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/VbY1iz6hcYRYJs-Cg0XrJa8cu5lNhsNxLcdZrYi6AFzD5FOxGrOC2QVs1IMOLpQbHxDwrXL44y0-izJUif_T9_Eu4x8zQdCL83KigIFkz5mXTs3HBRHiOybUYEtW3nNN.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156898"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "Colombia 18:00 ULTIMA FECHA  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/rVvgVF3JvOrR1QOwtvt_yY1ac2JeOWlro8KfwA51t41hRuHxCxWhZXsB0OmwtFOq6LWdVi2BILJvoo_OECj0AFobZAcShIDY0FamXbVTGTg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156899"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Mens Soccer 12:00 Iona vs Siena  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/qS7wf0_WrXZJ2CP7X_eSWMK5_YOJ67biiue_nlj67m3XzcCSy4i8AguizUmCQ14t76ib7ybaKzf3a1qt97np-LLyz5dUcxhhf3OauvWHDgiXwIR0HOWN9bU_nztVeb7o.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156900"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Mens Soccer 17:00 Fairfield vs Sacred Heart  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/qS7wf0_WrXZJ2CP7X_eSWMK5_YOJ67biiue_nlj67m3XzcCSy4i8AguizUmCQ14t76ib7ybaKzf3a1qt97np-LLyz5dUcxhhf3OauvWHDgiXwIR0HOWN9bU_nztVeb7o.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156901"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Basketball 10:00 Morehead State vs Ohio  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7d44jtOK93IlBTQxWew2uu8JZ31X3x2_sJKNSsXNfpblrPUbnTnIypoGuD5SZyosjyz3ugRS5EWyyMoosRaSXmG.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156902"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Basketball 11:00 New Hampshire vs Green Bay  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7d44jtOK93IlBTQxWew2uu8JZ31X3x2_sJKNSsXNfpblrPUbnTnIypoGuD5SZyosjyz3ugRS5EWyyMoosRaSXmG.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156903"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Basketball 12:00 IU Southeast vs Miami   "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7d44jtOK93IlBTQxWew2uu8JZ31X3x2_sJKNSsXNfpblrPUbnTnIypoGuD5SZyosjyz3ugRS5EWyyMoosRaSXmG.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156904"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Basketball 16:00 South Dakota vs Kansas State  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7d44jtOK93IlBTQxWew2uu8JZ31X3x2_sJKNSsXNfpblrPUbnTnIypoGuD5SZyosjyz3ugRS5EWyyMoosRaSXmG.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156905"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Basketball 17:00 Siena vs Army  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7d44jtOK93IlBTQxWew2uu8JZ31X3x2_sJKNSsXNfpblrPUbnTnIypoGuD5SZyosjyz3ugRS5EWyyMoosRaSXmG.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156906"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Mens Basketball 17:30 Bryan vs UNC Asheville  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7d44jtOK93IlBTQxWew2uu8JZ31X3x2_sJKNSsXNfpblrPUbnTnIypoGuD5SZyosjyz3ugRS5EWyyMoosRaSXmG.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156907"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Mens Basketball 18:00 Vorhees College vs Western Carolina  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7d44jtOK93IlBTQxWew2uu8JZ31X3x2_sJKNSsXNfpblrPUbnTnIypoGuD5SZyosjyz3ugRS5EWyyMoosRaSXmG.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156908"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Mens Basketball 18:30 Loyola Chicago vs Wichita State  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7d44jtOK93IlBTQxWew2uu8JZ31X3x2_sJKNSsXNfpblrPUbnTnIypoGuD5SZyosjyz3ugRS5EWyyMoosRaSXmG.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156909"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Mens Basketball 19:00 Benedictine vs Northern Illinois  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7d44jtOK93IlBTQxWew2uu8JZ31X3x2_sJKNSsXNfpblrPUbnTnIypoGuD5SZyosjyz3ugRS5EWyyMoosRaSXmG.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156910"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Basketball 19:30 Saint Peters vs Lafayette  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7d44jtOK93IlBTQxWew2uu8JZ31X3x2_sJKNSsXNfpblrPUbnTnIypoGuD5SZyosjyz3ugRS5EWyyMoosRaSXmG.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156911"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Basketball 20:00 Colorado State vs Gonzaga  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7d44jtOK93IlBTQxWew2uu8JZ31X3x2_sJKNSsXNfpblrPUbnTnIypoGuD5SZyosjyz3ugRS5EWyyMoosRaSXmG.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156912"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Basketball 23:00 Saint Martins vs Hawaii  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7d44jtOK93IlBTQxWew2uu8JZ31X3x2_sJKNSsXNfpblrPUbnTnIypoGuD5SZyosjyz3ugRS5EWyyMoosRaSXmG.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156913"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Volleyball 11:05 Weber State vs Northern Arizona"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7d44jtOK93IlBTQxWew2uu8JZ31X3x2_sJKNSsXNfpblrPUbnTnIypoGuD5SZyosjyz3ugRS5EWyyMoosRaSXmG.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156914"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Volleyball 17:00 Western Michigan vs Ohio"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7d44jtOK93IlBTQxWew2uu8JZ31X3x2_sJKNSsXNfpblrPUbnTnIypoGuD5SZyosjyz3ugRS5EWyyMoosRaSXmG.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156915"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Volleyball 18:00 UNC Greensboro vs East Tennessee State"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7d44jtOK93IlBTQxWew2uu8JZ31X3x2_sJKNSsXNfpblrPUbnTnIypoGuD5SZyosjyz3ugRS5EWyyMoosRaSXmG.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156916"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Volleyball 18:30 UT Rio Grande Valley vs Northwestern State"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7d44jtOK93IlBTQxWew2uu8JZ31X3x2_sJKNSsXNfpblrPUbnTnIypoGuD5SZyosjyz3ugRS5EWyyMoosRaSXmG.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156917"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Volleyball 19:00 25 Iowa State vs Houston"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7d44jtOK93IlBTQxWew2uu8JZ31X3x2_sJKNSsXNfpblrPUbnTnIypoGuD5SZyosjyz3ugRS5EWyyMoosRaSXmG.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156918"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Volleyball 19:30 UT Arlington vs Southern Utah"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7d44jtOK93IlBTQxWew2uu8JZ31X3x2_sJKNSsXNfpblrPUbnTnIypoGuD5SZyosjyz3ugRS5EWyyMoosRaSXmG.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156919"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Volleyball 20:00 San Diego vs Oregon State  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7d44jtOK93IlBTQxWew2uu8JZ31X3x2_sJKNSsXNfpblrPUbnTnIypoGuD5SZyosjyz3ugRS5EWyyMoosRaSXmG.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156920"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Volleyball 20:00 16 TCU vs 22 Colorado  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7d44jtOK93IlBTQxWew2uu8JZ31X3x2_sJKNSsXNfpblrPUbnTnIypoGuD5SZyosjyz3ugRS5EWyyMoosRaSXmG.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156921"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Volleyball 20:00 Arizona vs 8 Arizona State  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7d44jtOK93IlBTQxWew2uu8JZ31X3x2_sJKNSsXNfpblrPUbnTnIypoGuD5SZyosjyz3ugRS5EWyyMoosRaSXmG.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156922"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Womens Volleyball 21:00 UC Riverside vs Long Beach State  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7d44jtOK93IlBTQxWew2uu8JZ31X3x2_sJKNSsXNfpblrPUbnTnIypoGuD5SZyosjyz3ugRS5EWyyMoosRaSXmG.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156923"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "NCAA Football 18:30 Old Dominion vs Troy  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/qS7wf0_WrXZJ2CP7X_eSWMK5_YOJ67biiue_nlj67m3XzcCSy4i8AguizUmCQ14t76ib7ybaKzf3a1qt97np-MArHgQ_dK9AN7SmDMq1pgSyp8Muiq13AX46jHgZKqeH.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156924"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Zapp"
-    Title: "ATP  04:30 Nitto ATP Finals   "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7dw0hVsNvFXyQnjNBswO4Yu_y7b0gd1uf4_weXDmiVhK_9dJjnpFmB3YHI7CdYvkXM.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156925"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "ATP  07:00 Taylor Fritz  vs  Alex de Minaur   "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7dw0hVsNvFXyQnjNBswO4Yu_y7b0gd1uf4_weXDmiVhK_9dJjnpFmB3YHI7CdYvkXM.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156926"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "ATP  11:00 Nitto ATP Finals   "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7dw0hVsNvFXyQnjNBswO4Yu_y7b0gd1uf4_weXDmiVhK_9dJjnpFmB3YHI7CdYvkXM.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156927"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "ATP  11:00 Uruguay Open   "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7dw0hVsNvFXyQnjNBswO4Yu_y7b0gd1uf4_weXDmiVhK_9dJjnpFmB3YHI7CdYvkXM.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156928"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "ATP  13:30 Carlos Alcaraz  vs  Lorenzo Musetti   "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Y4pGbgL52aceAA4syHGN5wIRhMfFW1eLf9fTF7Tzk7dw0hVsNvFXyQnjNBswO4Yu_y7b0gd1uf4_weXDmiVhK_9dJjnpFmB3YHI7CdYvkXM.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156929"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "Soccer 02:00pm Cameroon vs Congo DR  Sportv5  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://cdn.livesoccertv.com/tt/images/competitions/18-world-cup-qualifying.png?q=75&w=50"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156930"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "Soccer 07:00pm Cruz Azul vs Tigres UANL  VixPremiun  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://cdn.livesoccertv.com/tt/images/competitions/700-liga-mx-femenil.png?q=75&w=50"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156931"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "Soccer 08:15pm Atletico Morelia vs Cancun  AYM  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://cdn.livesoccertv.com/tt/images/competitions/207-liga-de-ascenso.png?q=75&w=50"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156932"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHL1311 NHL 07:00pm Toronto Maple Leafs vs Los Angeles Kings  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://203.15.121.21:8080/_ZUZZ_TV_LOCALHOST/logo_maker.php?home=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvVG9yb250byUyME1hcGxlJTIwTGVhZnMucG5n&away=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvTG9zJTIwQW5nZWxlcyUyMEtpbmdzLnBuZw==&.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156933"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHL1311 NHL 07:00pm Ottawa Senators vs Boston Bruins  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://203.15.121.21:8080/_ZUZZ_TV_LOCALHOST/logo_maker.php?home=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvT3R0YXdhJTIwU2VuYXRvcnMucG5n&away=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvQm9zdG9uJTIwQnJ1aW5zLnBuZw==&.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156934"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHL1311 NHL 07:00pm Montreal Canadiens vs Dallas Stars  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://203.15.121.21:8080/_ZUZZ_TV_LOCALHOST/logo_maker.php?home=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvTW9udHJlYWwlMjBDYW5hZGllbnMucG5n&away=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvRGFsbGFzJTIwU3RhcnMucG5n&.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156935"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHL1311 NHL 07:00pm Florida Panthers vs Washington Capitals  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://203.15.121.21:8080/_ZUZZ_TV_LOCALHOST/logo_maker.php?home=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvRmxvcmlkYSUyMFBhbnRoZXJzLnBuZw==&away=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvV2FzaGluZ3RvbiUyMENhcGl0YWxzLnBuZw==&.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156936"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHL1311 NHL 07:00pm Detroit Red Wings vs Anaheim Ducks  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://203.15.121.21:8080/_ZUZZ_TV_LOCALHOST/logo_maker.php?home=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvRGV0cm9pdCUyMFJlZCUyMFdpbmdzLnBuZw==&away=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvQW5haGVpbSUyMER1Y2tzLnBuZw==&.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156937"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHL1311 NHL 07:30pm Columbus Blue Jackets vs Edmonton Oilers  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://203.15.121.21:8080/_ZUZZ_TV_LOCALHOST/logo_maker.php?home=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvQ29sdW1idXMlMjBCbHVlJTIwSmFja2V0cy5wbmc=&away=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvRWRtb250b24lMjBPaWxlcnMucG5n&.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156938"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHL1311 NHL 09:00pm Calgary Flames vs San Jose Sharks  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://203.15.121.21:8080/_ZUZZ_TV_LOCALHOST/logo_maker.php?home=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvQ2FsZ2FyeSUyMEZsYW1lcy5wbmc=&away=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvU2FuJTIwSm9zZSUyMFNoYXJrcy5wbmc=&.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156939"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHL1311 NHL 09:00pm Colorado Avalanche vs Buffalo Sabres  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://203.15.121.21:8080/_ZUZZ_TV_LOCALHOST/logo_maker.php?home=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvQ29sb3JhZG8lMjBBdmFsYW5jaGUucG5n&away=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvQnVmZmFsbyUyMFNhYnJlcy5wbmc=&.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156940"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHL1311 NHL 10:00pm Vegas Golden Knights vs New York Islanders  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://203.15.121.21:8080/_ZUZZ_TV_LOCALHOST/logo_maker.php?home=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvVmVnYXMlMjBHb2xkZW4lMjBLbmlnaHRzLnBuZw==&away=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvTmV3JTIwWW9yayUyMElzbGFuZGVycy5wbmc=&.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156941"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHL1311 NHL 10:00pm Seattle Kraken vs Winnipeg Jets  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://203.15.121.21:8080/_ZUZZ_TV_LOCALHOST/logo_maker.php?home=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvU2VhdHRsZSUyMEtyYWtlbi5wbmc=&away=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvV2lubmlwZWclMjBKZXRzLnBuZw==&.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156942"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNHL 18:00 Detroit Red Wings vs Anaheim Ducks  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/GacsA1ttsoJe1b5tk5ozUtMILFrJyNdFsOc1cKwQSawUF981y-fKSHfDQUpKSY41I-YsEQ87T20oZlfE75vW6A.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156943"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNHL 18:00 Florida Pantehrs vs Washington Capitals  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/GacsA1ttsoJe1b5tk5ozUtMILFrJyNdFsOc1cKwQSawUF981y-fKSHfDQUpKSY41I-YsEQ87T20oZlfE75vW6A.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156944"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNHL 18:00 Montreal Canadiens vs Dallas Stars  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/GacsA1ttsoJe1b5tk5ozUtMILFrJyNdFsOc1cKwQSawUF981y-fKSHfDQUpKSY41I-YsEQ87T20oZlfE75vW6A.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156945"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNHL 18:00 Ottawa Senators vs Boston Bruins  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/GacsA1ttsoJe1b5tk5ozUtMILFrJyNdFsOc1cKwQSawUF981y-fKSHfDQUpKSY41I-YsEQ87T20oZlfE75vW6A.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156946"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNHL 18:00 Toronto Maple Leafs vs Los Angeles Kings  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/GacsA1ttsoJe1b5tk5ozUtMILFrJyNdFsOc1cKwQSawUF981y-fKSHfDQUpKSY41I-YsEQ87T20oZlfE75vW6A.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156947"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNHL 18:30 Columbus Blue Jackets vs Edmonton Oilers  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/GacsA1ttsoJe1b5tk5ozUtMILFrJyNdFsOc1cKwQSawUF981y-fKSHfDQUpKSY41I-YsEQ87T20oZlfE75vW6A.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156948"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNHL 20:00 Calgary Flames vs San Jose Sharks  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/GacsA1ttsoJe1b5tk5ozUtMILFrJyNdFsOc1cKwQSawUF981y-fKSHfDQUpKSY41I-YsEQ87T20oZlfE75vW6A.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156949"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNHL 20:00 Colorado Avalache vs Buffalo Sabres  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/GacsA1ttsoJe1b5tk5ozUtMILFrJyNdFsOc1cKwQSawUF981y-fKSHfDQUpKSY41I-YsEQ87T20oZlfE75vW6A.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156950"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNHL 21:00 Seattle Kraken vs Winnipeg Jets  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/GacsA1ttsoJe1b5tk5ozUtMILFrJyNdFsOc1cKwQSawUF981y-fKSHfDQUpKSY41I-YsEQ87T20oZlfE75vW6A.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156951"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNHL 21:00 Vegas Golden Knights vs New York Islanders  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/GacsA1ttsoJe1b5tk5ozUtMILFrJyNdFsOc1cKwQSawUF981y-fKSHfDQUpKSY41I-YsEQ87T20oZlfE75vW6A.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156952"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNFL 19:15 New England Patriots vs New York Jets ESP  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/FIFpVq1kjeH_KLK39YxqZ3rf9acQC8_WxjnTWXw425EYWoJhG8Zh-xO9CDteQg_b3-lGZCi9ZVtElv7ai11UGuo_9Cjrn79_a5zXO8fX3KA.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156953"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNFL 19:15 New England Patriots vs New York Jets  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/FIFpVq1kjeH_KLK39YxqZ3rf9acQC8_WxjnTWXw425EYWoJhG8Zh-xO9CDteQg_b3-lGZCi9ZVtElv7ai11UGuo_9Cjrn79_a5zXO8fX3KA.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156954"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHL1311 NBA 07:00pm Cleveland Cavaliers vs Toronto Raptors  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://203.15.121.21:8080/_ZUZZ_TV_LOCALHOST/logo_maker.php?home=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvQ2xldmVsYW5kJTIwQ2F2YWxpZXJzLnBuZw==&away=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvVG9yb250byUyMFJhcHRvcnMucG5n&.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156955"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHL1311 NBA 09:00pm Utah Jazz vs Atlanta Hawks  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://203.15.121.21:8080/_ZUZZ_TV_LOCALHOST/logo_maker.php?home=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvVXRhaCUyMEphenoucG5n&away=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvQXRsYW50YSUyMEhhd2tzLnBuZw==&.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156956"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHL1311 NBA 09:00pm Phoenix Suns vs Indiana Pacers  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://203.15.121.21:8080/_ZUZZ_TV_LOCALHOST/logo_maker.php?home=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvUGhvZW5peCUyMFN1bnMucG5n&away=aHR0cHM6Ly9pbWcuenV6ei50di8vbG9nb3MvdGVhbXMvSW5kaWFuYSUyMFBhY2Vycy5wbmc=&.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156957"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNBA 01  Nov132025 6:00PM  Toronto Raptors at Cleveland Cavaliers  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/ytJWrQ-e7qCieQaQ5TRZxrMvEPtHeDMtXU1nn2qmv8fhPiscT9i-txUe6WHyO9emMGw1n2O_XVroULoBdQJUhg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156958"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNBA 02  Nov132025 8:00PM  Indiana Pacers at Phoenix Suns  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/ytJWrQ-e7qCieQaQ5TRZxrMvEPtHeDMtXU1nn2qmv8fhPiscT9i-txUe6WHyO9emMGw1n2O_XVroULoBdQJUhg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156959"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNBA 03  Nov132025 8:00PM  Atlanta Hawks at Utah Jazz  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/ytJWrQ-e7qCieQaQ5TRZxrMvEPtHeDMtXU1nn2qmv8fhPiscT9i-txUe6WHyO9emMGw1n2O_XVroULoBdQJUhg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156960"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNBA G League 10:00 Capitanes de Ciudad de Mexico vs  Osceola Magic  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/tT9muI5nTRniQqpsVgqqT860xqqaeYpYL3jeqcAPIGeHzNY6aVCiwvztcIzC9coGDZRKXzg1hdsthLNu6W-gDUCL6O6-htAAKIIP40cvIIQ.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156961"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNBA G League 18:00 Greensboro Swarm vs Delaware Blue Coats  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/tT9muI5nTRniQqpsVgqqT860xqqaeYpYL3jeqcAPIGeHzNY6aVCiwvztcIzC9coGDZRKXzg1hdsthLNu6W-gDUCL6O6-htAAKIIP40cvIIQ.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156962"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNBA G League 18:00 Iowa Wolves vs Grand Rapids Gold  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/tT9muI5nTRniQqpsVgqqT860xqqaeYpYL3jeqcAPIGeHzNY6aVCiwvztcIzC9coGDZRKXzg1hdsthLNu6W-gDUCL6O6-htAAKIIP40cvIIQ.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156963"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLNBA G League 19:00 Memphis Hustle vs Oklahoma City Blue  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/tT9muI5nTRniQqpsVgqqT860xqqaeYpYL3jeqcAPIGeHzNY6aVCiwvztcIzC9coGDZRKXzg1hdsthLNu6W-gDUCL6O6-htAAKIIP40cvIIQ.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156964"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLLMP  13 nov  20:00 Venados de Mazatlan vs Tucson  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/VbY1iz6hcYRYJs-Cg0XrJa8cu5lNhsNxLcdZrYi6AFzn7srHuHohQqzdw28T0Bveg1A5_zPD1UEWWMfC8Y6VPpdAquYyRWvnt8mowXNl314R50d7_7GpRZfhCWB-mmZ5m8dh7BS7rDHYPzr7T_CnSQ.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156965"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLLMP  13 nov  20:05 Tomateros de Culiacan vs Charros de Jalisco  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/VbY1iz6hcYRYJs-Cg0XrJa8cu5lNhsNxLcdZrYi6AFzn7srHuHohQqzdw28T0Bveg1A5_zPD1UEWWMfC8Y6VPpdAquYyRWvnt8mowXNl314R50d7_7GpRZfhCWB-mmZ5m8dh7BS7rDHYPzr7T_CnSQ.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156966"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLLMP  13 nov  20:10 Yaquis de Obregon vs Aguilas de Mexicali  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/VbY1iz6hcYRYJs-Cg0XrJa8cu5lNhsNxLcdZrYi6AFzn7srHuHohQqzdw28T0Bveg1A5_zPD1UEWWMfC8Y6VPpdAquYyRWvnt8mowXNl314R50d7_7GpRZfhCWB-mmZ5m8dh7BS7rDHYPzr7T_CnSQ.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156967"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLLMP  13 nov  20:30 Caneros de Los Mochis vs Algodoneros de Guasave  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/VbY1iz6hcYRYJs-Cg0XrJa8cu5lNhsNxLcdZrYi6AFzn7srHuHohQqzdw28T0Bveg1A5_zPD1UEWWMfC8Y6VPpdAquYyRWvnt8mowXNl314R50d7_7GpRZfhCWB-mmZ5m8dh7BS7rDHYPzr7T_CnSQ.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156968"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "MLSNFLMLBNHLLMP  13 nov  20:30 Naranjeros de Hermosillo vs Jaguares de Nayarit  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/VbY1iz6hcYRYJs-Cg0XrJa8cu5lNhsNxLcdZrYi6AFzn7srHuHohQqzdw28T0Bveg1A5_zPD1UEWWMfC8Y6VPpdAquYyRWvnt8mowXNl314R50d7_7GpRZfhCWB-mmZ5m8dh7BS7rDHYPzr7T_CnSQ.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156969"
-    Live: true
-    Country: "us"
-    Tag: "deportes ppv (nba,mls,nfl,mlb,nhl)"
-}
-{
-    Artist: "Zapp"
-    Title: "08:00pm  Premios 26th Annual Latin Grammy Awards  MaxMx  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/HoyqTTDzFRIURfl6htRtRbFFURaMXTFLEefRVaf2oL_dEsNDRSz9W7wEir3Kyoq2-QSZwhVSBozseOmYU71jGthKTZCLUhr48lCRzyVh4ExEL2bVpNch6UTFl7378x0ZSN3XLPpVsZqp51wpmzLkTysEuztCtqAoFcCWRqKIIbs.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156970"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "08:00pm  Premios 26th Annual Latin Grammy Awards  Univision  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/HoyqTTDzFRIURfl6htRtRbFFURaMXTFLEefRVaf2oL_dEsNDRSz9W7wEir3Kyoq2-QSZwhVSBozseOmYU71jGthKTZCLUhr48lCRzyVh4ExEL2bVpNch6UTFl7378x0ZSN3XLPpVsZqp51wpmzLkTysEuztCtqAoFcCWRqKIIbs.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156971"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "08:00pm  Premios 26th Annual Latin Grammy Awards  Unimas  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/HoyqTTDzFRIURfl6htRtRbFFURaMXTFLEefRVaf2oL_dEsNDRSz9W7wEir3Kyoq2-QSZwhVSBozseOmYU71jGthKTZCLUhr48lCRzyVh4ExEL2bVpNch6UTFl7378x0ZSN3XLPpVsZqp51wpmzLkTysEuztCtqAoFcCWRqKIIbs.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156972"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "08:00pm  Premios 26th Annual Latin Grammy Awards  Galavision  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/HoyqTTDzFRIURfl6htRtRbFFURaMXTFLEefRVaf2oL_dEsNDRSz9W7wEir3Kyoq2-QSZwhVSBozseOmYU71jGthKTZCLUhr48lCRzyVh4ExEL2bVpNch6UTFl7378x0ZSN3XLPpVsZqp51wpmzLkTysEuztCtqAoFcCWRqKIIbs.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156973"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "Clasif Mundial 10:00 Emiratos Arabes Unidos vs Iraq  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/G3zTcas4Z_2pEDDwqCHPlAJKx1xabwnkQRHm7pvQcw6Q51dfOXEdGkRL5mnDlbv3wmKiWPwonO-N8wWOwLudHvGRb4PRgOCOt9iIfc57_isfno-4DSOg8q0NO52wvyUz.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156974"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "Clasif Mundial 10:00 Nigeria vs Gabon  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/G3zTcas4Z_2pEDDwqCHPlAJKx1xabwnkQRHm7pvQcw6Q51dfOXEdGkRL5mnDlbv3wmKiWPwonO-N8wWOwLudHvGRb4PRgOCOt9iIfc57_isfno-4DSOg8q0NO52wvyUz.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156975"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "Clasif Mundial 13:00 Camerun vs RD del Congo  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/G3zTcas4Z_2pEDDwqCHPlAJKx1xabwnkQRHm7pvQcw6Q51dfOXEdGkRL5mnDlbv3wmKiWPwonO-N8wWOwLudHvGRb4PRgOCOt9iIfc57_isfno-4DSOg8q0NO52wvyUz.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156976"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "Clasif Mundial 16:00 Surinam vs El Salvador  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/G3zTcas4Z_2pEDDwqCHPlAJKx1xabwnkQRHm7pvQcw6Q51dfOXEdGkRL5mnDlbv3wmKiWPwonO-N8wWOwLudHvGRb4PRgOCOt9iIfc57_isfno-4DSOg8q0NO52wvyUz.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156977"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "Clasif Mundial 18:00 Trinidad y Tobago vs Jamaica  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/G3zTcas4Z_2pEDDwqCHPlAJKx1xabwnkQRHm7pvQcw6Q51dfOXEdGkRL5mnDlbv3wmKiWPwonO-N8wWOwLudHvGRb4PRgOCOt9iIfc57_isfno-4DSOg8q0NO52wvyUz.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156978"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "Clasif Mundial 18:00 Bermudas vs Curazao  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/G3zTcas4Z_2pEDDwqCHPlAJKx1xabwnkQRHm7pvQcw6Q51dfOXEdGkRL5mnDlbv3wmKiWPwonO-N8wWOwLudHvGRb4PRgOCOt9iIfc57_isfno-4DSOg8q0NO52wvyUz.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156979"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "Clasif Mundial 20:00 Haiti vs Costa Rica  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/G3zTcas4Z_2pEDDwqCHPlAJKx1xabwnkQRHm7pvQcw6Q51dfOXEdGkRL5mnDlbv3wmKiWPwonO-N8wWOwLudHvGRb4PRgOCOt9iIfc57_isfno-4DSOg8q0NO52wvyUz.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156980"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "Clasif Mundial 20:00 Guatemala vs Panama  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/G3zTcas4Z_2pEDDwqCHPlAJKx1xabwnkQRHm7pvQcw6Q51dfOXEdGkRL5mnDlbv3wmKiWPwonO-N8wWOwLudHvGRb4PRgOCOt9iIfc57_isfno-4DSOg8q0NO52wvyUz.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156981"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "Clasif Mundial 20:00 Nicaragua vs Honduras  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/G3zTcas4Z_2pEDDwqCHPlAJKx1xabwnkQRHm7pvQcw6Q51dfOXEdGkRL5mnDlbv3wmKiWPwonO-N8wWOwLudHvGRb4PRgOCOt9iIfc57_isfno-4DSOg8q0NO52wvyUz.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156982"
-    Live: true
-    Country: "us"
-    Tag: "eliminatorias 2026"
-}
-{
-    Artist: "Zapp"
-    Title: "Amistoso 11:00 Iran vs Islas de Cabo Verde  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Ued4zX336HczUqofswTw2Ie2MkxVJrs7YX-CpqHrDUyv-FsOeEZ0R1iOUnAVanqA35uRhakr2KMSS75Iw634ODb-W-Bn_u3wdX3jC2nneW_5YhYFo50sYkkvNEPFfFnq.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156983"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "Amistoso 11:00 Macedonia del Norte vs Letonia  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Ued4zX336HczUqofswTw2Ie2MkxVJrs7YX-CpqHrDUyv-FsOeEZ0R1iOUnAVanqA35uRhakr2KMSS75Iw634ODb-W-Bn_u3wdX3jC2nneW_5YhYFo50sYkkvNEPFfFnq.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156984"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "Amistoso 11:00 Republica Checa vs San Marino  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Ued4zX336HczUqofswTw2Ie2MkxVJrs7YX-CpqHrDUyv-FsOeEZ0R1iOUnAVanqA35uRhakr2KMSS75Iw634ODb-W-Bn_u3wdX3jC2nneW_5YhYFo50sYkkvNEPFfFnq.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156985"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "Amistoso 11:00 Lituania vs Israel  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Ued4zX336HczUqofswTw2Ie2MkxVJrs7YX-CpqHrDUyv-FsOeEZ0R1iOUnAVanqA35uRhakr2KMSS75Iw634ODb-W-Bn_u3wdX3jC2nneW_5YhYFo50sYkkvNEPFfFnq.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156986"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "Amistoso 18:30 Canada vs Ecuador  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/Ued4zX336HczUqofswTw2Ie2MkxVJrs7YX-CpqHrDUyv-FsOeEZ0R1iOUnAVanqA35uRhakr2KMSS75Iw634ODb-W-Bn_u3wdX3jC2nneW_5YhYFo50sYkkvNEPFfFnq.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156987"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "5:00pm Boxing Steve Butler vs  Stephane Fondjo  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://ringmagazine.com/_next/image?url=https://thankful-crystal-c5f59294d4.media.strapiapp.com/butler_fondjo_02f6d8fb64.jpeg&w=1920&q=75"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156988"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Zapp"
-    Title: "BOX  17:30 Steve Butler vs  Stephane Fondjo"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://onerestream.us:80/images/QMJk-vE9PEi2nnfK2J3vP8q7aFsj79gDaCfKSgRDyq2RYprbqHBRPsMyrQR5MCFxUu4D3HB4MGB28DKwlBOw-cQYGkn8zCO1ZRSO530gAHJx4aUiDCrW7ccbnafiWSP6shDHUuBiN1lCZPgkEW5TFQ.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156989"
+    Logo: "https://www.ole.com.ar/images/2024/09/29/l5a7Qzngk_1290x760__1.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157108"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
@@ -12284,6 +11382,17 @@
     Live: true
     Country: "us"
     Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "TIGO SPORTS HONDURAS PRUBAZ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156990"
+    Live: true
+    Country: "us"
+    Tag: "honduras"
 }
 {
     Artist: "Zapp"
