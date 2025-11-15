@@ -1947,139 +1947,84 @@
 }
 {
     Artist: "Pass"
-    Title: "Pittsburgh Penguins @ Nashville Predators"
+    Title: "Notre Dame Fighting Irish @ Pittsburgh Panthers"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHLNetwork[/]sd"
-    Live: true
-    Country: "us"
-    Tag: "nhl"
-}
-{
-    Artist: "Pass"
-    Title: "Brooklyn Nets @ Orlando Magic"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA24[/]sd"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Pass"
-    Title: "Miami Heat @ New York Knicks"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA10[/]sd"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Pass"
-    Title: "Vancouver Canucks @ Carolina Hurricanes"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL04[/]sd"
-    Live: true
-    Country: "us"
-    Tag: "nhl"
-}
-{
-    Artist: "Pass"
-    Title: "Clemson Tigers @ Louisville Cardinals"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPN[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ACCNetwork[/]sd"
     Live: true
     Country: "us"
     Tag: "ncaaf"
 }
 {
     Artist: "Pass"
-    Title: "Philadelphia 76ers @ Detroit Pistons"
+    Title: "Air Force Falcons @ UConn Huskies"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA07[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]CBSSportsNetworkUSA[/]sd"
     Live: true
     Country: "us"
-    Tag: "nba"
+    Tag: "ncaaf"
 }
 {
     Artist: "Pass"
-    Title: "Charlotte Hornets @ Milwaukee Bucks"
+    Title: "Arizona Wildcats @ Cincinnati Bearcats"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA13[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]FoxSports1[/]sd"
     Live: true
     Country: "us"
-    Tag: "nba"
+    Tag: "ncaaf"
 }
 {
     Artist: "Pass"
-    Title: "Portland Trail Blazers @ Houston Rockets"
+    Title: "Eastern Michigan Eagles @ Ball State Cardinals"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA17[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF01[/]sd"
     Live: true
     Country: "us"
-    Tag: "nba"
+    Tag: "ncaaf"
 }
 {
     Artist: "Pass"
-    Title: "Los Angeles Lakers @ New Orleans Pelicans"
+    Title: "UTSA Roadrunners @ Charlotte 49ers"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA12[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF02[/]sd"
     Live: true
     Country: "us"
-    Tag: "nba"
+    Tag: "ncaaf"
 }
 {
     Artist: "Pass"
-    Title: "Sacramento Kings @ Minnesota Timberwolves"
+    Title: "Wisconsin Badgers @ Indiana Hoosiers"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA21[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]BTN[/]sd"
     Live: true
     Country: "us"
-    Tag: "nba"
+    Tag: "ncaaf"
 }
 {
     Artist: "Pass"
-    Title: "Philadelphia Flyers @ St Louis Blues"
+    Title: "Kansas State Wildcats @ Oklahoma State Cowboys"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL21[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPNU[/]sd"
     Live: true
     Country: "us"
-    Tag: "nhl"
+    Tag: "ncaaf"
 }
 {
     Artist: "Pass"
-    Title: "Los Angeles Clippers @ Dallas Mavericks"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA28[/]sd"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Pass"
-    Title: "Minnesota Golden Gophers @ Oregon Ducks"
+    Title: "Michigan Wolverines @ Northwestern Wildcats"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2090,23 +2035,683 @@
 }
 {
     Artist: "Pass"
-    Title: "New York Islanders @ Utah Mammoth"
+    Title: "South Florida Bulls @ Navy Midshipmen"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL09[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPN2[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "South Carolina Gamecocks @ Texas A&M Aggies"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPN[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Arkansas Razorbacks @ LSU Tigers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]SECN[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "West Virginia Mountaineers @ Arizona State Sun Devils"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]TNTEast[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Oregon State Beavers @ Tulsa Golden Hurricane"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF03[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Tennessee Tech Golden Eagles @ Kentucky Wildcats"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF04[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Marshall Thundering Herd @ Georgia State Panthers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF05[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "North Texas Mean Green @ UAB Blazers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF06[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "UTEP Miners @ Missouri State Bears"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF08[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Colorado State Rams @ New Mexico Lobos"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF07[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Oklahoma Sooners @ Alabama Crimson Tide"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF09[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "UCF Knights @ Texas Tech Red Raiders"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]WNYWDT1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Texas State Bobcats @ Southern Mississippi Golden Eagles"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF13[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "South Alabama Jaguars @ UL Monroe Warhawks"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF12[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "San Jose State Spartans @ Nevada Wolf Pack"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]CBSSportsNetworkUSA[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Middle Tennessee Blue Raiders @ Western Kentucky Hilltoppers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF11[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Penn State Nittany Lions @ Michigan State Spartans"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]WNYWDT1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "NC State Wolfpack @ Miami Hurricanes"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPN[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Iowa Hawkeyes @ USC Trojans"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]BTN[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Maryland Terrapins @ Illinois Fighting Illini"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]FoxSports1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Virginia Cavaliers @ Duke Blue Devils"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPN2[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Georgia Tech Yellow Jackets @ Boston College Eagles"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ACCNetwork[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Appalachian State Mountaineers @ James Madison Dukes"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF10[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Memphis Tigers @ East Carolina Pirates"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPNU[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Florida Atlantic Owls @ Tulane Green Wave"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF14[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "New Mexico State Aggies @ Tennessee Volunteers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]SECN[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "North Carolina Tar Heels @ Wake Forest Demon Deacons"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]WPIX[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Tampa Bay Lightning @ Florida Panthers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL08[/]sd"
     Live: true
     Country: "us"
     Tag: "nhl"
 }
 {
     Artist: "Pass"
-    Title: "Golden State Warriors @ San Antonio Spurs"
+    Title: "Liberty Flames @ Florida International Panthers"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA11[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF15[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Memphis Grizzlies @ Cleveland Cavaliers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBATV[/]sd"
     Live: true
     Country: "us"
     Tag: "nba"
+}
+{
+    Artist: "Pass"
+    Title: "Coastal Carolina Chanticleers @ Georgia Southern Eagles"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF16[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Anaheim Ducks @ Minnesota Wild"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL24[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "Buffalo Sabres @ Detroit Red Wings"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL17[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "Utah State Aggies @ UNLV Rebels"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]CBSSportsNetworkUSA[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Purdue Boilermakers @ Washington Huskies"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]FoxSports1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Florida Gators @ Ole Miss Rebels"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPN[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Boston Bruins @ Montreal Canadiens"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHLNetwork[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "Edmonton Oilers @ Carolina Hurricanes"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL15[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "Toronto Maple Leafs @ Chicago Blackhawks"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL19[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "New York Rangers @ Columbus Blue Jackets"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL23[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "Los Angeles Kings @ Ottawa Senators"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL29[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "New Jersey Devils @ Washington Capitals"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL26[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "Delaware Blue Hens @ Sam Houston State Bearkats"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NCAAF17[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Utah Utes @ Baylor Bears"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPN2[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Oklahoma City Thunder @ Charlotte Hornets"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA22[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "Pass"
+    Title: "Toronto Raptors @ Indiana Pacers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA23[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "Pass"
+    Title: "UCLA Bruins @ Ohio State Buckeyes"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]WNBCDT1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Virginia Tech Hokies @ Florida State Seminoles"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ACCNetwork[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Texas Longhorns @ Georgia Bulldogs"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]WABCDT1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Mississippi State Bulldogs @ Missouri Tigers"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]SECN[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Kennesaw State Owls @ Jacksonville State Gamecocks"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPNU[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Vegas Golden Knights @ St Louis Blues"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL28[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "Philadelphia Flyers @ Dallas Stars"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL21[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "UFC 322: Jack Della Maddalena v Islam Makhachev"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]tnt-sports-1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ppv"
+}
+{
+    Artist: "Pass"
+    Title: "Denver Nuggets @ Minnesota Timberwolves"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA26[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "Pass"
+    Title: "Los Angeles Lakers @ Milwaukee Bucks"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBATV[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "Pass"
+    Title: "Winnipeg Jets @ Calgary Flames"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL01[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "Louisiana Tech Bulldogs @ Washington State Cougars"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]WPIX[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "San Jose Sharks @ Seattle Kraken"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL14[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "TCU Horned Frogs @ BYU Cougars"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]ESPN[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Boise State Broncos @ San Diego State Aztecs"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]CBSSportsNetworkUSA[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Pass"
+    Title: "Wyoming Cowboys @ Fresno State Bulldogs"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]FoxSports1[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
 }
