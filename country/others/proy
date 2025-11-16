@@ -1,6 +1,6 @@
 {
     Artist: "Proyecto"
-    Title: "PPV 1 "
+    Title: "PPV 1  UFC 322"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -11,7 +11,7 @@
 }
 {
     Artist: "Proyecto"
-    Title: "PPV 2 "
+    Title: "PPV 2  UFC 322"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -22,7 +22,7 @@
 }
 {
     Artist: "Proyecto"
-    Title: "PPV 3 "
+    Title: "PPV 3  UFC 322"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -33,7 +33,7 @@
 }
 {
     Artist: "Proyecto"
-    Title: "PPV 4 "
+    Title: "PPV 4  Uruguay Vs Mexico"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -4488,17 +4488,6 @@
 }
 {
     Artist: "Proyecto"
-    Title: "EC  03  LIGA PR0"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ole.com.ar/images/2024/09/29/l5a7Qzngk_1290x760__1.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]153982"
-    Live: true
-    Country: "us"
-    Tag: "ecuador"
-}
-{
-    Artist: "Proyecto"
     Title: "PPV  Dazn 1"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -4507,6 +4496,17 @@
     Live: true
     Country: "us"
     Tag: "eventos ppv mundial"
+}
+{
+    Artist: "Proyecto"
+    Title: "EC  03  LIGA PR0"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.ole.com.ar/images/2024/09/29/l5a7Qzngk_1290x760__1.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]153982"
+    Live: true
+    Country: "us"
+    Tag: "ecuador"
 }
 {
     Artist: "Proyecto"
@@ -4785,1287 +4785,616 @@
 }
 {
     Artist: "Proyecto"
-    Title: "Expansion MX 17:00 Atlante vs Tepatitlan"
+    Title: "Expansion MX 17:00 Cancun vs Atletico Morelia"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/8/83/Liga_de_expansi%C3%B3n_MX.logopng.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157111"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157288"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "Expansion MX 19:00 Irapuato vs Mineros de Zacatecas"
+    Title: "Expansion MX 20:00 CDS Tampico Madero vs Leones Negros UdeG"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/8/83/Liga_de_expansi%C3%B3n_MX.logopng.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157112"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157289"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "Mundial Sub17 6:30 Corea del Sur Sub17 vs Inglaterra Sub17"
+    Title: "Liga MX Fem 17:00 Tigres UANL vs Cruz Azul"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/field/image/mundial-sub-17-logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157123"
+    Logo: "https://images.seeklogo.com/logo-png/31/2/ligamx-femenil-logo-png_seeklogo-313609.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157290"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "Mundial Sub17 6:30 Senegal Sub17 vs Uganda Sub17"
+    Title: "Liga MX Fem 19:00 America vs Guadalajara"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/field/image/mundial-sub-17-logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157124"
+    Logo: "https://images.seeklogo.com/logo-png/31/2/ligamx-femenil-logo-png_seeklogo-313609.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157291"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "Mundial Sub17 7:00 Italia Sub17 vs Chequia Sub17"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/field/image/mundial-sub-17-logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157125"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "Mundial Sub17 7:30 Japon Sub17 vs Sur Africa Sub17"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/field/image/mundial-sub-17-logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157126"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "Mundial Sub17 v8:45 Alemania Sub17 vs Burkina Faso Sub17"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/field/image/mundial-sub-17-logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157127"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "Mundial Sub17 9:15 Venezuela Sub17 vs Corea del Norte Sub17"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/field/image/mundial-sub-17-logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157128"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "Mundial Sub17 9:45 Croacia Sub17 vs Uzbekistan Sub17"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/field/image/mundial-sub-17-logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157129"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "Mundial Sub17 9:45 Austria Sub17 vs Tunez Sub17"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/field/image/mundial-sub-17-logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157130"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "Amistoso 9:00 Rusia vs Chil e"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://png.pngtree.com/png-vector/20220722/ourmid/pngtree-fifa-logo-png-image_6034648.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157131"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "Amistoso 10:00 Brasil vs Senegal"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://png.pngtree.com/png-vector/20220722/ourmid/pngtree-fifa-logo-png-image_6034648.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157132"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "Amistoso 16:00 EE  UU  vs Paraguay"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://png.pngtree.com/png-vector/20220722/ourmid/pngtree-fifa-logo-png-image_6034648.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157133"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "Amistoso 18:00 Colombia vs Nueva Zelanda"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://png.pngtree.com/png-vector/20220722/ourmid/pngtree-fifa-logo-png-image_6034648.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157134"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "Amistoso 19:00 Mexico vs Uruguay"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://png.pngtree.com/png-vector/20220722/ourmid/pngtree-fifa-logo-png-image_6034648.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157135"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "Amistoso 19:00 Mexico vs Uruguay OPC2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://png.pngtree.com/png-vector/20220722/ourmid/pngtree-fifa-logo-png-image_6034648.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157136"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "Argentina 14:00 Godoy Cruz vs Deportivo Riestra"
+    Title: "Argentina 14:00 Instituto vs Talleres Cordoba"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157137"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157301"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "Argentina 14:00 Aldosivi vs San Martin San Juan"
+    Title: "Argentina 14:00 Velez Sarsfield vs River Plate"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157138"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157302"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "Argentina 16:15 San Lorenzo vs Sarmiento"
+    Title: "Argentina 17:15 Boca Juniors vs Tigre"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157139"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157303"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "Argentina 18:30 Independiente vs Rosario Central"
+    Title: "Argentina 17:15 Estudiantes vs Argentinos Juniors"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157140"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157304"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "Brasileirao 15:30 Sport Recife vs Flamengo"
+    Title: "Argentina 17:15 Newells Old Boys vs Racing Club"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157305"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Proyecto"
+    Title: "Argentina 17:15 Central Cordoba SdE vs Banfield"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157306"
+    Live: true
+    Country: "us"
+    Tag: "eventos ppv"
+}
+{
+    Artist: "Proyecto"
+    Title: "Brasileirao 16:00 RB Bragantino vs Atletico Mineiro"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1000marcas.net/wp-content/uploads/2020/03/Campeonato-Brasileiro-S%C3%A9rie-A-logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157141"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157307"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "Brasileirao 18:00 Santos vs Palmeiras"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000marcas.net/wp-content/uploads/2020/03/Campeonato-Brasileiro-S%C3%A9rie-A-logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157142"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "League Two 9:00 Milton Keynes Dons vs Salford City"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.seeklogo.com/logo-png/30/1/efl-league-two-logo-png_seeklogo-301087.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157143"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "League Two 9:00 Grimsby Town vs Chesterfield"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.seeklogo.com/logo-png/30/1/efl-league-two-logo-png_seeklogo-301087.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157144"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "League Two 11:30 Gillingham vs Crawley Town"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://images.seeklogo.com/logo-png/30/1/efl-league-two-logo-png_seeklogo-301087.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157145"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "Guatemala 20:00 Marquense vs Mixco"
+    Title: "Guatemala 15:00 Achuapa vs Mictlan"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://ligagt.org/ft/wp-content/uploads/2023/01/LIGA-GUATE-LOGOfinal-01-e1674594169324.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157146"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157308"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "Uruguay Segunda Division 13:30 Deportivo Colonia vs Deportivo Maldonado"
+    Title: "Peru 14:00 Sport Boys vs Alianza Atletico"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://pbs.twimg.com/profile_images/1694769519414108161/bV8M9cnT_400x400.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157147"
+    Logo: "https://i.pinimg.com/222x/47/45/76/4745769af544f2771531c6751a48eb98.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157309"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "Uruguay Segunda Division 16:00 Atenas vs Tacuarembo"
+    Title: "LaLiga SmartBank 7:00 Ceuta vs Leganes"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://pbs.twimg.com/profile_images/1694769519414108161/bV8M9cnT_400x400.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157148"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/512px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157310"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "Primera Nacional 17:00 Estudiantes Rio Cuarto vs Estudiantes Caseros"
+    Title: "LaLiga SmartBank 9:15 Almeria vs Cadiz"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Primera_B_Nacional_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157149"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/512px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157311"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "Australia Women 21:00 Wellington Phoenix vs Newcastle Jets"
+    Title: "LaLiga SmartBank 11:30 Cordoba vs Deportivo La Coruna"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000logos.net/wp-content/uploads/2019/01/A-League-Logo-2017.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157150"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/512px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157312"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "Australia Women 22:55 Brisbane Roar vs Western Sydney Wanderers"
+    Title: "LaLiga SmartBank 14:00 Real Zaragoza vs Huesca"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://1000logos.net/wp-content/uploads/2019/01/A-League-Logo-2017.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157151"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/512px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157313"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "Northern Super League 13:00 AFC Toronto vs Vancouver Rise"
+    Title: "Uruguay 15:00 Liverpool vs Penarol"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://assets.nsl.ca/nsl-prod/league/NSL-Banner-1.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157152"
+    Logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZMhrbB2fnxlNQnMLa-CNayvWFEOIW5iOfsQ&s_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157314"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "League One 9:00 Lincoln City vs Doncaster Rovers"
+    Title: "Copa Colombia 16:00 America de Cali vs Atletico Nacional"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://c0.klipartz.com/pngpicture/385/872/gratis-png-2017-18-efl-campeonato-2018-19-efl-campeonato-liga-de-futbol-inglesa-efl-cup-premier-league-premier-league-thumbnail.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157153"
+    Logo: "https://upload.wikimedia.org/wikipedia/pt/5/5d/Copa_Colombia.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157315"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "League One 9:00 Luton Town vs Rotherham United"
+    Title: "El Salvador 15:00 FAS vs Platense"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://c0.klipartz.com/pngpicture/385/872/gratis-png-2017-18-efl-campeonato-2018-19-efl-campeonato-liga-de-futbol-inglesa-efl-cup-premier-league-premier-league-thumbnail.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157154"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/9/99/Logo-Primera-Division-de-El_Salvador.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157316"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "Womens Super League 7:30 Manchester City vs Manchester United"
+    Title: "Womens Super League 6:00 West Ham United vs Everton"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2314.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157155"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157317"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "USL Championship 17:30 Pittsburgh Riverhounds vs Rhode Island"
+    Title: "Womens Super League 6:00 Aston Villa vs London City Lionesses"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://cdn1.sportngin.com/attachments/photo/5465-114093106/Chmp-Logo-Abb-Light-400x400_large.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157156"
+    Logo: "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2314.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157318"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "USL Championship 19:30 FC Tulsa vs New Mexico United"
+    Title: "Womens Super League 6:00 Brighton & Hove Albion vs Leicester City WFC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://cdn1.sportngin.com/attachments/photo/5465-114093106/Chmp-Logo-Abb-Light-400x400_large.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157157"
+    Logo: "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2314.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157319"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "USL Super League 14:00 Brooklyn vs Lexington"
+    Title: "Womens Super League 6:00 Liverpool vs Chelsea FC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/USL_Super_League_logo.png/1200px-USL_Super_League_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157158"
+    Logo: "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2314.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157320"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "USL Super League 18:30 Fort Lauderdale United vs Tampa Bay Sun"
+    Title: "Womens Super League 8:30 Tottenham Hotspur vs Arsenal"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/USL_Super_League_logo.png/1200px-USL_Super_League_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157159"
+    Logo: "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2314.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157321"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "USL Super League 20:00 Spokane Zephyr vs Dallas Trinity"
+    Title: "NWSL 14:00 Orlando Pride vs NJNY Gotham FC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/USL_Super_League_logo.png/1200px-USL_Super_League_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157160"
+    Logo: "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2323.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157322"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "Argentine Copa Potrero  06:15 Cancha 6"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://admin.cp.timbo.futbol/uploads/rosters/1762697070JoA53.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157161"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "Argentine Copa Potrero  06:15 Cancha 4"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://admin.cp.timbo.futbol/uploads/rosters/1762697070JoA53.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157162"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "Argentine Copa Potrero  06:30 Cancha 3"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://admin.cp.timbo.futbol/uploads/rosters/1762697070JoA53.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157163"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "Argentine Copa Potrero  06:30 Cancha 5"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://admin.cp.timbo.futbol/uploads/rosters/1762697070JoA53.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157164"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "Argentine Copa Potrero  10:30 Canchas 1 y 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://admin.cp.timbo.futbol/uploads/rosters/1762697070JoA53.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157165"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Mens Soccer 17:00 Lafayette vs Lehigh"
+    Title: "NCAA Mens Soccer 11:00 UConn vs 15 Georgetown"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157166"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157323"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Mens Soccer 18:00 Western Michigan vs Evansville"
+    Title: "NCAA Mens Soccer 12:00 Dayton vs 22 Saint Louis"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157167"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157324"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Mens Soccer 19:30 Houston Christian vs Lindenwood"
+    Title: "NCAA Mens Soccer 12:00 5 Bryant vs 2 Vermont"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157168"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157325"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Mens Soccer 20:00 Loyola Marymount vs Gonzaga"
+    Title: "NCAA Mens Soccer 12:00 UCF vs 12 Marshall"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157169"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157326"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Mens Soccer 21:00 Pacific vs Santa Clara"
+    Title: "NCAA Mens Soccer 13:00 18 UNC Greensboro vs 12 Furman"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157170"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157327"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Mens Soccer 21:00 7 San Diego vs 10 Oregon State"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/soccer-men.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157171"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 11:00 Ball State vs Eastern Michigan"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157172"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 11:00 Charlotte vs UTSA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157173"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 11:00 Cincinnati vs Arizona"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157174"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 11:00 Connecticut vs Air Force"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157175"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 11:00 Indiana vs Wisconsin"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157176"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 11:00 Navy vs South Florida"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157177"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 11:00 Northwestern vs Michigan"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157178"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 11:00 Oklahoma State vs Kansas State"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157179"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 11:00 Pittsburgh vs Notre Dame"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157180"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 11:00 Texas A&M vs South Carolina"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157181"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 11:45 LSU vs Arkansas"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157182"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 12:00 Arizona State vs West Virginia"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157183"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 12:00 Tulsa vs Oregon State"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157184"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 13:00 Georgia State Panthers vs Marshall"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157185"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 13:00 UAB vs North Texas"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157186"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 14:00 New Mexico vs Colorado State"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157187"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 14:30 Alabama vs Oklahoma"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157188"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 14:30 Boston College vs Georgia Tech"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157189"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 14:30 Duke vs Virginia"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157190"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 14:30 Illinois vs Maryland"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157191"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 14:30 LouisianaMonroe vs South Alabama"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157192"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 14:30 Michigan State vs Penn State"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157193"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 14:30 Nevada vs San Jose State"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157194"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 14:30 Souther Miss vs Texas State Bobcats"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157195"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 14:30 Western Kentucky vs Middle Tennessee St"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157196"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 15:00 East Carolina vs Memphis"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157197"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 15:00 Tulane vs Florida Atlantic"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157198"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 15:15 Tennessee vs New Mexico State"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157199"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 17:00 Georgia Southern vs Coastal Carolina"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157200"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 18:00 Baylor vs Utah"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157201"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 18:00 Sam Houston State vs Delaware Fightin"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157202"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 18:00 UNLV vs Utah State"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157203"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 18:00 Washington vs Purdue"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157204"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 18:30 Florida State vs Virginia Tech"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157205"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 18:30 Goergia vs Texas"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157206"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 18:30 Ohio State vs UCLA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157207"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 18:45 Missouri vs Mississippi St"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157208"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 19:00 Jacksonville State vs Kennesaw State"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157209"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 21:15 Brigham Young vs TCU"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157210"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 21:30 Fresno State vs Wyoming"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157211"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Football 21:30 San Diego State vs Boise State"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157212"
-    Live: true
-    Country: "us"
-    Tag: "evento ncaa (solo eventos)"
-}
-{
-    Artist: "Proyecto"
-    Title: "NCAA Womens Basketball 11:00 BethuneCookman vs Florida International"
+    Title: "NCAA Womens Basketball 11:00 Georgetown  vs Cincinnati"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157213"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157328"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Mens Basketball 12:00 Merrimack vs Boston University"
+    Title: "NCAA Mens Basketball 11:30 Kentucky Christian vs Morehead State"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157214"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157329"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Womens Basketball 13:00 Tennessee Tech vs Kennesaw State"
+    Title: "NCAA Womens Basketball 12:00 Iona vs Davidson"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157215"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157330"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Mens Basketball 13:00 Princeton vs 25 Kansas"
+    Title: "NCAA Womens Basketball 13:00 Texas A&M vs Kansas State"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157216"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157331"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Womens Basketball 18:00 Champion Christian vs Northwestern State"
+    Title: "NCAA Womens Basketball 13:00 Norfolk State vs 16 Iowa State"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157217"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157332"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Mens Basketball 18:30 BethuneCookman vs Dayton"
+    Title: "NCAA Womens Basketball 13:00 15 Duke vs Liberty"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157218"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157333"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Mens Basketball 19:00 Christian Brothers vs Arkansas State"
+    Title: "NCAA Womens Basketball 14:00 McNeese vs Tarleton State"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157219"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157334"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Mens Basketball 20:00 Northern Colorado vs Pepperdine"
+    Title: "NCAA Womens Basketball 14:00 21 Iowa vs Northern Iowa"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157220"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157335"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Womens Basketball 20:00 South Florida vs 3 UCLA"
+    Title: "NCAA Womens Basketball 14:00 Le Moyne vs 7 Baylor"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157221"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157336"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Mens Basketball 21:00 Weber State vs UC Irvine"
+    Title: "NCAA Womens Basketball 14:30 6 Oklahoma vs Western Carolina"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157222"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157337"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Womens Volleyball 10:00 Lipscomb vs Queens University"
+    Title: "NCAA Mens Basketball 15:00 Presbyterian vs Sacramento State"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157223"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157338"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Womens Volleyball 12:00 Duquesne vs George Washington"
+    Title: "NCAA Mens Basketball 16:00 Milwaukee vs Valparaiso"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157224"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157339"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Womens Volleyball 14:00 Idaho vs Montana State"
+    Title: "NCAA Mens Basketball 17:00 Mount St Marys vs Cincinnati"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157225"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157340"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Womens Volleyball 14:00 16 TCU vs 25 Iowa State"
+    Title: "NCAA Womens Basketball 18:00 Campbell vs Furman"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157226"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157341"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Womens Volleyball 15:00 Eastern Washington vs Montana"
+    Title: "NCAA Mens Basketball 19:00 Troy vs Cal State Northridge"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157227"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157342"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Womens Volleyball 16:00 Drake vs Indiana State"
+    Title: "NCAA Womens Volleyball 11:00 Wichita State vs Temple"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157228"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157343"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Womens Volleyball 17:00 Southern Illinois vs Evansville"
+    Title: "NCAA Womens Volleyball 11:30 Marquette vs Xavier"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157229"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157344"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Womens Volleyball 18:00 Florida Gulf Coast vs North Florida"
+    Title: "NCAA Womens Volleyball 12:00 UTSA vs South Florida"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157230"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157345"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Womens Volleyball 20:00 Cal State Fullerton vs Cal State Northridge"
+    Title: "NCAA Womens Volleyball 13:00 Tulane vs Tulsa"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157231"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157346"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "NCAA Womens Volleyball 21:00 UC Davis vs UC San Diego"
+    Title: "NCAA Womens Field Hockey 12:00 Miami  vs Northwestern"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157232"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157347"
     Live: true
     Country: "us"
     Tag: "evento ncaa (solo eventos)"
 }
 {
     Artist: "Proyecto"
-    Title: "MotoGP  03:00 Motul Grand Prix of the Valencian Community Free Practice 2"
+    Title: "NCAA Wrestling 11:00 Princeton vs West Virginia"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://w7.pngwing.com/pngs/336/574/png-transparent-2018-motogp-season-motogp-2-moto2-circuit-ricardo-tormo-moto-gp-angle-text-racing-thumbnail.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157251"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157348"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Proyecto"
+    Title: "NCAA Wrestling 12:30 App State vs West Virginia"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157349"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Proyecto"
+    Title: "NCAA Wrestling 14:00 Glenville State vs West Virginia"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157350"
+    Live: true
+    Country: "us"
+    Tag: "evento ncaa (solo eventos)"
+}
+{
+    Artist: "Proyecto"
+    Title: "Amistoso 09:00 Scotland v  Argentina"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://brandemia.org/sites/default/files/sites/default/files/world_rugby_logo.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157359"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "MotoGP  03:45 MotoGP Qualifying  Motul Grand Prix of the Valencian Community"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://w7.pngwing.com/pngs/336/574/png-transparent-2018-motogp-season-motogp-2-moto2-circuit-ricardo-tormo-moto-gp-angle-text-racing-thumbnail.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157252"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "MotoGP  07:30 MotoGP  Sprint Race  Motul Grand Prix of the Valencian Community"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://w7.pngwing.com/pngs/336/574/png-transparent-2018-motogp-season-motogp-2-moto2-circuit-ricardo-tormo-moto-gp-angle-text-racing-thumbnail.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157253"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "ATP  05:00 Nitto ATP Finals"
+    Title: "ATP  08:00 Nitto ATP Finals"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157254"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "ATP  07:30 Jannik Sinner  vs  Alex de Minaur"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157255"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157360"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
@@ -6076,128 +5405,40 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157256"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157361"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "ATP  11:30 Uruguay Open"
+    Title: "ATP  14:30 Uruguay Open"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157257"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157362"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "ATP  13:30 Carlos Alcaraz  vs  Felix AugerAliassime"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157258"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "ATP  14:00 Uruguay Open"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157259"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "BOX  10:45 Eubank Jr  vs  Benn 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.revcomps.com/wp-content/uploads/2025/01/Eubnak-Benn_.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157260"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "BOX  10:45 Eubank Jr  vs  Benn 2 Espanol"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://www.revcomps.com/wp-content/uploads/2025/01/Eubnak-Benn_.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157261"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "UFC 322 Della Maddalena vs Makhachev  17:00 Espanol"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://sportsnews.worldsportsbetting.co.za/wp-content/uploads/2025/11/UFC-UFC-Della-Maddalena-vs-Makhachev-Blog.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157262"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "UFC 322 Della Maddalena vs Makhachev  17:00"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://sportsnews.worldsportsbetting.co.za/wp-content/uploads/2025/11/UFC-UFC-Della-Maddalena-vs-Makhachev-Blog.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157263"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "UFC 322 Della Maddalena vs Makhachev  21:00"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://sportsnews.worldsportsbetting.co.za/wp-content/uploads/2025/11/UFC-UFC-Della-Maddalena-vs-Makhachev-Blog.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157264"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "UFC 322 Della Maddalena vs Makhachev  21:00 Espanol"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://sportsnews.worldsportsbetting.co.za/wp-content/uploads/2025/11/UFC-UFC-Della-Maddalena-vs-Makhachev-Blog.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157265"
-    Live: true
-    Country: "us"
-    Tag: "eventos ppv"
-}
-{
-    Artist: "Proyecto"
-    Title: "Premier Padel  06:00 Dubai  Centre Court"
+    Title: "Premier Padel  08:00 Dubai  Centre Court"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://d1f00kj7ad54bu.cloudfront.net/Pictures/2000xAny/1/4/4/14144_premierpadel2_680106.png"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157266"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157363"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
 }
 {
     Artist: "Proyecto"
-    Title: "U S  Curling Trials: Cousins vs  Peterson 14:00"
+    Title: "U S  Curling Trials: Cousins vs  Peterson 13:30"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://curlrochester.org/images/com_eventbooking/us_olympic_trials.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157267"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157364"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
@@ -6208,7 +5449,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://curlrochester.org/images/com_eventbooking/us_olympic_trials.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157268"
+    Stream: "http[:[[/]][[/]]]tv[.]proyectox[.]vip:8080[/]Bejaminnew[/]KLU60hiC9b[/]157365"
     Live: true
     Country: "us"
     Tag: "eventos ppv"
