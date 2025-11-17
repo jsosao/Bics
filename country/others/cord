@@ -14410,7 +14410,7 @@
 }
 {
     Artist: "Cord"
-    Title: "NFL 01: Carolina Panthers vs Atlanta Falcons 1pm"
+    Title: "NFL 01: Dallas Cowboys vs Las Vegas Raiders 8:15pm"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -14597,353 +14597,683 @@
 }
 {
     Artist: "Cord"
-    Title: "NBA 01: Sacramento Kings @ San Antonio Spurs  Away Stream  11162025 4:00 PM ET"
+    Title: "USA Real NBA 01: Milwaukee Bucks vs Cleveland Cavaliers @ 07:00 PM EST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255002"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255034"
     Live: true
     Country: "us"
     Tag: "nba"
 }
 {
     Artist: "Cord"
-    Title: "USA Real NBA 01: LA Clippers vs Boston Celtics @ 03:30 PM EST"
+    Title: "USA Real NBA 02: Indiana Pacers vs Detroit Pistons @ 07:00 PM EST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255003"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255035"
     Live: true
     Country: "us"
     Tag: "nba"
 }
 {
     Artist: "Cord"
-    Title: "NBA 02: Sacramento Kings @ San Antonio Spurs  Home Stream  11162025 4:00 PM ET"
+    Title: "USA Real NBA 03: LA Clippers vs Philadelphia 76ers @ 07:00 PM EST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255004"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255036"
     Live: true
     Country: "us"
     Tag: "nba"
 }
 {
     Artist: "Cord"
-    Title: "USA Real NBA 02: Sacramento Kings vs San Antonio Spurs @ 04:00 PM EST"
+    Title: "USA Real NBA 04: New York Knicks vs Miami Heat @ 07:30 PM EST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255005"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255037"
     Live: true
     Country: "us"
     Tag: "nba"
 }
 {
     Artist: "Cord"
-    Title: "NBA 03: Brooklyn Nets @ Washington Wizards  Away Stream  11162025 6:00 PM ET"
+    Title: "USA Real NBA 05: Charlotte Hornets vs Toronto Raptors @ 07:30 PM EST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255006"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255038"
     Live: true
     Country: "us"
     Tag: "nba"
 }
 {
     Artist: "Cord"
-    Title: "USA Real NBA 03: Brooklyn Nets vs Washington Wizards @ 06:00 PM EST"
+    Title: "USA Real NBA 06: Dallas Mavericks vs Minnesota Timberwolves @ 08:00 PM EST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255007"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255039"
     Live: true
     Country: "us"
     Tag: "nba"
 }
 {
     Artist: "Cord"
-    Title: "NBA 04: Brooklyn Nets @ Washington Wizards  Home Stream  11162025 6:00 PM ET"
+    Title: "USA Real NBA 07: Oklahoma City Thunder vs New Orleans Pelicans @ 08:00 PM EST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255008"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255040"
     Live: true
     Country: "us"
     Tag: "nba"
 }
 {
     Artist: "Cord"
-    Title: "USA Real NBA 04: Orlando Magic vs Houston Rockets @ 07:00 PM EST"
+    Title: "USA Real NBA 08: Chicago Bulls vs Denver Nuggets @ 09:00 PM EST"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255009"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255041"
     Live: true
     Country: "us"
     Tag: "nba"
 }
 {
     Artist: "Cord"
-    Title: "NBA 05: Orlando Magic @ Houston Rockets  Away Stream  11162025 7:00 PM ET"
+    Title: "USA Real NHL 01: CAR VS BOS  @ 7:00 pm"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255010"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "USA Real NBA 05: Golden State Warriors vs New Orleans Pelicans @ 07:00 PM EST"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255011"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "NBA 06: Orlando Magic @ Houston Rockets  Home Stream  11162025 7:00 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255012"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "USA Real NBA 06: Portland Trail Blazers vs Dallas Mavericks @ 07:30 PM EST"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255013"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "NBA 07: Golden State Warriors @ New Orleans Pelicans  Away Stream  11162025 7:00 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255014"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "USA Real NBA 07: Atlanta Hawks vs Phoenix Suns @ 08:00 PM EST"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255015"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "NBA 08: Golden State Warriors @ New Orleans Pelicans  Home Stream  11162025 7:00 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255016"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "USA Real NBA 08: Chicago Bulls vs Utah Jazz @ 08:00 PM EST"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255017"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "NBA 09: Portland Trail Blazers @ Dallas Mavericks  Home Stream  11162025 7:30 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255018"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "NBA 10: Portland Trail Blazers @ Dallas Mavericks  Away Stream  11162025 7:30 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255019"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "NBA 11: Atlanta Hawks @ Phoenix Suns  Away Stream  11162025 8:00 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255020"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "NBA 12: Atlanta Hawks @ Phoenix Suns  Home Stream  11162025 8:00 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255021"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "NBA 13: Chicago Bulls @ Utah Jazz  Away Stream  11162025 8:00 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255022"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "NBA 14: Chicago Bulls @ Utah Jazz  Home Stream  11162025 8:00 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255023"
-    Live: true
-    Country: "us"
-    Tag: "nba"
-}
-{
-    Artist: "Cord"
-    Title: "USA Real NHL 01: NSH VS PIT  @ 9:00 am"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255024"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255042"
     Live: true
     Country: "us"
     Tag: "nhl"
 }
 {
     Artist: "Cord"
-    Title: "USA Real NHL 02: NSH VS PIT  @ 9:00 am"
+    Title: "USA Real NHL 02: CAR VS BOS  @ 7:00 pm"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255025"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255043"
     Live: true
     Country: "us"
     Tag: "nhl"
 }
 {
     Artist: "Cord"
-    Title: "USA Real NHL 03: VGK VS MIN  @ 6:00 pm"
+    Title: "USA Real NHL 03: EDM VS BUF  @ 7:00 pm"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255026"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255044"
     Live: true
     Country: "us"
     Tag: "nhl"
 }
 {
     Artist: "Cord"
-    Title: "USA Real NHL 04: VGK VS MIN  @ 6:00 pm"
+    Title: "USA Real NHL 04: MTL VS CBJ  @ 7:30 pm"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255027"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255045"
     Live: true
     Country: "us"
     Tag: "nhl"
 }
 {
     Artist: "Cord"
-    Title: "USA Real NHL 05: DET VS NYR  @ 7:00 pm"
+    Title: "USA Real NHL 05: MTL VS CBJ  @ 7:30 pm"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255028"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255046"
     Live: true
     Country: "us"
     Tag: "nhl"
 }
 {
     Artist: "Cord"
-    Title: "USA Real NHL 06: DET VS NYR  @ 7:00 pm"
+    Title: "USA Real NHL 06: Vancouver Canucks vs Florida Panthers @ 07:00 PM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255029"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255047"
     Live: true
     Country: "us"
     Tag: "nhl"
 }
 {
     Artist: "Cord"
-    Title: "USA Real NHL 07: NYI VS COL  @ 9:00 pm"
+    Title: "USA Real NHL 07: Utah Mammoth vs Anaheim Ducks @ 10:00 pm"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255030"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255048"
     Live: true
     Country: "us"
     Tag: "nhl"
 }
 {
     Artist: "Cord"
-    Title: "USA Real NHL 08: NYI VS COL  @ 9:00 pm"
+    Title: "NCAAB 001  ERSKINE @ PRESBYTERIAN   11 17 11:00 AM  ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255031"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255049"
     Live: true
     Country: "us"
-    Tag: "nhl"
+    Tag: "ncaab"
 }
 {
     Artist: "Cord"
-    Title: "USA Real NHL 09: NYI VS COL  @ 9:00 pm"
+    Title: "NCAAB 002  NORTHWESTERN @ DEPAUL   11 17 12:00 PM  ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255032"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255050"
     Live: true
     Country: "us"
-    Tag: "nhl"
+    Tag: "ncaab"
 }
 {
     Artist: "Cord"
-    Title: "USA Real NHL 10: Vancouver Canucks vs Tampa Bay Lightning @ 05:00 PM EST"
+    Title: "NCAAB 003  CHICAGO STATE @ WESTERN ILLINOIS   11 17 6:00 PM  ESPN"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255033"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255051"
     Live: true
     Country: "us"
-    Tag: "nhl"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 004  DELAWARE @ AMERICAN UNIVERSITY   11 17 6:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255052"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 005  HOWARD @ VCU   11 17 6:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255053"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 006  STONEHILL @ MAINE   11 17 6:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255054"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 007  FLORIDA A&M @ GEORGIA   11 17 6:30 PM  SEC NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255055"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 008  5 LSU @ TULANE   11 17 7:00 PM  ESPNU"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255056"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 009  ALABAMA A&M @ ALABAMA   11 17 7:00 PM  SECN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255057"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 010  BUCKNELL @ PITTSBURGH   11 17 7:00 PM  ACC EXTRA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255058"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 011  CANISIUS @ HIGH POINT   11 17 7:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255059"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 012  CAROLINA UNIVERSITY @ LIBERTY   11 17 7:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255060"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 013  COASTAL GEORGIA @ FLORIDA ATLANTIC   11 17 7:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255061"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 014  COLGATE @ SIENA   11 17 7:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255062"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 015  GEORGE WASHINGTON @ LONGWOOD   11 17 7:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255063"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 016  GEORGIA STATE @ AUBURN   11 17 7:00 PM  SECN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255064"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 017  HOUSTON @ STEPHEN F  AUSTIN   11 17 7:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255065"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 018  INDIANA UNIVERSITY EAST @ SOUTHERN INDIANA   11 17 7:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255066"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 019  KANSAS CITY @ LINDENWOOD   11 17 7:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255067"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 020  LAFAYETTE @ WEST VIRGINIA   11 17 7:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255068"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 021  OAKLAND @ UCF   11 17 7:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255069"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 022  SAINT JOSEPHS @ PENNSYLVANIA   11 17 7:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255070"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 023  SOUTH CAROLINA STATE @ SOUTH CAROLINA UPSTATE   11 17 7:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255071"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 024  VCU @ NC STATE   11 17 7:00 PM  ACC NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255072"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 025  WEST GEORGIA @ TENNESSEE TECH   11 17 7:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255073"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 026  LAMAR @ UL MONROE   11 17 7:30 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255074"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 027  PRAIRIE VIEW A&M @ SAM HOUSTON   11 17 7:30 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255075"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 028  RHODES @ UAB   11 17 7:30 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255076"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 029  SOUTHWESTERN ADVENTIST @ UT RIO GRANDE VALLEY   11 17 7:30 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255077"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 030  ANGELO STATE @ TARLETON STATE   11 17 8:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255078"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 031  BENEDICTINE  @ UTAH VALLEY   11 17 8:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255079"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 032  NORTHWESTERN @ 17 ILLINOIS   126 3:00 PM  BTN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255080"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 033  PRAIRIE VIEW A&M @ MISSOURI   11 17 8:00 PM  SECN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255081"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 034  VALPARAISO @ UIC   126 3:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255082"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 035  WICHITA STATE @ TULSA   126 3:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255083"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 036  WISCONSIN @ 23 MINNESOTA   126 3:00 PM  B1G"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255084"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 037  UT RIO GRANDE VALLEY @ TEXAS STATE   11 17 8:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255085"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 038  COE @ WESTERN ILLINOIS   11 17 8:30 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255086"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 039  RICE @ 20 TENNESSEE   11 17 8:30 PM  SEC NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255087"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 040  ALABAMA STATE @ COLORADO   11 17 9:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255088"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 041  GEORGIA STATE @ ARIZONA STATE   11 17 9:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255089"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 042  LOYOLA MARYMOUNT @ UC SANTA BARBARA   11 17 9:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255090"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 043  BRYANT @ BINGHAMTON   125 2:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255091"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 044  SOUTHERN UTAH @ 19 GONZAGA   11 17 9:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255092"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 045  CAL STATE BAKERSFIELD @ PORTLAND STATE   11 17 10:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255093"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 046  OREGON STATE @ OREGON   11 17 10:00 PM  FS1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255094"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAB 047  EASTERN OREGON @ EASTERN WASHINGTON   11 17 10:30 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255095"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
 }
