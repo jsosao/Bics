@@ -4,7 +4,7 @@
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_abc.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]FL_Tampa_ABC[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]FL_Tampa_ABC[/]index[.]m3u8"
     Live: true
 }
 {
@@ -13,7 +13,7 @@
     streamFormat: "m3u|m3u8|hls|mp4|mkv|mp3|avi|m4v|ts|mpeg-4|flv|vob|ogg|ogv|webm|mov|wmv|asf|amv|mpg|mp2|mpeg|mpe|mpv|mpeg2"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_abc.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]ABC_EAST[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]ABC_EAST[/]index[.]m3u8"
     Live: true
 }
 {
@@ -31,7 +31,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cbs.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]CBSEAST[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]CBSEAST[/]index[.]m3u8"
     Live: true
 }
 {
@@ -49,7 +49,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]NBC_EAST[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]NBC_EAST[/]index[.]m3u8"
     Live: true
 }
 {
@@ -58,7 +58,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]FL_Tampa_NBC[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]FL_Tampa_NBC[/]index[.]m3u8"
     Live: true
 }
 {
@@ -76,7 +76,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]FOX_EAST[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]FOX_EAST[/]index[.]m3u8"
     Live: true
 }
 {
@@ -85,7 +85,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]FL_West_Palm_Beach_FOX[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]FL_West_Palm_Beach_FOX[/]index[.]m3u8"
     Live: true
 }
 {
@@ -121,7 +121,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fx.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]FX[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]FX[/]index[.]m3u8"
     Live: true
 }
 {
@@ -130,7 +130,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fxm.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]FX_MOVIE[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]FX_MOVIE[/]index[.]m3u8"
     Live: true
 }
 {
@@ -139,7 +139,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fxx.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]FXX[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]FXX[/]index[.]m3u8"
     Live: true
 }
 {
@@ -148,7 +148,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hallmark_channel.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]HALLMARK_CHANNEL[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]HALLMARK_CHANNEL[/]index[.]m3u8"
     Live: true
 }
 {
@@ -157,7 +157,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hallmark_family.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]HALLMARK_DRAMA[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]HALLMARK_DRAMA[/]index[.]m3u8"
     Live: true
 }
 {
@@ -166,7 +166,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ion.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]ION_TV[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]ION_TV[/]index[.]m3u8"
     Live: true
 }
 {
@@ -175,7 +175,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ion_plus.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]ION_Plus[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]ION_Plus[/]index[.]m3u8"
     Live: true
 }
 {
@@ -184,7 +184,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_lifetime.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]LIFETIME[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]LIFETIME[/]index[.]m3u8"
     Live: true
 }
 {
@@ -193,7 +193,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_lmn.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]LIFETIME_MOVIE_NETWORK[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]LIFETIME_MOVIE_NETWORK[/]index[.]m3u8"
     Live: true
 }
 {
@@ -202,7 +202,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_paramount_network.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]PARAMOUNT_NETWORK[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]PARAMOUNT_NETWORK[/]index[.]m3u8"
     Live: true
 }
 {
@@ -211,7 +211,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sony_movies.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]Sony_Movie_Channel[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]Sony_Movie_Channel[/]index[.]m3u8"
     Live: true
 }
 {
@@ -220,7 +220,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_syfy.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]SYFY[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]SYFY[/]index[.]m3u8"
     Live: true
 }
 {
@@ -229,7 +229,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tbs.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]TBS[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]TBS[/]index[.]m3u8"
     Live: true
 }
 {
@@ -238,7 +238,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tcm.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]TCM[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]TCM[/]index[.]m3u8"
     Live: true
 }
 {
@@ -247,7 +247,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tlc.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]TLC[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]TLC[/]index[.]m3u8"
     Live: true
 }
 {
@@ -256,7 +256,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tnt.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]TNT[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]TNT[/]index[.]m3u8"
     Live: true
 }
 {
@@ -274,7 +274,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_wgn.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]WGN[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]WGN[/]index[.]m3u8"
     Live: true
 }
 {
@@ -283,7 +283,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cinemax.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]CINEMAX[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]CINEMAX[/]index[.]m3u8"
     Live: true
 }
 {
@@ -292,7 +292,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cinemax.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]CINEMAX_EAST[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]CINEMAX_EAST[/]index[.]m3u8"
     Live: true
 }
 {
@@ -301,7 +301,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cinemax.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]CINEMAX_WEST[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]CINEMAX_WEST[/]index[.]m3u8"
     Live: true
 }
 {
@@ -310,7 +310,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cinemax_moremax.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]CINEMAX_MOREMAX[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]CINEMAX_MOREMAX[/]index[.]m3u8"
     Live: true
 }
 {
@@ -319,7 +319,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_outermax.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]OUTER_MAX[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]OUTER_MAX[/]index[.]m3u8"
     Live: true
 }
 {
@@ -328,7 +328,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_epix.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]EPIX[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]EPIX[/]index[.]m3u8"
     Live: true
 }
 {
@@ -337,7 +337,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_epix_2.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]EPIX_2[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]EPIX_2[/]index[.]m3u8"
     Live: true
 }
 {
@@ -346,7 +346,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_epix_drivein.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]EPIX_DRIVE_IN[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]EPIX_DRIVE_IN[/]index[.]m3u8"
     Live: true
 }
 {
@@ -355,7 +355,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_epix_hits.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]EPIX_HITS[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]EPIX_HITS[/]index[.]m3u8"
     Live: true
 }
 {
@@ -364,7 +364,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]HBO[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]HBO[/]index[.]m3u8"
     Live: true
 }
 {
@@ -373,7 +373,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_2.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]HBO_2[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]HBO_2[/]index[.]m3u8"
     Live: true
 }
 {
@@ -382,7 +382,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_comedy.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]HBO_COMEDY[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]HBO_COMEDY[/]index[.]m3u8"
     Live: true
 }
 {
@@ -391,7 +391,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_family.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]HBO_FAMILY[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]HBO_FAMILY[/]index[.]m3u8"
     Live: true
 }
 {
@@ -400,7 +400,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_zone.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]HBO_ZONE[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]HBO_ZONE[/]index[.]m3u8"
     Live: true
 }
 {
@@ -409,7 +409,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_showtime.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]SHOWTIME[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]SHOWTIME[/]index[.]m3u8"
     Live: true
 }
 {
@@ -418,7 +418,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_showtime_2.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]SHOWTIME_2[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]SHOWTIME_2[/]index[.]m3u8"
     Live: true
 }
 {
@@ -427,7 +427,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_showtime_extreme.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]SHOWTIME_EXTREME[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]SHOWTIME_EXTREME[/]index[.]m3u8"
     Live: true
 }
 {
@@ -436,7 +436,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_showtime_next.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]SHOWTIME_NEXT[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]SHOWTIME_NEXT[/]index[.]m3u8"
     Live: true
 }
 {
@@ -445,7 +445,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_showtime_women.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]SHOWTIME_WOMEN[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]SHOWTIME_WOMEN[/]index[.]m3u8"
     Live: true
 }
 {
@@ -454,7 +454,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_showtime.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]SHOWTIME_WEST[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]SHOWTIME_WEST[/]index[.]m3u8"
     Live: true
 }
 {
@@ -463,7 +463,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_starz.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]STARZ[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]STARZ[/]index[.]m3u8"
     Live: true
 }
 {
@@ -472,7 +472,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_starz_comedy.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]STARZ_COMEDY[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]STARZ_COMEDY[/]index[.]m3u8"
     Live: true
 }
 {
@@ -481,7 +481,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_starz_edge.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]STARZ_EDGE[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]STARZ_EDGE[/]index[.]m3u8"
     Live: true
 }
 {
@@ -490,7 +490,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_starz_encore.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]STARZ_ENCORE[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]STARZ_ENCORE[/]index[.]m3u8"
     Live: true
 }
 {
@@ -499,7 +499,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_starz_encore_action.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]STARZ_ENCORE_ACTION[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]STARZ_ENCORE_ACTION[/]index[.]m3u8"
     Live: true
 }
 {
@@ -508,7 +508,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_starz_encore_classic.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]STARZ_ENCORE_CLASSIC[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]STARZ_ENCORE_CLASSIC[/]index[.]m3u8"
     Live: true
 }
 {
@@ -517,7 +517,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_starz_encore_western.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]STARZ_ENCORE_WESTERNS[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]STARZ_ENCORE_WESTERNS[/]index[.]m3u8"
     Live: true
 }
 {
@@ -526,7 +526,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_starz.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]STARZ_WEST[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]STARZ_WEST[/]index[.]m3u8"
     Live: true
 }
 {
@@ -535,7 +535,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ci_network.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]Crime_and_Investigation_Network[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]Crime_and_Investigation_Network[/]index[.]m3u8"
     Live: true
 }
 {
@@ -544,7 +544,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_curiosity_stream.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]Curiosity_Stream[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]Curiosity_Stream[/]index[.]m3u8"
     Live: true
 }
 {
@@ -553,7 +553,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_destination_america.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]Destination_America[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]Destination_America[/]index[.]m3u8"
     Live: true
 }
 {
@@ -562,7 +562,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_channel.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]Discovery_Channel[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]Discovery_Channel[/]index[.]m3u8"
     Live: true
 }
 {
@@ -571,7 +571,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_family.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]DISCOVERY_FAMILY_CHANNEL[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]DISCOVERY_FAMILY_CHANNEL[/]index[.]m3u8"
     Live: true
 }
 {
@@ -580,7 +580,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_life.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]DISCOVERY_LIFE[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]DISCOVERY_LIFE[/]index[.]m3u8"
     Live: true
 }
 {
@@ -589,7 +589,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_id.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]INVESTIGATION_DISCOVERY[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]INVESTIGATION_DISCOVERY[/]index[.]m3u8"
     Live: true
 }
 {
@@ -598,7 +598,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]National_Geographic[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]National_Geographic[/]index[.]m3u8"
     Live: true
 }
 {
@@ -607,7 +607,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo_wild.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]Nat_Geo_Wild[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]Nat_Geo_Wild[/]index[.]m3u8"
     Live: true
 }
 {
@@ -616,7 +616,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cooking_channel.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]COOKING_CHANNEL[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]COOKING_CHANNEL[/]index[.]m3u8"
     Live: true
 }
 {
@@ -625,7 +625,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_e!.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]E_ENTERTAINMENT_TELEVISION[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]E_ENTERTAINMENT_TELEVISION[/]index[.]m3u8"
     Live: true
 }
 {
@@ -634,7 +634,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_food_network.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]FOOD_NETWORK[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]FOOD_NETWORK[/]index[.]m3u8"
     Live: true
 }
 {
@@ -643,7 +643,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fyi.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]FYI[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]FYI[/]index[.]m3u8"
     Live: true
 }
 {
@@ -652,7 +652,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hgtv.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]HGTV[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]HGTV[/]index[.]m3u8"
     Live: true
 }
 {
@@ -661,7 +661,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_amc_network.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]AMC_NETWORK[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]AMC_NETWORK[/]index[.]m3u8"
     Live: true
 }
 {
@@ -670,7 +670,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ahc.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]American_Heroes_Channel[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]American_Heroes_Channel[/]index[.]m3u8"
     Live: true
 }
 {
@@ -679,7 +679,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox_soul.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]FOX_SOUL[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]FOX_SOUL[/]index[.]m3u8"
     Live: true
 }
 {
@@ -688,7 +688,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_aspire.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]Aspire[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]Aspire[/]index[.]m3u8"
     Live: true
 }
 {
@@ -697,7 +697,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_bounce_tv.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]BOUNCE_TV[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]BOUNCE_TV[/]index[.]m3u8"
     Live: true
 }
 {
@@ -706,7 +706,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_bravo.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]BRAVO[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]BRAVO[/]index[.]m3u8"
     Live: true
 }
 {
@@ -715,7 +715,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_buzzr.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]Buzzr[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]Buzzr[/]index[.]m3u8"
     Live: true
 }
 {
@@ -724,7 +724,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cleo_tv.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]Cleo_TV[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]Cleo_TV[/]index[.]m3u8"
     Live: true
 }
 {
@@ -733,7 +733,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cmt.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]CMT[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]CMT[/]index[.]m3u8"
     Live: true
 }
 {
@@ -742,7 +742,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_comedy_central.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]Comedy_Central[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]Comedy_Central[/]index[.]m3u8"
     Live: true
 }
 {
@@ -751,7 +751,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_comedy_tv.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]Comedy_TV[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]Comedy_TV[/]index[.]m3u8"
     Live: true
 }
 {
@@ -760,7 +760,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_comet.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]COMET[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]COMET[/]index[.]m3u8"
     Live: true
 }
 {
@@ -769,7 +769,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_court_tv.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]COURT_TV[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]COURT_TV[/]index[.]m3u8"
     Live: true
 }
 {
@@ -778,7 +778,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cozi_tv.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]COZI_TV[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]COZI_TV[/]index[.]m3u8"
     Live: true
 }
 {
@@ -787,7 +787,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_diy.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]DIY[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]DIY[/]index[.]m3u8"
     Live: true
 }
 {
@@ -796,7 +796,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_free_form.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]FREE_FORM[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]FREE_FORM[/]index[.]m3u8"
     Live: true
 }
 {
@@ -805,7 +805,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fuse.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]FUSE[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]FUSE[/]index[.]m3u8"
     Live: true
 }
 {
@@ -814,7 +814,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hln.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]HLN[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]HLN[/]index[.]m3u8"
     Live: true
 }
 {
@@ -823,7 +823,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_insp.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]INSP[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]INSP[/]index[.]m3u8"
     Live: true
 }
 {
@@ -832,7 +832,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_me_tv.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]ME_TV[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]ME_TV[/]index[.]m3u8"
     Live: true
 }
 {
@@ -841,7 +841,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_military_history.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]Military_History[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]Military_History[/]index[.]m3u8"
     Live: true
 }
 {
@@ -850,7 +850,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_motortrend.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]MOTOR_TREND[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]MOTOR_TREND[/]index[.]m3u8"
     Live: true
 }
 {
@@ -859,7 +859,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_outdoor.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]OUTDOOR_CHANNEL[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]OUTDOOR_CHANNEL[/]index[.]m3u8"
     Live: true
 }
 {
@@ -868,7 +868,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_outside.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]OUTSIDE_TV[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]OUTSIDE_TV[/]index[.]m3u8"
     Live: true
 }
 {
@@ -877,7 +877,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ovation.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]Ovation[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]Ovation[/]index[.]m3u8"
     Live: true
 }
 {
@@ -886,7 +886,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_oxygen.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]OXYGEN[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]OXYGEN[/]index[.]m3u8"
     Live: true
 }
 {
@@ -895,7 +895,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_abc_canal_25.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]Pursuit_Channel[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]Pursuit_Channel[/]index[.]m3u8"
     Live: true
 }
 {
@@ -904,7 +904,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_reelz.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]REELZ[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]REELZ[/]index[.]m3u8"
     Live: true
 }
 {
@@ -913,7 +913,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_revolt.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]REVOLT[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]REVOLT[/]index[.]m3u8"
     Live: true
 }
 {
@@ -922,7 +922,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_smithsonian.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]SMITHSONIAN_CHANNEL[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]SMITHSONIAN_CHANNEL[/]index[.]m3u8"
     Live: true
 }
 {
@@ -931,7 +931,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_stadium.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]STADIUM[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]STADIUM[/]index[.]m3u8"
     Live: true
 }
 {
@@ -940,7 +940,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_weather_channel.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]THE_WEATHER_CHANNEL[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]THE_WEATHER_CHANNEL[/]index[.]m3u8"
     Live: true
 }
 {
@@ -949,7 +949,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_travel_channel.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]Travel_Channel[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]Travel_Channel[/]index[.]m3u8"
     Live: true
 }
 {
@@ -958,7 +958,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_trutv.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]TRU_TV[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]TRU_TV[/]index[.]m3u8"
     Live: true
 }
 {
@@ -967,7 +967,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tvland.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]TV_Land[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]TV_Land[/]index[.]m3u8"
     Live: true
 }
 {
@@ -976,7 +976,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tvone.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]TV_ONE[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]TV_ONE[/]index[.]m3u8"
     Live: true
 }
 {
@@ -985,7 +985,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tvg.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]TVG[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]TVG[/]index[.]m3u8"
     Live: true
 }
 {
@@ -994,7 +994,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_viceland.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]VICELAND[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]VICELAND[/]index[.]m3u8"
     Live: true
 }
 {
@@ -1003,7 +1003,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_we_tv.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]WE_TV[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]WE_TV[/]index[.]m3u8"
     Live: true
 }
 {
@@ -1012,7 +1012,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]PPV_1[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]PPV_1[/]index[.]m3u8"
     Live: true
 }
 {
@@ -1021,7 +1021,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]PPV_2[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]PPV_2[/]index[.]m3u8"
     Live: true
 }
 {
@@ -1030,7 +1030,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]PPV_3[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]PPV_3[/]index[.]m3u8"
     Live: true
 }
 {
@@ -1039,7 +1039,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]PPV_4[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]PPV_4[/]index[.]m3u8"
     Live: true
 }
 {
@@ -1048,7 +1048,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]PPV_5[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]PPV_5[/]index[.]m3u8"
     Live: true
 }
 {
@@ -1057,6 +1057,6 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[/][/]]fl30[.]moveonjoy[.]com[/]PPV_6[/]index[.]m3u8"
+    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]PPV_6[/]index[.]m3u8"
     Live: true
 }
