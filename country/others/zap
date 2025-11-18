@@ -5588,278 +5588,685 @@
 }
 {
     Artist: "Zapp"
-    Title: "ARGTNT Sports"
+    Title: "America Estereo Guayaquil"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "http://23.153.216.121:25461/images/fb9547329a8662ebe33f904988aca138.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]7950"
+    Logo: "https://i.imgur.com/gUqKymM.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135812"
+    Live: true
+    Country: "us"
+    Tag: "ecuador-local"
+}
+{
+    Artist: "Zapp"
+    Title: "America Estereo Tulcan"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/gUqKymM.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135813"
+    Live: true
+    Country: "us"
+    Tag: "ecuador-local"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  A24"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157616"
     Live: true
     Country: "us"
     Tag: "argentina"
 }
 {
     Artist: "Zapp"
-    Title: "ARGTNT Sports"
+    Title: "ARG  America 24"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "http://23.153.216.121:25461/images/fb9547329a8662ebe33f904988aca138.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84861"
+    Logo: "https://img2.freepng.es/20180617/wx/kisspng-amrica-24-argentina-television-channel-5b2726e477db86.792259961529292516491.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157613"
     Live: true
     Country: "us"
     Tag: "argentina"
 }
 {
     Artist: "Zapp"
-    Title: "ARGTNT Sports"
+    Title: "ARG  America TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "http://23.153.216.121:25461/images/fb9547329a8662ebe33f904988aca138.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]7951"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157612"
     Live: true
     Country: "us"
     Tag: "argentina"
 }
 {
     Artist: "Zapp"
-    Title: "ARGTyC Sports Local"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://23.153.216.121:25461/images/dc9f4c2291724375736a7d74ec88237d.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]7956"
-    Live: true
-    Country: "us"
-    Tag: "argentina"
-}
-{
-    Artist: "Zapp"
-    Title: "ARGTYC Sports Local"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://23.153.216.121:25461/images/dc9f4c2291724375736a7d74ec88237d.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]7957"
-    Live: true
-    Country: "us"
-    Tag: "argentina"
-}
-{
-    Artist: "Zapp"
-    Title: "ARGAmerica"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://23.153.216.121:25461/images/3962e7152b4d19c9f2dc71b8c3829545.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]7928"
-    Live: true
-    Country: "us"
-    Tag: "argentina"
-}
-{
-    Artist: "Zapp"
-    Title: "ARGEl Nueve"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://23.153.216.121:25461/images/58f831d7d15eb98f9190c3cc01a1c87c.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]7936"
-    Live: true
-    Country: "us"
-    Tag: "argentina"
-}
-{
-    Artist: "Zapp"
-    Title: "ARGEl Nueve"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://23.153.216.121:25461/images/58f831d7d15eb98f9190c3cc01a1c87c.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84855"
-    Live: true
-    Country: "us"
-    Tag: "argentina"
-}
-{
-    Artist: "Zapp"
-    Title: "ARGEl Trece"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://23.153.216.121:25461/images/00f165e38ba27ac417ccf07c6473d692.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]7938"
-    Live: true
-    Country: "us"
-    Tag: "argentina"
-}
-{
-    Artist: "Zapp"
-    Title: "ARGEl Trece"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://23.153.216.121:25461/images/00f165e38ba27ac417ccf07c6473d692.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]7939"
-    Live: true
-    Country: "us"
-    Tag: "argentina"
-}
-{
-    Artist: "Zapp"
-    Title: "ARGTelefe"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]7944"
-    Live: true
-    Country: "us"
-    Tag: "argentina"
-}
-{
-    Artist: "Zapp"
-    Title: "ARGTelefe"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]7945"
-    Live: true
-    Country: "us"
-    Tag: "argentina"
-}
-{
-    Artist: "Zapp"
-    Title: "ARGTelefe"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84858"
-    Live: true
-    Country: "us"
-    Tag: "argentina"
-}
-{
-    Artist: "Zapp"
-    Title: "ARGTelefe"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]7946"
-    Live: true
-    Country: "us"
-    Tag: "argentina"
-}
-{
-    Artist: "Zapp"
-    Title: "ARGTV Publica"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://23.153.216.121:25461/images/f99daf897f04da453259e216dd0cd7f5.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84863"
-    Live: true
-    Country: "us"
-    Tag: "argentina"
-}
-{
-    Artist: "Zapp"
-    Title: "ARGTV Publica"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://23.153.216.121:25461/images/f99daf897f04da453259e216dd0cd7f5.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]7953"
-    Live: true
-    Country: "us"
-    Tag: "argentina"
-}
-{
-    Artist: "Zapp"
-    Title: "ARGC5N"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://23.153.216.121:25461/images/c32ded367063b757ed2e068bc778029f.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84852"
-    Live: true
-    Country: "us"
-    Tag: "argentina"
-}
-{
-    Artist: "Zapp"
-    Title: "ARGCanal 26"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "/-jxWlc8RDNlY/YgbJRwQXECI/AAAAAAAADUQ/sa-ifOmH_r4dRF2oxpY8GHGYhoLnlE_uwCNcBGAsYHQ/s1600/1644611909226316-23.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84850"
-    Live: true
-    Country: "us"
-    Tag: "argentina"
-}
-{
-    Artist: "Zapp"
-    Title: "ARGLa Nacion"
+    Title: "ARG  America TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]111327"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157624"
     Live: true
     Country: "us"
     Tag: "argentina"
 }
 {
     Artist: "Zapp"
-    Title: "ARGLN"
+    Title: "ARG  America TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]7942"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157623"
     Live: true
     Country: "us"
     Tag: "argentina"
 }
 {
     Artist: "Zapp"
-    Title: "ARGLN"
+    Title: "ARG  America TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "/-Oue4zx1Bdyo/YgbJWrj9CzI/AAAAAAAADUs/Lk3r9Fops0AppjxSTkfQorh_L41MglwcQCNcBGAsYHQ/s1600/1644611928473306-16.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84857"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157622"
     Live: true
     Country: "us"
     Tag: "argentina"
 }
 {
     Artist: "Zapp"
-    Title: "ARGTN"
+    Title: "ARG  Argentinisima"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "http://23.153.216.121:25461/images/928fdd8c0b300176e794fe09087f6a83.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84860"
+    Logo: "https://1.bp.blogspot.com/_UM56cm9HfJE/TFMi2rGtLMI/AAAAAAAAAhM/u4GdJOPmo9s/s1600/argentinisima.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157608"
     Live: true
     Country: "us"
     Tag: "argentina"
 }
 {
     Artist: "Zapp"
-    Title: "ARGTV Publica"
+    Title: "ARG  C5N"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "http://23.153.216.121:25461/images/f99daf897f04da453259e216dd0cd7f5.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]7952"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157566"
     Live: true
     Country: "us"
     Tag: "argentina"
 }
 {
     Artist: "Zapp"
-    Title: "ARGTV5"
+    Title: "ARG  C5N"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "http://23.153.216.121:25461/images/063604e476b1298337e74caee1e371cf.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]7955"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/C5N.svg/1280px-C5N.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157607"
     Live: true
     Country: "us"
     Tag: "argentina"
 }
 {
     Artist: "Zapp"
-    Title: "ARGTV5"
+    Title: "ARG  Canal 13"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "http://23.153.216.121:25461/images/063604e476b1298337e74caee1e371cf.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84864"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157567"
     Live: true
     Country: "us"
     Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Canal 26"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157594"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Canal 26"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157568"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Canal 9"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157569"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Canal 9"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/3/32/Canal 9_9_ba_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157595"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Canal 9 13"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Canal 9_13_%28Chile%29_logo.svg/1005px-Canal 9_13_%28Chile%29_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157602"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Canal de la Ciudad"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157570"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Cinear"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/a/a4/CINEARLogo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157601"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Ciudad Magazine"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157565"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Ciudad Magazine"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://media.cine.com/Canal 9es/ar/294_(T)(720).png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157600"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Cronica"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157598"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Cronica Television"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://144.217.91.146/Logos/Argentina/cronica-tv-ar.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157597"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Cronica TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157572"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Deportv"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/4/49/DeporTVLogo2020.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157620"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  DeporTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157573"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  DEPORTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157596"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  El Nueve"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://144.217.91.146/Logos/Argentina/el-trece-ar.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157621"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  El Trece  F"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal 9_13_200_8.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157615"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  El trece"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://cdn.mitvstatic.com/channels/ar_el-trece_m.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157591"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157558"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  ESPN 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157559"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  ESPN 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157560"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  ESPN 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157561"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  ESPN Premium"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157562"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  INFO Noticias"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://lascronologias.wordpress.com/wp-content/uploads/2020/05/grupo-clarin-cadena-somos-Canal 9es-interior.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157588"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  LN "
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNE58WimsZef2vec-nzRyuS95ljMAC-SEmcYfuwRcIkpP.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157592"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  LN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157574"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  LN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157593"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Metro"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://www.pngitem.com/pimgs/m/286-2868325_thumb-image-metro-tv-news-logo-(T)(720)-png.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157606"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Multivision"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157618"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Music Top"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157564"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Paka Paka"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157575"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Telefe"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://static.wikia.nocookie.net/logopedia/images/6/66/Telefe2014-2015logo.png/revision/latest/scale-to-width-down/250?cb=20210919150536&path-prefix=es"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157589"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Telefe"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157590"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Telefe Noticias"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Telefe_Noticias_2017.png/640px-Telefe_Noticias_2017.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157617"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Telesur"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157604"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  TN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157577"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  TN Noticias"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157610"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  TNT Sports"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157585"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  TNT Sports"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157584"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Todo Noticias"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157603"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  TV Publica"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157586"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  TV Publica"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_TV_P%C3%BAblica_Argentina.svg/2087px-Logo_TV_P%C3%BAblica_Argentina.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157587"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  TV Publica"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157578"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  TV5 Monde"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157579"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  TyC Sports"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157583"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  TyC Sports"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157580"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  TyC Sports"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157614"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "ARG  Volver"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]157581"
+    Live: true
+    Country: "us"
+    Tag: "argentina"
+}
+{
+    Artist: "Zapp"
+    Title: "Asomavision"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/a5avk5R.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135814"
+    Live: true
+    Country: "us"
+    Tag: "ecuador-local"
+}
+{
+    Artist: "Zapp"
+    Title: "Austral TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/zgGuCYL.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135815"
+    Live: true
+    Country: "us"
+    Tag: "ecuador-local"
 }
 {
     Artist: "Zapp"
@@ -5937,193 +6344,6 @@
     Live: true
     Country: "us"
     Tag: "bolivia"
-}
-{
-    Artist: "Zapp"
-    Title: "BRAESPN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10567"
-    Live: true
-    Country: "us"
-    Tag: "brasil"
-}
-{
-    Artist: "Zapp"
-    Title: "BRAESPN 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10564"
-    Live: true
-    Country: "us"
-    Tag: "brasil"
-}
-{
-    Artist: "Zapp"
-    Title: "BRAESPN Brasil"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10565"
-    Live: true
-    Country: "us"
-    Tag: "brasil"
-}
-{
-    Artist: "Zapp"
-    Title: "BRAESPN Extra"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10566"
-    Live: true
-    Country: "us"
-    Tag: "brasil"
-}
-{
-    Artist: "Zapp"
-    Title: "BRAFox Premium 1"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10568"
-    Live: true
-    Country: "us"
-    Tag: "brasil"
-}
-{
-    Artist: "Zapp"
-    Title: "BRAFox Premium 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10569"
-    Live: true
-    Country: "us"
-    Tag: "brasil"
-}
-{
-    Artist: "Zapp"
-    Title: "BRAFox Sports"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10571"
-    Live: true
-    Country: "us"
-    Tag: "brasil"
-}
-{
-    Artist: "Zapp"
-    Title: "BRAFox Sports 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10570"
-    Live: true
-    Country: "us"
-    Tag: "brasil"
-}
-{
-    Artist: "Zapp"
-    Title: "BRAPremiere 4"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10572"
-    Live: true
-    Country: "us"
-    Tag: "brasil"
-}
-{
-    Artist: "Zapp"
-    Title: "BRAPremiere 5"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10573"
-    Live: true
-    Country: "us"
-    Tag: "brasil"
-}
-{
-    Artist: "Zapp"
-    Title: "BRAPremiere 6"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10574"
-    Live: true
-    Country: "us"
-    Tag: "brasil"
-}
-{
-    Artist: "Zapp"
-    Title: "BRAPremiere 8"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10575"
-    Live: true
-    Country: "us"
-    Tag: "brasil"
-}
-{
-    Artist: "Zapp"
-    Title: "BRAPremiere CLUBE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10632"
-    Live: true
-    Country: "us"
-    Tag: "brasil"
-}
-{
-    Artist: "Zapp"
-    Title: "BRAPrime Box Brasil"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10633"
-    Live: true
-    Country: "us"
-    Tag: "brasil"
-}
-{
-    Artist: "Zapp"
-    Title: "BRASportv"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10641"
-    Live: true
-    Country: "us"
-    Tag: "brasil"
-}
-{
-    Artist: "Zapp"
-    Title: "BRASportv 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10639"
-    Live: true
-    Country: "us"
-    Tag: "brasil"
-}
-{
-    Artist: "Zapp"
-    Title: "BRASportv 3"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10640"
-    Live: true
-    Country: "us"
-    Tag: "brasil"
 }
 {
     Artist: "Zapp"
@@ -6413,11 +6633,99 @@
 }
 {
     Artist: "Zapp"
+    Title: "BRAESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10567"
+    Live: true
+    Country: "us"
+    Tag: "brasil"
+}
+{
+    Artist: "Zapp"
+    Title: "BRAESPN 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10564"
+    Live: true
+    Country: "us"
+    Tag: "brasil"
+}
+{
+    Artist: "Zapp"
+    Title: "BRAESPN Brasil"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10565"
+    Live: true
+    Country: "us"
+    Tag: "brasil"
+}
+{
+    Artist: "Zapp"
+    Title: "BRAESPN Extra"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10566"
+    Live: true
+    Country: "us"
+    Tag: "brasil"
+}
+{
+    Artist: "Zapp"
     Title: "BRAFISH TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10601"
+    Live: true
+    Country: "us"
+    Tag: "brasil"
+}
+{
+    Artist: "Zapp"
+    Title: "BRAFox Premium 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10568"
+    Live: true
+    Country: "us"
+    Tag: "brasil"
+}
+{
+    Artist: "Zapp"
+    Title: "BRAFox Premium 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10569"
+    Live: true
+    Country: "us"
+    Tag: "brasil"
+}
+{
+    Artist: "Zapp"
+    Title: "BRAFox Sports"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10571"
+    Live: true
+    Country: "us"
+    Tag: "brasil"
+}
+{
+    Artist: "Zapp"
+    Title: "BRAFox Sports 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10570"
     Live: true
     Country: "us"
     Tag: "brasil"
@@ -6710,6 +7018,72 @@
 }
 {
     Artist: "Zapp"
+    Title: "BRAPremiere 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10572"
+    Live: true
+    Country: "us"
+    Tag: "brasil"
+}
+{
+    Artist: "Zapp"
+    Title: "BRAPremiere 5"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10573"
+    Live: true
+    Country: "us"
+    Tag: "brasil"
+}
+{
+    Artist: "Zapp"
+    Title: "BRAPremiere 6"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10574"
+    Live: true
+    Country: "us"
+    Tag: "brasil"
+}
+{
+    Artist: "Zapp"
+    Title: "BRAPremiere 8"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10575"
+    Live: true
+    Country: "us"
+    Tag: "brasil"
+}
+{
+    Artist: "Zapp"
+    Title: "BRAPremiere CLUBE"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10632"
+    Live: true
+    Country: "us"
+    Tag: "brasil"
+}
+{
+    Artist: "Zapp"
+    Title: "BRAPrime Box Brasil"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10633"
+    Live: true
+    Country: "us"
+    Tag: "brasil"
+}
+{
+    Artist: "Zapp"
     Title: "BRARecord"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -6759,6 +7133,39 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10638"
+    Live: true
+    Country: "us"
+    Tag: "brasil"
+}
+{
+    Artist: "Zapp"
+    Title: "BRASportv"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10641"
+    Live: true
+    Country: "us"
+    Tag: "brasil"
+}
+{
+    Artist: "Zapp"
+    Title: "BRASportv 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10639"
+    Live: true
+    Country: "us"
+    Tag: "brasil"
+}
+{
+    Artist: "Zapp"
+    Title: "BRASportv 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10640"
     Live: true
     Country: "us"
     Tag: "brasil"
@@ -7084,226 +7491,6 @@
 }
 {
     Artist: "Zapp"
-    Title: "CHITNT Sports Premium"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/yYcGLqsG/TNT-Sports-Premium-Chile.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9923"
-    Live: true
-    Country: "us"
-    Tag: "chile"
-}
-{
-    Artist: "Zapp"
-    Title: "CHITNT Sports Premium"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/yYcGLqsG/TNT-Sports-Premium-Chile.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]87173"
-    Live: true
-    Country: "us"
-    Tag: "chile"
-}
-{
-    Artist: "Zapp"
-    Title: "CHITNT Sports Premium"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/yYcGLqsG/TNT-Sports-Premium-Chile.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]112994"
-    Live: true
-    Country: "us"
-    Tag: "chile"
-}
-{
-    Artist: "Zapp"
-    Title: "CHITNT Sports Premium"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/yYcGLqsG/TNT-Sports-Premium-Chile.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]112995"
-    Live: true
-    Country: "us"
-    Tag: "chile"
-}
-{
-    Artist: "Zapp"
-    Title: "CHITNT Sports Premium"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/yYcGLqsG/TNT-Sports-Premium-Chile.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]112993"
-    Live: true
-    Country: "us"
-    Tag: "chile"
-}
-{
-    Artist: "Zapp"
-    Title: "CHITNT Sports Premium  "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/yYcGLqsG/TNT-Sports-Premium-Chile.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9886"
-    Live: true
-    Country: "us"
-    Tag: "chile"
-}
-{
-    Artist: "Zapp"
-    Title: "CHITNT Sports 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/mg45qdrg/Tn-T-Sports-Chile.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9926"
-    Live: true
-    Country: "us"
-    Tag: "chile"
-}
-{
-    Artist: "Zapp"
-    Title: "CHITNT Sports 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/mg45qdrg/Tn-T-Sports-Chile.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]112997"
-    Live: true
-    Country: "us"
-    Tag: "chile"
-}
-{
-    Artist: "Zapp"
-    Title: "CHITNT Sports 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/mg45qdrg/Tn-T-Sports-Chile.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9925"
-    Live: true
-    Country: "us"
-    Tag: "chile"
-}
-{
-    Artist: "Zapp"
-    Title: "CHITNT Sports 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/mg45qdrg/Tn-T-Sports-Chile.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]87176"
-    Live: true
-    Country: "us"
-    Tag: "chile"
-}
-{
-    Artist: "Zapp"
-    Title: "CHITNT Sports 3"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/mg45qdrg/Tn-T-Sports-Chile.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9929"
-    Live: true
-    Country: "us"
-    Tag: "chile"
-}
-{
-    Artist: "Zapp"
-    Title: "CHIEspn 1"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]143375"
-    Live: true
-    Country: "us"
-    Tag: "chile"
-}
-{
-    Artist: "Zapp"
-    Title: "CHIEspn 1"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9905"
-    Live: true
-    Country: "us"
-    Tag: "chile"
-}
-{
-    Artist: "Zapp"
-    Title: "CHIEspn 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9906"
-    Live: true
-    Country: "us"
-    Tag: "chile"
-}
-{
-    Artist: "Zapp"
-    Title: "CHIEspn 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9907"
-    Live: true
-    Country: "us"
-    Tag: "chile"
-}
-{
-    Artist: "Zapp"
-    Title: "CHIEspn Premium"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]87175"
-    Live: true
-    Country: "us"
-    Tag: "chile"
-}
-{
-    Artist: "Zapp"
-    Title: "CHIFox Sports 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9913"
-    Live: true
-    Country: "us"
-    Tag: "chile"
-}
-{
-    Artist: "Zapp"
-    Title: "CHICDO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84884"
-    Live: true
-    Country: "us"
-    Tag: "chile"
-}
-{
-    Artist: "Zapp"
-    Title: "CHICDO 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9896"
-    Live: true
-    Country: "us"
-    Tag: "chile"
-}
-{
-    Artist: "Zapp"
-    Title: "CHICDO Premium 1"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9897"
-    Live: true
-    Country: "us"
-    Tag: "chile"
-}
-{
-    Artist: "Zapp"
     Title: "CHI24 Horas"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -7403,6 +7590,39 @@
 }
 {
     Artist: "Zapp"
+    Title: "CHICDO"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84884"
+    Live: true
+    Country: "us"
+    Tag: "chile"
+}
+{
+    Artist: "Zapp"
+    Title: "CHICDO 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9896"
+    Live: true
+    Country: "us"
+    Tag: "chile"
+}
+{
+    Artist: "Zapp"
+    Title: "CHICDO Premium 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9897"
+    Live: true
+    Country: "us"
+    Tag: "chile"
+}
+{
+    Artist: "Zapp"
     Title: "CHIChilevision"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -7429,7 +7649,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1.bp.blogspot.com/-aKKnE5zelf0/XajpwuQbiiI/AAAAAAAAATA/5f4gU1aoAV8DeFtUKrBem58nsrj8P8HHQCLcBGAsYHQ/s200/5.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]87170"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]87172"
     Live: true
     Country: "us"
     Tag: "chile"
@@ -7440,7 +7660,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1.bp.blogspot.com/-aKKnE5zelf0/XajpwuQbiiI/AAAAAAAAATA/5f4gU1aoAV8DeFtUKrBem58nsrj8P8HHQCLcBGAsYHQ/s200/5.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]87172"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]87170"
     Live: true
     Country: "us"
     Tag: "chile"
@@ -7502,11 +7722,77 @@
 }
 {
     Artist: "Zapp"
+    Title: "CHIEspn 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9905"
+    Live: true
+    Country: "us"
+    Tag: "chile"
+}
+{
+    Artist: "Zapp"
+    Title: "CHIEspn 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]143375"
+    Live: true
+    Country: "us"
+    Tag: "chile"
+}
+{
+    Artist: "Zapp"
+    Title: "CHIEspn 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9906"
+    Live: true
+    Country: "us"
+    Tag: "chile"
+}
+{
+    Artist: "Zapp"
+    Title: "CHIEspn 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9907"
+    Live: true
+    Country: "us"
+    Tag: "chile"
+}
+{
+    Artist: "Zapp"
+    Title: "CHIEspn Premium"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]87175"
+    Live: true
+    Country: "us"
+    Tag: "chile"
+}
+{
+    Artist: "Zapp"
     Title: "CHIETC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1.bp.blogspot.com/-08UXr5rCW5A/XajpxIJ8MZI/AAAAAAAAATI/wUGS1sufclQdgaVE0-Smam8E_LHIwD6RQCLcBGAsYHQ/s200/7.png"
     Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9911"
+    Live: true
+    Country: "us"
+    Tag: "chile"
+}
+{
+    Artist: "Zapp"
+    Title: "CHIFox Sports 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9913"
     Live: true
     Country: "us"
     Tag: "chile"
@@ -7562,6 +7848,127 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
     Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9921"
+    Live: true
+    Country: "us"
+    Tag: "chile"
+}
+{
+    Artist: "Zapp"
+    Title: "CHITNT Sports 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/mg45qdrg/Tn-T-Sports-Chile.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9925"
+    Live: true
+    Country: "us"
+    Tag: "chile"
+}
+{
+    Artist: "Zapp"
+    Title: "CHITNT Sports 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/mg45qdrg/Tn-T-Sports-Chile.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]87176"
+    Live: true
+    Country: "us"
+    Tag: "chile"
+}
+{
+    Artist: "Zapp"
+    Title: "CHITNT Sports 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/mg45qdrg/Tn-T-Sports-Chile.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]112997"
+    Live: true
+    Country: "us"
+    Tag: "chile"
+}
+{
+    Artist: "Zapp"
+    Title: "CHITNT Sports 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/mg45qdrg/Tn-T-Sports-Chile.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9926"
+    Live: true
+    Country: "us"
+    Tag: "chile"
+}
+{
+    Artist: "Zapp"
+    Title: "CHITNT Sports 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/mg45qdrg/Tn-T-Sports-Chile.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9929"
+    Live: true
+    Country: "us"
+    Tag: "chile"
+}
+{
+    Artist: "Zapp"
+    Title: "CHITNT Sports Premium  "
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/yYcGLqsG/TNT-Sports-Premium-Chile.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9886"
+    Live: true
+    Country: "us"
+    Tag: "chile"
+}
+{
+    Artist: "Zapp"
+    Title: "CHITNT Sports Premium"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/yYcGLqsG/TNT-Sports-Premium-Chile.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]87173"
+    Live: true
+    Country: "us"
+    Tag: "chile"
+}
+{
+    Artist: "Zapp"
+    Title: "CHITNT Sports Premium"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/yYcGLqsG/TNT-Sports-Premium-Chile.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]112994"
+    Live: true
+    Country: "us"
+    Tag: "chile"
+}
+{
+    Artist: "Zapp"
+    Title: "CHITNT Sports Premium"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/yYcGLqsG/TNT-Sports-Premium-Chile.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]112995"
+    Live: true
+    Country: "us"
+    Tag: "chile"
+}
+{
+    Artist: "Zapp"
+    Title: "CHITNT Sports Premium"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/yYcGLqsG/TNT-Sports-Premium-Chile.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]112993"
+    Live: true
+    Country: "us"
+    Tag: "chile"
+}
+{
+    Artist: "Zapp"
+    Title: "CHITNT Sports Premium"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/yYcGLqsG/TNT-Sports-Premium-Chile.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]9923"
     Live: true
     Country: "us"
     Tag: "chile"
@@ -7656,88 +8063,33 @@
 }
 {
     Artist: "Zapp"
-    Title: "COLWinSports "
+    Title: "COLCable Noticias"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8510"
+    Logo: "https://1.bp.blogspot.com/-6qBWy0B-kzM/X3IdKD9-cLI/AAAAAAAABho/-WepO7Ffbrko7C08koMU5s-jbvyazbVyACLcBGAsYHQ/w200-h200/Cable%2BNoticias%2Bcolombia.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84908"
     Live: true
     Country: "us"
     Tag: "colombia"
 }
 {
     Artist: "Zapp"
-    Title: "COLWinSports "
+    Title: "COLCanal Uno"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8511"
+    Logo: "https://1.bp.blogspot.com/-Lkjw87pS4Us/X3Ia7IrKrFI/AAAAAAAABhQ/Yi5wpZOdOR4Q4jXrbsrH6mOw8CwztMwpQCLcBGAsYHQ/w200-h200/Canal%2B1.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84899"
     Live: true
     Country: "us"
     Tag: "colombia"
 }
 {
     Artist: "Zapp"
-    Title: "COLWinsport "
+    Title: "COLCanal Uno"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84897"
-    Live: true
-    Country: "us"
-    Tag: "colombia"
-}
-{
-    Artist: "Zapp"
-    Title: "COLWinSports"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8505"
-    Live: true
-    Country: "us"
-    Tag: "colombia"
-}
-{
-    Artist: "Zapp"
-    Title: "COLWinSports"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8506"
-    Live: true
-    Country: "us"
-    Tag: "colombia"
-}
-{
-    Artist: "Zapp"
-    Title: "COLWinSports"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8507"
-    Live: true
-    Country: "us"
-    Tag: "colombia"
-}
-{
-    Artist: "Zapp"
-    Title: "COLWinSports"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8508"
-    Live: true
-    Country: "us"
-    Tag: "colombia"
-}
-{
-    Artist: "Zapp"
-    Title: "COLWinsports "
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84896"
+    Logo: "https://1.bp.blogspot.com/-Lkjw87pS4Us/X3Ia7IrKrFI/AAAAAAAABhQ/Yi5wpZOdOR4Q4jXrbsrH6mOw8CwztMwpQCLcBGAsYHQ/w200-h200/Canal%2B1.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8478"
     Live: true
     Country: "us"
     Tag: "colombia"
@@ -7770,7 +8122,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8484"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8483"
     Live: true
     Country: "us"
     Tag: "colombia"
@@ -7781,18 +8133,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8483"
-    Live: true
-    Country: "us"
-    Tag: "colombia"
-}
-{
-    Artist: "Zapp"
-    Title: "COLCaracol 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]130358"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8484"
     Live: true
     Country: "us"
     Tag: "colombia"
@@ -7810,11 +8151,77 @@
 }
 {
     Artist: "Zapp"
+    Title: "COLCaracol 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]130358"
+    Live: true
+    Country: "us"
+    Tag: "colombia"
+}
+{
+    Artist: "Zapp"
     Title: "COLCaracol Internacional"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1.bp.blogspot.com/-ZPyxVnk8WeA/XbDQumlWx4I/AAAAAAAAAoQ/8lE0ENHHPykGNXyTS0aOpSAwEi9GZFckACLcBGAsYHQ/s200/10.png"
     Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8485"
+    Live: true
+    Country: "us"
+    Tag: "colombia"
+}
+{
+    Artist: "Zapp"
+    Title: "COLCity Tv"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-Ku1Pv3IrW7o/X3IubH8boTI/AAAAAAAABkE/BvFiBQ437MIEhnL5M4Z7l61HtGX9e7QdwCLcBGAsYHQ/w200-h200/City%2Btv.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84904"
+    Live: true
+    Country: "us"
+    Tag: "colombia"
+}
+{
+    Artist: "Zapp"
+    Title: "COLClaro Sports"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8488"
+    Live: true
+    Country: "us"
+    Tag: "colombia"
+}
+{
+    Artist: "Zapp"
+    Title: "COLDirectv Sports"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8489"
+    Live: true
+    Country: "us"
+    Tag: "colombia"
+}
+{
+    Artist: "Zapp"
+    Title: "COLNTN24"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/CMf8xMW6/COL-NTN24.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84905"
+    Live: true
+    Country: "us"
+    Tag: "colombia"
+}
+{
+    Artist: "Zapp"
+    Title: "COLPasiones"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/50njP0kb/COL-Pasiones.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84909"
     Live: true
     Country: "us"
     Tag: "colombia"
@@ -7898,94 +8305,6 @@
 }
 {
     Artist: "Zapp"
-    Title: "COLCable Noticias"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-6qBWy0B-kzM/X3IdKD9-cLI/AAAAAAAABho/-WepO7Ffbrko7C08koMU5s-jbvyazbVyACLcBGAsYHQ/w200-h200/Cable%2BNoticias%2Bcolombia.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84908"
-    Live: true
-    Country: "us"
-    Tag: "colombia"
-}
-{
-    Artist: "Zapp"
-    Title: "COLCanal Uno"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-Lkjw87pS4Us/X3Ia7IrKrFI/AAAAAAAABhQ/Yi5wpZOdOR4Q4jXrbsrH6mOw8CwztMwpQCLcBGAsYHQ/w200-h200/Canal%2B1.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84899"
-    Live: true
-    Country: "us"
-    Tag: "colombia"
-}
-{
-    Artist: "Zapp"
-    Title: "COLCanal Uno"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-Lkjw87pS4Us/X3Ia7IrKrFI/AAAAAAAABhQ/Yi5wpZOdOR4Q4jXrbsrH6mOw8CwztMwpQCLcBGAsYHQ/w200-h200/Canal%2B1.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8478"
-    Live: true
-    Country: "us"
-    Tag: "colombia"
-}
-{
-    Artist: "Zapp"
-    Title: "COLCity Tv"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-Ku1Pv3IrW7o/X3IubH8boTI/AAAAAAAABkE/BvFiBQ437MIEhnL5M4Z7l61HtGX9e7QdwCLcBGAsYHQ/w200-h200/City%2Btv.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84904"
-    Live: true
-    Country: "us"
-    Tag: "colombia"
-}
-{
-    Artist: "Zapp"
-    Title: "COLClaro Sports"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8488"
-    Live: true
-    Country: "us"
-    Tag: "colombia"
-}
-{
-    Artist: "Zapp"
-    Title: "COLDirectv Sports"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8489"
-    Live: true
-    Country: "us"
-    Tag: "colombia"
-}
-{
-    Artist: "Zapp"
-    Title: "COLNTN24"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/CMf8xMW6/COL-NTN24.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84905"
-    Live: true
-    Country: "us"
-    Tag: "colombia"
-}
-{
-    Artist: "Zapp"
-    Title: "COLPasiones"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/50njP0kb/COL-Pasiones.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84909"
-    Live: true
-    Country: "us"
-    Tag: "colombia"
-}
-{
-    Artist: "Zapp"
     Title: "COLSenal Colombia"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -8046,6 +8365,94 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1.bp.blogspot.com/-QFD7HnsLCKs/X3Irz_DnKfI/AAAAAAAABjY/bqXo7qn-MmkSIx4pMnWUZr_pJ5bUV7aPgCLcBGAsYHQ/w200-h200/Tv%2Bagro.png"
     Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84913"
+    Live: true
+    Country: "us"
+    Tag: "colombia"
+}
+{
+    Artist: "Zapp"
+    Title: "COLWinsport "
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84897"
+    Live: true
+    Country: "us"
+    Tag: "colombia"
+}
+{
+    Artist: "Zapp"
+    Title: "COLWinSports"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8505"
+    Live: true
+    Country: "us"
+    Tag: "colombia"
+}
+{
+    Artist: "Zapp"
+    Title: "COLWinSports"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8506"
+    Live: true
+    Country: "us"
+    Tag: "colombia"
+}
+{
+    Artist: "Zapp"
+    Title: "COLWinSports"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8507"
+    Live: true
+    Country: "us"
+    Tag: "colombia"
+}
+{
+    Artist: "Zapp"
+    Title: "COLWinSports"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8508"
+    Live: true
+    Country: "us"
+    Tag: "colombia"
+}
+{
+    Artist: "Zapp"
+    Title: "COLWinSports "
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8510"
+    Live: true
+    Country: "us"
+    Tag: "colombia"
+}
+{
+    Artist: "Zapp"
+    Title: "COLWinSports "
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8511"
+    Live: true
+    Country: "us"
+    Tag: "colombia"
+}
+{
+    Artist: "Zapp"
+    Title: "COLWinsports "
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]84896"
     Live: true
     Country: "us"
     Tag: "colombia"
@@ -8327,33 +8734,176 @@
 }
 {
     Artist: "Zapp"
-    Title: "ECUTeleamazonas Quito"
+    Title: "ECUEcuavisa Costa"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8648"
+    Logo: "https://i.postimg.cc/8PWw3KFn/ECU-Ecuavisa.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8626"
     Live: true
     Country: "us"
     Tag: "ecuador"
 }
 {
     Artist: "Zapp"
-    Title: "ECUTeleamazonas Quito  Opc 2"
+    Title: "ECUEcuavisa Costa"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8649"
+    Logo: "https://i.postimg.cc/8PWw3KFn/ECU-Ecuavisa.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8627"
     Live: true
     Country: "us"
     Tag: "ecuador"
 }
 {
     Artist: "Zapp"
-    Title: "ECUTeleamazonas Quito"
+    Title: "ECUEcuavisa Costa"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/8PWw3KFn/ECU-Ecuavisa.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8628"
+    Live: true
+    Country: "us"
+    Tag: "ecuador"
+}
+{
+    Artist: "Zapp"
+    Title: "ECUEcuavisa Quito"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8629"
+    Live: true
+    Country: "us"
+    Tag: "ecuador"
+}
+{
+    Artist: "Zapp"
+    Title: "ECUEcuavisa Quito"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8630"
+    Live: true
+    Country: "us"
+    Tag: "ecuador"
+}
+{
+    Artist: "Zapp"
+    Title: "ECUOromar"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-zZisdj4cxaA/XjhIBJtxXHI/AAAAAAAABDw/HXpmjpAlU-YeWqNI3BywBg_whbI3N6PEACLcBGAsYHQ/s200/10.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8634"
+    Live: true
+    Country: "us"
+    Tag: "ecuador"
+}
+{
+    Artist: "Zapp"
+    Title: "ECURTS Costa"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8635"
+    Live: true
+    Country: "us"
+    Tag: "ecuador"
+}
+{
+    Artist: "Zapp"
+    Title: "ECURTS Costa"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8637"
+    Live: true
+    Country: "us"
+    Tag: "ecuador"
+}
+{
+    Artist: "Zapp"
+    Title: "ECURTS Costa"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8636"
+    Live: true
+    Country: "us"
+    Tag: "ecuador"
+}
+{
+    Artist: "Zapp"
+    Title: "ECURTS Costa"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]132029"
+    Live: true
+    Country: "us"
+    Tag: "ecuador"
+}
+{
+    Artist: "Zapp"
+    Title: "ECUTC Television Costa"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/PrL0qQCm/ECU-TC-COSTA.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8640"
+    Live: true
+    Country: "us"
+    Tag: "ecuador"
+}
+{
+    Artist: "Zapp"
+    Title: "ECUTC Television Costa"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/PrL0qQCm/ECU-TC-COSTA.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8641"
+    Live: true
+    Country: "us"
+    Tag: "ecuador"
+}
+{
+    Artist: "Zapp"
+    Title: "ECUTC Television Quito"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-wcP6VMNt7Bw/XjhDeq1NnRI/AAAAAAAABCk/ZzNl6uX20GAFmO0F4x6aP92rvwPY3ge2gCLcBGAsYHQ/s200/5.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8642"
+    Live: true
+    Country: "us"
+    Tag: "ecuador"
+}
+{
+    Artist: "Zapp"
+    Title: "ECUTC Television Quito"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-wcP6VMNt7Bw/XjhDeq1NnRI/AAAAAAAABCk/ZzNl6uX20GAFmO0F4x6aP92rvwPY3ge2gCLcBGAsYHQ/s200/5.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8643"
+    Live: true
+    Country: "us"
+    Tag: "ecuador"
+}
+{
+    Artist: "Zapp"
+    Title: "ECUTC Television Sierra"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-wcP6VMNt7Bw/XjhDeq1NnRI/AAAAAAAABCk/ZzNl6uX20GAFmO0F4x6aP92rvwPY3ge2gCLcBGAsYHQ/s200/5.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8639"
+    Live: true
+    Country: "us"
+    Tag: "ecuador"
+}
+{
+    Artist: "Zapp"
+    Title: "ECUTeleamazona Costa"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8650"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8644"
     Live: true
     Country: "us"
     Tag: "ecuador"
@@ -8393,132 +8943,33 @@
 }
 {
     Artist: "Zapp"
-    Title: "ECUTeleamazona Costa"
+    Title: "ECUTeleamazonas Quito"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8644"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8648"
     Live: true
     Country: "us"
     Tag: "ecuador"
 }
 {
     Artist: "Zapp"
-    Title: "ECUEcuavisa Quito"
+    Title: "ECUTeleamazonas Quito  Opc 2"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8629"
+    Logo: "https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8649"
     Live: true
     Country: "us"
     Tag: "ecuador"
 }
 {
     Artist: "Zapp"
-    Title: "ECUEcuavisa Quito"
+    Title: "ECUTeleamazonas Quito"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8630"
-    Live: true
-    Country: "us"
-    Tag: "ecuador"
-}
-{
-    Artist: "Zapp"
-    Title: "ECUEcuavisa Costa"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/8PWw3KFn/ECU-Ecuavisa.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8626"
-    Live: true
-    Country: "us"
-    Tag: "ecuador"
-}
-{
-    Artist: "Zapp"
-    Title: "ECUEcuavisa Costa"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/8PWw3KFn/ECU-Ecuavisa.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8627"
-    Live: true
-    Country: "us"
-    Tag: "ecuador"
-}
-{
-    Artist: "Zapp"
-    Title: "ECUEcuavisa Costa"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/8PWw3KFn/ECU-Ecuavisa.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8628"
-    Live: true
-    Country: "us"
-    Tag: "ecuador"
-}
-{
-    Artist: "Zapp"
-    Title: "ECUTC Television Quito"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-wcP6VMNt7Bw/XjhDeq1NnRI/AAAAAAAABCk/ZzNl6uX20GAFmO0F4x6aP92rvwPY3ge2gCLcBGAsYHQ/s200/5.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8642"
-    Live: true
-    Country: "us"
-    Tag: "ecuador"
-}
-{
-    Artist: "Zapp"
-    Title: "ECUTC Television Quito"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-wcP6VMNt7Bw/XjhDeq1NnRI/AAAAAAAABCk/ZzNl6uX20GAFmO0F4x6aP92rvwPY3ge2gCLcBGAsYHQ/s200/5.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8643"
-    Live: true
-    Country: "us"
-    Tag: "ecuador"
-}
-{
-    Artist: "Zapp"
-    Title: "ECUTC Television Costa"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/PrL0qQCm/ECU-TC-COSTA.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8640"
-    Live: true
-    Country: "us"
-    Tag: "ecuador"
-}
-{
-    Artist: "Zapp"
-    Title: "ECUTC Television Costa"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/PrL0qQCm/ECU-TC-COSTA.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8641"
-    Live: true
-    Country: "us"
-    Tag: "ecuador"
-}
-{
-    Artist: "Zapp"
-    Title: "ECUTC Television Sierra"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-wcP6VMNt7Bw/XjhDeq1NnRI/AAAAAAAABCk/ZzNl6uX20GAFmO0F4x6aP92rvwPY3ge2gCLcBGAsYHQ/s200/5.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8639"
-    Live: true
-    Country: "us"
-    Tag: "ecuador"
-}
-{
-    Artist: "Zapp"
-    Title: "ECURTS Costa"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8636"
+    Logo: "https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8650"
     Live: true
     Country: "us"
     Tag: "ecuador"
@@ -8547,39 +8998,6 @@
 }
 {
     Artist: "Zapp"
-    Title: "ECURTS Costa"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8637"
-    Live: true
-    Country: "us"
-    Tag: "ecuador"
-}
-{
-    Artist: "Zapp"
-    Title: "ECURTS Costa"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8635"
-    Live: true
-    Country: "us"
-    Tag: "ecuador"
-}
-{
-    Artist: "Zapp"
-    Title: "ECUOromar"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-zZisdj4cxaA/XjhIBJtxXHI/AAAAAAAABDw/HXpmjpAlU-YeWqNI3BywBg_whbI3N6PEACLcBGAsYHQ/s200/10.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8634"
-    Live: true
-    Country: "us"
-    Tag: "ecuador"
-}
-{
-    Artist: "Zapp"
     Title: "ECUTVC UIO"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -8591,14 +9009,25 @@
 }
 {
     Artist: "Zapp"
-    Title: "ECURTS Costa"
+    Title: "Ecuador TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]132029"
+    Logo: "https://i.imgur.com/vDDEKx6.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135816"
     Live: true
     Country: "us"
-    Tag: "ecuador"
+    Tag: "ecuador-local"
+}
+{
+    Artist: "Zapp"
+    Title: "EducaTV  Not 247"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/lY9Bx2u.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135817"
+    Live: true
+    Country: "us"
+    Tag: "ecuador-local"
 }
 {
     Artist: "Zapp"
@@ -8771,7 +9200,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10269"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10261"
     Live: true
     Country: "us"
     Tag: "honduras"
@@ -8782,7 +9211,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10261"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]10269"
     Live: true
     Country: "us"
     Tag: "honduras"
@@ -8833,6 +9262,17 @@
 }
 {
     Artist: "Zapp"
+    Title: "HONTVC Deportes"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]153365"
+    Live: true
+    Country: "us"
+    Tag: "honduras"
+}
+{
+    Artist: "Zapp"
     Title: "HONVTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -8855,6 +9295,17 @@
 }
 {
     Artist: "Zapp"
+    Title: "Infinita TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/1nHxdkR.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135818"
+    Live: true
+    Country: "us"
+    Tag: "ecuador-local"
+}
+{
+    Artist: "Zapp"
     Title: "La Chilena TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -8863,6 +9314,28 @@
     Live: true
     Country: "us"
     Tag: "chile [geo bloqueo]"
+}
+{
+    Artist: "Zapp"
+    Title: "Majestad Television"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/d1GWRnm.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135819"
+    Live: true
+    Country: "us"
+    Tag: "ecuador-local"
+}
+{
+    Artist: "Zapp"
+    Title: "Metropoli Medios TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/yID5T2S.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135820"
+    Live: true
+    Country: "us"
+    Tag: "ecuador-local"
 }
 {
     Artist: "Zapp"
@@ -9089,6 +9562,17 @@
     Title: "MEXCanal 5"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/uZdVSoW.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]114854"
+    Live: true
+    Country: "us"
+    Tag: "mexico-local"
+}
+{
+    Artist: "Zapp"
+    Title: "MEXCanal 5"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
     Logo: "https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png"
     Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]87598"
     Live: true
@@ -9105,6 +9589,39 @@
     Live: true
     Country: "us"
     Tag: "mexico"
+}
+{
+    Artist: "Zapp"
+    Title: "MEXCanal 6 CDMX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/4IGzNdq.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]114788"
+    Live: true
+    Country: "us"
+    Tag: "mexico-local"
+}
+{
+    Artist: "Zapp"
+    Title: "MEXConecta TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/qEk0QGa.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]114789"
+    Live: true
+    Country: "us"
+    Tag: "mexico-local"
+}
+{
+    Artist: "Zapp"
+    Title: "MEXEstrella News"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/HRrkhLq.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]114790"
+    Live: true
+    Country: "us"
+    Tag: "mexico-local"
 }
 {
     Artist: "Zapp"
@@ -9127,6 +9644,17 @@
     Live: true
     Country: "us"
     Tag: "mexico"
+}
+{
+    Artist: "Zapp"
+    Title: "MEXITV Deportes"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://iili.io/J1kV1Bn.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]114793"
+    Live: true
+    Country: "us"
+    Tag: "mexico-local"
 }
 {
     Artist: "Zapp"
@@ -9174,6 +9702,17 @@
 }
 {
     Artist: "Zapp"
+    Title: "MEXMilenio Television"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/TG1T5Oh.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]114798"
+    Live: true
+    Country: "us"
+    Tag: "mexico-local"
+}
+{
+    Artist: "Zapp"
     Title: "MEXOnce TV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -9182,6 +9721,28 @@
     Live: true
     Country: "us"
     Tag: "mexico"
+}
+{
+    Artist: "Zapp"
+    Title: "MEXRCG TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]114814"
+    Live: true
+    Country: "us"
+    Tag: "mexico-local"
+}
+{
+    Artist: "Zapp"
+    Title: "MEXRTQ Queretaro"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/RRckCvf.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]114815"
+    Live: true
+    Country: "us"
+    Tag: "mexico-local"
 }
 {
     Artist: "Zapp"
@@ -9438,6 +9999,358 @@
 }
 {
     Artist: "Zapp"
+    Title: "Oromar TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/j5Vvxd5.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135821"
+    Live: true
+    Country: "us"
+    Tag: "ecuador-local"
+}
+{
+    Artist: "Zapp"
+    Title: "PANCable Onda Sports"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/gJyYKgsY/Proyecto-X-Panama-7.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154351"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANCable Onda Sports FC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/nh6pbywn/Proyecto-X-Panama-8.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154376"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANCable Onda Sports FC 1270"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/nh6pbywn/Proyecto-X-Panama-8.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154352"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANCableOnda Sports FC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/nh6pbywn/Proyecto-X-Panama-8.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154365"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANClaro Sports PAN 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/SKCqygwy/Proyecto-X-Panama-10.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154354"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANEco TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/QMTNF8WH/Proyecto-X-Panama-4.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154346"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANMAS TV 23"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/FRXrcMjY/Proyecto-X-Panama-6.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154368"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANNex Canal 21"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/N0HGKsrc/Proyecto-X-Panama-5.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154360"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANNex Tv"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/N0HGKsrc/Proyecto-X-Panama-5.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154347"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANNext TV 21"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/N0HGKsrc/Proyecto-X-Panama-5.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154367"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANRPC 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/NjPLyCCt/Proyecto-X-Panama-3.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154343"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANRPC 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/NjPLyCCt/Proyecto-X-Panama-3.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154369"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANRPC 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/NjPLyCCt/Proyecto-X-Panama-3.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154361"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANSER TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/FHzYGXwV/panama-1.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154373"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANSERTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/FHzYGXwV/panama-1.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154344"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANTelemetro"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/x1FqkpxL/Proyecto-X-Panama-2.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154362"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANTelemetro 13"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/x1FqkpxL/Proyecto-X-Panama-2.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154342"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANTelemetro 13"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/x1FqkpxL/Proyecto-X-Panama-2.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154371"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANTigo Sports"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/SN1mV26f/Proyecto-X-Panama-9.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154377"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANTigo Sports"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/SN1mV26f/Proyecto-X-Panama-9.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154366"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANTigo Sports PAN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/SN1mV26f/Proyecto-X-Panama-9.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154353"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANTV Max"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/cLJrLGmK/Proyecto-X-Panama-1.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154363"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANTV Max 9"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/cLJrLGmK/Proyecto-X-Panama-1.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154341"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANTV MAX 9"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/cLJrLGmK/Proyecto-X-Panama-1.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154372"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANTV23"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/FRXrcMjY/Proyecto-X-Panama-6.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154348"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANTVN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/NfDKtj15/Proyecto-X-Panama.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154370"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANTVN 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/NfDKtj15/Proyecto-X-Panama.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154340"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANTVN 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/NfDKtj15/Proyecto-X-Panama.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154350"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANTVN 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/NfDKtj15/Proyecto-X-Panama.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154375"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANTVN 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/NfDKtj15/Proyecto-X-Panama.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154357"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
+    Title: "PANTVN 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/NfDKtj15/Proyecto-X-Panama.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154359"
+    Live: true
+    Country: "us"
+    Tag: "panama"
+}
+{
+    Artist: "Zapp"
     Title: "PARC9N"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -9545,105 +10458,6 @@
     Live: true
     Country: "us"
     Tag: "paraguay"
-}
-{
-    Artist: "Zapp"
-    Title: "PERGOL Peru"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/RC1WyJg9/Proyectox.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8446"
-    Live: true
-    Country: "us"
-    Tag: "peru"
-}
-{
-    Artist: "Zapp"
-    Title: "PERGol Peru"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/RC1WyJg9/Proyectox.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8447"
-    Live: true
-    Country: "us"
-    Tag: "peru"
-}
-{
-    Artist: "Zapp"
-    Title: "PERGol Peru"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/RC1WyJg9/Proyectox.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8448"
-    Live: true
-    Country: "us"
-    Tag: "peru"
-}
-{
-    Artist: "Zapp"
-    Title: "PERLiga 1"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/yxwspHkL/Proyectox-Liga1peru.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8455"
-    Live: true
-    Country: "us"
-    Tag: "peru"
-}
-{
-    Artist: "Zapp"
-    Title: "PERLiga 1"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/yxwspHkL/Proyectox-Liga1peru.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8456"
-    Live: true
-    Country: "us"
-    Tag: "peru"
-}
-{
-    Artist: "Zapp"
-    Title: "PERLiga 1 MAX"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8457"
-    Live: true
-    Country: "us"
-    Tag: "peru"
-}
-{
-    Artist: "Zapp"
-    Title: "PERLiga 1 MAX"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8458"
-    Live: true
-    Country: "us"
-    Tag: "peru"
-}
-{
-    Artist: "Zapp"
-    Title: "PERLiga 1 MAX"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8459"
-    Live: true
-    Country: "us"
-    Tag: "peru"
-}
-{
-    Artist: "Zapp"
-    Title: "PERLiga 1 MAX"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8460"
-    Live: true
-    Country: "us"
-    Tag: "peru"
 }
 {
     Artist: "Zapp"
@@ -9779,6 +10593,39 @@
 }
 {
     Artist: "Zapp"
+    Title: "PERGOL Peru"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/RC1WyJg9/Proyectox.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8446"
+    Live: true
+    Country: "us"
+    Tag: "peru"
+}
+{
+    Artist: "Zapp"
+    Title: "PERGol Peru"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/RC1WyJg9/Proyectox.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8447"
+    Live: true
+    Country: "us"
+    Tag: "peru"
+}
+{
+    Artist: "Zapp"
+    Title: "PERGol Peru"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/RC1WyJg9/Proyectox.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8448"
+    Live: true
+    Country: "us"
+    Tag: "peru"
+}
+{
+    Artist: "Zapp"
     Title: "PERLatina"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -9794,7 +10641,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/fTHtw31d/Proyectox-1.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8451"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8452"
     Live: true
     Country: "us"
     Tag: "peru"
@@ -9805,7 +10652,7 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/fTHtw31d/Proyectox-1.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8452"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8451"
     Live: true
     Country: "us"
     Tag: "peru"
@@ -9828,6 +10675,72 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://i.postimg.cc/fTHtw31d/Proyectox-1.png"
     Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8454"
+    Live: true
+    Country: "us"
+    Tag: "peru"
+}
+{
+    Artist: "Zapp"
+    Title: "PERLiga 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/yxwspHkL/Proyectox-Liga1peru.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8455"
+    Live: true
+    Country: "us"
+    Tag: "peru"
+}
+{
+    Artist: "Zapp"
+    Title: "PERLiga 1"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/yxwspHkL/Proyectox-Liga1peru.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8456"
+    Live: true
+    Country: "us"
+    Tag: "peru"
+}
+{
+    Artist: "Zapp"
+    Title: "PERLiga 1 MAX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8457"
+    Live: true
+    Country: "us"
+    Tag: "peru"
+}
+{
+    Artist: "Zapp"
+    Title: "PERLiga 1 MAX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8458"
+    Live: true
+    Country: "us"
+    Tag: "peru"
+}
+{
+    Artist: "Zapp"
+    Title: "PERLiga 1 MAX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8459"
+    Live: true
+    Country: "us"
+    Tag: "peru"
+}
+{
+    Artist: "Zapp"
+    Title: "PERLiga 1 MAX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8460"
     Live: true
     Country: "us"
     Tag: "peru"
@@ -10153,6 +11066,50 @@
 }
 {
     Artist: "Zapp"
+    Title: "Radio Alegria 98 5 FM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/N00aS3x.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135822"
+    Live: true
+    Country: "us"
+    Tag: "ecuador-local"
+}
+{
+    Artist: "Zapp"
+    Title: "Radio Bonita 106 7"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/IvZtqyz.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135823"
+    Live: true
+    Country: "us"
+    Tag: "ecuador-local"
+}
+{
+    Artist: "Zapp"
+    Title: "Radio Cuenca Estereo"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/qZzSOeU.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135824"
+    Live: true
+    Country: "us"
+    Tag: "ecuador-local"
+}
+{
+    Artist: "Zapp"
+    Title: "Radio Fantastica 98 9 FM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/mpcIbrH.jpg"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135825"
+    Live: true
+    Country: "us"
+    Tag: "ecuador-local"
+}
+{
+    Artist: "Zapp"
     Title: "RPD5 Telemicro HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -10395,6 +11352,248 @@
 }
 {
     Artist: "Zapp"
+    Title: "Sono Onda TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/HWHeqWY.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135826"
+    Live: true
+    Country: "us"
+    Tag: "ecuador-local"
+}
+{
+    Artist: "Zapp"
+    Title: "Teletrak"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/NoJvlig.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]145832"
+    Live: true
+    Country: "us"
+    Tag: "chile"
+}
+{
+    Artist: "Zapp"
+    Title: "TIGO SPORTS HONDURAS PRUBAZ"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156990"
+    Live: true
+    Country: "us"
+    Tag: "honduras"
+}
+{
+    Artist: "Zapp"
+    Title: "UNIANDES TV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.imgur.com/1rluyB7.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135827"
+    Live: true
+    Country: "us"
+    Tag: "ecuador-local"
+}
+{
+    Artist: "Zapp"
+    Title: "URUAV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-qirB8B7_Zq4/X2phN9rq3aI/AAAAAAAABao/6htN_zWiScAp7eez4fVWxs9iJQX6SJ2qwCLcBGAsYHQ/w200-h200/01A%252Bv.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8514"
+    Live: true
+    Country: "us"
+    Tag: "uruguay"
+}
+{
+    Artist: "Zapp"
+    Title: "URUCanal 10"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8515"
+    Live: true
+    Country: "us"
+    Tag: "uruguay"
+}
+{
+    Artist: "Zapp"
+    Title: "URUCanal 10"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8516"
+    Live: true
+    Country: "us"
+    Tag: "uruguay"
+}
+{
+    Artist: "Zapp"
+    Title: "URUCanal 10"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8518"
+    Live: true
+    Country: "us"
+    Tag: "uruguay"
+}
+{
+    Artist: "Zapp"
+    Title: "URUCanal 10"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8519"
+    Live: true
+    Country: "us"
+    Tag: "uruguay"
+}
+{
+    Artist: "Zapp"
+    Title: "URUCanal 12"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8520"
+    Live: true
+    Country: "us"
+    Tag: "uruguay"
+}
+{
+    Artist: "Zapp"
+    Title: "URUCanal 12 La Tele"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8521"
+    Live: true
+    Country: "us"
+    Tag: "uruguay"
+}
+{
+    Artist: "Zapp"
+    Title: "URUCanal 12 La Tele"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8522"
+    Live: true
+    Country: "us"
+    Tag: "uruguay"
+}
+{
+    Artist: "Zapp"
+    Title: "URUCanal 12 La Tele"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8524"
+    Live: true
+    Country: "us"
+    Tag: "uruguay"
+}
+{
+    Artist: "Zapp"
+    Title: "URUCanal 12 La Tele"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8523"
+    Live: true
+    Country: "us"
+    Tag: "uruguay"
+}
+{
+    Artist: "Zapp"
+    Title: "URUCanal 4"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8525"
+    Live: true
+    Country: "us"
+    Tag: "uruguay"
+}
+{
+    Artist: "Zapp"
+    Title: "URUCanal 4  Montecarlo"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8526"
+    Live: true
+    Country: "us"
+    Tag: "uruguay"
+}
+{
+    Artist: "Zapp"
+    Title: "URUCanal 4 Monte Carlo"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/a/af/Canalcuatrovivoparavos.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8527"
+    Live: true
+    Country: "us"
+    Tag: "uruguay"
+}
+{
+    Artist: "Zapp"
+    Title: "URUCanal 4 Montecarlo"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8528"
+    Live: true
+    Country: "us"
+    Tag: "uruguay"
+}
+{
+    Artist: "Zapp"
+    Title: "URUCanal 4 Montecarlo"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8529"
+    Live: true
+    Country: "us"
+    Tag: "uruguay"
+}
+{
+    Artist: "Zapp"
+    Title: "URUDirectv Sports 1 UY"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8530"
+    Live: true
+    Country: "us"
+    Tag: "uruguay"
+}
+{
+    Artist: "Zapp"
+    Title: "URUTNU"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-NKmQf3VC8hQ/X2phUrR98kI/AAAAAAAABcA/rUxcUZUAw6MmBKTlMjhRY-_HgYdMqm5CQCLcBGAsYHQ/w200-h200/24Tnu.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8532"
+    Live: true
+    Country: "us"
+    Tag: "uruguay"
+}
+{
+    Artist: "Zapp"
+    Title: "URUTV Ciudad"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://1.bp.blogspot.com/-qohNCdLBKdM/X2phVOtEdBI/AAAAAAAABcE/tBZm9UpeJxszBxcf7YTix5HlohHhypuqQCLcBGAsYHQ/w200-h200/25Tv%2Bciudad.png"
+    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8533"
+    Live: true
+    Country: "us"
+    Tag: "uruguay"
+}
+{
+    Artist: "Zapp"
     Title: "URUVTV"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -10494,204 +11693,6 @@
 }
 {
     Artist: "Zapp"
-    Title: "URUDirectv Sports 1 UY"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8530"
-    Live: true
-    Country: "us"
-    Tag: "uruguay"
-}
-{
-    Artist: "Zapp"
-    Title: "URUCanal 4"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8525"
-    Live: true
-    Country: "us"
-    Tag: "uruguay"
-}
-{
-    Artist: "Zapp"
-    Title: "URUCanal 4  Montecarlo"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8526"
-    Live: true
-    Country: "us"
-    Tag: "uruguay"
-}
-{
-    Artist: "Zapp"
-    Title: "URUCanal 4 Monte Carlo"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://upload.wikimedia.org/wikipedia/commons/a/af/Canalcuatrovivoparavos.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8527"
-    Live: true
-    Country: "us"
-    Tag: "uruguay"
-}
-{
-    Artist: "Zapp"
-    Title: "URUCanal 4 Montecarlo"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8528"
-    Live: true
-    Country: "us"
-    Tag: "uruguay"
-}
-{
-    Artist: "Zapp"
-    Title: "URUCanal 4 Montecarlo"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8529"
-    Live: true
-    Country: "us"
-    Tag: "uruguay"
-}
-{
-    Artist: "Zapp"
-    Title: "URUCanal 12"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8520"
-    Live: true
-    Country: "us"
-    Tag: "uruguay"
-}
-{
-    Artist: "Zapp"
-    Title: "URUCanal 12 La Tele"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8521"
-    Live: true
-    Country: "us"
-    Tag: "uruguay"
-}
-{
-    Artist: "Zapp"
-    Title: "URUCanal 12 La Tele"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8522"
-    Live: true
-    Country: "us"
-    Tag: "uruguay"
-}
-{
-    Artist: "Zapp"
-    Title: "URUCanal 12 La Tele"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8524"
-    Live: true
-    Country: "us"
-    Tag: "uruguay"
-}
-{
-    Artist: "Zapp"
-    Title: "URUCanal 12 La Tele"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8523"
-    Live: true
-    Country: "us"
-    Tag: "uruguay"
-}
-{
-    Artist: "Zapp"
-    Title: "URUCanal 10"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8515"
-    Live: true
-    Country: "us"
-    Tag: "uruguay"
-}
-{
-    Artist: "Zapp"
-    Title: "URUCanal 10"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8516"
-    Live: true
-    Country: "us"
-    Tag: "uruguay"
-}
-{
-    Artist: "Zapp"
-    Title: "URUCanal 10"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8518"
-    Live: true
-    Country: "us"
-    Tag: "uruguay"
-}
-{
-    Artist: "Zapp"
-    Title: "URUCanal 10"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8519"
-    Live: true
-    Country: "us"
-    Tag: "uruguay"
-}
-{
-    Artist: "Zapp"
-    Title: "URUAV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-qirB8B7_Zq4/X2phN9rq3aI/AAAAAAAABao/6htN_zWiScAp7eez4fVWxs9iJQX6SJ2qwCLcBGAsYHQ/w200-h200/01A%252Bv.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8514"
-    Live: true
-    Country: "us"
-    Tag: "uruguay"
-}
-{
-    Artist: "Zapp"
-    Title: "URUTNU"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-NKmQf3VC8hQ/X2phUrR98kI/AAAAAAAABcA/rUxcUZUAw6MmBKTlMjhRY-_HgYdMqm5CQCLcBGAsYHQ/w200-h200/24Tnu.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8532"
-    Live: true
-    Country: "us"
-    Tag: "uruguay"
-}
-{
-    Artist: "Zapp"
-    Title: "URUTV Ciudad"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://1.bp.blogspot.com/-qohNCdLBKdM/X2phVOtEdBI/AAAAAAAABcE/tBZm9UpeJxszBxcf7YTix5HlohHhypuqQCLcBGAsYHQ/w200-h200/25Tv%2Bciudad.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]8533"
-    Live: true
-    Country: "us"
-    Tag: "uruguay"
-}
-{
-    Artist: "Zapp"
     Title: "VENGlobovision"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -10755,644 +11756,6 @@
     Live: true
     Country: "us"
     Tag: "venezuela"
-}
-{
-    Artist: "Zapp"
-    Title: "MEXCanal 6 CDMX"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/4IGzNdq.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]114788"
-    Live: true
-    Country: "us"
-    Tag: "mexico-local"
-}
-{
-    Artist: "Zapp"
-    Title: "MEXConecta TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/qEk0QGa.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]114789"
-    Live: true
-    Country: "us"
-    Tag: "mexico-local"
-}
-{
-    Artist: "Zapp"
-    Title: "MEXEstrella News"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/HRrkhLq.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]114790"
-    Live: true
-    Country: "us"
-    Tag: "mexico-local"
-}
-{
-    Artist: "Zapp"
-    Title: "MEXITV Deportes"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://iili.io/J1kV1Bn.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]114793"
-    Live: true
-    Country: "us"
-    Tag: "mexico-local"
-}
-{
-    Artist: "Zapp"
-    Title: "MEXMilenio Television"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/TG1T5Oh.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]114798"
-    Live: true
-    Country: "us"
-    Tag: "mexico-local"
-}
-{
-    Artist: "Zapp"
-    Title: "MEXRCG TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]114814"
-    Live: true
-    Country: "us"
-    Tag: "mexico-local"
-}
-{
-    Artist: "Zapp"
-    Title: "MEXRTQ Queretaro"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/RRckCvf.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]114815"
-    Live: true
-    Country: "us"
-    Tag: "mexico-local"
-}
-{
-    Artist: "Zapp"
-    Title: "MEXCanal 5"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/uZdVSoW.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]114854"
-    Live: true
-    Country: "us"
-    Tag: "mexico-local"
-}
-{
-    Artist: "Zapp"
-    Title: "America Estereo Guayaquil"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/gUqKymM.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135812"
-    Live: true
-    Country: "us"
-    Tag: "ecuador-local"
-}
-{
-    Artist: "Zapp"
-    Title: "America Estereo Tulcan"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/gUqKymM.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135813"
-    Live: true
-    Country: "us"
-    Tag: "ecuador-local"
-}
-{
-    Artist: "Zapp"
-    Title: "Asomavision"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/a5avk5R.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135814"
-    Live: true
-    Country: "us"
-    Tag: "ecuador-local"
-}
-{
-    Artist: "Zapp"
-    Title: "Austral TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/zgGuCYL.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135815"
-    Live: true
-    Country: "us"
-    Tag: "ecuador-local"
-}
-{
-    Artist: "Zapp"
-    Title: "Ecuador TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/vDDEKx6.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135816"
-    Live: true
-    Country: "us"
-    Tag: "ecuador-local"
-}
-{
-    Artist: "Zapp"
-    Title: "EducaTV  Not 247"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/lY9Bx2u.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135817"
-    Live: true
-    Country: "us"
-    Tag: "ecuador-local"
-}
-{
-    Artist: "Zapp"
-    Title: "Infinita TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/1nHxdkR.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135818"
-    Live: true
-    Country: "us"
-    Tag: "ecuador-local"
-}
-{
-    Artist: "Zapp"
-    Title: "Majestad Television"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/d1GWRnm.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135819"
-    Live: true
-    Country: "us"
-    Tag: "ecuador-local"
-}
-{
-    Artist: "Zapp"
-    Title: "Metropoli Medios TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/yID5T2S.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135820"
-    Live: true
-    Country: "us"
-    Tag: "ecuador-local"
-}
-{
-    Artist: "Zapp"
-    Title: "Oromar TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/j5Vvxd5.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135821"
-    Live: true
-    Country: "us"
-    Tag: "ecuador-local"
-}
-{
-    Artist: "Zapp"
-    Title: "Radio Alegria 98 5 FM"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/N00aS3x.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135822"
-    Live: true
-    Country: "us"
-    Tag: "ecuador-local"
-}
-{
-    Artist: "Zapp"
-    Title: "Radio Bonita 106 7"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/IvZtqyz.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135823"
-    Live: true
-    Country: "us"
-    Tag: "ecuador-local"
-}
-{
-    Artist: "Zapp"
-    Title: "Radio Cuenca Estereo"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/qZzSOeU.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135824"
-    Live: true
-    Country: "us"
-    Tag: "ecuador-local"
-}
-{
-    Artist: "Zapp"
-    Title: "Radio Fantastica 98 9 FM"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/mpcIbrH.jpg"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135825"
-    Live: true
-    Country: "us"
-    Tag: "ecuador-local"
-}
-{
-    Artist: "Zapp"
-    Title: "Sono Onda TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/HWHeqWY.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135826"
-    Live: true
-    Country: "us"
-    Tag: "ecuador-local"
-}
-{
-    Artist: "Zapp"
-    Title: "UNIANDES TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/1rluyB7.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]135827"
-    Live: true
-    Country: "us"
-    Tag: "ecuador-local"
-}
-{
-    Artist: "Zapp"
-    Title: "Teletrak"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/NoJvlig.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]145832"
-    Live: true
-    Country: "us"
-    Tag: "chile"
-}
-{
-    Artist: "Zapp"
-    Title: "HONTVC Deportes"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]153365"
-    Live: true
-    Country: "us"
-    Tag: "honduras"
-}
-{
-    Artist: "Zapp"
-    Title: "PANCable Onda Sports FC 1270"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/nh6pbywn/Proyecto-X-Panama-8.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154352"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANCableOnda Sports FC"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/nh6pbywn/Proyecto-X-Panama-8.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154365"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANCable Onda Sports FC"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/nh6pbywn/Proyecto-X-Panama-8.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154376"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANCable Onda Sports"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/gJyYKgsY/Proyecto-X-Panama-7.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154351"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANTigo Sports"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/SN1mV26f/Proyecto-X-Panama-9.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154366"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANTigo Sports PAN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/SN1mV26f/Proyecto-X-Panama-9.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154353"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANTigo Sports"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/SN1mV26f/Proyecto-X-Panama-9.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154377"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANClaro Sports PAN 3"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/SKCqygwy/Proyecto-X-Panama-10.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154354"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANTVN 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/NfDKtj15/Proyecto-X-Panama.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154340"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANTVN 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/NfDKtj15/Proyecto-X-Panama.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154357"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANTVN 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/NfDKtj15/Proyecto-X-Panama.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154359"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANTVN 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/NfDKtj15/Proyecto-X-Panama.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154350"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANTVN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/NfDKtj15/Proyecto-X-Panama.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154370"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANTVN 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/NfDKtj15/Proyecto-X-Panama.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154375"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANRPC 4"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/NjPLyCCt/Proyecto-X-Panama-3.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154343"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANRPC 4"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/NjPLyCCt/Proyecto-X-Panama-3.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154361"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANRPC 4"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/NjPLyCCt/Proyecto-X-Panama-3.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154369"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANTV Max 9"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/cLJrLGmK/Proyecto-X-Panama-1.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154341"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANTV Max"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/cLJrLGmK/Proyecto-X-Panama-1.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154363"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANTV MAX 9"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/cLJrLGmK/Proyecto-X-Panama-1.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154372"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANTV23"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/FRXrcMjY/Proyecto-X-Panama-6.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154348"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANTelemetro 13"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/x1FqkpxL/Proyecto-X-Panama-2.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154342"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANTelemetro"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/x1FqkpxL/Proyecto-X-Panama-2.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154362"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANTelemetro 13"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/x1FqkpxL/Proyecto-X-Panama-2.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154371"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANNex Tv"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/N0HGKsrc/Proyecto-X-Panama-5.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154347"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANNex Canal 21"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/N0HGKsrc/Proyecto-X-Panama-5.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154360"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANNext TV 21"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/N0HGKsrc/Proyecto-X-Panama-5.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154367"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANEco TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/QMTNF8WH/Proyecto-X-Panama-4.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154346"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANMAS TV 23"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/FRXrcMjY/Proyecto-X-Panama-6.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154368"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANSERTV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/FHzYGXwV/panama-1.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154344"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "PANSER TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.postimg.cc/FHzYGXwV/panama-1.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]154373"
-    Live: true
-    Country: "us"
-    Tag: "panama"
-}
-{
-    Artist: "Zapp"
-    Title: "TIGO SPORTS HONDURAS PRUBAZ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]tv[.]zapping[.]life:8080[/]mayleenfunez1[/]135535683598[/]156990"
-    Live: true
-    Country: "us"
-    Tag: "honduras"
 }
 {
     Artist: "Zapp"
