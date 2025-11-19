@@ -1,5 +1,23 @@
 {
     Artist: "Cord"
+    Title: "Skincare"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://image.tmdb.org/t/p/w1280/ikPzv7el0RcBhtXj3ElCoH54icd.jpg"
+    Stream: "http[:[/][/]]tv[.]proyectox[.]vip:8080[/]movie[/]Bejaminnew[/]KLU60hiC9b[/]134030.mkv"
+    Live: false
+}
+{
+    Artist: "Cord"
+    Title: "Skincare"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://image.tmdb.org/t/p/w1280/ikPzv7el0RcBhtXj3ElCoH54icd.jpg"
+    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]movie[/]19174796[/]19174796[/]217051[.]mp4"
+    Live: false
+}
+{
+    Artist: "Cord"
     Title: "Riff Raff"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"

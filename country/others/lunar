@@ -12727,6 +12727,17 @@
 }
 {
     Artist: "Lunar"
+    Title: "Willow Cricket 2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "http[:[[/]][[/]]]lunar[.]pm:8080[/]COOPERath[/]w3EBgdaXF0[/]132414"
+    Live: true
+    Country: "us"
+    Tag: "usa sports"
+}
+{
+    Artist: "Lunar"
     Title: "WWE"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
