@@ -4948,3 +4948,25 @@
     Country: "us"
     Tag: "canales de deportes"
 }
+{
+    Artist: "Play"
+    Title: "PELOTA 3"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://i.postimg.cc/NGX1xdsf/247.png"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]390360"
+    Live: true
+    Country: "us"
+    Tag: "canales de deportes"
+}
+{
+    Artist: "Play"
+    Title: "TUDNMX"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://capitalgroupenterprises.com/wp-content/uploads/2025/01/TUDN.png"
+    Stream: "http[:[[/]][[/]]]playtv44[.]com:8080[/]976515597[/]123456[/]390475"
+    Live: true
+    Country: "us"
+    Tag: "canales de deportes"
+}
