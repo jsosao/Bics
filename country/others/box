@@ -4235,17 +4235,6 @@
 }
 {
     Artist: "Box"
-    Title: "Совершенно Секретно"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://iptvx.one/picons/sovsek.png"
-    Stream: "http[:[[/]][[/]]]boxviptv[.]com:25461[/]Emin0282[/]elsen0552787979[/]624"
-    Live: true
-    Country: "us"
-    Tag: "documentary"
-}
-{
-    Artist: "Box"
     Title: "Da Vinci Learning"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -4254,17 +4243,6 @@
     Live: true
     Country: "us"
     Tag: "kids"
-}
-{
-    Artist: "Box"
-    Title: "Доктор"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "http://epg.one/img/16.png"
-    Stream: "http[:[[/]][[/]]]boxviptv[.]com:25461[/]Emin0282[/]elsen0552787979[/]627"
-    Live: true
-    Country: "us"
-    Tag: "documentary"
 }
 {
     Artist: "Box"
@@ -7015,4 +6993,15 @@
     Live: true
     Country: "us"
     Tag: "turkiye"
+}
+{
+    Artist: "Box"
+    Title: "NBA USA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "http://epg.one/img/3894.png"
+    Stream: "http[:[[/]][[/]]]boxviptv[.]com:25461[/]Emin0282[/]elsen0552787979[/]1728"
+    Live: true
+    Country: "us"
+    Tag: "sport"
 }
