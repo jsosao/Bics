@@ -88,6 +88,28 @@
 }
 {
     Artist: "Alfa"
+    Title: "FOX DEPORTES"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox_deportes.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7787"
+    Live: true
+    Country: "us"
+    Tag: ".deportes mx"
+}
+{
+    Artist: "Alfa"
+    Title: "FOX SOCCER PLUS"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_fox_sports.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7788"
+    Live: true
+    Country: "us"
+    Tag: ".deportes"
+}
+{
+    Artist: "Alfa"
     Title: "FOX SPORTS 1 ARG"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -148,6 +170,17 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_sports_2.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]13943"
+    Live: true
+    Country: "us"
+    Tag: ".deportes mx"
+}
+{
+    Artist: "Alfa"
+    Title: "FOX DEPORTES TUBI"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_fox_tubi.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]14598"
     Live: true
     Country: "us"
     Tag: ".deportes mx"
