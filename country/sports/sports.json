@@ -39,15 +39,6 @@
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/fox"      
     },
     {
-      "longDescription": "DISNEY+, APPLE TV, HBO MAX, AMAZON PRIME",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/apps.png",
-      "releaseDate": "2020-01-15",
-      "id": "APPS",
-      "shortDescription": "DISNEY+, APPLE TV, HBO MAX, AMAZON PRIME",
-      "title": "APPS",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/others/apps"      
-    },
-    {
       "longDescription": "NFL - Futbol Americano",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/nfl.png",
       "releaseDate": "2020-01-15",
@@ -83,7 +74,6 @@
       "title": "LMB Pass",
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/lmb"      
     },
-
     {
       "longDescription": "MLB - Beisbol",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/mlb.png",
@@ -92,6 +82,15 @@
       "shortDescription": "MLB",
       "title": "MLB Pass",
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/mlb"      
-    }
+    },
+    {
+      "longDescription": "DISNEY+, APPLE TV, HBO MAX, AMAZON PRIME",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/apps.png",
+      "releaseDate": "2020-01-15",
+      "id": "APPS",
+      "shortDescription": "DISNEY+, APPLE TV, HBO MAX, AMAZON PRIME",
+      "title": "APPS",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/others/apps"      
+    }    
   ]
 }
