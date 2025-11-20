@@ -1,5 +1,5 @@
 {
-  "Listas Disponibles Internacionales": 
+  "Listas Disponibles de Canales de EEUU": 
   [
     {
       "longDescription": "US: Estados Unidos",
@@ -18,6 +18,42 @@
       "shortDescription": "US: Estados Unidos",
       "title": "US: Estados Unidos",
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/country/us/eeuu"      
+    },
+    {
+      "longDescription": "US: ABC",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/eeuu.png",
+      "releaseDate": "2020-01-15",
+      "id": "US: ABC",
+      "shortDescription": "US: ABC",
+      "title": "US: ABC",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/country/us/abc"      
+    },
+    {
+      "longDescription": "US: CBS",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/eeuu.png",
+      "releaseDate": "2020-01-15",
+      "id": "US: CBS",
+      "shortDescription": "US: CBS",
+      "title": "US: CBS",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/country/us/cbs"      
+    },
+    {
+      "longDescription": "US: NBC",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/eeuu.png",
+      "releaseDate": "2020-01-15",
+      "id": "US: NBC",
+      "shortDescription": "US: NBC",
+      "title": "US: NBC",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/country/us/nbc"      
+    },
+    {
+      "longDescription": "US: FOX",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/eeuu.png",
+      "releaseDate": "2020-01-15",
+      "id": "US: FOX",
+      "shortDescription": "US: FOX",
+      "title": "US: FOX",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/country/us/nbc"      
     }
   ]
 }
