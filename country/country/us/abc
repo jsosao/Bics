@@ -1,16 +1,5 @@
 {
     Artist: "Cord"
-    Title: "CA: ABC SPARK"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]57375"
-    Live: true
-    Country: "us"
-    Tag: "canada"
-}
-{
-    Artist: "Cord"
     Title: "USA: ABC"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
