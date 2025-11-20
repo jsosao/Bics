@@ -1,27 +1,5 @@
 {
     Artist: "Cord"
-    Title: "ABC 50s"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/0a/ec/b6/0aecb6be-51b1-88d4-4a7e-e169270de6cf/artwork.jpg/600x600bf.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]17873"
-    Live: true
-    Country: "us"
-    Tag: "radio stations"
-}
-{
-    Artist: "Cord"
-    Title: "ABC 60s"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://image.flaticon.com/icons/png/512/1804/1804801.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]17552"
-    Live: true
-    Country: "us"
-    Tag: "radio stations"
-}
-{
-    Artist: "Cord"
     Title: "CA: ABC SPARK"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -668,28 +646,6 @@
     Live: true
     Country: "us"
     Tag: "usa | news | regionals "
-}
-{
-    Artist: "Cord"
-    Title: "ABC Classic live"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]124856"
-    Live: true
-    Country: "us"
-    Tag: "radio stations"
-}
-{
-    Artist: "Cord"
-    Title: "ABC Piano live"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]124927"
-    Live: true
-    Country: "us"
-    Tag: "radio stations"
 }
 {
     Artist: "Cord"
