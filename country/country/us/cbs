@@ -11,17 +11,6 @@
 }
 {
     Artist: "Cord"
-    Title: "US CBS Sports Network HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cbs_spports_network.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]10454"
-    Live: true
-    Country: "us"
-    Tag: "sports fanatic's "
-}
-{
-    Artist: "Cord"
     Title: "US CBS News"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
