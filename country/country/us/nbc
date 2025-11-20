@@ -1395,3 +1395,14 @@
     Country: "us"
     Tag: "usa | news | regionals "
 }
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 02: STL VS PHI  @ 7:00 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255339"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
