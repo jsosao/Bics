@@ -11,17 +11,6 @@
 }
 {
     Artist: "Cord"
-    Title: "UK CBS Reality"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]53752"
-    Live: true
-    Country: "us"
-    Tag: "uk united kingdom"
-}
-{
-    Artist: "Cord"
     Title: "US CBS Sports Network HD"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -814,17 +803,6 @@
 }
 {
     Artist: "Cord"
-    Title: "UK: CBS JUSTICE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]134942"
-    Live: true
-    Country: "us"
-    Tag: "uk united kingdom"
-}
-{
-    Artist: "Cord"
     Title: "US CBS  Jackson"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -1108,15 +1086,4 @@
     Live: true
     Country: "us"
     Tag: "usa | news | regionals "
-}
-{
-    Artist: "Cord"
-    Title: "NCAAB 055  VILLANOVA @ LA SALLE   11 19 7:00 PM  CBSSN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]255299"
-    Live: true
-    Country: "us"
-    Tag: "ncaab"
 }
