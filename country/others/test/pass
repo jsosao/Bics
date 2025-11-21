@@ -1947,73 +1947,62 @@
 }
 {
     Artist: "Pass"
-    Title: "Los Angeles Clippers @ Orlando Magic"
+    Title: "Indiana Pacers @ Cleveland Cavaliers"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA02[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA23[/]sd"
     Live: true
     Country: "us"
     Tag: "nba"
 }
 {
     Artist: "Pass"
-    Title: "St Louis Blues @ Philadelphia Flyers"
+    Title: "Chicago Blackhawks @ Buffalo Sabres"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL22[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL05[/]sd"
     Live: true
     Country: "us"
     Tag: "nhl"
 }
 {
     Artist: "Pass"
-    Title: "Columbus Blue Jackets @ Toronto Maple Leafs"
+    Title: "Minnesota Wild @ Pittsburgh Penguins"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL20[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHLNetwork[/]sd"
     Live: true
     Country: "us"
     Tag: "nhl"
 }
 {
     Artist: "Pass"
-    Title: "New York Islanders @ Detroit Red Wings"
+    Title: "Brooklyn Nets @ Boston Celtics"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL09[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA24[/]sd"
     Live: true
     Country: "us"
-    Tag: "nhl"
+    Tag: "nba"
 }
 {
     Artist: "Pass"
-    Title: "New Jersey Devils @ Florida Panthers"
+    Title: "Washington Wizards @ Toronto Raptors"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL26[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA20[/]sd"
     Live: true
     Country: "us"
-    Tag: "nhl"
+    Tag: "nba"
 }
 {
     Artist: "Pass"
-    Title: "Washington Capitals @ Montreal Canadiens"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL30[/]sd"
-    Live: true
-    Country: "us"
-    Tag: "nhl"
-}
-{
-    Artist: "Pass"
-    Title: "Louisiana Ragin Cajuns @ Arkansas State Red Wolves"
+    Title: "Florida State Seminoles @ NC State Wolfpack"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
@@ -2024,121 +2013,99 @@
 }
 {
     Artist: "Pass"
-    Title: "Edmonton Oilers @ Tampa Bay Lightning"
+    Title: "Miami Heat @ Chicago Bulls"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL15[/]sd"
-    Live: true
-    Country: "us"
-    Tag: "nhl"
-}
-{
-    Artist: "Pass"
-    Title: "Philadelphia 76ers @ Milwaukee Bucks"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA16[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA10[/]sd"
     Live: true
     Country: "us"
     Tag: "nba"
 }
 {
     Artist: "Pass"
-    Title: "Sacramento Kings @ Memphis Grizzlies"
+    Title: "Carolina Hurricanes @ Winnipeg Jets"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA15[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL04[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Pass"
+    Title: "New Orleans Pelicans @ Dallas Mavericks"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA27[/]sd"
     Live: true
     Country: "us"
     Tag: "nba"
 }
 {
     Artist: "Pass"
-    Title: "Seattle Kraken @ Chicago Blackhawks"
+    Title: "Minnesota Timberwolves @ Phoenix Suns"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL16[/]sd"
-    Live: true
-    Country: "us"
-    Tag: "nhl"
-}
-{
-    Artist: "Pass"
-    Title: "Atlanta Hawks @ San Antonio Spurs"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBATV[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA21[/]sd"
     Live: true
     Country: "us"
     Tag: "nba"
 }
 {
     Artist: "Pass"
-    Title: "Buffalo Bills @ Houston Texans"
+    Title: "Denver Nuggets @ Houston Rockets"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]tsn1[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA26[/]sd"
     Live: true
     Country: "us"
-    Tag: "nfl"
+    Tag: "nba"
 }
 {
     Artist: "Pass"
-    Title: "New York Rangers @ Colorado Avalanche"
+    Title: "Portland Trail Blazers @ Golden State Warriors"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL23[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA17[/]sd"
     Live: true
     Country: "us"
-    Tag: "nhl"
+    Tag: "nba"
 }
 {
     Artist: "Pass"
-    Title: "Vegas Golden Knights @ Utah Mammoth"
+    Title: "Oklahoma City Thunder @ Utah Jazz"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL28[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NBA22[/]sd"
     Live: true
     Country: "us"
-    Tag: "nhl"
+    Tag: "nba"
 }
 {
     Artist: "Pass"
-    Title: "Ottawa Senators @ Anaheim Ducks"
+    Title: "Hawaii Rainbow Warriors @ UNLV Rebels"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL18[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]FoxSports1[/]sd"
     Live: true
     Country: "us"
-    Tag: "nhl"
+    Tag: "ncaaf"
 }
 {
     Artist: "Pass"
-    Title: "Dallas Stars @ Vancouver Canucks"
+    Title: "Boston Bruins @ Los Angeles Kings"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL27[/]sd"
-    Live: true
-    Country: "us"
-    Tag: "nhl"
-}
-{
-    Artist: "Pass"
-    Title: "Los Angeles Kings @ San Jose Sharks"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL14[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL03[/]sd"
     Live: true
     Country: "us"
     Tag: "nhl"
