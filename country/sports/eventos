@@ -165,17 +165,6 @@
 }
 {
     Artist: "Alfa"
-    Title: "Liga MX 19:00 Pachuca vs Pumas UNAM"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_liga_mx.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22983"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
     Title: "Liga MX21:00 Tijuana vs Juarez"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
@@ -187,88 +176,11 @@
 }
 {
     Artist: "Alfa"
-    Title: "Expansion MX 20:00 Tepatitlan vs CDS Tampico Madero"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_expansion_mx.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22985"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "Liga MX Fem 20:00 America vs Tigres UANL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_liga_femenil_mx.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22986"
-    Live: true
-    Country: "us"
-    Tag: "futbol (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "NBA 01  Nov202025 6:00PM  LA Clippers at Orlando Magic"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22987"
-    Live: true
-    Country: "us"
-    Tag: "nba (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "NBA 02  Nov202025 7:00PM  Sacramento Kings at Memphis Grizzlies"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22988"
-    Live: true
-    Country: "us"
-    Tag: "nba (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "NBA 03  Nov202025 7:00PM  Philadelphia 76ers at Milwaukee Bucks"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22989"
-    Live: true
-    Country: "us"
-    Tag: "nba (eventos)"
-}
-{
-    Artist: "Alfa"
     Title: "NBA 04  Nov202025 7:00PM  Atlanta Hawks at San Antonio Spurs"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
     Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22990"
-    Live: true
-    Country: "us"
-    Tag: "nba (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "NBA G League 18:30 Windy City Bulls vs Iowa Wolves"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22991"
-    Live: true
-    Country: "us"
-    Tag: "nba (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "NBA G League 19:00 Osceola Magic vs Austin Spurs"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22992"
     Live: true
     Country: "us"
     Tag: "nba (eventos)"
@@ -338,17 +250,6 @@
     Live: true
     Country: "us"
     Tag: "lmb y lmp (eventos)"
-}
-{
-    Artist: "Alfa"
-    Title: "NFL 19:15 Houston Texans vs Buffalo Bills Espanol"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_8_desktop_mobile/f_png/texans/uc67tvygsgo2ntqteuk7.png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]22999"
-    Live: true
-    Country: "us"
-    Tag: "nfl (eventos)"
 }
 {
     Artist: "Alfa"
