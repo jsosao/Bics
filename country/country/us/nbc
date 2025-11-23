@@ -1395,3 +1395,69 @@
     Country: "us"
     Tag: "usa | news | regionals "
 }
+{
+    Artist: "Cord"
+    Title: "NCAAF 129  SOUTHERN CAL @ UCLA  112310:30PM  PEACOCK NBC"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]255473"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAF 108  WASHINGTON AT UCLA  112210:30PM  NBCPEACOCK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]255494"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAF 101  NEBRASKA AT PENN STATE  112207:30PM  NBCPEACOCK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]255501"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Cord"
+    Title: "NCAAF 066  SYRACUSE AT 9 NOTRE DAME  112203:30PM  NBCPEACOCK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]255536"
+    Live: true
+    Country: "us"
+    Tag: "ncaaf"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 10: NJD VS PHI  @ 7:00 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]255651"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 12: OTT VS SJS  @ 7:00 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc.png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]255653"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
