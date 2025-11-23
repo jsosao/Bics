@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="BICS EPG" generator-info-url="https://github.com/jsosao/Bics">
+    
+    <!-- Canales -->
+    <channel id="azteca-uno">
+        <display-name>AZTECA UNO</display-name>
+        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Azteca_Uno_logo_2019.svg/512px-Azteca_Uno_logo_2019.svg.png" />
+    </channel>
+    
+    <channel id="las-estrellas">
+        <display-name>LAS ESTRELLAS</display-name>
+        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas_logo_%282016%29.svg/512px-Las_Estrellas_logo_%282016%29.svg.png" />
+    </channel>
+    
+    <channel id="imagen-tv">
+        <display-name>IMAGEN TV</display-name>
+    </channel>
+    
+    <channel id="canal-5">
+        <display-name>CANAL 5</display-name>
+    </channel>
+    
+    <channel id="azteca-7">
+        <display-name>AZTECA 7</display-name>
+    </channel>
+    
+    <channel id="canal-9">
+        <display-name>CANAL NU9VE</display-name>
+    </channel>
+    
+    <channel id="canal-once">
+        <display-name>CANAL ONCE</display-name>
+    </channel>
+    
+    <!-- Programación Azteca Uno - Hoy 23 Nov 2025 -->
+    <programme start="20251123160000 -0600" stop="20251123170000 -0600" channel="azteca-uno">
+        <title lang="es">Venga La Alegría Fin de Semana</title>
+        <desc lang="es">Programa de entretenimiento para toda la familia</desc>
+        <category lang="es">Entretenimiento</category>
+    </programme>
+    
+    <programme start="20251123170000 -0600" stop="20251123180000 -0600" channel="azteca-uno">
+        <title lang="es">Lo Que Callamos Las Mujeres</title>
+        <desc lang="es">Historias reales de mujeres</desc>
+        <category lang="es">Drama</category>
+    </programme>
+    
+    <programme start="20251123180000 -0600" stop="20251123190000 -0600" channel="azteca-uno">
+        <title lang="es">Hechos Noche</title>
+        <desc lang="es">Noticiero nocturno</desc>
+        <category lang="es">Noticias</category>
+    </programme>
+    
+    <programme start="20251123190000 -0600" stop="20251123200000 -0600" channel="azteca-uno">
+        <title lang="es">La Rosa de Guadalupe</title>
+        <desc lang="es">Serie de drama y fe</desc>
+        <category lang="es">Drama</category>
+    </programme>
+    
+    <programme start="20251123200000 -0600" stop="20251123220000 -0600" channel="azteca-uno">
+        <title lang="es">Exatlón México</title>
+        <desc lang="es">Competencia deportiva</desc>
+        <category lang="es">Deportes</category>
+    </programme>
+    
+    <!-- Programación Las Estrellas -->
+    <programme start="20251123180000 -0600" stop="20251123190000 -0600" channel="las-estrellas">
+        <title lang="es">Notivisa Noche</title>
+        <desc lang="es">Noticias del día</desc>
+        <category lang="es">Noticias</category>
+    </programme>
+    
+    <programme start="20251123190000 -0600" stop="20251123200000 -0600" channel="las-estrellas">
+        <title lang="es">Telenovela Clásica</title>
+        <desc lang="es">Repetición de telenovela</desc>
+        <category lang="es">Telenovela</category>
+    </programme>
+    
+    <programme start="20251123200000 -0600" stop="20251123210000 -0600" channel="las-estrellas">
+        <title lang="es">Telenovela Estelar</title>
+        <desc lang="es">Producción de Televisa</desc>
+        <category lang="es">Telenovela</category>
+    </programme>
+    
+    <!-- Programación Imagen TV -->
+    <programme start="20251123180000 -0600" stop="20251123190000 -0600" channel="imagen-tv">
+        <title lang="es">Imagen Noticias con Ciro</title>
+        <desc lang="es">Análisis de noticias</desc>
+        <category lang="es">Noticias</category>
+    </programme>
+    
+    <programme start="20251123190000 -0600" stop="20251123210000 -0600" channel="imagen-tv">
+        <title lang="es">Fútbol Mexicano</title>
+        <desc lang="es">Liga MX en vivo</desc>
+        <category lang="es">Deportes</category>
+    </programme>
+    
+</tv>
