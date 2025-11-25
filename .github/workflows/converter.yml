@@ -10,8 +10,8 @@ on:
         default: ''
   
   # Ejecutar automáticamente cada 6 horas
-  schedule:
-    - cron: '0 */3 * * *'
+  #schedule:
+  #  - cron: '0 */3 * * *'
   
   # Ejecutar en cada push a main (opcional)
   # push:
