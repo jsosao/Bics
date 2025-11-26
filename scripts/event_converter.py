@@ -297,7 +297,7 @@ def get_picons_list():
     try:
         print("📦 Escaneando repositorio de logos...")
         picons_cache = scan_directory_recursive()
-        print(f"✓ Se encontraron {len(picons_cache)} picons disponibles\n")
+        #print(f"✓ Se encontraron {len(picons_cache)} picons disponibles\n")
         return picons_cache
     except Exception as e:
         print(f"⚠ No se pudo obtener la lista de picons: {e}")
@@ -597,7 +597,7 @@ def main():
     """Ejecuta todos los conversores configurados (modo GitHub Actions)"""
     
     print("\n" + "="*60)
-    print("UNIFIED M3U CONVERTER - GITHUB ACTIONS MODE")
+    print("UNIFIED CONVERTER - GITHUB ACTIONS MODE")
     print("="*60 + "\n")
     
     # Filtrar URLs configuradas
@@ -664,7 +664,7 @@ def main():
             total_invalid = 0
             
             for converter_name, config in converters:
-                print(f"\n  📦 Procesando: {converter_name} - {config['artist']}")
+                #print(f"\n  📦 Procesando: {converter_name} - {config['artist']}")
                 
                 env_var = config['env_var']
                 content = m3u_cache.get(env_var)
@@ -741,7 +741,7 @@ def main():
             outputs_generated = 0
             
             for output_name, output_config in config['outputs'].items():
-                print(f"  📁 Procesando salida: {output_name}")
+                #print(f"  📁 Procesando salida: {output_name}")
                 
                 entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
                     content, config, converter_name, picons_list, output_name
