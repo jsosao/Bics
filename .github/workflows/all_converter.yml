@@ -53,8 +53,20 @@ jobs:
       - name: Run All Converter
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          URL_001: ${{ secrets.URL_001 }}
-          URL_011: ${{ secrets.URL_011 }}
+          URL_002: ${{ secrets.URL_002 }}
+          URL_003: ${{ secrets.URL_003 }}
+          URL_004: ${{ secrets.URL_004 }}
+          URL_005: ${{ secrets.URL_005 }}
+          URL_006: ${{ secrets.URL_006 }}
+          URL_007: ${{ secrets.URL_007 }}
+          URL_008: ${{ secrets.URL_008 }}
+          URL_009: ${{ secrets.URL_009 }}
+          URL_010: ${{ secrets.URL_010 }}
+          URL_012: ${{ secrets.URL_012 }}
+          URL_013: ${{ secrets.URL_013 }}
+          URL_014: ${{ secrets.URL_014 }}
+          URL_015: ${{ secrets.URL_015 }}
+
           SELECTED_CONVERTERS: ${{ github.event.inputs.converters }}
         run: |
           python scripts/all_converter.py
