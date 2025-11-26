@@ -14,18 +14,18 @@ from datetime import datetime
 # ============================================================
 
 M3U_URLS = {
-    'URL_002': os.environ.get('URL_002', '')
-    'URL_003': os.environ.get('URL_003', '')
-    'URL_004': os.environ.get('URL_004', '')
-    'URL_005': os.environ.get('URL_005', '')
-    'URL_006': os.environ.get('URL_006', '')
-    'URL_007': os.environ.get('URL_007', '')
-    'URL_008': os.environ.get('URL_008', '')
-    'URL_009': os.environ.get('URL_009', '')
-    'URL_010': os.environ.get('URL_010', '')
-    'URL_012': os.environ.get('URL_012', '')
-    'URL_013': os.environ.get('URL_013', '')
-    'URL_014': os.environ.get('URL_014', '')
+    'URL_002': os.environ.get('URL_002', ''),
+    'URL_003': os.environ.get('URL_003', ''),
+    'URL_004': os.environ.get('URL_004', ''),
+    'URL_005': os.environ.get('URL_005', ''),
+    'URL_006': os.environ.get('URL_006', ''),
+    'URL_007': os.environ.get('URL_007', ''),
+    'URL_008': os.environ.get('URL_008', ''),
+    'URL_009': os.environ.get('URL_009', ''),
+    'URL_010': os.environ.get('URL_010', ''),
+    'URL_012': os.environ.get('URL_012', ''),
+    'URL_013': os.environ.get('URL_013', ''),
+    'URL_014': os.environ.get('URL_014', ''),
     'URL_015': os.environ.get('URL_015', '')
 }
 
