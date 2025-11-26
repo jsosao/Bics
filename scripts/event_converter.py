@@ -204,6 +204,15 @@ CONVERTERS = {
         'skip_keywords': ["canales-adultos", "adultos", "adult", "cartelera", "estrenos", "disney", "recien", "cine de oro", "marvel", "radio", "religiosos", "infantil", "kids", "vod", "serie", "novelas-", "24/7", "247", "musica"],
         'include_keywords': ["cine", "cultura", "deportes", "canales", "entretenimiento", ".hbo", "noticias", "(eventos)"]
     },
+    'premium': {
+        'env_var': 'URL_001',
+        'artist': 'Alfa',
+        'output_path': 'country/country/premium',
+        'use_picons': False,
+        'filter_type': 'include_exclude',
+        'skip_keywords': ["canales-adultos", "adultos", "adult", "cartelera", "estrenos", "disney", "recien", "cine de oro", "marvel", "radio", "religiosos", "infantil", "kids", "vod", "serie", "novelas-", "24/7", "247", "musica"],
+        'include_keywords': ["cine", "cultura", "deportes", "canales", "entretenimiento", ".hbo", "noticias", "(eventos)"]
+    },    
     'pass': {
         'env_var': 'URL_011',
         'artist': 'Pass',
