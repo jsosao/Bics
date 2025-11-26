@@ -54,21 +54,21 @@ jobs:
       - name: Run M3U Converter
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ALFA_M3U_URL: ${{ secrets.ALFA_M3U_URL }}
-          CORD_M3U_URL: ${{ secrets.CORD_M3U_URL }}
-          1TV_M3U_URL: ${{ secrets.1TV_M3U_URL }}
-          EDMA_M3U_URL: ${{ secrets.EDMA_M3U_URL }}
-          FAST_M3U_URL: ${{ secrets.FAST_M3U_URL }}
-          PLAY_M3U_URL: ${{ secrets.PLAY_M3U_URL }}
-          PROYECTO_M3U_URL: ${{ secrets.PROYECTO_M3U_URL }}
-          ZAP_M3U_URL: ${{ secrets.ZAP_M3U_URL }}
-          GAMA_M3U_URL: ${{ secrets.GAMA_M3U_URL }}
-          ZONA_M3U_URL: ${{ secrets.ZONA_M3U_URL }}
-          PASS_M3U_URL: ${{ secrets.PASS_M3U_URL }}
-          BOX_M3U_URL: ${{ secrets.BOX_M3U_URL }}
-          LUNAR_M3U_URL: ${{ secrets.LUNAR_M3U_URL }}
-          PGEFFORD_M3U_URL: ${{ secrets.PGEFFORD_M3U_URL }}
-          VIP_M3U_URL: ${{ secrets.VIP_M3U_URL }}
+          URL_001: ${{ secrets.URL_001 }}
+          URL_002: ${{ secrets.URL_002 }}
+          URL_003: ${{ secrets.URL_003 }}
+          URL_004: ${{ secrets.URL_004 }}
+          URL_005: ${{ secrets.URL_005 }}
+          URL_006: ${{ secrets.URL_006 }}
+          URL_007: ${{ secrets.URL_007 }}
+          URL_008: ${{ secrets.URL_008 }}
+          URL_009: ${{ secrets.URL_009 }}
+          URL_010: ${{ secrets.URL_010 }}
+          URL_011: ${{ secrets.URL_011 }}
+          URL_012: ${{ secrets.URL_012 }}
+          URL_013: ${{ secrets.URL_013 }}
+          URL_014: ${{ secrets.URL_014 }}
+          URL_015: ${{ secrets.URL_015 }}
           SELECTED_CONVERTERS: ${{ github.event.inputs.converters }}
         run: |
           python scripts/converter.py
