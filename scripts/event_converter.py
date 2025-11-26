@@ -851,7 +851,7 @@ def main():
     print("✓ CONVERSIÓN COMPLETADA")
     print("="*60)
     print(f"Exitosos: {successful} | Fallidos: {failed}")
-    print(f"Descargas de M3U realizadas: {len(configured_urls)}")
+    print(f"Descargas realizadas: {len(configured_urls)}")
     print("="*60)
     
     return 0 if failed == 0 else 1
