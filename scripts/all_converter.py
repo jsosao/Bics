@@ -227,7 +227,7 @@ CONVERTERS = {
         'skip_keywords': ["canales-adultos", "adultos", "series", "telenovelas", "vod", "pluto", "doramas", "simpsons", "radio", "cgates", "24/7", "geo chile", "música","cinema ppv usa","rakuten esp","indonesia"],
     },
     'latin': {
-        'env_var': URL_006',
+        'env_var': 'URL_006',
         'artist': 'Play',
         'output_path': 'country/country/latino/latin_auto',
         'use_picons': False,
