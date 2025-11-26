@@ -97,4 +97,4 @@ jobs:
           path: |
             country/
             *.log
-          retention-days: 7
+          retention-days: 1
