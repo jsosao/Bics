@@ -1395,14 +1395,3 @@
     Country: "us"
     Tag: "usa | news | regionals "
 }
-{
-    Artist: "Cord"
-    Title: "USA Real NHL 02: PHI VS TBL  @ 7:00 pm"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc[.]png"
-    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]255685"
-    Live: true
-    Country: "us"
-    Tag: "nhl"
-}
