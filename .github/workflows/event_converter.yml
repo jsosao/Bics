@@ -18,8 +18,8 @@ on:
   #   branches:
   #     - main
   #   paths:
-  #     - '.github/workflows/event_er.yml'
-  #     - 'scripts/event_er.py'
+  #     - '.github/workflows/event_converter.yml'
+  #     - 'scripts/event_converter.py'
 
 jobs:
   event-convert:
