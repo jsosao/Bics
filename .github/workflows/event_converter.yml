@@ -18,11 +18,11 @@ on:
   #   branches:
   #     - main
   #   paths:
-  #     - '.github/workflows/event_converter.yml'
-  #     - 'scripts/event_converter.py'
+  #     - '.github/workflows/event_er.yml'
+  #     - 'scripts/event_er.py'
 
 jobs:
-  convert-eventos:
+  event-convert:
     runs-on: ubuntu-latest
     
     steps:
