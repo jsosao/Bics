@@ -319,12 +319,6 @@ picons_base_url = "https://raw.githubusercontent.com/jsosao/Bics/main/picons/"
 picons_cache = None
 m3u_cache = {}
 
-# Crear diccionario invertido para búsqueda rápida
-VARIATION_TO_CANONICAL = {}
-for canonical, variations in EQUAL_NAMES.items():
-    for variation in variations:
-        VARIATION_TO_CANONICAL[variation.lower()] = canonical
-
 # ============================================================
 # FUNCIONES AUXILIARES
 # ============================================================
