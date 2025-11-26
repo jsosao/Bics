@@ -9,20 +9,20 @@ on:
         required: false
         default: ''
   
-  # Ejecutar automáticamente cada 6 horas
-  #schedule:
-  #  - cron: '0 */3 * * *'
+  # Ejecutar automáticamente cada 2 horas
+  schedule:
+    - cron: '0 */2 * * *'
   
   # Ejecutar en cada push a main (opcional)
   # push:
   #   branches:
   #     - main
   #   paths:
-  #     - '.github/workflows/converter.yml'
-  #     - 'scripts/converter_eventos.py'
+  #     - '.github/workflows/event_converter.yml'
+  #     - 'scripts/event_converter.py'
 
 jobs:
-  convert-m3u:
+  convert-eventos:
     runs-on: ubuntu-latest
     
     steps:
@@ -48,16 +48,16 @@ jobs:
       
       - name: Use Python script from repository
         run: |
-          chmod +x scripts/converter_eventos.py
+          chmod +x scripts/event_converter.py
       
-      - name: Run M3U Converter
+      - name: Run Event Converter
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           URL_001: ${{ secrets.URL_001 }}
           URL_011: ${{ secrets.URL_011 }}
           SELECTED_CONVERTERS: ${{ github.event.inputs.converters }}
         run: |
-          python scripts/converter_eventos.py
+          python scripts/event_converter.py
       
       - name: Configure Git
         run: |
