@@ -14,121 +14,19 @@ from datetime import datetime
 # ============================================================
 
 M3U_URLS = {
-    'URL_001': os.environ.get('URL_001', ''),
-    'URL_011': os.environ.get('URL_011', '')
-}
-
-# ============================================================
-# ASIGNACIÓN ÚNICA DE VARIACIONES DE TITULOS EN STREAM
-# ============================================================
-
-EQUAL_NAMES = {
-    "sunday_ticket": ["sunday ticket", "nfl sunday ticket"],
-    "nba": ["nba", "brooklyn nets", "charlotte hornets", "cleveland cavaliers", "new york knicks", "miami heat", "orlando magic", "toronto raptors",
-            "atlanta hawks", "philadelphia 76ers", "boston celtics", "detroit pistons", "chicago bulls", "new orleans pelicans", "memphis grizzlies",
-            "washington wizards", "milwaukee bucks", "los angeles clippers", "utah jazz", "san antonio spurs", "dallas mavericks", "sacramento kings",
-            "phoenix suns", "minnesota timberwolves", "portland trail blazers","golden state warriors"],
-    "mlb": ["mlb"],
-    "nhl": ["nhl","chicago blackhawks","seattle kraken","sacramento kings","denver nuggets","vancouver canucks","nashville predators",
-            "edmonton oilers","st louis blues","pittsburgh penguins","toronto maple leafs","winnipeg jets","los angeles kings","detroit red wings",
-            "vegas golden knights","florida panthers","anaheim ducks","tampa bay lightning","colorado avalanche","boston bruins","new york islanders",
-            "utah mammoth","buffalo sabres","carolina hurricanes","new york rangers","philadelphia flyers","montreal canadiens","columbus blue jackets","calgary flames"],
-    "ufc": ["ufc"],
-    "wwe": ["wwe"],
-    "f1": ["formula 1", "^f1 ", "fórmula f1"],    
-    "sky_sports": ["cielo sport","sky","cielo evento"],
-    "mls": ["mls"],    
-    "liga_femenil_mx": ["liga femenil mx", "fem mx", "mx fem", "liga_femenil_mx", "liga mx fem"],
-    "liga mx": ["liga mx", "mx liga", "ligamx", "mxliga", "pachuca", "tigres uanl", "queretaro fc", "cd guadalajara", "atlas fc", "club leon",
-                "club tijuana", "cd toluca", "pumas unam", "atletico san luis"],
-    "lmp": ["lmp", "lmp_"],
-    "lmb": ["lmb"],
-    "liga_expansion_mx": ["expansión mx", "exp mx"],
-    "epl": ["premier league", "epl "],
-    "serie_a": ["serie a", "seriea"],
-    "ligue_1": ["ligue 1", "ligue1"],
-    "bundesliga": ["bundesliga"],
-    "la_liga_smartbank": ["laliga smartbank"],
-    "la_liga": ["laliga","laligaes"],    
-    "ucl_women": ["ucl women","champions league women"],
-    "afc": ["afc ","afc champions", "afc champions league"],        
-    "ucl": ["ucl ","champions league"],
-    "uel": ["uefa europa","uel ","europa league"],
-    "efl": ["efl ", "efl cup"],
-    "dfb": ["dfb_pokal"],
-    "sudamericana": ["sudamericana"],
-    "libertadores": ["libertadores"],
-    "championship": ["championship"],
-    "caribbean_cup": ["concacaf caribbean cup", "copa del caribe"],
-    "eredivisie": ["eredivisie"],
-    "argentina": ["argentina","arg "],
-    "colombia": ["colombia","col "],
-    "ecuador": ["ecuador","ecu "],
-    "chile": ["chile ", "cl "],
-    "honduras": ["honduras "],
-    "guatemala": ["guatemala "],
-    "costa rica": ["costa rica ", "cr "],
-    "brasileirão": ["brasileirão"],
-    "uruguay": ["uruguay"],
-    "el salvador": ["el salvador"],
-    "perú": ["perú"],
-    "saudi": ["saudi "],
-    "polonia": ["polonia"],
-    "portugal": ["portugal", "pt "],
-    "amistoso": ["amistoso"]
-}
-
-# ============================================================
-# PATH DE LOGOS A CAMBIAR
-# ============================================================
-
-IN_TITLE_LOGOS = {
-    "sunday_ticket": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_sundayticket[.]png",
-    "nba": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba[.]png",
-    "mlb": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mlb[.]png",
-    "ufc": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ufc_fight_pass[.]png",
-    "nhl": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png",
-    "wwe": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_wwe_network[.]png",
-    "sky_sports": "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_sky_sports[.]png",
-    "liga_femenil_mx": "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_liga_femenil_mx[.]png",
-    "liga mx": "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_liga_mx[.]png",
-    "lmp": "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_beisbol_lmp[.]png",
-    "lmb": "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_beisbol_lmb[.]png",
-    "liga_expansion_mx": "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_expansion_mx[.]png",
-    "epl": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_premier_league[.]png",
-    "efl": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_efl_football_league[.]png",
-    "serie_a": "https://raw.githubusercontent.com/jsosao/bics/main/picons/it_serie_a[.]png",
-    "la_liga_smartbank": "https://raw.githubusercontent.com/jsosao/bics/main/picons/sp_la_liga_smartbank[.]png",
-    "la_liga": "https://raw.githubusercontent.com/jsosao/bics/main/picons/sp_la_liga[.]png",
-    "bundesliga": "https://raw.githubusercontent.com/jsosao/bics/main/picons/de_bundesliga[.]png",
-    "ligue_1": "https://raw.githubusercontent.com/jsosao/bics/main/picons/fr_ligue_1[.]png",
-    "mls": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mls[.]png",
-    "f1": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_f1[.]png",
-    "ucl_women": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uefa_women_champions[.]png",
-    "ucl": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uefa_champions[.]png",
-    "afc": "https://raw.githubusercontent.com/jsosao/bics/main/picons/afc_champions[.]png",
-    "uel": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uel_champions[.]png",
-    "dfb": "https://raw.githubusercontent.com/jsosao/bics/main/picons/po_dfb_pokal[.]png",
-    "sudamericana": "https://raw.githubusercontent.com/jsosao/bics/main/picons/conmebol_sudamericana[.]png",
-    "libertadores": "https://raw.githubusercontent.com/jsosao/bics/main/picons/conmebol_libertadores[.]png",
-    "caribbean cup": "https://raw.githubusercontent.com/jsosao/bics/main/picons/concacaf_caribbean_cup[.]png",
-    "championship": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_championship_epl[.]png",  
-    "eredivisie": "https://raw.githubusercontent.com/jsosao/bics/main/picons/nl_eredivise[.]png",
-    "ecuador": "https://raw.githubusercontent.com/jsosao/bics/main/picons/ec_liga_pro[.]png",
-    "colombia": "https://raw.githubusercontent.com/jsosao/bics/main/picons/co_dimayor[.]png",
-    "chile": "https://raw.githubusercontent.com/jsosao/bics/main/picons/cl_liga_futbol[.]png",
-    "argentina": "https://raw.githubusercontent.com/jsosao/bics/main/picons/ar_primera_nacional[.]png",
-    "el salvador": "https://raw.githubusercontent.com/jsosao/bics/main/picons/sv_primera_division[.]png",
-    "honduras": "https://raw.githubusercontent.com/jsosao/bics/main/picons/hn_primera_division[.]png",
-    "guatemala": "https://raw.githubusercontent.com/jsosao/bics/main/picons/gt_primera_division[.]png",
-    "costa rica": "https://raw.githubusercontent.com/jsosao/bics/main/picons/cr_promerica[.]png",
-    "brasileirão": "https://raw.githubusercontent.com/jsosao/bics/main/picons/br_brasileirao[.]png",
-    "uruguay": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uy_primera_division[.]png",
-    "perú": "https://raw.githubusercontent.com/jsosao/bics/main/picons/pe_primera_division[.]png",
-    "saudi": "https://raw.githubusercontent.com/jsosao/bics/main/picons/sa_primera_division[.]png",
-    "polonia": "https://raw.githubusercontent.com/jsosao/bics/main/picons/pl_primera_division[.]png",
-    "portugal": "https://raw.githubusercontent.com/jsosao/bics/main/picons/pt_primera_division[.]png",
-    "amistoso": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_fifa_amistoso[.]png"    
+    'URL_002': os.environ.get('URL_001', ''),
+    'URL_003': os.environ.get('URL_001', ''),
+    'URL_004': os.environ.get('URL_001', ''),
+    'URL_005': os.environ.get('URL_001', ''),
+    'URL_006': os.environ.get('URL_001', ''),
+    'URL_007': os.environ.get('URL_001', ''),
+    'URL_008': os.environ.get('URL_001', ''),
+    'URL_009': os.environ.get('URL_001', ''),
+    'URL_010': os.environ.get('URL_001', ''),
+    'URL_012': os.environ.get('URL_011', ''),
+    'URL_013': os.environ.get('URL_011', ''),
+    'URL_014': os.environ.get('URL_011', ''),
+    'URL_015': os.environ.get('URL_011', '')
 }
 
 # ============================================================
@@ -136,82 +34,265 @@ IN_TITLE_LOGOS = {
 # ============================================================
 
 CONVERTERS = {
-    # GRUPO EVENTOS (fusionados)
-    'eventos': {
-        'env_var': 'URL_001',
-        'artist': 'Alfa',
-        'output_path': 'country/sports/eventos',
-        'use_picons': True,
+
+    # GRUPO DEPO (fusionados)
+    'depo_box': {
+        'env_var': 'URL_012',
+        'artist': 'Box',
+        'output_path': 'country/sports/depo',
+        'use_picons': False,
         'filter_type': 'custom',
-        'custom_filter': 'alfa_eventos',
-        'merge_group': 'eventos'
+        'custom_filter': 'box_depo',
+        'merge_group': 'depo'
     },
-    'pass_eventos': {
-        'env_var': 'URL_011',
-        'artist': 'Pass',
-        'output_path': 'country/sports/eventos',
-        'use_picons': True,
+    'depo_pgefford': {
+        'env_var': 'URL_014',
+        'artist': 'Pgefford',
+        'output_path': 'country/sports/depo',
+        'use_picons': False,
         'filter_type': 'custom',
-        'custom_filter': 'pass_eventos',
-        'merge_group': 'eventos'
+        'custom_filter': 'pgefford_depo',
+        'merge_group': 'depo'
     },
+
     
-    # PROCESAMIENTO MÚLTIPLE DE URL_001 (optimizado)
-    'alfa_sports': {
-        'env_var': 'URL_001',
-        'artist': 'Alfa',
-        'output_path': 'country/sports',
-        'use_picons': True,
+    # PROCESAMIENTO MÚLTIPLE DE CORD_M3U_URL (optimizado con logos fijos)
+    'cord_multi': {
+        'env_var': 'URL_002',
+        'artist': 'Cord',
+        'output_path': 'country/country/us',
+        'use_picons': False,
         'filter_type': 'multi_output',
         'outputs': {
+            'abc': {
+                'path': 'country/country/us/abc',
+                'custom_filter': 'cord_abc',
+                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_abc[.]png'
+            },
+            'cbs': {
+                'path': 'country/country/us/cbs',
+                'custom_filter': 'cord_cbs',
+                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cbs[.]png'
+            },
+            'nbc': {
+                'path': 'country/country/us/nbc',
+                'custom_filter': 'cord_nbc',
+                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc[.]png'
+            },
             'fox': {
-                'path': 'country/sports/fox',
-                'custom_filter': 'alfa_fox'
-            },
-            'espn': {
-                'path': 'country/sports/espn',
-                'custom_filter': 'alfa_espn'
-            },
-            'tudn': {
-                'path': 'country/sports/tudn',
-                'custom_filter': 'alfa_tudn'
-            },            
-            't_u': {
-                'path': 'country/country/tu/t_u_auto',
-                'custom_filter': 'alfa_tu'
-            },
-            'cartelera_2025': {
-                'path': 'country/others/cinema/cartelera_2025',
-                'use_picons': False,
-                'custom_filter': 'alfa_cartelera_2025'
-            },
-            'depo': {
-                'path': 'country/sports/depo',
-                'use_picons': False,
-                'custom_filter': 'alfa_depo',
-                'merge_group': 'depo'
+                'path': 'country/country/us/fox',
+                'custom_filter': 'cord_fox',
+                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox[.]png'
             }
         }
     },
-    
-    # ALFA - Otros contenidos
-    'alfa': {
-        'env_var': 'URL_001',
-        'artist': 'Alfa',
-        'output_path': 'country/others/test/alfa',
-        'use_picons': False,
-        'filter_type': 'include_exclude',
-        'skip_keywords': ["canales-adultos", "adultos", "adult", "cartelera", "estrenos", "disney", "recien", "cine de oro", "marvel", "radio", "religiosos", "infantil", "kids", "vod", "serie", "novelas-", "24/7", "247", "musica"],
-        'include_keywords': ["cine", "cultura", "deportes", "canales", "entretenimiento", ".hbo", "noticias", "(eventos)"]
-    },
-    'pass': {
-        'env_var': 'URL_011',
-        'artist': 'Pass',
-        'output_path': 'country/others/test/pass',
+    'cord': {
+        'env_var': 'URL_002',
+        'artist': 'Cord',
+        'output_path': 'country/others/test/cord',
         'use_picons': False,
         'filter_type': 'skip_only',
-        'skip_keywords': ["canales-adultos", "adultos", "adult", "porn"],
-    }    
+        'skip_keywords': ["radio", "serie", "movie", "extra", "peliculas", "adult", "romance", "horror", "family", "science fiction", "comedy", "channel"],
+    },
+    '1tv': {
+        'env_var': 'URL_003',
+        'artist': '1tv',
+        'output_path': 'country/others/test/1tv',
+        'use_picons': False,
+        'filter_type': 'skip_only',
+        'skip_keywords': ["radio", "serie", "movie", "extra", "peliculas", "adult", "romance", "horror", "family", "science fiction", "comedy", "channel"],
+    },
+    
+    # PROCESAMIENTO MÚLTIPLE DE PGEFFORD_M3U_URL (optimizado)
+    'pgefford_mundo': {
+        'env_var': 'URL_014',
+        'artist': 'Pgefford',
+        'output_path': 'country/country/world/pg',
+        'use_picons': False,
+        'filter_type': 'multi_output',
+        'outputs': {
+            'mx': {'path': 'country/country/world/pg/mx',
+                   'include_keywords': ["lame | mexico"]},
+            'usa': {'path': 'country/country/world/pg/usa',
+                    'include_keywords': ["usa"]},
+            'carib': {'path': 'country/country/world/pg/carib', 'include_keywords': ["lame | caribbean"]},
+            'latin': {'path': 'country/country/world/pg/latin', 'include_keywords': ["lame | latino"]},
+            'pe': {'path': 'country/country/world/pg/pe', 'include_keywords': ["lame | peru"]},
+            'ec': {'path': 'country/country/world/pg/ec', 'include_keywords': ["lame | ecuador"]},
+            'co': {'path': 'country/country/world/pg/co', 'include_keywords': ["lame | colombia"]},
+            'cl': {'path': 'country/country/world/pg/cl', 'include_keywords': ["lame | chile"]},
+            'ar': {'path': 'country/country/world/pg/ar', 'include_keywords': ["lame | argentina"]},
+            'br': {'path': 'country/country/world/pg/br', 'include_keywords': ["lame | brazil"]},
+            'ca': {'path': 'country/country/world/pg/ca', 'include_keywords': ["name | ca"]},
+            'at': {'path': 'country/country/world/pg/at', 'include_keywords': ["euro | austria"]},
+            'bg': {'path': 'country/country/world/pg/bg', 'include_keywords': ["euro | bulgaria"]},
+            'ro': {'path': 'country/country/world/pg/ro', 'include_keywords': ["euro | romania"]},
+            'be': {'path': 'country/country/world/pg/be', 'include_keywords': ["euro | belgium"]},
+            'hr': {'path': 'country/country/world/pg/hr', 'include_keywords': ["euro | croatia"]},
+            'de': {'path': 'country/country/world/pg/de', 'include_keywords': ["de | "]},
+            'pl': {'path': 'country/country/world/pg/pl', 'include_keywords': ["pl | "]},
+            'sp': {'path': 'country/country/world/pg/sp', 'include_keywords': ["es | laliga","es | deportes", "es | uefa liga de campeones", "es | entretenimiento","es | cultura","es | others","es | general","es | regionales","ppv","es | dazn acb"]},
+            'pt': {'path': 'country/country/world/pg/pt', 'include_keywords': ["pt | "]},
+            'ch': {'path': 'country/country/world/pg/ch', 'include_keywords': ["euro | switzerland"]},
+            'cz_slo': {'path': 'country/country/world/pg/cz_slo', 'include_keywords': ["euro | cz & slovak"]},
+            'nl': {'path': 'country/country/world/pg/nl', 'include_keywords': ["nl | viaplay", "nl | categorizing", "nl | netherlands"]},
+            'ba': {'path': 'country/country/world/pg/ba', 'include_keywords': ["euro | bosnia"]},
+            'mk': {'path': 'country/country/world/pg/mk', 'include_keywords': ["euro | macedonia"]},
+            'rs': {'path': 'country/country/world/pg/rs', 'include_keywords': ["euro | serbia"]},
+            'yu': {'path': 'country/country/world/pg/yu', 'include_keywords': ["euro | ex-yu"]},
+            'fr': {'path': 'country/country/world/pg/fr', 'include_keywords': ["fr | di","fr | gé","fr | jeu","fr | films","fr | la na","fr | info","fr | other","fr | sport","fr | dazn","fr | canal+","fr | france"]},
+            'hu': {'path': 'country/country/world/pg/hu', 'include_keywords': ["euro | hungary"]},
+            'dk': {'path': 'country/country/world/pg/dk', 'include_keywords': ["euro | denmark"]},
+            'no': {'path': 'country/country/world/pg/no', 'include_keywords': ["euro | norway"]},
+            'al': {'path': 'country/country/world/pg/al', 'include_keywords': ["euro | albania"]},
+            'ru': {'path': 'country/country/world/pg/ru', 'include_keywords': ["euro | russian"]},
+            'uk': {'path': 'country/country/world/pg/uk', 'include_keywords': ["uk"]},
+            'it': {'path': 'country/country/world/pg/it', 'include_keywords': ["it | italy"]},
+            'tr': {'path': 'country/country/world/pg/tr', 'include_keywords': ["tr | "]},
+            'gr': {'path': 'country/country/world/pg/gr', 'include_keywords': ["euro | greece"]},
+            'se': {'path': 'country/country/world/pg/se', 'include_keywords': ["euro | sweden"]},
+            'asia': {'path': 'country/country/world/pg/asia', 'include_keywords': ["asia", "arab"]},
+            'africa': {'path': 'country/country/world/pg/africa', 'include_keywords': ["afr | "]},
+        }
+    },
+
+    # PROCESAMIENTO MÚLTIPLE DE PGEFFORD_M3U_URL (optimizado)
+    'vip_mundo': {
+        'env_var': 'URL_015',
+        'artist': 'Vip',
+        'output_path': 'country/country/world/vip',
+        'use_picons': False,
+        'filter_type': 'multi_output',
+        'outputs': {
+            'mx': {'path': 'country/country/world/vip/mx',
+                   'include_keywords': ["lame | mexico"]},
+            'usa': {'path': 'country/country/world/vip/usa',
+                    'include_keywords': ["usa | vip-a", "name | usa"]},
+            'carib': {'path': 'country/country/world/vip/carib', 'include_keywords': ["lame | caribbean"]},
+            'latin': {'path': 'country/country/world/vip/latin', 'include_keywords': ["lame | latino"]},
+            'pe': {'path': 'country/country/world/vip/pe', 'include_keywords': ["lame | peru"]},
+            'ec': {'path': 'country/country/world/vip/ec', 'include_keywords': ["lame | ecuador"]},
+            'co': {'path': 'country/country/world/vip/co', 'include_keywords': ["lame | colombia"]},
+            'cl': {'path': 'country/country/world/vip/cl', 'include_keywords': ["lame | chile"]},
+            'ar': {'path': 'country/country/world/vip/ar', 'include_keywords': ["lame | argentina"]},
+            'br': {'path': 'country/country/world/vip/br', 'include_keywords': ["lame | brazil"]},
+            'ca': {'path': 'country/country/world/vip/ca', 'include_keywords': ["canada"]},
+            'at': {'path': 'country/country/world/vip/at', 'include_keywords': ["eu | austria"]},
+            'bg': {'path': 'country/country/world/vip/bg', 'include_keywords': ["eu | bulgaria"]},
+            'ro': {'path': 'country/country/world/vip/ro', 'include_keywords': ["eu | romania"]},
+            'be': {'path': 'country/country/world/vip/be', 'include_keywords': ["eu | belgium"]},
+            'hr': {'path': 'country/country/world/vip/hr', 'include_keywords': ["eu | croatia"]},
+            'de': {'path': 'country/country/world/vip/de', 'include_keywords': ["de | "]},
+            'pl': {'path': 'country/country/world/vip/pl', 'include_keywords': ["pl | "]},
+            'sp': {'path': 'country/country/world/vip/sp', 'include_keywords': ["es | laliga","es | deportes", "es | uefa liga de campeones", "es | entretenimiento","es | cultura","es | others","es | general","es | regionales","ppv","es | dazn acb"]},
+            'pt': {'path': 'country/country/world/vip/pt', 'include_keywords': ["pt | "]},
+            'ch': {'path': 'country/country/world/vip/ch', 'include_keywords': ["eu | switzerland"]},
+            'cz_slo': {'path': 'country/country/world/vip/cz_slo', 'include_keywords': ["eu | cz & slovak"]},
+            'nl': {'path': 'country/country/world/vip/nl', 'include_keywords': ["nl | "]},
+            'ba': {'path': 'country/country/world/vip/ba', 'include_keywords': ["eu | bosnia"]},
+            'mk': {'path': 'country/country/world/vip/mk', 'include_keywords': ["eu | macedonia"]},
+            'rs': {'path': 'country/country/world/vip/rs', 'include_keywords': ["eu | serbia"]},
+            'yu': {'path': 'country/country/world/vip/yu', 'include_keywords': ["eu | ex-yu","exyu | "]},
+            'fr': {'path': 'country/country/world/vip/fr', 'include_keywords': ["fr | "]},
+            'hu': {'path': 'country/country/world/vip/hu', 'include_keywords': ["eu | hungary"]},
+            'dk': {'path': 'country/country/world/vip/dk', 'include_keywords': ["eu | denmark"]},
+            'no': {'path': 'country/country/world/vip/no', 'include_keywords': ["eu | norway"]},
+            'al': {'path': 'country/country/world/vip/al', 'include_keywords': ["eu | albania"]},
+            'ru': {'path': 'country/country/world/vip/ru', 'include_keywords': ["eu | russian"]},
+            'uk': {'path': 'country/country/world/vip/uk', 'include_keywords': ["uk"]},
+            'it': {'path': 'country/country/world/vip/it', 'include_keywords': ["it | "]},
+            'tr': {'path': 'country/country/world/vip/tr', 'include_keywords': ["tr | "]},
+            'gr': {'path': 'country/country/world/vip/gr', 'include_keywords': ["eu | greece"]},
+            'se': {'path': 'country/country/world/vip/se', 'include_keywords': ["eu | sweden"]},
+            'asia': {'path': 'country/country/world/vip/asia', 'include_keywords': ["asia", "arab"]},
+            'africa': {'path': 'country/country/world/vip/africa', 'include_keywords': ["afr | "]},
+        }
+    },
+    
+    # Resto de conversores individuales
+    'edma': {
+        'env_var': 'URL_004',
+        'artist': 'Edma',
+        'output_path': 'country/others/test/edma',
+        'use_picons': False,
+        'filter_type': 'skip_only',
+        'skip_keywords': ["canales-adultos", "adultos", "adult", "radio", "infantil", "kids"],
+    },
+    'fast': {
+        'env_var': 'URL_005',
+        'artist': 'Fast',
+        'output_path': 'country/others/test/fast',
+        'use_picons': False,
+        'filter_type': 'skip_only',
+        'skip_keywords': ["canales-adultos", "adultos", "series", "telenovelas", "vod", "pluto", "doramas", "simpsons", "radio", "cgates", "24/7", "geo chile", "música","cinema ppv usa","rakuten esp","indonesia"],
+    },
+    'latin': {
+        'env_var': URL_006',
+        'artist': 'Play',
+        'output_path': 'country/country/latino/latin_auto',
+        'use_picons': False,
+        'filter_type': 'include_exclude',
+        'skip_keywords': ["24/7", "247", "infantiles", "musica"],
+        'include_keywords': ["canales", "canales de peliculas"]
+    },
+    'proyecto': {
+        'env_var': 'URL_007',
+        'artist': 'Proyecto',
+        'output_path': 'country/others/test/proy',
+        'use_picons': False,
+        'filter_type': 'include_exclude',
+        'skip_keywords': ["canales-adultos", "adultos", "adult", "radio", "religiosos", "infantil", "kids", "vod","novelas-", "estrenos", "24/7", "247", "musica"],
+        'include_keywords': ["canales-novelas", "canales-cine y series","canales","cinema", "ecuador", "eventos"]
+    },
+    'kids': {
+        'env_var': 'URL_007',
+        'artist': 'Proyecto',
+        'output_path': 'country/others/kids',
+        'use_picons': False,
+        'filter_type': 'include_exclude',
+        'skip_keywords': ["canales-adultos", "adultos", "adult", "radio", "religiosos", "vod", "serie", "novelas-", "estrenos", "24/7", "247", "musica"],
+        'include_keywords': ["canales-infantiles", "kids"]
+    },
+    'zap': {
+        'env_var': 'URL_008',
+        'artist': 'Zapp',
+        'output_path': 'country/others/test/zap',
+        'use_picons': False,
+        'filter_type': 'skip_only',
+        'skip_keywords': ["canales-adultos", "adultos", "adult", "porn", "canales-religiosos", "canales-musica", "vod", "navidad", "estrenos", "novelas", "24/7","series-"],
+    },
+    'zona': {
+        'env_var': 'URL_010',
+        'artist': 'Zona',
+        'output_path': 'country/others/test/zona',
+        'use_picons': False,
+        'filter_type': 'skip_only',
+        'skip_keywords': ["canales-adultos", "adultos", "adult", "porn","xxx","infantiles","kids", "musica","pack","24/7","religiosos", "vod","autonomicos","coleccion", "serie","novelas", "doramas", "tv shows","saga","retro","super estrenos","pedidos","movies","cine","cursos","netflix","cuerpo","estrenos hdcam","4k premium","pruebas","instat","canada","usa noticias","usa entretenimiento","usa sport", "usa network", "documentales", "uk", "tv españa", "españa tdt", "tv republica dominicana", "tv nicaragua", "tv bolivia", "tv paraguay", "tv costa rica", "tv el salvador", "tv honduras", "tv cuba", "tv argentina", "tv venezuela", "tv ecuador", "tv uruguay", "tv colombia", "tv peru", "tv guatemala", "tv puerto rico", "tv chile", "regionales", "tv italia", "tv panamá"],
+    },
+    'gama': {
+        'env_var': 'URL_009',
+        'artist': 'Gama',
+        'output_path': 'country/others/test/gama',
+        'use_picons': False,
+        'filter_type': 'skip_only',
+        'skip_keywords': ["canales-adultos", "adultos", "adult", "porn", "radio", "vod", "vod-", "*vod", "accion", "se-", "se ","western", "telenovelas","mus♪ca☊", "infantil", "24/7"],
+    },
+    'box': {
+        'env_var': 'URL_012',
+        'artist': 'Box',
+        'output_path': 'country/others/test/box',
+        'use_picons': False,
+        'filter_type': 'skip_only',
+        'skip_keywords': ["canales-adultos", "adultos", "adult", "porn", "radio"],
+    },
+    'lunar': {
+        'env_var': 'URL_013',
+        'artist': 'Lunar',
+        'output_path': 'country/others/test/lunar',
+        'use_picons': False,
+        'filter_type': 'skip_only',
+        'skip_keywords': ["canales-adultos", "adultos", "adult", "porn", "radio","24/7","247","tv shows","music"],
+    }
 }
 
 # ============================================================
@@ -331,53 +412,6 @@ def replace_country_codes(text):
         text = re.sub(re.escape(codigo_largo), codigo_corto, text, flags=re.IGNORECASE)
     return text
 
-def find_best_logo_match(title, picons_list):
-    if not picons_list:
-        return None
-    
-    title = replace_country_codes(title)
-    normalized_title = re.sub(r'\s+', '_', title).lower()
-
-    for logo in picons_list:
-        if logo['normalized_name'] == normalized_title:
-            return logo['url']
-    
-    best_match = None
-    max_score = 0
-    
-    for logo in picons_list:
-        logo_words = set(logo['normalized_name'].split('_'))
-        title_words = set(normalized_title.split('_'))
-        common_words = logo_words.intersection(title_words)
-        
-        if len(common_words) > 0:
-            score = len(common_words) / max(len(logo_words), len(title_words))
-            if score > max_score and score > 0.3:
-                max_score = score
-                best_match = logo
-    
-    if best_match and max_score > 0.5:
-        return best_match['url']
-    
-    if not best_match:
-        for logo in picons_list:
-            if len(logo['normalized_name']) >= 3:
-                if normalized_title in logo['normalized_name'] or logo['normalized_name'] in normalized_title:
-                    if len(logo['normalized_name']) >= len(normalized_title) * 0.6:
-                        return logo['url']
-    
-    if best_match:
-        return best_match['url']
-    
-    return None
-
-def get_in_title_logo(title):
-    title_lower = title.lower()
-    for variation, canonical in VARIATION_TO_CANONICAL.items():
-        if variation in title_lower:
-            return IN_TITLE_LOGOS.get(canonical)
-    return None
-
 def get_country(title):
     return "us"
 
@@ -476,12 +510,12 @@ def process_m3u_content(content, config, converter_name, picons_list, output_nam
     invalid_count = 0
     
     # Determinar configuración de salida
-    use_picons = config.get('use_picons', False)
-    fixed_logo = None
+    #use_picons = config.get('use_picons', False)
+    #fixed_logo = None
     
     if output_name and config['filter_type'] == 'multi_output':
         output_config = config['outputs'].get(output_name, {})
-        use_picons = output_config.get('use_picons', use_picons)
+        #use_picons = output_config.get('use_picons', use_picons)
         fixed_logo = output_config.get('fixed_logo')
     
     i = 0
@@ -517,37 +551,7 @@ def process_m3u_content(content, config, converter_name, picons_list, output_nam
                     i += 1
                     continue
                 
-                # Determinar logo con lógica optimizada
-                final_logo = None
-                
-                # PRIORIDAD 1: Logo fijo (para ABC, NBC, CBS, FOX)
-                if fixed_logo:
-                    final_logo = fixed_logo
-                    logos_fixed += 1
-                
-                # PRIORIDAD 2: Verificar palabras clave en título
-                elif use_picons:
-                    in_title_logo = get_in_title_logo(original_title)
-                    if in_title_logo:
-                        final_logo = in_title_logo
-                        logos_in_title += 1
-                
-                # PRIORIDAD 3: Buscar en repositorio de picons
-                if not final_logo and use_picons:
-                    matched_picon = find_best_logo_match(title, picons_list)
-                    if matched_picon:
-                        final_logo = matched_picon
-                        logos_found += 1
-                
-                # PRIORIDAD 4: Usar logo original del stream
-                if not final_logo and tvg_logo and tvg_logo.strip():
-                    final_logo = tvg_logo.replace("{", "").replace("}", "")
-                    logos_original += 1
-
-                # PRIORIDAD 5: Logo por defecto
-                if not final_logo:
-                    final_logo = default_logo
-                    logos_default += 1
+                final_logo = default_logo
 
                 entry = {
                     'Artist': config['artist'],
@@ -613,14 +617,14 @@ def main():
     for env_var, url in configured_urls.items():
         download_m3u(url, env_var)
     
-    # Obtener picons si algún conversor los necesita
-    picons_list = []
-    needs_picons = any(config.get('use_picons', False) or 
-                      (config.get('filter_type') == 'multi_output' and 
-                       any(out.get('use_picons', False) for out in config.get('outputs', {}).values()))
-                      for config in CONVERTERS.values())
-    if needs_picons:
-        picons_list = get_picons_list()
+    ## Obtener picons si algún conversor los necesita
+    #picons_list = []
+    #needs_picons = any(config.get('use_picons', False) or 
+    #                  (config.get('filter_type') == 'multi_output' and 
+    #                   any(out.get('use_picons', False) for out in config.get('outputs', {}).values()))
+    #                  for config in CONVERTERS.values())
+    #if needs_picons:
+    #    picons_list = get_picons_list()
     
     # Agrupar conversores
     merge_groups = {}
