@@ -364,20 +364,6 @@ def scan_directory_recursive(path=""):
             logos.extend(scan_directory_recursive(subfolder_path))
     return logos
 
-def get_picons_list():
-    global picons_cache
-    if picons_cache is not None:
-        return picons_cache
-    
-    try:
-        print("📦 Escaneando repositorio de logos...")
-        picons_cache = scan_directory_recursive()
-        #print(f"✓ Se encontraron {len(picons_cache)} picons disponibles\n")
-        return picons_cache
-    except Exception as e:
-        print(f"⚠ No se pudo obtener la lista de picons: {e}")
-        return []
-
 def download_m3u(url, env_var):
     global m3u_cache
     
@@ -490,7 +476,7 @@ def validate_entry(title, stream_url, tvg_logo):
     
     return True, ""
 
-def process_m3u_content(content, config, converter_name, picons_list, output_name=None):
+def process_m3u_content(content, config, output_name=None):
     """Procesa contenido M3U con soporte para multi-output"""
     
     lines = content.strip().split('\n')
@@ -562,7 +548,7 @@ def process_m3u_content(content, config, converter_name, picons_list, output_nam
         
         i += 1
     
-    return entries, skipped_count, logos_original, logos_found, logos_default, logos_in_title, logos_fixed, invalid_count
+    return entries, skipped_count, logos_original, invalid_count
 
 def generate_output(entries):
     output_lines = []
@@ -671,9 +657,8 @@ def main():
                     print(f"  ✗ No se pudo obtener contenido de {env_var}")
                     continue
                 
-                entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
-                    content, config, converter_name, picons_list
-                )
+                entries, skipped, orig, invalid = process_m3u_content(
+                    content, config, converter_name )
                 
                 all_entries.extend(entries)
                 total_skipped += skipped
@@ -741,8 +726,8 @@ def main():
             for output_name, output_config in config['outputs'].items():
                 #print(f"  📁 Procesando salida: {output_name}")
                 
-                entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
-                    content, config, converter_name, picons_list, output_name
+                entries, skipped, orig, invalid = process_m3u_content(
+                    content, config, converter_name, output_name
                 )
                 
                 if not entries:
@@ -799,9 +784,8 @@ def main():
                 failed += 1
                 continue
             
-            entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
-                content, config, converter_name, picons_list
-            )
+            entries, skipped, orig, invalid = process_m3u_content(
+                content, config, converter_name      )
             
             if not entries:
                 print(f"⚠ No se generaron entradas para {converter_name}\n")
