@@ -30,6 +30,119 @@ M3U_URLS = {
 }
 
 # ============================================================
+# ASIGNACIÓN ÚNICA DE VARIACIONES DE TITULOS EN STREAM
+# ============================================================
+
+EQUAL_NAMES = {
+    "sunday_ticket": ["sunday ticket", "nfl sunday ticket"],
+    "nba": ["nba", "brooklyn nets", "charlotte hornets", "cleveland cavaliers", "new york knicks", "miami heat", "orlando magic", "toronto raptors",
+            "atlanta hawks", "philadelphia 76ers", "boston celtics", "detroit pistons", "chicago bulls", "new orleans pelicans", "memphis grizzlies",
+            "washington wizards", "milwaukee bucks", "los angeles clippers", "utah jazz", "san antonio spurs", "dallas mavericks", "sacramento kings",
+            "phoenix suns", "minnesota timberwolves", "portland trail blazers","golden state warriors"],
+    "mlb": ["mlb"],
+    "nhl": ["nhl","chicago blackhawks","seattle kraken","sacramento kings","denver nuggets","vancouver canucks","nashville predators",
+            "edmonton oilers","st louis blues","pittsburgh penguins","toronto maple leafs","winnipeg jets","los angeles kings","detroit red wings",
+            "vegas golden knights","florida panthers","anaheim ducks","tampa bay lightning","colorado avalanche","boston bruins","new york islanders",
+            "utah mammoth","buffalo sabres","carolina hurricanes","new york rangers","philadelphia flyers","montreal canadiens","columbus blue jackets","calgary flames"],
+    "ufc": ["ufc"],
+    "wwe": ["wwe"],
+    "f1": ["formula 1", "^f1 ", "fórmula f1"],    
+    "sky_sports": ["cielo sport","sky","cielo evento"],
+    "mls": ["mls"],    
+    "liga_femenil_mx": ["liga femenil mx", "fem mx", "mx fem", "liga_femenil_mx", "liga mx fem"],
+    "liga mx": ["liga mx", "mx liga", "ligamx", "mxliga", "pachuca", "tigres uanl", "queretaro fc", "cd guadalajara", "atlas fc", "club leon",
+                "club tijuana", "cd toluca", "pumas unam", "atletico san luis"],
+    "lmp": ["lmp", "lmp_"],
+    "lmb": ["lmb"],
+    "liga_expansion_mx": ["expansión mx", "exp mx"],
+    "epl": ["premier league", "epl "],
+    "serie_a": ["serie a", "seriea"],
+    "ligue_1": ["ligue 1", "ligue1"],
+    "bundesliga": ["bundesliga"],
+    "la_liga_smartbank": ["laliga smartbank"],
+    "la_liga": ["laliga","laligaes"],    
+    "ucl_women": ["ucl women","champions league women"],
+    "afc": ["afc ","afc champions", "afc champions league"],        
+    "ucl": ["ucl ","champions league"],
+    "uel": ["uefa europa","uel ","europa league"],
+    "efl": ["efl ", "efl cup"],
+    "dfb": ["dfb_pokal"],
+    "sudamericana": ["sudamericana"],
+    "libertadores": ["libertadores"],
+    "championship": ["championship"],
+    "caribbean_cup": ["concacaf caribbean cup", "copa del caribe"],
+    "eredivisie": ["eredivisie"],
+    "argentina": ["argentina","arg "],
+    "colombia": ["colombia","col "],
+    "ecuador": ["ecuador","ecu "],
+    "chile": ["chile ", "cl "],
+    "honduras": ["honduras "],
+    "guatemala": ["guatemala "],
+    "costa rica": ["costa rica ", "cr "],
+    "brasileirão": ["brasileirão"],
+    "uruguay": ["uruguay"],
+    "el salvador": ["el salvador"],
+    "perú": ["perú"],
+    "saudi": ["saudi "],
+    "polonia": ["polonia"],
+    "portugal": ["portugal", "pt "],
+    "amistoso": ["amistoso"]
+}
+
+# ============================================================
+# PATH DE LOGOS A CAMBIAR
+# ============================================================
+
+IN_TITLE_LOGOS = {
+    "sunday_ticket": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_sundayticket[.]png",
+    "nba": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba[.]png",
+    "mlb": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mlb[.]png",
+    "ufc": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ufc_fight_pass[.]png",
+    "nhl": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png",
+    "wwe": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_wwe_network[.]png",
+    "sky_sports": "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_sky_sports[.]png",
+    "liga_femenil_mx": "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_liga_femenil_mx[.]png",
+    "liga mx": "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_liga_mx[.]png",
+    "lmp": "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_beisbol_lmp[.]png",
+    "lmb": "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_beisbol_lmb[.]png",
+    "liga_expansion_mx": "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_expansion_mx[.]png",
+    "epl": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_premier_league[.]png",
+    "efl": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_efl_football_league[.]png",
+    "serie_a": "https://raw.githubusercontent.com/jsosao/bics/main/picons/it_serie_a[.]png",
+    "la_liga_smartbank": "https://raw.githubusercontent.com/jsosao/bics/main/picons/sp_la_liga_smartbank[.]png",
+    "la_liga": "https://raw.githubusercontent.com/jsosao/bics/main/picons/sp_la_liga[.]png",
+    "bundesliga": "https://raw.githubusercontent.com/jsosao/bics/main/picons/de_bundesliga[.]png",
+    "ligue_1": "https://raw.githubusercontent.com/jsosao/bics/main/picons/fr_ligue_1[.]png",
+    "mls": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mls[.]png",
+    "f1": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_f1[.]png",
+    "ucl_women": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uefa_women_champions[.]png",
+    "ucl": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uefa_champions[.]png",
+    "afc": "https://raw.githubusercontent.com/jsosao/bics/main/picons/afc_champions[.]png",
+    "uel": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uel_champions[.]png",
+    "dfb": "https://raw.githubusercontent.com/jsosao/bics/main/picons/po_dfb_pokal[.]png",
+    "sudamericana": "https://raw.githubusercontent.com/jsosao/bics/main/picons/conmebol_sudamericana[.]png",
+    "libertadores": "https://raw.githubusercontent.com/jsosao/bics/main/picons/conmebol_libertadores[.]png",
+    "caribbean cup": "https://raw.githubusercontent.com/jsosao/bics/main/picons/concacaf_caribbean_cup[.]png",
+    "championship": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_championship_epl[.]png",  
+    "eredivisie": "https://raw.githubusercontent.com/jsosao/bics/main/picons/nl_eredivise[.]png",
+    "ecuador": "https://raw.githubusercontent.com/jsosao/bics/main/picons/ec_liga_pro[.]png",
+    "colombia": "https://raw.githubusercontent.com/jsosao/bics/main/picons/co_dimayor[.]png",
+    "chile": "https://raw.githubusercontent.com/jsosao/bics/main/picons/cl_liga_futbol[.]png",
+    "argentina": "https://raw.githubusercontent.com/jsosao/bics/main/picons/ar_primera_nacional[.]png",
+    "el salvador": "https://raw.githubusercontent.com/jsosao/bics/main/picons/sv_primera_division[.]png",
+    "honduras": "https://raw.githubusercontent.com/jsosao/bics/main/picons/hn_primera_division[.]png",
+    "guatemala": "https://raw.githubusercontent.com/jsosao/bics/main/picons/gt_primera_division[.]png",
+    "costa rica": "https://raw.githubusercontent.com/jsosao/bics/main/picons/cr_promerica[.]png",
+    "brasileirão": "https://raw.githubusercontent.com/jsosao/bics/main/picons/br_brasileirao[.]png",
+    "uruguay": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uy_primera_division[.]png",
+    "perú": "https://raw.githubusercontent.com/jsosao/bics/main/picons/pe_primera_division[.]png",
+    "saudi": "https://raw.githubusercontent.com/jsosao/bics/main/picons/sa_primera_division[.]png",
+    "polonia": "https://raw.githubusercontent.com/jsosao/bics/main/picons/pl_primera_division[.]png",
+    "portugal": "https://raw.githubusercontent.com/jsosao/bics/main/picons/pt_primera_division[.]png",
+    "amistoso": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_fifa_amistoso[.]png"    
+}
+
+# ============================================================
 # CONFIGURACIÓN DE CONVERSORES OPTIMIZADA
 # ============================================================
 
@@ -322,7 +435,7 @@ VARIATION_TO_CANONICAL = {}
 for canonical, variations in EQUAL_NAMES.items():
     for variation in variations:
         VARIATION_TO_CANONICAL[variation.lower()] = canonical
-        
+
 # ============================================================
 # FUNCIONES AUXILIARES
 # ============================================================
@@ -376,7 +489,7 @@ def get_picons_list():
     try:
         print("📦 Escaneando repositorio de logos...")
         picons_cache = scan_directory_recursive()
-        print(f"✓ Se encontraron {len(picons_cache)} picons disponibles\n")
+        #print(f"✓ Se encontraron {len(picons_cache)} picons disponibles\n")
         return picons_cache
     except Exception as e:
         print(f"⚠ No se pudo obtener la lista de picons: {e}")
@@ -542,7 +655,8 @@ def validate_entry(title, stream_url, tvg_logo):
     return True, ""
 
 def process_m3u_content(content, config, converter_name, picons_list, output_name=None):
-   
+    """Procesa contenido M3U con soporte para multi-output"""
+    
     lines = content.strip().split('\n')
     entries = []
     skipped_count = 0
@@ -751,9 +865,9 @@ def main():
                     print(f"  ✗ No se pudo obtener contenido de {env_var}")
                     continue
                 
-            entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
-                content, config, converter_name, picons_list
-            )
+                entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
+                    content, config, converter_name, picons_list
+                )
                 
                 all_entries.extend(entries)
                 total_skipped += skipped
@@ -821,9 +935,9 @@ def main():
             for output_name, output_config in config['outputs'].items():
                 #print(f"  📁 Procesando salida: {output_name}")
                 
-            entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
-                content, config, converter_name, picons_list
-            )
+                entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
+                    content, config, converter_name, picons_list, output_name
+                )
                 
                 if not entries:
                     print(f"    ⚠ Sin entradas para {output_name}")
@@ -920,7 +1034,7 @@ def main():
     print("✓ CONVERSIÓN COMPLETADA")
     print("="*60)
     print(f"Exitosos: {successful} | Fallidos: {failed}")
-    print(f"Descargas de M3U realizadas: {len(configured_urls)}")
+    print(f"Descargas realizadas: {len(configured_urls)}")
     print("="*60)
     
     return 0 if failed == 0 else 1
