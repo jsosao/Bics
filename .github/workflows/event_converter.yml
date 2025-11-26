@@ -11,7 +11,8 @@ on:
   
   # Ejecutar automáticamente cada 2 horas
   schedule:
-    - cron: '0 */2 * * *'
+    #- cron: '0 */2 * * *'
+    - cron: '0 0,2,4,6,8,10 * * *'
   
   # Ejecutar en cada push a main (opcional)
   # push:
