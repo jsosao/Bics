@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-Unified M3U Converter - Optimized Version
-Convierte múltiples archivos M3U a formato personalizado
-Descarga cada URL una sola vez y genera múltiples salidas
-"""
 
 import urllib.request
 import re
@@ -208,7 +203,7 @@ CONVERTERS = {
         'filter_type': 'include_exclude',
         'skip_keywords': ["canales-adultos", "adultos", "adult", "cartelera", "estrenos", "disney", "recien", "cine de oro", "marvel", "radio", "religiosos", "infantil", "kids", "vod", "serie", "novelas-", "24/7", "247", "musica"],
         'include_keywords': ["cine", "cultura", "deportes", "canales", "entretenimiento", ".hbo", "noticias", "(eventos)"]
-    }
+    },
     'pass': {
         'env_var': 'URL_011',
         'artist': 'Pass',
