@@ -695,7 +695,7 @@ def main():
                 total_fixed += fixed
                 total_invalid += invalid
                 
-                print(f"  ✓ Canales obtenidos: {len(entries)} | Omitidos: {skipped} | Inválidos: {invalid}")
+                print(f"  ✓ Obtenidos: {len(entries)} | Omitidos: {skipped} | Inválidos: {invalid}")
             
             if not all_entries:
                 print(f"\n⚠ No se generaron entradas para el grupo {merge_group}\n")
@@ -708,7 +708,7 @@ def main():
             
             print(f"\n{'='*60}")
             print(f"✓ Ruta fusionada: {output_config['output_path']}")
-            print(f"✓ Total de canales fusionados: {len(all_entries)} | Total omitidos: {total_skipped}")
+            print(f"✓ Total de fusionados: {len(all_entries)} | Total omitidos: {total_skipped}")
             
             total = len(all_entries) if all_entries else 1
             stats = f"📊 Logos - "
@@ -765,7 +765,7 @@ def main():
                 save_output(output_path, output_content)
                 
                 print(f"    ✓ Ruta: {output_path}")
-                print(f"    ✓ Canales: {len(entries)} | Omitidos: {skipped} | Inválidos: {invalid}")
+                print(f"    ✓ Can: {len(entries)} | Omitidos: {skipped} | Inválidos: {invalid}")
                 
                 total = len(entries) if entries else 1
                 stats = f"    📊 Logos - "
@@ -823,7 +823,7 @@ def main():
             save_output(config['output_path'], output_content)
             
             print(f"\n✓ Ruta: {config['output_path']}")
-            print(f"✓ Canales: {len(entries)} | Omitidos: {skipped} | Inválidos: {invalid}")
+            print(f"✓ Can: {len(entries)} | Omitidos: {skipped} | Inválidos: {invalid}")
             
             total = len(entries) if entries else 1
             stats = f"📊 Logos - "
