@@ -300,14 +300,12 @@ CONVERTERS = {
 # ============================================================
 
 CUSTOM_FILTERS = {
-    'alfa_eventos': lambda group, title: "(eventos)" in group.lower() or "cielo sport" in title.lower() or "cielo evento" in title.lower(),
-    'pass_eventos': lambda group, title: any(x in group.lower() for x in ["nba", "nhl", "nfl", "mlb", "ncaaf"]),
-    'alfa_fox': lambda group, title: any(x in title.lower() for x in ["fox sports", "fox deportes", "fox soccer", "foxone"]),
-    'alfa_espn': lambda group, title: "espn" in title.lower(),
-    'alfa_tudn': lambda group, title: "tudn" in title.lower(),    
-    'alfa_tu': lambda group, title: any(x in title.lower() for x in ["telemundo", "univision", "nbc universo", "unimas", "galavision"]),
-    'alfa_cartelera_2025': lambda group, title: any(x in group.lower() for x in ["cartelera 2025"]),
-    'alfa_depo': lambda group, title: "deportes" in group.lower(),
+    'box_depo': lambda group, title: "sport" in group.lower(),
+    'pgefford_depo': lambda group, title: any(x in title.lower() for x in ["sport", "espn", "tudn", "dazn", "deportes"]) or any(x in group.lower() for x in ["sport", "deportes", "liga"]),
+    'cord_abc': lambda group, title: "abc" in title.lower() and not any(x in group.lower() for x in ["radio", "canada"]),
+    'cord_cbs': lambda group, title: "cbs" in title.lower() and not any(x in group.lower() for x in ["radio", "canada", "uk", "ncaab", "sports"]),
+    'cord_nbc': lambda group, title: "nbc" in title.lower() and not any(x in group.lower() for x in ["radio", "canada", "sports"]),
+    'cord_fox': lambda group, title: "fox" in title.lower() and not any(x in group.lower() for x in ["radio", "canada", "australia", "sports", "movie", "extra"]),
 }
 
 # ============================================================
@@ -319,6 +317,12 @@ picons_base_url = "https://raw.githubusercontent.com/jsosao/Bics/main/picons/"
 picons_cache = None
 m3u_cache = {}
 
+# Crear diccionario invertido para búsqueda rápida
+VARIATION_TO_CANONICAL = {}
+for canonical, variations in EQUAL_NAMES.items():
+    for variation in variations:
+        VARIATION_TO_CANONICAL[variation.lower()] = canonical
+        
 # ============================================================
 # FUNCIONES AUXILIARES
 # ============================================================
@@ -364,6 +368,20 @@ def scan_directory_recursive(path=""):
             logos.extend(scan_directory_recursive(subfolder_path))
     return logos
 
+def get_picons_list():
+    global picons_cache
+    if picons_cache is not None:
+        return picons_cache
+    
+    try:
+        print("📦 Escaneando repositorio de logos...")
+        picons_cache = scan_directory_recursive()
+        print(f"✓ Se encontraron {len(picons_cache)} picons disponibles\n")
+        return picons_cache
+    except Exception as e:
+        print(f"⚠ No se pudo obtener la lista de picons: {e}")
+        return []
+
 def download_m3u(url, env_var):
     global m3u_cache
     
@@ -391,6 +409,53 @@ def replace_country_codes(text):
     for codigo_largo, codigo_corto in reemplazos.items():
         text = re.sub(re.escape(codigo_largo), codigo_corto, text, flags=re.IGNORECASE)
     return text
+
+def find_best_logo_match(title, picons_list):
+    if not picons_list:
+        return None
+    
+    title = replace_country_codes(title)
+    normalized_title = re.sub(r'\s+', '_', title).lower()
+
+    for logo in picons_list:
+        if logo['normalized_name'] == normalized_title:
+            return logo['url']
+    
+    best_match = None
+    max_score = 0
+    
+    for logo in picons_list:
+        logo_words = set(logo['normalized_name'].split('_'))
+        title_words = set(normalized_title.split('_'))
+        common_words = logo_words.intersection(title_words)
+        
+        if len(common_words) > 0:
+            score = len(common_words) / max(len(logo_words), len(title_words))
+            if score > max_score and score > 0.3:
+                max_score = score
+                best_match = logo
+    
+    if best_match and max_score > 0.5:
+        return best_match['url']
+    
+    if not best_match:
+        for logo in picons_list:
+            if len(logo['normalized_name']) >= 3:
+                if normalized_title in logo['normalized_name'] or logo['normalized_name'] in normalized_title:
+                    if len(logo['normalized_name']) >= len(normalized_title) * 0.6:
+                        return logo['url']
+    
+    if best_match:
+        return best_match['url']
+    
+    return None
+
+def get_in_title_logo(title):
+    title_lower = title.lower()
+    for variation, canonical in VARIATION_TO_CANONICAL.items():
+        if variation in title_lower:
+            return IN_TITLE_LOGOS.get(canonical)
+    return None
 
 def get_country(title):
     return "us"
@@ -476,9 +541,8 @@ def validate_entry(title, stream_url, tvg_logo):
     
     return True, ""
 
-def process_m3u_content(content, config, output_name=None):
-    """Procesa contenido M3U con soporte para multi-output"""
-    
+def process_m3u_content(content, config, converter_name, picons_list, output_name=None):
+   
     lines = content.strip().split('\n')
     entries = []
     skipped_count = 0
@@ -490,12 +554,12 @@ def process_m3u_content(content, config, output_name=None):
     invalid_count = 0
     
     # Determinar configuración de salida
-    #use_picons = config.get('use_picons', False)
-    #fixed_logo = None
+    use_picons = config.get('use_picons', False)
+    fixed_logo = None
     
     if output_name and config['filter_type'] == 'multi_output':
         output_config = config['outputs'].get(output_name, {})
-        #use_picons = output_config.get('use_picons', use_picons)
+        use_picons = output_config.get('use_picons', use_picons)
         fixed_logo = output_config.get('fixed_logo')
     
     i = 0
@@ -531,7 +595,37 @@ def process_m3u_content(content, config, output_name=None):
                     i += 1
                     continue
                 
-                final_logo = default_logo
+                # Determinar logo con lógica optimizada
+                final_logo = None
+                
+                # PRIORIDAD 1: Logo fijo (para ABC, NBC, CBS, FOX)
+                if fixed_logo:
+                    final_logo = fixed_logo
+                    logos_fixed += 1
+                
+                # PRIORIDAD 2: Verificar palabras clave en título
+                elif use_picons:
+                    in_title_logo = get_in_title_logo(original_title)
+                    if in_title_logo:
+                        final_logo = in_title_logo
+                        logos_in_title += 1
+                
+                # PRIORIDAD 3: Buscar en repositorio de picons
+                if not final_logo and use_picons:
+                    matched_picon = find_best_logo_match(title, picons_list)
+                    if matched_picon:
+                        final_logo = matched_picon
+                        logos_found += 1
+                
+                # PRIORIDAD 4: Usar logo original del stream
+                if not final_logo and tvg_logo and tvg_logo.strip():
+                    final_logo = tvg_logo.replace("{", "").replace("}", "")
+                    logos_original += 1
+
+                # PRIORIDAD 5: Logo por defecto
+                if not final_logo:
+                    final_logo = default_logo
+                    logos_default += 1
 
                 entry = {
                     'Artist': config['artist'],
@@ -548,7 +642,7 @@ def process_m3u_content(content, config, output_name=None):
         
         i += 1
     
-    return entries, skipped_count, logos_original, invalid_count
+    return entries, skipped_count, logos_original, logos_found, logos_default, logos_in_title, logos_fixed, invalid_count
 
 def generate_output(entries):
     output_lines = []
@@ -597,14 +691,14 @@ def main():
     for env_var, url in configured_urls.items():
         download_m3u(url, env_var)
     
-    ## Obtener picons si algún conversor los necesita
-    #picons_list = []
-    #needs_picons = any(config.get('use_picons', False) or 
-    #                  (config.get('filter_type') == 'multi_output' and 
-    #                   any(out.get('use_picons', False) for out in config.get('outputs', {}).values()))
-    #                  for config in CONVERTERS.values())
-    #if needs_picons:
-    #    picons_list = get_picons_list()
+    # Obtener picons si algún conversor los necesita
+    picons_list = []
+    needs_picons = any(config.get('use_picons', False) or 
+                      (config.get('filter_type') == 'multi_output' and 
+                       any(out.get('use_picons', False) for out in config.get('outputs', {}).values()))
+                      for config in CONVERTERS.values())
+    if needs_picons:
+        picons_list = get_picons_list()
     
     # Agrupar conversores
     merge_groups = {}
@@ -657,8 +751,9 @@ def main():
                     print(f"  ✗ No se pudo obtener contenido de {env_var}")
                     continue
                 
-                entries, skipped, orig, invalid = process_m3u_content(
-                    content, config, converter_name )
+            entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
+                content, config, converter_name, picons_list
+            )
                 
                 all_entries.extend(entries)
                 total_skipped += skipped
@@ -726,9 +821,9 @@ def main():
             for output_name, output_config in config['outputs'].items():
                 #print(f"  📁 Procesando salida: {output_name}")
                 
-                entries, skipped, orig, invalid = process_m3u_content(
-                    content, config, converter_name, output_name
-                )
+            entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
+                content, config, converter_name, picons_list
+            )
                 
                 if not entries:
                     print(f"    ⚠ Sin entradas para {output_name}")
@@ -784,8 +879,9 @@ def main():
                 failed += 1
                 continue
             
-            entries, skipped, orig, invalid = process_m3u_content(
-                content, config, converter_name      )
+            entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
+                content, config, converter_name, picons_list
+            )
             
             if not entries:
                 print(f"⚠ No se generaron entradas para {converter_name}\n")
