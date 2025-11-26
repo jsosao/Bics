@@ -9,7 +9,7 @@ on:
         required: false
         default: ''
   
-  # Ejecutar automáticamente cada 2 horas
+  # Ejecutar automáticamente cada 06,07,10,12,14 horas central
   schedule:
     #- cron: '0 */2 * * *'
     - cron: '0 12,14,16,18,20 * * *'
