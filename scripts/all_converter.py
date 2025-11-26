@@ -14,7 +14,7 @@ from datetime import datetime
 # ============================================================
 
 M3U_URLS = {
-    'URL_002': os.environ.get('URL_001', '')
+    'URL_002': os.environ.get('URL_002', '')
     'URL_003': os.environ.get('URL_003', '')
     'URL_004': os.environ.get('URL_004', '')
     'URL_005': os.environ.get('URL_005', '')
