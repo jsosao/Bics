@@ -1,4 +1,4 @@
-name: Converter Workflow
+name: Converter Eventos Workflow
 
 on:
   # Ejecutar manualmente desde la interfaz de GitHub
@@ -19,7 +19,7 @@ on:
   #     - main
   #   paths:
   #     - '.github/workflows/converter.yml'
-  #     - 'scripts/converter.py'
+  #     - 'scripts/converter_eventos.py'
 
 jobs:
   convert-m3u:
@@ -48,48 +48,35 @@ jobs:
       
       - name: Use Python script from repository
         run: |
-          # El script ya debe estar en el repositorio en scripts/converter.py
-          chmod +x scripts/converter.py
+          chmod +x scripts/converter_eventos.py
       
       - name: Run M3U Converter
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           URL_001: ${{ secrets.URL_001 }}
-          URL_002: ${{ secrets.URL_002 }}
-          URL_003: ${{ secrets.URL_003 }}
-          URL_004: ${{ secrets.URL_004 }}
-          URL_005: ${{ secrets.URL_005 }}
-          URL_006: ${{ secrets.URL_006 }}
-          URL_007: ${{ secrets.URL_007 }}
-          URL_008: ${{ secrets.URL_008 }}
-          URL_009: ${{ secrets.URL_009 }}
-          URL_010: ${{ secrets.URL_010 }}
           URL_011: ${{ secrets.URL_011 }}
-          URL_012: ${{ secrets.URL_012 }}
-          URL_013: ${{ secrets.URL_013 }}
-          URL_014: ${{ secrets.URL_014 }}
-          URL_015: ${{ secrets.URL_015 }}
           SELECTED_CONVERTERS: ${{ github.event.inputs.converters }}
         run: |
-          python scripts/converter.py
+          python scripts/converter_eventos.py
       
       - name: Configure Git
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-      
+
+
       - name: Commit and Push changes
         run: |
-          git add country/
+          git add country/sports/ country/others/
           if git diff --staged --quiet; then
             echo "No hay cambios para commitear"
           else
-            git commit -m "🤖 Auto-update iles - $(date +'%Y-%m-%d %H:%M:%S')"
+            git commit -m "🤖 Auto-update files - $(date +'%Y-%m-%d %H:%M:%S')"
             git push origin main
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
+
       - name: Upload artifacts (optional)
         if: always()
         uses: actions/upload-artifact@v4
