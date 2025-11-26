@@ -1,0 +1,88 @@
+name: All Converter Workflow
+
+on:
+  # Ejecutar manualmente desde la interfaz de GitHub
+  workflow_dispatch:
+    inputs:
+      converters:
+        description: 'Conversores a ejecutar (separados por coma, vacío = todos)'
+        required: false
+        default: ''
+  
+  # Ejecutar automáticamente todos los días a las 07:00 horas centro
+  schedule:
+    - cron: '0 1 * * *'
+  
+  # Ejecutar en cada push a main (opcional)
+  # push:
+  #   branches:
+  #     - main
+  #   paths:
+  #     - '.github/workflows/all_converter.yml'
+  #     - 'scripts/all_converter.py'
+
+jobs:
+  all-convert:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          # Si necesitas dependencias adicionales, agrégalas aquí
+          # pip install -r requirements.txt
+      
+      - name: Create script directory
+        run: mkdir -p scripts
+      
+      - name: Use Python script from repository
+        run: |
+          chmod +x scripts/all_converter.py
+      
+      - name: Run All Converter
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          URL_001: ${{ secrets.URL_001 }}
+          URL_011: ${{ secrets.URL_011 }}
+          SELECTED_CONVERTERS: ${{ github.event.inputs.converters }}
+        run: |
+          python scripts/all_converter.py
+      
+      - name: Configure Git
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+
+      - name: Commit and Push changes
+        run: |
+          git add country/
+          if git diff --staged --quiet; then
+            echo "No hay cambios para commitear"
+          else
+            git commit -m "🤖 Auto-update files - $(date +'%Y-%m-%d %H:%M:%S')"
+            git push origin main
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload artifacts (optional)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: conversion-logs
+          path: |
+            country/
+            *.log
+          retention-days: 7
