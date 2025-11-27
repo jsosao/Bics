@@ -11,6 +11,8 @@ from datetime import datetime
 
 # Al inicio del script, crear una única timestamp para toda la ejecución
 EXECUTION_TIMESTAMP = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+central_offset = timedelta(hours=-6)
+EXECUTION_TIMESTAMP = EXECUTION_TIMESTAMP + central_offset
 
 # ============================================================
 # CONFIGURACIÓN DE URLs (desde variables de entorno)
