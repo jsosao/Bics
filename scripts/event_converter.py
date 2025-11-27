@@ -306,7 +306,7 @@ def get_picons_list():
     try:
         print("📦 Escaneando repositorio de logos...")
         picons_cache = scan_directory_recursive()
-        #print(f"✓ Se encontraron {len(picons_cache)} picons disponibles\n")
+        print(f"✓ Se encontraron {len(picons_cache)} picons disponibles\n")
         return picons_cache
     except Exception as e:
         print(f"⚠ No se pudo obtener la lista de picons: {e}")
