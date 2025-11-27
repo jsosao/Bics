@@ -12,7 +12,7 @@ from datetime import timedelta
 
 
 # Al inicio del script, crear una única timestamp para toda la ejecución
-EXECUTION_TIMESTAMP = (datetime.now() - timedelta(hours=6)).strftime('%Y-%m-%d %H:%M:%S')
+EXECUTION_TIMESTAMP = (datetime.now() - timedelta(hours=6)).strftime('%d-%m-%Y %H:%M:%S')
 
 
 # ============================================================
