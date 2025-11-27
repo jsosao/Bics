@@ -7,19 +7,11 @@ import json
 import unicodedata
 from pathlib import Path
 import base64
-from datetime import datetime, timezone
-from zoneinfo import ZoneInfo
+from datetime import datetime
 
 # Al inicio del script, crear una única timestamp para toda la ejecución
-
-# Convertir a zona horaria
-central_tz = ZoneInfo('America/Mexico_City')
-central_time = utc_now.astimezone(central_tz)
-
 # Formatear
-EXECUTION_TIMESTAMP = central_time.strftime('%Y-%m-%d %H:%M:%S')
-
-#EXECUTION_TIMESTAMP = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+#EXECUTION_TIMESTAMP = datetime.now().strftime('%Y-%m-%d %H:%M:%S') - 6
 
 # ============================================================
 # CONFIGURACIÓN DE URLs (desde variables de entorno)
