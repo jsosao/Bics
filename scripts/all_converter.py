@@ -473,7 +473,7 @@ def scan_directory_recursive(path=""):
             logos.append({
                 'name': logo_name,
                 'normalized_name': normalize_text(logo_name),
-                'url': logo_url,
+                'url': logo_url.replace(".png", "[.]png"),
                 'path': path
             })
         elif item['type'] == 'dir' and item['name'] not in ['country']:
