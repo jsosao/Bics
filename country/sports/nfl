@@ -5,7 +5,8 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_network[.]png"
     Stream: "http[:[/][/]]cord-cutter.net:8080[/]19174796[/]19174796[/]83724"
-    Live: true
+    Live: true 
+    Date: "27-11-2025 00:00:00"
 }
 {
     Artist: "web"
@@ -13,8 +14,9 @@
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_network[.]png"
-    Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]NFL_NETWORK[/]index[.]m3u8"
-    Live: true
+    Stream: "http[:[/][/]]fl61[.]moveonjoy[.]com[/]NFL_NETWORK[/]index[.]m3u8"
+    Live: true 
+    Date: "27-11-2025 00:00:00"
 }
 {
     Artist: "live"
@@ -23,7 +25,8 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_redzone[.]png"
     Stream: "http[:[/][/]]cord-cutter.net:8080[/]19174796[/]19174796[/]159118"
-    Live: true
+    Live: true 
+    Date: "27-11-2025 00:00:00"
 }
 {
     Artist: "live"
@@ -32,7 +35,8 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_redzone[.]png"
     Stream: "http[:[/][/]]cord-cutter.net:8080[/]19174796[/]19174796[/]159119"
-    Live: true
+    Live: true 
+    Date: "27-11-2025 00:00:00"
 }
 {
     Artist: "live"
@@ -41,7 +45,8 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_redzone[.]png"
     Stream: "http[:[/][/]]cord-cutter.net:8080[/]19174796[/]19174796[/]159120"
-    Live: true
+    Live: true 
+    Date: "27-11-2025 00:00:00"
 }
 {
     Artist: "Cord"
@@ -50,7 +55,8 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_thursday[.]png"
     Stream: "http[:[/][/]]fl1[.]moveonjoy[.]com[/]TSN_1[/]index[.]m3u8"
-    Live: true
+    Live: true 
+    Date: "27-11-2025 00:00:00"
 }
 {
     Artist: "Cord"
@@ -59,160 +65,8 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_thursday[.]png"
     Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]19174796[/]19174796[/]47444"
-    Live: true
-}
-{
-    Artist: "live"
-    Title: "THURSDAY NIGHT"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_thursday[.]png"
-    Stream: "http[:[/][/]]hostengine[.]live:25461[/]0895648[/]5683420[/]53985"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "NFL 1"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket[.]png"
-    Stream: "https[:[/][/]]fl1[.]moveonjoy[.]com[/]NFL_1[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "NFL 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket[.]png"
-    Stream: "https[:[/][/]]fl1[.]moveonjoy[.]com[/]NFL_2[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "NFL 3"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket[.]png"
-    Stream: "https[:[/][/]]fl1[.]moveonjoy[.]com[/]NFL_3[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "NFL 4"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket[.]png"
-    Stream: "https[:[/][/]]fl1[.]moveonjoy[.]com[/]NFL_4[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "NFL 5"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket[.]png"
-    Stream: "https[:[/][/]]fl1[.]moveonjoy[.]com[/]NFL_1[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "NFL 6"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket[.]png"
-    Stream: "https[:[/][/]]fl1[.]moveonjoy[.]com[/]NFL_6[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "NFL 7"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket[.]png"
-    Stream: "https[:[/][/]]fl1[.]moveonjoy[.]com[/]NFL_7[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "NFL 8"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket[.]png"
-    Stream: "https[:[/][/]]fl1[.]moveonjoy[.]com[/]NFL_8[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "NFL 9"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket[.]png"
-    Stream: "https[:[/][/]]fl1[.]moveonjoy[.]com[/]NFL_9[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "NFL 10"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket[.]png"
-    Stream: "https[:[/][/]]fl1[.]moveonjoy[.]com[/]NFL_10[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "NFL 11"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket[.]png"
-    Stream: "https[:[/][/]]fl1[.]moveonjoy[.]com[/]NFL_11[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "NFL 12"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket[.]png"
-    Stream: "https[:[/][/]]fl1[.]moveonjoy[.]com[/]NFL_12[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "NFL 13"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket[.]png"
-    Stream: "https[:[/][/]]fl1[.]moveonjoy[.]com[/]NFL_13[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "NFL 14"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket[.]png"
-    Stream: "https[:[/][/]]fl1[.]moveonjoy[.]com[/]NFL_14[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "NFL 15"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket[.]png"
-    Stream: "https[:[/][/]]fl1[.]moveonjoy[.]com[/]NFL_15[/]index[.]m3u8"
-    Live: true
-}
-{
-    Artist: "web"
-    Title: "NFL 16"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket[.]png"
-    Stream: "https[:[/][/]]fl1[.]moveonjoy[.]com[/]NFL_16[/]index[.]m3u8"
-    Live: true
+    Live: true 
+    Date: "27-11-2025 00:00:00"
 }
 {
     Artist: "Cord"
@@ -221,7 +75,8 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket_2[.]png"
     Stream: "http[:[/][/]]cord-cutter.net:8080[/]19174796[/]19174796[/]252010"
-    Live: true
+    Live: true 
+    Date: "27-11-2025 00:00:00"
 }
 {
     Artist: "Cord"
@@ -230,7 +85,8 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket_2[.]png"
     Stream: "http[:[/][/]]cord-cutter.net:8080[/]19174796[/]19174796[/]252011"
-    Live: true
+    Live: true 
+    Date: "27-11-2025 00:00:00"
 }
 {
     Artist: "Cord"
@@ -239,7 +95,8 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket_2[.]png"
     Stream: "http[:[/][/]]cord-cutter.net:8080[/]19174796[/]19174796[/]252012"
-    Live: true
+    Live: true 
+    Date: "27-11-2025 00:00:00"
 }
 {
     Artist: "Cord"
@@ -248,7 +105,8 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket_2[.]png"
     Stream: "http[:[/][/]]cord-cutter.net:8080[/]19174796[/]19174796[/]252013"
-    Live: true
+    Live: true 
+    Date: "27-11-2025 00:00:00"
 }
 {
     Artist: "Cord"
@@ -257,7 +115,8 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket_2[.]png"
     Stream: "http[:[/][/]]cord-cutter.net:8080[/]19174796[/]19174796[/]252014"
-    Live: true
+    Live: true 
+    Date: "27-11-2025 00:00:00"
 }
 {
     Artist: "Cord"
@@ -266,7 +125,8 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket_2[.]png"
     Stream: "http[:[/][/]]cord-cutter.net:8080[/]19174796[/]19174796[/]252015"
-    Live: true
+    Live: true 
+    Date: "27-11-2025 00:00:00"
 }
 {
     Artist: "Cord"
@@ -275,7 +135,8 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket_2[.]png"
     Stream: "http[:[/][/]]cord-cutter.net:8080[/]19174796[/]19174796[/]252016"
-    Live: true
+    Live: true 
+    Date: "27-11-2025 00:00:00"
 }
 {
     Artist: "Cord"
@@ -284,7 +145,8 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket_2[.]png"
     Stream: "http[:[/][/]]cord-cutter.net:8080[/]19174796[/]19174796[/]252017"
-    Live: true
+    Live: true 
+    Date: "27-11-2025 00:00:00"
 }
 {
     Artist: "Cord"
@@ -293,7 +155,8 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket_2[.]png"
     Stream: "http[:[/][/]]cord-cutter.net:8080[/]19174796[/]19174796[/]252018"
-    Live: true
+    Live: true 
+    Date: "27-11-2025 00:00:00"
 }
 {
     Artist: "Cord"
@@ -302,7 +165,8 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket_2[.]png"
     Stream: "http[:[/][/]]cord-cutter.net:8080[/]19174796[/]19174796[/]252019"
-    Live: true
+    Live: true 
+    Date: "27-11-2025 00:00:00"
 }
 {
     Artist: "Cord"
@@ -311,7 +175,8 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket_2[.]png"
     Stream: "http[:[/][/]]cord-cutter.net:8080[/]19174796[/]19174796[/]252020"
-    Live: true
+    Live: true 
+    Date: "27-11-2025 00:00:00"
 }
 {
     Artist: "Cord"
@@ -320,7 +185,8 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket_2[.]png"
     Stream: "http[:[/][/]]cord-cutter.net:8080[/]19174796[/]19174796[/]252021"
-    Live: true
+    Live: true 
+    Date: "27-11-2025 00:00:00"
 }
 {
     Artist: "Cord"
@@ -329,7 +195,18 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket_2[.]png"
     Stream: "http[:[/][/]]cord-cutter.net:8080[/]19174796[/]19174796[/]252022"
-    Live: true
+    Live: true 
+    Date: "27-11-2025 00:00:00"
+}
+{
+    Artist: "web"
+    Title: "NFL 16"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_sundayticket[.]png"
+    Stream: "https[:[/][/]]fl1[.]moveonjoy[.]com[/]NFL_16[/]index[.]m3u8"
+    Live: true 
+    Date: "27-11-2025 00:00:00"
 }
 {
     Artist: "web"
@@ -338,5 +215,6 @@
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_gamepass[.]png"
     Stream: "http[:[/][/]]vocotv[.]pro:80[/]live[/]gast[/]gast[/]259639.ts"
-    Live: true
+    Live: true 
+    Date: "27-11-2025 00:00:00"
 }
