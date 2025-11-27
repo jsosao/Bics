@@ -9,6 +9,9 @@ from pathlib import Path
 import base64
 from datetime import datetime
 
+# Al inicio del script, crear una única timestamp para toda la ejecución
+EXECUTION_TIMESTAMP = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
 # ============================================================
 # CONFIGURACIÓN DE URLs (desde variables de entorno)
 # ============================================================
@@ -589,6 +592,7 @@ def generate_output(entries):
         output_lines.append(f'    Live: {str(entry["Live"]).lower()}')
         output_lines.append(f'    Country: "{entry["Country"]}"')
         output_lines.append(f'    Tag: "{entry["Tag"]}"')
+        output_lines.append(f'    Date: "{EXECUTION_TIMESTAMP}"')
         output_lines.append('}')
     
     return '\n'.join(output_lines)
