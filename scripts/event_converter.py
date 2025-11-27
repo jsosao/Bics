@@ -284,7 +284,7 @@ def scan_directory_recursive(path=""):
     logos = []
     
     for item in contents:
-        if item['type'] == 'file' and item['name'].endswith('[.]png'):
+        if item['type'] == 'file' and item['name'].endswith('.png'):
             logo_url = picons_base_url + path.lstrip('/') + ('/' if path else '') + item['name']
             logo_name = item['name'].replace('[.]png', '')
             logos.append({
