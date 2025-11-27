@@ -11,7 +11,7 @@ on:
   
   # Ejecutar automáticamente todos los días a las 07:00 horas centro
   schedule:
-    - cron: '0 13 * * *'
+    - cron: '0 13,21 * * *'
   
   # Ejecutar en cada push a main (opcional)
   # push:
