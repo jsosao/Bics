@@ -4444,7 +4444,7 @@
 }
 {
     Artist: "1tv"
-    Title: "US Hallmark Drama"
+    Title: "US Hallmark family"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://www.heartlandweekend.com/wp-content/uploads/2019/03/1200x627-Hallmark-Drama-300x157.png"
@@ -14586,78 +14586,1266 @@
 }
 {
     Artist: "1tv"
-    Title: "NBA 01: Atlanta Hawks @ Washington Wizards  Home Stream  11252025 7:00 PM ET"
+    Title: "NBA 01: Detroit Pistons @ Boston Celtics  Home Stream  11262025 5:00 PM ET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255718"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255725"
     Live: true
     Country: "us"
     Tag: "nba"
 }
 {
     Artist: "1tv"
-    Title: "USA Real NBA 01: Atlanta Hawks vs Washington Wizards @ 07:00 PM EST"
+    Title: "USA Real NBA 01: DET Pistons VS BOS Celtics  @ 5:00 PM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255719"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255726"
     Live: true
     Country: "us"
     Tag: "nba"
 }
 {
     Artist: "1tv"
-    Title: "NBA 02: Atlanta Hawks @ Washington Wizards  Away Stream  11252025 7:00 PM ET"
+    Title: "NBA 02: Detroit Pistons @ Boston Celtics  Away Stream  11262025 5:00 PM ET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255720"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255727"
     Live: true
     Country: "us"
     Tag: "nba"
 }
 {
     Artist: "1tv"
-    Title: "USA Real NBA 02: Orlando Magic vs Philadelphia 76ers @ 08:00 PM EST"
+    Title: "USA Real NBA 02: MIN Timberwolves VS OKC Thunder  @ 7:30 PM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255721"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255728"
     Live: true
     Country: "us"
     Tag: "nba"
 }
 {
     Artist: "1tv"
-    Title: "USA Real NBA 03: LA Clippers vs Los Angeles Lakers @ 11:00 PM EST"
+    Title: "NBA 03: New York Knicks @ Charlotte Hornets  Away Stream  11262025 7:00 PM ET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255722"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255729"
     Live: true
     Country: "us"
     Tag: "nba"
 }
 {
     Artist: "1tv"
-    Title: "USA Real NHL 01: DAL VS EDM  @ 9:00 pm"
+    Title: "USA Real NBA 03: HOU Rockets VS GSW Warriors  @ 10:00 PM"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255723"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255730"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "1tv"
+    Title: "NBA 04: New York Knicks @ Charlotte Hornets  Home Stream  11262025 7:00 PM ET"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255731"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NBA 04: New York Knicks vs Charlotte Hornets @ 07:00 PM EST"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255732"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "1tv"
+    Title: "NBA 05: Minnesota Timberwolves @ Oklahoma City Thunder  Home Stream  11262025 7:30 PM ET"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255733"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NBA 05: Milwaukee Bucks vs Miami Heat @ 07:30 PM EST"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255734"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "1tv"
+    Title: "NBA 06: Minnesota Timberwolves @ Oklahoma City Thunder  Away Stream  11262025 7:30 PM ET"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255735"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NBA 06: Indiana Pacers vs Toronto Raptors @ 07:30 PM EST"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255736"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "1tv"
+    Title: "NBA 07: Indiana Pacers @ Toronto Raptors  Home Stream  11262025 7:30 PM ET"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255737"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NBA 07: Memphis Grizzlies vs New Orleans Pelicans @ 08:00 PM EST"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255738"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "1tv"
+    Title: "NBA 08: Indiana Pacers @ Toronto Raptors  Away Stream  11262025 7:30 PM ET"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255739"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NBA 08: San Antonio Spurs vs Portland Trail Blazers @ 10:00 PM EST"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255740"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "1tv"
+    Title: "NBA 09: Milwaukee Bucks @ Miami Heat  Home Stream  11262025 7:30 PM ET"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255741"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NBA 09: Phoenix Suns vs Sacramento Kings @ 10:00 PM EST"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255742"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "1tv"
+    Title: "NBA 10: Milwaukee Bucks @ Miami Heat  Away Stream  11262025 7:30 PM ET"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255743"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "1tv"
+    Title: "NBA 11: Memphis Grizzlies @ New Orleans Pelicans  Home Stream  11262025 8:00 PM ET"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255744"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "1tv"
+    Title: "NBA 12: Memphis Grizzlies @ New Orleans Pelicans  Away Stream  11262025 8:00 PM ET"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255745"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "1tv"
+    Title: "NBA 13: Phoenix Suns @ Sacramento Kings  Home Stream  11262025 10:00 PM ET"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255746"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "1tv"
+    Title: "NBA 14: Phoenix Suns @ Sacramento Kings  Away Stream  11262025 10:00 PM ET"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255747"
+    Live: true
+    Country: "us"
+    Tag: "nba"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NHL 01: CGY VS TBL  @ 7:00 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255748"
     Live: true
     Country: "us"
     Tag: "nhl"
 }
 {
     Artist: "1tv"
-    Title: "USA Real NHL 02: DAL VS EDM  @ 9:00 pm"
+    Title: "USA Real NHL 02: PHI VS FLA  @ 7:00 pm"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255724"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255749"
     Live: true
     Country: "us"
     Tag: "nhl"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NHL 03: BOS VS NYI  @ 7:00 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255750"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NHL 04: BOS VS NYI  @ 7:00 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255751"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NHL 05: WPG VS WSH  @ 7:00 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255752"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NHL 06: TOR VS CBJ  @ 7:00 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255753"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NHL 07: TOR VS CBJ  @ 7:00 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255754"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NHL 08: SJS VS COL  @ 9:00 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255755"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NHL 09: SJS VS COL  @ 9:00 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255756"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NHL 10: MTL VS UTA  @ 9:30 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255757"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NHL 11: DAL VS SEA  @ 10:00 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255758"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NHL 12: New York Rangers vs Carolina Hurricanes @ 07:00 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255759"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NHL 13: Buffalo Sabres vs Pittsburgh Penguins   @ 07:00 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255760"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NHL 14: St  Louis Blues vs New Jersey Devils  @ 07:00 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255761"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NHL 15: Nashville Predators vs Detroit Red Wings @ 07:00 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255762"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NHL 16: Minnesota Wild vs Chicago Blackhawks  @ 08:30 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255763"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NHL 17: Vancouver Canucks vs Anaheim Ducks @ 10:00 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255764"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "1tv"
+    Title: "USA Real NHL 18: Ottawa Senators vs Vegas Golden Knights @ 10:00 PM"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255765"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 001  YALE @ AMERICAN UNIVERSITY   11 26 11:00 AM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255766"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 002  24 VANDERBILT @ WESTERN KENTUCKY   11 26 12:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255767"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 003  BRYANT @ BOSTON UNIVERSITY   11 26 12:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255768"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 004  CENTRAL ARKANSAS @ GEORGIA STATE   11 26 12:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255769"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 005  EASTERN KENTUCKY @ MOREHEAD STATE   11 26 12:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255770"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 006  HOWARD @ PURDUE   11 26 12:00 PM  B1G"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255771"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 007  LOYOLA CHICAGO @ DEPAUL   11 26 12:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255772"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 008  MISERICORDIA @ CORNELL   11 26 12:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255773"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 009  TOWSON @ UC SAN DIEGO   11 26 12:00 PM  ESPN2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255774"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 010  ANDERSON  @ IU INDIANAPOLIS   11 26 1:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255775"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 011  BROWN @ NEW HAMPSHIRE   11 26 1:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255776"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 012  COLUMBIA INTERNATIONAL @ PRESBYTERIAN   11 26 1:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255777"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 013  DELAWARE @ LOYOLA MARYLAND   11 26 1:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255778"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 014  FORDHAM @ NIAGARA   11 26 1:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255779"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 015  MARYLAND EASTERN SHORE @ MOUNT ST  MARYS   11 26 1:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255780"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 016  NEW ORLEANS @ 20 TEXAS TECH   11 26 1:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255781"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 017  PRINCETON @ RHODE ISLAND   11 26 1:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255782"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 018  ROBERT MORRIS @ EASTERN MICHIGAN   11 26 1:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255783"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 019  SYRACUSE  @ IOWA STATE    11 26 1:00 PM  TNT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255784"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 020  4 TEXAS @ 3 UCLA   11 26 2:00 PM  TRUTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255785"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 021  APP STATE @ MERCER   11 26 2:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255786"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 022  HOUSTON CHRISTIAN @ NEW ORLEANS   11 26 2:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255787"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 023  MERCY @ BRYANT   11 26 2:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255788"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 024  OMAHA @ FLORIDA INTERNATIONAL   11 26 2:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255789"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 025  RENSSELAER @ UALBANY   11 26 2:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255790"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 026  ST  MARYS  @ HOWARD   11 26 2:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255791"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 027  TOWSON @ GEORGETOWN   11 26 2:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255792"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 028  UIC @ ROBERT MORRIS   11 26 2:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255793"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 029  UVA WISE @ LIBERTY   11 26 2:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255794"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 030  WOFFORD @ NORTHERN KENTUCKY   11 26 2:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255795"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 031  WORCESTER STATE @ HOLY CROSS   11 26 2:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255796"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 032  NORTHWESTERN @ 17 ILLINOIS   126 3:00 PM  BTN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255797"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 033  SIENA @ CORNELL   11 26 2:30 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255798"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 034  VALPARAISO @ UIC   126 3:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255799"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 035  WICHITA STATE @ TULSA   126 3:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255800"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 036  WISCONSIN @ 23 MINNESOTA   126 3:00 PM  B1G"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255801"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 037  SOUTHERN INDIANA @ VALPARAISO   11 26 3:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255802"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 038  TEXAS LUTHERAN @ INCARNATE WORD   11 26 3:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255803"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 039  NOTRE DAME @ HOUSTON    11 26 3:30 PM  TNT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255804"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 040  HARVARD @ BOSTON COLLEGE   11 26 4:00 PM  ACC EXTRA"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255805"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 041  LIPSCOMB @ MARSHALL   11 26 4:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255806"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 042  DUKE @ 2 SOUTH CAROLINA   11 26 4:30 PM  TRUTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255807"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 043  BRYANT @ BINGHAMTON   125 2:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255808"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 044  LIFE PACIFIC @ CAL STATE NORTHRIDGE   11 26 5:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255809"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 045  VERMONT @ PRINCETON   11 26 5:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255810"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 046  VIRGINIA TECH @ COLORADO STATE   11 26 5:00 PM  ESPNU"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255811"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 047  WAGNER @ MANHATTAN   11 26 5:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255812"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 048  SETON HALL @ WASHINGTON STATE   11 26 5:30 PM  ESPN2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255813"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 049  CENTRAL STATE  @ DUQUESNE   11 26 6:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255814"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 050  BRADLEY VS  MISSOURI STATE  022907:30PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255815"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 051  SAM HOUSTON @ IDAHO STATE   11 26 6:30 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255816"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 052  COLUMBIA @ FAIRFIELD   11 26 7:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255817"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 053  EASTERN MICHIGAN @ CINCINNATI   11 26 7:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255818"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 054  HOUSTON CHRISTIAN @ THE CITADEL   11 26 7:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255819"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 055  PEPPERDINE @ FRESNO STATE   11 26 7:00 PM  CBSSN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255820"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 056  KANSAS @ TENNESSEE    11 26 7:00 PM  TNT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255821"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 057  TENNESSEE TECH @ 19 KENTUCKY   11 26 7:00 PM  SEC NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255822"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 057  TENNESSEE TECH @ 19 KENTUCKY   11 26 7:00 PM  SEC NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255823"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 059  INDIANA STATE @ LOUISIANA TECH   11 26 7:30 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255824"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 060  SAINT MARYS @ WICHITA STATE   11 26 7:30 PM  ESPN2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255825"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 061  RHODE ISLAND @ TEMPLE   11 26 7:30 PM  ESPNU"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255826"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 062  WESTERN ILLINOIS @ 11 IOWA   11 26 7:30 PM  B1G"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255827"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 063  SOUTHEAST MISSOURI STATE @ NORTHERN ARIZONA   11 26 8:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255828"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 064  SOUTHERN ILLINOIS @ MEMPHIS   11 26 8:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255829"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 065  ST JOHNS @ AUBURN    11 26 8:00 PM  TRUTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255830"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 066  CAL STATE NORTHRIDGE @ IDAHO   11 26 9:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255831"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 067  NJIT @ 6 LOUISVILLE   11 26 9:00 PM  ACC NETWORK"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255832"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 068  WEBER STATE @ UTAH   11 26 9:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255833"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 069  23 NC STATE @    11 26 9:30 PM  ESPN2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255834"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 070  GONZAGA @ MICHIGAN    11 26 9:30 PM  TNT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255835"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 071  LONG BEACH STATE @ PORTLAND   11 26 10:00 PM  ESPN"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255836"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 072  BAYLOR @ SAN DIEGO STATE   11 26 10:30 PM  TRUTV"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255837"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 073  BOISE STATE @    11 26 11:59 PM  ESPN2"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255838"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
+}
+{
+    Artist: "1tv"
+    Title: "NCAAB 074  MARYLAND @ ALABAMA    11 26 11:59 PM  TNT"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
+    Stream: "http[:[[/]][[/]]]1tv41[.]icu:8080[/]53892204[/]53892204[/]255839"
+    Live: true
+    Country: "us"
+    Tag: "ncaab"
 }
