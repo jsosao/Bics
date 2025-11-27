@@ -290,7 +290,7 @@ def scan_directory_recursive(path=""):
             logos.append({
                 'name': logo_name,
                 'normalized_name': normalize_text(logo_name),
-                'url': logo_url,
+                'url': logo_url.replace(".png", "[.]png"),
                 'path': path
             })
         elif item['type'] == 'dir' and item['name'] not in ['country']:
@@ -349,7 +349,6 @@ def find_best_logo_match(title, picons_list):
 
     for logo in picons_list:
         if logo['normalized_name'] == normalized_title:
-            url = url.replace(".png", "[.]png")
             return logo['url']
     
     best_match = None
@@ -367,7 +366,6 @@ def find_best_logo_match(title, picons_list):
                 best_match = logo
     
     if best_match and max_score > 0.5:
-        url = url.replace(".png", "[.]png")        
         return best_match['url']
     
     if not best_match:
@@ -375,11 +373,9 @@ def find_best_logo_match(title, picons_list):
             if len(logo['normalized_name']) >= 3:
                 if normalized_title in logo['normalized_name'] or logo['normalized_name'] in normalized_title:
                     if len(logo['normalized_name']) >= len(normalized_title) * 0.6:
-                        url = url.replace(".png", "[.]png")
                         return logo['url']
     
     if best_match:
-        url = url.replace(".png", "[.]png")
         return best_match['url']
     
     return None
