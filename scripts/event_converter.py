@@ -537,7 +537,7 @@ def process_m3u_content(content, config, converter_name, picons_list, output_nam
                 # PRIORIDAD 2: Verificar palabras clave en título
                 elif use_picons:
                     in_title_logo = get_in_title_logo(original_title)
-                    print (">>>> Logo", in_title_logo
+                    print (">>>> Logo", in_title_logo)
                     if in_title_logo:
                         final_logo = in_title_logo
                         logos_in_title += 1
