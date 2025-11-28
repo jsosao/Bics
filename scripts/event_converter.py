@@ -183,7 +183,7 @@ CONVERTERS = {
                 'custom_filter': 'alfa_tudn'
             },            
             't_u': {
-                'path': 'country/country/tu/t_u_auto',
+                'path': 'country/country/t_u/t_u_auto',
                 'custom_filter': 'alfa_tu'
             },
             'cartelera_2025': {
@@ -574,7 +574,7 @@ def process_m3u_content(content, config, converter_name, picons_list, output_nam
                     'Stream': escape_url(stream_url),
                     'Live': True,
                     'Country': get_country(title),
-                    'Tag': get_tag(group_title)
+                    'Tag': get_tag(group_title),
                 }
                 entries.append(entry)
         
