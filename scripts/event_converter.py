@@ -599,7 +599,7 @@ def process_m3u_content(content, config, converter_name, picons_list, output_nam
     use_picons = config.get('use_picons', False)
     fixed_logo = None
     
-    if output_name and config['filter_type'] == 'multi_output' or config['filter_type'] == 'custom' :
+    if output_name and ( config['filter_type'] == 'multi_output' or config['filter_type'] == 'custom') :
         output_config = config['outputs'].get(output_name, {})
         use_picons = output_config.get('use_picons', use_picons)
         fixed_logo = output_config.get('fixed_logo')
