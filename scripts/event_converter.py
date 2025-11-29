@@ -309,7 +309,7 @@ CONVERTERS = {
 
 CUSTOM_FILTERS = {
     'alfa_eventos': lambda group, title: "(eventos)" in group.lower() or "cielo sport" in title.lower() or "cielo evento" in title.lower(),
-    'pass_eventos': lambda group, title: any(x in group.lower() for x in ["nba", "nhl", "nfl", "mlb", "ncaaf"]),
+    #'pass_eventos': lambda group, title: any(x in group.lower() for x in ["nba", "nhl", "nfl", "mlb", "ncaaf"]),
     'pass_ncaaf': lambda group, title: "ncaaf" in group.lower(),  
     'pass_nba': lambda group, title: "nba" in group.lower(),    
     'pass_nfl': lambda group, title: "nfl" in group.lower(),    
