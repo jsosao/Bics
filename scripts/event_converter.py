@@ -195,15 +195,21 @@ CONVERTERS = {
             },
             'alfa_nfl': {
                 'path': 'country/sports/alfa/nfl',
-                'custom_filter': 'alfa_nfl'
+                'filter_type': 'custom',
+                'custom_filter': 'alfa_nfl',
+                'merge_group': 'sections_nfl'
             },   
             'alfa_nhl': {
                 'path': 'country/sports/alfa/nhl',
-                'custom_filter': 'alfa_nhl'
+                'filter_type': 'custom',
+                'custom_filter': 'alfa_nhl',
+                'merge_group': 'sections_nhl'
             },               
             'alfa_mlb': {
                 'path': 'country/sports/alfa/mlb',
-                'custom_filter': 'alfa_mlb'
+                'filter_type': 'custom',
+                'custom_filter': 'alfa_mlb',
+                'merge_group': 'sections_mlb'                
             },               
             
             'cartelera_2025': {
@@ -237,7 +243,25 @@ CONVERTERS = {
                 'filter_type': 'custom',
                 'custom_filter': 'pass_nba',
                 'merge_group': 'sections_nba'
-            }
+            },
+            'pass_nfl': {
+                'path': 'country/sports/sections/nfl',
+                'filter_type': 'custom',
+                'custom_filter': 'pass_nfl',
+                'merge_group': 'sections_nfl'
+            },
+            'pass_nhl': {
+                'path': 'country/sports/sections/nhl',
+                'filter_type': 'custom',
+                'custom_filter': 'pass_nhl',
+                'merge_group': 'sections_nhl'
+            }            
+            'pass_mlb': {
+                'path': 'country/sports/sections/mlb',
+                'filter_type': 'custom',
+                'custom_filter': 'pass_mlb',
+                'merge_group': 'sections_mlb'
+            }                        
         }
     },
     
@@ -288,10 +312,10 @@ CUSTOM_FILTERS = {
     'alfa_tudn': lambda group, title: "tudn" in title.lower(),    
     'alfa_tu': lambda group, title: any(x in title.lower() for x in ["telemundo", "univision", "nbc universo", "unimas", "galavision"]),
     'alfa_sky': lambda group, title: any(x in title.lower() for x in ["cielo evento", "cielo sport"]),
-    'alfa_nba': lambda group, title: "nba" in group.lower(),
-    'alfa_nfl': lambda group, title: "nfl" in group.lower(),  
-    'alfa_nhl': lambda group, title: "nha" in group.lower(), 
-    'alfa_mlb': lambda group, title: "mlb" in group.lower(),     
+    'alfa_nba': lambda group, title: "nba" in title.lower(),
+    'alfa_nfl': lambda group, title: "nfl" in title.lower(),  
+    'alfa_nhl': lambda group, title: "nha" in title.lower(), 
+    'alfa_mlb': lambda group, title: "mlb" in title.lower(),     
     'alfa_cartelera_2025': lambda group, title: any(x in group.lower() for x in ["cartelera 2025"]),
     'alfa_depo': lambda group, title: "deportes" in group.lower(),
 }
