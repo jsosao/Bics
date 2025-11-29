@@ -190,7 +190,7 @@ CONVERTERS = {
             'alfa_nba': {
                 'path': 'country/sports/sections/nba',
                 'filter_type': 'custom',
-                'custom_filter': 'alfa_nba'
+                'custom_filter': 'alfa_nba',
                 'merge_group': 'sections_nba'
             },
             'alfa_nfl': {
