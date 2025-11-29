@@ -190,6 +190,24 @@ CONVERTERS = {
                 'path': 'country/country/tu/t_u_auto',
                 'custom_filter': 'alfa_tu'
             },
+
+            'alfa_sky': {
+                'path': 'country/sports/alfa/sky',
+                'custom_filter': 'alfa_sky'
+            },
+            'alfa_nba': {
+                'path': 'country/sports/alfa/nba',
+                'custom_filter': 'alfa_nba'
+            },
+            'alfa_nfl': {
+                'path': 'country/sports/alfa/nfl',
+                'custom_filter': 'alfa_nfl'
+            },   
+            'alfa_nhl': {
+                'path': 'country/sports/alfa/nhl',
+                'custom_filter': 'alfa_nhl'
+            },               
+            
             'cartelera_2025': {
                 'path': 'country/others/cinema/cartelera_2025',
                 'use_picons': False,
@@ -245,6 +263,11 @@ CUSTOM_FILTERS = {
     'alfa_espn': lambda group, title: "espn" in title.lower(),
     'alfa_tudn': lambda group, title: "tudn" in title.lower(),    
     'alfa_tu': lambda group, title: any(x in title.lower() for x in ["telemundo", "univision", "nbc universo", "unimas", "galavision"]),
+    'alfa_sky': lambda group, title: any(x in title.lower() for x in ["cielo evento", "cielo sport"]),
+    'alfa_nba': lambda group, title: any(x in group.lower() for x in ["nba"]),
+    'alfa_nfl': lambda group, title: any(x in group.lower() for x in ["nfl"]),    
+    'alfa_nhl': lambda group, title: any(x in group.lower() for x in ["nhl"]), 
+    
     'alfa_cartelera_2025': lambda group, title: any(x in group.lower() for x in ["cartelera 2025"]),
     'alfa_depo': lambda group, title: "deportes" in group.lower(),
 }
