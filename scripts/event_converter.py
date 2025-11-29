@@ -152,7 +152,17 @@ CONVERTERS = {
         'custom_filter': 'alfa_eventos',
         'merge_group': 'eventos'
     },
-   
+
+    'pass_eventos': {
+        'env_var': 'URL_011',
+        'artist': 'Pass',
+        'output_path': 'country/sports/eventos',
+        'use_picons': True,
+        'filter_type': 'custom',
+        'custom_filter': 'pass_eventos',
+        'merge_group': 'eventos'
+    },
+    
     # PROCESAMIENTO MÚLTIPLE DE URL_001 (optimizado)
     'alfa_sports': {
         'env_var': 'URL_001',
