@@ -189,6 +189,7 @@ CONVERTERS = {
             },
             'alfa_nba': {
                 'path': 'country/sports/sections/nba',
+                'filter_type': 'custom',
                 'custom_filter': 'alfa_nba'
                 'merge_group': 'sections_nba'
             },
@@ -233,6 +234,7 @@ CONVERTERS = {
             },
             'pass_nba': {
                 'path': 'country/sports/sections/nba',
+                'filter_type': 'custom',
                 'custom_filter': 'pass_nba',
                 'merge_group': 'sections_nba'
             }
