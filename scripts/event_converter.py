@@ -303,7 +303,7 @@ CUSTOM_FILTERS = {
     'pass_ncaaf': lambda group, title: "ncaaf" in group.lower(),  
     'pass_nba': lambda group, title: "nba" in group.lower(),    
     'pass_nfl': lambda group, title: "nfl" in group.lower(),    
-    'pass_nfl': lambda group, title: "nhl" in group.lower(),   
+    'pass_nhl': lambda group, title: "nhl" in group.lower(),   
     'pass_mlb': lambda group, title: "mlb" in group.lower(),        
     'alfa_fox': lambda group, title: any(x in title.lower() for x in ["fox sports", "fox deportes", "fox soccer"]),
     'alfa_fox_1': lambda group, title: "foxone" in title.lower(),
