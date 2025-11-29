@@ -169,7 +169,7 @@ CONVERTERS = {
         'use_picons': True,
         'filter_type': 'custom',
         'custom_filter': 'alfa_nba',
-        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba[.]png'                
+        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba[.]png',                
         'merge_group': 'sections_nba'
     },
     'pass_nba': {
@@ -179,7 +179,7 @@ CONVERTERS = {
         'use_picons': True,
         'filter_type': 'custom',
         'custom_filter': 'pass_nba',
-        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba[.]png'                        
+        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba[.]png',                        
         'merge_group': 'sections_nba'
     },
 
@@ -209,7 +209,7 @@ CONVERTERS = {
     'use_picons': True,
     'filter_type': 'custom',
     'custom_filter': 'alfa_mlb',
-    'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mlb[.]png'                        
+    'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mlb[.]png',                        
     'merge_group': 'sections_mlb'
     },
     'pass_mlb': {
@@ -219,7 +219,7 @@ CONVERTERS = {
         'use_picons': True,
         'filter_type': 'custom',
         'custom_filter': 'pass_mlb',
-        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mlb[.]png'                                
+        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mlb[.]png',                                
         'merge_group': 'sections_mlb'
     },    
     
