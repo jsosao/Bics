@@ -184,7 +184,7 @@ CONVERTERS = {
                 'custom_filter': 'alfa_tu'
             },
             'alfa_sky': {
-                'path': 'country/sports/alfa/sky',
+                'path': 'country/sports/sections/sky',
                 'custom_filter': 'alfa_sky'
             },
             'alfa_nba': {
@@ -194,19 +194,19 @@ CONVERTERS = {
                 'merge_group': 'sections_nba'
             },
             'alfa_nfl': {
-                'path': 'country/sports/alfa/nfl',
+                'path': 'country/sports/sections/nfl',
                 'filter_type': 'custom',
                 'custom_filter': 'alfa_nfl',
                 'merge_group': 'sections_nfl'
             },   
             'alfa_nhl': {
-                'path': 'country/sports/alfa/nhl',
+                'path': 'country/sports/sections/nhl',
                 'filter_type': 'custom',
                 'custom_filter': 'alfa_nhl',
                 'merge_group': 'sections_nhl'
             },               
             'alfa_mlb': {
-                'path': 'country/sports/alfa/mlb',
+                'path': 'country/sports/sections/mlb',
                 'filter_type': 'custom',
                 'custom_filter': 'alfa_mlb',
                 'merge_group': 'sections_mlb'                
