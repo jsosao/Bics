@@ -199,25 +199,25 @@ CONVERTERS = {
                 'path': 'country/sports/sections/nba',
                 'filter_type': 'custom',
                 'custom_filter': 'alfa_nba',
-                'merge_group': 'sections_nba'
+                'merge_group': 'nba'
             },
             'alfa_nfl': {
                 'path': 'country/sports/sections/nfl',
                 'filter_type': 'custom',
                 'custom_filter': 'alfa_nfl',
-                'merge_group': 'sections_nfl'
+                'merge_group': 'nfl'
             },   
             'alfa_nhl': {
                 'path': 'country/sports/sections/nhl',
                 'filter_type': 'custom',
                 'custom_filter': 'alfa_nhl',
-                'merge_group': 'sections_nhl'
+                'merge_group': 'nhl'
             },               
             'alfa_mlb': {
                 'path': 'country/sports/sections/mlb',
                 'filter_type': 'custom',
                 'custom_filter': 'alfa_mlb',
-                'merge_group': 'sections_mlb'                
+                'merge_group': 'mlb'                
             },               
             
             'cartelera_2025': {
@@ -251,25 +251,25 @@ CONVERTERS = {
                 'path': 'country/sports/sections/nba',
                 'filter_type': 'custom',
                 'custom_filter': 'pass_nba',
-                'merge_group': 'sections_nba'
+                'merge_group': 'nba'
             },
             'pass_nfl': {
                 'path': 'country/sports/sections/nfl',
                 'filter_type': 'custom',
                 'custom_filter': 'pass_nfl',
-                'merge_group': 'sections_nfl'
+                'merge_group': 'nfl'
             },
             'pass_nhl': {
                 'path': 'country/sports/sections/nhl',
                 'filter_type': 'custom',
                 'custom_filter': 'pass_nhl',
-                'merge_group': 'sections_nhl'
+                'merge_group': 'nhl'
             },            
             'pass_mlb': {
                 'path': 'country/sports/sections/mlb',
                 'filter_type': 'custom',
                 'custom_filter': 'pass_mlb',
-                'merge_group': 'sections_mlb'
+                'merge_group': 'mlb'
             }                        
         }
     },
@@ -308,7 +308,7 @@ CONVERTERS = {
 # ============================================================
 
 CUSTOM_FILTERS = {
-    'alfa_eventos': lambda group, title: any(x in group.lower() for x in ["futbol", "ppv", "lmb y lmp"]),
+    'alfa_eventos': lambda group, title: any(x in group.lower() for x in ["nba","futbol", "ppv", "lmb y lmp"]),
     #'alfa_eventos': lambda group, title: "(eventos)" in group.lower() or "cielo sport" in title.lower() or "cielo evento" in title.lower(),    
     #'pass_eventos': lambda group, title: any(x in group.lower() for x in ["nba", "nhl", "nfl", "mlb", "ncaaf"]),
     'pass_ncaaf': lambda group, title: "ncaaf" in group.lower(),  
