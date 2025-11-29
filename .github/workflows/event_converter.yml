@@ -68,7 +68,7 @@ jobs:
 
       - name: Commit and Push changes
         run: |
-          git add country/sports/ country/others/
+          git add country/sports/ country/country/ country/others/
           if git diff --staged --quiet; then
             echo "No hay cambios para commitear"
           else
