@@ -1,33 +1,61 @@
 {
   "Listas Disponibles en Eventos": 
   [
+
     {
-      "longDescription": "Eventos",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/eventos.png",
-      "releaseDate": "2020-01-15",
-      "id": "Eventos",
-      "shortDescription": "Eventos",
-      "title": "Eventos",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/eventos"      
-    },
-    {
-      "longDescription": "Sky",
+      "longDescription": "Deportes",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/sports.png",
       "releaseDate": "2020-01-15",
-      "id": "Sky",
-      "shortDescription": "Sky",
-      "title": "Sky",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/alfa/sky"      
+      "id": "Deportes",
+      "shortDescription": "Deportes",
+      "title": "Deportes",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/sports"      
     },
     {
-      "longDescription": "NBA - Basketball",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/nba.png",
+      "longDescription": "Deportes",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/sports.png",
       "releaseDate": "2020-01-15",
-      "id": "NBA",
-      "shortDescription": "NBA",
-      "title": "NBA Pass",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/alfa/nba"      
+      "id": "Deportes",
+      "shortDescription": "Deportes",
+      "title": "Deportivos",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/depo"      
     },
+    {
+      "longDescription": "ESPN",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/espn.png",
+      "releaseDate": "2020-01-15",
+      "id": "ESPN",
+      "shortDescription": "ESPN",
+      "title": "ESPN",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/espn"      
+    },
+    {
+      "longDescription": "FOX SPORTS",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/fox_sports.png",
+      "releaseDate": "2020-01-15",
+      "id": "FOX SPORTS",
+      "shortDescription": "FOX SPORTS",
+      "title": "FOX SPORTS",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/fox"      
+    },
+    {
+      "longDescription": "FOX ONE",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/fox_1.png",
+      "releaseDate": "2020-01-15",
+      "id": "FOX ONE",
+      "shortDescription": "FOX ONE",
+      "title": "FOX ONE",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/fox_1"      
+    },    
+    {
+      "longDescription": "TUDN",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tudn.png",
+      "releaseDate": "2020-01-15",
+      "id": "TUDN",
+      "shortDescription": "TUDN",
+      "title": "TUDN",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/tudn"      
+    },    
     {
       "longDescription": "NFL - Futbol Americano",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/nfl.png",
@@ -35,7 +63,7 @@
       "id": "NFL",
       "shortDescription": "NFL",
       "title": "NFL Pass",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/alfa/nfl"      
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/nfl"      
     },
      {
       "longDescription": "NHL Pass",
@@ -44,7 +72,25 @@
       "id": "NHL",
       "shortDescription": "NHL",
       "title": "NHL Pass",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/alfa/nhl"      
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/nhl"      
+    },
+    {
+      "longDescription": "NBA - Basketball",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/nba.png",
+      "releaseDate": "2020-01-15",
+      "id": "NBA",
+      "shortDescription": "NBA",
+      "title": "NBA Pass",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/nba"      
+    },
+    {
+    "longDescription": "LMB - Liga Mexicana de Beisbol",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/lmb.png",
+      "releaseDate": "2020-01-15",
+      "id": "LMB",
+      "shortDescription": "LMB",
+      "title": "LMB Pass",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/lmb"      
     },
     {
       "longDescription": "MLB - Beisbol",
@@ -53,7 +99,16 @@
       "id": "MLB",
       "shortDescription": "MLB",
       "title": "MLB Pass",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/alfa/mlb"      
-    }
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/mlb"      
+    },
+    {
+      "longDescription": "DISNEY+, APPLE TV, HBO MAX, AMAZON PRIME",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/apps.png",
+      "releaseDate": "2020-01-15",
+      "id": "APPS",
+      "shortDescription": "DISNEY+, APPLE TV, HBO MAX, AMAZON PRIME",
+      "title": "APPS",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/others/apps"      
+    }    
   ]
 }
