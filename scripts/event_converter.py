@@ -41,7 +41,6 @@ EQUAL_NAMES = {
             "utah mammoth","buffalo sabres","carolina hurricanes","new york rangers","philadelphia flyers","montreal canadiens","columbus blue jackets","calgary flames"],
     "ufc": ["ufc"],
     "wwe": ["wwe"],
-    "ncaaf": ["ncaaf"],    
     "f1": ["formula 1", "^f1 ", "fórmula f1"],    
     "sky_sports": ["cielo sport","sky","cielo evento"],
     "mls": ["mls"],    
@@ -96,7 +95,6 @@ IN_TITLE_LOGOS = {
     "ufc": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ufc_fight_pass[.]png",
     "nhl": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png",
     "wwe": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_wwe_network[.]png",
-    "ncaaf": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaaf[.]png",
     "sky_sports": "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_sky_sports[.]png",
     "liga_femenil_mx": "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_liga_femenil_mx[.]png",
     "liga mx": "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_liga_mx[.]png",
@@ -236,7 +234,8 @@ CONVERTERS = {
         'outputs': {
             'pass_ncaaf': {
                 'path': 'country/sports/sections/ncaaf',
-                'custom_filter': 'pass_ncaaf'
+                'custom_filter': 'pass_ncaaf',
+                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaaf[.]png'                
             },
             'pass_nba': {
                 'path': 'country/sports/sections/nba',
