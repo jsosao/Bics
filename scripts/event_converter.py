@@ -200,23 +200,23 @@ CONVERTERS = {
         'merge_group': 'sections_nfl'
     },    
 
-    'alfa_nfl': {
+    'alfa_mlb': {
     'env_var': 'URL_001',
     'artist': 'Alfa',
-    'output_path': 'country/sports/sections/nfl',
+    'output_path': 'country/sports/sections/mlb',
     'use_picons': True,
     'filter_type': 'custom',
-    'custom_filter': 'alfa_nfl',
-    'merge_group': 'sections_nfl'
+    'custom_filter': 'alfa_mlb',
+    'merge_group': 'sections_mlb'
     },
-    'pass_nfl': {
+    'pass_mlb': {
         'env_var': 'URL_011',
         'artist': 'Pass',
-        'output_path': 'country/sports/sections/nfl',
+        'output_path': 'country/sports/sections/mlb',
         'use_picons': True,
         'filter_type': 'custom',
-        'custom_filter': 'pass_nfl',
-        'merge_group': 'sections_nfl'
+        'custom_filter': 'pass_mlb',
+        'merge_group': 'sections_mlb'
     },    
     
     # PROCESAMIENTO MÚLTIPLE DE URL_001 (optimizado)
@@ -278,6 +278,10 @@ CONVERTERS = {
                 'path': 'country/sports/sections/ncaaf',
                 'custom_filter': 'pass_ncaaf',
                 'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaaf[.]png'                
+            },
+            'pass_nhl': {
+                'path': 'country/sports/sections/nhl',
+                'custom_filter': 'pass_nhl',
             }
         }
     },
