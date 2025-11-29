@@ -41,6 +41,7 @@ EQUAL_NAMES = {
             "utah mammoth","buffalo sabres","carolina hurricanes","new york rangers","philadelphia flyers","montreal canadiens","columbus blue jackets","calgary flames"],
     "ufc": ["ufc"],
     "wwe": ["wwe"],
+    "ncaaf": ["ncaaf"],    
     "f1": ["formula 1", "^f1 ", "fórmula f1"],    
     "sky_sports": ["cielo sport","sky","cielo evento"],
     "mls": ["mls"],    
@@ -95,6 +96,7 @@ IN_TITLE_LOGOS = {
     "ufc": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ufc_fight_pass[.]png",
     "nhl": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png",
     "wwe": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_wwe_network[.]png",
+    "ncaaf": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaaf[.]png",
     "sky_sports": "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_sky_sports[.]png",
     "liga_femenil_mx": "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_liga_femenil_mx[.]png",
     "liga mx": "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_liga_mx[.]png",
@@ -152,16 +154,20 @@ CONVERTERS = {
         'custom_filter': 'alfa_eventos',
         'merge_group': 'eventos'
     },
-    'pass_eventos': {
+    # PROCESAMIENTO MÚLTIPLE DE URL_011 (optimizado)
+    'pass_sports': {
         'env_var': 'URL_011',
         'artist': 'Pass',
-        'output_path': 'country/sports/eventos',
+        'output_path': 'country/sports/',
         'use_picons': True,
-        'filter_type': 'custom',
-        'custom_filter': 'pass_eventos',
-        'merge_group': 'eventos'
-    },
-    
+        'filter_type': 'multi_output',
+        'outputs': {
+            'pass_ncaaf': {
+                'path': 'country/sports/pass/ncaaf',
+                'custom_filter': 'pass_ncaaf'
+            }
+        }
+    }
     # PROCESAMIENTO MÚLTIPLE DE URL_001 (optimizado)
     'alfa_sports': {
         'env_var': 'URL_001',
@@ -190,7 +196,6 @@ CONVERTERS = {
                 'path': 'country/country/tu/t_u_auto',
                 'custom_filter': 'alfa_tu'
             },
-
             'alfa_sky': {
                 'path': 'country/sports/alfa/sky',
                 'custom_filter': 'alfa_sky'
@@ -206,6 +211,10 @@ CONVERTERS = {
             'alfa_nhl': {
                 'path': 'country/sports/alfa/nhl',
                 'custom_filter': 'alfa_nhl'
+            },               
+            'alfa_mlb': {
+                'path': 'country/sports/alfa/mlb',
+                'custom_filter': 'alfa_mlb'
             },               
             
             'cartelera_2025': {
@@ -258,6 +267,7 @@ CONVERTERS = {
 CUSTOM_FILTERS = {
     'alfa_eventos': lambda group, title: "(eventos)" in group.lower() or "cielo sport" in title.lower() or "cielo evento" in title.lower(),
     'pass_eventos': lambda group, title: any(x in group.lower() for x in ["nba", "nhl", "nfl", "mlb", "ncaaf"]),
+    'pass_ncaaf': lambda group, title: any(x in group.lower() for x in ["ncaaf"]),    
     'alfa_fox': lambda group, title: any(x in title.lower() for x in ["fox sports", "fox deportes", "fox soccer"]),
     'alfa_fox_1': lambda group, title: any(x in title.lower() for x in ["foxone"]),
     'alfa_espn': lambda group, title: "espn" in title.lower(),
@@ -267,6 +277,7 @@ CUSTOM_FILTERS = {
     'alfa_nba': lambda group, title: any(x in group.lower() for x in ["nba"]),
     'alfa_nfl': lambda group, title: any(x in group.lower() for x in ["nfl"]),    
     'alfa_nhl': lambda group, title: any(x in group.lower() for x in ["nhl"]), 
+    'alfa_mlb': lambda group, title: any(x in group.lower() for x in ["mlb"]),     
     
     'alfa_cartelera_2025': lambda group, title: any(x in group.lower() for x in ["cartelera 2025"]),
     'alfa_depo': lambda group, title: "deportes" in group.lower(),
