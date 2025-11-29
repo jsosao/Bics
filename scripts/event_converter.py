@@ -276,9 +276,9 @@ CUSTOM_FILTERS = {
     'alfa_tu': lambda group, title: any(x in title.lower() for x in ["telemundo", "univision", "nbc universo", "unimas", "galavision"]),
     'alfa_sky': lambda group, title: any(x in title.lower() for x in ["cielo evento", "cielo sport"]),
     'alfa_nba': lambda group, title: "nba" in group.lower(),
-    'alfa_nfl': lambda group, title: "nfl" in group.lower(),,    
-    'alfa_nhl': lambda group, title: "nha" in group.lower(),, 
-    'alfa_mlb': lambda group, title: "mlb" in group.lower(),),     
+    'alfa_nfl': lambda group, title: "nfl" in group.lower(),  
+    'alfa_nhl': lambda group, title: "nha" in group.lower(), 
+    'alfa_mlb': lambda group, title: "mlb" in group.lower(),     
     'alfa_cartelera_2025': lambda group, title: any(x in group.lower() for x in ["cartelera 2025"]),
     'alfa_depo': lambda group, title: "deportes" in group.lower(),
 }
