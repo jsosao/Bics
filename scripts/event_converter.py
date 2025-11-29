@@ -255,7 +255,7 @@ CONVERTERS = {
                 'filter_type': 'custom',
                 'custom_filter': 'pass_nhl',
                 'merge_group': 'sections_nhl'
-            }            
+            },            
             'pass_mlb': {
                 'path': 'country/sports/sections/mlb',
                 'filter_type': 'custom',
