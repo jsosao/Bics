@@ -174,6 +174,10 @@ CONVERTERS = {
                 'path': 'country/sports/fox',
                 'custom_filter': 'alfa_fox'
             },
+            'fox_1': {
+                'path': 'country/sports/fox_1',
+                'custom_filter': 'alfa_fox_1'
+            },
             'espn': {
                 'path': 'country/sports/espn',
                 'custom_filter': 'alfa_espn'
@@ -236,7 +240,8 @@ CONVERTERS = {
 CUSTOM_FILTERS = {
     'alfa_eventos': lambda group, title: "(eventos)" in group.lower() or "cielo sport" in title.lower() or "cielo evento" in title.lower(),
     'pass_eventos': lambda group, title: any(x in group.lower() for x in ["nba", "nhl", "nfl", "mlb", "ncaaf"]),
-    'alfa_fox': lambda group, title: any(x in title.lower() for x in ["fox sports", "fox deportes", "fox soccer", "foxone"]),
+    'alfa_fox': lambda group, title: any(x in title.lower() for x in ["fox sports", "fox deportes", "fox soccer"]),
+    'alfa_fox_1': lambda group, title: any(x in title.lower() for x in ["foxone"]),
     'alfa_espn': lambda group, title: "espn" in title.lower(),
     'alfa_tudn': lambda group, title: "tudn" in title.lower(),    
     'alfa_tu': lambda group, title: any(x in title.lower() for x in ["telemundo", "univision", "nbc universo", "unimas", "galavision"]),
