@@ -154,21 +154,7 @@ CONVERTERS = {
         'custom_filter': 'alfa_eventos',
         'merge_group': 'eventos'
     },
-    # PROCESAMIENTO MÚLTIPLE DE URL_001 (optimizado)
-    'pass_sports': {
-        'env_var': 'URL_011',
-        'artist': 'Pass',
-        'output_path': 'country/sports',
-        'use_picons': True,
-        'filter_type': 'multi_output',
-        'outputs': {
-            'pass_ncaaf': {
-                'path': 'country/sports/pass/ncaaf',
-                'custom_filter': 'pass_ncaaf'
-            }
-        }
-    },
-    
+   
     # PROCESAMIENTO MÚLTIPLE DE URL_001 (optimizado)
     'alfa_sports': {
         'env_var': 'URL_001',
@@ -202,8 +188,9 @@ CONVERTERS = {
                 'custom_filter': 'alfa_sky'
             },
             'alfa_nba': {
-                'path': 'country/sports/alfa/nba',
+                'path': 'country/sports/sections/nba',
                 'custom_filter': 'alfa_nba'
+                'merge_group': 'sections_nba'
             },
             'alfa_nfl': {
                 'path': 'country/sports/alfa/nfl',
@@ -228,6 +215,26 @@ CONVERTERS = {
                 'use_picons': False,
                 'custom_filter': 'alfa_depo',
                 'merge_group': 'depo'
+            }
+        }
+    },
+
+    # PROCESAMIENTO MÚLTIPLE DE URL_001 (optimizado)
+    'pass_sports': {
+        'env_var': 'URL_011',
+        'artist': 'Pass',
+        'output_path': 'country/sports',
+        'use_picons': True,
+        'filter_type': 'multi_output',
+        'outputs': {
+            'pass_ncaaf': {
+                'path': 'country/sports/sections/ncaaf',
+                'custom_filter': 'pass_ncaaf'
+            },
+            'pass_nba': {
+                'path': 'country/sports/sections/nba',
+                'custom_filter': 'pass_nba',
+                'merge_group': 'sections_nba'
             }
         }
     },
@@ -257,7 +264,7 @@ CONVERTERS = {
         'output_path': 'country/others/test/pass',
         'use_picons': False,
         'filter_type': 'skip_only',
-        'skip_keywords': ["canales-adultos", "adultos", "adult", "porn"],
+        'skip_keywords': ["canales-adultos", "adultos", "adult", "porn"]
     }    
 }
 
@@ -268,7 +275,11 @@ CONVERTERS = {
 CUSTOM_FILTERS = {
     'alfa_eventos': lambda group, title: "(eventos)" in group.lower() or "cielo sport" in title.lower() or "cielo evento" in title.lower(),
     'pass_eventos': lambda group, title: any(x in group.lower() for x in ["nba", "nhl", "nfl", "mlb", "ncaaf"]),
-    'pass_ncaaf': lambda group, title: "ncaaf" in group.lower(),    
+    'pass_ncaaf': lambda group, title: "ncaaf" in group.lower(),  
+    'pass_nba': lambda group, title: "nba" in group.lower(),    
+    'pass_nfl': lambda group, title: "nfl" in group.lower(),    
+    'pass_nfl': lambda group, title: "nhl" in group.lower(),   
+    'pass_mlb': lambda group, title: "mlb" in group.lower(),        
     'alfa_fox': lambda group, title: any(x in title.lower() for x in ["fox sports", "fox deportes", "fox soccer"]),
     'alfa_fox_1': lambda group, title: "foxone" in title.lower(),
     'alfa_espn': lambda group, title: "espn" in title.lower(),
