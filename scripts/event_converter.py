@@ -308,7 +308,8 @@ CONVERTERS = {
 # ============================================================
 
 CUSTOM_FILTERS = {
-    'alfa_eventos': lambda group, title: "(eventos)" in group.lower() or "cielo sport" in title.lower() or "cielo evento" in title.lower(),
+    'alfa_eventos': lambda group, title: any(x in group.lower() for x in ["futbol", "ppv", "lmb y lmp"]),
+    #'alfa_eventos': lambda group, title: "(eventos)" in group.lower() or "cielo sport" in title.lower() or "cielo evento" in title.lower(),    
     #'pass_eventos': lambda group, title: any(x in group.lower() for x in ["nba", "nhl", "nfl", "mlb", "ncaaf"]),
     'pass_ncaaf': lambda group, title: "ncaaf" in group.lower(),  
     'pass_nba': lambda group, title: "nba" in group.lower(),    
@@ -351,7 +352,7 @@ for canonical, variations in EQUAL_NAMES.items():
 def normalize_text(text):
     text = unicodedata.normalize('NFD', text)
     text = ''.join(char for char in text if unicodedata.category(char) != 'Mn')
-    text = re.sub(r'\([^)]*\)', '', text)
+    #text = re.sub(r'\([^)]*\)', '', text)
     text = re.sub(r'\.', ' ', text.strip())
     text = re.sub(r'[^\w\s&!:@]', '', text)
     text = re.sub(r'^\d+\.?\s*', '', text)
