@@ -152,15 +152,15 @@ CONVERTERS = {
         'custom_filter': 'alfa_eventos',
         'merge_group': 'eventos'
     },
-    'pass_eventos': {
-        'env_var': 'URL_011',
-        'artist': 'Pass',
-        'output_path': 'country/sports/eventos',
-        'use_picons': True,
-        'filter_type': 'custom',
-        'custom_filter': 'pass_eventos',
-        'merge_group': 'eventos'
-    },
+#    'pass_eventos': {
+#        'env_var': 'URL_011',
+#        'artist': 'Pass',
+#        'output_path': 'country/sports/eventos',
+#        'use_picons': True,
+#        'filter_type': 'custom',
+#        'custom_filter': 'pass_eventos',
+#        'merge_group': 'eventos'
+#    },
 
     'alfa_nba': {
         'env_var': 'URL_001',
@@ -320,9 +320,9 @@ CONVERTERS = {
 # ============================================================
 
 CUSTOM_FILTERS = {
-    'alfa_eventos': lambda group, title: any(x in group.lower() for x in ["nba","futbol", "ppv", "lmb y lmp"]),
+    'alfa_eventos': lambda group, title: any(x in group.lower() for x in ["futbol", "ppv", "lmb y lmp"]),
     #'alfa_eventos': lambda group, title: "(eventos)" in group.lower() or "cielo sport" in title.lower() or "cielo evento" in title.lower(),    
-    'pass_eventos': lambda group, title: any(x in group.lower() for x in ["nba", "nhl", "nfl", "mlb", "ncaaf"]),
+    #'pass_eventos': lambda group, title: any(x in group.lower() for x in ["nba", "nhl", "nfl", "mlb", "ncaaf"]),
     'pass_ncaaf': lambda group, title: "ncaaf" in group.lower(),  
     'pass_nba': lambda group, title: "nba" in group.lower(),    
     'pass_nfl': lambda group, title: "nfl" in group.lower(),    
