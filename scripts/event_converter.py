@@ -199,6 +199,7 @@ CONVERTERS = {
         'use_picons': True,
         'filter_type': 'custom',
         'custom_filter': 'pass_nfl',
+        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_sundayticket[.]png',                        
         'merge_group': 'sections_nfl'
     },    
 
