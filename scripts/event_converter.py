@@ -154,11 +154,11 @@ CONVERTERS = {
         'custom_filter': 'alfa_eventos',
         'merge_group': 'eventos'
     },
-    # PROCESAMIENTO MÚLTIPLE DE URL_011 (optimizado)
+    # PROCESAMIENTO MÚLTIPLE DE URL_001 (optimizado)
     'pass_sports': {
         'env_var': 'URL_011',
         'artist': 'Pass',
-        'output_path': 'country/sports/',
+        'output_path': 'country/sports',
         'use_picons': True,
         'filter_type': 'multi_output',
         'outputs': {
@@ -167,7 +167,8 @@ CONVERTERS = {
                 'custom_filter': 'pass_ncaaf'
             }
         }
-    }
+    },
+    
     # PROCESAMIENTO MÚLTIPLE DE URL_001 (optimizado)
     'alfa_sports': {
         'env_var': 'URL_001',
