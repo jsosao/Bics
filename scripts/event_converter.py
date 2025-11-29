@@ -143,7 +143,7 @@ IN_TITLE_LOGOS = {
 
 CONVERTERS = {
     # GRUPO EVENTOS (fusionados)
-    'eventos': {
+    'alfa_eventos': {
         'env_var': 'URL_001',
         'artist': 'Alfa',
         'output_path': 'country/sports/eventos',
@@ -152,7 +152,6 @@ CONVERTERS = {
         'custom_filter': 'alfa_eventos',
         'merge_group': 'eventos'
     },
-
     'pass_eventos': {
         'env_var': 'URL_011',
         'artist': 'Pass',
@@ -162,6 +161,26 @@ CONVERTERS = {
         'custom_filter': 'pass_eventos',
         'merge_group': 'eventos'
     },
+
+    'alfa_nba': {
+        'env_var': 'URL_001',
+        'artist': 'Alfa',
+        'output_path': 'country/sports/sections/nba',
+        'use_picons': True,
+        'filter_type': 'custom',
+        'custom_filter': 'alfa_nba',
+        'merge_group': 'sections_nba'
+    },
+    'pass_nba': {
+        'env_var': 'URL_011',
+        'artist': 'Pass',
+        'output_path': 'country/sports/sections/nba',
+        'use_picons': True,
+        'filter_type': 'custom',
+        'custom_filter': 'pass_nba',
+        'merge_group': 'sections_nba'
+    },
+
     
     # PROCESAMIENTO MÚLTIPLE DE URL_001 (optimizado)
     'alfa_sports': {
@@ -194,12 +213,6 @@ CONVERTERS = {
             'alfa_sky': {
                 'path': 'country/sports/sections/sky',
                 'custom_filter': 'alfa_sky'
-            },
-            'alfa_nba': {
-                'path': 'country/sports/sections/nba',
-                'filter_type': 'custom',
-                'custom_filter': 'alfa_nba',
-                'merge_group': 'sections_nba'
             },
             'alfa_nfl': {
                 'path': 'country/sports/sections/nfl',
@@ -246,12 +259,6 @@ CONVERTERS = {
                 'path': 'country/sports/sections/ncaaf',
                 'custom_filter': 'pass_ncaaf',
                 'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaaf[.]png'                
-            },
-            'pass_nba': {
-                'path': 'country/sports/sections/nba',
-                'filter_type': 'custom',
-                'custom_filter': 'pass_nba',
-                'merge_group': 'sections_nba'
             },
             'pass_nfl': {
                 'path': 'country/sports/sections/nfl',
