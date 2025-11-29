@@ -184,7 +184,7 @@ CONVERTERS = {
             },            
             't_u': {
                 'path': 'country/country/tu/t_u_auto',
-                'custom_filter': 'alfa_t_u'
+                'custom_filter': 'alfa_tu'
             },
             'cartelera_2025': {
                 'path': 'country/others/cinema/cartelera_2025',
@@ -213,7 +213,7 @@ CONVERTERS = {
     'premium': {
         'env_var': 'URL_001',
         'artist': 'Alfa',
-        'output_path': 'country/country/premiumm',
+        'output_path': 'country/country/premium',
         'use_picons': False,
         'filter_type': 'include_exclude',
         'skip_keywords': ["canales-adultos", "adultos", "adult", "cartelera", "estrenos", "disney", "recien", "cine de oro", "marvel", "radio", "religiosos", "infantil", "kids", "vod", "serie", "novelas-", "24/7", "247", "musica"],
@@ -239,7 +239,7 @@ CUSTOM_FILTERS = {
     'alfa_fox': lambda group, title: any(x in title.lower() for x in ["fox sports", "fox deportes", "fox soccer", "foxone"]),
     'alfa_espn': lambda group, title: "espn" in title.lower(),
     'alfa_tudn': lambda group, title: "tudn" in title.lower(),    
-    'alfa_t_u': lambda group, title: any(x in title.lower() for x in ["telemundo", "univision", "nbc universo", "unimas", "galavision"]),
+    'alfa_tu': lambda group, title: any(x in title.lower() for x in ["telemundo", "univision", "nbc universo", "unimas", "galavision"]),
     'alfa_cartelera_2025': lambda group, title: any(x in group.lower() for x in ["cartelera 2025"]),
     'alfa_depo': lambda group, title: "deportes" in group.lower(),
 }
