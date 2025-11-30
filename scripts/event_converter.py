@@ -360,7 +360,7 @@ CONVERTERS = {
     },
 
     # PROCESAMIENTO MÚLTIPLE DE URL_002 (optimizado)
-    'pass_sports': {
+    'cord_sports': {
         'env_var': 'URL_002',
         'artist': 'Cord',
         'output_path': 'country/sports',
@@ -459,7 +459,7 @@ CUSTOM_FILTERS = {
     'cord_nhl': lambda group, title: any(x in group.lower() for x in ["nhl"]),
     'cord_ncaaf': lambda group, title: any(x in group.lower() for x in ["ncaaf"]),        
     'cord_ncaab': lambda group, title: any(x in group.lower() for x in ["ncaab"]), 
-    'cord_ppv': lambda group, title: any(x in group.lower() for x in ["ppv"]),            
+    'cord_ppv': lambda group, title: any(x in group.lower() for x in ["ppv"])           
 }
 
 # ============================================================
