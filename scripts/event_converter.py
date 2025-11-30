@@ -290,7 +290,28 @@ CONVERTERS = {
         'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaaf[.]png',                                
         'merge_group': 'sections_ncaaf'
     },     
-   
+
+   'pass_ppv': {
+        'env_var': 'URL_011',
+        'artist': 'Pass',
+        'output_path': 'country/sports/sections/ppv',
+        'use_picons': False,
+        'filter_type': 'custom',
+        'custom_filter': 'pass_ppv',
+        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ppv[.]png',                                
+        'merge_group': 'sections_ppv'
+    },    
+    'cord_ppv': {
+        'env_var': 'URL_002',
+        'artist': 'Cord',
+        'output_path': 'country/sports/sections/ppv',
+        'use_picons': False,
+        'filter_type': 'custom',
+        'custom_filter': 'cord_ppv',
+        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ppv[.]png',                                
+        'merge_group': 'sections_ppv'
+    },     
+    
     # PROCESAMIENTO MÚLTIPLE DE URL_001 (optimizado)
     'alfa_sports': {
         'env_var': 'URL_001',
@@ -346,14 +367,9 @@ CONVERTERS = {
         'use_picons': False,
         'filter_type': 'multi_output',
         'outputs': {
-            'pass_wnba': {
-                'path': 'country/sports/sections/ppv',
-                'custom_filter': 'pass_ppv',
-                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ppv[.]png'                
-            },
             'pass_ncaab': {
                 'path': 'country/sports/sections/ncaab',
-                'custom_filter': 'pass_ncaab',
+                'custom_filter': 'cord_ncaab',
                 'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab[.]png'                
             }
         }
@@ -424,7 +440,7 @@ CUSTOM_FILTERS = {
     'pass_nhl': lambda group, title: any(x in group.lower() for x in ["nhl"]) or any(x in title.lower() for x in ["nhl network"]),    
     'pass_mlb': lambda group, title: any(x in group.lower() for x in ["mlb"]) or any(x in title.lower() for x in ["mlb network"]),   
     'pass_wnba': lambda group, title: "wnba" in group.lower(),
-    'pass_ppv': lambda group, title: "ppv" in group.lower(),    
+    'pass_ppv': lambda group, title: "ppv" in group.lower(),  
     'alfa_fox': lambda group, title: any(x in title.lower() for x in ["fox sports", "fox deportes", "fox soccer"]),
     'alfa_fox_1': lambda group, title: "foxone" in title.lower(),
     'alfa_espn': lambda group, title: "espn" in title.lower(),
@@ -442,6 +458,8 @@ CUSTOM_FILTERS = {
     'cord_nba': lambda group, title: any(x in group.lower() for x in ["nba"]),    
     'cord_nhl': lambda group, title: any(x in group.lower() for x in ["nhl"]),
     'cord_ncaaf': lambda group, title: any(x in group.lower() for x in ["ncaaf"]),        
+    'cord_ncaab': lambda group, title: any(x in group.lower() for x in ["ncaab"]), 
+    'cord_ppv': lambda group, title: any(x in group.lower() for x in ["ppv"]),            
 }
 
 # ============================================================
