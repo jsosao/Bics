@@ -201,7 +201,17 @@ CONVERTERS = {
         'custom_filter': 'pass_nfl',
         'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_sundayticket[.]png',                        
         'merge_group': 'sections_nfl'
-    },    
+    },  
+    'cord_nfl': {
+        'env_var': 'URL_002',
+        'artist': 'Cord',
+        'output_path': 'country/sports/sections/nfl',
+        'use_picons': False,
+        'filter_type': 'custom',
+        'custom_filter': 'cord_nfl',
+        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass[.]png',                        
+        'merge_group': 'sections_nfl'
+    },      
     'alfa_mlb': {
     'env_var': 'URL_001',
     'artist': 'Alfa',
@@ -346,6 +356,7 @@ CUSTOM_FILTERS = {
     'alfa_mlb': lambda group, title: any(x in group.lower() for x in ["mlb"]) or any(x in title.lower() for x in ["mlb net"]),    
     'alfa_cartelera_2025': lambda group, title: any(x in group.lower() for x in ["cartelera 2025"]),
     'alfa_depo': lambda group, title: "deportes" in group.lower(),
+    'cord_nfl': lambda group, title: any(x in group.lower() for x in ["nfl"]),        
 }
 
 # ============================================================
