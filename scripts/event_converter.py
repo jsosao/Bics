@@ -962,6 +962,8 @@ def main():
 
             if outputs_generated > 0:
                 print(f"✓ {outputs_generated}/{len(config['outputs'])} salidas generadas exitosamente\n")
+                if total_outdated_multi > 0:  # ← AGREGAR
+                        print(f"⏰ Total eventos vencidos en todas las salidas: {total_outdated_multi}")                
                 successful += 1
             else:
                 print(f"✗ No se generó ninguna salida\n")
