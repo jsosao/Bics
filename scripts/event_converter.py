@@ -382,7 +382,7 @@ def is_event_outdated(title):
     if event_date:
         today = datetime.now().date()
         return event_date < today
-return False
+    return False
     
 # ============================================================
 # VARIABLES GLOBALES
