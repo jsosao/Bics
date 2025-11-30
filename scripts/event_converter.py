@@ -384,10 +384,9 @@ CUSTOM_FILTERS = {
     'alfa_mlb': lambda group, title: any(x in group.lower() for x in ["mlb"]) or any(x in title.lower() for x in ["mlb net"]),    
     'alfa_cartelera_2025': lambda group, title: any(x in group.lower() for x in ["cartelera 2025"]),
     'alfa_depo': lambda group, title: "deportes" in group.lower(),
-    'cord_nfl': lambda group, title: any(x in group.lower() for x in ["nfl"])  
+    'cord_nfl': lambda group, title: any(x in group.lower() for x in ["nfl"]),  
     'cord_mlb': lambda group, title: any(x in group.lower() for x in ["mlb"]),    
-    'cord_nhl': lambda group, title: any(x in group.lower() for x in ["nhl"]),    
-    
+    'cord_nhl': lambda group, title: any(x in group.lower() for x in ["nhl"])    
 }
 
 # ============================================================
