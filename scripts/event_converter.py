@@ -349,6 +349,42 @@ CUSTOM_FILTERS = {
 }
 
 # ============================================================
+# FUNCIONES DE VALIDACIÓN DE FECHAS
+# ============================================================
+
+def extract_event_date(title):
+    """Extrae fecha de un título de evento"""
+    patterns = [
+        r"(\d{4}-\d{2}-\d{2})",           # 2025-01-15
+        r"(\d{1,2}/\d{1,2})",             # 1/15 o 01/15
+        r"([A-Za-z]+ \d{1,2})",           # January 15 o Jan 15
+    ]
+    for pattern in patterns:
+        match = re.search(pattern, title)
+        if match:
+            try:
+                text = match.group(1)
+                for fmt in ("%Y-%m-%d", "%m/%d", "%B %d", "%b %d"):
+                    try:
+                        parsed = datetime.strptime(text, fmt)
+                        if "%Y" not in fmt:
+                            parsed = parsed.replace(year=datetime.now().year)
+                        return parsed.date()
+                    except ValueError:
+                        continue
+            except Exception:
+                continue
+    return None
+
+def is_event_outdated(title):
+    """Verifica si un evento ya pasó"""
+    event_date = extract_event_date(title)
+    if event_date:
+        today = datetime.now().date()
+        return event_date < today
+return False
+    
+# ============================================================
 # VARIABLES GLOBALES
 # ============================================================
 
@@ -504,6 +540,11 @@ def get_tag(group_title):
     return group_title.lower()
 
 def should_skip_channel(group_title, channel_title, config, output_name=None):
+
+    # NUEVO: Filtrar eventos pasados
+    if is_event_outdated(channel_title):
+        return True
+        
     group_lower = group_title.lower()
     title_lower = channel_title.lower()
 
@@ -587,6 +628,7 @@ def process_m3u_content(content, config, converter_name, picons_list, output_nam
     lines = content.strip().split('\n')
     entries = []
     skipped_count = 0
+    outdated_count = 0  # NUEVO CONTADOR
     logos_original = 0
     logos_found = 0
     logos_default = 0
@@ -628,6 +670,9 @@ def process_m3u_content(content, config, converter_name, picons_list, output_nam
                 
                 if should_skip_channel(group_title, original_title, config, output_name):
                     skipped_count += 1
+                    # NUEVO: Verificar si fue por fecha vencida
+                    if is_event_outdated(original_title):
+                        outdated_count += 1                    
                     i += 1
                     continue
 
@@ -686,7 +731,7 @@ def process_m3u_content(content, config, converter_name, picons_list, output_nam
         
         i += 1
     
-    return entries, skipped_count, logos_original, logos_found, logos_default, logos_in_title, logos_fixed, invalid_count
+    return entries, skipped_count, logos_original, logos_found, logos_default, logos_in_title, logos_fixed, invalid_count, outdated_count
 
 def generate_output(entries):
     output_lines = []
@@ -796,7 +841,7 @@ def main():
                     print(f"  ✗ No se pudo obtener contenido de {env_var}")
                     continue
                 
-                entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
+                entries, skipped, orig, found, default, in_title, fixed, invalid, outdated = process_m3u_content(
                     content, config, converter_name, picons_list
                 )
                 
@@ -833,6 +878,8 @@ def main():
             if output_config.get('use_picons'):
                 stats += f"Encontrados: {total_found} ({total_found*100//total}%) | "
             stats += f"Originales: {total_orig} ({total_orig*100//total}%) | Default: {total_default} ({total_default*100//total}%)"
+            if outdated > 0:
+                print(f"    ⏰ Eventos vencidos: {outdated}")            
             print(stats)
             print()
             
@@ -866,7 +913,7 @@ def main():
             for output_name, output_config in config['outputs'].items():
                 #print(f"  📁 Procesando salida: {output_name}")
                 
-                entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
+                entries, skipped, orig, found, default, in_title, fixed, invalid, outdated = process_m3u_content(
                     content, config, converter_name, picons_list, output_name
                 )
                 
@@ -890,6 +937,8 @@ def main():
                 if output_config.get('use_picons', config.get('use_picons', False)):
                     stats += f"Encontrados: {found} ({found*100//total}%) | "
                 stats += f"Originales: {orig} ({orig*100//total}%) | Default: {default} ({default*100//total}%)"
+                if outdated > 0:
+                    print(f"    ⏰ Eventos vencidos: {outdated}")                
                 print(stats)
                 print()
                 
@@ -924,7 +973,7 @@ def main():
                 failed += 1
                 continue
             
-            entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
+            entries, skipped, orig, found, default, in_title, fixed, invalid, outdated = process_m3u_content(
                 content, config, converter_name, picons_list
             )
             
@@ -948,6 +997,8 @@ def main():
             if config.get('use_picons'):
                 stats += f"Encontrados: {found} ({found*100//total}%) | "
             stats += f"Originales: {orig} ({orig*100//total}%) | Default: {default} ({default*100//total}%)"
+            if outdated > 0:
+                print(f"    ⏰ Eventos vencidos: {outdated}")            
             print(stats)
             
             print()
