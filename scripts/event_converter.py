@@ -181,7 +181,16 @@ CONVERTERS = {
         'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba[.]png',                        
         'merge_group': 'sections_nba'
     },
-
+    'cord_nba': {
+        'env_var': 'URL_002',
+        'artist': 'Cord',
+        'output_path': 'country/sports/sections/nba',
+        'use_picons': False,
+        'filter_type': 'custom',
+        'custom_filter': 'cord_nba',
+        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba[.]png',                        
+        'merge_group': 'sections_nba'
+    },
     'alfa_nfl': {
         'env_var': 'URL_001',
         'artist': 'Alfa',
@@ -261,6 +270,67 @@ CONVERTERS = {
         'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png',                                
         'merge_group': 'sections_nhl'
     },     
+   'pass_nhl': {
+        'env_var': 'URL_011',
+        'artist': 'Pass',
+        'output_path': 'country/sports/sections/nhl',
+        'use_picons': False,
+        'filter_type': 'custom',
+        'custom_filter': 'pass_nhl',
+        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png',                                
+        'merge_group': 'sections_nhl'
+    },    
+    'cord_nhl': {
+        'env_var': 'URL_002',
+        'artist': 'Cord',
+        'output_path': 'country/sports/sections/nhl',
+        'use_picons': False,
+        'filter_type': 'custom',
+        'custom_filter': 'cord_mlb',
+        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png',                                
+        'merge_group': 'sections_nhl'
+    },     
+    'pass_nhl': {
+        'env_var': 'URL_011',
+        'artist': 'Pass',
+        'output_path': 'country/sports/sections/nhl',
+        'use_picons': False,
+        'filter_type': 'custom',
+        'custom_filter': 'pass_nhl',
+        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png',                                
+        'merge_group': 'sections_nhl'
+    },    
+    'cord_nhl': {
+        'env_var': 'URL_002',
+        'artist': 'Cord',
+        'output_path': 'country/sports/sections/nhl',
+        'use_picons': False,
+        'filter_type': 'custom',
+        'custom_filter': 'cord_mlb',
+        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png',                                
+        'merge_group': 'sections_nhl'
+    },     
+    'pass_nhl': {
+        'env_var': 'URL_011',
+        'artist': 'Pass',
+        'output_path': 'country/sports/sections/nhl',
+        'use_picons': False,
+        'filter_type': 'custom',
+        'custom_filter': 'pass_nhl',
+        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png',                                
+        'merge_group': 'sections_nhl'
+    },    
+    'cord_nhl': {
+        'env_var': 'URL_002',
+        'artist': 'Cord',
+        'output_path': 'country/sports/sections/nhl',
+        'use_picons': False,
+        'filter_type': 'custom',
+        'custom_filter': 'cord_mlb',
+        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png',                                
+        'merge_group': 'sections_nhl'
+    },     
+
     # PROCESAMIENTO MÚLTIPLE DE URL_001 (optimizado)
     'alfa_sports': {
         'env_var': 'URL_001',
@@ -309,25 +379,25 @@ CONVERTERS = {
     },
 
     # PROCESAMIENTO MÚLTIPLE DE URL_001 (optimizado)
-    'pass_sports': {
-        'env_var': 'URL_011',
-        'artist': 'Pass',
-        'output_path': 'country/sports',
-        'use_picons': False,
-        'filter_type': 'multi_output',
-        'outputs': {
-            'pass_ncaaf': {
-                'path': 'country/sports/sections/ncaaf',
-                'custom_filter': 'pass_ncaaf',
-                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaaf[.]png'                
-            }
+#    'pass_sports': {
+#        'env_var': 'URL_011',
+#        'artist': 'Pass',
+#        'output_path': 'country/sports',
+#        'use_picons': False,
+#        'filter_type': 'multi_output',
+#        'outputs': {
+#            'pass_ncaaf': {
+#                'path': 'country/sports/sections/ncaaf',
+#                'custom_filter': 'pass_ncaaf',
+#                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaaf[.]png'                
+#            }
 #            'pass_nhl': {
 #                'path': 'country/sports/sections/nhl',
 #                'custom_filter': 'pass_nhl',
 #                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png'                                        
 #            }
-        }
-    },
+#        }
+#    },
     
     # ALFA - Otros contenidos
     'alfa': {
@@ -385,7 +455,8 @@ CUSTOM_FILTERS = {
     'alfa_cartelera_2025': lambda group, title: any(x in group.lower() for x in ["cartelera 2025"]),
     'alfa_depo': lambda group, title: "deportes" in group.lower(),
     'cord_nfl': lambda group, title: any(x in group.lower() for x in ["nfl"]),  
-    'cord_mlb': lambda group, title: any(x in group.lower() for x in ["mlb"]),    
+    'cord_mlb': lambda group, title: any(x in group.lower() for x in ["mlb"]),   
+    'cord_nba': lambda group, title: any(x in group.lower() for x in ["nba"]),    
     'cord_nhl': lambda group, title: any(x in group.lower() for x in ["nhl"])    
 }
 
