@@ -1,7 +1,6 @@
 {
   "Listas Disponibles en Eventos": 
   [
-
     {
       "longDescription": "Eventos",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/eventos.png",
@@ -21,6 +20,15 @@
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/sections/sky"      
     },
     {
+      "longDescription": "NFL - Futbol Americano",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/nfl.png",
+      "releaseDate": "2020-01-15",
+      "id": "NFL",
+      "shortDescription": "NFL",
+      "title": "NFL Pass",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/sections/nfl"      
+    },
+    {
       "longDescription": "NBA - Basketball",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/nba.png",
       "releaseDate": "2020-01-15",
@@ -30,13 +38,13 @@
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/sections/nba"      
     },    
     {
-      "longDescription": "NFL - Futbol Americano",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/nfl.png",
+      "longDescription": "NHL Pass",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/nhl.png",
       "releaseDate": "2020-01-15",
-      "id": "NFL",
-      "shortDescription": "NFL",
-      "title": "NFL Pass",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/sections/nfl"      
+      "id": "NHL",
+      "shortDescription": "NHL",
+      "title": "NHL Pass",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/sections/nhl"      
     },
     {
       "longDescription": "NCAAF - Futbol Americano",
@@ -48,13 +56,31 @@
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/sections/ncaaf"      
     },
     {
-      "longDescription": "NHL Pass",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/nhl.png",
+      "longDescription": "NCAAB - Basketball",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/ncaab.png",
       "releaseDate": "2020-01-15",
-      "id": "NHL",
-      "shortDescription": "NHL",
-      "title": "NHL Pass",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/sections/nhl"      
+      "id": "NCAAB",
+      "shortDescription": "NCAAB",
+      "title": "NCAAB",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/sections/ncaaf"      
+    },
+    {
+      "longDescription": "WNBA - Basketball",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/wnba.png",
+      "releaseDate": "2020-01-15",
+      "id": "WNBA",
+      "shortDescription": "WNBA",
+      "title": "WNBA",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/sections/wnba"      
+    },
+    {
+      "longDescription": "PPV",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/ppv.png",
+      "releaseDate": "2020-01-15",
+      "id": "PPV",
+      "shortDescription": "PPV",
+      "title": "PPV",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/sections/ppv"      
     },
     {
       "longDescription": "MLB",
