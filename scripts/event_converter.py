@@ -840,6 +840,8 @@ def main():
             total_in_title = 0
             total_fixed = 0
             total_invalid = 0
+            total_outdated = 0  # ← NUEVO CONTADOR PARA TOTALES
+            
             
             for converter_name, config in converters:
                 #print(f"\n  📦 Procesando: {converter_name} - {config['artist']}")
@@ -863,6 +865,8 @@ def main():
                 total_in_title += in_title
                 total_fixed += fixed
                 total_invalid += invalid
+                total_outdated += outdated  # ← AGREGAR ESTA LÍNEA
+                
                 
                 print(f"  ✓ Obtenidos: {len(entries)} | Omitidos: {skipped} | Inválidos: {invalid}")
             
@@ -888,8 +892,8 @@ def main():
             if output_config.get('use_picons'):
                 stats += f"Encontrados: {total_found} ({total_found*100//total}%) | "
             stats += f"Originales: {total_orig} ({total_orig*100//total}%) | Default: {total_default} ({total_default*100//total}%)"
-            if outdated > 0:
-                print(f"    ⏰ Eventos vencidos: {outdated}")            
+            if total_outdated > 0:  # ← AGREGAR ESTAS LÍNEAS
+                print(f"⏰ Total eventos vencidos: {total_outdated}")            
             print(stats)
             print()
             
@@ -919,6 +923,7 @@ def main():
                 continue
             
             outputs_generated = 0
+            total_outdated_multi = 0  # ← NUEVO
             
             for output_name, output_config in config['outputs'].items():
                 #print(f"  📁 Procesando salida: {output_name}")
@@ -953,7 +958,8 @@ def main():
                 print()
                 
                 outputs_generated += 1
-            
+                total_outdated_multi += outdated  # ← AGREGAR AL FINAL DEL BLOQUE
+
             if outputs_generated > 0:
                 print(f"✓ {outputs_generated}/{len(config['outputs'])} salidas generadas exitosamente\n")
                 successful += 1
