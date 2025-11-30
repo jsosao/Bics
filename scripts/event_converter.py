@@ -266,7 +266,7 @@ CONVERTERS = {
         'output_path': 'country/sports/sections/nhl',
         'use_picons': False,
         'filter_type': 'custom',
-        'custom_filter': 'cord_mlb',
+        'custom_filter': 'cord_nhl',
         'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png',                                
         'merge_group': 'sections_nhl'
     },     
@@ -280,7 +280,7 @@ CONVERTERS = {
         'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaaf[.]png',                                
         'merge_group': 'sections_ncaaf'
     },    
-    'cord_nhl': {
+    'cord_ncaaf': {
         'env_var': 'URL_002',
         'artist': 'Cord',
         'output_path': 'country/sports/sections/ncaaf',
