@@ -55,6 +55,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           URL_001: ${{ secrets.URL_001 }}
+          URL_002: ${{ secrets.URL_002 }}
           URL_011: ${{ secrets.URL_011 }}
           SELECTED_CONVERTERS: ${{ github.event.inputs.converters }}
         run: |
