@@ -21,6 +21,7 @@ EXECUTION_TIMESTAMP = (datetime.now() - timedelta(hours=6)).strftime('%d-%m-%Y %
 
 M3U_URLS = {
     'URL_001': os.environ.get('URL_001', ''),
+    'URL_002': os.environ.get('URL_002', ''),
     'URL_011': os.environ.get('URL_011', '')
 }
 
