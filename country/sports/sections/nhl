@@ -8,11 +8,23 @@
     Live: true
     Country: "us"
     Tag: "live"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
 {
     Artist: "Pass"
-    Title: "Washington Capitals @ New York Islanders 11/30 1:10 PM ET"
+    Title: "Columbus Blue Jackets @ New Jersey Devils 12/01 7:00 PM ET"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL20[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+    Date: "01-12-2025 08:11:00"
+}
+{
+    Artist: "Pass"
+    Title: "Pittsburgh Penguins @ Philadelphia Flyers 12/01 7:00 PM ET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png"
@@ -20,11 +32,23 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
 {
     Artist: "Pass"
-    Title: "Anaheim Ducks @ Chicago Blackhawks 11/30 3:40 PM ET"
+    Title: "Winnipeg Jets @ Buffalo Sabres 12/01 7:30 PM ET"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL01[/]sd"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+    Date: "01-12-2025 08:11:00"
+}
+{
+    Artist: "Pass"
+    Title: "Anaheim Ducks @ St Louis Blues 12/01 8:00 PM ET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png"
@@ -32,31 +56,19 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
 {
     Artist: "Pass"
-    Title: "Calgary Flames @ Carolina Hurricanes 11/30 5:10 PM ET"
+    Title: "Utah Mammoth @ San Jose Sharks 12/01 10:00 PM ET"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
     Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL02[/]sd"
+    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL25[/]sd"
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
-}
-{
-    Artist: "Pass"
-    Title: "Ottawa Senators @ Dallas Stars 11/30 6:10 PM ET"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png"
-    Stream: "https[:[[/]][[/]]]tvpass[.]org[/]live[/]NHL18[/]sd"
-    Live: true
-    Country: "us"
-    Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
 {
     Artist: "Cord"
@@ -68,7 +80,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
 {
     Artist: "Cord"
@@ -80,7 +92,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
 {
     Artist: "Cord"
@@ -92,7 +104,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
 {
     Artist: "Cord"
@@ -104,7 +116,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
 {
     Artist: "Cord"
@@ -116,7 +128,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
 {
     Artist: "Cord"
@@ -128,7 +140,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
 {
     Artist: "Cord"
@@ -140,7 +152,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
 {
     Artist: "Cord"
@@ -152,7 +164,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
 {
     Artist: "Cord"
@@ -164,7 +176,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
 {
     Artist: "Cord"
@@ -176,7 +188,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
 {
     Artist: "Cord"
@@ -188,7 +200,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
 {
     Artist: "Cord"
@@ -200,7 +212,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
 {
     Artist: "Cord"
@@ -212,7 +224,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
 {
     Artist: "Cord"
@@ -224,7 +236,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
 {
     Artist: "Cord"
@@ -236,7 +248,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
 {
     Artist: "Cord"
@@ -248,7 +260,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
 {
     Artist: "Cord"
@@ -260,7 +272,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
 {
     Artist: "Cord"
@@ -272,7 +284,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
 {
     Artist: "Cord"
@@ -284,5 +296,5 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 06:21:16"
+    Date: "01-12-2025 08:11:00"
 }
