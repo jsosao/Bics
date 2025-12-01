@@ -1,5 +1,5 @@
 {
-  "Nacionales": [
+  "Países": [
     {
       "longDescription": "México",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/mx.png",
@@ -37,42 +37,6 @@
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/country/br"      
     },
     {
-      "longDescription": "Premium",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/premium.png",
-      "releaseDate": "2020-01-15",
-      "id": "Premium",
-      "shortDescription": "Premium",
-      "title": "Premium",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/country/premium"      
-    },
-    {
-      "longDescription": "Noticias",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/news.png",
-      "releaseDate": "2020-01-15",
-      "id": "Noticias",
-      "shortDescription": "Noticias",
-      "title": "Noticias",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/others/news"      
-    },
-    {
-      "longDescription": "Zona Deportiva",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/zona_sports.png",
-      "releaseDate": "2020-01-15",
-      "id": "Zona Deportiva",
-      "shortDescription": "Zona Deportiva",
-      "title": "Zona Deportiva",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/sports.json"      
-    },
-    {
-      "longDescription": "Eventos",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/eventos.png",
-      "releaseDate": "2020-01-15",
-      "id": "Eventos",
-      "shortDescription": "Eventos",
-      "title": "Eventos",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/eventos.json"      
-    },
-    {
       "longDescription": "LATAM Nacionales y Regionales",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/latin.png",
       "releaseDate": "2020-01-15",
@@ -81,15 +45,7 @@
       "title": "Latinoamericano",
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/country/latin.json"      
     },
-    {
-      "longDescription": "Infantiles",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/kids.png",
-      "releaseDate": "2020-01-15",
-      "id": "Infantiles",
-      "shortDescription": "Infantiles",
-      "title": "Infantiles",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/others/kids"      
-    },
+    
     {
       "longDescription": "Internacionales",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/mundo.png",
@@ -100,24 +56,6 @@
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/country/mundo.json"      
     },
     {
-      "longDescription": "Dish",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/dish.png",
-      "releaseDate": "2020-01-15",
-      "id": "Dish",
-      "shortDescription": "Dish",
-      "title": "Dish",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/country/dish"      
-    },
-   {
-    "longDescription": "Zap",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/zap.png",
-      "releaseDate": "2020-01-15",
-      "id": "Zap",
-      "shortDescription": "Zap",
-      "title": "Zap",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/others/test/zap"      
-    },
-    {
       "longDescription": "Telemundo | Univisión ",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/t_u.png",
       "releaseDate": "2020-01-15",
@@ -126,81 +64,8 @@
       "title": "Telemundo | Univisión ",
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/country/tu.json"      
     },
-    {
-      "longDescription": "24x7",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/24_7.png",
-      "releaseDate": "2020-01-15",
-      "id": "24x7",
-      "shortDescription": "24x7",
-      "title": "24x7",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/others/24_7"      
-    },
-
-    {
-      "longDescription": "Música",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/music.png",
-      "releaseDate": "2020-01-15",
-      "id": "Música",
-      "shortDescription": "Música",
-      "title": "Música",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/others/music"      
-    },
-    {
-      "longDescription": "Zona de Pruebas",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/prueba.png",
-      "releaseDate": "2020-01-15",
-      "id": "Zona de Pruebas",
-      "shortDescription": "Zona de Pruebas",
-      "title": "Zona de Pruebas",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/others/pruebas.json"      
-    },   
-    {
-      "longDescription": "Peliculas",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/peliculas.png",
-      "releaseDate": "2020-01-15",
-      "id": "Peliculas",
-      "shortDescription": "Peliculas",
-      "title": "Peliculas",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/others/movies.json"      
-    }
   ],
-  "Regionales": [
-    {
-      "longDescription": "México",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/mx.png",
-      "releaseDate": "2020-01-15",
-      "id": "México",
-      "shortDescription": "México",
-      "title": "México",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/country/mx"      
-    },
-    {
-      "longDescription": "Estados Unidos",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/eeuu.png",
-      "releaseDate": "2020-01-15",
-      "id": "Estados Unidos",
-      "shortDescription": "Estados Unidos",
-      "title": "Estados Unidos",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/country/us.json"      
-    },
-    {
-      "longDescription": "Canada",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/ca.png",
-      "releaseDate": "2020-01-15",
-      "id": "Canada",
-      "shortDescription": "Canada",
-      "title": "Canada",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/country/ca.json"      
-    },
-    {
-      "longDescription": "Brasil",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/br.png",
-      "releaseDate": "2020-01-15",
-      "id": "Brasil",
-      "shortDescription": "Brasil",
-      "title": "Brasil",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/country/br"      
-    },
+  "Especiales":[
     {
       "longDescription": "Premium",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/premium.png",
@@ -238,15 +103,6 @@
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/eventos.json"      
     },
     {
-      "longDescription": "LATAM Nacionales y Regionales",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/latin.png",
-      "releaseDate": "2020-01-15",
-      "id": "LATAM",
-      "shortDescription": "LATAM",
-      "title": "Latinoamericano",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/country/latin.json"      
-    },
-    {
       "longDescription": "Infantiles",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/kids.png",
       "releaseDate": "2020-01-15",
@@ -254,15 +110,6 @@
       "shortDescription": "Infantiles",
       "title": "Infantiles",
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/others/kids"      
-    },
-    {
-      "longDescription": "Internacionales",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/mundo.png",
-      "releaseDate": "2020-01-15",
-      "id": "Internacionales",
-      "shortDescription": "Internacionales",
-      "title": "Internacionales",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/country/mundo.json"      
     },
     {
       "longDescription": "Dish",
@@ -283,15 +130,6 @@
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/others/test/zap"      
     },
     {
-      "longDescription": "Telemundo | Univisión ",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/t_u.png",
-      "releaseDate": "2020-01-15",
-      "id": "Telemundo | Univisión ",
-      "shortDescription": "Telemundo | Univisión ",
-      "title": "Telemundo | Univisión ",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/country/tu.json"      
-    },
-    {
       "longDescription": "24x7",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/24_7.png",
       "releaseDate": "2020-01-15",
@@ -300,7 +138,6 @@
       "title": "24x7",
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/others/24_7"      
     },
-
     {
       "longDescription": "Música",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/music.png",
