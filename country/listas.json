@@ -1,5 +1,5 @@
 {
-  "A Países": [
+  "1. Países": [
     {
       "longDescription": "México",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/mx.png",
@@ -64,16 +64,7 @@
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/country/tu.json"      
     }
   ],
-  "Especiales": [
-    {
-      "longDescription": "Premium",
-      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/premium.png",
-      "releaseDate": "2020-01-15",
-      "id": "Premium",
-      "shortDescription": "Premium",
-      "title": "Premium",
-      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/country/premium"      
-    },
+  "2. Noticias y Deportes": [
     {
       "longDescription": "Noticias",
       "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/news.png",
@@ -100,6 +91,17 @@
       "shortDescription": "Eventos",
       "title": "Eventos",
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/sports/eventos.json"      
+    }
+  ],
+  "2. Especiales": [
+    {
+      "longDescription": "Premium",
+      "thumbnail": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/country/premium.png",
+      "releaseDate": "2020-01-15",
+      "id": "Premium",
+      "shortDescription": "Premium",
+      "title": "Premium",
+      "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/country/premium"      
     },
     {
       "longDescription": "Infantiles",
@@ -164,5 +166,5 @@
       "title": "Peliculas",
       "url": "https://raw.githubusercontent.com/jsosao/Bics/main/country/others/movies.json"      
     }
-  ]  
+  ]    
 }
