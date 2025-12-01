@@ -1,218 +1,216 @@
 {
-"Nacionales":
-[
-{
-    "Artist": "web",
-    "Title": "AZTECA UNO",
-    "streamFormat": "hls|mts",
-    "SwitchingStrategy": "full-adaptation",
-    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_uno[.]png",
-    "Stream": "https[:[/][/]]mdstrm[.]com[/]live-stream-playlist[/]609b243156cca108312822a6[.]m3u8",
-    "Live": true,
-    "Date": "27-11-2025 00:00:00"
-},
-{
-    "Artist": "gaz",
-    "Title": "AZTECA UNO",
-    "streamFormat": "hls|mts",
-    "SwitchingStrategy": "full-adaptation",
-    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_uno[.]png",
-    "Stream": "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7232",
-    "Live": true,
-    "Date": "27-11-2025 00:00:00"
-},
-{
-    "Artist": "web",
-    "Title": "AZTECA UNO - 1H",
-    "streamFormat": "hls|mts",
-    "SwitchingStrategy": "full-adaptation",
-    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_uno[.]png",
-    "Stream": "https[:[/][/]]azt-oo[.]otteravision[.]com[/]out[/]v1[/]da53d7d388be437e92bf8f464018eb48[/]index[.]m3u8",
-    "Live": true,
-    "Date": "27-11-2025 00:00:00"
-},
-{
-    "Artist": "web",
-    "Title": "AZTECA INTERNACIONAL",
-    "streamFormat": "hls|mts",
-    "SwitchingStrategy": "full-adaptation",
-    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_internacional[.]png",
-    "Stream": "https[:[/][/]]azt-mun[.]otteravision[.]com[/]azt[/]mun[/]mun[.]m3u8",
-    "Live": true,
-    "Date": "27-11-2025 00:00:00"
-},
-{
-    "Artist": "web",
-    "Title": "LAS ESTRELLAS",
-    "streamFormat": "hls|mts",
-    "SwitchingStrategy": "full-adaptation",
-    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas[.]png",
-    "Stream": "https[:[/][/]]channel01-onlymex[.]akamaized[.]net[/]hls[/]live[/]2022749[/]event01[/]index[.]m3u8",
-    "Live": true,
-    "Date": "27-11-2025 00:00:00"
-},
-{
-    "Artist": "gaz",
-    "Title": "LAS ESTRELLAS",
-    "streamFormat": "hls|mts",
-    "SwitchingStrategy": "full-adaptation",
-    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas[.]png",
-    "Stream": "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7454"
-    "Live": true,
-    "Date": "27-11-2025 00:00:00"
-},
-{
-    "Artist": "milista",
-    "Title": "LAS ESTRELLAS",
-    "streamFormat": "hls|mts",
-    "SwitchingStrategy": "full-adaptation",
-    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas[.]png",
-    "Stream": "http[:[/][/]]playtv44[.]com:8080[/]976515597[/]123456[/]67700",
-    "Live": true,
-    "Date": "27-11-2025 00:00:00"
-},
-{
-    "Artist": "neblina",
-    "Title": "IMAGEN TV",
-    "streamFormat": "hls|mts",
-    "SwitchingStrategy": "full-adaptation",
-    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_imagen_tv[.]png",
-    "Stream": "https[:[/][/]]dnslivetv[.]online:443[/]7336[/]1234[/]591596[.]m3u8",
-    "Live": true,
-    "Date": "27-11-2025 00:00:00"
-},
-{
-    "Artist": "gaz",
-    "Title": "IMAGEN TV",
-    "streamFormat": "hls|mts",
-    "SwitchingStrategy": "full-adaptation",
-    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_imagen_tv[.]png",
-    "Stream": "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7239",
-    "Live": true,
-    "Date": "27-11-2025 00:00:00"
-},
-{
-    "Artist": "web",
-    "Title": "IMAGEN TV+",
-    "streamFormat": "hls|mts",
-    "SwitchingStrategy": "full-adaptation",
-    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_imagen_tv_plus[.]png",
-    "Stream": "https[:[/][/]]igd-it-runtime[.]otteravision[.]com[/]igd[/]it[/]it_720[.]m3u8",
-    "Live": true,
-    "Date": "27-11-2025 00:00:00"
-},
-{
-    "Artist": "gaz",
-    "Title": "IMAGEN MULTICAST",
-    "streamFormat": "hls|mts",
-    "SwitchingStrategy": "full-adaptation",
-    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_imagen_tv[.]png",
-    "Stream": "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7195"
-    "Live": true,
-    "Date": "27-11-2025 00:00:00"
-},
-{
-    "Artist": "Neblina",
-    "Title": "CANAL 5",
-    "streamFormat": "hls|mts",
-    "SwitchingStrategy": "full-adaptation",
-    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_5[.]png",
-    "Stream": "http[:[/][/]]play[.]tecnomolly[.]com:8080[/]sburgueno[/]52ZNSjqpQRSN[/]32669",
-    "Live": true,
-    "Date": "27-11-2025 00:00:00"
-},
-{
-    "Artist": "Play",
-    "Title": "CANAL 5",
-    "streamFormat": "hls|mts",
-    "SwitchingStrategy": "full-adaptation",
-    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_5[.]png",
-    "Stream": "http[:[/][/]]playtv44[.]com:8080[/]976515597[/]123456[/]315681",
-    "Live": true,
-    "Date": "27-11-2025 00:00:00"
-},
-{
-    "Artist": "gaz",
-    "Title": "CANAL 5",
-    "streamFormat": "hls|mts",
-    "SwitchingStrategy": "full-adaptation",
-    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_5[.]png",
-    "Stream": "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7241",
-    "Live": true,
-    "Date": "27-11-2025 00:00:00"
-},
-{
-    "Artist": "web",
-    "Title": "MULTIMEDIOS CDMX",
-    "streamFormat": "hls|mts",
-    "SwitchingStrategy": "full-adaptation",
-    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_multimedios_cdmx[.]png",
-    "Stream": "https[:[/][/]]mdstrm[.]com[/]live-stream-playlist[/]5f2d9d6ff17144074bd8a284[.]m3u8",
-    "Live": true,
-    "Date": "27-11-2025 00:00:00"
-},
-{
-    "Artist": "maury",
-    "Title": "AZTECA 7",
-    "streamFormat": "hls|mts",
-    "SwitchingStrategy": "full-adaptation",
-    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_siete[.]png",
-    "Stream": "https[:[/][/]]dai[.]google[.]com[/]linear[/]hls[/]event[/]YHoOj51dSKCvBQOBG2OvLQ[/]master[.]m3u8",
-    "Live": true,
-    "Date": "27-11-2025 00:00:00"
-},
-{
-    "Artist": "web",
-    "Title": "AZTECA 7",
-    "streamFormat": "hls|mts",
-    "SwitchingStrategy": "full-adaptation",
-    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_siete[.]png",
-    "Stream": "https[:[/][/]]pubads[.]g[.]doubleclick[.]net[/]ssai[/]event[/]YHoOj51dSKCvBQOBG2OvLQ[/]master[.]m3u8",
-    "Live": true,
-    "Date": "27-11-2025 00:00:00"
-},
-{
-    "Artist": "neblina",
-    "Title": "AZTECA 7",
-    "streamFormat": "hls|mts",
-    "SwitchingStrategy": "full-adaptation",
-    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_siete[.]png",
-    "Stream": "https[:[/][/]]mdstrm[.]com[/]live-stream-playlist[/]609ad46a7a441137107d7a81[.]m3u8",
-    "Live": true,
-    "Date": "27-11-2025 00:00:00"
-},
-{
-    "Artist": "gaz",
-    "Title": "CANAL NU9VE",
-    "streamFormat": "hls|mts",
-    "SwitchingStrategy": "full-adaptation",
-    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nu9ve[.]png",
-    "Stream": "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7245",
-    "Live": true,
-    "Date": "27-11-2025 00:00:00"
-},
-{
-    "Artist": "Play",
-    "Title": "CANAL NU9VE",
-    "streamFormat": "hls|mts",
-    "SwitchingStrategy": "full-adaptation",
-    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nu9ve[.]png",
-    "Stream": "http[:[/][/]]playtv44[.]com:8080[/]976515597[/]123456[/]315699",
-    "Live": true,
-    "Date": "27-11-2025 00:00:00"
-}
-],
-    "Regionales": 
-    [
-    {
-        "Artist": "web",
-        "Title": "CANAL ONCE",
-        "StreamFormat": "hls|mts",
-        "SwitchingStrategy": "full-adaptation",
-        "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_once[.]png",
-        "Stream": "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7232",
-        "Live": true,
-        "Date": "27-11-2025 00:00:00"
-    }
+    "Nacionales": [
+        {
+            "Artist": "web",
+            "Title": "AZTECA UNO",
+            "streamFormat": "hls|mts",
+            "SwitchingStrategy": "full-adaptation",
+            "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_uno[.]png",
+            "Stream": "https[:[/][/]]mdstrm[.]com[/]live-stream-playlist[/]609b243156cca108312822a6[.]m3u8",
+            "Live": true,
+            "Date": "27-11-2025 00:00:00"
+        },
+        {
+            "Artist": "gaz",
+            "Title": "AZTECA UNO",
+            "streamFormat": "hls|mts",
+            "SwitchingStrategy": "full-adaptation",
+            "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_uno[.]png",
+            "Stream": "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7232",
+            "Live": true,
+            "Date": "27-11-2025 00:00:00"
+        },
+        {
+            "Artist": "web",
+            "Title": "AZTECA UNO - 1H",
+            "streamFormat": "hls|mts",
+            "SwitchingStrategy": "full-adaptation",
+            "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_uno[.]png",
+            "Stream": "https[:[/][/]]azt-oo[.]otteravision[.]com[/]out[/]v1[/]da53d7d388be437e92bf8f464018eb48[/]index[.]m3u8",
+            "Live": true,
+            "Date": "27-11-2025 00:00:00"
+        },
+        {
+            "Artist": "web",
+            "Title": "AZTECA INTERNACIONAL",
+            "streamFormat": "hls|mts",
+            "SwitchingStrategy": "full-adaptation",
+            "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_internacional[.]png",
+            "Stream": "https[:[/][/]]azt-mun[.]otteravision[.]com[/]azt[/]mun[/]mun[.]m3u8",
+            "Live": true,
+            "Date": "27-11-2025 00:00:00"
+        },
+        {
+            "Artist": "web",
+            "Title": "LAS ESTRELLAS",
+            "streamFormat": "hls|mts",
+            "SwitchingStrategy": "full-adaptation",
+            "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas[.]png",
+            "Stream": "https[:[/][/]]channel01-onlymex[.]akamaized[.]net[/]hls[/]live[/]2022749[/]event01[/]index[.]m3u8",
+            "Live": true,
+            "Date": "27-11-2025 00:00:00"
+        },
+        {
+            "Artist": "gaz",
+            "Title": "LAS ESTRELLAS",
+            "streamFormat": "hls|mts",
+            "SwitchingStrategy": "full-adaptation",
+            "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas[.]png",
+            "Stream": "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7454",
+            "Live": true,
+            "Date": "27-11-2025 00:00:00"
+        },
+        {
+            "Artist": "milista",
+            "Title": "LAS ESTRELLAS",
+            "streamFormat": "hls|mts",
+            "SwitchingStrategy": "full-adaptation",
+            "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas[.]png",
+            "Stream": "http[:[/][/]]playtv44[.]com:8080[/]976515597[/]123456[/]67700",
+            "Live": true,
+            "Date": "27-11-2025 00:00:00"
+        },
+        {
+            "Artist": "neblina",
+            "Title": "IMAGEN TV",
+            "streamFormat": "hls|mts",
+            "SwitchingStrategy": "full-adaptation",
+            "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_imagen_tv[.]png",
+            "Stream": "https[:[/][/]]dnslivetv[.]online:443[/]7336[/]1234[/]591596[.]m3u8",
+            "Live": true,
+            "Date": "27-11-2025 00:00:00"
+        },
+        {
+            "Artist": "gaz",
+            "Title": "IMAGEN TV",
+            "streamFormat": "hls|mts",
+            "SwitchingStrategy": "full-adaptation",
+            "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_imagen_tv[.]png",
+            "Stream": "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7239",
+            "Live": true,
+            "Date": "27-11-2025 00:00:00"
+        },
+        {
+            "Artist": "web",
+            "Title": "IMAGEN TV+",
+            "streamFormat": "hls|mts",
+            "SwitchingStrategy": "full-adaptation",
+            "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_imagen_tv_plus[.]png",
+            "Stream": "https[:[/][/]]igd-it-runtime[.]otteravision[.]com[/]igd[/]it[/]it_720[.]m3u8",
+            "Live": true,
+            "Date": "27-11-2025 00:00:00"
+        },
+        {
+            "Artist": "gaz",
+            "Title": "IMAGEN MULTICAST",
+            "streamFormat": "hls|mts",
+            "SwitchingStrategy": "full-adaptation",
+            "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_imagen_tv[.]png",
+            "Stream": "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7195",
+            "Live": true,
+            "Date": "27-11-2025 00:00:00"
+        },
+        {
+            "Artist": "Neblina",
+            "Title": "CANAL 5",
+            "streamFormat": "hls|mts",
+            "SwitchingStrategy": "full-adaptation",
+            "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_5[.]png",
+            "Stream": "http[:[/][/]]play[.]tecnomolly[.]com:8080[/]sburgueno[/]52ZNSjqpQRSN[/]32669",
+            "Live": true,
+            "Date": "27-11-2025 00:00:00"
+        },
+        {
+            "Artist": "Play",
+            "Title": "CANAL 5",
+            "streamFormat": "hls|mts",
+            "SwitchingStrategy": "full-adaptation",
+            "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_5[.]png",
+            "Stream": "http[:[/][/]]playtv44[.]com:8080[/]976515597[/]123456[/]315681",
+            "Live": true,
+            "Date": "27-11-2025 00:00:00"
+        },
+        {
+            "Artist": "gaz",
+            "Title": "CANAL 5",
+            "streamFormat": "hls|mts",
+            "SwitchingStrategy": "full-adaptation",
+            "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_5[.]png",
+            "Stream": "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7241",
+            "Live": true,
+            "Date": "27-11-2025 00:00:00"
+        },
+        {
+            "Artist": "web",
+            "Title": "MULTIMEDIOS CDMX",
+            "streamFormat": "hls|mts",
+            "SwitchingStrategy": "full-adaptation",
+            "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_multimedios_cdmx[.]png",
+            "Stream": "https[:[/][/]]mdstrm[.]com[/]live-stream-playlist[/]5f2d9d6ff17144074bd8a284[.]m3u8",
+            "Live": true,
+            "Date": "27-11-2025 00:00:00"
+        },
+        {
+            "Artist": "maury",
+            "Title": "AZTECA 7",
+            "streamFormat": "hls|mts",
+            "SwitchingStrategy": "full-adaptation",
+            "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_siete[.]png",
+            "Stream": "https[:[/][/]]dai[.]google[.]com[/]linear[/]hls[/]event[/]YHoOj51dSKCvBQOBG2OvLQ[/]master[.]m3u8",
+            "Live": true,
+            "Date": "27-11-2025 00:00:00"
+        },
+        {
+            "Artist": "web",
+            "Title": "AZTECA 7",
+            "streamFormat": "hls|mts",
+            "SwitchingStrategy": "full-adaptation",
+            "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_siete[.]png",
+            "Stream": "https[:[/][/]]pubads[.]g[.]doubleclick[.]net[/]ssai[/]event[/]YHoOj51dSKCvBQOBG2OvLQ[/]master[.]m3u8",
+            "Live": true,
+            "Date": "27-11-2025 00:00:00"
+        },
+        {
+            "Artist": "neblina",
+            "Title": "AZTECA 7",
+            "streamFormat": "hls|mts",
+            "SwitchingStrategy": "full-adaptation",
+            "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_siete[.]png",
+            "Stream": "https[:[/][/]]mdstrm[.]com[/]live-stream-playlist[/]609ad46a7a441137107d7a81[.]m3u8",
+            "Live": true,
+            "Date": "27-11-2025 00:00:00"
+        },
+        {
+            "Artist": "gaz",
+            "Title": "CANAL NU9VE",
+            "streamFormat": "hls|mts",
+            "SwitchingStrategy": "full-adaptation",
+            "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nu9ve[.]png",
+            "Stream": "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7245",
+            "Live": true,
+            "Date": "27-11-2025 00:00:00"
+        },
+        {
+            "Artist": "Play",
+            "Title": "CANAL NU9VE",
+            "streamFormat": "hls|mts",
+            "SwitchingStrategy": "full-adaptation",
+            "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nu9ve[.]png",
+            "Stream": "http[:[/][/]]playtv44[.]com:8080[/]976515597[/]123456[/]315699",
+            "Live": true,
+            "Date": "27-11-2025 00:00:00"
+        }
+    ],
+    "Regionales": [
+        {
+            "Artist": "web",
+            "Title": "CANAL ONCE",
+            "StreamFormat": "hls|mts",
+            "SwitchingStrategy": "full-adaptation",
+            "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_once[.]png",
+            "Stream": "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7232",
+            "Live": true,
+            "Date": "27-11-2025 00:00:00"
+        }
     ]
 }
