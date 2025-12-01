@@ -430,7 +430,6 @@ CONVERTERS = {
 # ============================================================
 
 CUSTOM_FILTERS = {
-    #'alfa_eventos': lambda group, title: any(x in group.lower() for x in ["futbol", "ppv", "lmb y lmp"]),
     #'alfa_eventos': lambda group, title: "(eventos)" in group.lower(),    
     'alfa_eventos': lambda group, title: "(eventos)" in group.lower() and not any(excluido in group.lower() for excluido in ["nba (eventos)", "nfl (eventos)"]),
     #'alfa_eventos': lambda group, title: "(eventos)" in group.lower() or "cielo sport" in title.lower() or "cielo evento" in title.lower(),        
@@ -449,8 +448,7 @@ CUSTOM_FILTERS = {
     'alfa_tu': lambda group, title: any(x in title.lower() for x in ["telemundo", "univision", "nbc universo", "unimas", "galavision"]),
     'alfa_sky': lambda group, title: any(x in title.lower() for x in ["cielo evento", "cielo sport"]),
     'alfa_nba': lambda group, title: any(x in group.lower() for x in ["nba"]) or any(x in title.lower() for x in ["nba tv"]),    
-    'alfa_nfl': lambda group, title: any(x in group.lower() for x in ["nfl"]) or any(x in title.lower() for x in ["nfl net"]),    
-    #'alfa_nhl': lambda group, title: any(x in group.lower() for x in ["nhl"]),
+    'alfa_nfl': lambda group, title: any(x in group.lower() for x in ["nfl"]),    
     'alfa_mlb': lambda group, title: any(x in group.lower() for x in ["mlb"]) or any(x in title.lower() for x in ["mlb net"]),    
     'alfa_cartelera_2025': lambda group, title: any(x in group.lower() for x in ["cartelera 2025"]),
     'alfa_depo': lambda group, title: "deportes" in group.lower(),
@@ -656,9 +654,8 @@ def get_tag(group_title):
 
 def should_skip_channel(group_title, channel_title, config, output_name=None):
 
-    # NUEVO: Filtrar eventos pasados
-    if is_event_outdated(channel_title):
-        return True
+    #if is_event_outdated(channel_title):
+    #    return True
         
     group_lower = group_title.lower()
     title_lower = channel_title.lower()
@@ -696,7 +693,7 @@ def should_skip_channel(group_title, channel_title, config, output_name=None):
 
     if config['filter_type'] == 'skip_only':
         return any(keyword in group_lower for keyword in config.get('skip_keywords', []))
-    
+
     return False
 
 def escape_url(url):
