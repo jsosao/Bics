@@ -8,7 +8,7 @@
     Live: true
     Country: "us"
     Tag: "live"
-    Date: "01-12-2025 10:13:38"
+    Date: "01-12-2025 12:15:28"
 }
 {
     Artist: "Pass"
@@ -20,7 +20,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 10:13:38"
+    Date: "01-12-2025 12:15:28"
 }
 {
     Artist: "Pass"
@@ -32,7 +32,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 10:13:38"
+    Date: "01-12-2025 12:15:28"
 }
 {
     Artist: "Pass"
@@ -44,7 +44,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 10:13:38"
+    Date: "01-12-2025 12:15:28"
 }
 {
     Artist: "Pass"
@@ -56,7 +56,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 10:13:38"
+    Date: "01-12-2025 12:15:28"
 }
 {
     Artist: "Pass"
@@ -68,7 +68,7 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 10:13:38"
+    Date: "01-12-2025 12:15:28"
 }
 {
     Artist: "Cord"
@@ -80,5 +80,65 @@
     Live: true
     Country: "us"
     Tag: "nhl"
-    Date: "01-12-2025 10:13:38"
+    Date: "01-12-2025 12:15:28"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 01: PIT VS PHI NHLN Feed  @ 7:00 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]256215"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+    Date: "01-12-2025 12:15:28"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 02: PIT VS PHI TVAS Feed  @ 7:00 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]256216"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+    Date: "01-12-2025 12:15:28"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 03: PIT VS PHI NBCSP Feed  @ 7:00 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]256217"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+    Date: "01-12-2025 12:15:28"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 04: WPG VS BUF Prime Feed  @ 7:30 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]256218"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+    Date: "01-12-2025 12:15:28"
+}
+{
+    Artist: "Cord"
+    Title: "USA Real NHL 05: UTA VS SJS NBCSCA Feed  @ 10:00 pm"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png"
+    Stream: "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]256219"
+    Live: true
+    Country: "us"
+    Tag: "nhl"
+    Date: "01-12-2025 12:15:28"
 }

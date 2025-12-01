@@ -8,7 +8,7 @@
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
-    Date: "01-12-2025 10:13:38"
+    Date: "01-12-2025 12:15:28"
 }
 {
     Artist: "Alfa"
@@ -20,7 +20,7 @@
     Live: true
     Country: "us"
     Tag: "ppv (eventos)"
-    Date: "01-12-2025 10:13:38"
+    Date: "01-12-2025 12:15:28"
 }
 {
     Artist: "Alfa"
@@ -32,41 +32,149 @@
     Live: true
     Country: "us"
     Tag: "ppv (eventos)"
-    Date: "01-12-2025 10:13:38"
+    Date: "01-12-2025 12:15:28"
 }
 {
     Artist: "Alfa"
-    Title: "Liga MX 19:00 Cruz Azul vs Guadalajara"
+    Title: "Campeonato Fem CONCACAF 14:00 Barbados vs Trinidad y Tobago"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_liga_mx[.]png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]23452"
+    Logo: "https://www.concacaf.com/media/0fxjyoyi/cover2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]23520"
     Live: true
     Country: "us"
     Tag: "futbol (eventos)"
-    Date: "01-12-2025 10:13:38"
+    Date: "01-12-2025 12:15:28"
 }
 {
     Artist: "Alfa"
-    Title: "LMP  30 Nov  18:10 Yaquis de Obregon vs Tucson"
+    Title: "Campeonato Fem CONCACAF 17:30 Puerto Rico vs St  Lucia"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_beisbol_lmp[.]png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]23516"
+    Logo: "https://www.concacaf.com/media/0fxjyoyi/cover2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]23521"
     Live: true
     Country: "us"
-    Tag: "lmb y lmp (eventos)"
-    Date: "01-12-2025 10:13:38"
+    Tag: "futbol (eventos)"
+    Date: "01-12-2025 12:15:28"
 }
 {
     Artist: "Alfa"
-    Title: "LMP  30 Nov  18:00 Jaguares de Nayarit vs Charros de Jalisco"
+    Title: "Campeonato Fem CONCACAF 18:00 Guyana vs Nicaragua"
     streamFormat: "hls|mts"
     SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_beisbol_lmp[.]png"
-    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]23517"
+    Logo: "https://www.concacaf.com/media/0fxjyoyi/cover2.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]23522"
     Live: true
     Country: "us"
-    Tag: "lmb y lmp (eventos)"
-    Date: "01-12-2025 10:13:38"
+    Tag: "futbol (eventos)"
+    Date: "01-12-2025 12:15:28"
+}
+{
+    Artist: "Alfa"
+    Title: "Campeonato Fem CONCACAF 19:00 Guatemala vs Bermudas"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/gt_primera_division[.]png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]23523"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+    Date: "01-12-2025 12:15:28"
+}
+{
+    Artist: "Alfa"
+    Title: "Amistoso Fem 18:00 EE  UU  vs Italia"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_fifa_amistoso[.]png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]23524"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+    Date: "01-12-2025 12:15:28"
+}
+{
+    Artist: "Alfa"
+    Title: "LaLiga 14:00 Rayo Vallecano vs Valencia"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/sp_la_liga[.]png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]23525"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+    Date: "01-12-2025 12:15:28"
+}
+{
+    Artist: "Alfa"
+    Title: "Serie A 13:45 Bologna vs Cremonese"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/it_serie_a[.]png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]23526"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+    Date: "01-12-2025 12:15:28"
+}
+{
+    Artist: "Alfa"
+    Title: "Argentina 14:00 Barracas Central vs Gimnasia La Plata"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ar_primera_nacional[.]png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]23527"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+    Date: "01-12-2025 12:15:28"
+}
+{
+    Artist: "Alfa"
+    Title: "Argentina 18:30 Racing Club vs Tigre"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/ar_primera_nacional[.]png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]23528"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+    Date: "01-12-2025 12:15:28"
+}
+{
+    Artist: "Alfa"
+    Title: "Colombia 19:00 Medellin vs America de Cali"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/co_dimayor[.]png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]23529"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+    Date: "01-12-2025 12:15:28"
+}
+{
+    Artist: "Alfa"
+    Title: "Championship 14:00 Birmingham City vs Watford"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_championship_epl[.]png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]23530"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+    Date: "01-12-2025 12:15:28"
+}
+{
+    Artist: "Alfa"
+    Title: "Turquia 11:00 Fenerbahce vs Galatasaray"
+    streamFormat: "hls|mts"
+    SwitchingStrategy: "full-adaptation"
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/2160px-S%C3%BCper_Lig_logo.svg_logo.png"
+    Stream: "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]23531"
+    Live: true
+    Country: "us"
+    Tag: "futbol (eventos)"
+    Date: "01-12-2025 12:15:28"
 }
