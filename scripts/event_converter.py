@@ -655,8 +655,8 @@ def get_tag(group_title):
 
 def should_skip_channel(group_title, channel_title, config, output_name=None):
 
-    if is_event_outdated(channel_title):
-        return True
+    #if is_event_outdated(channel_title):
+    #    return True
         
     group_lower = group_title.lower()
     title_lower = channel_title.lower()
