@@ -4,17 +4,17 @@
     {
         "Artist": "web",
         "Title": "AZTECA UNO",
-        ""Stream"Format": "hls|mts",
+        "StreamFormat": "hls|mts",
         "SwitchingStrategy": "full-adaptation",
         "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_uno[.]png",
-        "Stream": "https[:[/][/]]mdstrm[.]com[/]"Live"-"Stream"-playlist[/]609b243156cca108312822a6[.]m3u8",
+        "Stream": "https[:[/][/]]mdstrm[.]com[/]live-stream-playlist[/]609b243156cca108312822a6[.]m3u8",
         "Live": true,
         "Date": "27-11-2025 00:00:00"
     },
     {
         "Artist": "gaz",
         "Title": "AZTECA UNO",
-        ""Stream"Format": "hls|mts",
+        "StreamFormat": "hls|mts",
         "SwitchingStrategy": "full-adaptation",
         "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_uno[.]png",
         "Stream": "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7232",
@@ -27,20 +27,10 @@
     {
         "Artist": "web",
         "Title": "CANAL ONCE",
-        ""Stream"Format": "hls|mts",
+        "StreamFormat": "hls|mts",
         "SwitchingStrategy": "full-adaptation",
         "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_once[.]png",
-        "Stream": "https[:[/][/]]vivo[.]canalonce"Live"[.]tv[/]a"Live"pkgr3[/]ngrp:cepro_all[/]playlist[.]m3u8",
-        "Live": true,
-        "Date": "27-11-2025 00:00:00"
-    },
-    {
-        "Artist": "web",
-        "Title": "CANAL ONCE DIGITAL",
-        ""Stream"Format": "hls|mts",
-        "SwitchingStrategy": "full-adaptation",
-        "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_once_3[.]png",
-        "Stream": "https[:[/][/]]vivo[.]canalonce"Live"[.]tv[/]oncedos[/]ngrp:pruebachunks_all[/]playlist[.]m3u8",
+        "Stream": "http[:[/][/]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]7232",
         "Live": true,
         "Date": "27-11-2025 00:00:00"
     }
