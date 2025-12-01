@@ -521,7 +521,8 @@ def normalize_text(text):
     text = ''.join(char for char in text if unicodedata.category(char) != 'Mn')
     #text = re.sub(r'\([^)]*\)', '', text)
     text = re.sub(r'\.', ' ', text.strip())
-    text = re.sub(r'[^\w\s&!:@]', '', text)
+    #text = re.sub(r'[^\w\s&!:@]', '', text)
+    text = re.sub(r'[^\w\s&!:@\/\\]', '', text)
     text = re.sub(r'^\d+\.?\s*', '', text)
     return text
 
