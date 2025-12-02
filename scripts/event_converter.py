@@ -719,7 +719,7 @@ def process_m3u_content(content, config, converter_name, picons_list, output_nam
                     'Country': get_country(title),
                     'Tag': get_tag(group_title),
                     'Live': True,     
-                    'Date': "{EXECUTION_TIMESTAMP}"
+                    'Date': {EXECUTION_TIMESTAMP}
                 
                 }
                 entries.append(entry)
