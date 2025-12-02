@@ -984,9 +984,9 @@ def main():
             
             print(f"\n{'='*60}")
             print(f"✓ Ruta fusionada: {output_config['output_path']}")
-            print(f"✓ Total de fusionados: {len(all_entries)} | Total omitidos: {total_skipped}")
+            print(f"✓ Total de fusionados: {total_entries} | Total omitidos: {total_skipped}")            
             
-            total = len(all_entries) if all_entries else 1
+            total = total_entries if total_entries else 1
             stats = f"📊 Logos - "
             if total_fixed > 0:
                 stats += f"Fijos: {total_fixed} ({total_fixed*100//total}%) | "
@@ -1031,7 +1031,7 @@ def main():
             for output_name, output_config in config['outputs'].items():
                 #print(f"  📁 Procesando salida: {output_name}")
                 
-                entries, skipped, orig, found, default, in_title, fixed, invalid, outdated = process_m3u_content(
+                entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
                     content, config, converter_name, picons_list, output_name
                 )
                 
@@ -1097,7 +1097,7 @@ def main():
                 failed += 1
                 continue
             
-            entries, skipped, orig, found, default, in_title, fixed, invalid, outdated = process_m3u_content(
+            entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
                 content, config, converter_name, picons_list
             )
             
