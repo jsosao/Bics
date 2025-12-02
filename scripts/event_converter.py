@@ -387,6 +387,7 @@ CONVERTERS = {
     'alfa': {
         'env_var': 'URL_001',
         'artist': 'Alfa',
+        'category_name': 'Alfa',                                                    
         'output_path': 'country/others/test/alfa',
         'use_picons': False,
         'filter_type': 'include_exclude',
@@ -396,6 +397,7 @@ CONVERTERS = {
     'premium': {
         'env_var': 'URL_001',
         'artist': 'Alfa',
+        'category_name': 'Premium',                                                    
         'output_path': 'country/country/premium',
         'use_picons': False,
         'filter_type': 'include_exclude',
@@ -405,6 +407,7 @@ CONVERTERS = {
     'pass': {
         'env_var': 'URL_011',
         'artist': 'Pass',
+        'category_name': 'Pass',                                                    
         'output_path': 'country/others/test/pass',
         'use_picons': False,
         'filter_type': 'skip_only',
