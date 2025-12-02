@@ -145,7 +145,7 @@ CONVERTERS = {
     'alfa_eventos': {
         'env_var': 'URL_001',
         'artist': 'Alfa',
-        'category_name': 'Eventos',        
+        'category_name': 'a. Eventos',        
         'output_path': 'country/sports/sections/sports',
         'use_picons': True,
         'filter_type': 'custom',
@@ -164,6 +164,38 @@ CONVERTERS = {
 #    },
 
     # FUSION DE EVENTOS DEPORTIVOS
+    'alfa_nfl': {
+        'env_var': 'URL_001',
+        'artist': 'Alfa',
+        'category_name': 'NFL',        
+        'output_path': 'country/sports/sections/sports',
+        'use_picons': False,
+        'filter_type': 'custom',
+        'custom_filter': 'alfa_nfl',
+        'merge_group': 'sections_sports'
+    },
+    'pass_nfl': {
+        'env_var': 'URL_011',
+        'artist': 'Pass',
+        'category_name': 'NFL',        
+        'output_path': 'country/sports/sections/sports',
+        'use_picons': False,
+        'filter_type': 'custom',
+        'custom_filter': 'pass_nfl',
+        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_sundayticket[.]png',                        
+        'merge_group': 'sections_sports'
+    },  
+    'cord_nfl': {
+        'env_var': 'URL_002',
+        'artist': 'Cord',
+        'category_name': 'NFL',        
+        'output_path': 'country/sports/sections/sports',
+        'use_picons': False,
+        'filter_type': 'custom',
+        'custom_filter': 'cord_nfl',
+        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass[.]png',                        
+        'merge_group': 'sections_sports'
+    },      
     'alfa_nba': {
         'env_var': 'URL_001',
         'artist': 'Alfa',
@@ -197,38 +229,6 @@ CONVERTERS = {
         'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba[.]png',                        
         'merge_group': 'sections_sports'
     },
-    'alfa_nfl': {
-        'env_var': 'URL_001',
-        'artist': 'Alfa',
-        'category_name': 'NFL',        
-        'output_path': 'country/sports/sections/sports',
-        'use_picons': False,
-        'filter_type': 'custom',
-        'custom_filter': 'alfa_nfl',
-        'merge_group': 'sections_sports'
-    },
-    'pass_nfl': {
-        'env_var': 'URL_011',
-        'artist': 'Pass',
-        'category_name': 'NFL',        
-        'output_path': 'country/sports/sections/sports',
-        'use_picons': False,
-        'filter_type': 'custom',
-        'custom_filter': 'pass_nfl',
-        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_sundayticket[.]png',                        
-        'merge_group': 'sections_sports'
-    },  
-    'cord_nfl': {
-        'env_var': 'URL_002',
-        'artist': 'Cord',
-        'category_name': 'NFL',        
-        'output_path': 'country/sports/sections/sports',
-        'use_picons': False,
-        'filter_type': 'custom',
-        'custom_filter': 'cord_nfl',
-        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass[.]png',                        
-        'merge_group': 'sections_sports'
-    },      
     'alfa_mlb': {
         'env_var': 'URL_001',
         'artist': 'Alfa',
@@ -306,7 +306,31 @@ CONVERTERS = {
         'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaaf[.]png',                                
         'merge_group': 'sections_sports'
     },     
+    'cord_ncaab': {
+        'env_var': 'URL_002',
+        'artist': 'Cord',
+        'category_name': 'NCAAB',                                    
+        'output_path': 'country/sports/sections/sports',
+        'use_picons': False,
+        'filter_type': 'custom',
+        'custom_filter': 'cord_ncaab',
+        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab[.]png'                
+        'merge_group': 'sections_sports'
+    },     
+   'pass_wnba': {
+        'env_var': 'URL_011',
+        'artist': 'Pass',
+        'category_name': 'WNBA',                             
+        'output_path': 'country/sports/sections/sports',
+        'use_picons': False,
+        'filter_type': 'custom',
+        'custom_filter': 'pass_wnba',
+        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_wnba[.]png',                                
+        'merge_group': 'sections_sports'
+    },    
 
+    
+    
    'pass_ppv': {
         'env_var': 'URL_011',
         'artist': 'Pass',
@@ -342,7 +366,6 @@ CONVERTERS = {
                 'path': 'country/country/tu/t_u_auto',
                 'custom_filter': 'alfa_tu',
                 'category_name': 'Telemundo_Univision'                                    
-                
             },
             'cartelera_2025': {
                 'path': 'country/others/cinema/cartelera_2025',
@@ -357,43 +380,6 @@ CONVERTERS = {
                 'category_name': 'Depo',                                                    
                 'merge_group': 'depo'
             }
-        }
-    },
-
-    # PROCESAMIENTO MÚLTIPLE DE URL_002 (optimizado)
-    'cord_sports': {
-        'env_var': 'URL_002',
-        'artist': 'Cord',
-        'output_path': 'country/sports',
-        'use_picons': False,
-        'filter_type': 'multi_output',
-        'outputs': {
-            'pass_ncaab': {
-                'path': 'country/sports/sections/ncaab',
-                'custom_filter': 'cord_ncaab',
-                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab[.]png'                
-            }
-        }
-    },
-    
-    # PROCESAMIENTO MÚLTIPLE DE URL_011 (optimizado)
-    'pass_sports': {
-        'env_var': 'URL_011',
-        'artist': 'Pass',
-        'output_path': 'country/sports',
-        'use_picons': False,
-        'filter_type': 'multi_output',
-        'outputs': {
-            'pass_wnba': {
-                'path': 'country/sports/sections/wnba',
-                'custom_filter': 'pass_wnba',
-                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_wnba[.]png'                
-            }
-#            'pass_nhl': {
-#                'path': 'country/sports/sections/nhl',
-#                'custom_filter': 'pass_nhl',
-#                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png'                                        
-#            }
         }
     },
     
