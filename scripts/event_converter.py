@@ -644,6 +644,7 @@ def validate_entry(title, stream_url, tvg_logo):
     
     return True, ""
 
+def process_m3u_content(content, config, converter_name, picons_list, output_name=None):
     """Procesa contenido M3U con soporte para multi-output"""
     
     lines = content.strip().split('\n')
