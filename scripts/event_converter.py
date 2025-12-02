@@ -791,7 +791,6 @@ def process_m3u_content(content, config, converter_name, picons_list, output_nam
 def generate_output(entries, category_name=None):
 
     """Genera salida en formato JSON con categorías opcionales"""
-    
     # Si no hay categoría, generar lista simple
     if category_name is None:
         return json.dumps(entries, indent=2, ensure_ascii=False, sort_keys=False)
@@ -986,7 +985,7 @@ def main():
                 
                 # Usar nombre del conversor o artist como categoría
                 category_name = config.get('category_name', config['artist'])
-                output_content = generate_output(entries, category_name)
+                output_content = generate_output(entries)
             
                 output_path = output_config['path']
                 save_output(output_path, output_content)
