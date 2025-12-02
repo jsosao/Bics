@@ -1,5 +1,5 @@
 {
-  "Eventos": [
+  "a. Eventos": [
     {
       "Artist": "Alfa",
       "Title": "Liga MX ",
@@ -64,6 +64,261 @@
       "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]23529",
       "Country": "us",
       "Tag": "futbol (eventos)",
+      "Live": true
+    }
+  ],
+  "NFL": [
+    {
+      "Artist": "Cord",
+      "Title": "US NFL Network",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]83724",
+      "Country": "us",
+      "Tag": "nfl",
+      "Live": true
+    },
+    {
+      "Artist": "Cord",
+      "Title": "USA: NFL NETWORK 1",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]159091",
+      "Country": "us",
+      "Tag": "nfl",
+      "Live": true
+    },
+    {
+      "Artist": "Cord",
+      "Title": "USA: NFL NETWORK 2",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]159117",
+      "Country": "us",
+      "Tag": "nfl",
+      "Live": true
+    },
+    {
+      "Artist": "Cord",
+      "Title": "USA: NFL REDZONE",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]159118",
+      "Country": "us",
+      "Tag": "nfl",
+      "Live": true
+    },
+    {
+      "Artist": "Cord",
+      "Title": "USA: NFL REDZONE 2",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]159119",
+      "Country": "us",
+      "Tag": "nfl",
+      "Live": true
+    },
+    {
+      "Artist": "Cord",
+      "Title": "NFL REDZONE US",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]159120",
+      "Country": "us",
+      "Tag": "nfl",
+      "Live": true
+    },
+    {
+      "Artist": "Cord",
+      "Title": "USA  NFL REDZONE 3",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]208830",
+      "Country": "us",
+      "Tag": "nfl",
+      "Live": true
+    },
+    {
+      "Artist": "Cord",
+      "Title": "USA  NFL",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]208896",
+      "Country": "us",
+      "Tag": "nfl",
+      "Live": true
+    },
+    {
+      "Artist": "Cord",
+      "Title": "NFL 01:  New York Giants  vs  New England Patriots @ 08:15 PM EST",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252010",
+      "Country": "us",
+      "Tag": "nfl",
+      "Live": true
+    },
+    {
+      "Artist": "Cord",
+      "Title": "NFL 02:  San Francisco 49ers vs Cleveland Browns @ 1:00 pm EST",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252011",
+      "Country": "us",
+      "Tag": "nfl",
+      "Live": true
+    },
+    {
+      "Artist": "Cord",
+      "Title": "NFL 03: Houston Texans  vs  Indianapolis Colts 1pm",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252012",
+      "Country": "us",
+      "Tag": "nfl",
+      "Live": true
+    },
+    {
+      "Artist": "Cord",
+      "Title": "NFL 04: New Orleans Saints  vs  Miami Dolphins 1pm",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252013",
+      "Country": "us",
+      "Tag": "nfl",
+      "Live": true
+    },
+    {
+      "Artist": "Cord",
+      "Title": "NFL 05:  Atlanta Falcons vs New York Jets @ 1:00 pm EST",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252014",
+      "Country": "us",
+      "Tag": "nfl",
+      "Live": true
+    },
+    {
+      "Artist": "Cord",
+      "Title": "NFL 06: Arizona Cardinals vs Tampa Bay Buccaneers @ 1:00 pm EST",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252015",
+      "Country": "us",
+      "Tag": "nfl",
+      "Live": true
+    },
+    {
+      "Artist": "Cord",
+      "Title": "NFL 07: Jacksonville Jaguars  vs  Tennessee Titans 1pm",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252016",
+      "Country": "us",
+      "Tag": "nfl",
+      "Live": true
+    },
+    {
+      "Artist": "Cord",
+      "Title": "NFL 08: Minnesota Vikings vs Seattle Seahawks @ 4:05 pm EST",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252017",
+      "Country": "us",
+      "Tag": "nfl",
+      "Live": true
+    },
+    {
+      "Artist": "Cord",
+      "Title": "NFL 09:  Las Vegas Raiders  vs  Los Angeles Chargers 4:25pm",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252018",
+      "Country": "us",
+      "Tag": "nfl",
+      "Live": true
+    },
+    {
+      "Artist": "Cord",
+      "Title": "NFL 10: Buffalo Bills vs Pittsburgh Steelers @ 4:25 pm EST",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252019",
+      "Country": "us",
+      "Tag": "nfl",
+      "Live": true
+    },
+    {
+      "Artist": "Cord",
+      "Title": "NFL 11:  Denver Broncos  vs  Washington Commanders 8:20pm",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252020",
+      "Country": "us",
+      "Tag": "nfl",
+      "Live": true
+    },
+    {
+      "Artist": "Cord",
+      "Title": "NFL 12: Tampa Bay Buccaneers  vs  Los Angeles Rams 8:20pm",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252021",
+      "Country": "us",
+      "Tag": "nfl",
+      "Live": true
+    },
+    {
+      "Artist": "Cord",
+      "Title": "NFL 13: Detroit Lions vs Philadelphia Eagles 8:20pm",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252022",
+      "Country": "us",
+      "Tag": "nfl",
+      "Live": true
+    },
+    {
+      "Artist": "Cord",
+      "Title": "USA NFL Thursday Night: Baltimore Ravens vs Miami Dolphins @ 08:15 PM",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]253677",
+      "Country": "us",
+      "Tag": "nfl",
+      "Live": true
+    },
+    {
+      "Artist": "Cord",
+      "Title": "NFL 01: Baltimore Ravens at Miami Dolphins 8:15pm",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]253678",
+      "Country": "us",
+      "Tag": "nfl",
       "Live": true
     }
   ],
@@ -344,261 +599,6 @@
       "Live": true
     }
   ],
-  "NFL": [
-    {
-      "Artist": "Cord",
-      "Title": "US NFL Network",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]83724",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    },
-    {
-      "Artist": "Cord",
-      "Title": "USA: NFL NETWORK 1",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]159091",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    },
-    {
-      "Artist": "Cord",
-      "Title": "USA: NFL NETWORK 2",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]159117",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    },
-    {
-      "Artist": "Cord",
-      "Title": "USA: NFL REDZONE",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]159118",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    },
-    {
-      "Artist": "Cord",
-      "Title": "USA: NFL REDZONE 2",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]159119",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NFL REDZONE US",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]159120",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    },
-    {
-      "Artist": "Cord",
-      "Title": "USA  NFL REDZONE 3",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]208830",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    },
-    {
-      "Artist": "Cord",
-      "Title": "USA  NFL",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]208896",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NFL 01:  New York Giants  vs  New England Patriots @ 08:15 PM EST",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252010",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NFL 02:  San Francisco 49ers vs Cleveland Browns @ 1:00 pm EST",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252011",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NFL 03: Houston Texans  vs  Indianapolis Colts 1pm",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252012",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NFL 04: New Orleans Saints  vs  Miami Dolphins 1pm",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252013",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NFL 05:  Atlanta Falcons vs New York Jets @ 1:00 pm EST",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252014",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NFL 06: Arizona Cardinals vs Tampa Bay Buccaneers @ 1:00 pm EST",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252015",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NFL 07: Jacksonville Jaguars  vs  Tennessee Titans 1pm",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252016",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NFL 08: Minnesota Vikings vs Seattle Seahawks @ 4:05 pm EST",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252017",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NFL 09:  Las Vegas Raiders  vs  Los Angeles Chargers 4:25pm",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252018",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NFL 10: Buffalo Bills vs Pittsburgh Steelers @ 4:25 pm EST",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252019",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NFL 11:  Denver Broncos  vs  Washington Commanders 8:20pm",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252020",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NFL 12: Tampa Bay Buccaneers  vs  Los Angeles Rams 8:20pm",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252021",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NFL 13: Detroit Lions vs Philadelphia Eagles 8:20pm",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]252022",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    },
-    {
-      "Artist": "Cord",
-      "Title": "USA NFL Thursday Night: Baltimore Ravens vs Miami Dolphins @ 08:15 PM",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]253677",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NFL 01: Baltimore Ravens at Miami Dolphins 8:15pm",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]253678",
-      "Country": "us",
-      "Tag": "nfl",
-      "Live": true
-    }
-  ],
   "MLB": [
     {
       "Artist": "Cord",
@@ -692,6 +692,8 @@
     }
   ],
   "NCAAF": [],
+  "NCAAB": [],
+  "WNBA": [],
   "PPV": [
     {
       "Artist": "Cord",
