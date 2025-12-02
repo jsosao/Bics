@@ -700,11 +700,15 @@ def process_m3u_content(content, config, converter_name, picons_list, output_nam
     # Determinar configuración de salida
     use_picons = config.get('use_picons', False)
     fixed_logo = config.get('fixed_logo', None)
+    category_name = config.get('category_name') 
+    
     
     if output_name and config['filter_type'] == 'multi_output':
         output_config = config['outputs'].get(output_name, {})
         use_picons = output_config.get('use_picons', use_picons)
         fixed_logo = output_config.get('fixed_logo', fixed_logo)
+         # Obtener el category_name específico del output
+        category_name = output_config.get('category_name', category_name)    
     
     i = 0
     while i < len(lines):
@@ -974,7 +978,7 @@ def main():
             
             for output_name, output_config in config['outputs'].items():
                 #print(f"  📁 Procesando salida: {output_name}")
-                
+
                 entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
                     content, config, converter_name, picons_list, output_name
                 )
@@ -982,10 +986,13 @@ def main():
                 if not entries:
                     print(f"    ⚠ Sin entradas para {output_name}")
                     continue
+
+                # Obtener el category_name del output_config
+                category_name = output_config.get('category_name', config.get('category_name', config['artist']))                
                 
                 # Usar nombre del conversor o artist como categoría
-                category_name = config.get('category_name', config['artist'])
-                output_content = generate_output(entries)
+                #category_name = config.get('category_name', config['artist'])
+                output_content = generate_output(entries, category_name)
             
                 output_path = output_config['path']
                 save_output(output_path, output_content)
