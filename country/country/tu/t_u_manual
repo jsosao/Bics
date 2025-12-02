@@ -1,230 +1,235 @@
 {
-    Artist: "web"
-    Title: "PR: TELEMUNDO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo_pr[.]png"
-    Stream: "https[:[/][/]]nbculocallive[.]akamaized[.]net[/]hls[/]live[/]2037499[/]puertorico[/]stream1[/]master[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "Mevo"
-    Title: "PR: TELEMUNDO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo_pr[.]png"
-    Stream: "https[:[/][/]]nbculocallive[.]akamaized[.]net[/]hls[/]live[/]2037499[/]puertorico[/]stream1[/]master[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "PR: PUNTO 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pr_punto_2[.]png"
-    Stream: "https[:[/][/]]nbculocallive[.]akamaized[.]net[/]hls[/]live[/]2037499[/]puertorico[/]stream2[/]master[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "Cord"
-    Title: "TELEMUNDO MIAMI"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo[.]png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]56410"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "Cord"
-    Title: "TELEMUNDO DENVER"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo[.]png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]120665"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "Cord"
-    Title: "TELEMUNDO CHICAGO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo[.]png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]120691"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "Cord"
-    Title: "TELEMUNDO LA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo[.]png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]120701"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "Cord"
-    Title: "TELEMUNDO DALLAS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo[.]png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]121239"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "Chloe"
-    Title: "(OFF) TELEMUNDO INTL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo_intl[.]png"
-    Stream: "http[:[/][/]]190[.]216[.]158[.]199:8000[/]play[/]a00e[/]index[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "Mevo"
-    Title: "TELEMUNDO NOVELAS CLASICAS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo[.]png"
-    Stream: "https[:[/][/]]service-stitcher[.]clusters[.]pluto[.]tv[/]stitch[/]hls[/]channel[/]5cf96cc422df39f1a338d165[/]master[.]m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "Mevo"
-    Title: "TELEMUNDO ACCION"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo[.]png"
-    Stream: "https[:[/][/]]xumo-drct-ch835-ekq0p[.]fast[.]nbcuni[.]com[/]live[/]master[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "Mevo"
-    Title: "TELEMUNDO ROMANCE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo[.]png"
-    Stream: "https[:[/][/]]xumo-drct-ch836-57aiq[.]fast[.]nbcuni[.]com[/]live[/]master[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "Mevo"
-    Title: "NOTICIAS TELEMUNDO AHORA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo[.]png"
-    Stream: "https[:[/][/]]xumo-xumoent-ch827-uj0ch[.]fast[.]nbcuni[.]com[/]live[/]master[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "05_PABLOPOM"
-    Title: "LAT: UNIVERSO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_universo[.]png"
-    Stream: "http[:[/][/]]190[.]11[.]225[.]124:5000[/]live[/]universo_hd[/]playlist[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "Mevo"
-    Title: "UNIVERSO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_universo[.]png"
-    Stream: "http[:[/][/]]190[.]11[.]225[.]124:5000[/]live[/]universo_hd[/]playlist[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "Mevo"
-    Title: "(OFF) UNIVERSO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_universo[.]png"
-    Stream: "http[:[/][/]]latinapro[.]net:25461[/]CARLOSa61[/]rodriguez2CA[/]4361[.]ts"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "Cord"
-    Title: "UNIVISION"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_univision[.]png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]15336"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "Cord"
-    Title: "UNIVISION"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_univision[.]png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]46692"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "UNIVISION"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_univision[.]png"
-    Stream: "http[:[/][/]]tvmate[.]icu:8080[/]live[/]7686199[/]9576982[/]15336[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "Mevo"
-    Title: "(OFF) UNIVISIÓN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_univision[.]png"
-    Stream: "http[:[/][/]]190[.]11[.]225[.]124:5000[/]live[/]univision_hd[/]playlist[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "Mevo"
-    Title: "(OFF) UNIVISION"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_univision[.]png"
-    Stream: "http[:[/][/]]190[.]216[.]158[.]199:8000[/]play[/]a00c[/]index[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "Mevo"
-    Title: "UNIVISION HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_univision[.]png"
-    Stream: "http[:[/][/]]200[.]229[.]147[.]142:8000[/]play[/]a052[/]index[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "Cord"
-    Title: "UNIMAS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_unimas[.]png"
-    Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]57969"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
+"Latinos USA Manual":
+[
+    {
+        Artist: "web"
+        Title: "PR: TELEMUNDO"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo_pr[.]png"
+        Stream: "https[:[/][/]]nbculocallive[.]akamaized[.]net[/]hls[/]live[/]2037499[/]puertorico[/]stream1[/]master[.]m3u8"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+    {
+        Artist: "Mevo"
+        Title: "PR: TELEMUNDO"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo_pr[.]png"
+        Stream: "https[:[/][/]]nbculocallive[.]akamaized[.]net[/]hls[/]live[/]2037499[/]puertorico[/]stream1[/]master[.]m3u8"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+    {
+        Artist: "web"
+        Title: "PR: PUNTO 2"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/pr_punto_2[.]png"
+        Stream: "https[:[/][/]]nbculocallive[.]akamaized[.]net[/]hls[/]live[/]2037499[/]puertorico[/]stream2[/]master[.]m3u8"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+    {
+        Artist: "Cord"
+        Title: "TELEMUNDO MIAMI"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo[.]png"
+        Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]56410"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+    {
+        Artist: "Cord"
+        Title: "TELEMUNDO DENVER"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo[.]png"
+        Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]120665"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+    {
+        Artist: "Cord"
+        Title: "TELEMUNDO CHICAGO"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo[.]png"
+        Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]120691"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+    {
+        Artist: "Cord"
+        Title: "TELEMUNDO LA"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo[.]png"
+        Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]120701"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+    {
+        Artist: "Cord"
+        Title: "TELEMUNDO DALLAS"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo[.]png"
+        Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]121239"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+    {
+        Artist: "Chloe"
+        Title: "(OFF) TELEMUNDO INTL"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo_intl[.]png"
+        Stream: "http[:[/][/]]190[.]216[.]158[.]199:8000[/]play[/]a00e[/]index[.]m3u8"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+    {
+        Artist: "Mevo"
+        Title: "TELEMUNDO NOVELAS CLASICAS"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo[.]png"
+        Stream: "https[:[/][/]]service-stitcher[.]clusters[.]pluto[.]tv[/]stitch[/]hls[/]channel[/]5cf96cc422df39f1a338d165[/]master[.]m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+    {
+        Artist: "Mevo"
+        Title: "TELEMUNDO ACCION"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo[.]png"
+        Stream: "https[:[/][/]]xumo-drct-ch835-ekq0p[.]fast[.]nbcuni[.]com[/]live[/]master[.]m3u8"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+    {
+        Artist: "Mevo"
+        Title: "TELEMUNDO ROMANCE"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo[.]png"
+        Stream: "https[:[/][/]]xumo-drct-ch836-57aiq[.]fast[.]nbcuni[.]com[/]live[/]master[.]m3u8"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+    {
+        Artist: "Mevo"
+        Title: "NOTICIAS TELEMUNDO AHORA"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo[.]png"
+        Stream: "https[:[/][/]]xumo-xumoent-ch827-uj0ch[.]fast[.]nbcuni[.]com[/]live[/]master[.]m3u8"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+    {
+        Artist: "05_PABLOPOM"
+        Title: "LAT: UNIVERSO"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_universo[.]png"
+        Stream: "http[:[/][/]]190[.]11[.]225[.]124:5000[/]live[/]universo_hd[/]playlist[.]m3u8"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+    {
+        Artist: "Mevo"
+        Title: "UNIVERSO"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_universo[.]png"
+        Stream: "http[:[/][/]]190[.]11[.]225[.]124:5000[/]live[/]universo_hd[/]playlist[.]m3u8"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+    {
+        Artist: "Mevo"
+        Title: "(OFF) UNIVERSO"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_universo[.]png"
+        Stream: "http[:[/][/]]latinapro[.]net:25461[/]CARLOSa61[/]rodriguez2CA[/]4361[.]ts"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+    {
+        Artist: "Cord"
+        Title: "UNIVISION"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_univision[.]png"
+        Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]15336"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+    {
+        Artist: "Cord"
+        Title: "UNIVISION"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_univision[.]png"
+        Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]46692"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+    {
+        Artist: "web"
+        Title: "UNIVISION"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_univision[.]png"
+        Stream: "http[:[/][/]]tvmate[.]icu:8080[/]live[/]7686199[/]9576982[/]15336[.]m3u8"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+    {
+        Artist: "Mevo"
+        Title: "(OFF) UNIVISIÓN"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_univision[.]png"
+        Stream: "http[:[/][/]]190[.]11[.]225[.]124:5000[/]live[/]univision_hd[/]playlist[.]m3u8"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+    {
+        Artist: "Mevo"
+        Title: "(OFF) UNIVISION"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_univision[.]png"
+        Stream: "http[:[/][/]]190[.]216[.]158[.]199:8000[/]play[/]a00c[/]index[.]m3u8"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+    {
+        Artist: "Mevo"
+        Title: "UNIVISION HD"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_univision[.]png"
+        Stream: "http[:[/][/]]200[.]229[.]147[.]142:8000[/]play[/]a052[/]index[.]m3u8"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+    {
+        Artist: "Cord"
+        Title: "UNIMAS"
+        streamFormat: "hls|mts"
+        SwitchingStrategy: "full-adaptation"
+        Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_unimas[.]png"
+        Stream: "http[:[/][/]]cord-cutter[.]net:8080[/]bn80NG[/]909467[/]57969"
+        Live: true 
+        Date: "28-11-2025 17:08:00"
+    }
+]
 }
