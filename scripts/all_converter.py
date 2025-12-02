@@ -821,6 +821,7 @@ def save_output(output_path, output_content):
     github_uploaded = False
     return True
 
+def main():    
     """Ejecuta todos los conversores configurados (modo GitHub Actions)"""
     
     print("\n" + "="*60)
