@@ -1056,7 +1056,9 @@ def main():
                 continue
 
             # Obtener el category_name del output_config
-            category_name = output_config.get('category_name', config.get('category_name', config['artist']))                
+            category_name = config.get('category_name', config['artist'])
+            
+#            category_name = output_config.get('category_name', config.get('category_name', config['artist']))                
               
             # Usar nombre del conversor o artist como categoría
             output_content = generate_output(entries, category_name)
