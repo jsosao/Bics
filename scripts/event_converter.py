@@ -365,13 +365,13 @@ CONVERTERS = {
             't_u': {
                 'path': 'country/country/tu/t_u_auto',
                 'custom_filter': 'alfa_tu',
-                'category_name': 'Telemundo_Univision'                                    
+                'category_name': 'Latinos USA Auto'                                    
             },
             'cartelera_2025': {
                 'path': 'country/others/cinema/cartelera_2025',
                 'use_picons': False,
                 'custom_filter': 'alfa_cartelera_2025',
-                'category_name': 'Cartelera'                                                    
+                'category_name': 'Cartelera 2025'                                                    
             },
             'depo': {
                 'path': 'country/sports/depo',
