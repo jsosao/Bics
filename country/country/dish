@@ -1,1130 +1,1134 @@
 {
-    Artist: "barrio"
-    Title: "AZTECA UNO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_uno[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0cc[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "AZTECA INTER HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_internacional[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0n7[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "ESTRELLAS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0d4[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "ESTRELLAS HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0le[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "IMAGEN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_imagen_tv[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0d5[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "CANAL 5"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_5[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0fl[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "CANAL 5 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_5[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0n6[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "MULTIMEDIOS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_multimedios_cdmx[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0bp[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "AZTECA 7"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_siete[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0fm[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "AZTECA 7 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_siete[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0la[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "ESPN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_espn_1[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a091[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "ESPN 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_espn_2[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a092[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "ESPN 3"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_espn_3[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0c3[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "ESPN EXTRA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_espn_4[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0kf[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "TYC SPORTS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_tyc_sports[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0kw[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "AYM"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_aym_sports[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0km[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "AYM SPORT HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_aym_sports[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0mk[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "CLARO SPORT"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_claro_sports[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0cm[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "TVC DEPORTES"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tvc_deportes[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0mj[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "TVC DEPORTES"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tvc_deportes[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0kl[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "PX SPORTS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0ku[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "NBA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nba_tv[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0kj[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "NFL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_network[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0kk[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "AXN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_axn[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a08w[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "TNT SERIES"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tnt_series[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0da[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "TNT NOVELAS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tnt_novelas[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0m2[/]index[.]m3"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "UNIVERSAL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0bt[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "STUDIO UNIVERSAL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0bh[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "PARAMOUNT"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_paramount_network[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0cs[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "WARNER"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_warner_tv[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0cf[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "STAR CHANNEL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_star_channel[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a08v[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "SPACE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_space[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0cg[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "SYFY"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_syfy[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0b1[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "TELEMUNDO INTL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo_intl[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0mg[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "A&E"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_a&e[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0bv[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "A3 SERIES"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0b0[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "FILMS & ARTS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0bc[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "DICOVERY CHANNEL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_channel[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0ep[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "DISCOVERY TURBO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_turbo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0c4[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "DISCOVERY ID"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_id[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0ch[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "DISCOVERY H&H"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_h&h[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0bw[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "NATGEO LA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0cl[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "HISTORY 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_2[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0dj[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "E!"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_e![.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0by[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "FX"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fx[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a08x[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "HBO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0c5[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "HBO 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_2[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0ct[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "HBO +"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_plus[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0cv[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "HBO FAMILY"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_family[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0cu[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "HBO MUNDI"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_mundi[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0jj[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "HBO SIGNATURE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_signature[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0ji[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "HBO XTREME"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_xtreme[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a096[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "CINEMAX"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cinemax[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a093[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "TLC"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tlc[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0bx[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "ISAT"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0b2[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "CINECANAL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cinecanal[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0cq[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "MULTICINEMA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0co[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "HOLA TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hola_tv[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0db[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "CANAL ONCE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_once[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0bq[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "CANAL 14"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_14[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0ax[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "CNN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cnn[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0bd[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "CNN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cnn[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0dl[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "TV UNAM"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tv_unam[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0ay[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "AMC"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_amc_network[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0k8[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "CANAL 22"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_22[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0d7[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "CINE LATINO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0lq[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "CLICK HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0mh[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "COMEDY CENTRAL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_comedy_central[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0b3[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "CARACOLA TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0nd[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "GOLDEN EDGE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_golden_edge[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0nh[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "EXA TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0lr[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "FAST AND FUN BOX"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0ks[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "FAST FUN HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0mi[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "FIGTH BOX"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0kr[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "FILM  &  ARTS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0k9[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "GAME TOON"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0kv[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "GINX"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0kx[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "GOLF CHANNEL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0kz[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "HTV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0b7[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "LAMEJOR TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0ls[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "LIFETIME"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_lifetime[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0ci[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "MAS CHIC"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0ka[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "MTV 00"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mtv[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0kh[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "MULTIPREMIER"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0cp[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "MULTIPREMIER"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0lp[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "MULTICANAL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0lo[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "OUTDOOR"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0kt[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "BOOMERANG"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_boomerang[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0c1[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "CARTOON NETWORK"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoon_network[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0c0[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "DISNEY JR"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_jr[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0bz[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "CARTONITO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoonito[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0kc[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "NICK JR"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nick_jr[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0ck[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "NICK MUSIC"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nickmusic[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0lt[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "ADN 40 HD"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_adn_40[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0ne[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "MILENIO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_milenio[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0dm[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "FORMULA NOTICIAS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0be[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "FRANCE 24"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_france_espanol[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0nm[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "DW ESPAÑOL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_dw_espanol[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0nl[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "RT"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0nk[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "MTV HITS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mtv[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0b4[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "TLR"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0em[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "VH1"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_vh1[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0b6[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "VIDEO ROLA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0b5[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "LETRA A"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0bu[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "TELEPLAY"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0ng[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "TRACE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0ky[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "TVE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0nn[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "TELEYUCATAN"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0na[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "JUSTICIA TV"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0bg[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "NOTICIAS DEL CONGRESO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0az[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "TVC"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0bf[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "13 REALITIES"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0nj[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
-}
-{
-    Artist: "barrio"
-    Title: "13 TELESERIES"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo[.]png"
-    Stream: "http[:[/][/]]38[.]49[.]128[.]38:8000[/]play[/]a0ni[/]index[.]m3u8"
-    Live: true
-    Date: "27-11-2025 00:00:00"
+"DISH": [
+  {
+    "Artist": "barrio",
+    "Title": "AZTECA UNO",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_uno.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0cc/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "AZTECA INTER HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_internacional.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0n7/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "ESTRELLAS",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0d4/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "ESTRELLAS HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_las_estrellas.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0le/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "IMAGEN",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_imagen_tv.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0d5/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "CANAL 5",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_5.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0fl/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "CANAL 5 HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_5.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0n6/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "MULTIMEDIOS",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_multimedios_cdmx.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0bp/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "AZTECA 7",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_siete.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0fm/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "AZTECA 7 HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_azteca_siete.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0la/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "ESPN",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_espn_1.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a091/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "ESPN 2",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_espn_2.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a092/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "ESPN 3",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_espn_3.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0c3/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "ESPN EXTRA",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_espn_4.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0kf/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "TYC SPORTS",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ar_tyc_sports.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0kw/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "AYM",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_aym_sports.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0km/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "AYM SPORT HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_aym_sports.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0mk/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "CLARO SPORT",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_claro_sports.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0cm/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "TVC DEPORTES",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tvc_deportes.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0mj/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "TVC DEPORTES",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tvc_deportes.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0kl/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "PX SPORTS",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0ku/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "NBA",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nba_tv.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0kj/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "NFL",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_network.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0kk/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "AXN",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_axn.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a08w/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "TNT SERIES",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tnt_series.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0da/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "TNT NOVELAS",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tnt_novelas.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0m2/index.m3",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "UNIVERSAL",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_universal_tv.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0bt/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "STUDIO UNIVERSAL",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_studio_universal.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0bh/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "PARAMOUNT",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_paramount_network.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0cs/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "WARNER",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_warner_tv.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0cf/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "STAR CHANNEL",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_star_channel.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a08v/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "SPACE",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_space.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0cg/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "SYFY",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_syfy.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0b1/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "TELEMUNDO INTL",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_telemundo_intl.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0mg/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "A&E",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_a&e.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0bv/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "A3 SERIES",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0b0/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "FILMS & ARTS",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0bc/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "DICOVERY CHANNEL",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_channel.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0ep/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "DISCOVERY TURBO",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_discovery_turbo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0c4/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "DISCOVERY ID",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_id.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0ch/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "DISCOVERY H&H",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_h&h.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0bw/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "NATGEO LA",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0cl/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "HISTORY 2",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_2.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0dj/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "E!",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_e!.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0by/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "FX",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fx.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a08x/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "HBO",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0c5/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "HBO 2",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_2.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0ct/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "HBO +",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_plus.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0cv/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "HBO FAMILY",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_family.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0cu/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "HBO MUNDI",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_mundi.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0jj/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "HBO SIGNATURE",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_signature.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0ji/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "HBO XTREME",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hbo_xtreme.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a096/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "CINEMAX",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cinemax.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a093/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "TLC",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tlc.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0bx/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "ISAT",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0b2/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "CINECANAL",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cinecanal.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0cq/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "MULTICINEMA",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0co/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "HOLA TV",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_hola_tv.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0db/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "CANAL ONCE",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_once.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0bq/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "CANAL 14",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_14.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0ax/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "CNN",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cnn.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0bd/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "CNN",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cnn.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0dl/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "TV UNAM",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_tv_unam.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0ay/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "AMC",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_amc_network.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0k8/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "CANAL 22",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_canal_22.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0d7/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "CINE LATINO",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0lq/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "CLICK HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0mh/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "COMEDY CENTRAL",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_comedy_central.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0b3/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "CARACOLA TV",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0nd/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "GOLDEN EDGE",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_golden_edge.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0nh/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "EXA TV",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0lr/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "FAST AND FUN BOX",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0ks/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "FAST FUN HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0mi/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "FIGTH BOX",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0kr/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "FILM  &  ARTS",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0k9/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "GAME TOON",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0kv/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "GINX",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0kx/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "GOLF CHANNEL",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0kz/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "HTV",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0b7/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "LAMEJOR TV",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0ls/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "LIFETIME",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_lifetime.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0ci/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "MAS CHIC",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0ka/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "MTV 00",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mtv.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0kh/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "MULTIPREMIER",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0cp/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "MULTIPREMIER",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0lp/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "MULTICANAL",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0lo/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "OUTDOOR",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0kt/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "BOOMERANG",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_boomerang.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0c1/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "CARTOON NETWORK",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoon_network.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0c0/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "DISNEY JR",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_jr.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0bz/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "CARTONITO",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoonito.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0kc/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "NICK JR",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nick_jr.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0ck/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "NICK MUSIC",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nickmusic.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0lt/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "ADN 40 HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_adn_40.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0ne/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "MILENIO",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_milenio.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0dm/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "FORMULA NOTICIAS",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0be/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "FRANCE 24",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_france_espanol.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0nm/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "DW ESPAÑOL",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_dw_espanol.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0nl/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "RT",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0nk/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "MTV HITS",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mtv.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0b4/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "TLR",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0em/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "VH1",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_vh1.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0b6/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "VIDEO ROLA",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0b5/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "LETRA A",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0bu/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "TELEPLAY",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0ng/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "TRACE",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0ky/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "TVE",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0nn/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "TELEYUCATAN",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0na/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "JUSTICIA TV",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0bg/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "NOTICIAS DEL CONGRESO",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0az/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "TVC",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0bf/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "13 REALITIES",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0nj/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "barrio",
+    "Title": "13 TELESERIES",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]38.49.128.38:8000/play/a0ni/index.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  }
+]
 }
