@@ -187,28 +187,28 @@ CONVERTERS = {
                 'path': 'country/country/us/aire',
                 'custom_filter': 'cord_abc',
                 'category_name': 'ABC',                      
-                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_abc[.]png'
+                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_abc[.]png',
                 'merge_group': 'us_aire'
             },
             'cbs': {
                 'path': 'country/country/us/aire',
                 'custom_filter': 'cord_cbs',
                 'category_name': 'CBS',                      
-                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cbs[.]png'
+                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cbs[.]png',
                 'merge_group': 'us_aire'
             },
             'nbc': {
                 'path': 'country/country/us/aire',
                 'custom_filter': 'cord_nbc',
                 'category_name': 'NBC',                                    
-                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc[.]png'
+                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nbc[.]png',
                 'merge_group': 'us_aire'
             },
             'fox': {
                 'path': 'country/country/us/aire',
                 'custom_filter': 'cord_fox',
                 'category_name': 'FOX',                                    
-                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox[.]png'
+                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox[.]png',
                 'merge_group': 'us_aire'              
             }
         }
@@ -216,6 +216,7 @@ CONVERTERS = {
     'cord': {
         'env_var': 'URL_002',
         'artist': 'Cord',
+        'category_name': 'Cord',                                    
         'output_path': 'country/others/test/cord',
         'use_picons': False,
         'filter_type': 'skip_only',
@@ -224,6 +225,7 @@ CONVERTERS = {
     '1tv': {
         'env_var': 'URL_003',
         'artist': '1tv',
+        'category_name': '1tv',                                           
         'output_path': 'country/others/test/1tv',
         'use_picons': False,
         'filter_type': 'skip_only',
@@ -239,10 +241,12 @@ CONVERTERS = {
         'filter_type': 'multi_output',
         'outputs': {
             'mx': {'path': 'country/country/world/pg/mx',
-                   'include_keywords': ["lame | mexico"]},
+                   'include_keywords': ["lame | mexico"],
+                    'category_name': 'mx'},
             'usa': {'path': 'country/country/world/pg/usa',
-                    'include_keywords': ["usa"]},
-            'carib': {'path': 'country/country/world/pg/carib', 'include_keywords': ["lame | caribbean"]},
+                    'include_keywords': ["usa"],
+                    'category_name': 'usa'},
+            'carib': {'path': 'country/country/world/pg/carib', 'include_keywords': ["lame | caribbean"],'category_name': 'caribbean'},
             'latin': {'path': 'country/country/world/pg/latin', 'include_keywords': ["lame | latino"]},
             'pe': {'path': 'country/country/world/pg/pe', 'include_keywords': ["lame | peru"]},
             'ec': {'path': 'country/country/world/pg/ec', 'include_keywords': ["lame | ecuador"]},
@@ -340,6 +344,7 @@ CONVERTERS = {
     'edma': {
         'env_var': 'URL_004',
         'artist': 'Edma',
+        'category_name': 'Edma',                                            
         'output_path': 'country/others/test/edma',
         'use_picons': False,
         'filter_type': 'skip_only',
@@ -348,6 +353,7 @@ CONVERTERS = {
     'fast': {
         'env_var': 'URL_005',
         'artist': 'Fast',
+        'category_name': 'Fast',                                            
         'output_path': 'country/others/test/fast',
         'use_picons': False,
         'filter_type': 'skip_only',
@@ -356,6 +362,7 @@ CONVERTERS = {
     'latin': {
         'env_var': 'URL_006',
         'artist': 'Play',
+        'category_name': 'Latinos',                                            
         'output_path': 'country/country/latino/latin_auto',
         'use_picons': False,
         'filter_type': 'include_exclude',
@@ -365,6 +372,7 @@ CONVERTERS = {
     'proyecto': {
         'env_var': 'URL_007',
         'artist': 'Proyecto',
+        'category_name': 'Proyecto',                                            
         'output_path': 'country/others/test/proy',
         'use_picons': False,
         'filter_type': 'include_exclude',
@@ -374,6 +382,7 @@ CONVERTERS = {
     'kids': {
         'env_var': 'URL_007',
         'artist': 'Proyecto',
+        'category_name': 'Infantiles',                                            
         'output_path': 'country/others/kids',
         'use_picons': False,
         'filter_type': 'include_exclude',
@@ -383,6 +392,7 @@ CONVERTERS = {
     'zap': {
         'env_var': 'URL_008',
         'artist': 'Zapp',
+        'category_name': 'Zapping',                                            
         'output_path': 'country/others/test/zap',
         'use_picons': False,
         'filter_type': 'skip_only',
@@ -391,6 +401,7 @@ CONVERTERS = {
     'zona': {
         'env_var': 'URL_010',
         'artist': 'Zona',
+        'category_name': 'Zona',                                            
         'output_path': 'country/others/test/zona',
         'use_picons': False,
         'filter_type': 'skip_only',
@@ -399,6 +410,7 @@ CONVERTERS = {
     'gama': {
         'env_var': 'URL_009',
         'artist': 'Gama',
+        'category_name': 'Gama',                                            
         'output_path': 'country/others/test/gama',
         'use_picons': False,
         'filter_type': 'skip_only',
@@ -407,6 +419,7 @@ CONVERTERS = {
     'box': {
         'env_var': 'URL_012',
         'artist': 'Box',
+        'category_name': 'Box',                                            
         'output_path': 'country/others/test/box',
         'use_picons': False,
         'filter_type': 'skip_only',
@@ -415,6 +428,7 @@ CONVERTERS = {
     'lunar': {
         'env_var': 'URL_013',
         'artist': 'Lunar',
+        'category_name': 'Lunnar',                                            
         'output_path': 'country/others/test/lunar',
         'use_picons': False,
         'filter_type': 'skip_only',
