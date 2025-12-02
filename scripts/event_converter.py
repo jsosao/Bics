@@ -338,40 +338,23 @@ CONVERTERS = {
         'use_picons': True,
         'filter_type': 'multi_output',
         'outputs': {
-            'fox': {
-                'path': 'country/sports/fox',
-                'custom_filter': 'alfa_fox'
-            },
-            'fox_1': {
-                'path': 'country/sports/fox_1',
-                'custom_filter': 'alfa_fox_1'
-            },
-            'espn': {
-                'path': 'country/sports/espn',
-                'custom_filter': 'alfa_espn'
-            },
-            'tudn': {
-                'path': 'country/sports/tudn',
-                'custom_filter': 'alfa_tudn'
-            },            
             't_u': {
                 'path': 'country/country/tu/t_u_auto',
-                'custom_filter': 'alfa_tu'
+                'custom_filter': 'alfa_tu',
+                'category_name': 'Telemundo_Univision',                                    
+                
             },
-            'alfa_sky': {
-                'path': 'country/sports/sections/sky',
-                'custom_filter': 'alfa_sky'
-            },
-            
             'cartelera_2025': {
                 'path': 'country/others/cinema/cartelera_2025',
                 'use_picons': False,
                 'custom_filter': 'alfa_cartelera_2025'
+                'category_name': 'Cartelera',                                                    
             },
             'depo': {
                 'path': 'country/sports/depo',
                 'use_picons': False,
                 'custom_filter': 'alfa_depo',
+                'category_name': 'Depo',                                                    
                 'merge_group': 'depo'
             }
         }
