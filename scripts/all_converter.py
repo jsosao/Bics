@@ -977,35 +977,35 @@ def main():
                 failed += 1
                 continue
 
-# ========================================
-# PROCESAR CONVERSORES MULTI-OUTPUT
-# ========================================
-for converter_name, config in multi_output_converters.items():
-    try:
-        print(f"{'='*60}")
-        print(f"🔀 MULTI-OUTPUT: {converter_name.upper()} - {config['artist']}")
-        print(f"{'='*60}")
-        
-        env_var = config['env_var']
-        content = m3u_cache.get(env_var)
-        
-        if not content:
-            print(f"✗ No se pudo obtener contenido de {env_var}\n")
-            failed += 1
-            continue
-        
-        # Identificar grupos de fusión dentro de los outputs
-        merge_groups_in_multi = {}
-        individual_outputs = []
-        
-        for output_name, output_config in config['outputs'].items():
-            merge_group = output_config.get('merge_group')
-            if merge_group:
-                if merge_group not in merge_groups_in_multi:
-                    merge_groups_in_multi[merge_group] = []
-                merge_groups_in_multi[merge_group].append((output_name, output_config))
-            else:
-                individual_outputs.append((output_name, output_config))
+    # ========================================
+    # PROCESAR CONVERSORES MULTI-OUTPUT
+    # ========================================
+    for converter_name, config in multi_output_converters.items():
+        try:
+            print(f"{'='*60}")
+            print(f"🔀 MULTI-OUTPUT: {converter_name.upper()} - {config['artist']}")
+            print(f"{'='*60}")
+            
+            env_var = config['env_var']
+            content = m3u_cache.get(env_var)
+            
+            if not content:
+                print(f"✗ No se pudo obtener contenido de {env_var}\n")
+                failed += 1
+                continue
+            
+            # Identificar grupos de fusión dentro de los outputs
+            merge_groups_in_multi = {}
+            individual_outputs = []
+            
+            for output_name, output_config in config['outputs'].items():
+                merge_group = output_config.get('merge_group')
+                if merge_group:
+                    if merge_group not in merge_groups_in_multi:
+                        merge_groups_in_multi[merge_group] = []
+                    merge_groups_in_multi[merge_group].append((output_name, output_config))
+                else:
+                    individual_outputs.append((output_name, output_config))
         
         # ========================================
         # PROCESAR GRUPOS DE FUSIÓN DENTRO DE MULTI-OUTPUT
