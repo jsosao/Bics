@@ -443,10 +443,10 @@ CONVERTERS = {
 CUSTOM_FILTERS = {
     'box_depo': lambda group, title: "sport" in group.lower(),
     'pgefford_depo': lambda group, title: any(x in title.lower() for x in ["sport", "espn", "tudn", "dazn", "deportes"]) or any(x in group.lower() for x in ["sport", "deportes", "liga"]),
-    'cord_abc': lambda group, title: "abc" in title.lower() and not any(x in group.lower() for x in ["radio", "canada"]),
-    'cord_cbs': lambda group, title: "cbs" in title.lower() and not any(x in group.lower() for x in ["radio", "canada", "uk", "ncaab", "sports"]),
-    'cord_nbc': lambda group, title: "nbc" in title.lower() and not any(x in group.lower() for x in ["radio", "canada", "sports"]),
-    'cord_fox': lambda group, title: "fox" in title.lower() and not any(x in group.lower() for x in ["radio", "canada", "australia", "sports", "movie", "extra"]),
+    'cord_abc': lambda group, title: "abc" in title.lower() and not any(x in group.lower() for x in ["porn", "xxx channels", "radio", "canada"]),
+    'cord_cbs': lambda group, title: "cbs" in title.lower() and not any(x in group.lower() for x in ["porn", "xxx channels", "radio", "canada", "uk", "ncaab", "sports"]),
+    'cord_nbc': lambda group, title: "nbc" in title.lower() and not any(x in group.lower() for x in ["porn", "xxx channels", "radio", "canada", "sports"]),
+    'cord_fox': lambda group, title: "fox" in title.lower() and not any(x in group.lower() for x in ["porn", "xxx channels", "radio", "canada", "australia", "sports", "movie", "extra"]),
 }
 
 # ============================================================
