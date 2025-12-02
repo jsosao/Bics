@@ -156,6 +156,9 @@ SPORTS_LIST = [
     ('eventos', 'a. Eventos', None, [
         ('alfa', 'URL_001', 'alfa_eventos', None, True)
     ]),
+    ('sky', 'a. SKY', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_sky_sports[.]png', [
+        ('alfa', 'URL_001', 'alfa_sky')
+    ]),
     ('nfl', 'NFL', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_sundayticket[.]png', [
         ('alfa', 'URL_001', 'alfa_nfl', None),
         ('pass', 'URL_011', 'pass_nfl', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_sundayticket[.]png'),
