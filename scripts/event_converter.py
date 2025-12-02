@@ -137,21 +137,83 @@ IN_TITLE_LOGOS = {
 }
 
 # ============================================================
+# PLANTILLA BASE PARA DEPORTES
+# ============================================================
+
+SPORTS_TEMPLATE = {
+    'output_path': 'country/sports/sections/sports',
+    'use_picons': False,
+    'filter_type': 'custom',
+    'merge_group': 'sections_sports'
+}
+
+# ============================================================
+# LISTA DE DEPORTES CONFIGURADOS
+# ============================================================
+
+SPORTS_LIST = [
+    # Formato: (nombre, category_name, fixed_logo, sources)
+    ('eventos', 'a. Eventos', None, [
+        ('alfa', 'URL_001', 'alfa_eventos', None, True)
+    ]),
+    ('nfl', 'NFL', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_sundayticket[.]png', [
+        ('alfa', 'URL_001', 'alfa_nfl', None),
+        ('pass', 'URL_011', 'pass_nfl', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_sundayticket[.]png'),
+        ('cord', 'URL_002', 'cord_nfl', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass[.]png')
+    ]),
+    ('nba', 'NBA', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba[.]png', [
+        ('alfa', 'URL_001', 'alfa_nba'),
+        ('pass', 'URL_011', 'pass_nba'),
+        ('cord', 'URL_002', 'cord_nba')
+    ]),
+    ('mlb', 'MLB', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mlb[.]png', [
+        ('alfa', 'URL_001', 'alfa_mlb'),
+        ('pass', 'URL_011', 'pass_mlb'),
+        ('cord', 'URL_002', 'cord_mlb')
+    ]),
+    ('nhl', 'NHL', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png', [
+        ('pass', 'URL_011', 'pass_nhl'),
+        ('cord', 'URL_002', 'cord_nhl')
+    ]),
+    ('ncaaf', 'NCAAF', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaaf[.]png', [
+        ('pass', 'URL_011', 'pass_ncaaf'),
+        ('cord', 'URL_002', 'cord_ncaaf')
+    ]),
+    ('ncaab', 'NCAAB', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab[.]png', [
+        ('cord', 'URL_002', 'cord_ncaab')
+    ]),
+    ('wnba', 'WNBA', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_wnba[.]png', [
+        ('pass', 'URL_011', 'pass_wnba')
+    ]),
+    ('ppv', 'PPV', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ppv[.]png', [
+        ('pass', 'URL_011', 'pass_ppv'),
+        ('cord', 'URL_002', 'cord_ppv')
+    ])
+]
+
+
+# Usar en CONVERTERS
+SPORTS_CONVERTERS = build_sports_converters()
+
+# ============================================================
 # CONFIGURACIÓN DE CONVERSORES OPTIMIZADA
 # ============================================================
 
 CONVERTERS = {
+
+        **SPORTS_CONVERTERS,
+
     # GRUPO EVENTOS (fusionados)
-    'alfa_eventos': {
-        'env_var': 'URL_001',
-        'artist': 'Alfa',
-        'category_name': 'a. Eventos',        
-        'output_path': 'country/sports/sections/sports',
-        'use_picons': True,
-        'filter_type': 'custom',
-        'custom_filter': 'alfa_eventos',
-        'merge_group': 'sections_sports'
-    },
+#    'alfa_eventos': {
+#        'env_var': 'URL_001',
+#        'artist': 'Alfa',
+#        'category_name': 'a. Eventos',        
+#        'output_path': 'country/sports/sections/sports',
+#        'use_picons': True,
+#        'filter_type': 'custom',
+#        'custom_filter': 'alfa_eventos',
+#        'merge_group': 'sections_sports'
+#    },
 #    'pass_eventos': {
 #        'env_var': 'URL_011',
 #        'artist': 'Pass',
@@ -164,195 +226,38 @@ CONVERTERS = {
 #    },
 
     # FUSION DE EVENTOS DEPORTIVOS
-    'alfa_nfl': {
-        'env_var': 'URL_001',
-        'artist': 'Alfa',
-        'category_name': 'NFL',        
-        'output_path': 'country/sports/sections/sports',
-        'use_picons': False,
-        'filter_type': 'custom',
-        'custom_filter': 'alfa_nfl',
-        'merge_group': 'sections_sports'
-    },
-    'pass_nfl': {
-        'env_var': 'URL_011',
-        'artist': 'Pass',
-        'category_name': 'NFL',        
-        'output_path': 'country/sports/sections/sports',
-        'use_picons': False,
-        'filter_type': 'custom',
-        'custom_filter': 'pass_nfl',
-        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_sundayticket[.]png',                        
-        'merge_group': 'sections_sports'
-    },  
-    'cord_nfl': {
-        'env_var': 'URL_002',
-        'artist': 'Cord',
-        'category_name': 'NFL',        
-        'output_path': 'country/sports/sections/sports',
-        'use_picons': False,
-        'filter_type': 'custom',
-        'custom_filter': 'cord_nfl',
-        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass[.]png',                        
-        'merge_group': 'sections_sports'
-    },      
-    'alfa_nba': {
-        'env_var': 'URL_001',
-        'artist': 'Alfa',
-        'category_name': 'NBA',        
-        'output_path': 'country/sports/sections/sports',
-        'use_picons': False,
-        'filter_type': 'custom',
-        'custom_filter': 'alfa_nba',
-        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba[.]png',                
-        'merge_group': 'sections_sports'
-    },
-    'pass_nba': {
-        'env_var': 'URL_011',
-        'artist': 'Pass',
-        'category_name': 'NBA',
-        'output_path': 'country/sports/sections/sports',
-        'use_picons': False,
-        'filter_type': 'custom',
-        'custom_filter': 'pass_nba',
-        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba[.]png',                        
-        'merge_group': 'sections_sports'
-    },
-    'cord_nba': {
-        'env_var': 'URL_002',
-        'artist': 'Cord',
-        'category_name': 'NBA',        
-        'output_path': 'country/sports/sections/sports',
-        'use_picons': False,
-        'filter_type': 'custom',
-        'custom_filter': 'cord_nba',
-        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba[.]png',                        
-        'merge_group': 'sections_sports'
-    },
-    'alfa_mlb': {
-        'env_var': 'URL_001',
-        'artist': 'Alfa',
-        'category_name': 'MLB',        
-        'output_path': 'country/sports/sections/sports',
-        'use_picons': False,
-        'filter_type': 'custom',
-        'custom_filter': 'alfa_mlb',
-        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mlb[.]png',                        
-        'merge_group': 'sections_sports'
-    },
-    'pass_mlb': {
-        'env_var': 'URL_011',
-        'artist': 'Pass',
-        'category_name': 'MLB',        
-        'output_path': 'country/sports/sections/sports',
-        'use_picons': False,
-        'filter_type': 'custom',
-        'custom_filter': 'pass_mlb',
-        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mlb[.]png',                                
-        'merge_group': 'sections_sports'
-    },    
-    'cord_mlb': {
-        'env_var': 'URL_002',
-        'artist': 'Cord',
-        'category_name': 'MLB',        
-        'output_path': 'country/sports/sections/sports',
-        'use_picons': False,
-        'filter_type': 'custom',
-        'custom_filter': 'cord_mlb',
-        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mlb[.]png',                                
-        'merge_group': 'sections_sports'
-    },     
-    'pass_nhl': {
-        'env_var': 'URL_011',
-        'artist': 'Pass',
-        'category_name': 'NHL',                
-        'output_path': 'country/sports/sections/sports',
-        'use_picons': False,
-        'filter_type': 'custom',
-        'custom_filter': 'pass_nhl',
-        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png',                                
-        'merge_group': 'sections_sports'
-    },    
-    'cord_nhl': {
-        'env_var': 'URL_002',
-        'artist': 'Cord',
-        'category_name': 'NHL',                      
-        'output_path': 'country/sports/sections/sports',
-        'use_picons': False,
-        'filter_type': 'custom',
-        'custom_filter': 'cord_nhl',
-        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png',                                
-        'merge_group': 'sections_sports'
-    },     
-   'pass_ncaaf': {
-        'env_var': 'URL_011',
-        'artist': 'Pass',
-        'category_name': 'NCAAF',                      
-        'output_path': 'country/sports/sections/sports',
-        'use_picons': False,
-        'filter_type': 'custom',
-        'custom_filter': 'pass_ncaaf',
-        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaaf[.]png',                                
-        'merge_group': 'sections_sports'
-    },    
-    'cord_ncaaf': {
-        'env_var': 'URL_002',
-        'artist': 'Cord',
-        'category_name': 'NCAAF',                             
-        'output_path': 'country/sports/sections/sports',
-        'use_picons': False,
-        'filter_type': 'custom',
-        'custom_filter': 'cord_ncaaf',
-        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaaf[.]png',                                
-        'merge_group': 'sections_sports'
-    },     
-    'cord_ncaab': {
-        'env_var': 'URL_002',
-        'artist': 'Cord',
-        'category_name': 'NCAAB',                                    
-        'output_path': 'country/sports/sections/sports',
-        'use_picons': False,
-        'filter_type': 'custom',
-        'custom_filter': 'cord_ncaab',
-        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab[.]png',                
-        'merge_group': 'sections_sports'
-    },     
-   'pass_wnba': {
-        'env_var': 'URL_011',
-        'artist': 'Pass',
-        'category_name': 'WNBA',                             
-        'output_path': 'country/sports/sections/sports',
-        'use_picons': False,
-        'filter_type': 'custom',
-        'custom_filter': 'pass_wnba',
-        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_wnba[.]png',                                
-        'merge_group': 'sections_sports'
-    },    
-
-    
-    
-   'pass_ppv': {
-        'env_var': 'URL_011',
-        'artist': 'Pass',
-        'category_name': 'PPV',                             
-        'output_path': 'country/sports/sections/sports',
-        'use_picons': False,
-        'filter_type': 'custom',
-        'custom_filter': 'pass_ppv',
-        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ppv[.]png',                                
-        'merge_group': 'sections_sports'
-    },    
-    'cord_ppv': {
-        'env_var': 'URL_002',
-        'artist': 'Cord',
-        'category_name': 'PPV',                                    
-        'output_path': 'country/sports/sections/sports',
-        'use_picons': False,
-        'filter_type': 'custom',
-        'custom_filter': 'cord_ppv',
-        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ppv[.]png',                                
-        'merge_group': 'sections_sports'
-    },     
+#    'alfa_nfl': {
+#        'env_var': 'URL_001',
+#        'artist': 'Alfa',
+#        'category_name': 'NFL',        
+#        'output_path': 'country/sports/sections/sports',
+#        'use_picons': False,
+#        'filter_type': 'custom',
+#        'custom_filter': 'alfa_nfl',
+#        'merge_group': 'sections_sports'
+#    },
+#    'pass_nfl': {
+#        'env_var': 'URL_011',
+#        'artist': 'Pass',
+#        'category_name': 'NFL',        
+#        'output_path': 'country/sports/sections/sports',
+#        'use_picons': False,
+#        'filter_type': 'custom',
+#        'custom_filter': 'pass_nfl',
+#        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_sundayticket[.]png',                        
+#        'merge_group': 'sections_sports'
+#    },  
+#    'cord_nfl': {
+#        'env_var': 'URL_002',
+#        'artist': 'Cord',
+#        'category_name': 'NFL',        
+#        'output_path': 'country/sports/sections/sports',
+#        'use_picons': False,
+#        'filter_type': 'custom',
+#        'custom_filter': 'cord_nfl',
+#        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass[.]png',                        
+#        'merge_group': 'sections_sports'
+#    },      
     
     # PROCESAMIENTO MÚLTIPLE DE URL_001 (optimizado)
     'alfa_sports': {
@@ -470,6 +375,32 @@ for canonical, variations in EQUAL_NAMES.items():
 # FUNCIONES AUXILIARES
 # ============================================================
 
+# ============================================================
+# GENERAR CONVERTERS AUTOMÁTICAMENTE
+# ============================================================
+
+def build_sports_converters():
+    converters = {}
+    
+    for sport_name, category_name, default_logo, sources in SPORTS_LIST:
+        for source, env_var, custom_filter, *extra in sources:
+            source_logo = extra[0] if extra else default_logo
+            use_picons = extra[1] if len(extra) > 1 else False
+            
+            converter_key = f"{source}_{sport_name}"
+            
+            converters[converter_key] = {
+                **SPORTS_TEMPLATE,
+                'env_var': env_var,
+                'artist': source.capitalize(),
+                'category_name': category_name,
+                'custom_filter': custom_filter,
+                'fixed_logo': source_logo,
+                'use_picons': use_picons
+            }
+    
+    return converters
+    
 def normalize_text(text):
     text = unicodedata.normalize('NFD', text)
     text = ''.join(char for char in text if unicodedata.category(char) != 'Mn')
