@@ -314,7 +314,7 @@ CONVERTERS = {
         'use_picons': False,
         'filter_type': 'custom',
         'custom_filter': 'cord_ncaab',
-        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab[.]png'                
+        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab[.]png',                
         'merge_group': 'sections_sports'
     },     
    'pass_wnba': {
