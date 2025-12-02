@@ -888,43 +888,23 @@ def save_output(output_path, output_content):
     return True
 
 def main():
-    configured_urls = [url for url in M3U_URLS.values() if not url.startswith('https://example.com/')]
-
-    if not configured_urls:
-        print("\n✗ ERROR: No hay URLs configuradas")
-        print("Por favor, edita el diccionario M3U_URLS en el script con tus URLs reales")
-        return
-    
-    converters_list = show_menu()
-    selected_indices = get_user_selection(converters_list)
-    
-    if selected_indices is None:
-        print("\n👋 Saliendo...")
-        return
-    
-    selected_converters = {name: config for idx, (name, config) in enumerate(converters_list) if idx in selected_indices}
-    
-    if not selected_converters:
-        print("\n⚠ No se seleccionaron conversores")
-        return
+    """Ejecuta todos los conversores configurados (modo GitHub Actions)"""
     
     print("\n" + "="*60)
-    print(f"PROCESANDO {len(selected_converters)} CONVERSOR(ES)")
+    print("UNIFIED CONVERTER - GITHUB ACTIONS MODE")
     print("="*60 + "\n")
     
-    # Identificar URLs únicas que necesitan descargarse
-    unique_urls = {}
-    for name, config in selected_converters.items():
-        env_var = config['env_var']
-        if env_var not in unique_urls:
-            url = M3U_URLS.get(env_var)
-            if url and not url.startswith('https://example.com/'):
-                unique_urls[env_var] = url
+    # Filtrar URLs configuradas
+    configured_urls = {k: v for k, v in M3U_URLS.items() if v and v.strip()}
     
-    print(f"📥 URLs únicas a descargar: {len(unique_urls)}\n")
+    if not configured_urls:
+        print("\n✗ ERROR: No hay URLs configuradas en las variables de entorno")
+        return 1
+    
+    print(f"📥 URLs configuradas: {len(configured_urls)}\n")
     
     # Descargar todas las URLs necesarias
-    for env_var, url in unique_urls.items():
+    for env_var, url in configured_urls.items():
         download_m3u(url, env_var)
     
     # Obtener picons si algún conversor los necesita
@@ -932,16 +912,20 @@ def main():
     needs_picons = any(config.get('use_picons', False) or 
                       (config.get('filter_type') == 'multi_output' and 
                        any(out.get('use_picons', False) for out in config.get('outputs', {}).values()))
-                      for config in selected_converters.values())
+                      for config in CONVERTERS.values())
     if needs_picons:
         picons_list = get_picons_list()
     
-    # Agrupar conversores por tipo
+    # Agrupar conversores
     merge_groups = {}
     multi_output_converters = {}
     standalone_converters = {}
     
-    for converter_name, config in selected_converters.items():
+    for converter_name, config in CONVERTERS.items():
+        # Solo procesar si la URL está configurada
+        if config['env_var'] not in configured_urls:
+            continue
+            
         merge_group = config.get('merge_group')
         if merge_group:
             if merge_group not in merge_groups:
@@ -955,8 +939,10 @@ def main():
     successful = 0
     failed = 0
     
-    # Procesar grupos de fusión
-
+    # ========================================
+    # PROCESAR GRUPOS DE FUSIÓN
+    # ========================================
+# Procesar grupos de fusión
     for merge_group, converters in merge_groups.items():
         try:
             print(f"{'='*60}")
@@ -1008,21 +994,16 @@ def main():
             
             # Generar salida JSON con categorías
             output_content = generate_merged_output(entries_by_category)
-            output_config = converters[0][1]
-            github_uploaded = save_output(output_config['output_path'], output_content)
-            
-            # Calcular total de entradas
             total_entries = sum(len(entries) for entries in entries_by_category.values())
+            
+            output_config = converters[0][1]
+            save_output(output_config['output_path'], output_content)
             
             print(f"\n{'='*60}")
             print(f"✓ Ruta fusionada: {output_config['output_path']}")
-            if GITHUB_CONFIG['enabled']:
-                status = "✓ Subido" if github_uploaded else "✗ Falló"
-                print(f"{status} a GitHub")
-            print(f"✓ Total de canales fusionados: {total_entries} | Total omitidos: {total_skipped}")
-            print(f"✓ Categorías generadas: {list(entries_by_category.keys())}")
+            print(f"✓ Total de fusionados: {len(all_entries)} | Total omitidos: {total_skipped}")
             
-            total = total_entries if total_entries else 1
+            total = len(all_entries) if all_entries else 1
             stats = f"📊 Logos - "
             if total_fixed > 0:
                 stats += f"Fijos: {total_fixed} ({total_fixed*100//total}%) | "
@@ -1031,6 +1012,8 @@ def main():
             if output_config.get('use_picons'):
                 stats += f"Encontrados: {total_found} ({total_found*100//total}%) | "
             stats += f"Originales: {total_orig} ({total_orig*100//total}%) | Default: {total_default} ({total_default*100//total}%)"
+            if total_outdated > 0:  # ← AGREGAR ESTAS LÍNEAS
+                print(f"⏰ Total eventos vencidos: {total_outdated}")            
             print(stats)
             print()
             
@@ -1040,8 +1023,10 @@ def main():
             print(f"\n✗ Error procesando grupo {merge_group}: {e}\n")
             failed += 1
             continue
-
-    # Procesar conversores multi-output
+    
+    # ========================================
+    # PROCESAR CONVERSORES MULTI-OUTPUT
+    # ========================================
     for converter_name, config in multi_output_converters.items():
         try:
             print(f"{'='*60}")
@@ -1058,11 +1043,12 @@ def main():
                 continue
             
             outputs_generated = 0
+            total_outdated_multi = 0  # ← NUEVO
             
             for output_name, output_config in config['outputs'].items():
-                print(f"  📁 Procesando salida: {output_name}")
+                #print(f"  📁 Procesando salida: {output_name}")
                 
-                entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
+                entries, skipped, orig, found, default, in_title, fixed, invalid, outdated = process_m3u_content(
                     content, config, converter_name, picons_list, output_name
                 )
                 
@@ -1073,15 +1059,12 @@ def main():
                 # Usar nombre del conversor o artist como categoría
                 category_name = config.get('category_name', config['artist'])
                 output_content = generate_output(entries, category_name)
-
+            
                 output_path = output_config['path']
-                github_uploaded = save_output(output_path, output_content)
+                save_output(output_path, output_content)
                 
                 print(f"    ✓ Ruta: {output_path}")
-                if GITHUB_CONFIG['enabled']:
-                    status = "✓" if github_uploaded else "✗"
-                    print(f"    {status} GitHub")
-                print(f"    ✓ Canales: {len(entries)} | Omitidos: {skipped} | Inválidos: {invalid}")
+                print(f"    ✓ Can: {len(entries)} | Omitidos: {skipped} | Inválidos: {invalid}")
                 
                 total = len(entries) if entries else 1
                 stats = f"    📊 Logos - "
@@ -1092,13 +1075,18 @@ def main():
                 if output_config.get('use_picons', config.get('use_picons', False)):
                     stats += f"Encontrados: {found} ({found*100//total}%) | "
                 stats += f"Originales: {orig} ({orig*100//total}%) | Default: {default} ({default*100//total}%)"
+                if outdated > 0:
+                    print(f"    ⏰ Eventos vencidos: {outdated}")                
                 print(stats)
                 print()
                 
                 outputs_generated += 1
-            
+                total_outdated_multi += outdated  # ← AGREGAR AL FINAL DEL BLOQUE
+
             if outputs_generated > 0:
                 print(f"✓ {outputs_generated}/{len(config['outputs'])} salidas generadas exitosamente\n")
+                if total_outdated_multi > 0:  # ← AGREGAR
+                        print(f"⏰ Total eventos vencidos en todas las salidas: {total_outdated_multi}")                
                 successful += 1
             else:
                 print(f"✗ No se generó ninguna salida\n")
@@ -1109,7 +1097,9 @@ def main():
             failed += 1
             continue
     
-    # Procesar conversores independientes
+    # ========================================
+    # PROCESAR CONVERSORES INDEPENDIENTES
+    # ========================================
     for converter_name, config in standalone_converters.items():
         try:
             print(f"{'='*60}")
@@ -1124,7 +1114,7 @@ def main():
                 failed += 1
                 continue
             
-            entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
+            entries, skipped, orig, found, default, in_title, fixed, invalid, outdated = process_m3u_content(
                 content, config, converter_name, picons_list
             )
             
@@ -1134,13 +1124,10 @@ def main():
                 continue
             
             output_content = generate_output(entries)
-            github_uploaded = save_output(config['output_path'], output_content)
+            save_output(config['output_path'], output_content)
             
             print(f"\n✓ Ruta: {config['output_path']}")
-            if GITHUB_CONFIG['enabled']:
-                status = "✓ Subido" if github_uploaded else "✗ Falló"
-                print(f"{status} a GitHub")
-            print(f"✓ Canales: {len(entries)} | Omitidos: {skipped} | Inválidos: {invalid}")
+            print(f"✓ Can: {len(entries)} | Omitidos: {skipped} | Inválidos: {invalid}")
             
             total = len(entries) if entries else 1
             stats = f"📊 Logos - "
@@ -1151,6 +1138,8 @@ def main():
             if config.get('use_picons'):
                 stats += f"Encontrados: {found} ({found*100//total}%) | "
             stats += f"Originales: {orig} ({orig*100//total}%) | Default: {default} ({default*100//total}%)"
+            if outdated > 0:
+                print(f"    ⏰ Eventos vencidos: {outdated}")            
             print(stats)
             
             print()
@@ -1161,13 +1150,17 @@ def main():
             failed += 1
             continue
     
+    # ========================================
+    # RESUMEN FINAL
+    # ========================================
     print("="*60)
     print("✓ CONVERSIÓN COMPLETADA")
     print("="*60)
     print(f"Exitosos: {successful} | Fallidos: {failed}")
-    print(f"Descargas de M3U realizadas: {len(unique_urls)}")
-    print(f"Archivos procesados con caché optimizado")
+    print(f"Descargas realizadas: {len(configured_urls)}")
     print("="*60)
+    
+    return 0 if failed == 0 else 1
 
 if __name__ == "__main__":
     main()
