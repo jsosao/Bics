@@ -788,7 +788,7 @@ def process_m3u_content(content, config, converter_name, picons_list, output_nam
     
     return entries, skipped_count, logos_original, logos_found, logos_default, logos_in_title, logos_fixed, invalid_count
 
-def generate_output(entries):
+def generate_output(entries, category_name=None):
 
     """Genera salida en formato JSON con categorías opcionales"""
     # Si no hay categoría, generar lista simple
