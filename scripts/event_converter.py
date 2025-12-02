@@ -298,25 +298,25 @@ CONVERTERS = {
         'outputs': {
             'fox': {
                 'path': 'country/sports/sportio',
-                'custom_filter': 'alfa_fox'
+                'custom_filter': 'alfa_fox',
                 'category_name': 'FOX SPORTS',                      
                 'merge_group': 'sportio'
             },
             'fox_1': {
                 'path': 'country/sports/sportio',
-                'custom_filter': 'alfa_fox_1'
+                'custom_filter': 'alfa_fox_1',
                 'category_name': 'FOX ONE',                      
                 'merge_group': 'sportio'
             },
             'espn': {
                 'path': 'country/sports/sportio',
-                'custom_filter': 'alfa_espn'
+                'custom_filter': 'alfa_espn',
                 'category_name': 'ESPN',                      
                 'merge_group': 'sportio'
             },
             'tudn': {
                 'path': 'country/sports/sportio',
-                'custom_filter': 'alfa_tudn'
+                'custom_filter': 'alfa_tudn',
                 'category_name': 'TUDN',                      
                 'merge_group': 'sportio'
             },            
