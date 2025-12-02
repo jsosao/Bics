@@ -145,171 +145,189 @@ CONVERTERS = {
     'alfa_eventos': {
         'env_var': 'URL_001',
         'artist': 'Alfa',
-        'output_path': 'country/sports/eventos',
+        'category_name': 'Eventos',        
+        'output_path': 'country/sports/sections/sports',
         'use_picons': True,
         'filter_type': 'custom',
         'custom_filter': 'alfa_eventos',
-        'merge_group': 'eventos'
+        'merge_group': 'sections_sports'
     },
 #    'pass_eventos': {
 #        'env_var': 'URL_011',
 #        'artist': 'Pass',
-#        'output_path': 'country/sports/eventos',
+#        'category_name': 'Eventos',    
+#        'output_path': 'country/sports/sections/sports',
 #        'use_picons': True,
 #        'filter_type': 'custom',
 #        'custom_filter': 'pass_eventos',
-#        'merge_group': 'eventos'
+#        'merge_group': 'sections_sports'
 #    },
 
+    # FUSION DE EVENTOS DEPORTIVOS
     'alfa_nba': {
         'env_var': 'URL_001',
         'artist': 'Alfa',
-        'output_path': 'country/sports/sections/nba',
+        'category_name': 'NBA',        
+        'output_path': 'country/sports/sections/sports',
         'use_picons': False,
         'filter_type': 'custom',
         'custom_filter': 'alfa_nba',
         'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba[.]png',                
-        'merge_group': 'sections_nba'
+        'merge_group': 'sections_sports'
     },
     'pass_nba': {
         'env_var': 'URL_011',
         'artist': 'Pass',
-        'output_path': 'country/sports/sections/nba',
+        'category_name': 'NBA',
+        'output_path': 'country/sports/sections/sports',
         'use_picons': False,
         'filter_type': 'custom',
         'custom_filter': 'pass_nba',
         'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba[.]png',                        
-        'merge_group': 'sections_nba'
+        'merge_group': 'sections_sports'
     },
     'cord_nba': {
         'env_var': 'URL_002',
         'artist': 'Cord',
-        'output_path': 'country/sports/sections/nba',
+        'category_name': 'NBA',        
+        'output_path': 'country/sports/sections/sports',
         'use_picons': False,
         'filter_type': 'custom',
         'custom_filter': 'cord_nba',
         'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba[.]png',                        
-        'merge_group': 'sections_nba'
+        'merge_group': 'sections_sports'
     },
     'alfa_nfl': {
         'env_var': 'URL_001',
         'artist': 'Alfa',
-        'output_path': 'country/sports/sections/nfl',
+        'category_name': 'NFL',        
+        'output_path': 'country/sports/sections/sports',
         'use_picons': False,
         'filter_type': 'custom',
         'custom_filter': 'alfa_nfl',
-        'merge_group': 'sections_nfl'
+        'merge_group': 'sections_sports'
     },
     'pass_nfl': {
         'env_var': 'URL_011',
         'artist': 'Pass',
-        'output_path': 'country/sports/sections/nfl',
+        'category_name': 'NFL',        
+        'output_path': 'country/sports/sections/sports',
         'use_picons': False,
         'filter_type': 'custom',
         'custom_filter': 'pass_nfl',
         'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_sundayticket[.]png',                        
-        'merge_group': 'sections_nfl'
+        'merge_group': 'sections_sports'
     },  
     'cord_nfl': {
         'env_var': 'URL_002',
         'artist': 'Cord',
-        'output_path': 'country/sports/sections/nfl',
+        'category_name': 'NFL',        
+        'output_path': 'country/sports/sections/sports',
         'use_picons': False,
         'filter_type': 'custom',
         'custom_filter': 'cord_nfl',
         'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass[.]png',                        
-        'merge_group': 'sections_nfl'
+        'merge_group': 'sections_sports'
     },      
     'alfa_mlb': {
-    'env_var': 'URL_001',
-    'artist': 'Alfa',
-    'output_path': 'country/sports/sections/mlb',
-    'use_picons': False,
-    'filter_type': 'custom',
-    'custom_filter': 'alfa_mlb',
-    'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mlb[.]png',                        
-    'merge_group': 'sections_mlb'
+        'env_var': 'URL_001',
+        'artist': 'Alfa',
+        'category_name': 'MLB',        
+        'output_path': 'country/sports/sections/sports',
+        'use_picons': False,
+        'filter_type': 'custom',
+        'custom_filter': 'alfa_mlb',
+        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mlb[.]png',                        
+        'merge_group': 'sections_sports'
     },
     'pass_mlb': {
         'env_var': 'URL_011',
         'artist': 'Pass',
-        'output_path': 'country/sports/sections/mlb',
+        'category_name': 'MLB',        
+        'output_path': 'country/sports/sections/sports',
         'use_picons': False,
         'filter_type': 'custom',
         'custom_filter': 'pass_mlb',
         'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mlb[.]png',                                
-        'merge_group': 'sections_mlb'
+        'merge_group': 'sections_sports'
     },    
     'cord_mlb': {
         'env_var': 'URL_002',
         'artist': 'Cord',
-        'output_path': 'country/sports/sections/mlb',
+        'category_name': 'MLB',        
+        'output_path': 'country/sports/sections/sports',
         'use_picons': False,
         'filter_type': 'custom',
         'custom_filter': 'cord_mlb',
         'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mlb[.]png',                                
-        'merge_group': 'sections_mlb'
+        'merge_group': 'sections_sports'
     },     
     'pass_nhl': {
         'env_var': 'URL_011',
         'artist': 'Pass',
-        'output_path': 'country/sports/sections/nhl',
+        'category_name': 'NHL',                
+        'output_path': 'country/sports/sections/sports',
         'use_picons': False,
         'filter_type': 'custom',
         'custom_filter': 'pass_nhl',
         'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png',                                
-        'merge_group': 'sections_nhl'
+        'merge_group': 'sections_sports'
     },    
     'cord_nhl': {
         'env_var': 'URL_002',
         'artist': 'Cord',
-        'output_path': 'country/sports/sections/nhl',
+        'category_name': 'NHL',                      
+        'output_path': 'country/sports/sections/sports',
         'use_picons': False,
         'filter_type': 'custom',
         'custom_filter': 'cord_nhl',
         'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png',                                
-        'merge_group': 'sections_nhl'
+        'merge_group': 'sections_sports'
     },     
    'pass_ncaaf': {
         'env_var': 'URL_011',
         'artist': 'Pass',
-        'output_path': 'country/sports/sections/ncaaf',
+        'category_name': 'NCAAF',                      
+        'output_path': 'country/sports/sections/sports',
         'use_picons': False,
         'filter_type': 'custom',
         'custom_filter': 'pass_ncaaf',
         'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaaf[.]png',                                
-        'merge_group': 'sections_ncaaf'
+        'merge_group': 'sections_sports'
     },    
     'cord_ncaaf': {
         'env_var': 'URL_002',
         'artist': 'Cord',
-        'output_path': 'country/sports/sections/ncaaf',
+        'category_name': 'NCAAF',                             
+        'output_path': 'country/sports/sections/sports',
         'use_picons': False,
         'filter_type': 'custom',
         'custom_filter': 'cord_ncaaf',
         'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaaf[.]png',                                
-        'merge_group': 'sections_ncaaf'
+        'merge_group': 'sections_sports'
     },     
 
    'pass_ppv': {
         'env_var': 'URL_011',
         'artist': 'Pass',
-        'output_path': 'country/sports/sections/ppv',
+        'category_name': 'PPV',                             
+        'output_path': 'country/sports/sections/sports',
         'use_picons': False,
         'filter_type': 'custom',
         'custom_filter': 'pass_ppv',
         'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ppv[.]png',                                
-        'merge_group': 'sections_ppv'
+        'merge_group': 'sections_sports'
     },    
     'cord_ppv': {
         'env_var': 'URL_002',
         'artist': 'Cord',
-        'output_path': 'country/sports/sections/ppv',
+        'category_name': 'PPV',                                    
+        'output_path': 'country/sports/sections/sports',
         'use_picons': False,
         'filter_type': 'custom',
         'custom_filter': 'cord_ppv',
         'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ppv[.]png',                                
-        'merge_group': 'sections_ppv'
+        'merge_group': 'sections_sports'
     },     
     
     # PROCESAMIENTO MÚLTIPLE DE URL_001 (optimizado)
@@ -736,12 +754,12 @@ def validate_entry(title, stream_url, tvg_logo):
     return True, ""
 
 def process_m3u_content(content, config, converter_name, picons_list, output_name=None):
+
     """Procesa contenido M3U con soporte para multi-output"""
     
     lines = content.strip().split('\n')
     entries = []
     skipped_count = 0
-    outdated_count = 0  # NUEVO CONTADOR
     logos_original = 0
     logos_found = 0
     logos_default = 0
@@ -751,14 +769,12 @@ def process_m3u_content(content, config, converter_name, picons_list, output_nam
     
     # Determinar configuración de salida
     use_picons = config.get('use_picons', False)
-    #fixed_logo = None
-    fixed_logo = config.get('fixed_logo')  # <-- Primero intenta obtenerlo del config principal
-
+    fixed_logo = config.get('fixed_logo', None)
     
-    if output_name and ( config['filter_type'] == 'multi_output' or config['filter_type'] == 'custom') :
+    if output_name and config['filter_type'] == 'multi_output':
         output_config = config['outputs'].get(output_name, {})
         use_picons = output_config.get('use_picons', use_picons)
-        fixed_logo = output_config.get('fixed_logo')
+        fixed_logo = output_config.get('fixed_logo', fixed_logo)
     
     i = 0
     while i < len(lines):
@@ -783,9 +799,6 @@ def process_m3u_content(content, config, converter_name, picons_list, output_nam
                 
                 if should_skip_channel(group_title, original_title, config, output_name):
                     skipped_count += 1
-                    # NUEVO: Verificar si fue por fecha vencida
-                    if is_event_outdated(original_title):
-                        outdated_count += 1                    
                     i += 1
                     continue
 
@@ -814,14 +827,13 @@ def process_m3u_content(content, config, converter_name, picons_list, output_nam
                 # PRIORIDAD 3: Buscar en repositorio de picons
                 if not final_logo and use_picons:
                     matched_picon = find_best_logo_match(title, picons_list)
-                    print (">>>> Logo", matched_picon)
                     if matched_picon:
                         final_logo = matched_picon
                         logos_found += 1
                 
                 # PRIORIDAD 4: Usar logo original del stream
                 if not final_logo and tvg_logo and tvg_logo.strip():
-                    final_logo = tvg_logo.replace("{", "").replace("}", "")
+                    final_logo = tvg_logo.replace("[", "").replace("]", "")
                     logos_original += 1
 
                 # PRIORIDAD 5: Logo por defecto
@@ -834,35 +846,36 @@ def process_m3u_content(content, config, converter_name, picons_list, output_nam
                     'Title': title,
                     'streamFormat': 'hls|mts',
                     'SwitchingStrategy': 'full-adaptation',
-                    'Logo': final_logo.replace("{", "").replace("}", ""),
+                    'Logo': final_logo.replace("[", "").replace("]", ""),
                     'Stream': escape_url(stream_url),
-                    'Live': True,
                     'Country': get_country(title),
                     'Tag': get_tag(group_title),
+                    'Live': True     
                 }
                 entries.append(entry)
         
         i += 1
     
-    return entries, skipped_count, logos_original, logos_found, logos_default, logos_in_title, logos_fixed, invalid_count, outdated_count
+    return entries, skipped_count, logos_original, logos_found, logos_default, logos_in_title, logos_fixed, invalid_count
 
-def generate_output(entries):
-    output_lines = []
-    for entry in entries:
-        output_lines.append('{')
-        output_lines.append(f'    Artist: "{entry["Artist"]}"')
-        output_lines.append(f'    Title: "{entry["Title"]}"')
-        output_lines.append(f'    streamFormat: "{entry["streamFormat"]}"')
-        output_lines.append(f'    SwitchingStrategy: "{entry["SwitchingStrategy"]}"')
-        output_lines.append(f'    Logo: "{entry["Logo"]}"')
-        output_lines.append(f'    Stream: "{entry["Stream"]}"')
-        output_lines.append(f'    Live: {str(entry["Live"]).lower()}')
-        output_lines.append(f'    Country: "{entry["Country"]}"')
-        output_lines.append(f'    Tag: "{entry["Tag"]}"')
-        output_lines.append(f'    Date: "{EXECUTION_TIMESTAMP}"')
-        output_lines.append('}')
+def generate_output(entries, category_name=None):
+
+    """Genera salida en formato JSON con categorías opcionales"""
     
-    return '\n'.join(output_lines)
+    # Si no hay categoría, generar lista simple
+    if category_name is None:
+        return json.dumps(entries, indent=2, ensure_ascii=False, sort_keys=False)
+    
+    # Si hay categoría, generar con estructura de categorías
+    output = {category_name: entries}
+    return json.dumps(output, indent=2, ensure_ascii=False, sort_keys=False)
+
+def generate_merged_output(entries_by_category):
+    """Genera salida JSON con múltiples categorías para archivos fusionados"""
+    output = {}
+    for category, entries in entries_by_category.items():
+        output[category] = entries
+    return json.dumps(output, indent=2, ensure_ascii=False, sort_keys=False)
 
 def save_output(output_path, output_content):
     output_dir = Path(output_path).parent
@@ -943,7 +956,7 @@ def main():
             total_in_title = 0
             total_fixed = 0
             total_invalid = 0
-            total_outdated = 0  # ← NUEVO CONTADOR PARA TOTALES
+            total_outdated = 0 CONTADOR PARA TOTALES
             
             
             for converter_name, config in converters:
@@ -1026,7 +1039,7 @@ def main():
                 continue
             
             outputs_generated = 0
-            total_outdated_multi = 0  # ← NUEVO
+            total_outdated_multi = 0
             
             for output_name, output_config in config['outputs'].items():
                 #print(f"  📁 Procesando salida: {output_name}")
