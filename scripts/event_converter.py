@@ -956,7 +956,7 @@ def main():
             total_in_title = 0
             total_fixed = 0
             total_invalid = 0
-            total_outdated = 0 CONTADOR PARA TOTALES
+            total_outdated = 0
             
             
             for converter_name, config in converters:
@@ -981,7 +981,7 @@ def main():
                 total_in_title += in_title
                 total_fixed += fixed
                 total_invalid += invalid
-                total_outdated += outdated  # ← AGREGAR ESTA LÍNEA
+                total_outdated += outdated 
                 
                 
                 print(f"  ✓ Obtenidos: {len(entries)} | Omitidos: {skipped} | Inválidos: {invalid}")
