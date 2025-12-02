@@ -823,10 +823,6 @@ def save_output(output_path, output_content):
     github_uploaded = False
     return True
 
-
-
-
-
 def main():    
     """Ejecuta todos los conversores configurados (modo GitHub Actions)"""
     
@@ -991,138 +987,77 @@ def main():
                     merge_groups_in_multi[merge_group].append((output_name, output_config))
                 else:
                     individual_outputs.append((output_name, output_config))
-        
-        # ========================================
-        # PROCESAR GRUPOS DE FUSIÓN DENTRO DE MULTI-OUTPUT
-        # ========================================
-        for merge_group, outputs in merge_groups_in_multi.items():
-            print(f"\n  🔗 GRUPO DE FUSIÓN INTERNO: {merge_group.upper()}")
-            print(f"  {'-'*40}")
             
-            entries_by_category = {}
-            total_entries = 0
-            
-            for output_name, output_config in outputs:
-                #print(f"    📁 Procesando: {output_name}")
+            # ========================================
+            # PROCESAR GRUPOS DE FUSIÓN DENTRO DE MULTI-OUTPUT
+            # ========================================
+            for merge_group, outputs in merge_groups_in_multi.items():
+                print(f"\n  🔗 GRUPO DE FUSIÓN INTERNO: {merge_group.upper()}")
+                print(f"  {'-'*40}")
                 
-                entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
-                    content, config, converter_name, picons_list, output_name
-                )
+                entries_by_category = {}
+                total_entries = 0
                 
-                if not entries:
-                    print(f"    ⚠ Sin entradas para {output_name}")
-                    continue
+                for output_name, output_config in outputs:
+                    #print(f"    📁 Procesando: {output_name}")
+                    
+                    entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
+                        content, config, converter_name, picons_list, output_name
+                    )
+                    
+                    if not entries:
+                        print(f"    ⚠ Sin entradas para {output_name}")
+                        continue
+                    
+                    # Usar category_name del output_config
+                    category_name = output_config.get('category_name', config.get('category_name', config['artist']))
+                    entries_by_category[category_name] = entries
+                    total_entries += len(entries)
+                    
+                    print(f"    ✓ {category_name}: {len(entries)} canales")
                 
-                # Usar category_name del output_config
-                category_name = output_config.get('category_name', config.get('category_name', config['artist']))
-                entries_by_category[category_name] = entries
-                total_entries += len(entries)
+                if entries_by_category:
+                    # Generar salida fusionada
+                    output_content = generate_merged_output(entries_by_category)
+                    
+                    # Usar el primer output como referencia para la ruta
+                    first_output = outputs[0][1]
+                    output_path = first_output['path']
+                    
+                    save_output(output_path, output_content)
+                    print(f"\n  ✓ Ruta fusionada: {output_path}")
+                    print(f"  ✓ Total fusionados: {total_entries}")
+            
+            # ========================================
+            # PROCESAR OUTPUTS INDIVIDUALES (sin merge_group)
+            # ========================================
+            if individual_outputs:
+                print(f"\n  📁 OUTPUTS INDIVIDUALES ({len(individual_outputs)})")
+                print(f"  {'-'*40}")
                 
-                print(f"    ✓ {category_name}: {len(entries)} canales")
-            
-            if entries_by_category:
-                # Generar salida fusionada
-                output_content = generate_merged_output(entries_by_category)
+                outputs_generated = 0
                 
-                # Usar el primer output como referencia para la ruta
-                first_output = outputs[0][1]
-                output_path = first_output['path']
+                for output_name, output_config in individual_outputs:
+                    entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
+                        content, config, converter_name, picons_list, output_name
+                    )
+                    
+                    if not entries:
+                        print(f"    ⚠ Sin entradas para {output_name}")
+                        continue
+                    
+                    # Obtener el category_name del output_config
+                    category_name = output_config.get('category_name', config.get('category_name', config['artist']))
+                    output_content = generate_output(entries, category_name)
+                    
+                    output_path = output_config['path']
+                    save_output(output_path, output_content)
+                    
+                    print(f"    ✓ {category_name}: {len(entries)} canales -> {output_path}")
+                    outputs_generated += 1
                 
-                save_output(output_path, output_content)
-                print(f"\n  ✓ Ruta fusionada: {output_path}")
-                print(f"  ✓ Total fusionados: {total_entries}")
-        
-        # ========================================
-        # PROCESAR OUTPUTS INDIVIDUALES (sin merge_group)
-        # ========================================
-        if individual_outputs:
-            print(f"\n  📁 OUTPUTS INDIVIDUALES ({len(individual_outputs)})")
-            print(f"  {'-'*40}")
-            
-            outputs_generated = 0
-            
-            for output_name, output_config in individual_outputs:
-                entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
-                    content, config, converter_name, picons_list, output_name
-                )
-                
-                if not entries:
-                    print(f"    ⚠ Sin entradas para {output_name}")
-                    continue
-                
-                # Obtener el category_name del output_config
-                category_name = output_config.get('category_name', config.get('category_name', config['artist']))
-                output_content = generate_output(entries, category_name)
-                
-                output_path = output_config['path']
-                save_output(output_path, output_content)
-                
-                print(f"    ✓ {category_name}: {len(entries)} canales -> {output_path}")
-                outputs_generated += 1
-            
-            if outputs_generated > 0:
-                print(f"\n  ✓ {outputs_generated}/{len(individual_outputs)} outputs individuales generados")
-        
-        print()
-        successful += 1
-        
-    except Exception as e:
-        print(f"\n✗ Error procesando {converter_name}: {e}\n")
-        failed += 1
-        continue
-    
-    # ========================================
-    # PROCESAR CONVERSORES INDEPENDIENTES
-    # ========================================
-    for converter_name, config in standalone_converters.items():
-        try:
-            print(f"{'='*60}")
-            print(f"📄 {converter_name.upper()} - {config['artist']}")
-            print(f"{'='*60}")
-            
-            env_var = config['env_var']
-            content = m3u_cache.get(env_var)
-            
-            if not content:
-                print(f"✗ No se pudo obtener contenido de {env_var}\n")
-                failed += 1
-                continue
-            
-            entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
-                content, config, converter_name, picons_list
-            )
-            
-            if not entries:
-                print(f"⚠ No se generaron entradas para {converter_name}\n")
-                failed += 1
-                continue
-
-            # Obtener el category_name del output_config
-            category_name = config.get('category_name', config['artist'])
-            
-#            category_name = output_config.get('category_name', config.get('category_name', config['artist']))                
-              
-            # Usar nombre del conversor o artist como categoría
-            output_content = generate_output(entries, category_name)
-
-            
-#            output_content = generate_output(entries)
-            save_output(config['output_path'], output_content)
-            
-            print(f"\n✓ Ruta: {config['output_path']}")
-            print(f"✓ Can: {len(entries)} | Omitidos: {skipped} | Inválidos: {invalid}")
-            
-            total = len(entries) if entries else 1
-            stats = f"📊 Logos - "
-            if fixed > 0:
-                stats += f"Fijos: {fixed} ({fixed*100//total}%) | "
-            if in_title > 0:
-                stats += f"Por título: {in_title} ({in_title*100//total}%) | "
-            if config.get('use_picons'):
-                stats += f"Encontrados: {found} ({found*100//total}%) | "
-            stats += f"Originales: {orig} ({orig*100//total}%) | Default: {default} ({default*100//total}%)"
-
-            print(stats)
+                if outputs_generated > 0:
+                    print(f"\n  ✓ {outputs_generated}/{len(individual_outputs)} outputs individuales generados")
             
             print()
             successful += 1
@@ -1130,8 +1065,7 @@ def main():
         except Exception as e:
             print(f"\n✗ Error procesando {converter_name}: {e}\n")
             failed += 1
-            continue
-    
+            continue    
     # ========================================
     # RESUMEN FINAL
     # ========================================
