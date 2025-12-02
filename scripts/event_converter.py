@@ -191,6 +191,32 @@ SPORTS_LIST = [
     ])
 ]
 
+# ============================================================
+# GENERAR CONVERTERS AUTOMÁTICAMENTE
+# ============================================================
+
+def build_sports_converters():
+    converters = {}
+    
+    for sport_name, category_name, default_logo, sources in SPORTS_LIST:
+        for source, env_var, custom_filter, *extra in sources:
+            source_logo = extra[0] if extra else default_logo
+            use_picons = extra[1] if len(extra) > 1 else False
+            
+            converter_key = f"{source}_{sport_name}"
+            
+            converters[converter_key] = {
+                **SPORTS_TEMPLATE,
+                'env_var': env_var,
+                'artist': source.capitalize(),
+                'category_name': category_name,
+                'custom_filter': custom_filter,
+                'fixed_logo': source_logo,
+                'use_picons': use_picons
+            }
+    
+    return converters
+
 
 # Usar en CONVERTERS
 SPORTS_CONVERTERS = build_sports_converters()
@@ -375,32 +401,6 @@ for canonical, variations in EQUAL_NAMES.items():
 # FUNCIONES AUXILIARES
 # ============================================================
 
-# ============================================================
-# GENERAR CONVERTERS AUTOMÁTICAMENTE
-# ============================================================
-
-def build_sports_converters():
-    converters = {}
-    
-    for sport_name, category_name, default_logo, sources in SPORTS_LIST:
-        for source, env_var, custom_filter, *extra in sources:
-            source_logo = extra[0] if extra else default_logo
-            use_picons = extra[1] if len(extra) > 1 else False
-            
-            converter_key = f"{source}_{sport_name}"
-            
-            converters[converter_key] = {
-                **SPORTS_TEMPLATE,
-                'env_var': env_var,
-                'artist': source.capitalize(),
-                'category_name': category_name,
-                'custom_filter': custom_filter,
-                'fixed_logo': source_logo,
-                'use_picons': use_picons
-            }
-    
-    return converters
-    
 def normalize_text(text):
     text = unicodedata.normalize('NFD', text)
     text = ''.join(char for char in text if unicodedata.category(char) != 'Mn')
