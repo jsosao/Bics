@@ -817,7 +817,7 @@ def main():
     merge_groups = {}
     multi_output_converters = {}
     standalone_converters = {}
-    
+
     for converter_name, config in CONVERTERS.items():
         # Solo procesar si la URL está configurada
         if config['env_var'] not in configured_urls:
@@ -854,7 +854,10 @@ def main():
             total_in_title = 0
             total_fixed = 0
             total_invalid = 0
-            
+
+            # En la sección de procesamiento de grupos de fusión:
+            entries_by_category = OrderedDict()  # Cambiar esto
+    
             for converter_name, config in converters:
                 print(f"\n  📦 Procesando: {converter_name} - {config['artist']}")
                 
@@ -958,7 +961,10 @@ def main():
                 
                 entries_by_category = {}
                 total_entries = 0
-                
+
+                # En la sección de procesamiento de grupos de fusión:
+                entries_by_category = OrderedDict()  # Cambiar esto
+    
                 for output_name, output_config in outputs:
                     #print(f"    📁 Procesando: {output_name}")
                     
@@ -997,7 +1003,10 @@ def main():
                 print(f"  {'-'*40}")
                 
                 outputs_generated = 0
-                
+
+                # En la sección de procesamiento de grupos de fusión:
+                entries_by_category = OrderedDict()  # Cambiar esto
+    
                 for output_name, output_config in individual_outputs:
                     entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
                         content, config, converter_name, picons_list, output_name
