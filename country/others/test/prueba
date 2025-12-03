@@ -1,380 +1,384 @@
 {
-    Artist: "web"
-    Title: "KOMU-DT3 (720P)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cw.png"
-    Stream: "https[:[/][/]]cvtv[.]cvalley[.]net[/]hls[/]KOMUCW[/]KOMUCW[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00" 
-}
-{
-    Artist: "web"
-    Title: "KMIZ-DT3 (720P)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_my_net_tv.png"
-    Stream: "https[:[/][/]]cvtv[.]cvalley[.]net[/]hls[/]KZOUMYZOU[/]KZOUMYZOU[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00" 
-}
-{
-    Artist: "web"
-    Title: "KYOU-DT4 (720P) ESPAÑOL:"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cw.png"
-    Stream: "https[:[/][/]]cvtv[.]cvalley[.]net[/]hls[/]KYOUDT4[/]KYOUDT4[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "KSMO-DT1 (720P)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_my_net_tv.png"
-    Stream: "https[:[/][/]]cvtv[.]cvalley[.]net[/]hls[/]KSMOIND[/]KSMOIND[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "KPXE-DT1 (720P)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ion.png"
-    Stream: "https[:[/][/]]cvtv[.]cvalley[.]net[/]hls[/]KPXEION[/]KPXEION[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "KCWE-DT1 (720P)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cw.png"
-    Stream: "https[:[/][/]]cvtv[.]cvalley[.]net[/]hls[/]KCWECW[/]KCWECW[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "KOMU CW"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cw.png"
-    Stream: "https[:[/][/]]cvtv[.]cvalley[.]net[/]hls[/]KOMUCW[/]KOMUCW[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "(OFF) WGEM CW"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cw.png"
-    Stream: "https[:[/][/]]cvtv[.]cvalley[.]net[/]hls[/]WGEMCW[/]WGEMCW[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "KCWE CE"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cw.png"
-    Stream: "https[:[/][/]]cvtv[.]cvalley[.]net[/]hls[/]KCWECW[/]KCWECW[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "KPXE ION"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ion.png"
-    Stream: "https[:[/][/]]cvtv[.]cvalley[.]net[/]hls[/]KPXEION[/]KPXEION[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "KYOU DT4"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cw.png"
-    Stream: "https[:[/][/]]cvtv[.]cvalley[.]net[/]hls[/]KYOUDT4[/]KYOUDT4[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "KMSO PBS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[/][/]]cvtv[.]cvalley[.]net[/]hls[/]KMOSPBS[/]KMOSPBS[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "KCPT PBS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[/][/]]cvtv[.]cvalley[.]net[/]hls[/]KCPTPBS[/]KCPTPBS[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "KCPT-DT1 (720P)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[/][/]]cvtv[.]cvalley[.]net[/]hls[/]KCPTPBS[/]KCPTPBS[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "KMOS-DT1 (720P)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[/][/]]cvtv[.]cvalley[.]net[/]hls[/]KMOSPBS[/]KMOSPBS[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "KSHB-DT3 (720P)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[/][/]]cvtv[.]cvalley[.]net[/]hls[/]KSHBLaff[/]KSHBLaff[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "KNLJ-DT1 (720P) ESPAÑOL:"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[/][/]]cvtv[.]cvalley[.]net[/]hls[/]KNLJ[/]KNLJ[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "KMCI-DT1 (720P)"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[/][/]]cvtv[.]cvalley[.]net[/]hls[/]KMCIIND[/]KMCIIND[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "KNLJ"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png"
-    Stream: "https[:[/][/]]cvtv[.]cvalley[.]net[/]hls[/]KNLJ[/]KNLJ[.]m3u8"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "BR: GLOBO BRASILIA"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/v3JuPi6.png"
-    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]215396[.]ts"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "BR: CNN ESPAÑOL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/50cg2k5.png"
-    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]91564[.]ts"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "BR: MLS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/wTLFv06.png"
-    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]131762[.]ts"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "BR: ONE FOOTBALL"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/8rSV3N5.png"
-    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]100716[.]ts"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "BR: ONE FOOTBALL 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/8rSV3N5.png"
-    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]110741[.]ts"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "BR: ONE FOOTBALL 3"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/8rSV3N5.png"
-    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]110742[.]ts"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "BR: ONE FOOTBALL 4"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/8rSV3N5.png"
-    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]110743[.]ts"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "BR: ONE FOOTBALL 5"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/8rSV3N5.png"
-    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]176677[.]ts"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "BR: ONE FOOTBALL 6"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/8rSV3N5.png"
-    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]176678[.]ts"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "BR: ONE FOOTBALL 7"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/8rSV3N5.png"
-    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]176679[.]ts"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "BR: ONE FOOTBALL 8"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/8rSV3N5.png"
-    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]176680[.]ts"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "BR: ONE FOOTBALL 9"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/8rSV3N5.png"
-    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]176681[.]ts"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "BR: ONE FOOTBALL 10"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://i.imgur.com/8rSV3N5.png"
-    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]176682[.]ts"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "BR: ELEVEN SPORTS"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyzEVyV2oH1phXQkdXBAvVdLBTGjeMkfYU1TPyi2cHhGmLMzafdg6a9O4eFdFRNmjJWdXRm7dFlP_HML27jW9nY7NG9oqta65PwC_tu_6n_KxFuDzlZMrLsZ0L6YN3DT8vo1zhBDtI7Lvl/s640/0edc353ff54f0fa2b88ffc4a45e0345e.png"
-    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]81007[.]ts"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "BR: BRTVMAX"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyzEVyV2oH1phXQkdXBAvVdLBTGjeMkfYU1TPyi2cHhGmLMzafdg6a9O4eFdFRNmjJWdXRm7dFlP_HML27jW9nY7NG9oqta65PwC_tu_6n_KxFuDzlZMrLsZ0L6YN3DT8vo1zhBDtI7Lvl/s640/0edc353ff54f0fa2b88ffc4a45e0345e.png"
-    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]80922[.]ts"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "BR: BRTVMAX 1"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyzEVyV2oH1phXQkdXBAvVdLBTGjeMkfYU1TPyi2cHhGmLMzafdg6a9O4eFdFRNmjJWdXRm7dFlP_HML27jW9nY7NG9oqta65PwC_tu_6n_KxFuDzlZMrLsZ0L6YN3DT8vo1zhBDtI7Lvl/s640/0edc353ff54f0fa2b88ffc4a45e0345e.png"
-    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]63401[.]ts"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "(OFF) BR: BRTVMAX 2"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyzEVyV2oH1phXQkdXBAvVdLBTGjeMkfYU1TPyi2cHhGmLMzafdg6a9O4eFdFRNmjJWdXRm7dFlP_HML27jW9nY7NG9oqta65PwC_tu_6n_KxFuDzlZMrLsZ0L6YN3DT8vo1zhBDtI7Lvl/s640/0edc353ff54f0fa2b88ffc4a45e0345e.png"
-    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]80919[.]ts"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "BR: ALEMAO"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyzEVyV2oH1phXQkdXBAvVdLBTGjeMkfYU1TPyi2cHhGmLMzafdg6a9O4eFdFRNmjJWdXRm7dFlP_HML27jW9nY7NG9oqta65PwC_tu_6n_KxFuDzlZMrLsZ0L6YN3DT8vo1zhBDtI7Lvl/s640/0edc353ff54f0fa2b88ffc4a45e0345e.png"
-    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]87603[.]ts"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
-}
-{
-    Artist: "web"
-    Title: "BR: F1"
-    streamFormat: "hls|mts"
-    SwitchingStrategy: "full-adaptation"
-    Logo: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyzEVyV2oH1phXQkdXBAvVdLBTGjeMkfYU1TPyi2cHhGmLMzafdg6a9O4eFdFRNmjJWdXRm7dFlP_HML27jW9nY7NG9oqta65PwC_tu_6n_KxFuDzlZMrLsZ0L6YN3DT8vo1zhBDtI7Lvl/s640/0edc353ff54f0fa2b88ffc4a45e0345e.png"
-    Stream: "http[:[/][/]]play[.]1list[.]vip[/]live[/]listatvs[/]controliptv[/]78760[.]ts"
-    Live: true 
-    Date: "28-11-2025 17:08:00"
+ "Prueba": [
+  {
+    "Artist": "web",
+    "Title": "KOMU-DT3 (720P)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cw.png",
+    "Stream": "https[://]cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "KMIZ-DT3 (720P)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_my_net_tv.png",
+    "Stream": "https[://]cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "KYOU-DT4 (720P) ESPAÑOL:",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cw.png",
+    "Stream": "https[://]cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "KSMO-DT1 (720P)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_my_net_tv.png",
+    "Stream": "https[://]cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "KPXE-DT1 (720P)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ion.png",
+    "Stream": "https[://]cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "KCWE-DT1 (720P)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cw.png",
+    "Stream": "https[://]cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "KOMU CW",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cw.png",
+    "Stream": "https[://]cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "(OFF) WGEM CW",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cw.png",
+    "Stream": "https[://]cvtv.cvalley.net/hls/WGEMCW/WGEMCW.m3u8",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "KCWE CE",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cw.png",
+    "Stream": "https[://]cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "KPXE ION",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_ion.png",
+    "Stream": "https[://]cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "KYOU DT4",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cw.png",
+    "Stream": "https[://]cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "KMSO PBS",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "https[://]cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "KCPT PBS",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "https[://]cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "KCPT-DT1 (720P)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "https[://]cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "KMOS-DT1 (720P)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "https[://]cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "KSHB-DT3 (720P)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "https[://]cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "KNLJ-DT1 (720P) ESPAÑOL:",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "https[://]cvtv.cvalley.net/hls/KNLJ/KNLJ.m3u8",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "KMCI-DT1 (720P)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "https[://]cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "KNLJ",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "https[://]cvtv.cvalley.net/hls/KNLJ/KNLJ.m3u8",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "BR: GLOBO BRASILIA",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://i.imgur.com/v3JuPi6.png",
+    "Stream": "http[://]play.1list.vip/live/listatvs/controliptv/215396.ts",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "BR: CNN ESPAÑOL",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://i.imgur.com/50cg2k5.png",
+    "Stream": "http[://]play.1list.vip/live/listatvs/controliptv/91564.ts",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "BR: MLS",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://i.imgur.com/wTLFv06.png",
+    "Stream": "http[://]play.1list.vip/live/listatvs/controliptv/131762.ts",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "BR: ONE FOOTBALL",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://i.imgur.com/8rSV3N5.png",
+    "Stream": "http[://]play.1list.vip/live/listatvs/controliptv/100716.ts",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "BR: ONE FOOTBALL 2",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://i.imgur.com/8rSV3N5.png",
+    "Stream": "http[://]play.1list.vip/live/listatvs/controliptv/110741.ts",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "BR: ONE FOOTBALL 3",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://i.imgur.com/8rSV3N5.png",
+    "Stream": "http[://]play.1list.vip/live/listatvs/controliptv/110742.ts",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "BR: ONE FOOTBALL 4",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://i.imgur.com/8rSV3N5.png",
+    "Stream": "http[://]play.1list.vip/live/listatvs/controliptv/110743.ts",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "BR: ONE FOOTBALL 5",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://i.imgur.com/8rSV3N5.png",
+    "Stream": "http[://]play.1list.vip/live/listatvs/controliptv/176677.ts",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "BR: ONE FOOTBALL 6",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://i.imgur.com/8rSV3N5.png",
+    "Stream": "http[://]play.1list.vip/live/listatvs/controliptv/176678.ts",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "BR: ONE FOOTBALL 7",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://i.imgur.com/8rSV3N5.png",
+    "Stream": "http[://]play.1list.vip/live/listatvs/controliptv/176679.ts",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "BR: ONE FOOTBALL 8",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://i.imgur.com/8rSV3N5.png",
+    "Stream": "http[://]play.1list.vip/live/listatvs/controliptv/176680.ts",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "BR: ONE FOOTBALL 9",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://i.imgur.com/8rSV3N5.png",
+    "Stream": "http[://]play.1list.vip/live/listatvs/controliptv/176681.ts",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "BR: ONE FOOTBALL 10",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://i.imgur.com/8rSV3N5.png",
+    "Stream": "http[://]play.1list.vip/live/listatvs/controliptv/176682.ts",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "BR: ELEVEN SPORTS",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyzEVyV2oH1phXQkdXBAvVdLBTGjeMkfYU1TPyi2cHhGmLMzafdg6a9O4eFdFRNmjJWdXRm7dFlP_HML27jW9nY7NG9oqta65PwC_tu_6n_KxFuDzlZMrLsZ0L6YN3DT8vo1zhBDtI7Lvl/s640/0edc353ff54f0fa2b88ffc4a45e0345e.png",
+    "Stream": "http[://]play.1list.vip/live/listatvs/controliptv/81007.ts",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "BR: BRTVMAX",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyzEVyV2oH1phXQkdXBAvVdLBTGjeMkfYU1TPyi2cHhGmLMzafdg6a9O4eFdFRNmjJWdXRm7dFlP_HML27jW9nY7NG9oqta65PwC_tu_6n_KxFuDzlZMrLsZ0L6YN3DT8vo1zhBDtI7Lvl/s640/0edc353ff54f0fa2b88ffc4a45e0345e.png",
+    "Stream": "http[://]play.1list.vip/live/listatvs/controliptv/80922.ts",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "BR: BRTVMAX 1",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyzEVyV2oH1phXQkdXBAvVdLBTGjeMkfYU1TPyi2cHhGmLMzafdg6a9O4eFdFRNmjJWdXRm7dFlP_HML27jW9nY7NG9oqta65PwC_tu_6n_KxFuDzlZMrLsZ0L6YN3DT8vo1zhBDtI7Lvl/s640/0edc353ff54f0fa2b88ffc4a45e0345e.png",
+    "Stream": "http[://]play.1list.vip/live/listatvs/controliptv/63401.ts",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "(OFF) BR: BRTVMAX 2",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyzEVyV2oH1phXQkdXBAvVdLBTGjeMkfYU1TPyi2cHhGmLMzafdg6a9O4eFdFRNmjJWdXRm7dFlP_HML27jW9nY7NG9oqta65PwC_tu_6n_KxFuDzlZMrLsZ0L6YN3DT8vo1zhBDtI7Lvl/s640/0edc353ff54f0fa2b88ffc4a45e0345e.png",
+    "Stream": "http[://]play.1list.vip/live/listatvs/controliptv/80919.ts",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "BR: ALEMAO",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyzEVyV2oH1phXQkdXBAvVdLBTGjeMkfYU1TPyi2cHhGmLMzafdg6a9O4eFdFRNmjJWdXRm7dFlP_HML27jW9nY7NG9oqta65PwC_tu_6n_KxFuDzlZMrLsZ0L6YN3DT8vo1zhBDtI7Lvl/s640/0edc353ff54f0fa2b88ffc4a45e0345e.png",
+    "Stream": "http[://]play.1list.vip/live/listatvs/controliptv/87603.ts",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "BR: F1",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyzEVyV2oH1phXQkdXBAvVdLBTGjeMkfYU1TPyi2cHhGmLMzafdg6a9O4eFdFRNmjJWdXRm7dFlP_HML27jW9nY7NG9oqta65PwC_tu_6n_KxFuDzlZMrLsZ0L6YN3DT8vo1zhBDtI7Lvl/s640/0edc353ff54f0fa2b88ffc4a45e0345e.png",
+    "Stream": "http[://]play.1list.vip/live/listatvs/controliptv/78760.ts",
+    "Live": true,
+    "Date": "28-11-2025 17:08:00"
+  }
+]
 }
