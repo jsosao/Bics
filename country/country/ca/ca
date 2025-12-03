@@ -1,5 +1,5 @@
 {
- "Canada": [
+ "a. Canada Move": [
   {
     "Artist": "web",
     "Title": "CTV WILD LIFE",
@@ -109,6 +109,2438 @@
     "Stream": "http[:[/][/]]fl31.moveonjoy.com/TSN_5/index.m3u8",
     "Live": true,
     "Date": "28-11-2025 12:50:09"
+  }
+],
+"b. Canada Cord": [
+  {
+    "Artist": "web",
+    "Title": "CBC CALGARY",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57381",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "GLOBAL CALGARY",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/115349",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CBC TORONTO",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57260",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png",
+    "Stream": "http[://]tvmate.icu:8080/live/7686199/9576982/47234.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "LiveTVCollector",
+    "Title": "CTV 2",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_2.png",
+    "Stream": "http[://]1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/136612",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV DRAMA",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_drama.png",
+    "Stream": "http[://]tvmate.icu:8080/live/7686199/9576982/57254.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "LiveTVCollector",
+    "Title": "CTV COMEDY",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_comedy.png",
+    "Stream": "http[://]1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57408",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV LIFE",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_life.png",
+    "Stream": "http[://]tvmate.icu:8080/live/7686199/9576982/116506.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV SCI FI",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_scifi.png",
+    "Stream": "http[://]tvmate.icu:8080/live/7686199/9576982/57464.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CRAVE 1",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57309",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CRAVE 2",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57310",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CRAVE 3",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57322",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CRAVE 4",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57311",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TSN 1 (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_1.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57292",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TSN 1 (R)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_1.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47440",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TSN 2 (R)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_2.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/16129",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TSN 2 HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_2.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47442",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TSN 3 HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_3.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47444",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TSN 3 HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_3.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/10389",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TSN 4",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_4.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/66783",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TSN 4 (B)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_4.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47446",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TSN 4 HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_4.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/16130",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TSN 5",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_5.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57295",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TSN 5 HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_5.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/16131",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "LiveTVCollector",
+    "Title": "TSN THE OCHO",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_tsn_8.png",
+    "Stream": "https[://]d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "LiveTVCollector",
+    "Title": "SPORTNET ONTARIO",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png",
+    "Stream": "https[://]a1xs.vip/6000011",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "LiveTVCollector",
+    "Title": "SPORTNET ONE",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png",
+    "Stream": "https[://]a1xs.vip/6000012",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "LiveTVCollector",
+    "Title": "SPORTNET PACIFIC",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png",
+    "Stream": "http[://]1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47387",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "LiveTVCollector",
+    "Title": "SPORTNET EAST",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png",
+    "Stream": "http[://]1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57298",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "LiveTVCollector",
+    "Title": "SPORTNET WEST",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png",
+    "Stream": "http[://]1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57300",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "LiveTVCollector",
+    "Title": "SPORTNET 360",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png",
+    "Stream": "http[://]fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/2219",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "ONE SOCCER",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_one_soccer.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/135810",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CBC  NEW BRUNSWICK / FREDERICTON NB",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/217655",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CBC CALGARY HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57381",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CBC CHARLOTTETOWN HD (D)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57382",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CBC HALIFAX HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57385",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CBC MONTREAL HD (D)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57387",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CBC NEWS NETWORK (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc_news.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57304",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CBC TORONTO",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57260",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CBC EDMONTON",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57384",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CBC OTTAWA",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57305",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CBC TORONTO",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57306",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CBC VANCOUVER",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57391",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CBC WINDSOR",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/86749",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CBC WINNIPEG",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_cbc.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/100628",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV BARRIE ONTARIO HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57373",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV CALGARY (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57964",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV EDMONTON ALBERTA HD (D)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/58725",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV HALIFAX (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/188777",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV HALIFAX NOVA SCOTIA HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57410",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV HALIFAX NOVA SCOTIA HD (D)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/188776",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV KITCHENER",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/58557",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV MONTREAL HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47234",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV REGINA SASKATCHEWAN HD (D)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/66381",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV SASKATOON SASKATCHEWAN HD (D)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/66382",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV SUDBURY ONTARIO HD (D)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/100454",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV TIMMINS ONTARIO HD (D)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/100455",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV TORONTO HD (R)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47296",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV WINNIPEG (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/100630",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV OTTAWA",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47237",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV 2 VANCOUVER ISLAND (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_2.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/136612",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV 2 WINDSOR HD (B)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_2.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/77165",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV 2 ATLANTIC",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_2.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/79547",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV 2 LONDON HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_2.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/58546",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV 2 VANCOUVER",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_2.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57316",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV LIFE (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_life.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/116506",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV COMEDY CHANNEL",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_comedy.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57408",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV DRAMA CHANNEL (R)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_drama.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57254",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV SCI-FI",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_scifi.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57464",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV SCI-FI CHANNEL (B)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_scifi.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57253",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CTV NEWS CHANNEL HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ctv_news.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57350",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "GLOBAL DURHAM (CHEX-DT-2)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/100453",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "GLOBAL EDMONTON (D)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/132271",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "GLOBAL EDMONTON NEWS (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/58724",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "GLOBAL MARITIMES HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/171954",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "GLOBAL MONTERIAL NEWS (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/136641",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "GLOBAL MONTREAL HD (B)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/136640",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "GLOBAL NEWS CALGARY (D)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/111067",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "GLOBAL NEWS KINGSTON (D)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57432",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "GLOBAL NEWS REGINA (D)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/66384",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "GLOBAL NEWS WINNIPEG (D)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/100629",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "GLOBAL PETERBOROUGH NEWS (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/137681",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "GLOBAL SASKATOON (B)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/66383",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "GLOBAL TORONTO",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57435",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "GLOBAL HALIFAX NEWS",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global_news.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57434",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "GLOBAL TORONTO",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57302",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "GLOBAL VANCOUVER",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_global.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57436",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "RDI (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_rdi.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/126723",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "ICI RDI (D)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_rdi.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/164369",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "ICI TELE MONTREAL HD (D)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ici.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57484",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "ICI TELE QUEBEC HD (D)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ici.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57493",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "ICI VANCOUVER FR",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_ici.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57485",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SPORTNET 360 (HD)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57299",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SPORTNET 360 HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/2219",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SPORTNET EAST (D)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/41836",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SPORTNET EAST HD (F)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57298",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SPORTNET ONE (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/10247",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SPORTNET ONE (FHD)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57297",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SPORTNET ONE (HD)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47379",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SPORTNET ONTARIO (FHD)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/11649",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SPORTNET ONTARIO HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57296",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SPORTNET PACIFIC (FHD)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/9860",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SPORTNET PACIFIC HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47387",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SPORTNET WEST (FHD)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/20975",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SPORTNET WORLD HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/75675",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SPORTNET ONTARIO",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57463",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SPORTNET WEST",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_sportnet.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57300",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "FEVA (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/100457",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "ADDIKTV HD (B)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/168466",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CANAL D SD (P)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57479",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CANAL VIE HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/116947",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CASA SD (P)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/116948",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CINEPOP SD (P)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57480",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "DISNEY LA CHAINE (R)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_channel.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57481",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "EVASION SD (P)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57482",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "HISTORY HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_channel.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57483",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "LCN (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_e!.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57968",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "NOOVO (D)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57501",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "PRISE  (P)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57488",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "RDS (R)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57325",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "RDS2 HD (B)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57490",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SUPER ECRAN 1 (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/66363",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SUPER ECRAN 2 SD (P)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/66364",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SUPER ECRAN 3 SD (P)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/66365",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SUPER ECRAN 4 SD (P)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/66366",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TFO HD (R)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57495",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TV5",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/fr_tv5_monde.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57288",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TVA MONTREAL FHD (B)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57497",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TVA SPORTS 2",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57337",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "ZESTE HD  (B)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57502",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "NTD (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/58023",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "APTN",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57320",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "THE SHOPPING CHANNEL (B)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57370",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "A&E",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_a&e.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57264",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "ADULT SWIM (R)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_adult_swim.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/11644",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CARTOON NETWORK",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoon_network.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57380",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CARTOON NETWORK (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_cartoon_network.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57356",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CHCH (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57393",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CITY NEWS TORONTO ON",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/216100",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CITY TV CALGARY (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/75652",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CITY TV TORONTO (D)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57394",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CITY TV VANCOUVER (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57395",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CITY TV WINNIPEG (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/100631",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CMT",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cmt.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57258",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CNN",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cnn.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47213",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "COOKING CHANNEL",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cooking_channel.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/107960",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "COTTAGE LIFE HD (B)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47217",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CP24 HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57345",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CP24 NEWS HD (D)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57357",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CP24 NEWS HD (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57401",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CPAC HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57351",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "DEJAVIEW HD (B)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/122001",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "DISCOVERY CHANNEL",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_channel.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57252",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "DISCOVERY VELOCITY HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/46212",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "DISNEY JUNIOR",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_channel.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57349",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "DISNEY XD (R)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_disney_xd.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57420",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "DOCUMENTARY HD (B)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/148610",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "E! (R)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_e!.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57422",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "FOOD NETWORK",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_food_network.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57247",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "FOX NEWS",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fox_news.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47281",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "FXX",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fxx.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57429",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "GAME SHOW NETWORK HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57430",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "H2 HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_2.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/210450",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "HBO",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57437",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "HBO 2 (R)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hbo_2.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57438",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "HGTV",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hgtv.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57273",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "HISTORY",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_channel.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47302",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "HISTORY (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_history_channel.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57272",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "HPITV EAST HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/173131",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "INVESTIGATION DISCOVERY HD (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_id.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57442",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "LIFETIME",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_lifetime.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57271",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "LOVE NATURE HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47324",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "MSNBC (R)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47332",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "MTV2 (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mtv_2.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57447",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "NICKELODEON (R)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_nickelodeon.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47349",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "NTV ST. JOHN`S",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57478",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "OLN (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57366",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "OWN",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57277",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "PEACHTREE TV HD (R)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47362",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SILVER SCREEN (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/107190",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SLICE TV",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57274",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SMITHSONIAN CHANNEL (B)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47369",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SUPER CHANNEL HEART & HOME",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/100460",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TELETOON EAST (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57372",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TLC",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tlc.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57290",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TREEHOUSE (R)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57371",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TURNER CLASSIC MOVIES",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_tcm.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/66242",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "W NETWORK EAST (E)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57284",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "WILD TV",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/100456",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "YES TV",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57472",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "YTV EAST",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/63850",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "BBC EARTH",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/99621",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "METEO",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57486",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "MOI ET CIE",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57487",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "RDS INFO",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57491",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TVA SPORTS 1",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57498",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "NBA TV",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nba.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/22995",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "A&E",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_a&e.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57476",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "ABC SPARK",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_abc.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57375",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "AMC",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_amc_network.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57376",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "ANIMAL PLANET",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_animal_planet.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57377",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "BBC WORLD NEWS",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_bbc_news.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/139752",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "BNN BLOOMBERG HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_bloomberg.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57358",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "BRAVO",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_bravo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57379",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CHARGE",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_charge.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/75653",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CITY TV TORONTO HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57307",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CNN",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_cnn.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57398",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CP24 FHD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47218",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CP24 HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57257",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CPAC",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57402",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CPAC ENGLISH",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57352",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "CRIME & INVESTIGATION",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/ca_crave.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57256",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "DISCOVERY SCIENCE",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_discovery_science.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57418",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "DIY NETWORK FHD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_diy.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47258",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "DTOUR HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57250",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "E! HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_e!.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57249",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "FAMILY JR HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57346",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "FX HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fx.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57268",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "GINX ESPORTS TV",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57431",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "GOLF CHANNEL HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_golf_channel.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57362",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "HLN",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_hln.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57441",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "LIFETIME MOVIE NETWORK",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_lifetime.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57444",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "MAKEFUL",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57270",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "MOVIETIME HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47331",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "MTV",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mtv.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57446",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "MTV HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_mtv.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57368",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "MUCH MUSIC",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/215268",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "NATIONAL GEOGRAPHIC",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47339",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "NATIONAL GEOGRAPHIC  HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47338",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "NATIONAL GEOGRAPHIC",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57281",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "NATIONAL GEOGRAPHIC WILD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo_wild.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57280",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "NATIONAL GEOGRAPHIC WILD (R)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nat_geo_wild.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57450",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "NFL NETWORK HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_nfl_network.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47346",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "OMNI1 HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57365",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "PBS HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57276",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "SHOWCASE HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/47366",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TFO  (FR)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57291",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TRAVEL ESCAPE",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_travel_channel.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/108136",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TV ONTARIO HD",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57369",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "VISION",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57468",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "WEATHER NETWORK TORONTO",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57470",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "WORLD FISHING NETWORK",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57471",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
+  },
+  {
+    "Artist": "web",
+    "Title": "TELE QUEBEC (FR)",
+    "streamFormat": "hls|mts",
+    "SwitchingStrategy": "full-adaptation",
+    "Logo": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png",
+    "Stream": "http[://]cord-cutter.net:8080/134152079/134152079/57336",
+    "Live": true,
+    "Date": "27-11-2025 00:00:00"
   }
 ]
 }
