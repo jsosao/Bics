@@ -157,39 +157,39 @@ SPORTS_LIST = [
     ('eventos', 'a. Eventos', None, [
         ('alfa', 'URL_001', 'alfa_eventos', None, True)
     ]),
-    ('sky', 'SKY', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_sky_sports[.]png', [
+    ('sky', 'b. SKY', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_sky_sports[.]png', [
         ('alfa', 'URL_001', 'alfa_sky')
     ]),
-    ('nfl', 'NFL', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_sundayticket[.]png', [
+    ('nfl', 'c. NFL', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_sundayticket[.]png', [
         ('alfa', 'URL_001', 'alfa_nfl', None),
         ('pass', 'URL_011', 'pass_nfl', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_sundayticket[.]png'),
         ('cord', 'URL_002', 'cord_nfl', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass[.]png')
     ]),
-    ('nba', 'NBA', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba[.]png', [
+    ('nba', 'd. NBA', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba[.]png', [
         ('alfa', 'URL_001', 'alfa_nba'),
         ('pass', 'URL_011', 'pass_nba'),
         ('cord', 'URL_002', 'cord_nba')
     ]),
-    ('mlb', 'MLB', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mlb[.]png', [
+    ('mlb', 'e. MLB', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mlb[.]png', [
         ('alfa', 'URL_001', 'alfa_mlb'),
         ('pass', 'URL_011', 'pass_mlb'),
         ('cord', 'URL_002', 'cord_mlb')
     ]),
-    ('nhl', 'NHL', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png', [
+    ('nhl', 'f. NHL', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png', [
         ('pass', 'URL_011', 'pass_nhl'),
         ('cord', 'URL_002', 'cord_nhl')
     ]),
-    ('ncaaf', 'NCAAF', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaaf[.]png', [
+    ('ncaaf', 'g. NCAAF', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaaf[.]png', [
         ('pass', 'URL_011', 'pass_ncaaf'),
         ('cord', 'URL_002', 'cord_ncaaf')
     ]),
-    ('ncaab', 'NCAAB', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab[.]png', [
+    ('ncaab', 'h. NCAAB', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab[.]png', [
         ('cord', 'URL_002', 'cord_ncaab')
     ]),
-    ('wnba', 'WNBA', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_wnba[.]png', [
+    ('wnba', 'i. WNBA', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_wnba[.]png', [
         ('pass', 'URL_011', 'pass_wnba')
     ]),
-    ('ppv', 'PPV', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ppv[.]png', [
+    ('ppv', 'j. PPV', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ppv[.]png', [
         ('pass', 'URL_011', 'pass_ppv'),
         ('cord', 'URL_002', 'cord_ppv')
     ])
