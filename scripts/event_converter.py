@@ -222,7 +222,6 @@ def build_sports_converters():
     
     return converters
 
-
 # Usar en CONVERTERS
 SPORTS_CONVERTERS = build_sports_converters()
 
@@ -240,64 +239,8 @@ CONVERTERS = {
 
         **SPORTS_CONVERTERS,
 
-    # GRUPO EVENTOS (fusionados)
-#    'alfa_eventos': {
-#        'env_var': 'URL_001',
-#        'artist': 'Alfa',
-#        'category_name': 'a. Eventos',        
-#        'output_path': 'country/sports/sections/sports',
-#        'use_picons': True,
-#        'filter_type': 'custom',
-#        'custom_filter': 'alfa_eventos',
-#        'merge_group': 'sections_sports'
-#    },
-#    'pass_eventos': {
-#        'env_var': 'URL_011',
-#        'artist': 'Pass',
-#        'category_name': 'Eventos',    
-#        'output_path': 'country/sports/sections/sports',
-#        'use_picons': True,
-#        'filter_type': 'custom',
-#        'custom_filter': 'pass_eventos',
-#        'merge_group': 'sections_sports'
-#    },
-
-    # FUSION DE EVENTOS DEPORTIVOS
-#    'alfa_nfl': {
-#        'env_var': 'URL_001',
-#        'artist': 'Alfa',
-#        'category_name': 'NFL',        
-#        'output_path': 'country/sports/sections/sports',
-#        'use_picons': False,
-#        'filter_type': 'custom',
-#        'custom_filter': 'alfa_nfl',
-#        'merge_group': 'sections_sports'
-#    },
-#    'pass_nfl': {
-#        'env_var': 'URL_011',
-#        'artist': 'Pass',
-#        'category_name': 'NFL',        
-#        'output_path': 'country/sports/sections/sports',
-#        'use_picons': False,
-#        'filter_type': 'custom',
-#        'custom_filter': 'pass_nfl',
-#        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_sundayticket[.]png',                        
-#        'merge_group': 'sections_sports'
-#    },  
-#    'cord_nfl': {
-#        'env_var': 'URL_002',
-#        'artist': 'Cord',
-#        'category_name': 'NFL',        
-#        'output_path': 'country/sports/sections/sports',
-#        'use_picons': False,
-#        'filter_type': 'custom',
-#        'custom_filter': 'cord_nfl',
-#        'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass[.]png',                        
-#        'merge_group': 'sections_sports'
-#    },      
-    
     # PROCESAMIENTO MÚLTIPLE DE URL_001 (optimizado)
-    'alfa_sports': {
+    CONVERTERS['alfa_sports']: {
         'env_var': 'URL_001',
         'artist': 'Alfa',
         'output_path': 'country/sports',
@@ -350,7 +293,7 @@ CONVERTERS = {
     },
     
     # ALFA - Otros contenidos
-    'alfa': {
+    CONVERTERS['alfa']: {
         'env_var': 'URL_001',
         'artist': 'Alfa',
         'category_name': 'Alfa',                                                    
@@ -360,7 +303,7 @@ CONVERTERS = {
         'skip_keywords': ["canales-adultos", "adultos", "adult", "cartelera", "estrenos", "disney", "recien", "cine de oro", "marvel", "radio", "religiosos", "infantil", "kids", "vod", "serie", "novelas-", "24/7", "247", "musica"],
         'include_keywords': ["cine", "cultura", "deportes", "canales", "entretenimiento", ".hbo", "noticias", "(eventos)"]
     },
-    'premium': {
+    CONVERTERS['premium']: {
         'env_var': 'URL_001',
         'artist': 'Alfa',
         'category_name': 'Premium',                                                    
@@ -370,7 +313,7 @@ CONVERTERS = {
         'skip_keywords': ["canales-adultos", "adultos", "adult", "cartelera", "estrenos", "disney", "recien", "cine de oro", "marvel", "radio", "religiosos", "infantil", "kids", "vod", "serie", "novelas-", "24/7", "247", "musica"],
         'include_keywords': ["cine", "cultura", "deportes", "canales", "entretenimiento", ".hbo", "noticias", "(eventos)"]
     },    
-    'pass': {
+    CONVERTERS['pass']: {
         'env_var': 'URL_011',
         'artist': 'Pass',
         'category_name': 'Pass',                                                    
