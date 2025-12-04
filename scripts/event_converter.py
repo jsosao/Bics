@@ -200,7 +200,8 @@ SPORTS_LIST = [
 # ============================================================
 
 def build_sports_converters():
-    converters = {}
+    #converters = {}
+    converters = OrderedDict()
     
     for sport_name, category_name, default_logo, sources in SPORTS_LIST:
         for source, env_var, custom_filter, *extra in sources:
@@ -228,6 +229,12 @@ SPORTS_CONVERTERS = build_sports_converters()
 # ============================================================
 # CONFIGURACIÓN DE CONVERSORES OPTIMIZADA
 # ============================================================
+
+# Construir CONVERTERS manteniendo el orden
+CONVERTERS = OrderedDict()
+
+# PASO 1: Agregar SPORTS_CONVERTERS en orden
+CONVERTERS.update(SPORTS_CONVERTERS)
 
 CONVERTERS = {
 
