@@ -662,6 +662,8 @@ def process_m3u_content(content, config, converter_name, picons_list, output_nam
     use_picons = config.get('use_picons', False)
     fixed_logo = config.get('fixed_logo', None)
     category_name = config.get('category_name')
+    category_name = category_name.sort()
+    
     
     # Si es multi-output, obtener configuración específica del output
     if output_name and config['filter_type'] == 'multi_output':
