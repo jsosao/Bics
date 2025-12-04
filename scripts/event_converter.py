@@ -771,7 +771,9 @@ def generate_output(entries, category_name=None):
     
 def generate_merged_output(entries_by_category):
     """Genera salida JSON con múltiples categorías para archivos fusionados"""
-    output = {}
+    'output = {}
+    output = OrderedDict()
+
     for category, entries in entries_by_category.items():
         output[category] = entries
     return json.dumps(output, indent=2, ensure_ascii=False, sort_keys=False)
@@ -848,7 +850,9 @@ def main():
             print(f"{'='*60}")
             
             # Diccionario para agrupar por categoría
-            entries_by_category = {}
+            'entries_by_category = {}
+            entries_by_category = OrderedDict()
+
             total_skipped = 0
             total_orig = 0
             total_found = 0
@@ -857,9 +861,6 @@ def main():
             total_fixed = 0
             total_invalid = 0
 
-            # En la sección de procesamiento de grupos de fusión:
-            entries_by_category = OrderedDict()  # Cambiar esto
-    
             for converter_name, config in converters:
                 print(f"\n  📦 Procesando: {converter_name} - {config['artist']}")
                 
@@ -961,12 +962,10 @@ def main():
                 print(f"\n  🔗 GRUPO DE FUSIÓN INTERNO: {merge_group.upper()}")
                 print(f"  {'-'*40}")
                 
-                entries_by_category = {}
+                'entries_by_category = {}
+                entries_by_category = OrderedDict()
                 total_entries = 0
 
-                # En la sección de procesamiento de grupos de fusión:
-                entries_by_category = OrderedDict()  # Cambiar esto
-    
                 for output_name, output_config in outputs:
                     #print(f"    📁 Procesando: {output_name}")
                     
