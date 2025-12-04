@@ -850,7 +850,7 @@ def main():
             print(f"{'='*60}")
             
             # Diccionario para agrupar por categoría
-            'entries_by_category = {}
+            #entries_by_category = {}
             entries_by_category = OrderedDict()
 
             total_skipped = 0
@@ -962,7 +962,7 @@ def main():
                 print(f"\n  🔗 GRUPO DE FUSIÓN INTERNO: {merge_group.upper()}")
                 print(f"  {'-'*40}")
                 
-                'entries_by_category = {}
+                #entries_by_category = {}
                 entries_by_category = OrderedDict()
                 total_entries = 0
 
