@@ -885,7 +885,7 @@ def main():
 
                 if category_name not in entries_by_category:
                         entries_by_category[category_name] = entries
-                    else:
+                else:
                         # Si ya existe, concatenar
                         entries_by_category[category_name].extend(entries)                
                 
