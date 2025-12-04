@@ -154,39 +154,39 @@ SPORTS_TEMPLATE = {
 
 SPORTS_LIST = [
     # Formato: (nombre, category_name, fixed_logo, sources)
-    ('eventos', '1. Eventos', None, [
+    ('eventos', '01. Eventos', None, [
         ('alfa', 'URL_001', 'alfa_eventos', None, True)
     ]),
-    ('sky', '2. SKY', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_sky_sports[.]png', [
+    ('sky', '02. SKY', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_sky_sports[.]png', [
         ('alfa', 'URL_001', 'alfa_sky')
     ]),
-    ('nfl', '3. NFL', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_sundayticket[.]png', [
+    ('nfl', '03. NFL', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_sundayticket[.]png', [
         ('alfa', 'URL_001', 'alfa_nfl', None),
         ('pass', 'URL_011', 'pass_nfl', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_sundayticket[.]png'),
         ('cord', 'URL_002', 'cord_nfl', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_gamepass[.]png')
     ]),
-    ('nba', '4. NBA', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba[.]png', [
+    ('nba', '04. NBA', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba[.]png', [
         ('alfa', 'URL_001', 'alfa_nba'),
         ('pass', 'URL_011', 'pass_nba'),
         ('cord', 'URL_002', 'cord_nba')
     ]),
-    ('mlb', '5. MLB', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mlb[.]png', [
+    ('mlb', '05. MLB', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mlb[.]png', [
         ('alfa', 'URL_001', 'alfa_mlb'),
         ('pass', 'URL_011', 'pass_mlb'),
         ('cord', 'URL_002', 'cord_mlb')
     ]),
-    ('nhl', '6. NHL', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png', [
+    ('nhl', '06. NHL', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png', [
         ('pass', 'URL_011', 'pass_nhl'),
         ('cord', 'URL_002', 'cord_nhl')
     ]),
-    ('ncaaf', '7. NCAAF', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaaf[.]png', [
+    ('ncaaf', '07. NCAAF', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaaf[.]png', [
         ('pass', 'URL_011', 'pass_ncaaf'),
         ('cord', 'URL_002', 'cord_ncaaf')
     ]),
-    ('ncaab', '8. NCAAB', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab[.]png', [
+    ('ncaab', '08. NCAAB', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab[.]png', [
         ('cord', 'URL_002', 'cord_ncaab')
     ]),
-    ('wnba', '9. WNBA', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_wnba[.]png', [
+    ('wnba', '09. WNBA', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_wnba[.]png', [
         ('pass', 'URL_011', 'pass_wnba')
     ]),
     ('ppv', '10. PPV', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ppv[.]png', [
@@ -240,7 +240,7 @@ CONVERTERS = {
         **SPORTS_CONVERTERS,
 
     # PROCESAMIENTO MÚLTIPLE DE URL_001 (optimizado)
-    CONVERTERS['alfa_sports']: {
+    'alfa_sports': {
         'env_var': 'URL_001',
         'artist': 'Alfa',
         'output_path': 'country/sports',
@@ -293,7 +293,7 @@ CONVERTERS = {
     },
     
     # ALFA - Otros contenidos
-    CONVERTERS['alfa']: {
+    'alfa': {
         'env_var': 'URL_001',
         'artist': 'Alfa',
         'category_name': 'Alfa',                                                    
@@ -303,7 +303,7 @@ CONVERTERS = {
         'skip_keywords': ["canales-adultos", "adultos", "adult", "cartelera", "estrenos", "disney", "recien", "cine de oro", "marvel", "radio", "religiosos", "infantil", "kids", "vod", "serie", "novelas-", "24/7", "247", "musica"],
         'include_keywords': ["cine", "cultura", "deportes", "canales", "entretenimiento", ".hbo", "noticias", "(eventos)"]
     },
-    CONVERTERS['premium']: {
+    'premium': {
         'env_var': 'URL_001',
         'artist': 'Alfa',
         'category_name': 'Premium',                                                    
@@ -313,7 +313,7 @@ CONVERTERS = {
         'skip_keywords': ["canales-adultos", "adultos", "adult", "cartelera", "estrenos", "disney", "recien", "cine de oro", "marvel", "radio", "religiosos", "infantil", "kids", "vod", "serie", "novelas-", "24/7", "247", "musica"],
         'include_keywords': ["cine", "cultura", "deportes", "canales", "entretenimiento", ".hbo", "noticias", "(eventos)"]
     },    
-    CONVERTERS['pass']: {
+    'pass': {
         'env_var': 'URL_011',
         'artist': 'Pass',
         'category_name': 'Pass',                                                    
