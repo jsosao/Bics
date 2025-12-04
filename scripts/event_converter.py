@@ -771,7 +771,7 @@ def generate_output(entries, category_name=None):
     
 def generate_merged_output(entries_by_category):
     """Genera salida JSON con múltiples categorías para archivos fusionados"""
-    'output = {}
+    #output = {}
     output = OrderedDict()
 
     for category, entries in entries_by_category.items():
