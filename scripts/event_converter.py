@@ -762,18 +762,18 @@ def generate_output(entries, category_name=None):
     """Genera salida en formato JSON con categorías opcionales"""
     # Si no hay categoría, generar lista simple
     if category_name is None:
-        return json.dumps(entries, indent=2, ensure_ascii=False, sort_keys=true)
+        return json.dumps(entries, indent=2, ensure_ascii=False, sort_keys=True)
     
     # Si hay categoría, generar con estructura de categorías
     output = {category_name: entries}
-    return json.dumps(output, indent=2, ensure_ascii=False, sort_keys=true)
+    return json.dumps(output, indent=2, ensure_ascii=False, sort_keys=True)
     
 def generate_merged_output(entries_by_category):
     """Genera salida JSON con múltiples categorías para archivos fusionados"""
     output = {}
     for category, entries in entries_by_category.items():
         output[category] = entries
-    return json.dumps(output, indent=2, ensure_ascii=False, sort_keys=true)
+    return json.dumps(output, indent=2, ensure_ascii=False, sort_keys=True)
 
 def save_output(output_path, output_content):
     output_dir = Path(output_path).parent
