@@ -247,28 +247,28 @@ CONVERTERS = {
         'use_picons': True,
         'filter_type': 'multi_output',
         'outputs': {
-            'fox': {
+            'espn': {
                 'path': 'country/sports/sportio',
-                'custom_filter': 'alfa_fox',
-                'category_name': 'FOX SPORTS',                      
+                'custom_filter': 'alfa_espn',
+                'category_name': '01 ESPN',                      
                 'merge_group': 'sportio'
             },
             'fox_1': {
                 'path': 'country/sports/sportio',
                 'custom_filter': 'alfa_fox_1',
-                'category_name': 'FOX ONE',                      
+                'category_name': '02 FOX ONE',                      
                 'merge_group': 'sportio'
             },
-            'espn': {
+            'fox': {
                 'path': 'country/sports/sportio',
-                'custom_filter': 'alfa_espn',
-                'category_name': 'ESPN',                      
+                'custom_filter': 'alfa_fox',
+                'category_name': '03 FOX SPORTS',                      
                 'merge_group': 'sportio'
             },
             'tudn': {
                 'path': 'country/sports/sportio',
                 'custom_filter': 'alfa_tudn',
-                'category_name': 'TUDN',                      
+                'category_name': '04 TUDN',                      
                 'merge_group': 'sportio'
             },            
             't_u': {
