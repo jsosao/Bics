@@ -772,9 +772,7 @@ def main():
     multi_output_converters = {}
     standalone_converters = {}
 
-    #for converter_name, config in CONVERTERS.items():
-    for converter_name in sorted(CONVERTERS.keys()):
-        config = CONVERTERS[converter_name]
+    for converter_name, config in CONVERTERS.items():
         # Solo procesar si la URL está configurada
         if config['env_var'] not in configured_urls:
             continue
@@ -795,9 +793,7 @@ def main():
     # ========================================
     # PROCESAR GRUPOS DE FUSIÓN
     # ========================================
-    #for merge_group, converters in merge_groups.items():
-    for merge_group in sorted(merge_groups.keys()):
-        converters = merge_groups[merge_group]
+    for merge_group, converters in merge_groups.items():
         try:
             print(f"{'='*60}")
             print(f"🔗 GRUPO DE FUSIÓN: {merge_group.upper()}")
