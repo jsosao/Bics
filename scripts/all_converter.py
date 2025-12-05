@@ -7,6 +7,7 @@ import json
 import unicodedata
 from pathlib import Path
 import base64
+from collections import OrderedDict
 from datetime import datetime
 from datetime import timedelta
 
@@ -695,6 +696,7 @@ def process_m3u_content(content, config, converter_name, picons_list, output_nam
     logos_in_title = 0
     logos_fixed = 0
     invalid_count = 0
+
     
     # Determinar configuración de salida
     use_picons = config.get('use_picons', False)
@@ -808,7 +810,9 @@ def generate_output(entries, category_name=None):
 
 def generate_merged_output(entries_by_category):
     """Genera salida JSON con múltiples categorías para archivos fusionados"""
-    output = {}
+    #output = {}
+    output = OrderedDict()
+
     for category, entries in entries_by_category.items():
         output[category] = entries
     return json.dumps(output, indent=2, ensure_ascii=False, sort_keys=False)
@@ -910,8 +914,14 @@ def main():
                 
                 # Usar el nombre del conversor como categoría
                 category_name = config.get('category_name', config['artist'])
-                entries_by_category[category_name] = entries
+                #entries_by_category[category_name] = entries
                 
+                if category_name not in entries_by_category:
+                     entries_by_category[category_name] = entries
+                else:
+                        # Si ya existe, concatenar
+                    entries_by_category[category_name].extend(entries) 
+                                    
                 total_skipped += skipped
                 total_orig += orig
                 total_found += found
@@ -995,7 +1005,9 @@ def main():
                 print(f"\n  🔗 GRUPO DE FUSIÓN INTERNO: {merge_group.upper()}")
                 print(f"  {'-'*40}")
                 
-                entries_by_category = {}
+                #entries_by_category = {}
+                entries_by_category = OrderedDict()
+
                 total_entries = 0
                 
                 for output_name, output_config in outputs:
@@ -1036,6 +1048,8 @@ def main():
                 print(f"  {'-'*40}")
                 
                 outputs_generated = 0
+
+                entries_by_category = OrderedDict()
                 
                 for output_name, output_config in individual_outputs:
                     entries, skipped, orig, found, default, in_title, fixed, invalid = process_m3u_content(
