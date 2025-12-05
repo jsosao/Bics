@@ -154,10 +154,10 @@ SPORTS_TEMPLATE = {
 
 SPORTS_LIST = [
     # Formato: (nombre, category_name, fixed_logo, sources)
-    ('eventos', '01. Eventos', None, [
+    ('eventos', '02. Eventos', None, [
         ('alfa', 'URL_001', 'alfa_eventos', None, True)
     ]),
-    ('sky', '02. SKY', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_sky_sports[.]png', [
+    ('sky', '01. SKY', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_sky_sports[.]png', [
         ('alfa', 'URL_001', 'alfa_sky')
     ]),
     ('nfl', '03. NFL', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nfl_sundayticket[.]png', [
