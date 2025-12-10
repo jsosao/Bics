@@ -170,26 +170,28 @@ SPORTS_LIST = [
         ('pass', 'URL_011', 'pass_nba'),
         ('cord', 'URL_002', 'cord_nba')
     ]),
-    ('mlb', '05. MLB', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mlb[.]png', [
+    ('lmb_lmp', '05. LMB LMP', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_lmb[.]png', [
+        ('alfa', 'URL_001', 'alfa_lmb_lmp')
+    ('mlb', '06. MLB', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mlb[.]png', [
         ('alfa', 'URL_001', 'alfa_mlb'),
         ('pass', 'URL_011', 'pass_mlb'),
         ('cord', 'URL_002', 'cord_mlb')
     ]),
-    ('nhl', '06. NHL', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png', [
+    ('nhl', '07. NHL', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl[.]png', [
         ('pass', 'URL_011', 'pass_nhl'),
         ('cord', 'URL_002', 'cord_nhl')
     ]),
-    ('ncaaf', '07. NCAAF', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaaf[.]png', [
+    ('ncaaf', '08. NCAAF', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaaf[.]png', [
         ('pass', 'URL_011', 'pass_ncaaf'),
         ('cord', 'URL_002', 'cord_ncaaf')
     ]),
-    ('ncaab', '08. NCAAB', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab[.]png', [
+    ('ncaab', '09. NCAAB', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab[.]png', [
         ('cord', 'URL_002', 'cord_ncaab')
     ]),
-    ('wnba', '09. WNBA', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_wnba[.]png', [
+    ('wnba', '10. WNBA', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_wnba[.]png', [
         ('pass', 'URL_011', 'pass_wnba')
     ]),
-    ('ppv', '10. PPV', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ppv[.]png', [
+    ('ppv', '11. PPV', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ppv[.]png', [
         ('pass', 'URL_011', 'pass_ppv'),
         ('cord', 'URL_002', 'cord_ppv')
     ])
@@ -346,6 +348,7 @@ CUSTOM_FILTERS = {
     'alfa_tudn': lambda group, title: "tudn" in title.lower(),    
     'alfa_tu': lambda group, title: any(x in title.lower() for x in ["telemundo", "univision", "nbc universo", "unimas", "galavision"]),
     'alfa_sky': lambda group, title: any(x in title.lower() for x in ["cielo evento", "cielo sport"]),
+    'alfa_lmb_lmp': lambda group, title: any(x in group.lower() for x in ["lmb", "lmp"]),
     'alfa_nba': lambda group, title: any(x in group.lower() for x in ["nba"]) or any(x in title.lower() for x in ["nba tv"]),    
     'alfa_nfl': lambda group, title: any(x in group.lower() for x in ["nfl"]),    
     'alfa_mlb': lambda group, title: any(x in group.lower() for x in ["mlb"]) or any(x in title.lower() for x in ["mlb net"]),    
