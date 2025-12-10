@@ -170,7 +170,7 @@ SPORTS_LIST = [
         ('pass', 'URL_011', 'pass_nba'),
         ('cord', 'URL_002', 'cord_nba')
     ]),
-    ('lmb_lmp', '05. LMB LMP', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_lmb[.]png', [
+    ('lmb_lmp', '05. LMB LMP', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_beisbol_lmp[.]png', [
         ('alfa', 'URL_001', 'alfa_lmb_lmp')
     ]),        
     ('mlb', '06. MLB', 'https://raw.githubusercontent.com/jsosao/bics/main/picons/us_mlb[.]png', [
