@@ -271,14 +271,14 @@ CONVERTERS = {
             'tudn': {
                 'path': 'country/sports/sportio',
                 'custom_filter': 'alfa_tudn',
-                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_tudn[.]png'
+                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_tudn[.]png',
                 'category_name': '04 TUDN',                      
                 'merge_group': 'sportio'
             },  
             'bein': {
                 'path': 'country/sports/sportio',
                 'custom_filter': 'alfa_bein',
-                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_bein_sports[.]png'
+                'fixed_logo': 'https://raw.githubusercontent.com/jsosao/bics/main/picons/mx_bein_sports[.]png',
                 'category_name': '05 BEIN',                      
                 'merge_group': 'sportio'
             },              
