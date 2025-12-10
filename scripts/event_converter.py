@@ -277,7 +277,7 @@ CONVERTERS = {
             'bein': {
                 'path': 'country/sports/sportio',
                 'custom_filter': 'alfa_bein',
-                'category_name': '04 BEIN',                      
+                'category_name': '05 BEIN',                      
                 'merge_group': 'sportio'
             },              
             't_u': {
