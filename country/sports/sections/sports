@@ -10,7 +10,7 @@
       "Country": "us",
       "Tag": "futbol (eventos)",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
@@ -22,7 +22,7 @@
       "Country": "us",
       "Tag": "ppv (eventos)",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
@@ -34,175 +34,715 @@
       "Country": "us",
       "Tag": "ppv (eventos)",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
-      "Title": "LaLiga 14:00 Real Sociedad vs Girona",
+      "Title": "Copa Intercontinental 11:00 Flamengo vs Pyramids FC",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://cdn-img.zerozero.pt/img/noticias/743/imgS300I1000743T20251211170037.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24035",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Premier League 9:00 Liverpool vs Brighton & Hove Albion",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_premier_league.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24036",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Premier League 9:00 Chelsea vs Everton",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_premier_league.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24037",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Premier League 11:30 Burnley vs Fulham",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_premier_league.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24038",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Premier League 14:00 Arsenal vs Wolverhampton Wanderers",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_premier_league.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24039",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "LaLiga 7:00 Atletico Madrid vs Valencia",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/sp_la_liga.png",
-      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24006",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24040",
       "Country": "us",
       "Tag": "futbol (eventos)",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
-      "Title": "Serie A 13:45 Lecce vs Pisa",
+      "Title": "LaLiga 9:15 Mallorca vs Elche",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/sp_la_liga.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24041",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "LaLiga 11:30 Barcelona vs Osasuna",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/sp_la_liga.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24042",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "LaLiga 14:00 Getafe vs Espanyol",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/sp_la_liga.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24043",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Serie A 8:00 Torino vs Cremonese",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/it_serie_a.png",
-      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24007",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24044",
       "Country": "us",
       "Tag": "futbol (eventos)",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
-      "Title": "Bundesliga 13:30 Union Berlin vs RB Leipzig",
+      "Title": "Serie A 11:00 Parma vs Lazio",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/it_serie_a.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24045",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Serie A 13:45 Atalanta vs Cagliari",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/it_serie_a.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24046",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Bundesliga 8:30 Eintracht Frankfurt vs Augsburg",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/de_bundesliga.png",
-      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24008",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24047",
       "Country": "us",
       "Tag": "futbol (eventos)",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
-      "Title": "Championship 14:00 West Bromwich Albion vs Sheffield United",
+      "Title": "Bundesliga 8:30 St  Pauli vs Heidenheim",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/de_bundesliga.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24048",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Bundesliga 8:30 Borussia Mgladbach vs Wolfsburg",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/de_bundesliga.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24049",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Bundesliga 8:30 Hoffenheim vs Hamburger SV",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/de_bundesliga.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24050",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Bundesliga 11:30 Bayer Leverkusen vs Koln",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/de_bundesliga.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24051",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Ligue 1 10:00 Rennes vs Brest",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/fr_ligue_1.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24052",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Ligue 1 12:00 Metz vs PSG",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/fr_ligue_1.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24053",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Ligue 1 14:05 Paris vs Toulouse",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/fr_ligue_1.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24054",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Portugal 9:30 Casa Pia vs Gil Vicente",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/pt_primera_division.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24055",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Portugal 14:30 Sporting CP vs AVS",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/pt_primera_division.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24056",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Argentina 18:00 Racing Club vs Estudiantes",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/ar_primera_nacional.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24057",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Championship 6:30 Norwich City vs Southampton",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_championship_epl.png",
-      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24011",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24058",
       "Country": "us",
       "Tag": "futbol (eventos)",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
-      "Title": "Major Arena Soccer League 19:00 Kansas City Comets vs Milwaukee Wave",
+      "Title": "Championship 6:30 Stoke City vs Swansea City",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_championship_epl.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24059",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Championship 9:00 Leicester City vs Ipswich Town",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_championship_epl.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24060",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Championship 9:00 Wrexham vs Watford",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_championship_epl.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24061",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Championship 9:00 Middlesbrough vs Queens Park Rangers",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_championship_epl.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24062",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Championship 9:00 Coventry City vs Bristol City",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uk_championship_epl.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24063",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Womens Super League 6:00 Everton vs Arsenal",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2314.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24064",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Serie A femenina 8:00 Milan vs Inter Milano",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/it_serie_a.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24065",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Serie A femenina 11:00 Ternana vs Roma",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/it_serie_a.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24066",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Eredivisie 9:30 Telstar vs NEC",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/nl_eredivise.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24067",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Eredivisie 13:00 PSV vs Heracles",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/nl_eredivise.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24068",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "LaLiga SmartBank 7:00 Cordoba vs Eibar",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/sp_la_liga_smartbank.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24069",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "LaLiga SmartBank 9:15 Sporting Gijon vs Granada",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/sp_la_liga_smartbank.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24070",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "LaLiga SmartBank 11:30 Racing Santander vs Leganes",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/sp_la_liga_smartbank.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24071",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "LaLiga SmartBank 14:00 Real Zaragoza vs Cadiz",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/sp_la_liga_smartbank.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24072",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Turquia 11:00 Antalyaspor vs Galatasaray",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/2160px-S%C3%BCper_Lig_logo.svg_logo.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24073",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Major Arena Soccer League 20:00 Tacoma Stars vs Baltimore Blast",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://images.seeklogo.com/logo-png/42/1/2021-major-arena-soccer-league-logo-png_seeklogo-425238.png",
-      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24013",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24074",
       "Country": "us",
       "Tag": "futbol (eventos)",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
-      "Title": "Major Arena Soccer League 21:20 Empire Strykers vs San Diego Sockers",
+      "Title": "USL Super League 13:00 Lexington vs DC Power",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://images.seeklogo.com/logo-png/42/1/2021-major-arena-soccer-league-logo-png_seeklogo-425238.png",
-      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24014",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/USL_Super_League_logo.png/1200px-USL_Super_League_logo.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24075",
       "Country": "us",
       "Tag": "futbol (eventos)",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
-      "Title": "Australia Women 21:00 Newcastle Jets vs Brisbane Roar",
+      "Title": "USL Super League 14:30 Dallas Trinity vs Carolina Ascent",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/USL_Super_League_logo.png/1200px-USL_Super_League_logo.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24076",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "USL Super League 16:00 Sporting JAX vs Fort Lauderdale United",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/USL_Super_League_logo.png/1200px-USL_Super_League_logo.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24077",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "USL Super League 18:30 Tampa Bay Sun vs Brooklyn",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/USL_Super_League_logo.png/1200px-USL_Super_League_logo.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24078",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Australia 20:00 Wellington Phoenix vs Newcastle Jets",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://1000logos.net/wp-content/uploads/2019/01/A-League-Logo-2017.png",
-      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24015",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24079",
       "Country": "us",
       "Tag": "futbol (eventos)",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
-      "Title": "Australia Women 23:50 Melbourne Victory vs Adelaide United",
+      "Title": "Costa Rica 20:00 Alajuelense vs Municipal Liberia",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://1000logos.net/wp-content/uploads/2019/01/A-League-Logo-2017.png",
-      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24016",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/cr_promerica.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24080",
       "Country": "us",
       "Tag": "futbol (eventos)",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
-      "Title": "Bundesliga 11:30 Greuther Furth vs Hertha BSC",
+      "Title": "Ecuador 14:30 Delfin vs Aucas",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/ec_liga_pro.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24081",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Ecuador 14:30 Macara vs Deportivo Cuenca",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/ec_liga_pro.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24082",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "El Salvador 18:00 Alianza vs Cacahuatique",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/sv_primera_division.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24083",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Bundesliga 6:00 Arminia Bielefeld vs Kaiserslautern",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/de_bundesliga.png",
-      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24017",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24084",
       "Country": "us",
       "Tag": "futbol (eventos)",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
-      "Title": "Bundesliga 11:30 Dynamo Dresden vs Eintracht Braunschweig",
+      "Title": "Bundesliga 6:00 Karlsruher SC vs Paderborn",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/de_bundesliga.png",
-      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24018",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24085",
       "Country": "us",
       "Tag": "futbol (eventos)",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
-      "Title": "Serie B 13:30 Palermo vs Sampdoria",
+      "Title": "Bundesliga 6:00 Magdeburg vs Holstein Kiel",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/de_bundesliga.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24086",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Bundesliga 13:30 Hannover 96 vs Bochum",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/de_bundesliga.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24087",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Honduras 19:00 Motagua vs Real Espana",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/hn_primera_division.png",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24088",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Serie B 8:00 Venezia vs Monza",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://upload.wikimedia.org/wikipedia/it/7/75/Logo_Serie_B_2014.png",
-      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24019",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24089",
       "Country": "us",
       "Tag": "futbol (eventos)",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
-      "Title": "BOX  06:00 Pulev vs  Gassiev",
+      "Title": "Messi Cup 09:15 Newells Old Boys vs Inter Milan",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://i.ytimg.com/vi/ftPMltaQMZY/hqdefault.jpg",
-      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24032",
+      "Logo": "https://i.etsystatic.com/48875513/r/il/8fa99b/6708945125/il_300x300.6708945125_euai.jpg",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24090",
       "Country": "us",
-      "Tag": "ppv (eventos)",
+      "Tag": "futbol (eventos)",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
-      "Title": "BOX  18:00 Erik Miloc vs  Nahuel Gonzalo Garcia",
+      "Title": "Messi Cup 11:25 Inter Miami CF vs FC Barcelona",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/uel_champions.png",
-      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24033",
+      "Logo": "https://i.etsystatic.com/48875513/r/il/8fa99b/6708945125/il_300x300.6708945125_euai.jpg",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24091",
       "Country": "us",
-      "Tag": "ppv (eventos)",
+      "Tag": "futbol (eventos)",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
-      "Title": "Premier Padel  06:00 Barcelona Finals Centre Court Cuartos de Final",
+      "Title": "Messi Cup 11:15 Chelsea FC vs River Plate",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://d1f00kj7ad54bu.cloudfront.net/Pictures/2000xAny/1/4/4/14144_premierpadel2_680106.png",
-      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24034",
+      "Logo": "https://i.etsystatic.com/48875513/r/il/8fa99b/6708945125/il_300x300.6708945125_euai.jpg",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24092",
       "Country": "us",
-      "Tag": "ppv (eventos)",
+      "Tag": "futbol (eventos)",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
+    },
+    {
+      "Artist": "Alfa",
+      "Title": "Messi Cup 13:25 Manchester City FC vs Atletico de Madrid",
+      "streamFormat": "hls|mts",
+      "SwitchingStrategy": "full-adaptation",
+      "Logo": "https://i.etsystatic.com/48875513/r/il/8fa99b/6708945125/il_300x300.6708945125_euai.jpg",
+      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24093",
+      "Country": "us",
+      "Tag": "futbol (eventos)",
+      "Live": true,
+      "Date": "13-12-2025 06:16:11"
     }
   ],
   "01. SKY": [
@@ -216,7 +756,7 @@
       "Country": "us",
       "Tag": ".deportes mx",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
@@ -228,7 +768,7 @@
       "Country": "us",
       "Tag": ".deportes mx",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
@@ -240,7 +780,7 @@
       "Country": "us",
       "Tag": ".deportes mx",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
@@ -252,7 +792,7 @@
       "Country": "us",
       "Tag": ".deportes mx",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
@@ -264,7 +804,7 @@
       "Country": "us",
       "Tag": ".deportes mx",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
@@ -276,7 +816,7 @@
       "Country": "us",
       "Tag": ".deportes mx",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
@@ -288,7 +828,7 @@
       "Country": "us",
       "Tag": ".deportes mx",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
@@ -300,7 +840,7 @@
       "Country": "us",
       "Tag": ".deportes mx",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
@@ -312,7 +852,7 @@
       "Country": "us",
       "Tag": ".deportes mx",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
@@ -324,7 +864,7 @@
       "Country": "us",
       "Tag": ".deportes mx",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
@@ -336,7 +876,7 @@
       "Country": "us",
       "Tag": ".deportes mx",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
@@ -348,7 +888,7 @@
       "Country": "us",
       "Tag": ".deportes mx",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     }
   ],
   "03. NFL": [
@@ -362,7 +902,7 @@
       "Country": "us",
       "Tag": "live",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Pass",
@@ -374,7 +914,7 @@
       "Country": "us",
       "Tag": "live",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -386,7 +926,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -398,7 +938,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -410,7 +950,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -422,7 +962,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -434,7 +974,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -446,7 +986,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -458,7 +998,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -470,7 +1010,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -482,7 +1022,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -494,7 +1034,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -506,7 +1046,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -518,7 +1058,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -530,7 +1070,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -542,7 +1082,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -554,7 +1094,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -566,7 +1106,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -578,7 +1118,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -590,7 +1130,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -602,7 +1142,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -614,7 +1154,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -626,7 +1166,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -638,7 +1178,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -650,7 +1190,7 @@
       "Country": "us",
       "Tag": "nfl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     }
   ],
   "04. NBA": [
@@ -664,91 +1204,7 @@
       "Country": "us",
       "Tag": ".deportes mx",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Alfa",
-      "Title": "NBA 01  Dec122025 6:00PM  Chicago Bulls at Charlotte Hornets",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png",
-      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24020",
-      "Country": "us",
-      "Tag": "nba (eventos)",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Alfa",
-      "Title": "NBA 02  Dec122025 6:00PM  Atlanta Hawks at Detroit Pistons",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png",
-      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24021",
-      "Country": "us",
-      "Tag": "nba (eventos)",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Alfa",
-      "Title": "NBA 03  Dec122025 6:00PM  Indiana Pacers at Philadelphia 76ers",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png",
-      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24022",
-      "Country": "us",
-      "Tag": "nba (eventos)",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Alfa",
-      "Title": "NBA 04  Dec122025 6:00PM  Cleveland Cavaliers at Washington Wizards",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png",
-      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24023",
-      "Country": "us",
-      "Tag": "nba (eventos)",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Alfa",
-      "Title": "NBA 05  Dec122025 7:00PM  Utah Jazz at Memphis Grizzlies",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png",
-      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24024",
-      "Country": "us",
-      "Tag": "nba (eventos)",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Alfa",
-      "Title": "NBA 06  Dec122025 7:30PM  Brooklyn Nets at Dallas Mavericks",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png",
-      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24025",
-      "Country": "us",
-      "Tag": "nba (eventos)",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Alfa",
-      "Title": "NBA 21:00 Golden State Warriors vs Minnesota Timberwolves",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png",
-      "Stream": "http[:[[/]][[/]]]alfa[.]7057460[.]xyz:2095[/]gerardoband[/]849297r7e[/]24026",
-      "Country": "us",
-      "Tag": "nba (eventos)",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Pass",
@@ -760,7 +1216,7 @@
       "Country": "us",
       "Tag": "nba",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Pass",
@@ -772,7 +1228,7 @@
       "Country": "us",
       "Tag": "nba",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Pass",
@@ -784,7 +1240,7 @@
       "Country": "us",
       "Tag": "nba",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Pass",
@@ -796,7 +1252,7 @@
       "Country": "us",
       "Tag": "nba",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Pass",
@@ -808,7 +1264,7 @@
       "Country": "us",
       "Tag": "nba",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Pass",
@@ -820,7 +1276,7 @@
       "Country": "us",
       "Tag": "nba",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Pass",
@@ -832,7 +1288,7 @@
       "Country": "us",
       "Tag": "nba",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -844,7 +1300,7 @@
       "Country": "us",
       "Tag": "nba",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -856,151 +1312,91 @@
       "Country": "us",
       "Tag": "nba",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "NBA 01: Boston Celtics @ Milwaukee Bucks  Away Stream  12/11/2025 8:00 PM ET",
+      "Title": "USA Real NBA 01: ATL Hawks VS DET Pistons  NBA TV Feed  @ 7:00 PM",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257172",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257226",
       "Country": "us",
       "Tag": "nba",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "USA Real NBA 01: LA Clippers vs Houston Rockets @ 08:00 PM EST",
+      "Title": "USA Real NBA 02: MIN Timberwolves VS GSW Warriors  NBA TV Feed  @ 10:00 PM",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257173",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257227",
       "Country": "us",
       "Tag": "nba",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "NBA 02: Boston Celtics @ Milwaukee Bucks  Home Stream  12/11/2025 8:00 PM ET",
+      "Title": "USA Real NBA 03: Chicago Bulls vs Charlotte Hornets @ 07:00 PM EST",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257174",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257228",
       "Country": "us",
       "Tag": "nba",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "USA Real NBA 02: Boston Celtics vs Milwaukee Bucks @ 08:00 PM EST",
+      "Title": "USA Real NBA 04: Indiana Pacers vs Philadelphia 76ers @ 07:00 PM EST",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257175",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257229",
       "Country": "us",
       "Tag": "nba",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "NBA 03: Portland Trail Blazers @ New Orleans Pelicans  Away Stream  12/11/2025 8:00 PM ET",
+      "Title": "USA Real NBA 05: Cleveland Cavaliers vs Washington Wizards @ 07:00 PM EST",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257176",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257230",
       "Country": "us",
       "Tag": "nba",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "USA Real NBA 03: Portland Trail Blazers vs New Orleans Pelicans @ 08:00 PM EST",
+      "Title": "USA Real NBA 06: Utah Jazz vs Memphis Grizzlies @ 08:00 PM EST",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257177",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257231",
       "Country": "us",
       "Tag": "nba",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "NBA 04: Portland Trail Blazers @ New Orleans Pelicans  Home Stream  12/11/2025 8:00 PM ET",
+      "Title": "USA Real NBA 07: Brooklyn Nets vs Dallas Mavericks @ 08:30 PM EST",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257178",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257232",
       "Country": "us",
       "Tag": "nba",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "USA Real NBA 04: Denver Nuggets vs Sacramento Kings @ 10:00 PM EST",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257179",
-      "Country": "us",
-      "Tag": "nba",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NBA 05: Denver Nuggets @ Sacramento Kings  Home Stream  12/11/2025 10:00 PM ET",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257180",
-      "Country": "us",
-      "Tag": "nba",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NBA 06: Denver Nuggets @ Sacramento Kings  Away Stream  12/11/2025 10:00 PM ET",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257181",
-      "Country": "us",
-      "Tag": "nba",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NBA 07: LA Clippers @ Houston Rockets  Home Stream  12/11/2025 8:00 PM ET",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257182",
-      "Country": "us",
-      "Tag": "nba",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NBA 08: LA Clippers @ Houston Rockets  Away Stream  12/11/2025 8:00 PM ET",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nba.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257183",
-      "Country": "us",
-      "Tag": "nba",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     }
   ],
   "05. LMB LMP": [
@@ -1014,7 +1410,7 @@
       "Country": "us",
       "Tag": "lmb y lmp (eventos)",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
@@ -1026,7 +1422,7 @@
       "Country": "us",
       "Tag": "lmb y lmp (eventos)",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
@@ -1038,7 +1434,7 @@
       "Country": "us",
       "Tag": "lmb y lmp (eventos)",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
@@ -1050,7 +1446,7 @@
       "Country": "us",
       "Tag": "lmb y lmp (eventos)",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
@@ -1062,7 +1458,7 @@
       "Country": "us",
       "Tag": "lmb y lmp (eventos)",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     }
   ],
   "06. MLB": [
@@ -1076,7 +1472,7 @@
       "Country": "us",
       "Tag": ".deportes mx",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Alfa",
@@ -1088,7 +1484,7 @@
       "Country": "us",
       "Tag": ".deportes",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Pass",
@@ -1100,7 +1496,7 @@
       "Country": "us",
       "Tag": "live",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -1112,7 +1508,7 @@
       "Country": "us",
       "Tag": "mlb",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -1124,7 +1520,7 @@
       "Country": "us",
       "Tag": "mlb",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     }
   ],
   "07. NHL": [
@@ -1138,7 +1534,7 @@
       "Country": "us",
       "Tag": "live",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Pass",
@@ -1150,7 +1546,7 @@
       "Country": "us",
       "Tag": "nhl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Pass",
@@ -1162,7 +1558,7 @@
       "Country": "us",
       "Tag": "nhl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
@@ -1174,514 +1570,274 @@
       "Country": "us",
       "Tag": "nhl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "USA Real NHL 01: SJS VS TOR NBCSCA Feed  @ 7:00 pm",
+      "Title": "USA Real NHL 01: CHI VS STL SN Feed  @ 8:00 pm",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257184",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257233",
       "Country": "us",
       "Tag": "nhl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "USA Real NHL 02: TBL VS NJD MSG Feed  @ 7:00 pm",
+      "Title": "USA Real NHL 02: CHI VS STL TVAS Feed  @ 8:00 pm",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257185",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257234",
       "Country": "us",
       "Tag": "nhl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "USA Real NHL 03: VGK VS PHI SN Feed  @ 7:00 pm",
+      "Title": "USA Real NHL 03: Seattle Kraken  vs  Utah Mammoth @ 09:00 PM",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257186",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257235",
       "Country": "us",
       "Tag": "nhl",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "USA Real NHL 04: MTL VS PIT RDS Feed  @ 7:00 pm",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257187",
-      "Country": "us",
-      "Tag": "nhl",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "USA Real NHL 05: BOS VS WPG NESN Feed  @ 8:00 pm",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257188",
-      "Country": "us",
-      "Tag": "nhl",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "USA Real NHL 06: DET VS EDM SNW Feed  @ 9:00 pm",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257189",
-      "Country": "us",
-      "Tag": "nhl",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "USA Real NHL 07: FLA VS COL SNE Feed  @ 9:30 pm",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257190",
-      "Country": "us",
-      "Tag": "nhl",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "USA Real NHL 08: FLA VS COL TVAS Feed  @ 9:30 pm",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257191",
-      "Country": "us",
-      "Tag": "nhl",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "USA Real NHL 09: Anaheim Ducks vs New York Islanders @ 07:00 PM EST",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257192",
-      "Country": "us",
-      "Tag": "nhl",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "USA Real NHL 10: Carolina Hurricanes vs Washington Capitals @ 07:00 PM EST",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257193",
-      "Country": "us",
-      "Tag": "nhl",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "USA Real NHL 11: Ottawa Senators vs Columbus Blue Jackets @ 07:00 PM EST",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257194",
-      "Country": "us",
-      "Tag": "nhl",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "USA Real NHL 12: St  Louis Blues vs Nashville Predators @ 08:00 PM EST",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257195",
-      "Country": "us",
-      "Tag": "nhl",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "USA Real NHL 13: Dallas Stars vs Minnesota Wild  @ 08:00 PM EST",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257196",
-      "Country": "us",
-      "Tag": "nhl",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "USA Real NHL 14: Buffalo Sabres vs Vancouver Canucks @ 10:00 PM EST",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_nhl.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257197",
-      "Country": "us",
-      "Tag": "nhl",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     }
   ],
   "08. NCAAF": [],
   "09. NCAAB": [
     {
       "Artist": "Cord",
-      "Title": "NCAAB 001  DILLARD @ NORFOLK STATE W  12 11 11:00 AM  ESPN",
+      "Title": "NCAAB 001  COASTAL GEORGIA @ GEORGIA SOUTHERN W  12 12 11:00 AM  ESPN",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257198",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257236",
       "Country": "us",
       "Tag": "ncaab",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "NCAAB 002  LIPSCOMB @ PURDUE W  12 11 11:00 AM  B1G",
+      "Title": "NCAAB 002  FLORIDA GULF COAST @ FLORIDA ATLANTIC W  12 12 11:00 AM  ESPN",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257199",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257237",
       "Country": "us",
       "Tag": "ncaab",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "NCAAB 003  ST  MARYS TX @ INCARNATE WORD W  12 11 2:00 PM  ESPN",
+      "Title": "NCAAB 003  UT ARLINGTON @ RICE W  12 12 12:15 PM  ESPN",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257200",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257238",
       "Country": "us",
       "Tag": "ncaab",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "NCAAB 004  DARTMOUTH @ NJIT W  12 11 6:00 PM  ESPN",
+      "Title": "NCAAB 004  ARMY @ UMBC M  12 12 6:00 PM  ESPN",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257201",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257239",
       "Country": "us",
       "Tag": "ncaab",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "NCAAB 005  DAVIS & ELKINS @ MARSHALL W  12 11 6:00 PM  ESPN",
+      "Title": "NCAAB 005  EAST TEXAS A&M @ MCNEESE W  12 12 6:00 PM  ESPN",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257202",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257240",
       "Country": "us",
       "Tag": "ncaab",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "NCAAB 006  GREEN BAY @ IU INDIANAPOLIS M  12 11 6:30 PM  ESPN",
+      "Title": "NCAAB 006  WRIGHT STATE @ CANISIUS W  12 12 6:30 PM  ESPN",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257203",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257241",
       "Country": "us",
       "Tag": "ncaab",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "NCAAB 007  NORTHERN KENTUCKY @ 21 OHIO STATE W  12 11 6:30 PM  B1G",
+      "Title": "NCAAB 007  BREVARD @ GARDNERWEBB M  12 12 7:00 PM  ESPN",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257204",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257242",
       "Country": "us",
       "Tag": "ncaab",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "NCAAB 008  APP STATE @ EAST CAROLINA M  12 11 7:00 PM  ESPN",
+      "Title": "NCAAB 008  MAINE @ FAIRFIELD W  12 12 7:00 PM  ESPN",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257205",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257243",
       "Country": "us",
       "Tag": "ncaab",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "NCAAB 009  CHATTANOOGA @ TENNESSEE STATE W  12 11 7:00 PM  ESPN",
+      "Title": "NCAAB 009  MISSOURI STATE @ XAVIER M  12 12 7:00 PM  TRUTV",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257206",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257244",
       "Country": "us",
       "Tag": "ncaab",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "NCAAB 010  COASTAL GEORGIA @ GEORGIA SOUTHERN M  12 11 7:00 PM  ESPN",
+      "Title": "NCAAB 010  SE LOUISIANA @ HOUSTON CHRISTIAN W  12 12 7:00 PM  ESPN",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257207",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257245",
       "Country": "us",
       "Tag": "ncaab",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "NCAAB 011  GEORGIA TECH @ WEST VIRGINIA W  12 11 7:00 PM  ESPN",
+      "Title": "NCAAB 011  SIU EDWARDSVILLE @ VALPARAISO W  12 12 7:00 PM  ESPN",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257208",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257246",
       "Country": "us",
       "Tag": "ncaab",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "NCAAB 012  INDIANA STATE @ BUTLER W  12 11 7:00 PM  ESPN",
+      "Title": "NCAAB 012  SOUTH CAROLINA STATE @ QUEENS UNIVERSITY M  12 12 7:00 PM  ESPN",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257209",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257247",
       "Country": "us",
       "Tag": "ncaab",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "NCAAB 013  LITTLE ROCK @ 9 OKLAHOMA W  12 11 7:00 PM  SECN",
+      "Title": "NCAAB 013  WILLIAM PEACE @ UNC GREENSBORO M  12 12 7:00 PM  ESPN",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257210",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257248",
       "Country": "us",
       "Tag": "ncaab",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "NCAAB 014  MOREHEAD STATE @ 19 NOTRE DAME W  12 11 7:00 PM  ACC EXTRA",
+      "Title": "NCAAB 014  DALLAS CHRISTIAN @ TEXAS A&MCORPUS CHRISTI M  12 12 8:00 PM  ESPN",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257211",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257249",
       "Country": "us",
       "Tag": "ncaab",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "NCAAB 015  NORTH DAKOTA STATE @ EASTERN ILLINOIS W  12 11 7:00 PM  ESPN",
+      "Title": "NCAAB 015  EAST TENNESSEE STATE @ AUSTIN PEAY M  12 12 8:00 PM  ESPN",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257212",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257250",
       "Country": "us",
       "Tag": "ncaab",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "NCAAB 016  TRINITY COLLEGE OF JACKSONVILLE @ JACKSONVILLE M  12 11 7:00 PM  ESPN",
+      "Title": "NCAAB 016  TEXAS @ 5 UCONN M  12 12 8:00 PM  FOX",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257213",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257251",
       "Country": "us",
       "Tag": "ncaab",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "NCAAB 017  UL MONROE @ INDIANA W  12 11 7:00 PM  B1G",
+      "Title": "NCAAB 017  EAST TEXAS A&M @ MCNEESE M  12 12 8:30 PM  ESPN",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257214",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257252",
       "Country": "us",
       "Tag": "ncaab",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "NCAAB 018  UMASS LOWELL @ DEPAUL W  12 11 7:00 PM  ESPN",
+      "Title": "NCAAB 018  CALIFORNIA BAPTIST @ EASTERN WASHINGTON M  12 12 9:00 PM  ESPN",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257215",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257253",
       "Country": "us",
       "Tag": "ncaab",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     },
     {
       "Artist": "Cord",
-      "Title": "NCAAB 019  UNC ASHEVILLE @ EAST TENNESSEE STATE W  12 11 7:00 PM  ESPN",
+      "Title": "NCAAB 019  TEXAS TECH @ WASHINGTON STATE W  12 12 9:00 PM  ESPN",
       "streamFormat": "hls|mts",
       "SwitchingStrategy": "full-adaptation",
       "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257216",
+      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257254",
       "Country": "us",
       "Tag": "ncaab",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NCAAB 020  WESTERN CAROLINA @ VIRGINIA TECH M  12 11 7:00 PM  ACC EXTRA",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257217",
-      "Country": "us",
-      "Tag": "ncaab",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NCAAB 021  UT ARLINGTON @ UT RIO GRANDE VALLEY M  12 11 7:30 PM  ESPN",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257218",
-      "Country": "us",
-      "Tag": "ncaab",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NCAAB 022  ALABAMA STATE @ MISSOURI M  12 11 8:00 PM  SECN",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257219",
-      "Country": "us",
-      "Tag": "ncaab",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NCAAB 023  IOWA @ 4 IOWA STATE M  12 11 8:00 PM  FS1",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257220",
-      "Country": "us",
-      "Tag": "ncaab",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NCAAB 024  IDAHO STATE @ BYU W  12 11 9:00 PM  ESPN",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257221",
-      "Country": "us",
-      "Tag": "ncaab",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NCAAB 025  PORTLAND @ LONG BEACH STATE W  12 11 9:00 PM  ESPN",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257222",
-      "Country": "us",
-      "Tag": "ncaab",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NCAAB 026  SAINT JOSEPHS @ SYRACUSE M  12 11 9:00 PM  ACC NETWORK",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257223",
-      "Country": "us",
-      "Tag": "ncaab",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NCAAB 027  NORTH DAKOTA STATE @ CAL STATE BAKERSFIELD M  12 11 9:30 PM  ESPN",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257224",
-      "Country": "us",
-      "Tag": "ncaab",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
-    },
-    {
-      "Artist": "Cord",
-      "Title": "NCAAB 028  HAWAII HILO @ HAWAII W  12 11 11:59 PM  ESPN",
-      "streamFormat": "hls|mts",
-      "SwitchingStrategy": "full-adaptation",
-      "Logo": "https://raw.githubusercontent.com/jsosao/bics/main/picons/us_ncaab.png",
-      "Stream": "http[:[[/]][[/]]]cord-cutter[.]net:8080[/]134152079[/]134152079[/]257225",
-      "Country": "us",
-      "Tag": "ncaab",
-      "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     }
   ],
   "10. WNBA": [],
@@ -1696,7 +1852,7 @@
       "Country": "us",
       "Tag": "ppv | ufc",
       "Live": true,
-      "Date": "12-12-2025 14:10:57"
+      "Date": "13-12-2025 06:16:11"
     }
   ]
 }
